@@ -1,0 +1,399 @@
+{
+  "author_sources": [
+    {"author": "Layamon", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Orm", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Robert Mannyng", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Dan Michel of Northgate", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Trevisa", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Richard Rolle", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Walter Hilton", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Julian of Norwich", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Margery Kempe", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Nicholas Love", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Wyclif", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Reginald Pecock", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Gower", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Geoffrey Chaucer", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition", "Oxford Dictionary of National Biography"]},
+    {"author": "William Langland", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Lydgate", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Thomas Hoccleve", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Thomas Usk", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Clanvowe", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Thomas Malory", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "William Caxton", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Thomas Chestre", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Barbour", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Blind Hary", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Robert Henryson", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "William Dunbar", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "James I of Scotland", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Richard Holland", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Mirk", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Osbern Bokenham", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "John Capgrave", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Geoffrey of Monmouth", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume II: 1042–1189"]},
+    {"author": "William of Malmesbury", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume II: 1042–1189"]},
+    {"author": "Henry of Huntingdon", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume II: 1042–1189"]},
+    {"author": "Gerald of Wales", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume III: 1189–1327"]},
+    {"author": "Walter Map", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume II: 1042–1189"]},
+    {"author": "John of Salisbury", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume II: 1042–1189"]},
+    {"author": "Matthew Paris", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume III: 1189–1327"]},
+    {"author": "Richard de Bury", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]},
+    {"author": "Roger Bacon", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume III: 1189–1327"]},
+    {"author": "John Duns Scotus", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume III: 1189–1327"]},
+    {"author": "William of Ockham", "sources": ["The Cambridge History of Medieval English Literature", "Oxford Dictionary of National Biography", "English Historical Documents, Volume III: 1189–1327"]},
+    {"author": "Ranulf Higden", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500", "Oxford Dictionary of National Biography"]}
+  ],
+  "work_sources": [
+    {"work": "The Owl and the Nightingale", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Sir Orfeo", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "The Cloud of Unknowing", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Sir Gawain and the Green Knight", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Pearl", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Patience", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Cleanness", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "St Erkenwald", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Piers Plowman", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Winner and Waster", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "The Parliament of the Three Ages", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Alliterative Morte Arthure", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "The Harley Lyrics", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "The Middle English Lyric", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "Middle English Religious Lyrics", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "York Play", "sources": ["The Cambridge History of Medieval English Literature", "A Book of Middle English, 4th edition"]},
+    {"work": "The Canterbury Tales", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "Troilus and Criseyde", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "The Book of the Duchess", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "The House of Fame", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "The Parliament of Fowls", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "The Legend of Good Women", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "Treatise on the Astrolabe", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "Boece", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "The Romaunt of the Rose", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "Chaucer's Short Poems", "sources": ["The Cambridge History of Medieval English Literature", "The Riverside Chaucer, 3rd edition"]},
+    {"work": "King Horn", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Havelok the Dane", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Floris and Blancheflour", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Amis and Amiloun", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Bevis of Hampton", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Guy of Warwick", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Sir Launfal", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Ywain and Gawain", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "The Wedding of Sir Gawain and Dame Ragnelle", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Sir Degaré", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Emaré", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Athelston", "sources": ["The Cambridge History of Medieval English Literature", "TEAMS Middle English Texts Series"]},
+    {"work": "Historia Regum Britanniae", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume II: 1042–1189"]},
+    {"work": "Gesta Regum Anglorum", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume II: 1042–1189"]},
+    {"work": "Historia Anglorum", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume II: 1042–1189"]},
+    {"work": "Policraticus", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume II: 1042–1189"]},
+    {"work": "De Nugis Curialium", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume II: 1042–1189"]},
+    {"work": "Itinerarium Cambriae", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume III: 1189–1327"]},
+    {"work": "Expugnatio Hibernica", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume III: 1189–1327"]},
+    {"work": "Chronica Majora", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume III: 1189–1327"]},
+    {"work": "Opus Maius", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume III: 1189–1327"]},
+    {"work": "Ordinatio", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume III: 1189–1327"]},
+    {"work": "Summa Logicae", "sources": ["The Cambridge History of Medieval English Literature", "English Historical Documents, Volume III: 1189–1327"]},
+    {"work": "Layamon's Brut", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Ormulum", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Poema Morale", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Bestiary", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Ancrene Wisse", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Katherine Group", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Hali Meiðhad", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Sawles Warde", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Wooing of Our Lord", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Proverbs of Alfred", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Land of Cokaygne", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Fox and the Wolf", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Dame Sirith", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The South English Legendary", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Cursor Mundi", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Handlyng Synne", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Robert Mannyng's Chronicle", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Ayenbite of Inwyt", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Lancelot of the Laik", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Destruction of Troy", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Piers the Plowman's Creed", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Awntyrs off Arthure", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Siege of Jerusalem", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Buke of the Howlat", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Confessio Amantis", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Vox Clamantis", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Testament of Love", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Two Ways", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Regiment of Princes", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Series", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Troy Book", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Siege of Thebes", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Fall of Princes", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Temple of Glas", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Le Morte Darthur", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Recuyell of the Historyes of Troye", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Golden Legend", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Reynard the Fox", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Incendium Amoris", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Ego Dormio", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Form of Living", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Scale of Perfection", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Epistle on the Mixed Life", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Revelations of Divine Love", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Mirror of the Blessed Life of Jesus Christ", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Prick of Conscience", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Dives and Pauper", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Festial", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Legends of Holy Women", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Life of St Katharine", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Book of Margery Kempe", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Wycliffite Bible", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Twelve Conclusions of the Lollards", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "De Civili Dominio", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Repressor of Over Much Blaming of the Clergy", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Book of Faith", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Polychronicon (Trevisa's translation)", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "On the Properties of Things", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Brut Chronicle", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Mandeville's Travels", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Paston Letters", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Cely Letters", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Book of St Albans", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Forme of Cury", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Babees Book", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Towneley Plays", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "N-Town Plays", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Chester Mystery Plays", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Castle of Perseverance", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Mankind", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Wisdom", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Everyman", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Croxton Play of the Sacrament", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Digby Mary Magdalene", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Brus", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Wallace", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Kingis Quair", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Morall Fabillis of Esope the Phrygian", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Testament of Cresseid", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Orpheus and Eurydice", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "The Tretis of the Tua Mariit Wemen and the Wedo", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Lament for the Makaris", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"work": "Philobiblon", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]}
+  ],
+  "movement_sources": [
+    {"movement": "The Twelfth-Century Renaissance", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "The AB Language Group (West Midlands Devotional Prose)", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "The Alliterative Revival", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "Ricardian Poetry", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "Lollardy", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "The English Mystics", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "Fifteenth-Century Chaucerians", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "The Scottish Makars", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]},
+    {"movement": "Vernacular Religious Drama", "sources": ["The Cambridge History of Medieval English Literature", "The Cambridge Companion to Medieval English Literature 1100–1500"]}
+  ],
+  "work_editions": [
+    {"work": "The Canterbury Tales", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition; the standard collected edition of Chaucer's works."}
+    ]},
+    {"work": "Troilus and Criseyde", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."},
+      {"edition_title": "Troilus and Criseyde: A New Edition of 'The Book of Troilus'", "editor": "B. A. Windeatt (ed.)", "publisher": "Longman", "publication_year": 1984, "edition_notes": "Standard scholarly edition with full apparatus."}
+    ]},
+    {"work": "The Book of the Duchess", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."}
+    ]},
+    {"work": "The House of Fame", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."}
+    ]},
+    {"work": "The Parliament of Fowls", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."}
+    ]},
+    {"work": "The Legend of Good Women", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."}
+    ]},
+    {"work": "Boece", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."}
+    ]},
+    {"work": "The Romaunt of the Rose", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."}
+    ]},
+    {"work": "Chaucer's Short Poems", "editions": [
+      {"edition_title": "The Riverside Chaucer", "editor": "Larry D. Benson (gen. ed.)", "publisher": "Houghton Mifflin", "publication_year": 1987, "edition_notes": "3rd edition."}
+    ]},
+    {"work": "Treatise on the Astrolabe", "editions": [
+      {"edition_title": "A Treatise on the Astrolabe (A Variorum Edition of the Works of Geoffrey Chaucer, vol. VI)", "editor": "Sigmund Eisner (ed.)", "publisher": "University of Oklahoma Press", "publication_year": 2002, "edition_notes": "Variorum edition."}
+    ]},
+    {"work": "Sir Gawain and the Green Knight", "editions": [
+      {"edition_title": "Sir Gawain and the Green Knight", "editor": "J. R. R. Tolkien and E. V. Gordon (eds.); rev. Norman Davis", "publisher": "Clarendon Press", "publication_year": 1967, "edition_notes": "2nd edition; the standard scholarly edition."}
+    ]},
+    {"work": "Pearl", "editions": [
+      {"edition_title": "Pearl", "editor": "E. V. Gordon (ed.)", "publisher": "Clarendon Press", "publication_year": 1953, "edition_notes": "Standard edition."}
+    ]},
+    {"work": "Patience", "editions": [
+      {"edition_title": "Patience", "editor": "J. J. Anderson (ed.)", "publisher": "Manchester University Press", "publication_year": 1969, "edition_notes": "Standard edition."}
+    ]},
+    {"work": "Cleanness", "editions": [
+      {"edition_title": "Cleanness", "editor": "J. J. Anderson (ed.)", "publisher": "Manchester University Press", "publication_year": 1977, "edition_notes": "Standard edition."}
+    ]},
+    {"work": "Piers Plowman", "editions": [
+      {"edition_title": "Piers Plowman: The B Version", "editor": "George Kane and E. Talbot Donaldson (eds.)", "publisher": "Athlone Press", "publication_year": 1975, "edition_notes": "The standard critical edition of the B text."}
+    ]},
+    {"work": "Confessio Amantis", "editions": [
+      {"edition_title": "The English Works of John Gower", "editor": "G. C. Macaulay (ed.)", "publisher": "Early English Text Society", "publication_year": 1901, "edition_notes": "2 vols (1900–01); the standard edition."}
+    ]},
+    {"work": "Vox Clamantis", "editions": [
+      {"edition_title": "The Complete Works of John Gower, vol. IV: The Latin Works", "editor": "G. C. Macaulay (ed.)", "publisher": "Clarendon Press", "publication_year": 1902, "edition_notes": "Standard edition."}
+    ]},
+    {"work": "Le Morte Darthur", "editions": [
+      {"edition_title": "The Works of Sir Thomas Malory", "editor": "Eugène Vinaver (ed.); rev. P. J. C. Field", "publisher": "Clarendon Press", "publication_year": 1990, "edition_notes": "3rd edition, 3 vols; the standard scholarly edition."}
+    ]},
+    {"work": "The Testament of Cresseid", "editions": [
+      {"edition_title": "The Testament of Cresseid", "editor": "Denton Fox (ed.)", "publisher": "Thomas Nelson", "publication_year": 1968, "edition_notes": "Standard edition."}
+    ]},
+    {"work": "The Morall Fabillis of Esope the Phrygian", "editions": [
+      {"edition_title": "The Poems of Robert Henryson", "editor": "Denton Fox (ed.)", "publisher": "Clarendon Press", "publication_year": 1981, "edition_notes": "The standard edition of Henryson's works."}
+    ]},
+    {"work": "The Tretis of the Tua Mariit Wemen and the Wedo", "editions": [
+      {"edition_title": "The Poems of William Dunbar", "editor": "Priscilla Bawcutt (ed.)", "publisher": "Association for Scottish Literary Studies", "publication_year": 1998, "edition_notes": "2 vols; the standard edition of Dunbar's works."}
+    ]},
+    {"work": "Lament for the Makaris", "editions": [
+      {"edition_title": "The Poems of William Dunbar", "editor": "Priscilla Bawcutt (ed.)", "publisher": "Association for Scottish Literary Studies", "publication_year": 1998, "edition_notes": "2 vols; the standard edition of Dunbar's works."}
+    ]},
+    {"work": "The Kingis Quair", "editions": [
+      {"edition_title": "The Kingis Quair and Other Prison Poems", "editor": "Linne R. Mooney and Mary-Jo Arn (eds.)", "publisher": "TEAMS (Medieval Institute Publications)", "publication_year": 2005, "edition_notes": "Standard TEAMS edition."}
+    ]},
+    {"work": "The Wallace", "editions": [
+      {"edition_title": "Hary's Wallace", "editor": "Matthew P. McDiarmid (ed.)", "publisher": "Scottish Text Society", "publication_year": 1968, "edition_notes": "2 vols (1968–69); the standard edition."}
+    ]},
+    {"work": "The Brus", "editions": [
+      {"edition_title": "Barbour's Bruce", "editor": "Matthew P. McDiarmid and James A. C. Stevenson (eds.)", "publisher": "Scottish Text Society", "publication_year": 1980, "edition_notes": "3 vols (1980–85); the standard edition."}
+    ]},
+    {"work": "York Play", "editions": [
+      {"edition_title": "The York Plays", "editor": "Richard Beadle (ed.)", "publisher": "Early English Text Society", "publication_year": 2009, "edition_notes": "2 vols (2009–13); the standard edition."}
+    ]},
+    {"work": "Towneley Plays", "editions": [
+      {"edition_title": "The Towneley Plays", "editor": "Martin Stevens and A. C. Cawley (eds.)", "publisher": "Early English Text Society", "publication_year": 1994, "edition_notes": "2 vols; the standard edition."}
+    ]},
+    {"work": "N-Town Plays", "editions": [
+      {"edition_title": "The N-Town Play", "editor": "Stephen Spector (ed.)", "publisher": "Early English Text Society", "publication_year": 1991, "edition_notes": "2 vols; the standard edition."}
+    ]},
+    {"work": "Chester Mystery Plays", "editions": [
+      {"edition_title": "The Chester Mystery Cycle", "editor": "R. M. Lumiansky and David Mills (eds.)", "publisher": "Early English Text Society", "publication_year": 1974, "edition_notes": "2 vols (1974–86); the standard edition."}
+    ]},
+    {"work": "The Castle of Perseverance", "editions": [
+      {"edition_title": "The Macro Plays", "editor": "Mark Eccles (ed.)", "publisher": "Early English Text Society", "publication_year": 1969, "edition_notes": "Standard edition of the Castle, Mankind, and Wisdom."}
+    ]},
+    {"work": "Mankind", "editions": [
+      {"edition_title": "The Macro Plays", "editor": "Mark Eccles (ed.)", "publisher": "Early English Text Society", "publication_year": 1969, "edition_notes": "Standard edition of the Castle, Mankind, and Wisdom."}
+    ]},
+    {"work": "Wisdom", "editions": [
+      {"edition_title": "The Macro Plays", "editor": "Mark Eccles (ed.)", "publisher": "Early English Text Society", "publication_year": 1969, "edition_notes": "Standard edition of the Castle, Mankind, and Wisdom."}
+    ]},
+    {"work": "Everyman", "editions": [
+      {"edition_title": "Everyman and Mankind", "editor": "Douglas Bruster and Eric Rasmussen (eds.)", "publisher": "Arden Early Modern Drama", "publication_year": 2009, "edition_notes": "Modern critical edition with full apparatus."}
+    ]},
+    {"work": "Croxton Play of the Sacrament", "editions": [
+      {"edition_title": "Non-Cycle Plays and Fragments", "editor": "Norman Davis (ed.)", "publisher": "Early English Text Society", "publication_year": 1970, "edition_notes": "Standard edition, containing the Croxton Play."}
+    ]},
+    {"work": "Digby Mary Magdalene", "editions": [
+      {"edition_title": "The Late Medieval Religious Plays of Bodleian MSS Digby 133 and E Museo 160", "editor": "Donald C. Baker, John L. Murphy, and Louis B. Hall Jr (eds.)", "publisher": "Early English Text Society", "publication_year": 1982, "edition_notes": "Standard edition of the Digby plays."}
+    ]},
+    {"work": "Ancrene Wisse", "editions": [
+      {"edition_title": "Ancrene Wisse: A Corrected Edition of the Text in Cambridge, Corpus Christi College, MS 402", "editor": "Bella Millett (ed.)", "publisher": "Early English Text Society", "publication_year": 2005, "edition_notes": "2 vols (2005–06); the standard edition."}
+    ]},
+    {"work": "The Ormulum", "editions": [
+      {"edition_title": "The Ormulum", "editor": "Robert Meadows White (ed.); rev. Robert Holt", "publisher": "Clarendon Press", "publication_year": 1878, "edition_notes": "2 vols; the standard edition."}
+    ]},
+    {"work": "Layamon's Brut", "editions": [
+      {"edition_title": "Layamon's Brut, or Hystoria Brutonum", "editor": "W. R. J. Barron and S. C. Weinberg (eds.)", "publisher": "Longman", "publication_year": 1995, "edition_notes": "Standard modern edition of the Caligula text with translation."}
+    ]},
+    {"work": "The Owl and the Nightingale", "editions": [
+      {"edition_title": "The Owl and the Nightingale: Text and Translation", "editor": "Neil Cartlidge (ed.)", "publisher": "University of Exeter Press", "publication_year": 2001, "edition_notes": "Standard modern edition with facing translation."}
+    ]},
+    {"work": "Havelok the Dane", "editions": [
+      {"edition_title": "Havelok", "editor": "G. V. Smithers (ed.)", "publisher": "Clarendon Press", "publication_year": 1987, "edition_notes": "Standard edition."}
+    ]},
+    {"work": "The Book of Margery Kempe", "editions": [
+      {"edition_title": "The Book of Margery Kempe", "editor": "Sanford Brown Meech and Hope Emily Allen (eds.)", "publisher": "Early English Text Society", "publication_year": 1940, "edition_notes": "The standard edition."}
+    ]},
+    {"work": "Revelations of Divine Love", "editions": [
+      {"edition_title": "The Writings of Julian of Norwich", "editor": "Nicholas Watson and Jacqueline Jenkins (eds.)", "publisher": "Brepols", "publication_year": 2006, "edition_notes": "The standard edition of the Short and Long Texts."}
+    ]},
+    {"work": "Historia Regum Britanniae", "editions": [
+      {"edition_title": "The History of the Kings of Britain", "editor": "Michael D. Reeve (ed.); Neil Wright (trans.)", "publisher": "Boydell Press", "publication_year": 2007, "edition_notes": "The standard critical edition."}
+    ]},
+    {"work": "Gesta Regum Anglorum", "editions": [
+      {"edition_title": "Gesta Regum Anglorum", "editor": "R. A. B. Mynors, R. M. Thomson, and M. Winterbottom (eds.)", "publisher": "Clarendon Press", "publication_year": 1998, "edition_notes": "2 vols (1998–99); the standard edition."}
+    ]},
+    {"work": "Historia Anglorum", "editions": [
+      {"edition_title": "Historia Anglorum: The History of the English People", "editor": "Diana Greenway (ed. and trans.)", "publisher": "Clarendon Press", "publication_year": 1996, "edition_notes": "The standard edition."}
+    ]},
+    {"work": "Policraticus", "editions": [
+      {"edition_title": "Ioannis Saresberiensis Policraticus I–IV", "editor": "K. S. B. Keats-Rohan (ed.)", "publisher": "Brepols", "publication_year": 1993, "edition_notes": "Corpus Christianorum Continuatio Mediaevalis 118."}
+    ]},
+    {"work": "Chronica Majora", "editions": [
+      {"edition_title": "Matthaei Parisiensis Chronica Majora", "editor": "Henry Richards Luard (ed.)", "publisher": "Rolls Series", "publication_year": 1872, "edition_notes": "7 vols (1872–83)."}
+    ]},
+    {"work": "Opus Maius", "editions": [
+      {"edition_title": "The 'Opus Majus' of Roger Bacon", "editor": "John Henry Bridges (ed.)", "publisher": "Clarendon Press", "publication_year": 1897, "edition_notes": "3 vols (1897–1900)."}
+    ]},
+    {"work": "Summa Logicae", "editions": [
+      {"edition_title": "Guillelmi de Ockham Summa Logicae", "editor": "Philotheus Boehner, Gedeon Gál, and Stephen F. Brown (eds.)", "publisher": "Franciscan Institute", "publication_year": 1974, "edition_notes": "Opera Philosophica 1; the standard edition."}
+    ]},
+    {"work": "Wycliffite Bible", "editions": [
+      {"edition_title": "The Holy Bible ... in the Earliest English Versions Made from the Latin Vulgate by John Wycliffe and His Followers", "editor": "Josiah Forshall and Frederic Madden (eds.)", "publisher": "Oxford University Press", "publication_year": 1850, "edition_notes": "4 vols; the standard edition of the early and late versions."}
+    ]},
+    {"work": "Festial", "editions": [
+      {"edition_title": "John Mirk's Festial", "editor": "Susan Powell (ed.)", "publisher": "Early English Text Society", "publication_year": 2009, "edition_notes": "2 vols (2009–11); the standard edition."}
+    ]},
+    {"work": "The Golden Legend", "editions": [
+      {"edition_title": "Caxton's Golden Legend", "editor": "Mayumi Taguchi, John Scahill, and Satoko Katsumata (eds.)", "publisher": "Early English Text Society", "publication_year": 2020, "edition_notes": "2 vols (2020–21); the standard edition."}
+    ]},
+    {"work": "Reynard the Fox", "editions": [
+      {"edition_title": "The History of Reynard the Fox", "editor": "N. F. Blake (ed.)", "publisher": "Early English Text Society", "publication_year": 1970, "edition_notes": "Standard edition of Caxton's translation."}
+    ]},
+    {"work": "Recuyell of the Historyes of Troye", "editions": [
+      {"edition_title": "The Recuyell of the Historyes of Troye", "editor": "H. Oskar Sommer (ed.)", "publisher": "David Nutt", "publication_year": 1894, "edition_notes": "2 vols; photographic reproduction of Caxton's text."}
+    ]},
+    {"work": "Mandeville's Travels", "editions": [
+      {"edition_title": "Mandeville's Travels", "editor": "M. C. Seymour (ed.)", "publisher": "Clarendon Press", "publication_year": 1967, "edition_notes": "The standard edition of the Defective Version."}
+    ]},
+    {"work": "Paston Letters", "editions": [
+      {"edition_title": "Paston Letters and Papers of the Fifteenth Century", "editor": "Norman Davis (ed.)", "publisher": "Clarendon Press", "publication_year": 1971, "edition_notes": "2 vols (1971–76); the standard edition."}
+    ]},
+    {"work": "Cely Letters", "editions": [
+      {"edition_title": "The Cely Letters 1472–1488", "editor": "Alison Hanham (ed.)", "publisher": "Early English Text Society", "publication_year": 1975, "edition_notes": "The standard edition."}
+    ]},
+    {"work": "The Mirror of the Blessed Life of Jesus Christ", "editions": [
+      {"edition_title": "The Mirror of the Blessed Life of Jesus Christ: A Reading Text", "editor": "Michael G. Sargent (ed.)", "publisher": "University of Exeter Press", "publication_year": 2005, "edition_notes": "Standard modern edition."}
+    ]},
+    {"work": "The Scale of Perfection", "editions": [
+      {"edition_title": "The Scale of Perfection", "editor": "Thomas H. Bestul (ed.)", "publisher": "TEAMS (Medieval Institute Publications)", "publication_year": 2000, "edition_notes": "Standard TEAMS edition."}
+    ]},
+    {"work": "The Repressor of Over Much Blaming of the Clergy", "editions": [
+      {"edition_title": "The Repressor of Over Much Blaming of the Clergy", "editor": "Churchill Babington (ed.)", "publisher": "Rolls Series", "publication_year": 1860, "edition_notes": "2 vols; the standard edition."}
+    ]},
+    {"work": "Sir Launfal", "editions": [
+      {"edition_title": "The Middle English Breton Lays", "editor": "Anne Laskaya and Eve Salisbury (eds.)", "publisher": "TEAMS (Medieval Institute Publications)", "publication_year": 1995, "edition_notes": "Contains the standard TEAMS text of Sir Launfal."}
+    ]},
+    {"work": "King Horn", "editions": [
+      {"edition_title": "King Horn: An Edition Based on Cambridge University Library MS Gg.4.27(2)", "editor": "Rosamund Allen (ed.)", "publisher": "Garland", "publication_year": 1984, "edition_notes": "Scholarly edition of the fullest text."}
+    ]},
+    {"work": "Testament of Love", "editions": [
+      {"edition_title": "Thomas Usk: Testament of Love", "editor": "Gary W. Shawver (ed.)", "publisher": "TEAMS (Medieval Institute Publications)", "publication_year": 2002, "edition_notes": "Standard TEAMS edition."}
+    ]},
+    {"work": "The Two Ways", "editions": [
+      {"edition_title": "The Works of Sir John Clanvowe", "editor": "V. J. Scattergood (ed.)", "publisher": "D. S. Brewer", "publication_year": 1975, "edition_notes": "Standard edition of Clanvowe's works."}
+    ]},
+    {"work": "Troy Book", "editions": [
+      {"edition_title": "Lydgate's Troy Book", "editor": "Henry Bergen (ed.)", "publisher": "Early English Text Society", "publication_year": 1906, "edition_notes": "4 vols (1906–35); the standard edition."}
+    ]},
+    {"work": "Fall of Princes", "editions": [
+      {"edition_title": "Lydgate's Fall of Princes", "editor": "Henry Bergen (ed.)", "publisher": "Early English Text Society", "publication_year": 1924, "edition_notes": "4 vols (1924–27); the standard edition."}
+    ]},
+    {"work": "The Regiment of Princes", "editions": [
+      {"edition_title": "The Regiment of Princes", "editor": "Charles R. Blyth (ed.)", "publisher": "TEAMS (Medieval Institute Publications)", "publication_year": 1999, "edition_notes": "Standard TEAMS edition."}
+    ]},
+    {"work": "The Prick of Conscience", "editions": [
+      {"edition_title": "The Pricke of Conscience", "editor": "Richard Morris (ed.)", "publisher": "Philological Society", "publication_year": 1863, "edition_notes": "The standard nineteenth-century edition."}
+    ]}
+  ]
+}

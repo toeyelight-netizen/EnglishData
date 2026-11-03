@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Anglo-Saxon Heroic Tradition",
+    "start_year": 450,
+    "end_year": 1100,
+    "description": "The vernacular heroic poetry of Anglo-Saxon England, rooted in the oral-formulaic tradition of the Germanic migrations and preserved in written form from the eighth to the eleventh century. Its central text is Beowulf; related survivals include Widsith, Deor, the Finnsburh Fragment, Waldere, and the later battle poems.",
+    "historical_context": "The tradition descends from the pre-Christian Germanic warrior culture of the migration age: the hall, the comitatus (the lord's warband), gift-giving, and the blood-feud. Conversion to Christianity did not extinguish it; instead, Christian scribes preserved and reframed heroic material, producing the distinctive synthesis of the surviving poems.",
+    "aesthetic_principles": "Alliterative four-stress metre; formulaic diction; kennings and variation; the celebration of courage, loyalty, and fame (lof) in the face of an inexorable fate (wyrd); elegiac awareness of the transience of earthly glory.",
+    "defining_characteristics": "The heroic code of reciprocity between lord and retainer; treasure as the material token of that bond; the hero's confrontation with monstrous or overwhelming adversaries; gnomic and elegiac commentary on the fragility of the world the hero defends.",
+    "historical_significance": "The oldest vernacular heroic poetry in any Germanic language of comparable scale; Beowulf is the foundational epic of English literature and a primary witness to Germanic legend (Hrothgar, Hygelac, Weland, Eormanric) otherwise known only from Scandinavian and continental sources."
+  },
+  {
+    "name": "Early Anglo-Latin Learning and the Northumbrian Golden Age",
+    "start_year": 650,
+    "end_year": 800,
+    "description": "The first great flowering of insular Christian scholarship, written in Latin, centred on the Northumbrian monasteries of Wearmouth-Jarrow and the school of York but extending to Wessex (Aldhelm) and to the continental missions (Boniface). Its presiding figure is Bede.",
+    "historical_context": "Following the Synod of Whitby (664), Northumbria developed a monastic culture with close ties to Rome and Gaul; the libraries assembled by Benedict Biscop at Wearmouth-Jarrow underpinned Bede's scholarship. The school of York, founded on the same traditions, trained Alcuin, who carried its learning to the court of Charlemagne.",
+    "aesthetic_principles": "Clarity and accuracy of exposition over rhetorical display in Bede; the hermeneutic, learned Latin of Aldhelm; the encyclopedic range of computus, exegesis, history, and grammar as a unified Christian paideia.",
+    "defining_characteristics": "Biblical commentary, computus and calendar science, ecclesiastical history, hagiography, riddles, grammar, and letter-writing; the transmission of patristic learning into the vernacular tradition that followed.",
+    "historical_significance": "Made England for a time the leading centre of learning in western Europe; Bede's Historia ecclesiastica is the foundational history of the English people and the conduit through which Cædmon, the first named English poet, is known to us."
+  },
+  {
+    "name": "Alfredian Renaissance",
+    "start_year": 871,
+    "end_year": 899,
+    "description": "The program of educational revival and vernacular translation sponsored by King Alfred of Wessex in the last decades of the ninth century, which created the Old English prose tradition.",
+    "historical_context": "After the Viking invasions devastated monastic learning, Alfred rebuilt literacy through a court circle of scholars (Asser, Werferth, Plegmund, the continental Grimbald and John the Old Saxon) and a program of translating the books 'most necessary for all men to know' from Latin into English.",
+    "aesthetic_principles": "Clarity and utility as literary virtues; the vernacular raised to the dignity of a learned language; translation conceived as interpretative adaptation to the needs of the kingdom's administrators and clergy.",
+    "defining_characteristics": "The Old English versions of Gregory's Pastoral Care (with Alfred's celebrated Preface), Boethius's Consolation of Philosophy, Augustine's Soliloquies, Orosius's History, Bede's Ecclesiastical History, and Gregory's Dialogues; the first fifty prose Psalms; Alfred's law code; and the Common Stock of the Anglo-Saxon Chronicle (c. 892).",
+    "historical_significance": "Founded English prose as a literary medium and preserved texts of classical and patristic learning that might otherwise have been lost to English readers; the Preface to the Pastoral Care is a foundational document of English vernacular self-consciousness."
+  },
+  {
+    "name": "Benedictine Reform",
+    "start_year": 960,
+    "end_year": 1000,
+    "description": "The monastic revival of the later tenth century under Dunstan, Æthelwold, and Oswald, which produced the standard literary Old English of the period's greatest prose writers, Ælfric and Wulfstan.",
+    "historical_context": "Supported by King Edgar (959–975), the reform regularized English monastic life under the Rule of St Benedict, founded and re-endowed monasteries (Abingdon, Winchester, Ramsey, Eynsham), and created schools whose pupils — above all Ælfric of Eynsham — made Winchester standard the literary language of England.",
+    "aesthetic_principles": "A learned, precise vernacular style; rhythmical prose with alliterative patterning; didactic clarity in homily and hagiography; the vernacular treated as fully capable of theological and pastoral seriousness.",
+    "defining_characteristics": "The Catholic Homilies and Lives of Saints of Ælfric; the homiletic and legal writings of Wulfstan; the Blickling and Vercelli homily collections; the Regularis concordia; the enrichment of the Anglo-Saxon Chronicle and the composition of late Old English poetry in the classical tradition.",
+    "historical_significance": "The last great phase of Old English literature; its prose style influenced English religious writing into the twelfth century and beyond, and its manuscripts preserved most of the earlier poetic corpus."
+  }
+]

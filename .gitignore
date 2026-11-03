@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# The master database is rebuilt from JSON data + migrations;
+# it is not tracked. Backups are stored locally only.
+database/English_Literature_Master.db
+database/backups/
+database/*.db-journal
+database/*.db-wal
+database/*.db-shm
+
+data/exports/

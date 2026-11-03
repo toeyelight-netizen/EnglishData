@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Poetry",
+    "description": "Verse composition, in this period always alliterative Old English verse (with a parallel tradition of Latin quantitative verse represented by Aldhelm, Bede, Alcuin, and Wulfstan the Cantor).",
+    "historical_development": "From the oral-formulaic heroic poetry of the migration age, through the Christian narrative poetry of the eighth and ninth centuries, to the late tenth- and eleventh-century compositions in the classical tradition; the corpus survives almost entirely in four manuscripts: the Nowell Codex, the Exeter Book, the Vercelli Book, and Junius 11."
+  },
+  {
+    "name": "Heroic Epic",
+    "parent_genre": "Poetry",
+    "description": "Long narrative verse celebrating the deeds of heroes within the Germanic heroic world: the hall, the warband, the feud, treasure, and fate.",
+    "historical_development": "Best represented by Beowulf (c. eighth–early eleventh century); fragments of the same tradition survive in Waldere and the Finnsburh Fragment."
+  },
+  {
+    "name": "Elegy",
+    "parent_genre": "Poetry",
+    "description": "Short meditative poems on exile, loss, and the transience of earthly joy, usually spoken by a solitary figure (wanderer, seafarer, exiled woman, last survivor).",
+    "historical_development": "The Exeter Book preserves the principal examples (The Wanderer, The Seafarer, The Wife's Lament, The Husband's Message, Wulf and Eadwacer, The Ruin, Deor); the mode is native to the heroic tradition, though the surviving poems frame it with Christian consolation."
+  },
+  {
+    "name": "Religious Narrative Poetry",
+    "parent_genre": "Poetry",
+    "description": "Verse retellings of biblical and hagiographical narrative, from the Old Testament poems of Junius 11 to the saints' lives of Cynewulf and his school.",
+    "historical_development": "Flourished from the eighth to the tenth century; principal examples: Genesis A and B, Exodus, Daniel, Christ and Satan, Judith, Andreas, Elene, Juliana, Guthlac A and B, and the Christ trilogy."
+  },
+  {
+    "name": "Religious Lyric",
+    "parent_genre": "Poetry",
+    "description": "Short devotional and liturgical poems, often meditative or doxological, including the Advent lyrics of Christ I and the liturgical poems of Cambridge, Corpus Christi College MS 201.",
+    "historical_development": "From the eighth-century Cædmon's Hymn — the earliest datable Old English poem — through the Exeter Book lyrics to the late eleventh-century liturgical verse."
+  },
+  {
+    "name": "Dream Vision",
+    "parent_genre": "Poetry",
+    "description": "Verse in which a dreamer receives a revelation, typically from a personified or visionary speaker; the cross speaks in the period's supreme example.",
+    "historical_development": "The Dream of the Rood (Vercelli Book; related to the eighth-century Ruthwell Cross inscription) is the outstanding Old English representative and one of the finest dream poems in any language."
+  },
+  {
+    "name": "Wisdom Poetry",
+    "parent_genre": "Poetry",
+    "description": "Gnomic, cataloguing, and didactic verse: maxims, precepts, lists of human fates and gifts, and wisdom dialogues.",
+    "historical_development": "Represented by Maxims I and II, The Fortunes of Men, The Gifts of Men, Precepts, Vainglory, The Order of the World, and Solomon and Saturn I and II."
+  },
+  {
+    "name": "Riddle",
+    "parent_genre": "Poetry",
+    "description": "Short enigmatic poems in which an object, creature, or natural force speaks or is described obliquely; a favourite exercise of the period's learning in both Latin and the vernacular.",
+    "historical_development": "The Exeter Book preserves some ninety-five vernacular riddles; the Latin tradition is represented by Aldhelm's Aenigmata and, at the boundary of the traditions, the eighth-century Leiden Riddle."
+  },
+  {
+    "name": "Battle Poetry",
+    "parent_genre": "Poetry",
+    "description": "Commemorative verse on historical battles, celebrating royal victory or noble defeat in the language of the heroic tradition.",
+    "historical_development": "The tenth-century poems The Battle of Brunanburh and The Battle of Maldon; the latter, on the defeat of Byrhtnoth at Maldon in 991, is the last great poem of the heroic tradition."
+  },
+  {
+    "name": "Bestiary Poetry",
+    "parent_genre": "Poetry",
+    "description": "Verse adaptations of the Physiologus tradition, in which real or fabulous animals are allegorized as figures of Christ, the Church, or the devil.",
+    "historical_development": "The Exeter Book preserves three: The Panther, The Whale, and The Partridge; The Phoenix treats the related legend of the self-renewing bird as an allegory of resurrection."
+  },
+  {
+    "name": "Metrical Charm",
+    "parent_genre": "Poetry",
+    "description": "Verse charms against illness, theft, and misfortune, combining Christian prayer with pre-Christian incantatory formulas.",
+    "historical_development": "Surviving mainly in eleventh-century medical collections (Lacnunga, the Old English Herbarium manuscripts); notable examples include the Nine Herbs Charm and Wið færstice ('Against a sudden stitch')."
+  },
+  {
+    "name": "Metrical Psalter",
+    "parent_genre": "Poetry",
+    "description": "Verse translation of the psalms.",
+    "historical_development": "The Paris Psalter preserves metrical versions of Psalms 51–150, once attributed to King Alfred but now generally regarded as anonymous tenth-century work."
+  },
+  {
+    "name": "Prose",
+    "description": "Old English and Anglo-Latin prose: history, homily, hagiography, law, translation, and didactic writing.",
+    "historical_development": "Begins with the laws and charters of the seventh century, develops as a literary medium in the Alfredian translations of the late ninth century, and reaches its maturity in the homiletic prose of Ælfric and Wulfstan around the year 1000."
+  },
+  {
+    "name": "History and Chronicle",
+    "parent_genre": "Prose",
+    "description": "Narrative and annalistic historical writing, in Latin and the vernacular, from Bede to the Anglo-Saxon Chronicle.",
+    "historical_development": "Bede's Historia ecclesiastica (731) founds the tradition; Gildas and the Historia Brittonum represent the British side of insular historiography; the Anglo-Saxon Chronicle (from c. 892) carries annalistic history in English to 1154, with Asser's Life of Alfred and Æthelweard's Chronicon as related Latin works."
+  },
+  {
+    "name": "Homily (Sermon)",
+    "parent_genre": "Prose",
+    "description": "Vernacular sermons for the church year, moral instruction, and occasions of national crisis.",
+    "historical_development": "From the anonymous Blickling and Vercelli homilies of the late tenth century to the artful two-part Catholic Homilies of Ælfric (c. 989–995) and the impassioned sermons of Wulfstan, above all the Sermo Lupi ad Anglos (1014)."
+  },
+  {
+    "name": "Hagiography",
+    "parent_genre": "Prose",
+    "description": "Lives and passions of saints, in Latin and Old English, composed for the edification of monastic and lay audiences.",
+    "historical_development": "From Felix's Latin Life of Guthlac (c. 730–740) and Bede's lives of Cuthbert to the Old English Martyrology (ninth century) and Ælfric's Lives of Saints (c. 993–998), the largest vernacular hagiographical collection of the period."
+  },
+  {
+    "name": "Translation",
+    "parent_genre": "Prose",
+    "description": "Vernacular renderings of Latin texts, ranging from close translation to free adaptation.",
+    "historical_development": "The Alfredian program (Pastoral Care, Boethius, Soliloquies, Orosius, Bede, Gregory's Dialogues) inaugurated the tradition c. 890; Ælfric's translation of Genesis and parts of the Old Testament (c. 1000) extended it to scripture."
+  },
+  {
+    "name": "Law Code",
+    "parent_genre": "Prose",
+    "description": "Royal legislation in the vernacular, recording custom, protecting the Church, and regulating social order.",
+    "historical_development": "From the Laws of Æthelberht (c. 602/3), the earliest written English law, through the codes of Ine and Alfred to the Laws of Cnut (c. 1020–1023), drafted by Wulfstan; the only substantial vernacular legal tradition of early medieval Europe."
+  },
+  {
+    "name": "Political Treatise",
+    "parent_genre": "Prose",
+    "description": "Prose treatises on the theory and duties of Christian government and social order.",
+    "historical_development": "The tradition culminates in Wulfstan's Institutes of Polity (c. 1008–1020), the classic statement of Anglo-Saxon political theology, which fed directly into the law codes of Æthelred and Cnut."
+  },
+  {
+    "name": "Grammar and Didactic Prose",
+    "parent_genre": "Prose",
+    "description": "Textbooks and instructional writing: grammar, computus, dialogue, and encyclopedic learning.",
+    "historical_development": "Represented by Ælfric's Grammar (the first Latin grammar written in a European vernacular), his Colloquy, and Byrhtferth's Enchiridion (c. 1011); Bede's De temporum ratione (725) is the Latin ancestor of the computus tradition."
+  },
+  {
+    "name": "Prose Romance",
+    "parent_genre": "Prose",
+    "description": "Fictional prose narrative of adventure and love, translated from Latin romance.",
+    "historical_development": "Apollonius of Tyre (c. 1000–1050), translated from the Historia Apollonii regis Tyri, is the earliest prose romance in English."
+  },
+  {
+    "name": "Travel and Wonders Literature",
+    "parent_genre": "Prose",
+    "description": "Accounts of exotic lands, marvels, and monsters, translated from Latin sources and often illustrated.",
+    "historical_development": "The Wonders of the East and The Letter of Alexander to Aristotle, both preserved in the Nowell Codex beside Beowulf (c. 1000)."
+  },
+  {
+    "name": "Letters",
+    "parent_genre": "Prose",
+    "description": "Epistolary correspondence, in Latin, carrying learning, friendship, and pastoral counsel across the insular and continental networks of the Anglo-Saxon Church.",
+    "historical_development": "From the letters of Aldhelm and Boniface in the seventh and eighth centuries to those of Alcuin at the Carolingian court; a major source for the intellectual life of the period."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "The Twelfth-Century Renaissance",
+    "start_year": 1100,
+    "end_year": 1200,
+    "description": "The flowering of historical, philosophical, and satirical writing in England and Normandy during the twelfth century, written mainly in Latin but including the first major works of early Middle English verse. Its presiding achievements are the historical writings of William of Malmesbury, Henry of Huntingdon, and Geoffrey of Monmouth, and the humanistic learning of John of Salisbury.",
+    "historical_context": "After the Conquest, England was drawn into a continental world of cathedral schools (Laon, Chartres, Paris) and monastic learning; the Anglo-Norman realm fostered close traffic between insular and continental scholars. The Anarchy of Stephen's reign (1135–54), the Becket controversy (1164–70), and the Angevin empire of Henry II (1154–89) supplied both the political matter and the audiences for the period's historiography and satire.",
+    "aesthetic_principles": "A new historical self-consciousness: the writing of continuous, artfully narrated histories of the English people; elegant Latinity modelled on classical authors; delight in learned allusion, wit, and courtly satire; the adaptation of French romance matter into English verse.",
+    "defining_characteristics": "Historia Regum Britanniae (Geoffrey of Monmouth, c. 1138), the foundational Arthurian history; Gesta Regum Anglorum (William of Malmesbury) and Historia Anglorum (Henry of Huntingdon); the Policraticus of John of Salisbury; De Nugis Curialium (Walter Map); the early Middle English poetry of Layamon's Brut and The Owl and the Nightingale.",
+    "historical_significance": "Created the Matter of Britain as a literary possession of England, established the continuous tradition of English historiography, and produced the first courtly-humanistic classic of political thought in the Policraticus."
+  },
+  {
+    "name": "The AB Language Group (West Midlands Devotional Prose)",
+    "start_year": 1190,
+    "end_year": 1250,
+    "description": "A coherent body of devotional prose written in a standardized West Midlands dialect ('AB language') for the guidance of religious women, centred on Ancrene Wisse and the saints' lives and meditations of the Katherine Group and Wooing Group. It is the first great corpus of literary English prose.",
+    "historical_context": "The movement of religious women towards solitary and semi-regular life in the thirteenth century (anchorites, recluses, and informal communities in the West Midlands and the Welsh Marches) created a demand for vernacular spiritual guidance; the texts were produced within this milieu, probably in Herefordshire, and circulated widely among both religious women and men.",
+    "aesthetic_principles": "A plain but artful prose of great rhythmic control, with alliterative and homiletic cadence; concrete domestic imagery for spiritual truths; psychological acuity in the analysis of temptation and love; a consistent, disciplined orthography and grammar.",
+    "defining_characteristics": "Ancrene Wisse (c. 1225–40), the classic rule for anchoresses; the Katherine Group lives of St Katherine, St Margaret, and St Juliana together with Hali Meiðhad (on virginity) and Sawles Warde (on the custody of the soul); the Wooing Group meditations on Christ and the Virgin.",
+    "historical_significance": "Ancrene Wisse is the supreme achievement of early Middle English prose and the touchstone of the AB language; the group demonstrates that English was capable of theological and psychological subtlety long before the age of Chaucer."
+  },
+  {
+    "name": "The Alliterative Revival",
+    "start_year": 1350,
+    "end_year": 1450,
+    "description": "The remarkable resurgence of unrhymed alliterative verse in the West Midlands and the North from the mid-fourteenth century, producing some of the greatest poems of the English Middle Ages, including Sir Gawain and the Green Knight, Pearl, Piers Plowman, and the Alliterative Morte Arthure.",
+    "historical_context": "A conservative regional tradition, nourished by a literate audience of gentry, clergy, and magnates outside the court-dominated culture of London; the revival's poems respond to the crises of the fourteenth century — plague, war, social unrest — and to the courtly and devotional culture of their provincial patrons.",
+    "aesthetic_principles": "The unrhymed alliterative long line (aa/ax), often in elaborate stanzas with a rhyming 'bob and wheel'; a distinctive poetic diction rich in synonyms, formulaic collocations, and archaic lexis; descriptive brilliance and moral seriousness; a liking for dream visions, debates, and estates satire.",
+    "defining_characteristics": "Sir Gawain and the Green Knight, Pearl, Patience, and Cleanness (the Cotton Nero A.x poems, c. 1375–1400); William Langland's Piers Plowman (c. 1367–88); Winner and Waster (c. 1352); The Parliament of the Three Ages; St Erkenwald; the Alliterative Morte Arthure (c. 1400); The Destruction of Troy; The Siege of Jerusalem; The Awntyrs off Arthure; Richard Holland's Buke of the Howlat.",
+    "historical_significance": "The Alliterative Revival is the last great flowering of the native English verse tradition; Sir Gawain and the Green Knight and Piers Plowman rank with the Canterbury Tales among the masterpieces of the century."
+  },
+  {
+    "name": "Ricardian Poetry",
+    "start_year": 1367,
+    "end_year": 1400,
+    "description": "The astonishing concentration of poetic achievement in the reign of Richard II (1377–99): the mature work of Geoffrey Chaucer, John Gower, William Langland, and the Gawain-poet, the four 'Ricardian' poets who define the literary canon of late medieval England.",
+    "historical_context": "The court of Richard II, the institutions of London (guilds, Inns of Court, Chancery), and the patronage of the higher nobility (John of Gaunt) supported a professional and literate poetic culture; the poets wrote against the background of the Peasants' Revolt (1381), the struggles between king and appellants, and the Lancastrian deposition of 1399.",
+    "aesthetic_principles": "The assimilation of French courtly forms (rondeau, ballade, dit) and Italian example (Dante, Boccaccio, Petrarch) into English; the perfection of the decasyllabic line and rhyme royal; sophisticated narratorial personae and irony; philosophical and moral ambition (love, fortune, governance, penance) expressed through dream vision, romance, and frame-tale collection.",
+    "defining_characteristics": "Chaucer's Troilus and Criseyde (c. 1382–86) and the Canterbury Tales (c. 1387–1400); Gower's Confessio Amantis (c. 1386–90); Langland's Piers Plowman; the Cotton Nero A.x poems; the courtly lyrics and complaints of Chaucer's circle.",
+    "historical_significance": "The Ricardian poets fixed English as a literary language of the first rank, established the London dialect as the basis of the standard, and created the tradition — Chaucerian in form and humane in temper — on which English poetry built for the next two centuries."
+  },
+  {
+    "name": "Lollardy",
+    "start_year": 1380,
+    "end_year": 1430,
+    "description": "The movement of religious dissent inspired by the teaching of John Wyclif, which produced the first complete English translation of the Bible and a substantial vernacular literature of polemic, sermon, and petition, and which provoked the church's first sustained campaign against heresy in England.",
+    "historical_context": "Wyclif's teaching at Oxford (c. 1372–81) that the church should renounce temporal lordship, that scripture was the sole authority, and that the consecrated host was not substantially transformed drew condemnation from the Blackfriars council (1382) and, after the Peasants' Revolt, repressive legislation culminating in the statute De heretico comburendo (1401) and the burning of Sir John Oldcastle (1417). The movement persisted among artisans, gentry, and some clergy into the sixteenth century.",
+    "aesthetic_principles": "Plainness, clarity, and scriptural citation as polemical virtues against clerical sophistry; the vernacular as the language of religious truth; direct, often aggressive, estates satire against the wealth and power of the clergy.",
+    "defining_characteristics": "The Wycliffite Bible (Early Version c. 1382, Later Version c. 1388–95); Wyclif's Latin works (De Civili Dominio, 1375–76); the Twelve Conclusions of the Lollards (1395); the English sermon cycle and tracts of the movement; Piers the Plowman's Creed (c. 1395).",
+    "historical_significance": "Lollardy gave England its first vernacular scripture, put the legitimacy of clerical wealth and doctrine into public dispute, and prepared linguistic and argumentative ground for the Reformation of the sixteenth century."
+  },
+  {
+    "name": "The English Mystics",
+    "start_year": 1340,
+    "end_year": 1420,
+    "description": "The vernacular literature of contemplation written in England between the mid-fourteenth and early fifteenth centuries: the works of Richard Rolle, Walter Hilton, the anonymous author of The Cloud of Unknowing, Julian of Norwich, and Margery Kempe, together with the translations of Nicholas Love and related devotional prose.",
+    "historical_context": "The growth of solitary and semi-regular religious life (hermits, anchorites, and later the Carthusian and Bridgettine orders) and the post-plague intensification of lay piety created a demand for vernacular guidance in prayer and contemplation; the mystics wrote chiefly in the North and East Midlands, several of them for women recluses.",
+    "aesthetic_principles": "Precision of psychological and theological analysis in a plain style; the use of bodily and sensory language (fire, song, sweetness) to convey spiritual experience; images of the spiritual life as scale, ladder, cloud, and journey; autobiographical narrative as testimony.",
+    "defining_characteristics": "Rolle's Incendium Amoris, Ego Dormio, and The Form of Living; Hilton's Scale of Perfection; The Cloud of Unknowing; Julian of Norwich's Revelations of Divine Love (short text 1373, long text c. 1393); The Book of Margery Kempe (c. 1436–38); Nicholas Love's Mirror of the Blessed Life of Jesus Christ (c. 1410).",
+    "historical_significance": "The English mystics constitute one of the great vernacular traditions of contemplative writing in Europe; Julian of Norwich is the first woman author in English whose major work survives, and The Book of Margery Kempe is commonly called the first autobiography in English."
+  },
+  {
+    "name": "Fifteenth-Century Chaucerians",
+    "start_year": 1400,
+    "end_year": 1500,
+    "description": "The English and Scottish poets of the fifteenth century who wrote in direct imitation of Geoffrey Chaucer, above all John Lydgate and Thomas Hoccleve in England and Robert Henryson and William Dunbar in Scotland, together with the broader Chaucerian tradition of dream vision, complaint, and aureate style.",
+    "historical_context": "After Chaucer's death in 1400, his poetic heirs worked under Lancastrian patronage (Hoccleve in the Privy Seal office, Lydgate as monk of Bury and court poet), while in Scotland a parallel courtly tradition under the Stewart kings produced a distinctively accomplished Chaucerian poetry; printing (Caxton, and in Scotland Chepman and Myllar, 1508) began to stabilize and disseminate their texts.",
+    "aesthetic_principles": "Imitation and amplification of Chaucerian forms (rhyme royal, dream vision, complaint, tragedy of falls); the aureate style — Latinate diction, rhetorical ornament, elaborate stanza forms; moral and didactic seriousness; in the Scottish makars, a blend of aureate and colloquial registers of exceptional vitality.",
+    "defining_characteristics": "Lydgate's Troy Book (1412–20), Siege of Thebes (c. 1420–22), and Fall of Princes (1431–38); Hoccleve's Regiment of Princes (1411) and Series (c. 1419–21); Henryson's Testament of Cresseid and Morall Fabillis; Dunbar's Lament for the Makaris (c. 1505) and Tretis of the Tua Mariit Wemen and the Wedo.",
+    "historical_significance": "The Chaucerians carried Chaucerian verse forms and poetic authority through the fifteenth century and transmitted them to the Tudor poets (Skelton, Wyatt, Surrey); the Scottish makars in particular made the fifteenth century the first golden age of Scottish literature."
+  },
+  {
+    "name": "The Scottish Makars",
+    "start_year": 1424,
+    "end_year": 1513,
+    "description": "The poets of fifteenth- and early sixteenth-century Scotland who wrote in Older Scots, from James I's Kingis Quair through Robert Henryson, William Dunbar, and Gavin Douglas to the threshold of the Reformation and Flodden. The term is the makars' own (Dunbar's 'Lament for the Makaris').",
+    "historical_context": "The Stewart monarchy fostered a courtly literary culture in Scots (a northern descendant of Old English that had absorbed French and Norse elements); after the return of James I from English captivity (1424) and the establishment of the universities (St Andrews 1413, Glasgow 1451, Aberdeen 1495), Older Scots became the vehicle of a literature of European ambition. The tradition's heroic line runs from Barbour's Brus (c. 1375) to the printing of the first Scots texts (1508) and the disaster of Flodden (1513).",
+    "aesthetic_principles": "Chaucerian forms (rhyme royal, dream vision, fable) combined with the 'flying' and colloquial energy of the native tradition; aureate diction alongside pungent vernacular realism; moral seriousness within comic and satiric frames; a self-conscious national literary identity.",
+    "defining_characteristics": "James I's Kingis Quair (c. 1424); Robert Henryson's Morall Fabillis (c. 1480s), Testament of Cresseid (c. 1475–90), and Orpheus and Eurydice; William Dunbar's Lament for the Makaris (c. 1505), The Tretis of the Tua Mariit Wemen and the Wedo (c. 1500–07), and The Goldyn Targe; the heroic verse of Barbour's Brus (c. 1375) and Blind Hary's Wallace (c. 1477).",
+    "historical_significance": "The makars created the first national literature in Scots, rivalling England's in accomplishment; Henryson and Dunbar are universally ranked among the finest poets of the British Isles in the fifteenth century."
+  },
+  {
+    "name": "Vernacular Religious Drama",
+    "start_year": 1350,
+    "end_year": 1500,
+    "description": "The great tradition of English medieval religious theatre: the civic mystery cycles of York, Towneley (Wakefield), Chester, and N-Town, and the morality plays — The Castle of Perseverance, Mankind, Wisdom, and Everyman — together with the miracle plays on saints' lives and miracles of the host.",
+    "historical_context": "Religious drama grew from the liturgy (the Quem quaeritis trope) through the churchyard and into civic control: by the late fourteenth century the guilds of York, Chester, and other towns staged pageants of biblical history from Creation to Doom on the feast of Corpus Christi (instituted 1311). The moralities, staged in inn-yards and halls by travelling players, allegorized the Christian life; the tradition was curtailed by Reformation hostility and the suppression of the cycles in the later sixteenth century.",
+    "aesthetic_principles": "The dramatization of salvation history in the vernacular; a rough but powerful verse (the stanza forms of the cycles, the remarkable stanza of the Wakefield Master); the interplay of solemn theology with vivid comic realism (Noah's wife, the shepherds, Herod's rant, the devil Titivillus); allegorical personification in the moralities.",
+    "defining_characteristics": "The York Play (register 1463–77, references from 1376); the Towneley (Wakefield) Plays, including the Second Shepherds' Play; the Chester Plays; the N-Town Play; The Castle of Perseverance (c. 1400–25); Mankind (c. 1465–70); Wisdom (c. 1460–70); Everyman (c. 1500); the Croxton Play of the Sacrament (c. 1461); the Digby Mary Magdalene.",
+    "historical_significance": "The mystery cycles are the largest surviving corpus of medieval European drama in any vernacular and the most complete dramatization of the biblical narrative; the moralities, especially Everyman, remained on the stage into the modern period and shaped the allegorical resources of Elizabethan drama."
+  }
+]

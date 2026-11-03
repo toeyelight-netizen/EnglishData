@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Courtly love and fin'amor",
+    "description": "The code of refined love between knight and lady: service, secrecy, suffering, and idealized desire, adapted from the French courtly tradition into English romance, lyric, and dream vision."
+  },
+  {
+    "name": "Penance, confession, and sin",
+    "description": "The systematic analysis of sin, contrition, confession, and satisfaction, central to the period's devotional and didactic literature from Handlyng Synne to Piers Plowman and the Parson's Tale."
+  },
+  {
+    "name": "The Virgin Mary and Marian devotion",
+    "description": "Devotion to the Virgin as mediatrix and model: her joys and sorrows, her intercession for sinners, and her central place in lyric, drama, and devotional prose."
+  },
+  {
+    "name": "The Passion of Christ",
+    "description": "Meditation on the suffering and death of Christ, its affective and penitential power, and its enactment in the mystery plays and in devotional prose from Ancrene Wisse to Julian of Norwich."
+  },
+  {
+    "name": "Chivalry and knighthood",
+    "description": "The ideals and practice of knighthood — prowess, loyalty, courtesy, largesse — and their testing in romance, chronicle, and the orders of late medieval society, from Malory's Morte Darthur to the real knightly class."
+  },
+  {
+    "name": "Fortune and mutability",
+    "description": "The wheel of Fortune, the falls of princes, and the instability of worldly prosperity, inherited from Boethius and pervasive in Chaucer, Lydgate, and Henryson."
+  },
+  {
+    "name": "Social satire and estates criticism",
+    "description": "Satire of the three estates and of contemporary abuses — corrupt clergy, greedy merchants, rebellious peasants — in Piers Plowman, Gower, Chaucer's General Prologue, and the moralities."
+  },
+  {
+    "name": "Ecclesiastical reform and criticism",
+    "description": "Criticism of clerical wealth, simony, and pastoral negligence, and programs for the reform of the church, from the twelfth century to the anti-Lollard controversies of the fifteenth."
+  },
+  {
+    "name": "Lollardy and religious dissent",
+    "description": "The vernacular challenge to ecclesiastical authority: the primacy of scripture, opposition to images, pilgrimage, and transubstantiation, and the demand for a poor and preaching church."
+  },
+  {
+    "name": "The contemplative life",
+    "description": "The ascent of the soul to God through meditation, mortification, and love, anatomized in the literature of the English mystics and in the rules for recluses."
+  },
+  {
+    "name": "Marriage and women's conduct",
+    "description": "The conduct of women in marriage, virginity, and widowhood — instruction, debate, and satire — from Hali Meiðhad and Ancrene Wisse through the Wife of Bath to the courtesy books."
+  },
+  {
+    "name": "Arthurian legend",
+    "description": "The Matter of Britain: Arthur, Merlin, Gawain, and the Grail, from Geoffrey of Monmouth's Historia through Layamon's Brut, the Gawain romances, the Alliterative Morte Arthure, and Malory's Morte Darthur."
+  },
+  {
+    "name": "National identity and Englishness",
+    "description": "The self-conscious construction of English (and Scottish) identity through language, history, and law, from the Brut tradition and the rise of English as the language of record to the chronicles of the Hundred Years War."
+  }
+]

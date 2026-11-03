@@ -1,0 +1,290 @@
+{
+  "work_authors": [
+    {"work": "Vita Sancti Wilfridi", "author": "Stephen of Ripon", "contribution_type": "author"},
+    {"work": "Regularis Concordia", "author": "Æthelwold of Winchester", "contribution_type": "author"},
+    {"work": "The Old English Rule of St Benedict", "author": "Æthelwold of Winchester", "contribution_type": "translator (traditional attribution)"},
+    {"work": "Passio Sancti Eadmundi", "author": "Abbo of Fleury", "contribution_type": "author"},
+    {"work": "Colloquia (Ælfric Bata)", "author": "Ælfric Bata", "contribution_type": "author (traditional attribution)"},
+    {"work": "Aenigmata (Tatwine's Riddles)", "author": "Tatwine", "contribution_type": "author"},
+    {"work": "Aenigmata (Hwætberht's Riddles)", "author": "Hwætberht", "contribution_type": "author"},
+    {"work": "Laterculus Malalianus", "author": "Theodore of Tarsus", "contribution_type": "author (attributed)"},
+    {"work": "Bede's Death Song", "author": "Bede", "contribution_type": "author (traditional attribution)"}
+  ],
+  "work_genres": [
+    {"work": "The Rhyming Poem", "genres": ["Elegy"]},
+    {"work": "Resignation", "genres": ["Religious Lyric"]},
+    {"work": "The Descent into Hell", "genres": ["Religious Narrative Poetry"]},
+    {"work": "Azarias", "genres": ["Religious Narrative Poetry"]},
+    {"work": "The Lord's Prayer I, II, and III", "genres": ["Religious Lyric"]},
+    {"work": "Gloria I and II", "genres": ["Religious Lyric"]},
+    {"work": "The Creed", "genres": ["Religious Lyric"]},
+    {"work": "The Kentish Hymn", "genres": ["Religious Lyric"]},
+    {"work": "Alms-Giving", "genres": ["Religious Lyric"]},
+    {"work": "Pharaoh", "genres": ["Religious Narrative Poetry"]},
+    {"work": "The Gifts of Men", "genres": ["Wisdom Poetry"]},
+    {"work": "Precepts", "genres": ["Wisdom Poetry"]},
+    {"work": "Vainglory", "genres": ["Wisdom Poetry"]},
+    {"work": "The Order of the World", "genres": ["Wisdom Poetry"]},
+    {"work": "The Judgement Day I and II", "genres": ["Religious Lyric"]},
+    {"work": "An Exhortation to Christian Living", "genres": ["Religious Lyric"]},
+    {"work": "A Summons to Prayer", "genres": ["Religious Lyric"]},
+    {"work": "The Menologium", "genres": ["Wisdom Poetry"]},
+    {"work": "Homiletic Fragment I and II", "genres": ["Religious Lyric"]},
+    {"work": "The Rune Poem", "genres": ["Wisdom Poetry"]},
+    {"work": "Seasons for Fasting", "genres": ["Religious Lyric"]},
+    {"work": "Bede's Death Song", "genres": ["Religious Lyric"]},
+    {"work": "The Leiden Riddle", "genres": ["Riddle"]},
+    {"work": "The West-Saxon Gospels", "genres": ["Translation"]},
+    {"work": "The Old English Rule of St Benedict", "genres": ["Translation"]},
+    {"work": "Regularis Concordia", "genres": ["Monastic Rule and Customary"]},
+    {"work": "Vita Sancti Wilfridi", "genres": ["Hagiography"]},
+    {"work": "Passio Sancti Eadmundi", "genres": ["Hagiography"]},
+    {"work": "Vita Sancti Gregorii", "genres": ["Hagiography"]},
+    {"work": "Aenigmata (Tatwine's Riddles)", "genres": ["Riddle"]},
+    {"work": "Aenigmata (Hwætberht's Riddles)", "genres": ["Riddle"]},
+    {"work": "Colloquia (Ælfric Bata)", "genres": ["Grammar and Didactic Prose"]},
+    {"work": "Bald's Leechbook", "genres": ["Medical and Scientific Writing"]},
+    {"work": "Lacnunga", "genres": ["Medical and Scientific Writing"]},
+    {"work": "The Old English Herbarium", "genres": ["Medical and Scientific Writing"]},
+    {"work": "The Distichs of Cato (Old English)", "genres": ["Grammar and Didactic Prose"]},
+    {"work": "The Durham Proverbs", "genres": ["Grammar and Didactic Prose"]},
+    {"work": "The Vision of Leofric", "genres": ["Vision Literature"]},
+    {"work": "The Old English Life of St Margaret", "genres": ["Hagiography"]},
+    {"work": "The Old English Life of St Mary of Egypt", "genres": ["Hagiography"]},
+    {"work": "The Old English Life of St Giles", "genres": ["Hagiography"]},
+    {"work": "The Old English Life of St Nicholas", "genres": ["Hagiography"]},
+    {"work": "The Old English Life of St Euphrosyne", "genres": ["Hagiography"]},
+    {"work": "The Legend of the Seven Sleepers", "genres": ["Hagiography"]},
+    {"work": "The Old English Life of St Christopher (fragment)", "genres": ["Hagiography"]},
+    {"work": "The Old English Rule of Chrodegang", "genres": ["Translation"]},
+    {"work": "Laterculus Malalianus", "genres": ["Biblical Commentary and Exegesis"]},
+    {"work": "The Old English Gospel of Nicodemus", "genres": ["Translation"]}
+  ],
+  "work_periods": [
+    {
+      "period": "Old English Period (Anglo-Saxon)",
+      "works": [
+        "The Rhyming Poem", "Resignation", "The Descent into Hell", "Azarias",
+        "The Lord's Prayer I, II, and III", "Gloria I and II", "The Creed",
+        "The Kentish Hymn", "Alms-Giving", "Pharaoh", "The Gifts of Men",
+        "Precepts", "Vainglory", "The Order of the World",
+        "The Judgement Day I and II", "An Exhortation to Christian Living",
+        "A Summons to Prayer", "The Menologium", "Homiletic Fragment I and II",
+        "The Rune Poem", "Seasons for Fasting", "Bede's Death Song",
+        "The Leiden Riddle", "The West-Saxon Gospels",
+        "The Old English Rule of St Benedict", "Regularis Concordia",
+        "Vita Sancti Wilfridi", "Passio Sancti Eadmundi", "Vita Sancti Gregorii",
+        "Aenigmata (Tatwine's Riddles)", "Aenigmata (Hwætberht's Riddles)",
+        "Colloquia (Ælfric Bata)", "Bald's Leechbook", "Lacnunga",
+        "The Old English Herbarium", "The Distichs of Cato (Old English)",
+        "The Durham Proverbs", "The Vision of Leofric",
+        "The Old English Life of St Margaret", "The Old English Life of St Mary of Egypt",
+        "The Old English Life of St Giles", "The Old English Life of St Nicholas",
+        "The Old English Life of St Euphrosyne", "The Legend of the Seven Sleepers",
+        "The Old English Life of St Christopher (fragment)",
+        "The Old English Rule of Chrodegang", "Laterculus Malalianus",
+        "The Old English Gospel of Nicodemus"
+      ]
+    }
+  ],
+  "work_movements": [
+    {"work": "The Rhyming Poem", "movements": ["Anglo-Saxon Heroic Tradition"]},
+    {"work": "The Rune Poem", "movements": ["Anglo-Saxon Heroic Tradition"]},
+    {"work": "The Leiden Riddle", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"work": "Bede's Death Song", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"work": "Vita Sancti Wilfridi", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"work": "Vita Sancti Gregorii", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"work": "Aenigmata (Tatwine's Riddles)", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"work": "Aenigmata (Hwætberht's Riddles)", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"work": "Laterculus Malalianus", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"work": "The West-Saxon Gospels", "movements": ["Benedictine Reform"]},
+    {"work": "The Old English Rule of St Benedict", "movements": ["Benedictine Reform"]},
+    {"work": "Regularis Concordia", "movements": ["Benedictine Reform"]},
+    {"work": "The Old English Rule of Chrodegang", "movements": ["Benedictine Reform"]},
+    {"work": "Passio Sancti Eadmundi", "movements": ["Benedictine Reform"]}
+  ],
+  "work_themes": [
+    {"work": "The Rhyming Poem", "themes": ["The transience of earthly glory (ubi sunt)", "Exile and homelessness", "Wyrd (fate) and providence"]},
+    {"work": "Resignation", "themes": ["Consolation and endurance", "Death, the soul, and the afterlife", "Exile and homelessness"]},
+    {"work": "The Descent into Hell", "themes": ["Death, the soul, and the afterlife", "Judgment Day and eschatology"]},
+    {"work": "Azarias", "themes": ["Typology and biblical interpretation", "Consolation and endurance", "Creation and cosmology"]},
+    {"work": "The Lord's Prayer I, II, and III", "themes": ["Death, the soul, and the afterlife", "Consolation and endurance"]},
+    {"work": "Gloria I and II", "themes": ["Creation and cosmology", "Mission, conversion, and the Church"]},
+    {"work": "The Creed", "themes": ["Mission, conversion, and the Church", "Death, the soul, and the afterlife"]},
+    {"work": "The Kentish Hymn", "themes": ["Creation and cosmology", "Mission, conversion, and the Church"]},
+    {"work": "Alms-Giving", "themes": ["Death, the soul, and the afterlife", "Judgment Day and eschatology"]},
+    {"work": "Pharaoh", "themes": ["Typology and biblical interpretation", "Warfare and battle"]},
+    {"work": "The Gifts of Men", "themes": ["Wisdom and learning", "Creation and cosmology"]},
+    {"work": "Precepts", "themes": ["Wisdom and learning", "Consolation and endurance"]},
+    {"work": "Vainglory", "themes": ["Wisdom and learning", "Judgment Day and eschatology"]},
+    {"work": "The Order of the World", "themes": ["Wisdom and learning", "Creation and cosmology"]},
+    {"work": "The Judgement Day I and II", "themes": ["Judgment Day and eschatology", "Death, the soul, and the afterlife"]},
+    {"work": "An Exhortation to Christian Living", "themes": ["Judgment Day and eschatology", "Death, the soul, and the afterlife", "Consolation and endurance"]},
+    {"work": "A Summons to Prayer", "themes": ["Death, the soul, and the afterlife", "Consolation and endurance"]},
+    {"work": "The Menologium", "themes": ["Mission, conversion, and the Church", "Wisdom and learning"]},
+    {"work": "Homiletic Fragment I and II", "themes": ["Wisdom and learning", "Judgment Day and eschatology"]},
+    {"work": "The Rune Poem", "themes": ["Wisdom and learning", "Christian-pagan synthesis"]},
+    {"work": "Seasons for Fasting", "themes": ["Mission, conversion, and the Church", "Wisdom and learning"]},
+    {"work": "Bede's Death Song", "themes": ["Death, the soul, and the afterlife", "Judgment Day and eschatology", "Wisdom and learning"]},
+    {"work": "The Leiden Riddle", "themes": ["Wisdom and learning"]},
+    {"work": "The West-Saxon Gospels", "themes": ["Mission, conversion, and the Church", "Typology and biblical interpretation", "Wisdom and learning"]},
+    {"work": "The Old English Rule of St Benedict", "themes": ["Monasticism and the religious life", "Mission, conversion, and the Church"]},
+    {"work": "Regularis Concordia", "themes": ["Monasticism and the religious life", "Kingship and good rule", "Mission, conversion, and the Church"]},
+    {"work": "Vita Sancti Wilfridi", "themes": ["Mission, conversion, and the Church", "Kingship and good rule"]},
+    {"work": "Passio Sancti Eadmundi", "themes": ["Kingship and good rule", "Death, the soul, and the afterlife", "Mission, conversion, and the Church"]},
+    {"work": "Vita Sancti Gregorii", "themes": ["Mission, conversion, and the Church", "Wisdom and learning"]},
+    {"work": "Aenigmata (Tatwine's Riddles)", "themes": ["Wisdom and learning", "Typology and biblical interpretation"]},
+    {"work": "Aenigmata (Hwætberht's Riddles)", "themes": ["Wisdom and learning", "Creation and cosmology"]},
+    {"work": "Colloquia (Ælfric Bata)", "themes": ["Wisdom and learning"]},
+    {"work": "Bald's Leechbook", "themes": ["Medicine, healing, and the body", "Wisdom and learning"]},
+    {"work": "Lacnunga", "themes": ["Medicine, healing, and the body", "Christian-pagan synthesis"]},
+    {"work": "The Old English Herbarium", "themes": ["Medicine, healing, and the body", "Wisdom and learning"]},
+    {"work": "The Distichs of Cato (Old English)", "themes": ["Wisdom and learning", "Consolation and endurance"]},
+    {"work": "The Durham Proverbs", "themes": ["Wisdom and learning", "Solitude and the hall community"]},
+    {"work": "The Vision of Leofric", "themes": ["Judgment Day and eschatology", "Monasticism and the religious life", "Death, the soul, and the afterlife"]},
+    {"work": "The Old English Life of St Margaret", "themes": ["Death, the soul, and the afterlife", "Women's experience and the feminine voice", "Mission, conversion, and the Church"]},
+    {"work": "The Old English Life of St Mary of Egypt", "themes": ["Women's experience and the feminine voice", "Consolation and endurance", "Death, the soul, and the afterlife"]},
+    {"work": "The Old English Life of St Giles", "themes": ["Death, the soul, and the afterlife", "Kingship and good rule"]},
+    {"work": "The Old English Life of St Nicholas", "themes": ["Death, the soul, and the afterlife", "Mission, conversion, and the Church"]},
+    {"work": "The Old English Life of St Euphrosyne", "themes": ["Women's experience and the feminine voice", "Monasticism and the religious life"]},
+    {"work": "The Legend of the Seven Sleepers", "themes": ["Death, the soul, and the afterlife", "Judgment Day and eschatology", "Typology and biblical interpretation"]},
+    {"work": "The Old English Life of St Christopher (fragment)", "themes": ["Death, the soul, and the afterlife", "Monsters and the marvellous"]},
+    {"work": "The Old English Rule of Chrodegang", "themes": ["Monasticism and the religious life", "Mission, conversion, and the Church"]},
+    {"work": "Laterculus Malalianus", "themes": ["Typology and biblical interpretation", "Wisdom and learning", "Creation and cosmology"]},
+    {"work": "The Old English Gospel of Nicodemus", "themes": ["Death, the soul, and the afterlife", "Typology and biblical interpretation", "Judgment Day and eschatology"]}
+  ],
+  "author_genres": [
+    {"author": "Stephen of Ripon", "genres": ["Hagiography"]},
+    {"author": "Æthelwold of Winchester", "genres": ["Monastic Rule and Customary", "Translation"]},
+    {"author": "Abbo of Fleury", "genres": ["Hagiography"]},
+    {"author": "Ælfric Bata", "genres": ["Grammar and Didactic Prose"]},
+    {"author": "Tatwine", "genres": ["Riddle"]},
+    {"author": "Hwætberht", "genres": ["Riddle"]},
+    {"author": "Theodore of Tarsus", "genres": ["Biblical Commentary and Exegesis"]}
+  ],
+  "author_movements": [
+    {"author": "Stephen of Ripon", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"author": "Tatwine", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"author": "Hwætberht", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"author": "Theodore of Tarsus", "movements": ["Early Anglo-Latin Learning and the Northumbrian Golden Age"]},
+    {"author": "Æthelwold of Winchester", "movements": ["Benedictine Reform"]},
+    {"author": "Abbo of Fleury", "movements": ["Benedictine Reform"]}
+  ],
+  "author_themes": [
+    {"author": "Stephen of Ripon", "themes": ["Mission, conversion, and the Church", "Kingship and good rule"]},
+    {"author": "Æthelwold of Winchester", "themes": ["Monasticism and the religious life", "Mission, conversion, and the Church", "Wisdom and learning"]},
+    {"author": "Abbo of Fleury", "themes": ["Kingship and good rule", "Mission, conversion, and the Church", "Death, the soul, and the afterlife"]},
+    {"author": "Ælfric Bata", "themes": ["Wisdom and learning"]},
+    {"author": "Tatwine", "themes": ["Wisdom and learning", "Typology and biblical interpretation"]},
+    {"author": "Hwætberht", "themes": ["Wisdom and learning", "Creation and cosmology"]},
+    {"author": "Theodore of Tarsus", "themes": ["Wisdom and learning", "Typology and biblical interpretation"]}
+  ],
+  "author_influences": [
+    {"author": "Tatwine", "influenced_by": ["Aldhelm"]},
+    {"author": "Hwætberht", "influenced_by": ["Aldhelm"]},
+    {"author": "Ælfric Bata", "influenced_by": ["Ælfric of Eynsham"]}
+  ],
+  "author_sources": [
+    {"author": "Stephen of Ripon", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"author": "Æthelwold of Winchester", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition", "English Historical Documents, Volume I: c. 500–1042"]},
+    {"author": "Abbo of Fleury", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"author": "Ælfric Bata", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"]},
+    {"author": "Tatwine", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"author": "Hwætberht", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"author": "Theodore of Tarsus", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]}
+  ],
+  "work_sources": [
+    {"work": "The Rhyming Poem", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"]},
+    {"work": "Resignation", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Descent into Hell", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "Azarias", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "The Lord's Prayer I, II, and III", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "Gloria I and II", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Creed", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Kentish Hymn", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "Alms-Giving", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "Pharaoh", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Gifts of Men", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"]},
+    {"work": "Precepts", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "Vainglory", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Order of the World", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Judgement Day I and II", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "An Exhortation to Christian Living", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "A Summons to Prayer", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Menologium", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"]},
+    {"work": "Homiletic Fragment I and II", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The Rune Poem", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "British Library Digitised Manuscripts"]},
+    {"work": "Seasons for Fasting", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "Bede's Death Song", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry", "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "The Leiden Riddle", "sources": ["The Anglo-Saxon Poetic Records: A Collective Edition", "Anglo-Saxon Poetry"]},
+    {"work": "The West-Saxon Gospels", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition", "A Guide to Old English, 8th edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Old English Rule of St Benedict", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "Regularis Concordia", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition", "English Historical Documents, Volume I: c. 500–1042"]},
+    {"work": "Vita Sancti Wilfridi", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "Passio Sancti Eadmundi", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "Vita Sancti Gregorii", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "Aenigmata (Tatwine's Riddles)", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "Aenigmata (Hwætberht's Riddles)", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "Colloquia (Ælfric Bata)", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"]},
+    {"work": "Bald's Leechbook", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "British Library Digitised Manuscripts"]},
+    {"work": "Lacnunga", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "British Library Digitised Manuscripts"]},
+    {"work": "The Old English Herbarium", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "British Library Digitised Manuscripts", "Dictionary of Old English: A to I online"]},
+    {"work": "The Distichs of Cato (Old English)", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Durham Proverbs", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Vision of Leofric", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Old English Life of St Margaret", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "The Old English Life of St Mary of Egypt", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Old English Life of St Giles", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Old English Life of St Nicholas", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Old English Life of St Euphrosyne", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Legend of the Seven Sleepers", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]},
+    {"work": "The Old English Life of St Christopher (fragment)", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online", "British Library Digitised Manuscripts"]},
+    {"work": "The Old English Rule of Chrodegang", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"]},
+    {"work": "Laterculus Malalianus", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "The Cambridge Companion to Old English Literature, 2nd edition"]},
+    {"work": "The Old English Gospel of Nicodemus", "sources": ["The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition", "Dictionary of Old English: A to I online"]}
+  ],
+  "work_editions": [
+    {
+      "work": "The West-Saxon Gospels",
+      "editions": [
+        {"edition_title": "The Old English Version of the Gospels", "editor": "R. M. Liuzza (ed.)", "publisher": "Early English Text Society (Oxford University Press)", "publication_year": 1994, "edition_notes": "Two volumes (1994-2000); the standard edition."}
+      ]
+    },
+    {
+      "work": "Regularis Concordia",
+      "editions": [
+        {"edition_title": "Regularis Concordia Anglicae Nationis", "editor": "Thomas Symons (ed. and trans.)", "publisher": "Thomas Nelson and Sons", "publication_year": 1953, "edition_notes": "Standard edition with translation."}
+      ]
+    },
+    {
+      "work": "Vita Sancti Wilfridi",
+      "editions": [
+        {"edition_title": "The Life of Bishop Wilfrid by Eddius Stephanus", "editor": "Bertram Colgrave (ed. and trans.)", "publisher": "Cambridge University Press", "publication_year": 1927, "edition_notes": "The standard edition and translation."}
+      ]
+    },
+    {
+      "work": "Vita Sancti Gregorii",
+      "editions": [
+        {"edition_title": "The Earliest Life of Gregory the Great", "editor": "Bertram Colgrave (ed. and trans.)", "publisher": "Cambridge University Press", "publication_year": 1968, "edition_notes": "The standard edition and translation of the Whitby life."}
+      ]
+    },
+    {
+      "work": "Bald's Leechbook",
+      "editions": [
+        {"edition_title": "Leechdoms, Wortcunning, and Starcraft of Early England", "editor": "Oswald Cockayne (ed.)", "publisher": "Rolls Series (Longman)", "publication_year": 1864, "edition_notes": "Three volumes (1864-1866); the editio princeps of the Old English medical corpus."}
+      ]
+    },
+    {
+      "work": "Lacnunga",
+      "editions": [
+        {"edition_title": "Anglo-Saxon Remedies, Charms, and Prayers from British Library MS Harley 585: The Lacnunga", "editor": "Edward Pettit (ed.)", "publisher": "Edwin Mellen Press", "publication_year": 2001, "edition_notes": "Modern standard edition with commentary."}
+      ]
+    },
+    {
+      "work": "The Rune Poem",
+      "editions": [
+        {"edition_title": "The Old English Rune Poem: A Critical Edition", "editor": "Maureen Halsall (ed.)", "publisher": "University of Toronto Press", "publication_year": 1981, "edition_notes": "The standard critical edition."}
+      ]
+    }
+  ]
+}

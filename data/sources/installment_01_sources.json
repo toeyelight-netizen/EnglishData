@@ -1,0 +1,94 @@
+[
+  {
+    "title": "The Norton Anthology of English Literature, 10th edition, Volume A: The Middle Ages",
+    "author_or_editor": "Stephen Greenblatt (general editor); James Simpson and Julie Orlemanski (eds.)",
+    "publisher": "W. W. Norton",
+    "publication_year": 2018,
+    "source_type": "anthology",
+    "reliability_notes": "Standard scholarly anthology used as the starting framework for period coverage; texts in modern translation with authoritative introductions."
+  },
+  {
+    "title": "The Cambridge Companion to Old English Literature, 2nd edition",
+    "author_or_editor": "Malcolm Godden and Michael Lapidge (eds.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2013,
+    "source_type": "reference",
+    "reliability_notes": "Authoritative survey essays on all major genres, authors, and contexts of the period."
+  },
+  {
+    "title": "A Guide to Old English, 8th edition",
+    "author_or_editor": "Bruce Mitchell and Fred C. Robinson",
+    "publisher": "Wiley-Blackwell",
+    "publication_year": 2011,
+    "source_type": "textbook",
+    "reliability_notes": "Standard textbook of the language with texts; used for linguistic and textual verification."
+  },
+  {
+    "title": "The Anglo-Saxon Poetic Records: A Collective Edition",
+    "author_or_editor": "George Philip Krapp and Elliott Van Kirk Dobbie (eds.)",
+    "publisher": "Columbia University Press",
+    "publication_year": 1953,
+    "source_type": "edition",
+    "reliability_notes": "The standard edition of the complete Old English poetic corpus in six volumes (1931–1953)."
+  },
+  {
+    "title": "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition",
+    "author_or_editor": "Michael Lapidge, John Blair, Simon Keynes, and Donald Scragg (eds.)",
+    "publisher": "Wiley-Blackwell",
+    "publication_year": 2014,
+    "source_type": "encyclopedia",
+    "reliability_notes": "Comprehensive scholarly reference for persons, places, texts, and institutions of the period."
+  },
+  {
+    "title": "English Historical Documents, Volume I: c. 500–1042",
+    "author_or_editor": "Dorothy Whitelock (ed.)",
+    "publisher": "Eyre and Spottiswoode",
+    "publication_year": 1955,
+    "source_type": "edition",
+    "reliability_notes": "Standard collection of translated primary documents (chronicles, laws, charters, letters)."
+  },
+  {
+    "title": "The Anglo-Saxon Chronicle: A Revised Translation",
+    "author_or_editor": "Dorothy Whitelock, David C. Douglas, and Susie I. Tucker (eds.); Michael Swanton (rev. trans.)",
+    "publisher": "Routledge",
+    "publication_year": 1996,
+    "source_type": "edition",
+    "reliability_notes": "Standard modern translation of all major Chronicle manuscripts."
+  },
+  {
+    "title": "Anglo-Saxon Poetry",
+    "author_or_editor": "S. A. J. Bradley (trans.)",
+    "publisher": "J. M. Dent (Everyman)",
+    "publication_year": 1982,
+    "source_type": "edition",
+    "reliability_notes": "Complete prose translation of the Old English poetic corpus; used for plot summaries and structural description."
+  },
+  {
+    "title": "Beowulf: A Verse Translation",
+    "author_or_editor": "Seamus Heaney (trans.); Daniel Donoghue (ed.)",
+    "publisher": "W. W. Norton",
+    "publication_year": 2002,
+    "source_type": "edition",
+    "reliability_notes": "Influential modern verse translation with critical apparatus."
+  },
+  {
+    "title": "Dictionary of Old English: A to I online",
+    "author_or_editor": "Antonette diPaolo Healey et al. (eds.)",
+    "publisher": "Dictionary of Old English Project, University of Toronto",
+    "publication_year": 2007,
+    "source_type": "reference",
+    "url": "https://tapor.library.utoronto.ca/doe/",
+    "accessed_date": "2026-11-03",
+    "reliability_notes": "The standard lexicographical resource for Old English; used for linguistic verification."
+  },
+  {
+    "title": "British Library Digitised Manuscripts",
+    "author_or_editor": "British Library",
+    "publisher": "British Library",
+    "publication_year": 2010,
+    "source_type": "archive",
+    "url": "https://www.bl.uk/manuscripts/",
+    "accessed_date": "2026-11-03",
+    "reliability_notes": "Digital facsimiles of Cotton manuscripts including the Nowell Codex (Beowulf) and related items; used for manuscript verification."
+  }
+]

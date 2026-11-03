@@ -1,0 +1,80 @@
+[
+  {
+    "title": "The Cambridge History of Medieval English Literature",
+    "author_or_editor": "David Wallace (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 1999,
+    "source_type": "reference",
+    "reliability_notes": "The standard collaborative history of English literature 1066–1547; used as the primary framework for period coverage, movements, and canonical selection."
+  },
+  {
+    "title": "The Cambridge Companion to Medieval English Literature 1100–1500",
+    "author_or_editor": "Larry Scanlon (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2009,
+    "source_type": "reference",
+    "reliability_notes": "Authoritative survey essays on the literature of the period; used for contextual and critical verification."
+  },
+  {
+    "title": "A Book of Middle English, 4th edition",
+    "author_or_editor": "J. A. Burrow and Thorlac Turville-Petre",
+    "publisher": "Wiley-Blackwell",
+    "publication_year": 2004,
+    "source_type": "textbook",
+    "reliability_notes": "The standard teaching edition of early Middle English texts with grammar and glossary; used for textual and linguistic verification of the earlier works."
+  },
+  {
+    "title": "Middle English Dictionary",
+    "author_or_editor": "Robert E. Lewis et al. (eds.), Middle English Compendium",
+    "publisher": "University of Michigan Press / University of Michigan Library",
+    "publication_year": 2001,
+    "source_type": "reference",
+    "url": "https://quod.lib.umich.edu/m/middle-english-dictionary/",
+    "accessed_date": "2026-11-03",
+    "reliability_notes": "The standard lexicographical resource for Middle English (1100–1500); used for linguistic verification."
+  },
+  {
+    "title": "The Riverside Chaucer, 3rd edition",
+    "author_or_editor": "Larry D. Benson (gen. ed.)",
+    "publisher": "Houghton Mifflin",
+    "publication_year": 1987,
+    "source_type": "edition",
+    "reliability_notes": "The standard complete edition of Chaucer's works with introductions and notes; used for all Chaucerian records."
+  },
+  {
+    "title": "English Historical Documents, Volume II: 1042–1189",
+    "author_or_editor": "David C. Douglas and George W. Greenaway (eds.)",
+    "publisher": "Eyre and Spottiswoode",
+    "publication_year": 1953,
+    "source_type": "edition",
+    "reliability_notes": "Standard collection of translated primary documents for the Norman and Angevin periods."
+  },
+  {
+    "title": "English Historical Documents, Volume III: 1189–1327",
+    "author_or_editor": "Harry Rothwell (ed.)",
+    "publisher": "Eyre and Spottiswoode",
+    "publication_year": 1975,
+    "source_type": "edition",
+    "reliability_notes": "Standard collection of translated primary documents for the thirteenth and early fourteenth centuries."
+  },
+  {
+    "title": "TEAMS Middle English Texts Series",
+    "author_or_editor": "Russell A. Peck (gen. ed.); Consortium for the Teaching of the Middle Ages",
+    "publisher": "Medieval Institute Publications, Western Michigan University",
+    "publication_year": 1990,
+    "source_type": "edition",
+    "url": "https://d.lib.rochester.edu/teams",
+    "accessed_date": "2026-11-03",
+    "reliability_notes": "Open-access scholarly editions of Middle English texts (romances, drama, devotional prose); used for textual verification of works without modern print editions in hand."
+  },
+  {
+    "title": "Oxford Dictionary of National Biography",
+    "author_or_editor": "H. C. G. Matthew and Brian Harrison (eds.); online edition",
+    "publisher": "Oxford University Press",
+    "publication_year": 2004,
+    "source_type": "reference",
+    "url": "https://www.oxforddnb.com",
+    "accessed_date": "2026-11-03",
+    "reliability_notes": "The standard biographical reference; used for author dates, careers, and biographical verification."
+  }
+]

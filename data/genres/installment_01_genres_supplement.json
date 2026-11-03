@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Monastic Rule and Customary",
+    "parent_genre": "Prose",
+    "description": "Latin and Old English texts governing the communal religious life: monastic rules, customaries, and related regulative documents produced for reformed Benedictine houses and communities of canons.",
+    "historical_development": "In Anglo-Saxon England the genre emerges with the Benedictine Reform of the mid-tenth century, when Æthelwold of Winchester and his circle translated the Rule of St Benedict into Old English and composed the Regularis Concordia (c. 970) to unify English monastic observance. Continental customaries (Fleury, Ghent) were adapted to English conditions, and related regulative texts such as the enlarged Rule of Chrodegang were translated for communities of secular canons. The genre remains productive through the Middle English period in rules and visitation documents for religious houses."
+  },
+  {
+    "name": "Medical and Scientific Writing",
+    "parent_genre": "Prose",
+    "description": "Vernacular and Latin texts of medicine, pharmacy, and natural science: leechbooks (remedy collections), herbals, charms, and computistical or astronomical writing.",
+    "historical_development": "Old English medical writing descends from classical and late-antique Latin medicine transmitted through monastic centres. The earliest substantial vernacular collection is Bald's Leechbook (Winchester, c. 925-950), followed by the Lacnunga (c. 1000) and the translation of the enlarged Pseudo-Apuleius Herbarium. These texts blend learned Galenic material, folk remedies, and charms, and are among the earliest medical writings in any European vernacular. The genre continues in Middle English recipe collections and the works of later English medical writers."
+  },
+  {
+    "name": "Vision Literature",
+    "parent_genre": "Prose",
+    "description": "Prose accounts of visions of the other world or of supernatural visitations, usually with an eschatological or penitential purpose.",
+    "historical_development": "Rooted in the visionary sections of scripture and in late-antique Christian literature (the Visio Pauli), the prose vision becomes a major genre in early medieval England through the visions recorded in Bede's Historia ecclesiastica and in the Vision of Leofric (c. 1050). The genre flourishes in the twelfth century and beyond (the Vision of Tnugdal, St Patrick's Purgatory, and ultimately Langland and the Pearl-poet in verse). Old English examples combine eyewitness testimony with homiletic exhortation to penance."
+  },
+  {
+    "name": "Biblical Commentary and Exegesis",
+    "parent_genre": "Prose",
+    "description": "Commentaries, exegetical treatises, and school texts that interpret scripture, often combining patristic learning with chronography and computus.",
+    "historical_development": "Anglo-Saxon exegesis begins with the Canterbury school of Theodore of Tarsus and Hadrian (the Laterculus Malalianus and the Canterbury biblical commentaries, c. 670s) and continues through Bede's commentaries on scripture, which became standard throughout medieval Europe. Aldhelm, Alcuin, and the Benedictine Reform writers sustained the tradition, and vernacular exegesis appears in Ælfric's homilies and prefaces. The genre transmitted the fourfold method of interpretation (literal, allegorical, tropological, anagogical) into later English religious writing."
+  }
+]

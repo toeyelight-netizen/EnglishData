@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Romance",
+    "description": "Narrative fiction of chivalric adventure, love, and the marvellous, typically composed in rhyming couplets or tail-rhyme stanzas and centred on the trials and recognitions of a knight (or a lady) through exile, combat, and return. The dominant secular narrative genre of Middle English.",
+    "historical_development": "Derived from French sources (romans d'aventure, Arthurian and Carolingian cycles), the Middle English romances run from King Horn and Floris and Blancheflour (c. 1250) through the Auchinleck manuscript romances (c. 1330) and the tail-rhyme romances of the fourteenth century to Malory's prose Morte Darthur (c. 1470) and the printed romances of Caxton's successors; the alliterative Morte Arthure and Sir Gawain and the Green Knight fuse the genre with the alliterative tradition."
+  },
+  {
+    "name": "Debate Poetry",
+    "parent_genre": "Poetry",
+    "description": "Verse in which personified or animal speakers dispute a question of love, morals, or doctrine, usually without decisive adjudication, displaying the rhetorical and comic possibilities of opposed viewpoints.",
+    "historical_development": "Inherited from the Latin and French traditions of the conflictus and débat; the outstanding Middle English examples are The Owl and the Nightingale (c. 1200), Winner and Waster (c. 1352), The Parliament of the Three Ages, and Dunbar's Tretis of the Tua Mariit Wemen and the Wedo (c. 1500–07); Chaucer's Parliament of Fowls and the bird debates descend from the same tradition."
+  },
+  {
+    "name": "Fabliau",
+    "parent_genre": "Poetry",
+    "description": "Short comic tale in verse, usually of bourgeois life, sexual trickery, and clerical folly, told with relish and moral nonchalance.",
+    "historical_development": "Adapted from the Old French fabliaux in the thirteenth century (Dame Sirith, The Fox and the Wolf as beast-fabliau) and perfected by Chaucer in the Miller's, Reeve's, Shipman's, Merchant's, and Summoner's Tales; the genre's anticlerical comedy persists into the fifteenth century."
+  },
+  {
+    "name": "Verse Chronicle",
+    "parent_genre": "Poetry",
+    "description": "Narrative history in verse, recounting the deeds of kings, nations, and heroes from legendary origins to the writer's own day.",
+    "historical_development": "The great early example is Layamon's Brut (c. 1190–1215); the tradition continues in Robert Mannyng's Chronicle (1338), the Scottish Brus (c. 1375) and Wallace (c. 1477), and the historical romances of the Alliterative Revival (Morte Arthure, The Destruction of Troy)."
+  },
+  {
+    "name": "Lyric",
+    "parent_genre": "Poetry",
+    "description": "Short stanzaic poems, secular or religious, sung or written in the first person on love, springtime, mortality, and devotion; the most widely practised Middle English poetic form after the romance.",
+    "historical_development": "From the twelfth-century Poema Morale and the lyrics of the thirteenth and fourteenth centuries (preserved especially in Harley 2253) through the courtly lyrics of Chaucer's circle to the aureate devotional lyrics of the fifteenth century (Lydgate, the carol tradition); the Scottish makars bring the mode to its medieval climax."
+  },
+  {
+    "name": "Lay (Breton Lai)",
+    "parent_genre": "Poetry",
+    "description": "Short romance of love and the supernatural, typically claiming Breton origin and moving through fairy intervention, separation, and reunion to a joyful ending.",
+    "historical_development": "Modelled on the lais of Marie de France; the principal English examples are Sir Orfeo (c. 1300), Sir Launfal (c. 1390), Emaré (c. 1400), Sir Degaré, and the northern Sir Cleges; the genre's conventions are absorbed into Chaucer's Franklin's Tale."
+  },
+  {
+    "name": "Political Verse",
+    "parent_genre": "Poetry",
+    "description": "Verse of political comment, complaint, and satire: attacks on corrupt government and clergy, laments for great men, and poems on the miseries of the times, often circulating as broadsides and in commonplace books.",
+    "historical_development": "A continuous strain from the thirteenth century (The Song of Lewes, 1264, and related satires) through the fourteenth-century poems on the Scottish and French wars, the Peasants' Revolt, and Richard II (e.g., The Simony, On the Times), to the political prophecies and complaints of the fifteenth century; Gower's Vox Clamantis and the Lollard Twelve Conclusions belong to its orbit."
+  },
+  {
+    "name": "Drama",
+    "description": "Plays composed for performance, religious or secular: the biblical mystery cycles, miracle plays on saints and the sacrament, and the allegorical moralities, staged by guilds, parishes, and travelling companies in streets, inn-yards, and halls.",
+    "historical_development": "From liturgical Quem quaeritis dialogues through the civic Corpus Christi cycles (York register 1463–77; Towneley, Chester, N-Town) to the moralities of the fifteenth century (Castle of Perseverance, Mankind, Wisdom, Everyman); the tradition passes into the Tudor interludes and the Elizabethan theatre."
+  },
+  {
+    "name": "Mystery Play",
+    "parent_genre": "Drama",
+    "description": "Plays dramatizing biblical history from Creation to Doom, performed in pageant sequence on Corpus Christi day by the craft guilds of the northern and midland cities.",
+    "historical_development": "The four surviving cycles — York (48 pageants), Towneley or Wakefield (32), Chester (24), and N-Town (42) — represent a tradition documented from the late fourteenth century and suppressed by the Reformation; the Wakefield Master's plays (notably the Second Shepherds' Play) are its artistic summit."
+  },
+  {
+    "name": "Morality Play",
+    "parent_genre": "Drama",
+    "description": "Allegorical plays of the Christian life in which personified virtues and vices contend for the soul of a representative human figure (Mankind, Everyman), staged by travelling players for mixed audiences.",
+    "historical_development": "The Castle of Perseverance (c. 1400–25), Wisdom, and Mankind (c. 1465–70) — the last preserved in the Macro manuscript — lead to Everyman (c. 1500), translated from the Dutch Elckerlijc; the genre feeds directly into the Tudor interludes and the Vice figure of Elizabethan drama."
+  },
+  {
+    "name": "Miracle Play",
+    "parent_genre": "Drama",
+    "description": "Plays on the lives of saints and on miracles of the Virgin and the consecrated host, dramatizing conversion, martyrdom, and divine vengeance on the impious.",
+    "historical_development": "Represented in English by the Croxton Play of the Sacrament (c. 1461), the Digby plays (Mary Magdalene, The Conversion of St Paul), and the Cornish saints' plays; the genre shares staging conventions with the cycles and moralities."
+  },
+  {
+    "name": "Devotional and Mystical Writing",
+    "parent_genre": "Prose",
+    "description": "Prose (and occasional verse) of spiritual instruction and contemplation: guides to prayer, treatises on the love of God, meditations on the Passion, visions, and lives of devotion, addressed to recluses, religious, and increasingly to literate laity.",
+    "historical_development": "From the AB language texts (Ancrene Wisse, c. 1225–40; the Katherine and Wooing groups) through Rolle, Hilton, The Cloud of Unknowing, and Julian of Norwich (late fourteenth century) to Nicholas Love's Mirror (c. 1410), The Book of Margery Kempe (c. 1436–38), and the devotional prose of the fifteenth century; closely allied to sermon literature (Mirk's Festial) and to translation (Love, Trevisa)."
+  },
+  {
+    "name": "Courtesy Book and Household Manual",
+    "parent_genre": "Prose",
+    "description": "Didactic prose and verse on manners, household management, and the conduct of the estates: instructions for pages, servants, and children in the rituals of civility, and practical compilations of cookery, husbandry, and ceremony.",
+    "historical_development": "A late medieval and early modern genre: The Babees Book and related courtesy poems (c. 1475), The Book of St Albans (1486, with treatises on hawking, hunting, and heraldry), the cookery collections (The Forme of Cury, c. 1390), and John Russell's Boke of Nurture; printed and reprinted into the sixteenth century."
+  },
+  {
+    "name": "Philosophy and Scholastic Writing",
+    "parent_genre": "Prose",
+    "description": "Latin (and occasionally English) treatises of logic, metaphysics, natural philosophy, and political thought produced within the schools, the universities, and the episcopal and royal administrations.",
+    "historical_development": "From the twelfth-century humanism of John of Salisbury's Policraticus (1159) through the scientific program of Roger Bacon's Opus Maius (1267) to the scholastic summits of Duns Scotus's Ordinatio (c. 1300–08) and Ockham's Summa Logicae (c. 1323), with the learned administration of Richard de Bury's Philobiblon (1344) and the anti-Wycliffite polemic of Reginald Pecock in the fifteenth century."
+  }
+]
