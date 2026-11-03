@@ -1,0 +1,74 @@
+[
+  {
+    "title": "The Cambridge History of Early Modern English Literature",
+    "author_or_editor": "David Loewenstein and Janel Mueller (eds.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2002,
+    "source_type": "reference",
+    "reliability_notes": "The standard collaborative history of English literature 1500–1700; used as the primary framework for period coverage, movements, and canonical selection in Installment 3."
+  },
+  {
+    "title": "English Literature in the Sixteenth Century, Excluding Drama",
+    "author_or_editor": "C. S. Lewis",
+    "publisher": "Oxford University Press (The Oxford History of English Literature, vol. 3)",
+    "publication_year": 1954,
+    "source_type": "reference",
+    "reliability_notes": "The classic single-author survey of sixteenth-century English literature; used for canonical judgements, periodization, and the assessment of the 'drab' and 'golden' styles."
+  },
+  {
+    "title": "The Oxford Handbook of Tudor Literature, 1485–1603",
+    "author_or_editor": "Mike Pincombe and Cathy Shrank (eds.)",
+    "publisher": "Oxford University Press",
+    "publication_year": 2009,
+    "source_type": "reference",
+    "reliability_notes": "Authoritative essay collection on Tudor literature in its material and political contexts; used for biographical and bibliographical verification of the early Tudor authors."
+  },
+  {
+    "title": "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+    "author_or_editor": "Stephen Greenblatt (gen. ed.)",
+    "publisher": "W. W. Norton",
+    "publication_year": 2018,
+    "source_type": "anthology",
+    "reliability_notes": "Standard classroom anthology; used for establishing the canonical core of the period and for texts in modern spelling."
+  },
+  {
+    "title": "Sir Thomas Wyatt: The Complete Poems",
+    "author_or_editor": "R. A. Rebholz (ed.)",
+    "publisher": "Penguin Books",
+    "publication_year": 1978,
+    "source_type": "edition",
+    "reliability_notes": "The standard modern edition of Wyatt's verse; used for titles, dates, and textual facts of the Wyatt canon."
+  },
+  {
+    "title": "The Book of Common Prayer: The Texts of 1549, 1559, and 1662",
+    "author_or_editor": "Brian Cummings (ed.)",
+    "publisher": "Oxford University Press (Oxford World's Classics)",
+    "publication_year": 2011,
+    "source_type": "edition",
+    "reliability_notes": "Standard modern edition of the Prayer Book texts; used for the liturgical record of the Reformation settlement."
+  },
+  {
+    "title": "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+    "author_or_editor": "Lloyd Edward Kermode, Jason Scott-Warren, and Martine van Elk (eds.)",
+    "publisher": "Palgrave Macmillan",
+    "publication_year": 2004,
+    "source_type": "reference",
+    "reliability_notes": "Scholarly survey of early Tudor drama; used for dates and contexts of the interludes and moralities."
+  },
+  {
+    "title": "The King's Reformation: Henry VIII and the Remaking of the English Church",
+    "author_or_editor": "G. W. Bernard",
+    "publisher": "Yale University Press",
+    "publication_year": 2005,
+    "source_type": "reference",
+    "reliability_notes": "Standard modern history of the Henrician Reformation; used for the political and ecclesiastical context of the polemical literature."
+  },
+  {
+    "title": "Poetry and Politics in the English Renaissance, revised edition",
+    "author_or_editor": "David Norbrook",
+    "publisher": "Oxford University Press",
+    "publication_year": 2002,
+    "source_type": "reference",
+    "reliability_notes": "Influential study of the political dimension of Renaissance poetry; used for the political reading of Skelton, Wyatt, and Surrey."
+  }
+]

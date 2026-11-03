@@ -8,9 +8,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 - Current schema revision (Alembic): `c2d3e4f5a6b7` (initial schema + FTS5 +
   work detail columns).
 - Backups: `database/backups/English_Literature_Master_installment_01.db`,
-  `database/backups/English_Literature_Master_installment_02.db`.
+  `database/backups/English_Literature_Master_installment_02.db`,
+  `database/backups/English_Literature_Master_installment_03.db`.
 - Validation reports: `documentation/validation_reports/validation_report_01.md`,
-  `documentation/validation_reports/validation_report_02.md`.
+  `documentation/validation_reports/validation_report_02.md`,
+  `documentation/validation_reports/validation_report_03.md`.
 
 ## Installment 1 — Old English and Early Medieval Literature (c. 450–1100)
 
@@ -272,14 +274,124 @@ genres, 36 themes, 20 sources. Next installment begins only on instruction.
 
 ---
 
-## Installments 3–10
+## Installment 3 — Renaissance and Early Tudor (c. 1500–1558)
+
+**Status: COMPLETE** — 2026-11-04
+
+### Scope
+
+The English Renaissance from its humanist beginnings to the accession of
+Elizabeth I (c. 1500–1558): Skelton and the early Tudor court poets, the
+More circle and northern humanism, Wyatt and Surrey and the invention of
+the English sonnet, the Reformation print war (Tyndale, More, Cranmer,
+Latimer, Coverdale), the early Tudor interludes and morality plays, the
+Tudor chroniclers, the first English biographies, and the Scottish
+Renaissance of Douglas and Lindsay.
+
+### Records added
+
+| Entity | Added | Cumulative |
+|---|---|---|
+| Authors | 34 | 101 |
+| Works | 92 | 352 |
+| Anonymous works | 7 | 144 |
+| Periods | 1 | 3 |
+| Movements | 5 | 18 |
+| Genres | 9 | 50 |
+| Themes | 9 | 45 |
+| Sources | 9 | 29 |
+| Work–author links | 81 | 190 |
+| Work editions | 38 | 126 |
+| Other relationship rows | 1,678 | 3,998 |
+
+### Authors (34)
+
+John Skelton, Sir Thomas More, William Tyndale, Sir Thomas Wyatt, Henry
+Howard Earl of Surrey, Thomas Cranmer, Hugh Latimer, John Bale, John
+Heywood, Sir Thomas Elyot, Roger Ascham, Alexander Barclay, Stephen Hawes,
+John Leland, Robert Fabyan, Edward Hall, Nicholas Udall, Henry Medwall,
+Miles Coverdale, William Roper, John Fisher, William Baldwin, Anne Askew,
+Catherine Parr, William Lily, John Colet, Thomas Linacre, John Rastell,
+George Cavendish, Andrew Boorde, John Redford, Sir David Lindsay, Gavin
+Douglas, Robert Whittington.
+
+### Works (92) — summary by group
+
+- **Early Tudor court poetry and satire (24):** Skelton's eight major
+  poems (The Bowge of Courte, Philip Sparrow, The Tunning of Elinour
+  Rumming, Magnificence, Speke Parrot, Colin Clout, Why Come Ye Nat to
+  Courte?, The Garland of Laurel); Wyatt's Poems, Penitential Psalms, and
+  Satires; Surrey's Poems and his blank-verse Aeneid II and IV; Hawes's
+  Pastime of Pleasure and Example of Virtue; Barclay's Ship of Fools and
+  Eclogues; Douglas's Palice of Honour, King Hart, and Eneados; Lindsay's
+  Dreme, Testament of the Papyngo, and Ane Satyre of the Thrie Estaitis;
+  Tottel's Miscellany.
+- **Humanist prose (28):** More's Utopia, Richard III, Dialogue Concerning
+  Heresies, Supplication of Souls, Dialogue of Comfort, and Epigrammata;
+  Elyot's Governour, Castle of Health, and Dictionary; Ascham's Toxophilus
+  and Schoolmaster; Roper's Life of More; Cavendish's Life of Wolsey;
+  Baldwin's Treatise of Moral Philosophy and Beware the Cat; Leland's
+  Itinerary and Cygnea Cantio; Fabyan's New Chronicles; Hall's Union of the
+  Two Noble and Illustre Families; Fisher's exposition of the seven
+  penitential psalms; Lily's Grammar; Colet's Aeditio; Linacre's De
+  Emendata Structura and Galen translations; Rastell's Pastime of People;
+  Boorde's Introduction of Knowledge and Dyetary of Health; Whittington's
+  Vulgaria.
+- **Early Tudor drama (21):** Medwall's Fulgens and Lucrece and Nature;
+  Heywood's six interludes (The Play of the Weather, A Play of Love, The
+  Pardoner and the Friar, The Four PP, Johan Johan, Witty and Witless);
+  Redford's Wit and Science; Udall's Ralph Roister Doister; Rastell's Four
+  Elements and the attributed Gentleness and Nobility; and the anonymous
+  and attributed plays Gammer Gurton's Needle, Respublica, Godly Queen
+  Hester, Jacob and Esau, Nice Wanton, Lusty Juventus, Calisto and Melebea,
+  Hickscorner, and the Interlude of Youth.
+- **Reformation literature (19):** Tyndale's New Testament, Pentateuch,
+  Obedience of a Christian Man, Parable of the Wicked Mammon, Practice of
+  Prelates, and Answer unto More; Cranmer's Book of Common Prayer (1549),
+  Book of Homilies, and Defence of the Sacrament; Latimer's Sermon of the
+  Plough and Sermons before Edward VI; Coverdale's Bible, Great Bible, and
+  Goostly Psalmes; Askew's Examinations; Parr's Prayers or Meditations and
+  Lamentation of a Sinner; Bale's King Johan and Chief Promises of God.
+
+### Validation results
+
+- `PRAGMA integrity_check`: **ok**
+- `PRAGMA foreign_key_check`: **0 violations**
+- Validation script (`validate_database.py --installment 03`): **0 issues**
+- Duplicate check: **0 duplicate groups**
+- Test suite: **14/14 passing** (including idempotent re-import test)
+- Import re-run idempotent: 0 warnings, no duplicates created
+
+### Attribution notes
+
+The attributed plays (Gentleness and Nobility, Gammer Gurton's Needle,
+Lusty Juventus, Beware the Cat) carry `attributed` status with the
+ascription documented in `attribution_notes` and no author links,
+consistent with the validator's anonymity rule; the seven anonymous plays
+are recorded without author links. Collaborative compilations (Tottel's
+Miscellany, the Book of Homilies, the authorized Lily's Grammar) are
+recorded under their compiler or chief author with the collaboration noted.
+Translation records use `translator` and `editor` contribution types
+(Tyndale, Coverdale, Surrey's Aeneid, Douglas's Eneados, the Great Bible).
+
+### Confirmation
+
+Master database preserved; installment backup at
+`database/backups/English_Literature_Master_installment_03.db`. Cumulative
+totals: 101 authors, 352 works (144 anonymous), 3 periods, 18 movements,
+50 genres, 45 themes, 29 sources. Next installment begins only on
+instruction.
+
+---
+
+## Installments 4–10
 
 Not yet begun. Per protocol, the next installment begins only on instruction.
 
 | # | Period | Status |
 |---|---|---|
 | 2 | Middle English Literature (c. 1100–1500) | Complete |
-| 3 | Renaissance and Early Tudor (c. 1500–1558) | Pending |
+| 3 | Renaissance and Early Tudor (c. 1500–1558) | Complete |
 | 4 | Elizabethan and Jacobean (1558–1625) | Pending |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Pending |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Pending |

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Humanist Dialogue and Utopian Fiction",
+    "description": "Prose dialogue in the Lucianic and Platonic manner used for philosophical, political, and religious inquiry, from More's Utopia (1516) and his controversial dialogues to the didactic dialogues of Elyot and Ascham. Utopia founds the tradition of fictional commonwealths that runs through Bacon's New Atlantis to the modern dystopia.",
+    "historical_development": "Imported with Erasmian humanism, the dialogue dominated serious English prose from Utopia through Toxophilus (1545); Utopia's framing fiction (the returned traveller's report) supplied the narrative machinery later used by the prose satirists."
+  },
+  {
+    "name": "English Sonnet",
+    "description": "The fourteen-line lyric imported from Petrarch and adapted to English: Wyatt introduced the form and Surrey gave it the rhyme scheme (three quatrains and a couplet) that became the English or Shakespearean sonnet, making the sonnet the central form of the Elizabethan lyric.",
+    "historical_development": "Wyatt translated and imitated Petrarch's Rime sparse in the 1530s; Surrey's smoother decasyllabic sonnets circulated at court; Tottel's Miscellany (1557) printed them and fixed the form's public identity."
+  },
+  {
+    "name": "Complaint and Satire",
+    "description": "Verse or prose attacking the abuses of court, church, and society, from Skelton's flytings against Wolsey and Barclay's Ship of Fools to the Horatian verse epistles of Wyatt and the prose satire of Baldwin's Beware the Cat. The complaint voices the subject's grievance; the satire anatomizes the world's folly.",
+    "historical_development": "The estates satire of the Middle Ages met humanist models (Juvenal, Horace, Lucian, Brant) under the early Tudors; the complaint became the period's characteristic political form and fed directly into A Mirror for Magistrates."
+  },
+  {
+    "name": "Tudor Interlude",
+    "description": "The short secular and didactic stage piece of the early sixteenth century, played in halls, schools, and at court by small companies: witty debates (Heywood's The Four PP), humanist comedy (Medwall's Fulgens and Lucrece, Udall's Ralph Roister Doister), school moralities with music (Redford's Wit and Science), and Reformation polemic (Bale's King Johan).",
+    "historical_development": "Developed from the morality play, the interlude professionalized under Henry VIII; Heywood's debate comedies and Udall's five-act Roman comedy prepared the way for the public theatres of the 1570s."
+  },
+  {
+    "name": "Reformation Polemic and Controversy",
+    "description": "The printed warfare of the English Reformation: Tyndale's scriptural argument against the old church, More's counter-attacks, the defences of royal supremacy, the examinations of the martyrs, and the flood of tracts, answers, and confutations that made religious controversy the largest branch of English publishing between 1525 and 1558.",
+    "historical_development": "Begun by Tyndale and answered by More and Fisher, the controversy institutionalized the vernacular theological pamphlet; under Edward VI and Mary it became the literature of crisis, culminating in the martyrologies and examinations of the 1550s."
+  },
+  {
+    "name": "Bible Translation",
+    "description": "The rendering of scripture into English, from Tyndale's New Testament (1526) and Pentateuch (1530) through Coverdale's Bible (1535) and the Great Bible (1539), culminating in the Authorized Version of 1611, whose phrasing is substantially Tyndale's. Bible translation was the linguistic and spiritual engine of the English Reformation.",
+    "historical_development": "Tyndale translated from the Greek and Hebrew with a plain, monosyllabic force; Coverdale completed the first full printed English Bible; the Great Bible was ordered to be set up in every parish church in 1538."
+  },
+  {
+    "name": "Humanist Educational Treatise",
+    "description": "The programme literature of humanist education and the training of the ruling class: Elyot's Boke Named the Governour (1531), Ascham's Toxophilus (1545) and The Schoolmaster (1570), and the reformed grammars of Colet and Lily that shaped English schooling for three centuries.",
+    "historical_development": "The genre applied the Italian humanist ideal of the cortegiano and the prince to English society, defining the curriculum, the virtues of the magistrate, and the conduct of the gentleman scholar."
+  },
+  {
+    "name": "Pastoral Poetry",
+    "description": "Verse on shepherds and the shepherd's life in the Virgilian and Mantuan manner, introduced to England by Barclay's Eclogues (c. 1514) and continued through Spenser's Shepheardes Calender (1579) to the great pastoral of the 1590s.",
+    "historical_development": "Barclay adapted the eclogues of Mantuan with satirical and moral intent; the form carried complaint, praise, and church satire until it became the Elizabethan poets' preferred vehicle for self-presentation."
+  },
+  {
+    "name": "Prose Biography",
+    "description": "The life-writing of the early Tudor period: Roper's Life of Sir Thomas More (c. 1553–58), Cavendish's Life and Death of Cardinal Wolsey (c. 1554–58), and the biographical catalogues of Bale, which established the English tradition of the intimate, eyewitness biography of great men.",
+    "historical_development": "Rising from hagiography and the chronicle portrait (More's Richard III), the genre produced in Roper and Cavendish two masterpieces of domestic observation that were printed and imitated across the seventeenth century."
+  }
+]

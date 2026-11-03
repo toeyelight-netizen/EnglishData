@@ -212,3 +212,54 @@ Flat list; parent-child links available for later consolidation:
 - `Middle English` — added in Installment 2
 - `Middle English (Scots)` — added in Installment 2
 - `Anglo-Norman` — added in Installment 2 (Mandeville's Travels)
+
+## Genre additions (Installment 3)
+
+- `Humanist Dialogue and Utopian Fiction` — More's Utopia and its tradition
+- `English Sonnet` — the Wyatt/Surrey sonnet and its Tottel successors
+- `Complaint and Satire` — Skeltonic and early Tudor satirical verse and prose
+- `Tudor Interlude` — the early Tudor secular and moral interlude
+- `Reformation Polemic and Controversy` — the Tyndale–More print war and its successors
+- `Bible Translation` — Tyndale, Coverdale, and the authorized versions
+- `Humanist Educational Treatise` — Elyot, Ascham, and the pedagogy of the schools
+- `Pastoral Poetry` — Barclay's eclogues and the vernacular pastoral
+- `Prose Biography` — Roper, Cavendish, and the first English biographies
+
+## Theme list (Installment 3)
+
+- `Humanist education and the ideal commonwealth`
+- `Reformation faith and the authority of scripture`
+- `Courtly service and courtly danger`
+- `Tyranny and the abuse of power`
+- `The English vernacular and national letters`
+- `Love, constancy, and betrayal`
+- `Conscience and moral self-examination`
+- `Religious persecution and martyrdom`
+- `The education of princes and magistrates`
+
+## Periods (Installment 3)
+
+| Period | Start | End |
+|---|---|---|
+| Renaissance and Early Tudor Period | 1500 | 1558 |
+
+## Movements (Installment 3)
+
+| Movement | Start | End |
+|---|---|---|
+| English Renaissance Humanism | 1500 | 1558 |
+| The English Reformation | 1525 | 1558 |
+| Early Tudor Court Poetry | 1500 | 1558 |
+| Early Tudor Drama | 1495 | 1558 |
+| The Scottish Renaissance | 1500 | 1560 |
+
+## original_language (works) — values added in Installment 3
+
+- `English` — vernacular prose, verse, and drama of the period
+- `English and Latin` — bilingual works (Lily's Grammar, the Vulgaria)
+- `Latin` — the humanist Latin corpus (More, Leland, Linacre)
+- `English (translated from Greek)` — Tyndale's New Testament
+- `English (translated from Hebrew)` — Tyndale's Pentateuch
+- `English (translated from Latin)` — Surrey's Aeneid and the prose translations
+- `Scots` — Douglas and Lindsay
+- `Scots (translated from Latin)` — Douglas's Eneados

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "English Renaissance Humanism",
+    "start_year": 1500,
+    "end_year": 1558,
+    "description": "The revival of classical letters and the studia humanitatis in England under the influence of Erasmus, More, Colet, and the early Greek scholars: the foundation of St Paul's School, the reform of Latin grammar, the translation of Greek medicine and philosophy, and the application of humanist learning to education, law, and government.",
+    "historical_context": "The movement grew from the Oxford reformers of the 1490s (Colet, Grocyn, Linacre, More) and the visits of Erasmus (1499 onward); it was institutionalized in the schools and the universities, in royal service, and in the printing houses of Pynson, de Worde, and Berthelet.",
+    "aesthetic_principles": "Copia and eloquence; imitation of Cicero, Lucian, and Plato; dialogue as the preferred form of inquiry; the classical epigram; the conviction that letters train the magistrate and the Christian soul alike.",
+    "defining_characteristics": "Latinity of a new standard; the dialogue and the treatise addressed to practical government; educational programme centred on grammar, rhetoric, and moral philosophy; deep engagement with Greek as well as Latin sources.",
+    "historical_significance": "The intellectual foundation of the Tudor state; it produced Utopia and The Boke Named the Governour, reformed English education, and made London a northern centre of the republic of letters."
+  },
+  {
+    "name": "The English Reformation",
+    "start_year": 1525,
+    "end_year": 1558,
+    "description": "The literary dimension of England's break with Rome and its establishment of a vernacular church: the translation of the Bible into English, the liturgy of the Book of Common Prayer, the printed sermon, the martyrology and the examination, and the polemical warfare between reformers and conservatives.",
+    "historical_context": "From Tyndale's New Testament (1526) through the Henrician supremacy, the Edwardian settlement, and the Marian reaction, religious writing became the most widely printed and politically decisive literature in England.",
+    "aesthetic_principles": "Plainness, directness, and scriptural authority; the 'Englishing' of the Word; rhetorical urgency aimed at persuasion and conversion; the testimony and the debate as dominant forms.",
+    "defining_characteristics": "Vernacular Bible translation; vernacular liturgy; the homily as an instrument of state; polemic in the plain style; the written examinations and last testimonies of the Marian martyrs.",
+    "historical_significance": "It fixed the language of English devotion for four centuries (the Lord's Prayer and the Psalms of the Great Bible, the collects of Cranmer) and established prose controversy as a major English literary form."
+  },
+  {
+    "name": "Early Tudor Court Poetry",
+    "start_year": 1500,
+    "end_year": 1558,
+    "description": "The poetry of the Henrician court and its satellites, from Skelton's laureate satires through the lyric anthologies of the reign of Henry VIII to the sonnets, lyrics, and satires of Wyatt and Surrey, collected posthumously in Tottel's Miscellany (1557).",
+    "historical_context": "Court entertainment, manuscript circulation, and the new printed songbooks defined a poetic culture tied to royal service, diplomacy, and the perilous politics of the Henrician court.",
+    "aesthetic_principles": "Adaptation of Italian and French models (Petrarch, Serafino, the French court lyric); native Skeltonic energy alongside imported forms; elegance, indirection, and the coded complaint under censorship and surveillance.",
+    "defining_characteristics": "The Skeltonic line; the Englishing of the Petrarchan sonnet (Wyatt and Surrey); Surrey's invention of blank verse; the songbook and miscellany as vehicles of publication; the courtly plain style.",
+    "historical_significance": "Wyatt and Surrey founded the English lyric and sonnet traditions and blank verse, the technical basis of the later Elizabethan achievement; Tottel's Miscellany made the court lyric a public and lasting possession."
+  },
+  {
+    "name": "Early Tudor Drama",
+    "start_year": 1495,
+    "end_year": 1558,
+    "description": "The interludes and moralities of the early sixteenth century: household and court plays by Medwall, Heywood, Rastell, Redford, and Udall, together with the anonymous moralities and the first Protestant plays of Bale, running from Fulgens and Lucrece (c. 1497) to Gammer Gurton's Needle (c. 1553).",
+    "historical_context": "Drama moved from church and guild into great households, schools, Inns of Court, and court; professional playing companies were forming, and printing preserved the interludes for a reading public.",
+    "aesthetic_principles": "Debate, witty dialogue, and comic inversion; the education of the audience through play; the interlude's mixing of morality tradition with Roman comedy and humanist dialogue.",
+    "defining_characteristics": "Small casts and indoor performance; the Vice as star role; debate and flyting; experiments in five-act structure and classical imitation (Roister Doister); political and religious allegory in the reign of Henry VIII.",
+    "historical_significance": "The interlude tradition bridged the medieval morality and the Elizabethan stage, produced the first English secular play and the first English comedy, and trained the first generation of professional playwrights."
+  },
+  {
+    "name": "The Scottish Renaissance",
+    "start_year": 1500,
+    "end_year": 1560,
+    "description": "The literary flowering of early sixteenth-century Scotland in the reign of James IV and James V: the dream allegories and Virgil translation of Gavin Douglas and the satirical and political poetry and drama of Sir David Lindsay, written in Scots against the background of the Scottish Reformation.",
+    "historical_context": "The Stewart court, the Scottish universities, and the printing press (Chepman and Myllar, 1507/08) sustained a distinctive Scots literary culture that continued the Makar tradition into the Reformation era.",
+    "aesthetic_principles": "The dream vision and the allegorical testament inherited from the Makars; humanist translation of classical epic; direct satirical address to king, court, and clergy.",
+    "defining_characteristics": "Literary Scots as a self-conscious national language; the first complete British translation of the Aeneid; estates satire on the public stage (Ane Satyre of the Thrie Estaitis).",
+    "historical_significance": "Douglas's Eneados and Lindsay's Satyre are the summit of Scots literature before the Union of the Crowns and the last great works of the independent Scottish literary tradition."
+  }
+]

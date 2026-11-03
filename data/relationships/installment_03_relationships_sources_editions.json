@@ -1,0 +1,1299 @@
+{
+  "author_sources": [
+    {
+      "author": "John Skelton",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Sir Thomas More",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "William Tyndale",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Sir Thomas Wyatt",
+      "sources": [
+        "Sir Thomas Wyatt: The Complete Poems",
+        "Poetry and Politics in the English Renaissance, revised edition",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Henry Howard, Earl of Surrey",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Thomas Cranmer",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "The Book of Common Prayer: The Texts of 1549, 1559, and 1662",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Hugh Latimer",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Bale",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "John Heywood",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Sir Thomas Elyot",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603"
+      ]
+    },
+    {
+      "author": "Roger Ascham",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603"
+      ]
+    },
+    {
+      "author": "Alexander Barclay",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "author": "Stephen Hawes",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "author": "John Leland",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Robert Fabyan",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Edward Hall",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Nicholas Udall",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "author": "Henry Medwall",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "author": "Miles Coverdale",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "William Roper",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Fisher",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "author": "William Baldwin",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603"
+      ]
+    },
+    {
+      "author": "Anne Askew",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "author": "Catherine Parr",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "author": "William Lily",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Colet",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Thomas Linacre",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Rastell",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "George Cavendish",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Andrew Boorde",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Redford",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "author": "Sir David Lindsay",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "Poetry and Politics in the English Renaissance, revised edition"
+      ]
+    },
+    {
+      "author": "Gavin Douglas",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "author": "Robert Whittington",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    }
+  ],
+  "work_sources": [
+    {
+      "work": "Utopia",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603"
+      ]
+    },
+    {
+      "work": "The History of King Richard III",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "A Dialogue of Comfort against Tribulation",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Boke Named the Governour",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603"
+      ]
+    },
+    {
+      "work": "The Schoolmaster",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Beware the Cat",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Life of Sir Thomas More",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Life and Death of Cardinal Wolsey",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Union of the Two Noble and Illustre Families of Lancaster and York",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Wyatt's Poems",
+      "sources": [
+        "Sir Thomas Wyatt: The Complete Poems",
+        "Poetry and Politics in the English Renaissance, revised edition"
+      ]
+    },
+    {
+      "work": "The Penitential Psalms",
+      "sources": [
+        "Sir Thomas Wyatt: The Complete Poems"
+      ]
+    },
+    {
+      "work": "Wyatt's Satires",
+      "sources": [
+        "Sir Thomas Wyatt: The Complete Poems",
+        "Poetry and Politics in the English Renaissance, revised edition"
+      ]
+    },
+    {
+      "work": "Surrey's Poems",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Aeneid, Books II and IV (Surrey's translation)",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Tottel's Miscellany",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Pastime of Pleasure",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Ship of Fools",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Eneados",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Ane Satyre of the Thrie Estaitis",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The New Testament (Tyndale's translation)",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Obedience of a Christian Man",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Book of Common Prayer (1549)",
+      "sources": [
+        "The Book of Common Prayer: The Texts of 1549, 1559, and 1662",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Book of Homilies",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "Sermon of the Plough",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Coverdale Bible",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Examinations of Anne Askew",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "Prayers or Meditations",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "King Johan",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Fulgens and Lucrece",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Wit and Science",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Ralph Roister Doister",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Gammer Gurton's Needle",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Respublica",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "A Defence of the True and Catholic Doctrine of the Sacrament",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "A Dialogue Concerning Heresies",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "A Play of Love",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "A Treatise of Moral Philosophy",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Aeditio",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "An Answer unto Sir Thomas More's Dialogue",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "Calisto and Melebea",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Colin Clout",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Cygnea Cantio",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "De Emendata Structura Latini Sermonis",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Epigrammata",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Gentleness and Nobility",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Godly Queen Hester",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Goostly Psalmes and Spirituall Songes",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "Hickscorner",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Interlude of Youth",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Jacob and Esau",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Johan Johan",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "King Hart",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Lily's Grammar",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Linacre's Galen translations",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Lusty Juventus",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Magnificence",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Nature",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Nice Wanton",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "Philip Sparrow",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Speke Parrot",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Bowge of Courte",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Castle of Health",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Chief Promises of God unto Man",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "The Dictionary",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Dreme",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Dyetary of Health",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Eclogues (Barclay)",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Example of Virtue",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Four Elements",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "The Four PP",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "The Garland of Laurel",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Great Bible",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Introduction of Knowledge",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Itinerary",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Lamentation of a Sinner",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The New Chronicles of England and France",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Palice of Honour",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Parable of the Wicked Mammon",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Pardoner and the Friar",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "The Pastime of People",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Pentateuch (Tyndale's translation)",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Play of the Weather",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    },
+    {
+      "work": "The Practice of Prelates",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Sermons before King Edward VI",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church"
+      ]
+    },
+    {
+      "work": "The Seven Penitential Psalms (Fisher's exposition)",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Supplication of Souls",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Testament of the Papyngo",
+      "sources": [
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Tunning of Elinour Rumming",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Toxophilus",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Vulgaria",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Why Come Ye Nat to Courte?",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Witty and Witless",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy"
+      ]
+    }
+  ],
+  "movement_sources": [
+    {
+      "movement": "English Renaissance Humanism",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Oxford Handbook of Tudor Literature, 1485–1603"
+      ]
+    },
+    {
+      "movement": "The English Reformation",
+      "sources": [
+        "The King's Reformation: Henry VIII and the Remaking of the English Church",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "movement": "Early Tudor Court Poetry",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "Sir Thomas Wyatt: The Complete Poems",
+        "Poetry and Politics in the English Renaissance, revised edition"
+      ]
+    },
+    {
+      "movement": "Early Tudor Drama",
+      "sources": [
+        "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "movement": "The Scottish Renaissance",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    }
+  ],
+  "work_editions": [
+    {
+      "work": "Utopia",
+      "editions": [
+        {
+          "edition_title": "Utopia (The Yale Edition of the Complete Works of St. Thomas More, vol. 4)",
+          "editor": "Edward Surtz, S.J., and J. H. Hexter",
+          "publisher": "Yale University Press",
+          "publication_year": 1965,
+          "edition_notes": "The standard Latin text with critical apparatus."
+        },
+        {
+          "edition_title": "Utopia",
+          "editor": "Paul Turner (trans.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 1965,
+          "edition_notes": "Modern English translation, revised 2003."
+        }
+      ]
+    },
+    {
+      "work": "The History of King Richard III",
+      "editions": [
+        {
+          "edition_title": "The History of King Richard III (The Yale Edition of the Complete Works of St. Thomas More, vol. 2)",
+          "editor": "Richard S. Sylvester",
+          "publisher": "Yale University Press",
+          "publication_year": 1963,
+          "edition_notes": "Standard edition of both English and Latin texts."
+        }
+      ]
+    },
+    {
+      "work": "A Dialogue of Comfort against Tribulation",
+      "editions": [
+        {
+          "edition_title": "A Dialogue of Comfort against Tribulation (The Yale Edition of the Complete Works of St. Thomas More, vol. 12)",
+          "editor": "Louis L. Martz and Frank Manley",
+          "publisher": "Yale University Press",
+          "publication_year": 1976,
+          "edition_notes": "Standard critical edition."
+        }
+      ]
+    },
+    {
+      "work": "Wyatt's Poems",
+      "editions": [
+        {
+          "edition_title": "Sir Thomas Wyatt: The Complete Poems",
+          "editor": "R. A. Rebholz",
+          "publisher": "Penguin Books",
+          "publication_year": 1978,
+          "edition_notes": "Standard modern edition of Wyatt's verse."
+        }
+      ]
+    },
+    {
+      "work": "Surrey's Poems",
+      "editions": [
+        {
+          "edition_title": "Henry Howard, Earl of Surrey: Poems",
+          "editor": "Emrys Jones",
+          "publisher": "Clarendon Press",
+          "publication_year": 1964,
+          "edition_notes": "Standard edition of Surrey's verse."
+        }
+      ]
+    },
+    {
+      "work": "Aeneid, Books II and IV (Surrey's translation)",
+      "editions": [
+        {
+          "edition_title": "The Aeneid of Henry Howard Earl of Surrey",
+          "editor": "Florence H. Ridley",
+          "publisher": "University of California Press",
+          "publication_year": 1963,
+          "edition_notes": "Critical edition of Surrey's blank-verse translation."
+        }
+      ]
+    },
+    {
+      "work": "Tottel's Miscellany",
+      "editions": [
+        {
+          "edition_title": "Tottel's Miscellany (1557–1587), revised edition",
+          "editor": "Hyder Edward Rollins",
+          "publisher": "Harvard University Press",
+          "publication_year": 1965,
+          "edition_notes": "The standard scholarly edition."
+        }
+      ]
+    },
+    {
+      "work": "The Boke Named the Governour",
+      "editions": [
+        {
+          "edition_title": "The Book Named the Governor",
+          "editor": "S. E. Lehmberg",
+          "publisher": "Dent (Everyman's Library)",
+          "publication_year": 1962,
+          "edition_notes": "Modern spelling edition."
+        }
+      ]
+    },
+    {
+      "work": "The Schoolmaster",
+      "editions": [
+        {
+          "edition_title": "The Schoolmaster (1570)",
+          "editor": "Lawrence V. Ryan",
+          "publisher": "Cornell University Press (for the Folger Shakespeare Library)",
+          "publication_year": 1967,
+          "edition_notes": "Standard critical edition."
+        }
+      ]
+    },
+    {
+      "work": "Toxophilus",
+      "editions": [
+        {
+          "edition_title": "English Works of Roger Ascham",
+          "editor": "William Aldis Wright",
+          "publisher": "Cambridge University Press",
+          "publication_year": 1904,
+          "edition_notes": "Includes Toxophilus and The Schoolmaster."
+        }
+      ]
+    },
+    {
+      "work": "The New Testament (Tyndale's translation)",
+      "editions": [
+        {
+          "edition_title": "Tyndale's New Testament",
+          "editor": "David Daniell",
+          "publisher": "Yale University Press",
+          "publication_year": 1989,
+          "edition_notes": "Modern-spelling edition of the 1534 text, with introduction."
+        }
+      ]
+    },
+    {
+      "work": "The Obedience of a Christian Man",
+      "editions": [
+        {
+          "edition_title": "The Obedience of a Christian Man",
+          "editor": "David Daniell",
+          "publisher": "Penguin Classics",
+          "publication_year": 2000,
+          "edition_notes": "Modern-spelling edition."
+        }
+      ]
+    },
+    {
+      "work": "The Book of Common Prayer (1549)",
+      "editions": [
+        {
+          "edition_title": "The Book of Common Prayer: The Texts of 1549, 1559, and 1662",
+          "editor": "Brian Cummings",
+          "publisher": "Oxford University Press",
+          "publication_year": 2011,
+          "edition_notes": "Standard scholarly edition of the three foundational texts."
+        }
+      ]
+    },
+    {
+      "work": "The Examinations of Anne Askew",
+      "editions": [
+        {
+          "edition_title": "The Examinations of Anne Askew",
+          "editor": "Elaine V. Beilin",
+          "publisher": "Oxford University Press (Women Writers in English 1350–1850)",
+          "publication_year": 1996,
+          "edition_notes": "Standard modern edition."
+        }
+      ]
+    },
+    {
+      "work": "Prayers or Meditations",
+      "editions": [
+        {
+          "edition_title": "Katherine Parr: Complete Works and Correspondence",
+          "editor": "Janel Mueller",
+          "publisher": "University of Chicago Press",
+          "publication_year": 2011,
+          "edition_notes": "Includes Prayers or Meditations and The Lamentation of a Sinner."
+        }
+      ]
+    },
+    {
+      "work": "The Lamentation of a Sinner",
+      "editions": [
+        {
+          "edition_title": "Katherine Parr: Complete Works and Correspondence",
+          "editor": "Janel Mueller",
+          "publisher": "University of Chicago Press",
+          "publication_year": 2011,
+          "edition_notes": "Includes Prayers or Meditations and The Lamentation of a Sinner."
+        }
+      ]
+    },
+    {
+      "work": "King Johan",
+      "editions": [
+        {
+          "edition_title": "The Complete Plays of John Bale, vol. 1",
+          "editor": "Peter Happé",
+          "publisher": "D. S. Brewer",
+          "publication_year": 1985,
+          "edition_notes": "Includes King Johan."
+        }
+      ]
+    },
+    {
+      "work": "The Chief Promises of God unto Man",
+      "editions": [
+        {
+          "edition_title": "The Complete Plays of John Bale, vol. 2",
+          "editor": "Peter Happé",
+          "publisher": "D. S. Brewer",
+          "publication_year": 1986,
+          "edition_notes": "Includes The Chief Promises of God unto Man."
+        }
+      ]
+    },
+    {
+      "work": "The Play of the Weather",
+      "editions": [
+        {
+          "edition_title": "The Plays of John Heywood",
+          "editor": "Richard Axton and Peter Happé",
+          "publisher": "D. S. Brewer",
+          "publication_year": 1991,
+          "edition_notes": "Includes The Play of the Weather, The Four PP, and the other interludes."
+        }
+      ]
+    },
+    {
+      "work": "The Four PP",
+      "editions": [
+        {
+          "edition_title": "The Plays of John Heywood",
+          "editor": "Richard Axton and Peter Happé",
+          "publisher": "D. S. Brewer",
+          "publication_year": 1991,
+          "edition_notes": "Includes The Play of the Weather, The Four PP, and the other interludes."
+        }
+      ]
+    },
+    {
+      "work": "Fulgens and Lucrece",
+      "editions": [
+        {
+          "edition_title": "The Plays of Henry Medwall",
+          "editor": "Alan H. Nelson",
+          "publisher": "D. S. Brewer",
+          "publication_year": 1980,
+          "edition_notes": "Includes Fulgens and Lucrece and Nature."
+        }
+      ]
+    },
+    {
+      "work": "Nature",
+      "editions": [
+        {
+          "edition_title": "The Plays of Henry Medwall",
+          "editor": "Alan H. Nelson",
+          "publisher": "D. S. Brewer",
+          "publication_year": 1980,
+          "edition_notes": "Includes Fulgens and Lucrece and Nature."
+        }
+      ]
+    },
+    {
+      "work": "Wit and Science",
+      "editions": [
+        {
+          "edition_title": "The Moral Play of Wit and Science",
+          "editor": "Arthur Brown",
+          "publisher": "Oxford University Press (Malone Society Reprints)",
+          "publication_year": 1951,
+          "edition_notes": "Diplomatic edition of the manuscript."
+        }
+      ]
+    },
+    {
+      "work": "Ralph Roister Doister",
+      "editions": [
+        {
+          "edition_title": "Three Sixteenth-Century Comedies",
+          "editor": "Charles W. Whitworth",
+          "publisher": "A & C Black (New Mermaids)",
+          "publication_year": 1984,
+          "edition_notes": "Includes Roister Doister and Gammer Gurton's Needle."
+        }
+      ]
+    },
+    {
+      "work": "Gammer Gurton's Needle",
+      "editions": [
+        {
+          "edition_title": "Three Sixteenth-Century Comedies",
+          "editor": "Charles W. Whitworth",
+          "publisher": "A & C Black (New Mermaids)",
+          "publication_year": 1984,
+          "edition_notes": "Includes Roister Doister and Gammer Gurton's Needle."
+        }
+      ]
+    },
+    {
+      "work": "The Life of Sir Thomas More",
+      "editions": [
+        {
+          "edition_title": "Two Early Tudor Lives",
+          "editor": "Richard S. Sylvester and Davis P. Harding",
+          "publisher": "Yale University Press",
+          "publication_year": 1962,
+          "edition_notes": "Includes Roper's Life of Sir Thomas More and Cavendish's Life of Cardinal Wolsey."
+        }
+      ]
+    },
+    {
+      "work": "The Life and Death of Cardinal Wolsey",
+      "editions": [
+        {
+          "edition_title": "Two Early Tudor Lives",
+          "editor": "Richard S. Sylvester and Davis P. Harding",
+          "publisher": "Yale University Press",
+          "publication_year": 1962,
+          "edition_notes": "Includes Roper's Life of Sir Thomas More and Cavendish's Life of Cardinal Wolsey."
+        }
+      ]
+    },
+    {
+      "work": "Beware the Cat",
+      "editions": [
+        {
+          "edition_title": "Beware the Cat: The First English Novel",
+          "editor": "William A. Ringler, Jr., and Michael Flachmann",
+          "publisher": "Huntington Library",
+          "publication_year": 1988,
+          "edition_notes": "Standard critical edition."
+        }
+      ]
+    },
+    {
+      "work": "The Pastime of Pleasure",
+      "editions": [
+        {
+          "edition_title": "The Pastime of Pleasure",
+          "editor": "William Edward Mead",
+          "publisher": "Oxford University Press (EETS o.s. 173)",
+          "publication_year": 1928,
+          "edition_notes": "Standard edition of the 1555 text."
+        }
+      ]
+    },
+    {
+      "work": "The Eclogues (Barclay)",
+      "editions": [
+        {
+          "edition_title": "The Eclogues of Alexander Barclay",
+          "editor": "Beatrice White",
+          "publisher": "Oxford University Press (EETS o.s. 175)",
+          "publication_year": 1928,
+          "edition_notes": "Standard edition."
+        }
+      ]
+    },
+    {
+      "work": "Eneados",
+      "editions": [
+        {
+          "edition_title": "Virgil's Aeneid Translated into Scottish Verse by Gavin Douglas",
+          "editor": "David F. C. Coldwell",
+          "publisher": "Scottish Text Society (4 vols)",
+          "publication_year": 1957,
+          "edition_notes": "Standard edition, 1957–64."
+        }
+      ]
+    },
+    {
+      "work": "Ane Satyre of the Thrie Estaitis",
+      "editions": [
+        {
+          "edition_title": "Sir David Lindsay: Ane Satyre of the Thrie Estaitis",
+          "editor": "Roderick Lyall",
+          "publisher": "Canongate",
+          "publication_year": 1989,
+          "edition_notes": "Modern critical edition."
+        }
+      ]
+    },
+    {
+      "work": "Sermon of the Plough",
+      "editions": [
+        {
+          "edition_title": "Sermons by Hugh Latimer",
+          "editor": "George Elwes Corrie",
+          "publisher": "Cambridge University Press (Parker Society)",
+          "publication_year": 1844,
+          "edition_notes": "Standard edition of Latimer's sermons."
+        }
+      ]
+    },
+    {
+      "work": "Magnificence",
+      "editions": [
+        {
+          "edition_title": "John Skelton: The Complete English Poems",
+          "editor": "John Scattergood",
+          "publisher": "Penguin Books",
+          "publication_year": 1983,
+          "edition_notes": "Standard modern edition of Skelton's verse, including Magnificence."
+        }
+      ]
+    },
+    {
+      "work": "Philip Sparrow",
+      "editions": [
+        {
+          "edition_title": "John Skelton: The Complete English Poems",
+          "editor": "John Scattergood",
+          "publisher": "Penguin Books",
+          "publication_year": 1983,
+          "edition_notes": "Standard modern edition of Skelton's verse."
+        }
+      ]
+    },
+    {
+      "work": "The Tunning of Elinour Rumming",
+      "editions": [
+        {
+          "edition_title": "John Skelton: The Complete English Poems",
+          "editor": "John Scattergood",
+          "publisher": "Penguin Books",
+          "publication_year": 1983,
+          "edition_notes": "Standard modern edition of Skelton's verse."
+        }
+      ]
+    },
+    {
+      "work": "The Bowge of Courte",
+      "editions": [
+        {
+          "edition_title": "John Skelton: The Complete English Poems",
+          "editor": "John Scattergood",
+          "publisher": "Penguin Books",
+          "publication_year": 1983,
+          "edition_notes": "Standard modern edition of Skelton's verse."
+        }
+      ]
+    }
+  ]
+}

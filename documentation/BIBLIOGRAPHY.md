@@ -246,3 +246,47 @@ Scholarly editions linked to individual works (stored in the
 - The Testament of Cresseid (Denton Fox, ed., Thomas Nelson, 1968)
 - The Poems of William Dunbar (Priscilla Bawcutt, ed., Association for
   Scottish Literary Studies, 1998)
+
+## Installment 3 — Renaissance and Early Tudor (c. 1500–1558)
+
+### Reference works and surveys
+
+- **The Cambridge History of Early Modern English Literature** — David
+  Loewenstein and Janel Mueller (eds.), Cambridge University Press, 2002.
+  *Reference.* The standard collaborative history of the literature of
+  Britain from the Reformation to the Restoration.
+- **The Oxford Handbook of Tudor Literature, 1485–1603** — Mike Pincombe and
+  Cathy Shrank (eds.), Oxford University Press, 2009. *Reference.*
+  Authoritative survey essays on the full range of Tudor writing.
+- **English Literature in the Sixteenth Century, Excluding Drama** — C. S.
+  Lewis, Clarendon Press (Oxford History of English Literature), 1954.
+  *Reference.* Classic single-author survey of the non-dramatic literature
+  of the century.
+- **The Norton Anthology of English Literature, 10th edition, Volume B: The
+  Sixteenth Century and the Early Seventeenth Century** — Stephen Greenblatt
+  (gen. ed.), W. W. Norton, 2018. *Edition.* Standard classroom anthology;
+  used for canonical texts and apparatus.
+- **Oxford Dictionary of National Biography** — H. C. G. Matthew and Brian
+  Harrison (eds.), Oxford University Press, 2004 (online edition). *Reference.*
+  Authoritative biographical entries; carried over from Installment 2.
+
+### Period studies
+
+- **Tudor Drama before Shakespeare, 1485–1590: New Directions for Research,
+  Criticism, and Pedagogy** — Lloyd Edward Kermode, Jason Scott-Warren, and
+  Martine van Elk (eds.), Palgrave Macmillan, 2004. *Reference.* Survey of
+  the interludes, moralities, and academic plays preceding the public stage.
+- **The King's Reformation: Henry VIII and the Remaking of the English
+  Church** — G. W. Bernard, Yale University Press, 2005. *Reference.*
+  Standard modern account of the Henrician Reformation and its politics.
+- **Poetry and Politics in the English Renaissance, revised edition** —
+  David Norbrook, Oxford University Press, 2002. *Reference.* Study of the
+  political contexts of early modern English poetry from Skelton to Marvell.
+
+### Primary editions
+
+- **Sir Thomas Wyatt: The Complete Poems** — R. A. Rebholz (ed.), Penguin,
+  1978. *Edition.* Standard modern edition of Wyatt's verse.
+- **The Book of Common Prayer: The Texts of 1549, 1559, and 1662** — Brian
+  Cummings (ed.), Oxford University Press, 2011. *Edition.* Standard
+  scholarly edition of the three foundational Prayer Books.

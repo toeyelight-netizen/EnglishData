@@ -14,7 +14,8 @@ or deletes earlier data.
 |---|---|---|
 | 1 | Old English and Early Medieval (c. 450–1100) | **Complete** |
 | 2 | Middle English (c. 1100–1500) | **Complete** |
-| 3–10 | Renaissance → Postwar (1500–2000) | Pending |
+| 3 | Renaissance and Early Tudor (c. 1500–1558) | **Complete** |
+| 4–10 | Elizabethan → Postwar (1558–2000) | Pending |
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for
 the detailed progress log.
