@@ -1,0 +1,67 @@
+[
+  {
+    "name": "English Epic and Allegorical Romance",
+    "description": "The English heroic and allegorical narrative poem on the model of Virgil, Ariosto, and Tasso, in which a knight or hero pursues a quest through an allegorical landscape of moral and religious meaning: Spenser's Faerie Queene is the founding and defining example.",
+    "historical_development": "Prepared by the mirror-for-magistrates tradition, by Sackville's Induction, and by the translations of Ariosto and Tasso, the form reached its height in The Faerie Queene (1590, 1596); later attempts — Fairfax's Godfrey of Bulloigne (1600), Drayton's historical epics — kept the mode alive until Milton transformed it into biblical epic."
+  },
+  {
+    "name": "Sonnet Sequence",
+    "description": "A connected series of sonnets, usually addressed to a named mistress and tracing the progress of the poet's love, often with a narrative or autobiographical undertow: Sidney's Astrophel and Stella, Daniel's Delia, Spenser's Amoretti, Shakespeare's Sonnets, Drayton's Idea.",
+    "historical_development": "Imported from Petrarch and the French Pléiade, the sequence flourished 1591–1609, was self-consciously parodied by Shakespeare and Donne, and was revived in the seventeenth century as the religious sequence (Herbert, Milton's sonnets) before the Romantic sonnet revival."
+  },
+  {
+    "name": "Revenge Tragedy",
+    "description": "The Senecan-derived tragedy in which a revenger, commanded by a ghost or by duty, pursues vengeance on a tyrant or murderer, moving through disguise, madness, and a play-within-play to a catastrophic finale of multiple deaths: Kyd's Spanish Tragedy, Shakespeare's Hamlet and Titus Andronicus, Webster's White Devil and Duchess of Malfi, Tourneur's Revenger's Tragedy.",
+    "historical_development": "Established by The Spanish Tragedy (c. 1587), transformed by Hamlet (c. 1600), and hardened into Jacobean fashion in the first two decades of the seventeenth century before declining into parody and the moralized tragedy of Shirley and Ford."
+  },
+  {
+    "name": "Romantic Comedy",
+    "description": "The comedy of love and courtship in which mistaken identities, disguises, separated lovers, and pastoral or festive settings give way to reconciliation and multiple marriages: Shakespeare's As You Like It and Twelfth Night, Greene's Friar Bacon, Lodge's Rosalynde as its prose source.",
+    "historical_development": "Developed from the court comedies of Lyly and the romantic plots of Greene and Peele, perfected by Shakespeare in the 1590s, and after him redirected by Fletcher into tragicomedy and by the city comedians into satire."
+  },
+  {
+    "name": "History Play",
+    "description": "The drama of English (or classical) history, chronicle-based and political, treating the rise and fall of kings and the health of the commonwealth: Shakespeare's two tetralogies, Marlowe's Edward II, the Roman plays, and the collaborative chronicle dramas of the Admiral's Men.",
+    "historical_development": "Founded by the anonymous Famous Victories (c. 1586) and Sackville and Norton's Gorboduc, brought to maturity by Marlowe and Shakespeare in the 1590s, and largely abandoned after 1600 as the political climate of James I's reign turned away from deposition drama."
+  },
+  {
+    "name": "Tragedy",
+    "description": "The serious drama of the fall of a great person, in blank verse, treating ambition, tyranny, love, and fate: Marlowe's Tamburlaine and Doctor Faustus, Shakespeare's mature tragedies, Webster's Italianate tragedies, and the domestic tragedies of Heywood and the anonymous Arden of Faversham.",
+    "historical_development": "Transformed from the neo-Senecan closet drama of Gorboduc and Antonius into public theatre tragedy by Marlowe, deepened by Shakespeare into the tragedy of character, and specialized by the Jacobeans into revenge tragedy, domestic tragedy, and tragicomedy."
+  },
+  {
+    "name": "Comedy",
+    "description": "The drama of social error, wit, and reconciliation, in the classical and Plautine tradition as well as the native tradition of farce and festive folly: Lyly's court comedies, Shakespeare's comedies, Jonson's humours comedies, and the citizen comedies of Dekker and Heywood.",
+    "historical_development": "Established on the model of Plautus and Terence by Udall and Gammer Gurton's Needle, refined by Lyly for the court and the children's companies, transformed by Shakespeare into romantic and problem comedy, and hardened by Jonson into the satirical comedy of humours."
+  },
+  {
+    "name": "City Comedy",
+    "description": "The satirical comedy of London manners, set among merchants, citizens, gallants, and whores, treating money, marriage markets, gulling, and social mobility: Jonson's Volpone, The Alchemist, and Bartholomew Fair, Middleton's Chaste Maid and Mad World, Dekker's Shoemaker's Holiday, Massinger's New Way to Pay Old Debts.",
+    "historical_development": "Emerging with Jonson's Every Man in His Humour (1598) and the citizen comedy of Dekker, it became the dominant comic mode of the Jacobean and Caroline stages and passed directly into Restoration comedy."
+  },
+  {
+    "name": "Court Masque",
+    "description": "The lavish courtly entertainment combining allegorical verse, song, dance, and scenic spectacle, performed by the court and royalty on festive occasions: Jonson's Masque of Blackness (1605) and his later masques with Inigo Jones's scenery.",
+    "historical_development": "Developed from the Tudor interlude, the disguise, and the Italian intermedio, it became the signature entertainment of the Jacobean and Caroline courts, dominated by Jonson until his quarrel with Inigo Jones over the precedence of poetry and design."
+  },
+  {
+    "name": "Essay",
+    "description": "The short prose meditation on a moral, social, or philosophical topic, in the tradition of Montaigne: Bacon's Essays (1597–1625) and the essayistic prose of Donne, Burton, and the translators of Montaigne and Guazzo.",
+    "historical_development": "Introduced to England by Florio's translation of Montaigne (1603) and by Bacon's Essays, which gave the form an aphoristic, public, and political cast; the essay became the dominant short prose form of the seventeenth century and the model for the periodical essay of the eighteenth."
+  },
+  {
+    "name": "Metaphysical and Devotional Lyric",
+    "description": "The witty, argumentative lyric of Donne and his school, in which secular love and religious devotion are treated with the same intellectual intensity and the same conceits drawn from law, medicine, alchemy, and the new science: Songs and Sonnets, Holy Sonnets, The Anniversaries.",
+    "historical_development": "Circulating in manuscript from the 1590s and printed posthumously in 1633, the metaphysical lyric shaped the religious verse of Herbert, Crashaw, and Vaughan and the secular wit of Marvell and Cowley, before being attacked by Johnson and recovered by the modernists."
+  },
+  {
+    "name": "Prose Romance and Euphuism",
+    "description": "The Elizabethan prose fiction of love and adventure, often euphuistic in style — balanced antitheses, alliteration, and similes drawn from natural history — and set in pastoral or exotic worlds: Lyly's Euphues, Greene's Pandosto and Menaphon, Lodge's Rosalynde, Sidney's Arcadia.",
+    "historical_development": "Established by Gascoigne's Adventures of Master F.J. (1573) and Lyly's Euphues (1578), it dominated prose fiction until the 1590s, supplied Shakespeare with the plots of his romantic comedies, and was succeeded by the picaresque experiments of Nashe and by the long romances of Wroth and the Caroline period."
+  },
+  {
+    "name": "Tragicomedy",
+    "description": "The mixed genre that brings a potentially tragic action to a happy or providential resolution, theorized by Guarini and Fletcher and practiced in the late plays of Shakespeare, in Fletcher's Philaster and The Faithful Shepherdess tradition, and in Marston's The Malcontent.",
+    "historical_development": "Announced in England by Guarini's Pastor fido (translated 1602) and by Fletcher's theory in the dedication to The Faithful Shepherdess (1609), it became the dominant serious mode of the Jacobean and Caroline stage and shaped Shakespeare's romances."
+  }
+]

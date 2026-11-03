@@ -1,0 +1,1247 @@
+{
+  "author_genres": [
+    {
+      "author": "Thomas Kyd",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "John Lyly",
+      "genres": [
+        "Comedy",
+        "Prose Romance and Euphuism"
+      ]
+    },
+    {
+      "author": "Robert Greene",
+      "genres": [
+        "Comedy",
+        "Prose Romance",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "author": "George Peele",
+      "genres": [
+        "Comedy",
+        "Revenge Tragedy",
+        "Romantic Comedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Thomas Nashe",
+      "genres": [
+        "Comedy",
+        "Complaint and Satire",
+        "Prose",
+        "Tragedy",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "George Chapman",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "John Webster",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Thomas Middleton",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Thomas Dekker",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Tragedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Cyril Tourneur",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "John Marston",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Complaint and Satire",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Francis Beaumont",
+      "genres": [
+        "Comedy",
+        "Tragedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "John Fletcher",
+      "genres": [
+        "History Play",
+        "Romance",
+        "Tragedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "author": "Thomas Heywood",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Francis Bacon",
+      "genres": [
+        "Essay",
+        "Humanist Dialogue and Utopian Fiction",
+        "Philosophy and Scholastic Writing",
+        "Prose"
+      ]
+    },
+    {
+      "author": "Richard Hooker",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "John Foxe",
+      "genres": [
+        "Hagiography",
+        "History and Chronicle",
+        "Prose"
+      ]
+    },
+    {
+      "author": "Thomas Sackville",
+      "genres": [
+        "Complaint and Satire",
+        "Poetry"
+      ]
+    },
+    {
+      "author": "George Gascoigne",
+      "genres": [
+        "Complaint and Satire",
+        "Prose",
+        "Prose Romance"
+      ]
+    },
+    {
+      "author": "Thomas Deloney",
+      "genres": [
+        "Prose",
+        "Prose Romance"
+      ]
+    },
+    {
+      "author": "Thomas Lodge",
+      "genres": [
+        "Prose Romance"
+      ]
+    },
+    {
+      "author": "Richard Hakluyt",
+      "genres": [
+        "Prose",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "Sir Walter Ralegh",
+      "genres": [
+        "History and Chronicle",
+        "Prose",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "John Florio",
+      "genres": [
+        "Essay",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Sir Thomas North",
+      "genres": [
+        "Prose Biography",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Arthur Golding",
+      "genres": [
+        "Translation"
+      ]
+    },
+    {
+      "author": "Edward Fairfax",
+      "genres": [
+        "English Epic and Allegorical Romance",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Joshua Sylvester",
+      "genres": [
+        "Religious Narrative Poetry",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Robert Burton",
+      "genres": [
+        "Essay",
+        "Medical and Scientific Writing",
+        "Prose"
+      ]
+    },
+    {
+      "author": "John Stow",
+      "genres": [
+        "History and Chronicle",
+        "Prose"
+      ]
+    },
+    {
+      "author": "William Camden",
+      "genres": [
+        "History and Chronicle",
+        "Prose"
+      ]
+    },
+    {
+      "author": "Samuel Purchas",
+      "genres": [
+        "Prose",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "Aemilia Lanyer",
+      "genres": [
+        "Poetry",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "author": "Lady Mary Wroth",
+      "genres": [
+        "Prose Romance",
+        "Romance"
+      ]
+    },
+    {
+      "author": "Queen Elizabeth I",
+      "genres": [
+        "Lyric",
+        "Political Verse"
+      ]
+    },
+    {
+      "author": "Edmund Spenser",
+      "genres": [
+        "Complaint and Satire",
+        "English Epic and Allegorical Romance",
+        "English Sonnet",
+        "Lyric",
+        "Pastoral Poetry",
+        "Poetry",
+        "Political Treatise",
+        "Prose",
+        "Religious Lyric",
+        "Sonnet Sequence"
+      ]
+    },
+    {
+      "author": "Sir Philip Sidney",
+      "genres": [
+        "Drama",
+        "English Sonnet",
+        "Essay",
+        "Metrical Psalter",
+        "Pastoral Poetry",
+        "Prose Romance",
+        "Romance",
+        "Sonnet Sequence",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Mary Sidney Herbert, Countess of Pembroke",
+      "genres": [
+        "Metrical Psalter",
+        "Tragedy",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Fulke Greville, Lord Brooke",
+      "genres": [
+        "Lyric",
+        "Sonnet Sequence"
+      ]
+    },
+    {
+      "author": "Samuel Daniel",
+      "genres": [
+        "English Sonnet",
+        "Sonnet Sequence"
+      ]
+    },
+    {
+      "author": "Michael Drayton",
+      "genres": [
+        "English Sonnet",
+        "Sonnet Sequence"
+      ]
+    },
+    {
+      "author": "William Shakespeare",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "English Sonnet",
+        "History Play",
+        "Lyric",
+        "Poetry",
+        "Revenge Tragedy",
+        "Romance",
+        "Romantic Comedy",
+        "Sonnet Sequence",
+        "Tragedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Christopher Marlowe",
+      "genres": [
+        "Elegy",
+        "History Play",
+        "Poetry",
+        "Romance",
+        "Tragedy",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Ben Jonson",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Court Masque",
+        "Lyric",
+        "Poetry",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "John Donne",
+      "genres": [
+        "Complaint and Satire",
+        "Devotional and Mystical Writing",
+        "Elegy",
+        "English Sonnet",
+        "Lyric",
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Thomas Campion",
+      "genres": [
+        "Lyric"
+      ]
+    },
+    {
+      "author": "Sir John Davies",
+      "genres": [
+        "Poetry",
+        "Religious Lyric"
+      ]
+    }
+  ],
+  "author_movements": [
+    {
+      "author": "Thomas Kyd",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "author": "John Lyly",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "author": "Robert Greene",
+      "movements": [
+        "The Elizabethan Public Theatre",
+        "The University Wits"
+      ]
+    },
+    {
+      "author": "George Peele",
+      "movements": [
+        "The Elizabethan Public Theatre",
+        "The University Wits"
+      ]
+    },
+    {
+      "author": "Thomas Nashe",
+      "movements": [
+        "The Elizabethan Public Theatre",
+        "The University Wits"
+      ]
+    },
+    {
+      "author": "George Chapman",
+      "movements": [
+        "Jacobean City Comedy",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "author": "John Webster",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "author": "Thomas Middleton",
+      "movements": [
+        "Jacobean City Comedy",
+        "Jacobean Tragedy and Revenge Drama",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "author": "Thomas Dekker",
+      "movements": [
+        "Jacobean City Comedy",
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "author": "Cyril Tourneur",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "author": "John Marston",
+      "movements": [
+        "Jacobean City Comedy",
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "author": "Francis Beaumont",
+      "movements": [
+        "Jacobean City Comedy",
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "author": "John Fletcher",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "author": "Edmund Spenser",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "author": "Sir Philip Sidney",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "author": "Fulke Greville, Lord Brooke",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "author": "Samuel Daniel",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "author": "Michael Drayton",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "author": "William Shakespeare",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "author": "Christopher Marlowe",
+      "movements": [
+        "The Elizabethan Public Theatre",
+        "The University Wits"
+      ]
+    },
+    {
+      "author": "Ben Jonson",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "author": "John Donne",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    }
+  ],
+  "author_themes": [
+    {
+      "author": "Thomas Kyd",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Revenge and justice",
+        "The public theatre and the players' world"
+      ]
+    },
+    {
+      "author": "John Lyly",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger",
+        "Fortune and mutability",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "National identity and Englishness",
+        "Wisdom and learning",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Robert Greene",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Fortune and mutability",
+        "Love, constancy, and betrayal",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "George Peele",
+      "themes": [
+        "Blood-feud, vengeance, and kinship",
+        "Fortune and mutability",
+        "Kingship and good rule",
+        "Monsters and the marvellous",
+        "Revenge and justice"
+      ]
+    },
+    {
+      "author": "Thomas Nashe",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Death, the soul, and the afterlife",
+        "Fortune and mutability",
+        "Love, constancy, and betrayal",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Social satire and estates criticism",
+        "The transience of earthly glory (ubi sunt)"
+      ]
+    },
+    {
+      "author": "George Chapman",
+      "themes": [
+        "Ambition and the overreacher",
+        "Colonial enterprise and the New World",
+        "Courtly service and courtly danger",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "author": "John Webster",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger",
+        "Death, the soul, and the afterlife",
+        "Revenge and justice",
+        "Tyranny and the abuse of power",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Thomas Middleton",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Fortune and mutability",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Social satire and estates criticism",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Thomas Dekker",
+      "themes": [
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Penance, confession, and sin",
+        "Social satire and estates criticism",
+        "Women's experience and the feminine voice",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Cyril Tourneur",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Revenge and justice"
+      ]
+    },
+    {
+      "author": "John Marston",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Colonial enterprise and the New World",
+        "Courtly service and courtly danger",
+        "Marriage and women's conduct",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "author": "Francis Beaumont",
+      "themes": [
+        "Kingship and good rule",
+        "Social satire and estates criticism",
+        "The public theatre and the players' world",
+        "Tyranny and the abuse of power",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "John Fletcher",
+      "themes": [
+        "Chivalry and knighthood",
+        "Courtly service and courtly danger",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Tyranny and the abuse of power",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "themes": [
+        "Order and degree: the body politic",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "author": "Thomas Heywood",
+      "themes": [
+        "Marriage and women's conduct",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "author": "Francis Bacon",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Creation and cosmology",
+        "Humanist education and the ideal commonwealth",
+        "The English vernacular and national letters",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Richard Hooker",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "author": "John Foxe",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "National identity and Englishness",
+        "Religious persecution and martyrdom"
+      ]
+    },
+    {
+      "author": "Thomas Sackville",
+      "themes": [
+        "Fortune and mutability",
+        "The transience of earthly glory (ubi sunt)",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "George Gascoigne",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "author": "Thomas Deloney",
+      "themes": [
+        "Marriage and women's conduct",
+        "National identity and Englishness",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "author": "Thomas Lodge",
+      "themes": [
+        "Fortune and mutability",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "author": "Richard Hakluyt",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "National identity and Englishness",
+        "Sea voyage and seafaring"
+      ]
+    },
+    {
+      "author": "Sir Walter Ralegh",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Fortune and mutability",
+        "Kingship and good rule",
+        "Monsters and the marvellous",
+        "The transience of earthly glory (ubi sunt)"
+      ]
+    },
+    {
+      "author": "John Florio",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Sir Thomas North",
+      "themes": [
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "author": "Arthur Golding",
+      "themes": [
+        "Creation and cosmology",
+        "Fortune and mutability",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "author": "Edward Fairfax",
+      "themes": [
+        "Chivalry and knighthood",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "author": "Joshua Sylvester",
+      "themes": [
+        "Creation and cosmology",
+        "Divine love and holy desire"
+      ]
+    },
+    {
+      "author": "Robert Burton",
+      "themes": [
+        "Medicine, healing, and the body",
+        "Melancholy and self-analysis",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "John Stow",
+      "themes": [
+        "National identity and Englishness",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "author": "William Camden",
+      "themes": [
+        "National identity and Englishness",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Samuel Purchas",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Sea voyage and seafaring"
+      ]
+    },
+    {
+      "author": "Aemilia Lanyer",
+      "themes": [
+        "The Passion of Christ",
+        "Women's experience and the feminine voice",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Lady Mary Wroth",
+      "themes": [
+        "Fortune and mutability",
+        "Love, constancy, and betrayal",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "Queen Elizabeth I",
+      "themes": [
+        "Courtly service and courtly danger",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "author": "Edmund Spenser",
+      "themes": [
+        "Chivalry and knighthood",
+        "Courtly service and courtly danger",
+        "Divine love and holy desire",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Petrarchan desire and the sonnet mistress",
+        "Social satire and estates criticism",
+        "The English vernacular and national letters",
+        "The transience of earthly glory (ubi sunt)",
+        "Time, death, and immortality through verse",
+        "Tyranny and the abuse of power",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Sir Philip Sidney",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger",
+        "Divine love and holy desire",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Penance, confession, and sin",
+        "Petrarchan desire and the sonnet mistress",
+        "Time, death, and immortality through verse",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Mary Sidney Herbert, Countess of Pembroke",
+      "themes": [
+        "Divine love and holy desire",
+        "Fortune and mutability",
+        "Penance, confession, and sin",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Fulke Greville, Lord Brooke",
+      "themes": [
+        "Divine love and holy desire",
+        "Petrarchan desire and the sonnet mistress"
+      ]
+    },
+    {
+      "author": "Samuel Daniel",
+      "themes": [
+        "Petrarchan desire and the sonnet mistress",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "author": "Michael Drayton",
+      "themes": [
+        "Petrarchan desire and the sonnet mistress",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "author": "William Shakespeare",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Blood-feud, vengeance, and kinship",
+        "Chivalry and knighthood",
+        "Colonial enterprise and the New World",
+        "Conscience and moral self-examination",
+        "Courtly service and courtly danger",
+        "Death, the soul, and the afterlife",
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Melancholy and self-analysis",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Penance, confession, and sin",
+        "Petrarchan desire and the sonnet mistress",
+        "Revenge and justice",
+        "Sea voyage and seafaring",
+        "Social satire and estates criticism",
+        "The public theatre and the players' world",
+        "Time, death, and immortality through verse",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Wisdom and learning",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Christopher Marlowe",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger",
+        "Fortune and mutability",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Penance, confession, and sin",
+        "Religious persecution and martyrdom",
+        "Revenge and justice",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Ben Jonson",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Colonial enterprise and the New World",
+        "Courtly service and courtly danger",
+        "Kingship and good rule",
+        "Marriage and women's conduct",
+        "Order and degree: the body politic",
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The public theatre and the players' world",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "John Donne",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Death, the soul, and the afterlife",
+        "Divine love and holy desire",
+        "Love, constancy, and betrayal",
+        "Medicine, healing, and the body",
+        "Penance, confession, and sin",
+        "Social satire and estates criticism",
+        "The transience of earthly glory (ubi sunt)"
+      ]
+    },
+    {
+      "author": "Thomas Campion",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "author": "Sir John Davies",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Death, the soul, and the afterlife"
+      ]
+    }
+  ],
+  "author_influences": [
+    {
+      "author": "Edmund Spenser",
+      "influenced_by": [
+        "Geoffrey Chaucer",
+        "John Skelton"
+      ]
+    },
+    {
+      "author": "Sir Philip Sidney",
+      "influenced_by": [
+        "Sir Thomas Wyatt",
+        "Henry Howard, Earl of Surrey"
+      ]
+    },
+    {
+      "author": "Mary Sidney Herbert, Countess of Pembroke",
+      "influenced_by": [
+        "Sir Philip Sidney"
+      ]
+    },
+    {
+      "author": "Fulke Greville, Lord Brooke",
+      "influenced_by": [
+        "Sir Philip Sidney"
+      ]
+    },
+    {
+      "author": "Samuel Daniel",
+      "influenced_by": [
+        "Sir Philip Sidney",
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "Michael Drayton",
+      "influenced_by": [
+        "Sir Philip Sidney",
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "William Shakespeare",
+      "influenced_by": [
+        "Geoffrey Chaucer",
+        "John Lyly",
+        "Christopher Marlowe",
+        "Sir Philip Sidney"
+      ]
+    },
+    {
+      "author": "Robert Greene",
+      "influenced_by": [
+        "John Lyly",
+        "Christopher Marlowe"
+      ]
+    },
+    {
+      "author": "Thomas Nashe",
+      "influenced_by": [
+        "Robert Greene"
+      ]
+    },
+    {
+      "author": "George Chapman",
+      "influenced_by": [
+        "Christopher Marlowe"
+      ]
+    },
+    {
+      "author": "John Webster",
+      "influenced_by": [
+        "Christopher Marlowe",
+        "John Marston"
+      ]
+    },
+    {
+      "author": "Thomas Middleton",
+      "influenced_by": [
+        "John Marston",
+        "Ben Jonson",
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "Thomas Dekker",
+      "influenced_by": [
+        "Robert Greene",
+        "Thomas Nashe",
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Cyril Tourneur",
+      "influenced_by": [
+        "Thomas Kyd",
+        "John Marston"
+      ]
+    },
+    {
+      "author": "Francis Beaumont",
+      "influenced_by": [
+        "Ben Jonson",
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "John Fletcher",
+      "influenced_by": [
+        "Ben Jonson",
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "influenced_by": [
+        "Ben Jonson",
+        "John Fletcher",
+        "Sir Philip Sidney"
+      ]
+    },
+    {
+      "author": "Thomas Heywood",
+      "influenced_by": [
+        "Christopher Marlowe"
+      ]
+    },
+    {
+      "author": "Francis Bacon",
+      "influenced_by": [
+        "Sir Thomas More"
+      ]
+    },
+    {
+      "author": "Richard Hooker",
+      "influenced_by": [
+        "Thomas Cranmer"
+      ]
+    },
+    {
+      "author": "John Foxe",
+      "influenced_by": [
+        "John Bale"
+      ]
+    },
+    {
+      "author": "Thomas Sackville",
+      "influenced_by": [
+        "John Lydgate",
+        "Geoffrey Chaucer"
+      ]
+    },
+    {
+      "author": "George Gascoigne",
+      "influenced_by": [
+        "Henry Howard, Earl of Surrey",
+        "Sir Thomas Wyatt",
+        "Geoffrey Chaucer"
+      ]
+    },
+    {
+      "author": "Thomas Lodge",
+      "influenced_by": [
+        "John Lyly",
+        "Sir Philip Sidney"
+      ]
+    },
+    {
+      "author": "Sir Walter Ralegh",
+      "influenced_by": [
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "Edward Fairfax",
+      "influenced_by": [
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "John Stow",
+      "influenced_by": [
+        "John Leland"
+      ]
+    },
+    {
+      "author": "William Camden",
+      "influenced_by": [
+        "John Leland"
+      ]
+    },
+    {
+      "author": "Samuel Purchas",
+      "influenced_by": [
+        "Richard Hakluyt"
+      ]
+    },
+    {
+      "author": "Aemilia Lanyer",
+      "influenced_by": [
+        "Mary Sidney Herbert, Countess of Pembroke"
+      ]
+    },
+    {
+      "author": "Lady Mary Wroth",
+      "influenced_by": [
+        "Sir Philip Sidney",
+        "Mary Sidney Herbert, Countess of Pembroke"
+      ]
+    },
+    {
+      "author": "Queen Elizabeth I",
+      "influenced_by": [
+        "Roger Ascham"
+      ]
+    }
+  ],
+  "period_movements": [
+    {
+      "period": "Elizabethan and Jacobean Period",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue",
+        "The Elizabethan Public Theatre",
+        "The University Wits",
+        "Metaphysical Poetry",
+        "Jacobean Tragedy and Revenge Drama",
+        "Jacobean City Comedy"
+      ]
+    }
+  ]
+}

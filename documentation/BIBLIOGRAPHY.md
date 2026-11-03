@@ -290,3 +290,159 @@ Scholarly editions linked to individual works (stored in the
 - **The Book of Common Prayer: The Texts of 1549, 1559, and 1662** — Brian
   Cummings (ed.), Oxford University Press, 2011. *Edition.* Standard
   scholarly edition of the three foundational Prayer Books.
+
+## Installment 4 — Elizabethan and Jacobean (1558–1625)
+
+### Reference works and surveys
+
+- **The Cambridge Companion to Shakespeare** — Margreta de Grazia and Stanley
+  Wells (eds.), Cambridge University Press, 2001. *Reference.* Critical essays
+  on Shakespeare's works and their contexts.
+- **The Cambridge Companion to English Renaissance Drama, 2nd edition** —
+  A. R. Braunmuller and Michael Hattaway (eds.), Cambridge University Press,
+  2003. *Reference.* The standard collaborative reference for the
+  non-Shakespearean drama of 1558–1642.
+- **The Cambridge Companion to Christopher Marlowe** — Patrick Cheney (ed.),
+  Cambridge University Press, 2004. *Reference.* Essays on Marlowe's plays,
+  poems, and translations.
+- **The Cambridge Companion to Ben Jonson** — Richard Harp and Stanley
+  Stewart (eds.), Cambridge University Press, 2000. *Reference.* Essays on
+  Jonson's drama, poetry, masques, and criticism.
+- **The Cambridge Companion to John Donne** — Achsah Guibbory (ed.),
+  Cambridge University Press, 2006. *Reference.* Essays on Donne's poetry,
+  prose, and sermons.
+- **The Cambridge Companion to Spenser** — Andrew Hadfield (ed.), Cambridge
+  University Press, 2001. *Reference.* Essays on Spenser's poetry and prose.
+
+### Primary editions
+
+- **The Riverside Shakespeare, 2nd edition** — G. Blakemore Evans (ed.) with
+  J. J. M. Tobin, Houghton Mifflin, 1997. *Edition.* The standard American
+  one-volume complete works; used for play texts, dates, and the collaborative
+  canon.
+- **The Oxford Shakespeare: The Complete Works, 2nd edition** — Stanley Wells
+  and Gary Taylor (eds.), Clarendon Press, 2005. *Edition.* The standard
+  British complete works.
+
+The following sources were carried over from earlier installments and remain
+in use: *The Cambridge History of Early Modern English Literature*, *The
+Norton Anthology of English Literature, 10th edition, Volume B*, *English
+Literature in the Sixteenth Century, Excluding Drama* (C. S. Lewis), and the
+*Oxford Dictionary of National Biography*.
+
+## Editions recorded in `work_editions` (Installment 4)
+
+Scholarly editions linked to individual works (stored in the
+`work_editions` table, not the `sources` table):
+
+- The Riverside Shakespeare, 2nd edition (G. Blakemore Evans, ed., Houghton
+  Mifflin, 1997) — linked to all Shakespeare plays and poems
+- The Oxford Shakespeare: The Complete Works, 2nd edition (Stanley Wells and
+  Gary Taylor, eds., Clarendon Press, 2005) — linked to all Shakespeare plays
+  and poems
+- Hamlet, Arden Shakespeare 3rd series (Ann Thompson and Neil Taylor, eds.,
+  2006); King Lear, Arden 3rd series (R. A. Foakes, ed., 1997); Othello,
+  Arden 3rd series (E. A. J. Honigmann, ed., 1997); The Sonnets, Arden 3rd
+  series (Katherine Duncan-Jones, ed., 1997)
+- Christopher Marlowe: The Complete Plays (Gerald Romany and Robert Lindsey,
+  eds., Penguin, 2003); The Complete Poems and Translations (Stephen Orgel,
+  ed., Penguin, 1971)
+- The Cambridge Edition of the Works of Ben Jonson, 7 vols. (David
+  Bevington, Martin Butler, and Ian Donaldson, gen. eds., Cambridge
+  University Press, 2012); Eastward Ho, New Mermaids (R. W. Van Fossen, ed.,
+  1961)
+- John Donne: The Complete English Poems (A. J. Smith, ed., Penguin, 1971);
+  The Complete Poems (Robin Robbins, ed., Longman, 2010); Devotions upon
+  Emergent Occasions (Anthony Raspa, ed., McGill-Queen's, 1975)
+- The Works of Thomas Campion (Walter R. Davis, ed., Faber, 1967); The Poems
+  of Sir John Davies (Robert Krueger, ed., Oxford University Press, 1975)
+- The Spanish Tragedy, Revels Plays (Philip Edwards, ed., Methuen, 1959)
+- The Complete Works of John Lyly, 3 vols. (R. Warwick Bond, ed., Oxford
+  University Press, 1902)
+- James IV, Revels Plays (Norman Sanders, ed., Methuen, 1970); The Life and
+  Complete Works of Robert Greene, 15 vols. (Alexander B. Grosart, ed.,
+  1881)
+- The Works of George Peele, 2 vols. (Alexander H. Bullen, ed., 1888); The
+  Old Wives' Tale, Revels Plays (Charles Whitworth Binnie, ed., Manchester
+  University Press, 1980)
+- The Works of Thomas Nashe, 5 vols. (R. B. McKerrow, ed., rev. F. P.
+  Wilson, Blackwell, 1958)
+- Bussy D'Ambois, Revels Plays (Nicholas Brooke, ed., Methuen, 1964)
+- The White Devil, Revels Plays (John Russell Brown, ed., Methuen, 1960);
+  The Duchess of Malfi, Revels Plays (John Russell Brown, ed., Methuen, 1964)
+- A Mad World, My Masters, Regents Renaissance Drama (Standish Henning, ed.,
+  University of Nebraska Press, 1965); A Chaste Maid in Cheapside, New
+  Mermaids (Alan Brissenden, ed., 1968); Women Beware Women, Revels Plays
+  (J. R. Mulryne, ed., Methuen, 1975); The Changeling, Revels Plays (N. W.
+  Bawcutt, ed., Methuen, 1958)
+- The Dramatic Works of Thomas Dekker, 4 vols. (Fredson Bowers, ed.,
+  Cambridge University Press, 1953); The Shoemaker's Holiday, Revels Plays
+  (R. L. Smallwood and Stanley Wells, eds., Manchester University Press,
+  1979); The Witch of Edmonton, Revels Plays (Peter Corbin and Douglas Sedge,
+  eds., Manchester University Press, 1986)
+- The Atheist's Tragedy, Revels Plays (Irving Ribner, ed., Methuen, 1964);
+  The Revenger's Tragedy, New Mermaids (Brian Gibbons, ed., 1967)
+- The Malcontent, Revels Plays (G. K. Hunter, ed., Methuen, 1975); The Dutch
+  Courtesan, Regents Renaissance Drama (M. L. Wine, ed., University of
+  Nebraska Press, 1965)
+- Philaster, Revels Plays (Andrew Gurr, ed., Methuen, 1969); The Maid's
+  Tragedy, Revels Plays (T. W. Craik, ed., Manchester University Press,
+  1988); The Knight of the Burning Pestle, Revels Plays (Sheldon P. Zitner,
+  ed., Manchester University Press, 1984)
+- A New Way to Pay Old Debts, New Mermaids (T. W. Craik, ed., 1964)
+- Three Elizabethan Domestic Tragedies (Keith W. Sturgess, ed., Penguin,
+  1969); Arden of Faversham, Revels Plays (M. L. Wine, ed., Methuen, 1973)
+- The Essayes or Counsels, Civill and Morall, Oxford Francis Bacon (Michael
+  Kiernan, ed., Oxford University Press, 1985); The Advancement of Learning,
+  Oxford Francis Bacon (Michael Kiernan, ed., 2000); The New Organon (Lisa
+  Jardine and Michael Silverthorne, eds., Cambridge University Press, 2000);
+  Francis Bacon: The Major Works (Brian Vickers, ed., Oxford University
+  Press, 1996)
+- Of the Laws of Ecclesiastical Polity, Folger Library Edition (W. Speed
+  Hill, gen. ed., Harvard University Press, 1977–98)
+- The Acts and Monuments of John Foxe, 8 vols. (Josiah Pratt, ed., 1877)
+- The Mirror for Magistrates (Lily B. Campbell, ed., Cambridge University
+  Press, 1938)
+- The Complete Works of George Gascoigne, 2 vols. (John W. Cunliffe, ed.,
+  Cambridge University Press, 1907)
+- The Works of Thomas Deloney (Francis Oscar Mann, ed., Oxford University
+  Press, 1912)
+- Rosalynde: Euphues Golden Legacie (W. W. Greg, ed., Chatto and Windus,
+  1907)
+- The Principal Navigations Voyages Traffiques and Discoveries of the
+  English Nation, 12 vols. (John MacLehose, ed., James MacLehose and Sons,
+  1903)
+- The Discoverie of Guiana, Revels (Neil L. Whitehead, ed., Manchester
+  University Press, 1997); Sir Walter Ralegh: The History of the World
+  (C. A. Patrides, ed., Macmillan, 1971)
+- Shakespeare's Montaigne: The Florio Translation (Stephen Greenblatt and
+  Peter G. Platt, eds., New York Review Books, 2014); Sir Thomas North's
+  Plutarch (Judith Mossman, ed., Wordsworth, 1998); Shakespeare's Ovid:
+  Arthur Golding's Translation (W. H. D. Rouse, ed., De La More Press, 1904);
+  Godfrey of Bulloigne (Kathleen M. Lea and T. M. Gang, eds., Clarendon
+  Press, 1981); The Complete Works of Joshuah Sylvester, 2 vols. (Alexander
+  B. Grosart, ed., 1880)
+- The Anatomy of Melancholy, 6 vols. (Thomas C. Faulkner, Nicolas K.
+  Kiessling, and Rhonda L. Blair, eds., Clarendon Press, 1989–2000)
+- A Survey of London, 2 vols. (Charles Lethbridge Kingsford, ed., Oxford
+  University Press, 1908); Britannia, 2nd edn, 4 vols. (Richard Gough, ed.,
+  1806); Hakluytus Posthumus or Purchas His Pilgrimes, 20 vols. (John
+  MacLehose, ed., James MacLehose and Sons, 1905)
+- The Poems of Aemilia Lanyer (Susanne Woods, ed., Oxford University Press,
+  1993); The First Part of The Countess of Montgomery's Urania (Josephine A.
+  Roberts, ed., MRTS, 1995); Elizabeth I: Collected Works (Leah S. Marcus,
+  Janel Mueller, and Mary Beth Rose, eds., University of Chicago Press, 2000)
+- The Faerie Queene (A. C. Hamilton, ed., Longman, 2007); The Yale Edition
+  of the Shorter Poems of Edmund Spenser (William A. Oram et al., eds., Yale
+  University Press, 1989); A View of the State of Ireland (Andrew Hadfield
+  and Willy Maley, eds., Blackwell, 1997)
+- The Poems of Sir Philip Sidney (William A. Ringler, ed., Oxford University
+  Press, 1962); The New Arcadia (Victor Skretkowicz, ed., Oxford University
+  Press, 1987); Miscellaneous Prose of Sir Philip Sidney (Katherine
+  Duncan-Jones and Jan van Dorsten, eds., Oxford University Press, 1973);
+  The Collected Works of Mary Sidney Herbert (Margaret P. Hannay, Michael G.
+  Brennan, and Mary Ellen Lamb, eds., Oxford University Press, 1998)
+- Poems and Dramas of Fulke Greville, 2 vols. (Geoffrey Bullough, ed.,
+  Edinburgh University Press, 1939); Samuel Daniel: Poems and A Defence of
+  Ryme (Arthur Colby Sprague, ed., Routledge and Kegan Paul, 1930); The Works
+  of Michael Drayton, 5 vols. (J. W. Hebel, ed., Blackwell, 1941)

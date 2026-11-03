@@ -263,3 +263,60 @@ Flat list; parent-child links available for later consolidation:
 - `English (translated from Latin)` — Surrey's Aeneid and the prose translations
 - `Scots` — Douglas and Lindsay
 - `Scots (translated from Latin)` — Douglas's Eneados
+
+## Genre additions (Installment 4)
+
+- `English Epic and Allegorical Romance` — Spenser's Faerie Queene and the heroic-allegorical mode
+- `Sonnet Sequence` — the Petrarchan sequence from Astrophel and Stella to Idea
+- `Revenge Tragedy` — the Senecan-derived revenge plot from The Spanish Tragedy to The Revenger's Tragedy
+- `Romantic Comedy` — the comedy of love, disguise, and reconciliation
+- `History Play` — the chronicle drama of English and classical history
+- `Tragedy` — serious drama of the fall of a great person
+- `Comedy` — the drama of social error, wit, and reconciliation
+- `City Comedy` — the satirical comedy of London manners
+- `Court Masque` — the allegorical courtly entertainment with song, dance, and spectacle
+- `Essay` — the short prose meditation in the tradition of Montaigne and Bacon
+- `Metaphysical and Devotional Lyric` — the witty lyric of Donne and his school
+- `Prose Romance and Euphuism` — Elizabethan prose fiction of love and adventure
+- `Tragicomedy` — the mixed genre bringing a potentially tragic action to a happy resolution
+
+## Theme list (Installment 4)
+
+- `Petrarchan desire and the sonnet mistress`
+- `Ambition and the overreacher`
+- `Revenge and justice`
+- `Appearance, dissembling, and self-fashioning`
+- `Order and degree: the body politic`
+- `Time, death, and immortality through verse`
+- `The public theatre and the players' world`
+- `Colonial enterprise and the New World`
+- `Melancholy and self-analysis`
+- `Divine love and holy desire`
+- `Patronage and the literary marketplace`
+- `Women, chastity, and constancy`
+
+## Periods (Installment 4)
+
+| Period | Start | End |
+|---|---|---|
+| Elizabethan and Jacobean Period | 1558 | 1625 |
+
+## Movements (Installment 4)
+
+| Movement | Start | End |
+|---|---|---|
+| English Petrarchism and the Sonnet Vogue | 1580 | 1620 |
+| The Elizabethan Public Theatre | 1576 | 1642 |
+| The University Wits | 1580 | 1600 |
+| Metaphysical Poetry | 1590 | 1660 |
+| Jacobean Tragedy and Revenge Drama | 1600 | 1640 |
+| Jacobean City Comedy | 1600 | 1640 |
+
+## contribution_type — values added in Installment 4
+
+- `editor` — Hakluyt's Principal Navigations and Purchas's Pilgrimes (compilers of others' voyages)
+
+## original_language (works) — values in use in Installment 4
+
+- `English` — the vernacular corpus (151 works)
+- `Latin` — Bacon's Novum Organum and Camden's Britannia, both first published in Latin

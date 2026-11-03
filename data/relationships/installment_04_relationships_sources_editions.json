@@ -1,0 +1,3735 @@
+{
+  "author_sources": [
+    {
+      "author": "Thomas Kyd",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Lyly",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Robert Greene",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "George Peele",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Thomas Nashe",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "George Chapman",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Webster",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Thomas Middleton",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Thomas Dekker",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Cyril Tourneur",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Marston",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Francis Beaumont",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Fletcher",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Thomas Heywood",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Francis Bacon",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Richard Hooker",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "John Foxe",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Thomas Sackville",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "George Gascoigne",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "English Literature in the Sixteenth Century, Excluding Drama",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Thomas Deloney",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Thomas Lodge",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Richard Hakluyt",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Sir Walter Ralegh",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "John Florio",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Sir Thomas North",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Arthur Golding",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "author": "Edward Fairfax",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Joshua Sylvester",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Robert Burton",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "John Stow",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "William Camden",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Samuel Purchas",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Aemilia Lanyer",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Lady Mary Wroth",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Queen Elizabeth I",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "author": "Edmund Spenser",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Sir Philip Sidney",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Mary Sidney Herbert, Countess of Pembroke",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Fulke Greville, Lord Brooke",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Samuel Daniel",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Michael Drayton",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "William Shakespeare",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to Shakespeare",
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Christopher Marlowe",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Ben Jonson",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to Ben Jonson",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "John Donne",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge Companion to John Donne",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Thomas Campion",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "author": "Sir John Davies",
+      "sources": [
+        "Oxford Dictionary of National Biography",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    }
+  ],
+  "work_sources": [
+    {
+      "work": "Songs and Sonnets",
+      "sources": [
+        "The Cambridge Companion to John Donne",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Elegies",
+      "sources": [
+        "The Cambridge Companion to John Donne",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Holy Sonnets",
+      "sources": [
+        "The Cambridge Companion to John Donne",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Anniversaries",
+      "sources": [
+        "The Cambridge Companion to John Donne",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Devotions upon Emergent Occasions",
+      "sources": [
+        "The Cambridge Companion to John Donne",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Satires",
+      "sources": [
+        "The Cambridge Companion to John Donne",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A Book of Airs",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Nosce Teipsum",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Spanish Tragedy",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Campaspe",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Sapho and Phao",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Gallathea",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Endymion",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Friar Bacon and Friar Bungay",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "James IV",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Arraignment of Paris",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Old Wives' Tale",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Summer's Last Will and Testament",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Bussy D'Ambois",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Eastward Ho",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The White Devil",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Duchess of Malfi",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A Mad World, My Masters",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A Chaste Maid in Cheapside",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Women Beware Women",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Changeling",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Shoemaker's Holiday",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Honest Whore, Part 1",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Atheist's Tragedy",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Revenger's Tragedy",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Malcontent",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Dutch Courtesan",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Philaster",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Maid's Tragedy",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Knight of the Burning Pestle",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A New Way to Pay Old Debts",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A Woman Killed with Kindness",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Arden of Faversham",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A Yorkshire Tragedy",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Mucedorus",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Witch of Edmonton",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 1",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 2",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Doctor Faustus",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Jew of Malta",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Edward II",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Massacre at Paris",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Dido, Queen of Carthage",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Hero and Leander",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "All Ovid's Elegies",
+      "sources": [
+        "The Cambridge Companion to Christopher Marlowe",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Every Man in His Humour",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Volpone",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Epicene",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Alchemist",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Bartholomew Fair",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Sejanus His Fall",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Masque of Blackness",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Epigrams",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Forest",
+      "sources": [
+        "The Cambridge Companion to Ben Jonson",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Essays",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "work": "The Advancement of Learning",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "work": "Novum Organum",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "work": "New Atlantis",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "Oxford Dictionary of National Biography"
+      ]
+    },
+    {
+      "work": "Of the Laws of Ecclesiastical Polity",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Actes and Monuments",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A Mirror for Magistrates",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Steel Glass",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Adventures of Master F.J.",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Euphues: The Anatomy of Wit",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Euphues and His England",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Pierce Penniless His Supplication to the Devil",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Unfortunate Traveller",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Christ's Tears over Jerusalem",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Pandosto",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Menaphon",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Jack of Newbury",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Gentle Craft",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Rosalynde",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Principal Navigations, Voyages, Traffics and Discoveries of the English Nation",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Discoverie of the Large, Rich and Beautiful Empire of Guiana",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The History of the World",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Essays of Montaigne",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Plutarch's Lives of the Noble Grecians and Romans",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Ovid's Metamorphoses",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Godfrey of Bulloigne",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "Du Bartas His Divine Weeks and Works",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "English Literature in the Sixteenth Century, Excluding Drama"
+      ]
+    },
+    {
+      "work": "The Anatomy of Melancholy",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A Survey of London",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Britannia",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Hakluytus Posthumus, or Purchas His Pilgrimes",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Salve Deus Rex Judaeorum",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Countess of Montgomery's Urania",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Doubt of Future Foes",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "On Monsieur's Departure",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Two Gentlemen of Verona",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "The Taming of the Shrew",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "The Comedy of Errors",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Love's Labour's Lost",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "A Midsummer Night's Dream",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "The Merchant of Venice",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "The Merry Wives of Windsor",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Much Ado About Nothing",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "As You Like It",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "Twelfth Night",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "All's Well That Ends Well",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Measure for Measure",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Troilus and Cressida",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 1",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 2",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 3",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Richard III",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "King John",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Richard II",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 1",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 2",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Henry V",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Henry VIII",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Titus Andronicus",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Romeo and Juliet",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Julius Caesar",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Hamlet",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "Othello",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "King Lear",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "Macbeth",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "Antony and Cleopatra",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Coriolanus",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Timon of Athens",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Pericles, Prince of Tyre",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Cymbeline",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "The Winter's Tale",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "The Tempest",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "The Two Noble Kinsmen",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Venus and Adonis",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "The Rape of Lucrece",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "Shakespeare's Sonnets",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition",
+        "The Cambridge Companion to Shakespeare"
+      ]
+    },
+    {
+      "work": "The Phoenix and the Turtle",
+      "sources": [
+        "The Riverside Shakespeare, 2nd edition",
+        "The Oxford Shakespeare: The Complete Works, 2nd edition"
+      ]
+    },
+    {
+      "work": "The Shepheardes Calender",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Faerie Queene",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Complaints",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Amoretti and Epithalamion",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Colin Clouts Come Home Againe",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Prothalamion",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "A View of the Present State of Ireland",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Fowre Hymnes",
+      "sources": [
+        "The Cambridge Companion to Spenser",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "The Defence of Poesy",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Astrophel and Stella",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Arcadia",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Lady of May",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "The Sidney Psalter",
+      "sources": [
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "work": "Antonius",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Caelica",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Delia",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "work": "Idea",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    }
+  ],
+  "movement_sources": [
+    {
+      "movement": "English Petrarchism and the Sonnet Vogue",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "movement": "The Elizabethan Public Theatre",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century",
+        "The Cambridge History of Early Modern English Literature"
+      ]
+    },
+    {
+      "movement": "The University Wits",
+      "sources": [
+        "The Cambridge History of Early Modern English Literature",
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "movement": "Metaphysical Poetry",
+      "sources": [
+        "The Cambridge Companion to John Donne",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "movement": "Jacobean Tragedy and Revenge Drama",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    },
+    {
+      "movement": "Jacobean City Comedy",
+      "sources": [
+        "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+        "The Cambridge History of Early Modern English Literature",
+        "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+      ]
+    }
+  ],
+  "work_editions": [
+    {
+      "work": "Songs and Sonnets",
+      "editions": [
+        {
+          "edition_title": "John Donne: The Complete English Poems",
+          "editor": "A. J. Smith (ed.)",
+          "publisher": "Penguin",
+          "publication_year": 1971,
+          "edition_notes": "The standard one-volume student edition of the English poems."
+        },
+        {
+          "edition_title": "The Complete Poems of John Donne",
+          "editor": "Robin Robbins (ed.)",
+          "publisher": "Longman",
+          "publication_year": 2010,
+          "edition_notes": "A scholarly edition with full commentary."
+        }
+      ]
+    },
+    {
+      "work": "Elegies",
+      "editions": [
+        {
+          "edition_title": "John Donne: The Complete English Poems",
+          "editor": "A. J. Smith (ed.)",
+          "publisher": "Penguin",
+          "publication_year": 1971,
+          "edition_notes": "The standard one-volume student edition of the English poems."
+        },
+        {
+          "edition_title": "The Complete Poems of John Donne",
+          "editor": "Robin Robbins (ed.)",
+          "publisher": "Longman",
+          "publication_year": 2010,
+          "edition_notes": "A scholarly edition with full commentary."
+        }
+      ]
+    },
+    {
+      "work": "Holy Sonnets",
+      "editions": [
+        {
+          "edition_title": "John Donne: The Complete English Poems",
+          "editor": "A. J. Smith (ed.)",
+          "publisher": "Penguin",
+          "publication_year": 1971,
+          "edition_notes": "The standard one-volume student edition of the English poems."
+        },
+        {
+          "edition_title": "The Complete Poems of John Donne",
+          "editor": "Robin Robbins (ed.)",
+          "publisher": "Longman",
+          "publication_year": 2010,
+          "edition_notes": "A scholarly edition with full commentary."
+        }
+      ]
+    },
+    {
+      "work": "The Anniversaries",
+      "editions": [
+        {
+          "edition_title": "John Donne: The Complete English Poems",
+          "editor": "A. J. Smith (ed.)",
+          "publisher": "Penguin",
+          "publication_year": 1971,
+          "edition_notes": "The standard one-volume student edition of the English poems."
+        },
+        {
+          "edition_title": "The Complete Poems of John Donne",
+          "editor": "Robin Robbins (ed.)",
+          "publisher": "Longman",
+          "publication_year": 2010,
+          "edition_notes": "A scholarly edition with full commentary."
+        }
+      ]
+    },
+    {
+      "work": "Devotions upon Emergent Occasions",
+      "editions": [
+        {
+          "edition_title": "Devotions upon Emergent Occasions",
+          "editor": "Anthony Raspa (ed.)",
+          "publisher": "McGill-Queen's University Press",
+          "publication_year": 1975,
+          "edition_notes": "The standard modern edition of Donne's prose meditations of 1624."
+        }
+      ]
+    },
+    {
+      "work": "Satires",
+      "editions": [
+        {
+          "edition_title": "John Donne: The Complete English Poems",
+          "editor": "A. J. Smith (ed.)",
+          "publisher": "Penguin",
+          "publication_year": 1971,
+          "edition_notes": "The standard one-volume student edition of the English poems."
+        },
+        {
+          "edition_title": "The Complete Poems of John Donne",
+          "editor": "Robin Robbins (ed.)",
+          "publisher": "Longman",
+          "publication_year": 2010,
+          "edition_notes": "A scholarly edition with full commentary."
+        }
+      ]
+    },
+    {
+      "work": "A Book of Airs",
+      "editions": [
+        {
+          "edition_title": "The Works of Thomas Campion",
+          "editor": "Walter R. Davis (ed.)",
+          "publisher": "Faber and Faber",
+          "publication_year": 1967,
+          "edition_notes": "The standard collected edition of Campion's songs, masques, and poetry."
+        }
+      ]
+    },
+    {
+      "work": "Nosce Teipsum",
+      "editions": [
+        {
+          "edition_title": "The Poems of Sir John Davies",
+          "editor": "Robert Krueger (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1975,
+          "edition_notes": "The standard collected edition of Davies's poems."
+        }
+      ]
+    },
+    {
+      "work": "The Spanish Tragedy",
+      "editions": [
+        {
+          "edition_title": "The Spanish Tragedy (Revels Plays)",
+          "editor": "Philip Edwards (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1959,
+          "edition_notes": "The standard scholarly edition of Kyd's revenge tragedy."
+        }
+      ]
+    },
+    {
+      "work": "Campaspe",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of John Lyly, 3 vols.",
+          "editor": "R. Warwick Bond (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1902,
+          "edition_notes": "The standard collected edition of Lyly's plays and prose."
+        }
+      ]
+    },
+    {
+      "work": "Sapho and Phao",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of John Lyly, 3 vols.",
+          "editor": "R. Warwick Bond (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1902,
+          "edition_notes": "The standard collected edition of Lyly's plays and prose."
+        }
+      ]
+    },
+    {
+      "work": "Gallathea",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of John Lyly, 3 vols.",
+          "editor": "R. Warwick Bond (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1902,
+          "edition_notes": "The standard collected edition of Lyly's plays and prose."
+        }
+      ]
+    },
+    {
+      "work": "Endymion",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of John Lyly, 3 vols.",
+          "editor": "R. Warwick Bond (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1902,
+          "edition_notes": "The standard collected edition of Lyly's plays and prose."
+        }
+      ]
+    },
+    {
+      "work": "Friar Bacon and Friar Bungay",
+      "editions": [
+        {
+          "edition_title": "James IV (Revels Plays)",
+          "editor": "Norman Sanders (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1970,
+          "edition_notes": "The standard scholarly edition of Greene's Scottish history-comedy."
+        }
+      ]
+    },
+    {
+      "work": "James IV",
+      "editions": [
+        {
+          "edition_title": "James IV (Revels Plays)",
+          "editor": "Norman Sanders (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1970,
+          "edition_notes": "The standard scholarly edition of Greene's Scottish history-comedy."
+        }
+      ]
+    },
+    {
+      "work": "The Arraignment of Paris",
+      "editions": [
+        {
+          "edition_title": "The Works of George Peele, 2 vols.",
+          "editor": "Alexander H. Bullen (ed.)",
+          "publisher": "George Routledge and Sons",
+          "publication_year": 1888,
+          "edition_notes": "The standard collected edition of Peele's plays and poems."
+        }
+      ]
+    },
+    {
+      "work": "The Old Wives' Tale",
+      "editions": [
+        {
+          "edition_title": "The Old Wives' Tale (Revels Plays)",
+          "editor": "Charles Whitworth Binnie (ed.)",
+          "publisher": "Manchester University Press",
+          "publication_year": 1980,
+          "edition_notes": "The standard scholarly edition of Peele's folk-tale play."
+        }
+      ]
+    },
+    {
+      "work": "Summer's Last Will and Testament",
+      "editions": [
+        {
+          "edition_title": "The Works of Thomas Nashe, 5 vols.",
+          "editor": "R. B. McKerrow (ed.), revised by F. P. Wilson",
+          "publisher": "Basil Blackwell",
+          "publication_year": 1958,
+          "edition_notes": "The standard collected edition of Nashe's prose and drama (first edition 1904–10)."
+        }
+      ]
+    },
+    {
+      "work": "Bussy D'Ambois",
+      "editions": [
+        {
+          "edition_title": "Bussy D'Ambois (Revels Plays)",
+          "editor": "Nicholas Brooke (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1964,
+          "edition_notes": "The standard scholarly edition of Chapman's tragedy of ambition."
+        }
+      ]
+    },
+    {
+      "work": "Eastward Ho",
+      "editions": [
+        {
+          "edition_title": "Eastward Ho (New Mermaids)",
+          "editor": "R. W. Van Fossen (ed.)",
+          "publisher": "Ernest Benn",
+          "publication_year": 1961,
+          "edition_notes": "The standard modern edition of the collaborative city comedy."
+        }
+      ]
+    },
+    {
+      "work": "The White Devil",
+      "editions": [
+        {
+          "edition_title": "The White Devil (Revels Plays)",
+          "editor": "John Russell Brown (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1960,
+          "edition_notes": "The standard scholarly edition of Webster's Italianate tragedy."
+        }
+      ]
+    },
+    {
+      "work": "The Duchess of Malfi",
+      "editions": [
+        {
+          "edition_title": "The Duchess of Malfi (Revels Plays)",
+          "editor": "John Russell Brown (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1964,
+          "edition_notes": "The standard scholarly edition of Webster's tragedy of the Duchess and her brothers."
+        }
+      ]
+    },
+    {
+      "work": "A Mad World, My Masters",
+      "editions": [
+        {
+          "edition_title": "A Mad World, My Masters (Regents Renaissance Drama)",
+          "editor": "Standish Henning (ed.)",
+          "publisher": "University of Nebraska Press",
+          "publication_year": 1965,
+          "edition_notes": "The standard modern edition of Middleton's city comedy."
+        }
+      ]
+    },
+    {
+      "work": "A Chaste Maid in Cheapside",
+      "editions": [
+        {
+          "edition_title": "A Chaste Maid in Cheapside (New Mermaids)",
+          "editor": "Alan Brissenden (ed.)",
+          "publisher": "Ernest Benn",
+          "publication_year": 1968,
+          "edition_notes": "The standard modern edition of Middleton's Cheapside comedy."
+        }
+      ]
+    },
+    {
+      "work": "Women Beware Women",
+      "editions": [
+        {
+          "edition_title": "Women Beware Women (Revels Plays)",
+          "editor": "J. R. Mulryne (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1975,
+          "edition_notes": "The standard scholarly edition of Middleton's Florentine tragedy."
+        }
+      ]
+    },
+    {
+      "work": "The Changeling",
+      "editions": [
+        {
+          "edition_title": "The Changeling (Revels Plays)",
+          "editor": "N. W. Bawcutt (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1958,
+          "edition_notes": "The standard scholarly edition of the Middleton–Rowley tragedy."
+        }
+      ]
+    },
+    {
+      "work": "The Shoemaker's Holiday",
+      "editions": [
+        {
+          "edition_title": "The Shoemaker's Holiday (Revels Plays)",
+          "editor": "R. L. Smallwood and Stanley Wells (eds.)",
+          "publisher": "Manchester University Press",
+          "publication_year": 1979,
+          "edition_notes": "The standard scholarly edition of Dekker's citizen comedy."
+        }
+      ]
+    },
+    {
+      "work": "The Honest Whore, Part 1",
+      "editions": [
+        {
+          "edition_title": "The Dramatic Works of Thomas Dekker, 4 vols.",
+          "editor": "Fredson Bowers (ed.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 1953,
+          "edition_notes": "The standard collected edition of Dekker's plays, including The Honest Whore."
+        }
+      ]
+    },
+    {
+      "work": "The Atheist's Tragedy",
+      "editions": [
+        {
+          "edition_title": "The Atheist's Tragedy (Revels Plays)",
+          "editor": "Irving Ribner (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1964,
+          "edition_notes": "The standard scholarly edition of Tourneur's providential revenge tragedy."
+        }
+      ]
+    },
+    {
+      "work": "The Revenger's Tragedy",
+      "editions": [
+        {
+          "edition_title": "The Revenger's Tragedy (New Mermaids)",
+          "editor": "Brian Gibbons (ed.)",
+          "publisher": "Ernest Benn",
+          "publication_year": 1967,
+          "edition_notes": "The standard modern edition, printing the play under Tourneur's traditional ascription while noting the modern case for Middleton."
+        }
+      ]
+    },
+    {
+      "work": "The Malcontent",
+      "editions": [
+        {
+          "edition_title": "The Malcontent (Revels Plays)",
+          "editor": "G. K. Hunter (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1975,
+          "edition_notes": "The standard scholarly edition of Marston's satirical tragicomedy."
+        }
+      ]
+    },
+    {
+      "work": "The Dutch Courtesan",
+      "editions": [
+        {
+          "edition_title": "The Dutch Courtesan (Regents Renaissance Drama)",
+          "editor": "M. L. Wine (ed.)",
+          "publisher": "University of Nebraska Press",
+          "publication_year": 1965,
+          "edition_notes": "The standard modern edition of Marston's city comedy."
+        }
+      ]
+    },
+    {
+      "work": "Philaster",
+      "editions": [
+        {
+          "edition_title": "Philaster (Revels Plays)",
+          "editor": "Andrew Gurr (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1969,
+          "edition_notes": "The standard scholarly edition of Beaumont and Fletcher's tragicomedy."
+        }
+      ]
+    },
+    {
+      "work": "The Maid's Tragedy",
+      "editions": [
+        {
+          "edition_title": "The Maid's Tragedy (Revels Plays)",
+          "editor": "T. W. Craik (ed.)",
+          "publisher": "Manchester University Press",
+          "publication_year": 1988,
+          "edition_notes": "The standard scholarly edition of Beaumont and Fletcher's tragedy."
+        }
+      ]
+    },
+    {
+      "work": "The Knight of the Burning Pestle",
+      "editions": [
+        {
+          "edition_title": "The Knight of the Burning Pestle (Revels Plays)",
+          "editor": "Sheldon P. Zitner (ed.)",
+          "publisher": "Manchester University Press",
+          "publication_year": 1984,
+          "edition_notes": "The standard scholarly edition of Beaumont's citizen comedy."
+        }
+      ]
+    },
+    {
+      "work": "A New Way to Pay Old Debts",
+      "editions": [
+        {
+          "edition_title": "A New Way to Pay Old Debts (New Mermaids)",
+          "editor": "T. W. Craik (ed.)",
+          "publisher": "Ernest Benn",
+          "publication_year": 1964,
+          "edition_notes": "The standard modern edition of Massinger's greatest comedy."
+        }
+      ]
+    },
+    {
+      "work": "A Woman Killed with Kindness",
+      "editions": [
+        {
+          "edition_title": "Three Elizabethan Domestic Tragedies",
+          "editor": "Keith W. Sturgess (ed.)",
+          "publisher": "Penguin",
+          "publication_year": 1969,
+          "edition_notes": "Contains A Woman Killed with Kindness with Arden of Faversham and A Yorkshire Tragedy."
+        }
+      ]
+    },
+    {
+      "work": "Arden of Faversham",
+      "editions": [
+        {
+          "edition_title": "Arden of Faversham (Revels Plays)",
+          "editor": "M. L. Wine (ed.)",
+          "publisher": "Methuen",
+          "publication_year": 1973,
+          "edition_notes": "The standard scholarly edition of the anonymous domestic tragedy."
+        }
+      ]
+    },
+    {
+      "work": "A Yorkshire Tragedy",
+      "editions": [
+        {
+          "edition_title": "Three Elizabethan Domestic Tragedies",
+          "editor": "Keith W. Sturgess (ed.)",
+          "publisher": "Penguin",
+          "publication_year": 1969,
+          "edition_notes": "Contains A Yorkshire Tragedy, printed in the First Folio under Shakespeare's name but long since doubted."
+        }
+      ]
+    },
+    {
+      "work": "The Witch of Edmonton",
+      "editions": [
+        {
+          "edition_title": "The Witch of Edmonton (Revels Plays)",
+          "editor": "Peter Corbin and Douglas Sedge (eds.)",
+          "publisher": "Manchester University Press",
+          "publication_year": 1986,
+          "edition_notes": "The standard scholarly edition of the Dekker–Ford–Rowley tragicomedy."
+        }
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 1",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Plays",
+          "editor": "Gerald Romany and Robert Lindsey (eds.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 2003,
+          "edition_notes": "The standard modern student edition of the plays, including the A- and B-texts of Doctor Faustus."
+        }
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 2",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Plays",
+          "editor": "Gerald Romany and Robert Lindsey (eds.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 2003,
+          "edition_notes": "The standard modern student edition of the plays, including the A- and B-texts of Doctor Faustus."
+        }
+      ]
+    },
+    {
+      "work": "Doctor Faustus",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Plays",
+          "editor": "Gerald Romany and Robert Lindsey (eds.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 2003,
+          "edition_notes": "The standard modern student edition of the plays, including the A- and B-texts of Doctor Faustus."
+        }
+      ]
+    },
+    {
+      "work": "The Jew of Malta",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Plays",
+          "editor": "Gerald Romany and Robert Lindsey (eds.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 2003,
+          "edition_notes": "The standard modern student edition of the plays, including the A- and B-texts of Doctor Faustus."
+        }
+      ]
+    },
+    {
+      "work": "Edward II",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Plays",
+          "editor": "Gerald Romany and Robert Lindsey (eds.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 2003,
+          "edition_notes": "The standard modern student edition of the plays, including the A- and B-texts of Doctor Faustus."
+        }
+      ]
+    },
+    {
+      "work": "The Massacre at Paris",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Plays",
+          "editor": "Gerald Romany and Robert Lindsey (eds.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 2003,
+          "edition_notes": "The standard modern student edition of the plays, including the A- and B-texts of Doctor Faustus."
+        }
+      ]
+    },
+    {
+      "work": "Dido, Queen of Carthage",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Plays",
+          "editor": "Gerald Romany and Robert Lindsey (eds.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 2003,
+          "edition_notes": "The standard modern student edition of the plays, including the A- and B-texts of Doctor Faustus."
+        }
+      ]
+    },
+    {
+      "work": "Hero and Leander",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Poems and Translations",
+          "editor": "Stephen Orgel (ed.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 1971,
+          "edition_notes": "Contains Hero and Leander and the translation of Ovid's Amores."
+        }
+      ]
+    },
+    {
+      "work": "All Ovid's Elegies",
+      "editions": [
+        {
+          "edition_title": "Christopher Marlowe: The Complete Poems and Translations",
+          "editor": "Stephen Orgel (ed.)",
+          "publisher": "Penguin Classics",
+          "publication_year": 1971,
+          "edition_notes": "Contains Hero and Leander and the translation of Ovid's Amores."
+        }
+      ]
+    },
+    {
+      "work": "Every Man in His Humour",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "Volpone",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "Epicene",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Alchemist",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "Bartholomew Fair",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "Sejanus His Fall",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Masque of Blackness",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "Epigrams",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Forest",
+      "editions": [
+        {
+          "edition_title": "The Cambridge Edition of the Works of Ben Jonson, 7 vols.",
+          "editor": "David Bevington, Martin Butler, and Ian Donaldson (gen. eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2012,
+          "edition_notes": "The standard modern complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Essays",
+      "editions": [
+        {
+          "edition_title": "The Essayes or Counsels, Civill and Morall (Oxford Francis Bacon)",
+          "editor": "Michael Kiernan (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1985,
+          "edition_notes": "The standard critical edition of Bacon's essays."
+        }
+      ]
+    },
+    {
+      "work": "The Advancement of Learning",
+      "editions": [
+        {
+          "edition_title": "The Advancement of Learning (Oxford Francis Bacon)",
+          "editor": "Michael Kiernan (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 2000,
+          "edition_notes": "The standard critical edition of Bacon's defence of learning."
+        }
+      ]
+    },
+    {
+      "work": "Novum Organum",
+      "editions": [
+        {
+          "edition_title": "The New Organon",
+          "editor": "Lisa Jardine and Michael Silverthorne (eds.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 2000,
+          "edition_notes": "The standard modern edition with facing translation of the Latin text."
+        }
+      ]
+    },
+    {
+      "work": "New Atlantis",
+      "editions": [
+        {
+          "edition_title": "Francis Bacon: The Major Works",
+          "editor": "Brian Vickers (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1996,
+          "edition_notes": "Contains New Atlantis with the essays and other major prose."
+        }
+      ]
+    },
+    {
+      "work": "Of the Laws of Ecclesiastical Polity",
+      "editions": [
+        {
+          "edition_title": "Of the Laws of Ecclesiastical Polity (Folger Library Edition)",
+          "editor": "W. Speed Hill (gen. ed.)",
+          "publisher": "Harvard University Press",
+          "publication_year": 1977,
+          "edition_notes": "The standard critical edition of Hooker's complete works, 1977–98."
+        }
+      ]
+    },
+    {
+      "work": "Actes and Monuments",
+      "editions": [
+        {
+          "edition_title": "The Acts and Monuments of John Foxe, 8 vols.",
+          "editor": "Josiah Pratt (ed.)",
+          "publisher": "Seeley, Burnside and Seeley",
+          "publication_year": 1877,
+          "edition_notes": "The standard nineteenth-century edition of Foxe's martyrology."
+        }
+      ]
+    },
+    {
+      "work": "A Mirror for Magistrates",
+      "editions": [
+        {
+          "edition_title": "The Mirror for Magistrates",
+          "editor": "Lily B. Campbell (ed.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 1938,
+          "edition_notes": "The standard collected edition of the Elizabethan de casibus verse anthology."
+        }
+      ]
+    },
+    {
+      "work": "The Steel Glass",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of George Gascoigne, 2 vols.",
+          "editor": "John W. Cunliffe (ed.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 1907,
+          "edition_notes": "The standard collected edition of Gascoigne's works."
+        }
+      ]
+    },
+    {
+      "work": "The Adventures of Master F.J.",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of George Gascoigne, 2 vols.",
+          "editor": "John W. Cunliffe (ed.)",
+          "publisher": "Cambridge University Press",
+          "publication_year": 1907,
+          "edition_notes": "The standard collected edition of Gascoigne's works."
+        }
+      ]
+    },
+    {
+      "work": "Euphues: The Anatomy of Wit",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of John Lyly, 3 vols.",
+          "editor": "R. Warwick Bond (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1902,
+          "edition_notes": "The standard collected edition of Lyly's plays and prose."
+        }
+      ]
+    },
+    {
+      "work": "Euphues and His England",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of John Lyly, 3 vols.",
+          "editor": "R. Warwick Bond (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1902,
+          "edition_notes": "The standard collected edition of Lyly's plays and prose."
+        }
+      ]
+    },
+    {
+      "work": "Pierce Penniless His Supplication to the Devil",
+      "editions": [
+        {
+          "edition_title": "The Works of Thomas Nashe, 5 vols.",
+          "editor": "R. B. McKerrow (ed.), revised by F. P. Wilson",
+          "publisher": "Basil Blackwell",
+          "publication_year": 1958,
+          "edition_notes": "The standard collected edition of Nashe's prose and drama (first edition 1904–10)."
+        }
+      ]
+    },
+    {
+      "work": "The Unfortunate Traveller",
+      "editions": [
+        {
+          "edition_title": "The Works of Thomas Nashe, 5 vols.",
+          "editor": "R. B. McKerrow (ed.), revised by F. P. Wilson",
+          "publisher": "Basil Blackwell",
+          "publication_year": 1958,
+          "edition_notes": "The standard collected edition of Nashe's prose and drama (first edition 1904–10)."
+        }
+      ]
+    },
+    {
+      "work": "Christ's Tears over Jerusalem",
+      "editions": [
+        {
+          "edition_title": "The Works of Thomas Nashe, 5 vols.",
+          "editor": "R. B. McKerrow (ed.), revised by F. P. Wilson",
+          "publisher": "Basil Blackwell",
+          "publication_year": 1958,
+          "edition_notes": "The standard collected edition of Nashe's prose and drama (first edition 1904–10)."
+        }
+      ]
+    },
+    {
+      "work": "Pandosto",
+      "editions": [
+        {
+          "edition_title": "The Life and Complete Works in Prose and Verse of Robert Greene, 15 vols.",
+          "editor": "Alexander B. Grosart (ed.)",
+          "publisher": "Printed for private circulation",
+          "publication_year": 1881,
+          "edition_notes": "The standard Victorian collected edition of Greene's prose and verse."
+        }
+      ]
+    },
+    {
+      "work": "Menaphon",
+      "editions": [
+        {
+          "edition_title": "The Life and Complete Works in Prose and Verse of Robert Greene, 15 vols.",
+          "editor": "Alexander B. Grosart (ed.)",
+          "publisher": "Printed for private circulation",
+          "publication_year": 1881,
+          "edition_notes": "The standard Victorian collected edition of Greene's prose and verse."
+        }
+      ]
+    },
+    {
+      "work": "Jack of Newbury",
+      "editions": [
+        {
+          "edition_title": "The Works of Thomas Deloney",
+          "editor": "Francis Oscar Mann (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1912,
+          "edition_notes": "The standard collected edition of Deloney's novels and ballads."
+        }
+      ]
+    },
+    {
+      "work": "The Gentle Craft",
+      "editions": [
+        {
+          "edition_title": "The Works of Thomas Deloney",
+          "editor": "Francis Oscar Mann (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1912,
+          "edition_notes": "The standard collected edition of Deloney's novels and ballads."
+        }
+      ]
+    },
+    {
+      "work": "Rosalynde",
+      "editions": [
+        {
+          "edition_title": "Rosalynde: Euphues Golden Legacie",
+          "editor": "W. W. Greg (ed.)",
+          "publisher": "Chatto and Windus",
+          "publication_year": 1907,
+          "edition_notes": "The standard scholarly edition of Lodge's romance, Shakespeare's source for As You Like It."
+        }
+      ]
+    },
+    {
+      "work": "The Principal Navigations, Voyages, Traffics and Discoveries of the English Nation",
+      "editions": [
+        {
+          "edition_title": "The Principal Navigations Voyages Traffiques and Discoveries of the English Nation, 12 vols.",
+          "editor": "John MacLehose (ed.)",
+          "publisher": "James MacLehose and Sons",
+          "publication_year": 1903,
+          "edition_notes": "The standard Hakluyt Society Extra Series edition of the 1598–1600 text."
+        }
+      ]
+    },
+    {
+      "work": "The Discoverie of the Large, Rich and Beautiful Empire of Guiana",
+      "editions": [
+        {
+          "edition_title": "The Discoverie of the Large, Rich and Bewtiful Empyre of Guiana (Revels)",
+          "editor": "Neil L. Whitehead (ed.)",
+          "publisher": "Manchester University Press",
+          "publication_year": 1997,
+          "edition_notes": "The standard scholarly edition of Ralegh's Orinoco narrative."
+        }
+      ]
+    },
+    {
+      "work": "The History of the World",
+      "editions": [
+        {
+          "edition_title": "Sir Walter Ralegh: The History of the World",
+          "editor": "C. A. Patrides (ed.)",
+          "publisher": "Macmillan",
+          "publication_year": 1971,
+          "edition_notes": "The standard modern selection from Ralegh's universal history."
+        }
+      ]
+    },
+    {
+      "work": "The Essays of Montaigne",
+      "editions": [
+        {
+          "edition_title": "Shakespeare's Montaigne: The Florio Translation of the Essays, A Selection",
+          "editor": "Stephen Greenblatt and Peter G. Platt (eds.)",
+          "publisher": "New York Review Books",
+          "publication_year": 2014,
+          "edition_notes": "A modern selection from Florio's 1603 translation."
+        }
+      ]
+    },
+    {
+      "work": "Plutarch's Lives of the Noble Grecians and Romans",
+      "editions": [
+        {
+          "edition_title": "Sir Thomas North's Plutarch: Selections from the Lives",
+          "editor": "Judith Mossman (ed.)",
+          "publisher": "Wordsworth Editions",
+          "publication_year": 1998,
+          "edition_notes": "A modern selection from North's 1579 translation of Amyot's Plutarch."
+        }
+      ]
+    },
+    {
+      "work": "Ovid's Metamorphoses",
+      "editions": [
+        {
+          "edition_title": "Shakespeare's Ovid: Arthur Golding's Translation of the Metamorphoses",
+          "editor": "W. H. D. Rouse (ed.)",
+          "publisher": "De La More Press",
+          "publication_year": 1904,
+          "edition_notes": "The standard reprint of Golding's 1567 translation."
+        }
+      ]
+    },
+    {
+      "work": "Godfrey of Bulloigne",
+      "editions": [
+        {
+          "edition_title": "Godfrey of Bulloigne: A Critical Edition of Edward Fairfax's Translation of Tasso's Gerusalemme Liberata",
+          "editor": "Kathleen M. Lea and T. M. Gang (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 1981,
+          "edition_notes": "The standard critical edition of Fairfax's Tasso."
+        }
+      ]
+    },
+    {
+      "work": "Du Bartas His Divine Weeks and Works",
+      "editions": [
+        {
+          "edition_title": "The Complete Works of Joshuah Sylvester, 2 vols.",
+          "editor": "Alexander B. Grosart (ed.)",
+          "publisher": "Printed for private circulation",
+          "publication_year": 1880,
+          "edition_notes": "The standard collected edition of Sylvester's translations."
+        }
+      ]
+    },
+    {
+      "work": "The Anatomy of Melancholy",
+      "editions": [
+        {
+          "edition_title": "The Anatomy of Melancholy, 6 vols.",
+          "editor": "Thomas C. Faulkner, Nicolas K. Kiessling, and Rhonda L. Blair (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 1989,
+          "edition_notes": "The standard critical edition of Burton's anatomy."
+        }
+      ]
+    },
+    {
+      "work": "A Survey of London",
+      "editions": [
+        {
+          "edition_title": "A Survey of London, 2 vols.",
+          "editor": "Charles Lethbridge Kingsford (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1908,
+          "edition_notes": "The standard edition of Stow's 1598 and 1603 texts."
+        }
+      ]
+    },
+    {
+      "work": "Britannia",
+      "editions": [
+        {
+          "edition_title": "Britannia, 2nd edn, 4 vols.",
+          "editor": "Richard Gough (ed.)",
+          "publisher": "John Nichols and Son",
+          "publication_year": 1806,
+          "edition_notes": "The standard antiquarian edition of Camden's chorographical survey."
+        }
+      ]
+    },
+    {
+      "work": "Hakluytus Posthumus, or Purchas His Pilgrimes",
+      "editions": [
+        {
+          "edition_title": "Hakluytus Posthumus or Purchas His Pilgrimes, 20 vols.",
+          "editor": "John MacLehose (ed.)",
+          "publisher": "James MacLehose and Sons",
+          "publication_year": 1905,
+          "edition_notes": "The standard Hakluyt Society edition of Purchas's 1625–26 collection."
+        }
+      ]
+    },
+    {
+      "work": "Salve Deus Rex Judaeorum",
+      "editions": [
+        {
+          "edition_title": "The Poems of Aemilia Lanyer",
+          "editor": "Susanne Woods (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1993,
+          "edition_notes": "The standard scholarly edition of Lanyer's 1611 volume."
+        }
+      ]
+    },
+    {
+      "work": "The Countess of Montgomery's Urania",
+      "editions": [
+        {
+          "edition_title": "The First Part of The Countess of Montgomery's Urania",
+          "editor": "Josephine A. Roberts (ed.)",
+          "publisher": "Medieval and Renaissance Texts and Studies",
+          "publication_year": 1995,
+          "edition_notes": "The standard scholarly edition of Wroth's prose romance."
+        }
+      ]
+    },
+    {
+      "work": "The Doubt of Future Foes",
+      "editions": [
+        {
+          "edition_title": "Elizabeth I: Collected Works",
+          "editor": "Leah S. Marcus, Janel Mueller, and Mary Beth Rose (eds.)",
+          "publisher": "University of Chicago Press",
+          "publication_year": 2000,
+          "edition_notes": "The standard modern edition of the queen's poems, letters, and speeches."
+        }
+      ]
+    },
+    {
+      "work": "On Monsieur's Departure",
+      "editions": [
+        {
+          "edition_title": "Elizabeth I: Collected Works",
+          "editor": "Leah S. Marcus, Janel Mueller, and Mary Beth Rose (eds.)",
+          "publisher": "University of Chicago Press",
+          "publication_year": 2000,
+          "edition_notes": "The standard modern edition of the queen's poems, letters, and speeches."
+        }
+      ]
+    },
+    {
+      "work": "The Two Gentlemen of Verona",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Taming of the Shrew",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Comedy of Errors",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Love's Labour's Lost",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "A Midsummer Night's Dream",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Merchant of Venice",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Merry Wives of Windsor",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Much Ado About Nothing",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "As You Like It",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Twelfth Night",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "All's Well That Ends Well",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Measure for Measure",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Troilus and Cressida",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Henry VI, Part 1",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Henry VI, Part 2",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Henry VI, Part 3",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Richard III",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "King John",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Richard II",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Henry IV, Part 1",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Henry IV, Part 2",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Henry V",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Henry VIII",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Titus Andronicus",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Romeo and Juliet",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Julius Caesar",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Hamlet",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        },
+        {
+          "edition_title": "Hamlet (Arden Shakespeare, 3rd series)",
+          "editor": "Ann Thompson and Neil Taylor",
+          "publisher": "Thomson Learning",
+          "publication_year": 2006,
+          "edition_notes": "The standard scholarly edition of the three texts of Hamlet."
+        }
+      ]
+    },
+    {
+      "work": "Othello",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        },
+        {
+          "edition_title": "Othello (Arden Shakespeare, 3rd series)",
+          "editor": "E. A. J. Honigmann",
+          "publisher": "Thomas Nelson and Sons",
+          "publication_year": 1997,
+          "edition_notes": "The standard scholarly edition, comparing Quarto and Folio."
+        }
+      ]
+    },
+    {
+      "work": "King Lear",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        },
+        {
+          "edition_title": "King Lear (Arden Shakespeare, 3rd series)",
+          "editor": "R. A. Foakes",
+          "publisher": "Routledge",
+          "publication_year": 1997,
+          "edition_notes": "The standard scholarly edition of the Quarto and Folio texts."
+        }
+      ]
+    },
+    {
+      "work": "Macbeth",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Antony and Cleopatra",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Coriolanus",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Timon of Athens",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Pericles, Prince of Tyre",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Cymbeline",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Winter's Tale",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Tempest",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Two Noble Kinsmen",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Venus and Adonis",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Rape of Lucrece",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "Shakespeare's Sonnets",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        },
+        {
+          "edition_title": "The Sonnets (Arden Shakespeare, 3rd series)",
+          "editor": "Katherine Duncan-Jones",
+          "publisher": "Thomas Nelson and Sons",
+          "publication_year": 1997,
+          "edition_notes": "The standard scholarly edition of the 1609 sequence."
+        }
+      ]
+    },
+    {
+      "work": "The Phoenix and the Turtle",
+      "editions": [
+        {
+          "edition_title": "The Riverside Shakespeare, 2nd edition",
+          "editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+          "publisher": "Houghton Mifflin",
+          "publication_year": 1997,
+          "edition_notes": "The standard American one-volume complete works."
+        },
+        {
+          "edition_title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+          "editor": "Stanley Wells and Gary Taylor (eds.)",
+          "publisher": "Clarendon Press",
+          "publication_year": 2005,
+          "edition_notes": "The standard British complete works."
+        }
+      ]
+    },
+    {
+      "work": "The Shepheardes Calender",
+      "editions": [
+        {
+          "edition_title": "The Yale Edition of the Shorter Poems of Edmund Spenser",
+          "editor": "William A. Oram, Einar Bjorvand, Ronald Bond, Thomas Cain, Alexander Dunlop, and Richard Schell (eds.)",
+          "publisher": "Yale University Press",
+          "publication_year": 1989,
+          "edition_notes": "The standard critical edition of Spenser's shorter poems."
+        }
+      ]
+    },
+    {
+      "work": "The Faerie Queene",
+      "editions": [
+        {
+          "edition_title": "The Faerie Queene",
+          "editor": "A. C. Hamilton (ed.), text by Hiroshi Yamashita and Toshiyuki Suzuki",
+          "publisher": "Longman",
+          "publication_year": 2007,
+          "edition_notes": "The standard Longman Annotated English Poets edition."
+        }
+      ]
+    },
+    {
+      "work": "Complaints",
+      "editions": [
+        {
+          "edition_title": "The Yale Edition of the Shorter Poems of Edmund Spenser",
+          "editor": "William A. Oram, Einar Bjorvand, Ronald Bond, Thomas Cain, Alexander Dunlop, and Richard Schell (eds.)",
+          "publisher": "Yale University Press",
+          "publication_year": 1989,
+          "edition_notes": "The standard critical edition of Spenser's shorter poems."
+        }
+      ]
+    },
+    {
+      "work": "Amoretti and Epithalamion",
+      "editions": [
+        {
+          "edition_title": "The Yale Edition of the Shorter Poems of Edmund Spenser",
+          "editor": "William A. Oram, Einar Bjorvand, Ronald Bond, Thomas Cain, Alexander Dunlop, and Richard Schell (eds.)",
+          "publisher": "Yale University Press",
+          "publication_year": 1989,
+          "edition_notes": "The standard critical edition of Spenser's shorter poems."
+        }
+      ]
+    },
+    {
+      "work": "Colin Clouts Come Home Againe",
+      "editions": [
+        {
+          "edition_title": "The Yale Edition of the Shorter Poems of Edmund Spenser",
+          "editor": "William A. Oram, Einar Bjorvand, Ronald Bond, Thomas Cain, Alexander Dunlop, and Richard Schell (eds.)",
+          "publisher": "Yale University Press",
+          "publication_year": 1989,
+          "edition_notes": "The standard critical edition of Spenser's shorter poems."
+        }
+      ]
+    },
+    {
+      "work": "Prothalamion",
+      "editions": [
+        {
+          "edition_title": "The Yale Edition of the Shorter Poems of Edmund Spenser",
+          "editor": "William A. Oram, Einar Bjorvand, Ronald Bond, Thomas Cain, Alexander Dunlop, and Richard Schell (eds.)",
+          "publisher": "Yale University Press",
+          "publication_year": 1989,
+          "edition_notes": "The standard critical edition of Spenser's shorter poems."
+        }
+      ]
+    },
+    {
+      "work": "A View of the Present State of Ireland",
+      "editions": [
+        {
+          "edition_title": "A View of the State of Ireland",
+          "editor": "Andrew Hadfield and Willy Maley (eds.)",
+          "publisher": "Blackwell",
+          "publication_year": 1997,
+          "edition_notes": "The standard scholarly edition of Spenser's prose dialogue on Ireland."
+        }
+      ]
+    },
+    {
+      "work": "Fowre Hymnes",
+      "editions": [
+        {
+          "edition_title": "The Yale Edition of the Shorter Poems of Edmund Spenser",
+          "editor": "William A. Oram, Einar Bjorvand, Ronald Bond, Thomas Cain, Alexander Dunlop, and Richard Schell (eds.)",
+          "publisher": "Yale University Press",
+          "publication_year": 1989,
+          "edition_notes": "The standard critical edition of Spenser's shorter poems."
+        }
+      ]
+    },
+    {
+      "work": "The Defence of Poesy",
+      "editions": [
+        {
+          "edition_title": "Miscellaneous Prose of Sir Philip Sidney",
+          "editor": "Katherine Duncan-Jones and Jan van Dorsten (eds.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1973,
+          "edition_notes": "The standard modern edition of Sidney's critical prose, including the Defence."
+        }
+      ]
+    },
+    {
+      "work": "Astrophel and Stella",
+      "editions": [
+        {
+          "edition_title": "The Poems of Sir Philip Sidney",
+          "editor": "William A. Ringler (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1962,
+          "edition_notes": "The standard critical edition of Sidney's poems."
+        }
+      ]
+    },
+    {
+      "work": "Arcadia",
+      "editions": [
+        {
+          "edition_title": "The New Arcadia",
+          "editor": "Victor Skretkowicz (ed.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1987,
+          "edition_notes": "The standard critical edition of Sidney's revised romance."
+        }
+      ]
+    },
+    {
+      "work": "The Lady of May",
+      "editions": [
+        {
+          "edition_title": "Miscellaneous Prose of Sir Philip Sidney",
+          "editor": "Katherine Duncan-Jones and Jan van Dorsten (eds.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1973,
+          "edition_notes": "Contains the Lady of May entertainment."
+        }
+      ]
+    },
+    {
+      "work": "The Sidney Psalter",
+      "editions": [
+        {
+          "edition_title": "The Collected Works of Mary Sidney Herbert, Countess of Pembroke",
+          "editor": "Margaret P. Hannay, Michael G. Brennan, and Mary Ellen Lamb (eds.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1998,
+          "edition_notes": "The standard critical edition of Mary Sidney's works."
+        }
+      ]
+    },
+    {
+      "work": "Antonius",
+      "editions": [
+        {
+          "edition_title": "The Collected Works of Mary Sidney Herbert, Countess of Pembroke",
+          "editor": "Margaret P. Hannay, Michael G. Brennan, and Mary Ellen Lamb (eds.)",
+          "publisher": "Oxford University Press",
+          "publication_year": 1998,
+          "edition_notes": "The standard critical edition of Mary Sidney's works."
+        }
+      ]
+    },
+    {
+      "work": "Caelica",
+      "editions": [
+        {
+          "edition_title": "Poems and Dramas of Fulke Greville, 2 vols.",
+          "editor": "Geoffrey Bullough (ed.)",
+          "publisher": "Edinburgh University Press",
+          "publication_year": 1939,
+          "edition_notes": "The standard collected edition of Greville's works."
+        }
+      ]
+    },
+    {
+      "work": "Delia",
+      "editions": [
+        {
+          "edition_title": "Samuel Daniel: Poems and A Defence of Ryme",
+          "editor": "Arthur Colby Sprague (ed.)",
+          "publisher": "Routledge and Kegan Paul",
+          "publication_year": 1930,
+          "edition_notes": "The standard modern edition of Daniel's Delia and his critical writings."
+        }
+      ]
+    },
+    {
+      "work": "Idea",
+      "editions": [
+        {
+          "edition_title": "The Works of Michael Drayton, 5 vols.",
+          "editor": "J. W. Hebel (ed.)",
+          "publisher": "Basil Blackwell",
+          "publication_year": 1941,
+          "edition_notes": "The standard collected edition of Drayton's works."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3655 @@
+{
+  "work_authors": [
+    {
+      "work": "Songs and Sonnets",
+      "author": "John Donne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Elegies",
+      "author": "John Donne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Holy Sonnets",
+      "author": "John Donne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Anniversaries",
+      "author": "John Donne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Devotions upon Emergent Occasions",
+      "author": "John Donne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Satires",
+      "author": "John Donne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Book of Airs",
+      "author": "Thomas Campion",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Nosce Teipsum",
+      "author": "Sir John Davies",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Spanish Tragedy",
+      "author": "Thomas Kyd",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Campaspe",
+      "author": "John Lyly",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Sapho and Phao",
+      "author": "John Lyly",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Gallathea",
+      "author": "John Lyly",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Endymion",
+      "author": "John Lyly",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Friar Bacon and Friar Bungay",
+      "author": "Robert Greene",
+      "contribution_type": "author"
+    },
+    {
+      "work": "James IV",
+      "author": "Robert Greene",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Arraignment of Paris",
+      "author": "George Peele",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Old Wives' Tale",
+      "author": "George Peele",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Summer's Last Will and Testament",
+      "author": "Thomas Nashe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Bussy D'Ambois",
+      "author": "George Chapman",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Eastward Ho",
+      "author": "George Chapman",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Eastward Ho",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Eastward Ho",
+      "author": "John Marston",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The White Devil",
+      "author": "John Webster",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Duchess of Malfi",
+      "author": "John Webster",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Mad World, My Masters",
+      "author": "Thomas Middleton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Chaste Maid in Cheapside",
+      "author": "Thomas Middleton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Women Beware Women",
+      "author": "Thomas Middleton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Changeling",
+      "author": "Thomas Middleton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Shoemaker's Holiday",
+      "author": "Thomas Dekker",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Honest Whore, Part 1",
+      "author": "Thomas Dekker",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Honest Whore, Part 1",
+      "author": "Thomas Middleton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Atheist's Tragedy",
+      "author": "Cyril Tourneur",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Malcontent",
+      "author": "John Marston",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Dutch Courtesan",
+      "author": "John Marston",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Philaster",
+      "author": "Francis Beaumont",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Philaster",
+      "author": "John Fletcher",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Maid's Tragedy",
+      "author": "Francis Beaumont",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Maid's Tragedy",
+      "author": "John Fletcher",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Knight of the Burning Pestle",
+      "author": "Francis Beaumont",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A New Way to Pay Old Debts",
+      "author": "Philip Massinger",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Woman Killed with Kindness",
+      "author": "Thomas Heywood",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Witch of Edmonton",
+      "author": "Thomas Dekker",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Tamburlaine the Great, Part 1",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Tamburlaine the Great, Part 2",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Doctor Faustus",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Jew of Malta",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Edward II",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Massacre at Paris",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Dido, Queen of Carthage",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Dido, Queen of Carthage",
+      "author": "Thomas Nashe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Hero and Leander",
+      "author": "Christopher Marlowe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "All Ovid's Elegies",
+      "author": "Christopher Marlowe",
+      "contribution_type": "translator"
+    },
+    {
+      "work": "Every Man in His Humour",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Volpone",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Epicene",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Alchemist",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Bartholomew Fair",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Sejanus His Fall",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Masque of Blackness",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Epigrams",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Forest",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Essays",
+      "author": "Francis Bacon",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Advancement of Learning",
+      "author": "Francis Bacon",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Novum Organum",
+      "author": "Francis Bacon",
+      "contribution_type": "author"
+    },
+    {
+      "work": "New Atlantis",
+      "author": "Francis Bacon",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Of the Laws of Ecclesiastical Polity",
+      "author": "Richard Hooker",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Actes and Monuments",
+      "author": "John Foxe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Mirror for Magistrates",
+      "author": "Thomas Sackville",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Steel Glass",
+      "author": "George Gascoigne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Adventures of Master F.J.",
+      "author": "George Gascoigne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Euphues: The Anatomy of Wit",
+      "author": "John Lyly",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Euphues and His England",
+      "author": "John Lyly",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Pierce Penniless His Supplication to the Devil",
+      "author": "Thomas Nashe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Unfortunate Traveller",
+      "author": "Thomas Nashe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Christ's Tears over Jerusalem",
+      "author": "Thomas Nashe",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Pandosto",
+      "author": "Robert Greene",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Menaphon",
+      "author": "Robert Greene",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Jack of Newbury",
+      "author": "Thomas Deloney",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Gentle Craft",
+      "author": "Thomas Deloney",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Rosalynde",
+      "author": "Thomas Lodge",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Principal Navigations, Voyages, Traffics and Discoveries of the English Nation",
+      "author": "Richard Hakluyt",
+      "contribution_type": "editor"
+    },
+    {
+      "work": "The Discoverie of the Large, Rich and Beautiful Empire of Guiana",
+      "author": "Sir Walter Ralegh",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The History of the World",
+      "author": "Sir Walter Ralegh",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Essays of Montaigne",
+      "author": "John Florio",
+      "contribution_type": "translator"
+    },
+    {
+      "work": "Plutarch's Lives of the Noble Grecians and Romans",
+      "author": "Sir Thomas North",
+      "contribution_type": "translator"
+    },
+    {
+      "work": "Ovid's Metamorphoses",
+      "author": "Arthur Golding",
+      "contribution_type": "translator"
+    },
+    {
+      "work": "Godfrey of Bulloigne",
+      "author": "Edward Fairfax",
+      "contribution_type": "translator"
+    },
+    {
+      "work": "Du Bartas His Divine Weeks and Works",
+      "author": "Joshua Sylvester",
+      "contribution_type": "translator"
+    },
+    {
+      "work": "The Anatomy of Melancholy",
+      "author": "Robert Burton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Survey of London",
+      "author": "John Stow",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Britannia",
+      "author": "William Camden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Hakluytus Posthumus, or Purchas His Pilgrimes",
+      "author": "Samuel Purchas",
+      "contribution_type": "editor"
+    },
+    {
+      "work": "Salve Deus Rex Judaeorum",
+      "author": "Aemilia Lanyer",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Countess of Montgomery's Urania",
+      "author": "Lady Mary Wroth",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Doubt of Future Foes",
+      "author": "Queen Elizabeth I",
+      "contribution_type": "author"
+    },
+    {
+      "work": "On Monsieur's Departure",
+      "author": "Queen Elizabeth I",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Two Gentlemen of Verona",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Taming of the Shrew",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Comedy of Errors",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love's Labour's Lost",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Merchant of Venice",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Merry Wives of Windsor",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Much Ado About Nothing",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "As You Like It",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Twelfth Night",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "All's Well That Ends Well",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Measure for Measure",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Troilus and Cressida",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry VI, Part 1",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry VI, Part 2",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry VI, Part 3",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Richard III",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "King John",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Richard II",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry IV, Part 1",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry IV, Part 2",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry V",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry VIII",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Henry VIII",
+      "author": "John Fletcher",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Titus Andronicus",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Titus Andronicus",
+      "author": "George Peele",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Julius Caesar",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Hamlet",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Othello",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "King Lear",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Macbeth",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Antony and Cleopatra",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Coriolanus",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Timon of Athens",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Timon of Athens",
+      "author": "Thomas Middleton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Pericles, Prince of Tyre",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Cymbeline",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Winter's Tale",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Tempest",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Two Noble Kinsmen",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Two Noble Kinsmen",
+      "author": "John Fletcher",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Venus and Adonis",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Rape of Lucrece",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Shakespeare's Sonnets",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Phoenix and the Turtle",
+      "author": "William Shakespeare",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Shepheardes Calender",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Faerie Queene",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Complaints",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Amoretti and Epithalamion",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Colin Clouts Come Home Againe",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Prothalamion",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A View of the Present State of Ireland",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Fowre Hymnes",
+      "author": "Edmund Spenser",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Defence of Poesy",
+      "author": "Sir Philip Sidney",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Astrophel and Stella",
+      "author": "Sir Philip Sidney",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Arcadia",
+      "author": "Sir Philip Sidney",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Lady of May",
+      "author": "Sir Philip Sidney",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Sidney Psalter",
+      "author": "Sir Philip Sidney",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Sidney Psalter",
+      "author": "Mary Sidney Herbert, Countess of Pembroke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Antonius",
+      "author": "Mary Sidney Herbert, Countess of Pembroke",
+      "contribution_type": "translator"
+    },
+    {
+      "work": "Caelica",
+      "author": "Fulke Greville, Lord Brooke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Delia",
+      "author": "Samuel Daniel",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Idea",
+      "author": "Michael Drayton",
+      "contribution_type": "author"
+    }
+  ],
+  "work_periods": [
+    {
+      "period": "Elizabethan and Jacobean Period",
+      "works": [
+        "Songs and Sonnets",
+        "Elegies",
+        "Holy Sonnets",
+        "The Anniversaries",
+        "Devotions upon Emergent Occasions",
+        "Satires",
+        "A Book of Airs",
+        "Nosce Teipsum",
+        "The Spanish Tragedy",
+        "Campaspe",
+        "Sapho and Phao",
+        "Gallathea",
+        "Endymion",
+        "Friar Bacon and Friar Bungay",
+        "James IV",
+        "The Arraignment of Paris",
+        "The Old Wives' Tale",
+        "Summer's Last Will and Testament",
+        "Bussy D'Ambois",
+        "Eastward Ho",
+        "The White Devil",
+        "The Duchess of Malfi",
+        "A Mad World, My Masters",
+        "A Chaste Maid in Cheapside",
+        "Women Beware Women",
+        "The Changeling",
+        "The Shoemaker's Holiday",
+        "The Honest Whore, Part 1",
+        "The Atheist's Tragedy",
+        "The Revenger's Tragedy",
+        "The Malcontent",
+        "The Dutch Courtesan",
+        "Philaster",
+        "The Maid's Tragedy",
+        "The Knight of the Burning Pestle",
+        "A New Way to Pay Old Debts",
+        "A Woman Killed with Kindness",
+        "Arden of Faversham",
+        "A Yorkshire Tragedy",
+        "Mucedorus",
+        "The Witch of Edmonton",
+        "Tamburlaine the Great, Part 1",
+        "Tamburlaine the Great, Part 2",
+        "Doctor Faustus",
+        "The Jew of Malta",
+        "Edward II",
+        "The Massacre at Paris",
+        "Dido, Queen of Carthage",
+        "Hero and Leander",
+        "All Ovid's Elegies",
+        "Every Man in His Humour",
+        "Volpone",
+        "Epicene",
+        "The Alchemist",
+        "Bartholomew Fair",
+        "Sejanus His Fall",
+        "The Masque of Blackness",
+        "Epigrams",
+        "The Forest",
+        "The Essays",
+        "The Advancement of Learning",
+        "Novum Organum",
+        "New Atlantis",
+        "Of the Laws of Ecclesiastical Polity",
+        "Actes and Monuments",
+        "A Mirror for Magistrates",
+        "The Steel Glass",
+        "The Adventures of Master F.J.",
+        "Euphues: The Anatomy of Wit",
+        "Euphues and His England",
+        "Pierce Penniless His Supplication to the Devil",
+        "The Unfortunate Traveller",
+        "Christ's Tears over Jerusalem",
+        "Pandosto",
+        "Menaphon",
+        "Jack of Newbury",
+        "The Gentle Craft",
+        "Rosalynde",
+        "The Principal Navigations, Voyages, Traffics and Discoveries of the English Nation",
+        "The Discoverie of the Large, Rich and Beautiful Empire of Guiana",
+        "The History of the World",
+        "The Essays of Montaigne",
+        "Plutarch's Lives of the Noble Grecians and Romans",
+        "Ovid's Metamorphoses",
+        "Godfrey of Bulloigne",
+        "Du Bartas His Divine Weeks and Works",
+        "The Anatomy of Melancholy",
+        "A Survey of London",
+        "Britannia",
+        "Hakluytus Posthumus, or Purchas His Pilgrimes",
+        "Salve Deus Rex Judaeorum",
+        "The Countess of Montgomery's Urania",
+        "The Doubt of Future Foes",
+        "On Monsieur's Departure",
+        "The Two Gentlemen of Verona",
+        "The Taming of the Shrew",
+        "The Comedy of Errors",
+        "Love's Labour's Lost",
+        "A Midsummer Night's Dream",
+        "The Merchant of Venice",
+        "The Merry Wives of Windsor",
+        "Much Ado About Nothing",
+        "As You Like It",
+        "Twelfth Night",
+        "All's Well That Ends Well",
+        "Measure for Measure",
+        "Troilus and Cressida",
+        "Henry VI, Part 1",
+        "Henry VI, Part 2",
+        "Henry VI, Part 3",
+        "Richard III",
+        "King John",
+        "Richard II",
+        "Henry IV, Part 1",
+        "Henry IV, Part 2",
+        "Henry V",
+        "Henry VIII",
+        "Titus Andronicus",
+        "Romeo and Juliet",
+        "Julius Caesar",
+        "Hamlet",
+        "Othello",
+        "King Lear",
+        "Macbeth",
+        "Antony and Cleopatra",
+        "Coriolanus",
+        "Timon of Athens",
+        "Pericles, Prince of Tyre",
+        "Cymbeline",
+        "The Winter's Tale",
+        "The Tempest",
+        "The Two Noble Kinsmen",
+        "Venus and Adonis",
+        "The Rape of Lucrece",
+        "Shakespeare's Sonnets",
+        "The Phoenix and the Turtle",
+        "The Shepheardes Calender",
+        "The Faerie Queene",
+        "Complaints",
+        "Amoretti and Epithalamion",
+        "Colin Clouts Come Home Againe",
+        "Prothalamion",
+        "A View of the Present State of Ireland",
+        "Fowre Hymnes",
+        "The Defence of Poesy",
+        "Astrophel and Stella",
+        "Arcadia",
+        "The Lady of May",
+        "The Sidney Psalter",
+        "Antonius",
+        "Caelica",
+        "Delia",
+        "Idea"
+      ]
+    }
+  ],
+  "work_genres": [
+    {
+      "work": "Songs and Sonnets",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Lyric"
+      ]
+    },
+    {
+      "work": "Elegies",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Elegy"
+      ]
+    },
+    {
+      "work": "Holy Sonnets",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric",
+        "English Sonnet"
+      ]
+    },
+    {
+      "work": "The Anniversaries",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Elegy"
+      ]
+    },
+    {
+      "work": "Devotions upon Emergent Occasions",
+      "genres": [
+        "Devotional and Mystical Writing"
+      ]
+    },
+    {
+      "work": "Satires",
+      "genres": [
+        "Complaint and Satire"
+      ]
+    },
+    {
+      "work": "A Book of Airs",
+      "genres": [
+        "Lyric"
+      ]
+    },
+    {
+      "work": "Nosce Teipsum",
+      "genres": [
+        "Poetry",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "The Spanish Tragedy",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Campaspe",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Sapho and Phao",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Gallathea",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Endymion",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Friar Bacon and Friar Bungay",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "James IV",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Arraignment of Paris",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Old Wives' Tale",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Summer's Last Will and Testament",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Bussy D'Ambois",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Eastward Ho",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The White Devil",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Duchess of Malfi",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "A Mad World, My Masters",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "A Chaste Maid in Cheapside",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Women Beware Women",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Changeling",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Shoemaker's Holiday",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Honest Whore, Part 1",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Atheist's Tragedy",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Revenger's Tragedy",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Malcontent",
+      "genres": [
+        "Tragicomedy",
+        "Complaint and Satire"
+      ]
+    },
+    {
+      "work": "The Dutch Courtesan",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Philaster",
+      "genres": [
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "The Maid's Tragedy",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Knight of the Burning Pestle",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "A New Way to Pay Old Debts",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "A Woman Killed with Kindness",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Arden of Faversham",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "A Yorkshire Tragedy",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Mucedorus",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Witch of Edmonton",
+      "genres": [
+        "Tragicomedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 1",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 2",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Doctor Faustus",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Jew of Malta",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Edward II",
+      "genres": [
+        "History Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Massacre at Paris",
+      "genres": [
+        "History Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Dido, Queen of Carthage",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Hero and Leander",
+      "genres": [
+        "Poetry",
+        "Romance"
+      ]
+    },
+    {
+      "work": "All Ovid's Elegies",
+      "genres": [
+        "Translation",
+        "Elegy"
+      ]
+    },
+    {
+      "work": "Every Man in His Humour",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Volpone",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Epicene",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Alchemist",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Bartholomew Fair",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Sejanus His Fall",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Masque of Blackness",
+      "genres": [
+        "Court Masque"
+      ]
+    },
+    {
+      "work": "Epigrams",
+      "genres": [
+        "Poetry",
+        "Lyric"
+      ]
+    },
+    {
+      "work": "The Forest",
+      "genres": [
+        "Lyric",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Essays",
+      "genres": [
+        "Essay"
+      ]
+    },
+    {
+      "work": "The Advancement of Learning",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Essay"
+      ]
+    },
+    {
+      "work": "Novum Organum",
+      "genres": [
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "New Atlantis",
+      "genres": [
+        "Humanist Dialogue and Utopian Fiction",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Of the Laws of Ecclesiastical Polity",
+      "genres": [
+        "Political Treatise",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "Actes and Monuments",
+      "genres": [
+        "Hagiography",
+        "History and Chronicle",
+        "Prose"
+      ]
+    },
+    {
+      "work": "A Mirror for Magistrates",
+      "genres": [
+        "Complaint and Satire",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Steel Glass",
+      "genres": [
+        "Complaint and Satire"
+      ]
+    },
+    {
+      "work": "The Adventures of Master F.J.",
+      "genres": [
+        "Prose Romance",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Euphues: The Anatomy of Wit",
+      "genres": [
+        "Prose Romance and Euphuism"
+      ]
+    },
+    {
+      "work": "Euphues and His England",
+      "genres": [
+        "Prose Romance and Euphuism"
+      ]
+    },
+    {
+      "work": "Pierce Penniless His Supplication to the Devil",
+      "genres": [
+        "Complaint and Satire",
+        "Prose"
+      ]
+    },
+    {
+      "work": "The Unfortunate Traveller",
+      "genres": [
+        "Prose",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "work": "Christ's Tears over Jerusalem",
+      "genres": [
+        "Complaint and Satire",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Pandosto",
+      "genres": [
+        "Prose Romance"
+      ]
+    },
+    {
+      "work": "Menaphon",
+      "genres": [
+        "Prose Romance"
+      ]
+    },
+    {
+      "work": "Jack of Newbury",
+      "genres": [
+        "Prose",
+        "Prose Romance"
+      ]
+    },
+    {
+      "work": "The Gentle Craft",
+      "genres": [
+        "Prose",
+        "Prose Romance"
+      ]
+    },
+    {
+      "work": "Rosalynde",
+      "genres": [
+        "Prose Romance"
+      ]
+    },
+    {
+      "work": "The Principal Navigations, Voyages, Traffics and Discoveries of the English Nation",
+      "genres": [
+        "Travel and Wonders Literature",
+        "Prose"
+      ]
+    },
+    {
+      "work": "The Discoverie of the Large, Rich and Beautiful Empire of Guiana",
+      "genres": [
+        "Travel and Wonders Literature",
+        "Prose"
+      ]
+    },
+    {
+      "work": "The History of the World",
+      "genres": [
+        "History and Chronicle",
+        "Prose"
+      ]
+    },
+    {
+      "work": "The Essays of Montaigne",
+      "genres": [
+        "Translation",
+        "Essay"
+      ]
+    },
+    {
+      "work": "Plutarch's Lives of the Noble Grecians and Romans",
+      "genres": [
+        "Translation",
+        "Prose Biography"
+      ]
+    },
+    {
+      "work": "Ovid's Metamorphoses",
+      "genres": [
+        "Translation"
+      ]
+    },
+    {
+      "work": "Godfrey of Bulloigne",
+      "genres": [
+        "Translation",
+        "English Epic and Allegorical Romance"
+      ]
+    },
+    {
+      "work": "Du Bartas His Divine Weeks and Works",
+      "genres": [
+        "Translation",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "work": "The Anatomy of Melancholy",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Essay",
+        "Prose"
+      ]
+    },
+    {
+      "work": "A Survey of London",
+      "genres": [
+        "History and Chronicle",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Britannia",
+      "genres": [
+        "History and Chronicle",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Hakluytus Posthumus, or Purchas His Pilgrimes",
+      "genres": [
+        "Travel and Wonders Literature",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Salve Deus Rex Judaeorum",
+      "genres": [
+        "Religious Narrative Poetry",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Countess of Montgomery's Urania",
+      "genres": [
+        "Prose Romance",
+        "Romance"
+      ]
+    },
+    {
+      "work": "The Doubt of Future Foes",
+      "genres": [
+        "Political Verse",
+        "Lyric"
+      ]
+    },
+    {
+      "work": "On Monsieur's Departure",
+      "genres": [
+        "Lyric"
+      ]
+    },
+    {
+      "work": "The Two Gentlemen of Verona",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Taming of the Shrew",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Comedy of Errors",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Love's Labour's Lost",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "A Midsummer Night's Dream",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Merchant of Venice",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Merry Wives of Windsor",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Much Ado About Nothing",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "As You Like It",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Twelfth Night",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "All's Well That Ends Well",
+      "genres": [
+        "Romantic Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Measure for Measure",
+      "genres": [
+        "Comedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "Troilus and Cressida",
+      "genres": [
+        "Tragedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 1",
+      "genres": [
+        "History Play"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 2",
+      "genres": [
+        "History Play"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 3",
+      "genres": [
+        "History Play"
+      ]
+    },
+    {
+      "work": "Richard III",
+      "genres": [
+        "History Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "King John",
+      "genres": [
+        "History Play"
+      ]
+    },
+    {
+      "work": "Richard II",
+      "genres": [
+        "History Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 1",
+      "genres": [
+        "History Play",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 2",
+      "genres": [
+        "History Play",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Henry V",
+      "genres": [
+        "History Play"
+      ]
+    },
+    {
+      "work": "Henry VIII",
+      "genres": [
+        "History Play"
+      ]
+    },
+    {
+      "work": "Titus Andronicus",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Romeo and Juliet",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Julius Caesar",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Hamlet",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Othello",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "King Lear",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Macbeth",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Antony and Cleopatra",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Coriolanus",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Timon of Athens",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Pericles, Prince of Tyre",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Cymbeline",
+      "genres": [
+        "Romance",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "The Winter's Tale",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Tempest",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Two Noble Kinsmen",
+      "genres": [
+        "Romance",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "Venus and Adonis",
+      "genres": [
+        "Poetry",
+        "Romance"
+      ]
+    },
+    {
+      "work": "The Rape of Lucrece",
+      "genres": [
+        "Poetry"
+      ]
+    },
+    {
+      "work": "Shakespeare's Sonnets",
+      "genres": [
+        "Sonnet Sequence",
+        "English Sonnet"
+      ]
+    },
+    {
+      "work": "The Phoenix and the Turtle",
+      "genres": [
+        "Lyric",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Shepheardes Calender",
+      "genres": [
+        "Pastoral Poetry",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Faerie Queene",
+      "genres": [
+        "English Epic and Allegorical Romance"
+      ]
+    },
+    {
+      "work": "Complaints",
+      "genres": [
+        "Complaint and Satire",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "Amoretti and Epithalamion",
+      "genres": [
+        "Sonnet Sequence",
+        "English Sonnet"
+      ]
+    },
+    {
+      "work": "Colin Clouts Come Home Againe",
+      "genres": [
+        "Pastoral Poetry",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "Prothalamion",
+      "genres": [
+        "Pastoral Poetry",
+        "Lyric"
+      ]
+    },
+    {
+      "work": "A View of the Present State of Ireland",
+      "genres": [
+        "Political Treatise",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Fowre Hymnes",
+      "genres": [
+        "Religious Lyric",
+        "Lyric"
+      ]
+    },
+    {
+      "work": "The Defence of Poesy",
+      "genres": [
+        "Essay"
+      ]
+    },
+    {
+      "work": "Astrophel and Stella",
+      "genres": [
+        "Sonnet Sequence",
+        "English Sonnet"
+      ]
+    },
+    {
+      "work": "Arcadia",
+      "genres": [
+        "Prose Romance",
+        "Romance"
+      ]
+    },
+    {
+      "work": "The Lady of May",
+      "genres": [
+        "Pastoral Poetry",
+        "Drama"
+      ]
+    },
+    {
+      "work": "The Sidney Psalter",
+      "genres": [
+        "Metrical Psalter",
+        "Translation"
+      ]
+    },
+    {
+      "work": "Antonius",
+      "genres": [
+        "Translation",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Caelica",
+      "genres": [
+        "Sonnet Sequence",
+        "Lyric"
+      ]
+    },
+    {
+      "work": "Delia",
+      "genres": [
+        "Sonnet Sequence",
+        "English Sonnet"
+      ]
+    },
+    {
+      "work": "Idea",
+      "genres": [
+        "Sonnet Sequence",
+        "English Sonnet"
+      ]
+    }
+  ],
+  "work_themes": [
+    {
+      "work": "Songs and Sonnets",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Death, the soul, and the afterlife"
+      ]
+    },
+    {
+      "work": "Elegies",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Holy Sonnets",
+      "themes": [
+        "Divine love and holy desire",
+        "Death, the soul, and the afterlife",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "The Anniversaries",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "The transience of earthly glory (ubi sunt)"
+      ]
+    },
+    {
+      "work": "Devotions upon Emergent Occasions",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Divine love and holy desire",
+        "Medicine, healing, and the body"
+      ]
+    },
+    {
+      "work": "Satires",
+      "themes": [
+        "Social satire and estates criticism",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "A Book of Airs",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Nosce Teipsum",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Death, the soul, and the afterlife"
+      ]
+    },
+    {
+      "work": "The Spanish Tragedy",
+      "themes": [
+        "Revenge and justice",
+        "Death, the soul, and the afterlife",
+        "The public theatre and the players' world"
+      ]
+    },
+    {
+      "work": "Campaspe",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "Sapho and Phao",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Gallathea",
+      "themes": [
+        "Women, chastity, and constancy",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Endymion",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "Friar Bacon and Friar Bungay",
+      "themes": [
+        "Wisdom and learning",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "James IV",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "The Arraignment of Paris",
+      "themes": [
+        "Kingship and good rule",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "The Old Wives' Tale",
+      "themes": [
+        "Monsters and the marvellous",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Summer's Last Will and Testament",
+      "themes": [
+        "The transience of earthly glory (ubi sunt)",
+        "Death, the soul, and the afterlife"
+      ]
+    },
+    {
+      "work": "Bussy D'Ambois",
+      "themes": [
+        "Ambition and the overreacher",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "Eastward Ho",
+      "themes": [
+        "Social satire and estates criticism",
+        "Colonial enterprise and the New World"
+      ]
+    },
+    {
+      "work": "The White Devil",
+      "themes": [
+        "Revenge and justice",
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "The Duchess of Malfi",
+      "themes": [
+        "Women, chastity, and constancy",
+        "Tyranny and the abuse of power",
+        "Death, the soul, and the afterlife"
+      ]
+    },
+    {
+      "work": "A Mad World, My Masters",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "A Chaste Maid in Cheapside",
+      "themes": [
+        "Marriage and women's conduct",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "Women Beware Women",
+      "themes": [
+        "Women, chastity, and constancy",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "The Changeling",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Women, chastity, and constancy",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "The Shoemaker's Holiday",
+      "themes": [
+        "Order and degree: the body politic",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "The Honest Whore, Part 1",
+      "themes": [
+        "Women, chastity, and constancy",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "The Atheist's Tragedy",
+      "themes": [
+        "Revenge and justice",
+        "Death, the soul, and the afterlife"
+      ]
+    },
+    {
+      "work": "The Revenger's Tragedy",
+      "themes": [
+        "Revenge and justice",
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "The Malcontent",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "The Dutch Courtesan",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "Philaster",
+      "themes": [
+        "Kingship and good rule",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "The Maid's Tragedy",
+      "themes": [
+        "Women, chastity, and constancy",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Knight of the Burning Pestle",
+      "themes": [
+        "The public theatre and the players' world",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "A New Way to Pay Old Debts",
+      "themes": [
+        "Social satire and estates criticism",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "A Woman Killed with Kindness",
+      "themes": [
+        "Marriage and women's conduct",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "Arden of Faversham",
+      "themes": [
+        "Marriage and women's conduct",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "A Yorkshire Tragedy",
+      "themes": [
+        "Marriage and women's conduct",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "Mucedorus",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Chivalry and knighthood"
+      ]
+    },
+    {
+      "work": "The Witch of Edmonton",
+      "themes": [
+        "Women's experience and the feminine voice",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 1",
+      "themes": [
+        "Ambition and the overreacher",
+        "Tyranny and the abuse of power",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 2",
+      "themes": [
+        "Ambition and the overreacher",
+        "Tyranny and the abuse of power",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Doctor Faustus",
+      "themes": [
+        "Ambition and the overreacher",
+        "Penance, confession, and sin",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Jew of Malta",
+      "themes": [
+        "Revenge and justice",
+        "Ambition and the overreacher"
+      ]
+    },
+    {
+      "work": "Edward II",
+      "themes": [
+        "Kingship and good rule",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "The Massacre at Paris",
+      "themes": [
+        "Religious persecution and martyrdom",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Dido, Queen of Carthage",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Hero and Leander",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "All Ovid's Elegies",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Every Man in His Humour",
+      "themes": [
+        "Social satire and estates criticism",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Volpone",
+      "themes": [
+        "Social satire and estates criticism",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Epicene",
+      "themes": [
+        "Social satire and estates criticism",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "The Alchemist",
+      "themes": [
+        "Social satire and estates criticism",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Bartholomew Fair",
+      "themes": [
+        "Social satire and estates criticism",
+        "The public theatre and the players' world"
+      ]
+    },
+    {
+      "work": "Sejanus His Fall",
+      "themes": [
+        "Tyranny and the abuse of power",
+        "Courtly service and courtly danger",
+        "Ambition and the overreacher"
+      ]
+    },
+    {
+      "work": "The Masque of Blackness",
+      "themes": [
+        "Order and degree: the body politic",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "Epigrams",
+      "themes": [
+        "Social satire and estates criticism",
+        "Patronage and the literary marketplace"
+      ]
+    },
+    {
+      "work": "The Forest",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "The Essays",
+      "themes": [
+        "Wisdom and learning",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "The Advancement of Learning",
+      "themes": [
+        "Wisdom and learning",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "work": "Novum Organum",
+      "themes": [
+        "Wisdom and learning",
+        "Creation and cosmology"
+      ]
+    },
+    {
+      "work": "New Atlantis",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Of the Laws of Ecclesiastical Polity",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "Actes and Monuments",
+      "themes": [
+        "Religious persecution and martyrdom",
+        "Ecclesiastical reform and criticism",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "A Mirror for Magistrates",
+      "themes": [
+        "Fortune and mutability",
+        "The transience of earthly glory (ubi sunt)",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Steel Glass",
+      "themes": [
+        "Social satire and estates criticism",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "The Adventures of Master F.J.",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Euphues: The Anatomy of Wit",
+      "themes": [
+        "Wisdom and learning",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Euphues and His England",
+      "themes": [
+        "Wisdom and learning",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "Pierce Penniless His Supplication to the Devil",
+      "themes": [
+        "Social satire and estates criticism",
+        "Patronage and the literary marketplace"
+      ]
+    },
+    {
+      "work": "The Unfortunate Traveller",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "Christ's Tears over Jerusalem",
+      "themes": [
+        "Penance, confession, and sin",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "Pandosto",
+      "themes": [
+        "Fortune and mutability",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Menaphon",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Jack of Newbury",
+      "themes": [
+        "Order and degree: the body politic",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "The Gentle Craft",
+      "themes": [
+        "Order and degree: the body politic",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "Rosalynde",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "The Principal Navigations, Voyages, Traffics and Discoveries of the English Nation",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Sea voyage and seafaring",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "The Discoverie of the Large, Rich and Beautiful Empire of Guiana",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Monsters and the marvellous"
+      ]
+    },
+    {
+      "work": "The History of the World",
+      "themes": [
+        "The transience of earthly glory (ubi sunt)",
+        "Fortune and mutability",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "The Essays of Montaigne",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Plutarch's Lives of the Noble Grecians and Romans",
+      "themes": [
+        "Kingship and good rule",
+        "Heroism and the heroic code",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Ovid's Metamorphoses",
+      "themes": [
+        "Fortune and mutability",
+        "Creation and cosmology",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Godfrey of Bulloigne",
+      "themes": [
+        "Chivalry and knighthood",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "work": "Du Bartas His Divine Weeks and Works",
+      "themes": [
+        "Creation and cosmology",
+        "Divine love and holy desire"
+      ]
+    },
+    {
+      "work": "The Anatomy of Melancholy",
+      "themes": [
+        "Melancholy and self-analysis",
+        "Medicine, healing, and the body",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "A Survey of London",
+      "themes": [
+        "National identity and Englishness",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "Britannia",
+      "themes": [
+        "National identity and Englishness",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Hakluytus Posthumus, or Purchas His Pilgrimes",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Sea voyage and seafaring"
+      ]
+    },
+    {
+      "work": "Salve Deus Rex Judaeorum",
+      "themes": [
+        "The Passion of Christ",
+        "Women, chastity, and constancy",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "work": "The Countess of Montgomery's Urania",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Women's experience and the feminine voice",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "The Doubt of Future Foes",
+      "themes": [
+        "Kingship and good rule",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "On Monsieur's Departure",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "The Two Gentlemen of Verona",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "The Taming of the Shrew",
+      "themes": [
+        "Marriage and women's conduct",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "The Comedy of Errors",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "Love's Labour's Lost",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "A Midsummer Night's Dream",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "The public theatre and the players' world"
+      ]
+    },
+    {
+      "work": "The Merchant of Venice",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Revenge and justice"
+      ]
+    },
+    {
+      "work": "The Merry Wives of Windsor",
+      "themes": [
+        "Marriage and women's conduct",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "Much Ado About Nothing",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "As You Like It",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Twelfth Night",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "All's Well That Ends Well",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Measure for Measure",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "Troilus and Cressida",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 1",
+      "themes": [
+        "Warfare and battle",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 2",
+      "themes": [
+        "Kingship and good rule",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 3",
+      "themes": [
+        "Kingship and good rule",
+        "Blood-feud, vengeance, and kinship"
+      ]
+    },
+    {
+      "work": "Richard III",
+      "themes": [
+        "Tyranny and the abuse of power",
+        "Ambition and the overreacher"
+      ]
+    },
+    {
+      "work": "King John",
+      "themes": [
+        "Kingship and good rule",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "Richard II",
+      "themes": [
+        "Kingship and good rule",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 1",
+      "themes": [
+        "Kingship and good rule",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 2",
+      "themes": [
+        "Kingship and good rule",
+        "Death, the soul, and the afterlife"
+      ]
+    },
+    {
+      "work": "Henry V",
+      "themes": [
+        "Kingship and good rule",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "Henry VIII",
+      "themes": [
+        "Kingship and good rule",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "Titus Andronicus",
+      "themes": [
+        "Revenge and justice",
+        "Blood-feud, vengeance, and kinship"
+      ]
+    },
+    {
+      "work": "Romeo and Juliet",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Blood-feud, vengeance, and kinship"
+      ]
+    },
+    {
+      "work": "Julius Caesar",
+      "themes": [
+        "Kingship and good rule",
+        "Ambition and the overreacher"
+      ]
+    },
+    {
+      "work": "Hamlet",
+      "themes": [
+        "Revenge and justice",
+        "Melancholy and self-analysis",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Othello",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "King Lear",
+      "themes": [
+        "Kingship and good rule",
+        "Fortune and mutability",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "Macbeth",
+      "themes": [
+        "Ambition and the overreacher",
+        "Tyranny and the abuse of power",
+        "Conscience and moral self-examination"
+      ]
+    },
+    {
+      "work": "Antony and Cleopatra",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Coriolanus",
+      "themes": [
+        "Order and degree: the body politic",
+        "Heroism and the heroic code"
+      ]
+    },
+    {
+      "work": "Timon of Athens",
+      "themes": [
+        "Social satire and estates criticism",
+        "Fortune and mutability"
+      ]
+    },
+    {
+      "work": "Pericles, Prince of Tyre",
+      "themes": [
+        "Fortune and mutability",
+        "Sea voyage and seafaring",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Cymbeline",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "The Winter's Tale",
+      "themes": [
+        "Fortune and mutability",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "The Tempest",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Kingship and good rule",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Two Noble Kinsmen",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Chivalry and knighthood"
+      ]
+    },
+    {
+      "work": "Venus and Adonis",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "The Rape of Lucrece",
+      "themes": [
+        "Women, chastity, and constancy",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Shakespeare's Sonnets",
+      "themes": [
+        "Petrarchan desire and the sonnet mistress",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "The Phoenix and the Turtle",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Death, the soul, and the afterlife"
+      ]
+    },
+    {
+      "work": "The Shepheardes Calender",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "work": "The Faerie Queene",
+      "themes": [
+        "Chivalry and knighthood",
+        "Kingship and good rule",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "Complaints",
+      "themes": [
+        "The transience of earthly glory (ubi sunt)",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "Amoretti and Epithalamion",
+      "themes": [
+        "Petrarchan desire and the sonnet mistress",
+        "Marriage and women's conduct",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Colin Clouts Come Home Againe",
+      "themes": [
+        "Courtly service and courtly danger",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Prothalamion",
+      "themes": [
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace"
+      ]
+    },
+    {
+      "work": "A View of the Present State of Ireland",
+      "themes": [
+        "Tyranny and the abuse of power",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "Fowre Hymnes",
+      "themes": [
+        "Divine love and holy desire",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "The Defence of Poesy",
+      "themes": [
+        "Wisdom and learning",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Astrophel and Stella",
+      "themes": [
+        "Petrarchan desire and the sonnet mistress",
+        "Appearance, dissembling, and self-fashioning"
+      ]
+    },
+    {
+      "work": "Arcadia",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Appearance, dissembling, and self-fashioning",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "The Lady of May",
+      "themes": [
+        "Kingship and good rule",
+        "Courtly service and courtly danger"
+      ]
+    },
+    {
+      "work": "The Sidney Psalter",
+      "themes": [
+        "Divine love and holy desire",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "Antonius",
+      "themes": [
+        "Fortune and mutability",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Caelica",
+      "themes": [
+        "Divine love and holy desire",
+        "Petrarchan desire and the sonnet mistress"
+      ]
+    },
+    {
+      "work": "Delia",
+      "themes": [
+        "Petrarchan desire and the sonnet mistress",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Idea",
+      "themes": [
+        "Petrarchan desire and the sonnet mistress",
+        "Time, death, and immortality through verse"
+      ]
+    }
+  ],
+  "work_movements": [
+    {
+      "work": "Songs and Sonnets",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Elegies",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Holy Sonnets",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "The Anniversaries",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Devotions upon Emergent Occasions",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Satires",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "The Spanish Tragedy",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Campaspe",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Sapho and Phao",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Gallathea",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Endymion",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Friar Bacon and Friar Bungay",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "James IV",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Arraignment of Paris",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Old Wives' Tale",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Summer's Last Will and Testament",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Bussy D'Ambois",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Eastward Ho",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "The White Devil",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "The Duchess of Malfi",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "A Mad World, My Masters",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "A Chaste Maid in Cheapside",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "Women Beware Women",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "The Changeling",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "The Shoemaker's Holiday",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "The Honest Whore, Part 1",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "The Atheist's Tragedy",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "The Revenger's Tragedy",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "The Malcontent",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "The Dutch Courtesan",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "The Maid's Tragedy",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "The Knight of the Burning Pestle",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "A New Way to Pay Old Debts",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "Arden of Faversham",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Mucedorus",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Witch of Edmonton",
+      "movements": [
+        "Jacobean Tragedy and Revenge Drama"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 1",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Tamburlaine the Great, Part 2",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Doctor Faustus",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Jew of Malta",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Edward II",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Massacre at Paris",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Dido, Queen of Carthage",
+      "movements": [
+        "The University Wits",
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Every Man in His Humour",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "Volpone",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "Epicene",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "The Alchemist",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "Bartholomew Fair",
+      "movements": [
+        "Jacobean City Comedy"
+      ]
+    },
+    {
+      "work": "The Two Gentlemen of Verona",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Taming of the Shrew",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Comedy of Errors",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Love's Labour's Lost",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "A Midsummer Night's Dream",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Merchant of Venice",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Merry Wives of Windsor",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Much Ado About Nothing",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "As You Like It",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Twelfth Night",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "All's Well That Ends Well",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Measure for Measure",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Troilus and Cressida",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 1",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 2",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Henry VI, Part 3",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Richard III",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "King John",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Richard II",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 1",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Henry IV, Part 2",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Henry V",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Henry VIII",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Titus Andronicus",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Romeo and Juliet",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Julius Caesar",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Hamlet",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Othello",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "King Lear",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Macbeth",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Antony and Cleopatra",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Coriolanus",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Timon of Athens",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Pericles, Prince of Tyre",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Cymbeline",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Winter's Tale",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Tempest",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "The Two Noble Kinsmen",
+      "movements": [
+        "The Elizabethan Public Theatre"
+      ]
+    },
+    {
+      "work": "Shakespeare's Sonnets",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "work": "Amoretti and Epithalamion",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "work": "Astrophel and Stella",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "work": "Caelica",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "work": "Delia",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    },
+    {
+      "work": "Idea",
+      "movements": [
+        "English Petrarchism and the Sonnet Vogue"
+      ]
+    }
+  ]
+}

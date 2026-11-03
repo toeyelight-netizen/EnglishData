@@ -1,0 +1,62 @@
+[
+  {
+    "name": "English Petrarchism and the Sonnet Vogue",
+    "start_year": 1580,
+    "end_year": 1620,
+    "description": "The English vogue of Petrarchan love poetry that followed the publication of Sidney's Astrophel and Stella (1591): sonnet sequences, blazons, and complaints in which the lover-poet addresses an idealized, distant, and often unattainable mistress, adapting Petrarch, Bembo, and the French Pléiade to English meters and to the conditions of Elizabethan and Jacobean courtship and patronage.",
+    "historical_context": "The vogue was ignited by the pirated 1591 edition of Astrophel and Stella and answered within a few years by Daniel's Delia (1592), Shakespeare's Sonnets (composed c. 1593–1609), Drayton's Idea (1594–1619), Spenser's Amoretti (1595), Barnabe Barnes's Parthenophil and Parthenophe (1593), and Constable's Diana (1592), before cooling after 1600 and being transformed into Donne's anti-Petrarchan wit and the metaphysical lyric.",
+    "aesthetic_principles": "Petrarchan conceit and oxymoron (icy fire, living death); the sonnet form (English and Italian); the blazon and the anatomizing of the beloved's parts; complaint and the lament of frustrated desire; and, increasingly, self-conscious parody of the conventions themselves.",
+    "defining_characteristics": "Sonnet sequences addressed to a named mistress; elaborate conceits drawn from Petrarch and the Continental tradition; the poet's self-fashioning as lover and servant; the interplay of desire, virtue, and social ambition; and a strong current of religious parody in which earthly love is redirected toward God.",
+    "historical_significance": "The Petrarchan vogue produced the greatest body of English love poetry since Chaucer, established the sonnet as a major English form, and provided the conventions against which Shakespeare, Donne, and the later metaphysicals defined themselves."
+  },
+  {
+    "name": "The Elizabethan Public Theatre",
+    "start_year": 1576,
+    "end_year": 1642,
+    "description": "The commercial public theatre founded with Burbage's Theatre in Shoreditch (1576) and the Curtain (1577) and matured in the great amphitheatres south of the Thames — the Rose (1587), the Swan (1596), the Globe (1599), the Fortune (1600), the Red Bull (c. 1605) — together with the private hall playhouses (Blackfriars from 1596): a repertory system of daily performances, boy companies, and sharer-actors that produced Marlowe, Kyd, Shakespeare, Jonson, and the whole body of Elizabethan and Jacobean drama.",
+    "historical_context": "The companies were licensed under aristocratic patronage (the Admiral's Men, the Lord Chamberlain's/King's Men) and regulated by the Master of the Revels; they flourished under Elizabeth I and James I despite puritan opposition and periodic closures for plague, until the parliamentary ordinance of 2 September 1642 closed the playhouses.",
+    "aesthetic_principles": "Mixed-genre drama; blank verse as the standard medium; non-Aristotelian structure with multiple plots and long time spans; direct address and audience complicity; spectacle, discovery space, and the conventions of the platform stage; and the repertory system's pressure toward novelty and variety.",
+    "defining_characteristics": "Daily afternoon performances for a socially mixed audience; a company structure of sharers, hired men, and boys; the practice of collaboration; and a canon built on history plays, romantic comedies, revenge tragedies, and the mature Shakespearean tragedies and romances.",
+    "historical_significance": "The public theatre created the conditions for the greatest flowering of English drama, established the professional playwright, and produced the canon that has dominated English literature ever since."
+  },
+  {
+    "name": "The University Wits",
+    "start_year": 1580,
+    "end_year": 1600,
+    "description": "The generation of university-educated playwrights and prose writers — Lyly, Peele, Greene, Nashe, Lodge, and above all Marlowe — who in the 1580s and early 1590s transformed the public stage by applying humanist learning, rhetorical ambition, and blank-verse power to popular drama, and who created the market for professional authorship in prose pamphlets and romances.",
+    "historical_context": "The Wits emerged as the commercial playhouses matured and as Oxford and Cambridge graduates, blocked from preferment, turned to the stage and the printing house; Marlowe's Tamburlaine (c. 1587) announced the new mode, Greene's Groatsworth of Wit (1592) attacked the 'upstart crow' Shakespeare, and Nashe's pamphlets defined the new prose marketplace.",
+    "aesthetic_principles": "The 'mighty line' of Marlowe's blank verse; overreaching protagonists and the rhetoric of ambition; classical learning worn as ornament; euphuistic balance and antithesis in prose; and a conscious rivalry with both the academic neo-Senecan drama and the older moralities and interludes.",
+    "defining_characteristics": "Blank-verse tragedy of ambition and conquest; romantic comedy with pastoral and folk material; the prose romance and the pamphlet; satire and invective; and a professional, anti-courtly authorial persona.",
+    "historical_significance": "The University Wits made the public stage respectable, supplied Shakespeare with his formative models and rivals, and founded the professional prose market of the 1590s."
+  },
+  {
+    "name": "Metaphysical Poetry",
+    "start_year": 1590,
+    "end_year": 1660,
+    "description": "The school of lyric poetry, named by Dryden and Johnson after John Donne, characterized by intellectual wit, the metaphysical conceit (far-fetched similitudes drawn from law, medicine, navigation, alchemy, and the new science), dramatic argument, colloquial urgency, and the fusion of passion with learning in both secular love poetry and devotional verse.",
+    "historical_context": "Donne's Songs and Sonnets and Holy Sonnets circulated in manuscript from the 1590s and were printed in 1633; the mode was taken up by Herbert, Crashaw, Vaughan, Marvell, Cowley, and Cleveland in the Caroline period, and attacked by Johnson in 1779 before being recovered by Grierson and T. S. Eliot in the early twentieth century.",
+    "aesthetic_principles": "The conceit as extended analogy; argumentative structure (sillogism, paradox, paradoxical resolution); dramatic openings and colloquial diction; the yoking of heterogeneous ideas by violence together; and a devotional intensity that treats God as a lover or a conqueror.",
+    "defining_characteristics": "Wit and passion combined; learned allusion; dramatic monologue and direct address; religious and erotic subject matter treated with the same rhetorical machinery; and a preference for the lyric and the short poem over the narrative or the epic.",
+    "historical_significance": "Metaphysical poetry transformed the English lyric, shaped the religious verse of the seventeenth century, and was reclaimed as a founding model of modernism by Eliot and the New Critics."
+  },
+  {
+    "name": "Jacobean Tragedy and Revenge Drama",
+    "start_year": 1600,
+    "end_year": 1640,
+    "description": "The body of tragedy written for the Jacobean stage after Hamlet, dominated by the revenge plot inherited from Kyd and Seneca and developed by Marston, Webster, Tourneur, Middleton, Ford, and Shirley into a theatre of corruption, tyranny, moral ambiguity, and spectacular violence, set in decadent Italian courts and in a London of poison, madness, and masquerade.",
+    "historical_context": "The mode crystallized in the first decade of James I's reign (Marston's Antonio's Revenge, 1600; Hamlet, c. 1600; Webster's White Devil, 1612, and Duchess of Malfi, 1614; Tourneur's Revenger's Tragedy, 1606; Middleton's Changeling, 1622) against a backdrop of court corruption, the Overbury scandal, and the anxiety of a new dynasty.",
+    "aesthetic_principles": "Senecan rhetoric and stichomythia; the ghost and the revenge imperative; madness real and feigned; poison, disguise, and the masque as instruments of murder; moral ambiguity and the complicity of the audience in the spectacle of violence.",
+    "defining_characteristics": "The revenger-hero torn between duty and conscience; the corrupt court; the play-within-play; elaborate death scenes; and a poetic texture of imagery drawn from disease, cosmetics, and decay.",
+    "historical_significance": "Jacobean revenge tragedy produced Webster's two masterpieces and Middleton's Changeling, shaped the dark comedies of the same period, and became the central reference point for modern criticism of Renaissance drama."
+  },
+  {
+    "name": "Jacobean City Comedy",
+    "start_year": 1600,
+    "end_year": 1640,
+    "description": "The satirical comedy of London manners developed by Jonson (Every Man in His Humour, 1598; Volpone, 1606; The Alchemist, 1610; Bartholomew Fair, 1614), Middleton, Marston, Dekker, and Massinger: witty, topical plays set in the streets, shops, and ordinaries of the city, exposing greed, pretension, and the social mobility of a commercial metropolis.",
+    "historical_context": "The genre matured with the growth of London as Europe's fastest-expanding city and with the shift of audience taste toward the private Blackfriars theatre; it absorbed the humours theory of Jonson, the citizen comedy of Dekker and Heywood, and the satire of the pamphleteers, and it influenced Restoration comedy directly.",
+    "aesthetic_principles": "Topical realism and local setting; the 'humours' character as the embodiment of a single obsession; satire without romantic plot; the comedy of intrigue and cony-catching; and a prose-and-verse mixture suited to city talk.",
+    "defining_characteristics": "London locations named and recognizable; plots of money, marriage, and gulling; citizen and merchant characters; satire of social climbing; and a hard-edged, unsentimental view of urban life.",
+    "historical_significance": "City comedy gave English drama its first sustained picture of the modern metropolis and provided the direct model for the comedies of Etherege, Wycherley, and Congreve."
+  }
+]

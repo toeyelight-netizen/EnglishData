@@ -1,0 +1,66 @@
+[
+  {
+    "title": "The Riverside Shakespeare, 2nd edition",
+    "author_or_editor": "G. Blakemore Evans (ed.) with J. J. M. Tobin",
+    "publisher": "Houghton Mifflin",
+    "publication_year": 1997,
+    "source_type": "edition",
+    "reliability_notes": "The standard American one-volume complete works; used for Shakespearean play texts, dates, and the canon of collaborative plays."
+  },
+  {
+    "title": "The Oxford Shakespeare: The Complete Works, 2nd edition",
+    "author_or_editor": "Stanley Wells and Gary Taylor (eds.)",
+    "publisher": "Clarendon Press",
+    "publication_year": 2005,
+    "source_type": "edition",
+    "reliability_notes": "The standard British complete works; used for play texts, dating, and attributions, including the collaborative canon."
+  },
+  {
+    "title": "The Cambridge Companion to Shakespeare",
+    "author_or_editor": "Margreta de Grazia and Stanley Wells (eds.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2001,
+    "source_type": "reference",
+    "reliability_notes": "A collection of critical essays on Shakespeare's works and their contexts; used for interpretive framing and canonical selection."
+  },
+  {
+    "title": "The Cambridge Companion to English Renaissance Drama, 2nd edition",
+    "author_or_editor": "A. R. Braunmuller and Michael Hattaway (eds.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2003,
+    "source_type": "reference",
+    "reliability_notes": "The standard collaborative reference for the non-Shakespearean drama of 1558–1642; used for the playwrights, companies, and genres of the public and private theatres."
+  },
+  {
+    "title": "The Cambridge Companion to Christopher Marlowe",
+    "author_or_editor": "Patrick Cheney (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2004,
+    "source_type": "reference",
+    "reliability_notes": "Essays on Marlowe's plays, poems, and translations; used for the Marlowe records."
+  },
+  {
+    "title": "The Cambridge Companion to Ben Jonson",
+    "author_or_editor": "Richard Harp and Stanley Stewart (eds.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2000,
+    "source_type": "reference",
+    "reliability_notes": "Essays on Jonson's drama, poetry, masques, and criticism; used for the Jonson records."
+  },
+  {
+    "title": "The Cambridge Companion to John Donne",
+    "author_or_editor": "Achsah Guibbory (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2006,
+    "source_type": "reference",
+    "reliability_notes": "Essays on Donne's poetry, prose, and sermons; used for the Donne records."
+  },
+  {
+    "title": "The Cambridge Companion to Spenser",
+    "author_or_editor": "Andrew Hadfield (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2001,
+    "source_type": "reference",
+    "reliability_notes": "Essays on Spenser's poetry and prose and their contexts; used for the Spenser records."
+  }
+]

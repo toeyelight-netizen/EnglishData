@@ -9,10 +9,12 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   work detail columns).
 - Backups: `database/backups/English_Literature_Master_installment_01.db`,
   `database/backups/English_Literature_Master_installment_02.db`,
-  `database/backups/English_Literature_Master_installment_03.db`.
+  `database/backups/English_Literature_Master_installment_03.db`,
+  `database/backups/English_Literature_Master_installment_04.db`.
 - Validation reports: `documentation/validation_reports/validation_report_01.md`,
   `documentation/validation_reports/validation_report_02.md`,
-  `documentation/validation_reports/validation_report_03.md`.
+  `documentation/validation_reports/validation_report_03.md`,
+  `documentation/validation_reports/validation_report_04.md`.
 
 ## Installment 1 — Old English and Early Medieval Literature (c. 450–1100)
 
@@ -384,7 +386,157 @@ instruction.
 
 ---
 
-## Installments 4–10
+## Installment 4 — Elizabethan and Jacobean (1558–1625)
+
+**Status: COMPLETE** — 2026-11-04
+
+### Scope
+
+English literature from the accession of Elizabeth I to the death of James I
+(1558–1625): the Petrarchan sonnet vogue and the Sidney circle, Spenser's
+allegorical epic, the rise of the commercial public theatre with the
+University Wits and Marlowe, the whole Shakespearean canon, the Jacobean
+tragedy and city comedy of Webster, Middleton, Tourneur, Marston, Dekker,
+Beaumont, Fletcher, and Massinger, the metaphysical lyric of Donne, the
+essayistic and philosophical prose of Bacon, the ecclesiastical and
+historical prose of Hooker, Foxe, Stow, and Camden, the discovery literature
+of Hakluyt, Ralegh, and Purchas, the great translations of Florio, North,
+Golding, Fairfax, and Sylvester, and the first substantial body of printed
+literature by women (Lanyer, Wroth, Elizabeth I).
+
+### Records added
+
+| Entity | Added | Cumulative |
+|---|---|---|
+| Authors | 48 | 149 |
+| Works | 153 | 505 |
+| Anonymous works | 2 | 146 |
+| Periods | 1 | 4 |
+| Movements | 6 | 24 |
+| Genres | 13 | 63 |
+| Themes | 12 | 57 |
+| Sources | 8 | 37 |
+| Work–author links | 160 | 350 |
+| Work editions | 203 | 329 |
+| Other relationship rows | 1,832 | 4,983 |
+
+> Cumulative relationship-row totals are computed from the installment
+> backups as all link-table rows except `work_authors` and `work_editions`
+> (which are reported separately). On this basis the part-3 cumulative is
+> 3,151; the figure of 3,998 shown in the Installment 3 table above was
+> computed on a different basis and is superseded here.
+
+### Authors (48)
+
+Edmund Spenser, Sir Philip Sidney, Mary Sidney Herbert Countess of Pembroke,
+Fulke Greville Lord Brooke, Samuel Daniel, Michael Drayton, William
+Shakespeare, Christopher Marlowe, Ben Jonson, John Donne, Thomas Campion,
+Sir John Davies, Thomas Kyd, John Lyly, Robert Greene, George Peele, Thomas
+Nashe, George Chapman, John Webster, Thomas Middleton, Thomas Dekker, Cyril
+Tourneur, John Marston, Francis Beaumont, John Fletcher, Philip Massinger,
+Thomas Heywood, Francis Bacon, Richard Hooker, John Foxe, Thomas Sackville,
+George Gascoigne, Thomas Deloney, Thomas Lodge, Richard Hakluyt, Sir Walter
+Ralegh, John Florio, Sir Thomas North, Arthur Golding, Edward Fairfax,
+Joshua Sylvester, Robert Burton, John Stow, William Camden, Samuel Purchas,
+Aemilia Lanyer, Lady Mary Wroth, Queen Elizabeth I.
+
+### Works (153) — summary by group
+
+- **Shakespeare — plays and poems (42):** the 13 comedies (Two Gentlemen of
+  Verona through Troilus and Cressida), the 10 histories (the three Henry VI
+  plays, Richard III, King John, Richard II, the two Henry IV plays, Henry
+  V, Henry VIII), the 10 tragedies (Titus Andronicus through Timon of
+  Athens), the 5 late plays (Pericles, Cymbeline, The Winter's Tale, The
+  Tempest, The Two Noble Kinsmen), and the 4 poems (Venus and Adonis, The
+  Rape of Lucrece, the Sonnets, The Phoenix and the Turtle).
+- **Marlowe (9):** Tamburlaine Parts 1 and 2, Doctor Faustus, The Jew of
+  Malta, Edward II, The Massacre at Paris, Dido Queen of Carthage, Hero and
+  Leander, and the translation of All Ovid's Elegies.
+- **Jonson (9):** Every Man in His Humour, Volpone, Epicene, The Alchemist,
+  Bartholomew Fair, Sejanus His Fall, The Masque of Blackness, Epigrams, and
+  The Forest.
+- **Donne and the metaphysical lyric (8):** Donne's Songs and Sonnets,
+  Elegies, Holy Sonnets, The Anniversaries, Devotions upon Emergent
+  Occasions, and Satires; Campion's A Book of Airs; Davies's Nosce Teipsum.
+- **Spenser (8):** The Shepheardes Calender, The Faerie Queene, Complaints,
+  Amoretti and Epithalamion, Colin Clouts Come Home Againe, Prothalamion,
+  A View of the Present State of Ireland, and Fowre Hymnes.
+- **Sidney and his circle (9):** The Defence of Poesy, Astrophel and Stella,
+  Arcadia, The Lady of May, and The Sidney Psalter; Mary Sidney's Antonius;
+  Greville's Caelica; Daniel's Delia; Drayton's Idea.
+- **The University Wits and their contemporaries (17):** Kyd's The Spanish
+  Tragedy; Lyly's Campaspe, Sapho and Phao, Gallathea, Endymion, and the two
+  Euphues romances; Greene's Friar Bacon and Friar Bungay, James IV,
+  Pandosto, and Menaphon; Peele's The Arraignment of Paris and The Old
+  Wives' Tale; Nashe's Summer's Last Will and Testament, Pierce Penniless,
+  The Unfortunate Traveller, and Christ's Tears over Jerusalem.
+- **Other Elizabethan and Jacobean dramatists (20):** Chapman's Bussy
+  D'Ambois and Eastward Ho; Webster's The White Devil and The Duchess of
+  Malfi; Middleton's A Mad World My Masters, A Chaste Maid in Cheapside,
+  Women Beware Women, and The Changeling; Dekker's The Shoemaker's Holiday,
+  The Honest Whore Part 1, and The Witch of Edmonton; Tourneur's The
+  Atheist's Tragedy and The Revenger's Tragedy; Marston's The Malcontent and
+  The Dutch Courtesan; Beaumont and Fletcher's Philaster, The Maid's Tragedy,
+  and The Knight of the Burning Pestle; Massinger's A New Way to Pay Old
+  Debts; Heywood's A Woman Killed with Kindness.
+- **Anonymous and disputed plays (3):** Arden of Faversham, A Yorkshire
+  Tragedy, and Mucedorus.
+- **Prose: philosophy, religion, history, and travel (19):** Bacon's Essays,
+  Advancement of Learning, Novum Organum, and New Atlantis; Hooker's Of the
+  Laws of Ecclesiastical Polity; Foxe's Actes and Monuments; Sackville's
+  contribution to A Mirror for Magistrates; Gascoigne's The Steel Glass and
+  The Adventures of Master F.J.; Deloney's Jack of Newbury and The Gentle
+  Craft; Lodge's Rosalynde; Hakluyt's Principal Navigations; Ralegh's
+  Discoverie of Guiana and History of the World; Burton's Anatomy of
+  Melancholy; Stow's Survey of London; Camden's Britannia; Purchas's
+  Hakluytus Posthumus.
+- **Translations (5):** Florio's Montaigne, North's Plutarch, Golding's
+  Ovid, Fairfax's Tasso, and Sylvester's Du Bartas.
+- **Women writers (4):** Lanyer's Salve Deus Rex Judaeorum, Wroth's The
+  Countess of Montgomery's Urania, and Elizabeth I's The Doubt of Future
+  Foes and On Monsieur's Departure.
+
+### Validation results
+
+- `PRAGMA integrity_check`: **ok**
+- `PRAGMA foreign_key_check`: **0 violations**
+- Validation script (`validate_database.py --installment 04`): **0 issues**
+- Duplicate check: **0 duplicate groups**
+- Test suite: **14/14 passing** (including idempotent re-import test)
+- Import re-run idempotent: identical counts, no duplicates created
+
+### Attribution notes
+
+Collaborative plays are linked to every in-database co-author with
+`author` contribution type: Titus Andronicus (Shakespeare and Peele), Timon
+of Athens (Shakespeare and Middleton), Henry VIII and The Two Noble Kinsmen
+(Shakespeare and Fletcher), Dido Queen of Carthage (Marlowe and Nashe),
+Eastward Ho (Chapman, Jonson, and Marston), The Changeling (Middleton;
+Rowley is not yet in the database), The Honest Whore Part 1 (Dekker and
+Middleton), The Witch of Edmonton (Dekker; Ford and Rowley not yet in the
+database), The Sidney Psalter (Sidney and Mary Sidney Herbert), A Book of
+Airs (Campion; Rosseter not yet in the database), and A Mirror for
+Magistrates (Sackville; the other contributors are not yet in the database).
+Pericles is recorded as collaborative with the Wilkins attribution documented
+in `attribution_notes` only, since Wilkins is not in the database. The four
+works of uncertain authorship — Arden of Faversham and Mucedorus
+(`anonymous`), A Yorkshire Tragedy (`disputed`), and The Revenger's Tragedy
+(`attributed`, printed anonymously and now generally assigned to Middleton)
+— carry no author links, consistent with the validator's anonymity rule and
+the precedent of Gammer Gurton's Needle. Translations and compilations use
+`translator` and `editor` contribution types (Marlowe's Ovid, Mary Sidney's
+Antonius, Florio, North, Golding, Fairfax, Sylvester, Hakluyt, Purchas).
+
+### Confirmation
+
+Master database preserved; installment backup at
+`database/backups/English_Literature_Master_installment_04.db`. Cumulative
+totals: 149 authors, 505 works (146 anonymous), 4 periods, 24 movements, 63
+genres, 57 themes, 37 sources. Next installment begins only on instruction.
+
+---
+
+## Installments 5–10
 
 Not yet begun. Per protocol, the next installment begins only on instruction.
 
@@ -392,7 +544,7 @@ Not yet begun. Per protocol, the next installment begins only on instruction.
 |---|---|---|
 | 2 | Middle English Literature (c. 1100–1500) | Complete |
 | 3 | Renaissance and Early Tudor (c. 1500–1558) | Complete |
-| 4 | Elizabethan and Jacobean (1558–1625) | Pending |
+| 4 | Elizabethan and Jacobean (1558–1625) | Complete |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Pending |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Pending |
 | 7 | Romantic (c. 1789–1832) | Pending |
