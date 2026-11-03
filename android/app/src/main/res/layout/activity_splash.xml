@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@color/burgundy_dark"
+    android:paddingLeft="32dp"
+    android:paddingRight="32dp">
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:id="@+id/splash_logo"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:src="@drawable/splash_logo"
+        android:contentDescription="@string/app_name"
+        android:alpha="0.95" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:text="@string/app_name"
+        android:textColor="@color/splash_text_soft"
+        android:textSize="30sp"
+        android:fontFamily="serif"
+        android:letterSpacing="0.04" />
+
+    <View
+        android:layout_width="64dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="14dp"
+        android:background="@color/gold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="@string/credit_line"
+        android:textColor="@color/gold"
+        android:textSize="15sp"
+        android:letterSpacing="0.14"
+        android:fontFamily="sans-serif-medium" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="@string/splash_tagline"
+        android:textColor="@color/burgundy_soft"
+        android:textSize="13sp"
+        android:letterSpacing="0.02" />
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1.4" />
+</LinearLayout>

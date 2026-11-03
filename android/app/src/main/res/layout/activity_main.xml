@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/parchment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/burgundy"
+        android:paddingLeft="20dp"
+        android:paddingTop="18dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="18dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textColor="@color/splash_text_soft"
+            android:textSize="22sp"
+            android:fontFamily="serif" />
+
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:textColor="@color/burgundy_soft"
+            android:textSize="12sp"
+            android:letterSpacing="0.04" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_search"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:gravity="center_vertical">
+
+            <EditText
+                android:id="@+id/search_input"
+                android:layout_width="0dp"
+                android:layout_height="46dp"
+                android:layout_weight="1"
+                android:background="@null"
+                android:hint="@string/search_hint"
+                android:textColor="@color/ink"
+                android:textColorHint="@color/ink_soft"
+                android:textSize="15sp"
+                android:inputType="text"
+                android:imeOptions="actionSearch"
+                android:importantForAutofill="no" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:paddingLeft="12dp"
+            android:paddingTop="10dp"
+            android:paddingRight="12dp"
+            android:paddingBottom="18dp"
+            android:clipToPadding="false"
+            android:scrollbars="none"
+            android:overScrollMode="never" />
+
+        <LinearLayout
+            android:id="@+id/empty_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/empty_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/empty_title"
+                android:textColor="@color/ink"
+                android:textSize="18sp"
+                android:fontFamily="serif" />
+
+            <TextView
+                android:id="@+id/empty_subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="@string/empty_subtitle"
+                android:textColor="@color/ink_soft"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

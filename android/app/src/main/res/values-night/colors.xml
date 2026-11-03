@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Medieval parchment palette (dark) -->
+    <color name="parchment">#17120D</color>
+    <color name="surface">#221A13</color>
+    <color name="ink">#EFE3CE</color>
+    <color name="ink_soft">#C4B49C</color>
+    <color name="burgundy">#8E2C3F</color>
+    <color name="burgundy_dark">#3D1119</color>
+    <color name="burgundy_soft">#A84A5C</color>
+    <color name="gold">#D9B95C</color>
+    <color name="gold_soft">#33290F</color>
+    <color name="gold_text">#E0C37C</color>
+    <color name="line">#3A2F21</color>
+    <color name="chip_bg">#33291A</color>
+    <color name="ic_launcher_bg">#6E1F2E</color>
+    <color name="splash_text_soft">#D9C9A8</color>
+</resources>

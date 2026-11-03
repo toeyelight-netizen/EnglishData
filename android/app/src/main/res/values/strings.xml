@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English Literature</string>
+    <string name="credit_line">Developed by Saeed Lotfi</string>
+    <string name="splash_tagline">English literature from c. 450 to 2000</string>
+    <string name="search_hint">Search authors or works…</string>
+    <string name="section_authors">Authors</string>
+    <string name="section_works">Works</string>
+    <string name="empty_title">No results</string>
+    <string name="empty_subtitle">Try a different name, title, or keyword</string>
+    <string name="browse_hint">Browse the library or type to search</string>
+    <string name="anonymous">anonymous</string>
+</resources>
