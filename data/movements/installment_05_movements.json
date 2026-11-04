@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Cavalier Poetry",
+    "start_year": 1625,
+    "end_year": 1660,
+    "description": "The courtly, witty, secular lyric of the Caroline cavaliers — Lovelace, Suckling, Carew, Waller, Herrick, and Denham — written by gentlemen of the court and the Inns of Court in the decades before and during the Civil Wars. Cavalier verse celebrates love, friendship, loyalty to the king, and the pleasures of the present with polished ease, classical allusion, and an easy conversational tone, standing in deliberate contrast to the strenuous wit of the metaphysical lyric and the austerity of Puritan writing.",
+    "historical_context": "The Cavalier poets wrote in the circle of Charles I and Henrietta Maria and around Ben Jonson (the 'Sons of Ben'); their careers were shattered or defined by the Civil Wars — Lovelace was imprisoned, Suckling died in exile, Herrick was ejected from his Devon living in 1647 — and the Restoration canonized their mode as the loyal, witty verse of a defeated cause.",
+    "aesthetic_principles": "Horatian clarity and decorum; the 'careless' ease of the gentleman poet; short songs and octosyllabics; classical allusion and the Horatian carpe diem; loyalty, honour, and friendship as poetic subjects; and a deliberate smoothness of versification that Waller and Denham established as the model for Augustan heroic couplets.",
+    "defining_characteristics": "Lyrics of love and gallantry ('To Althea, from Prison', 'Why so pale and wan, fond lover?'); drinking songs and songs of parting; the estate poem and topographical description (Denham's Cooper's Hill); and the country parson's verse of Herrick's Hesperides, with its rural festivals and memento mori.",
+    "historical_significance": "Cavalier poetry created the smooth, public, classical idiom that Dryden and Pope inherited, preserved a secular aristocratic literary culture through the Interregnum, and gave English lyric its most enduring model of conversational elegance."
+  },
+  {
+    "name": "The Caroline Theatre",
+    "start_year": 1625,
+    "end_year": 1642,
+    "description": "The final phase of the professional English theatre before the Civil War, dominated by the King's Men (Shakespeare's old company), Queen Henrietta's Men, and Prince Charles's Men, and by the playwrights Massinger, Ford, Shirley, and Brome. Caroline drama turns inward toward psychology, moral complexity, and the manners of the court and city, favouring tragicomedy, city comedy, and a dark, introspective tragedy of passion and divided conscience.",
+    "historical_context": "The theatre flourished under Charles I's patronage and the licensing of Sir Henry Herbert as Master of the Revels, despite mounting Puritan hostility; it was abruptly ended by the parliamentary ordinance of 2 September 1642 that closed the playhouses at the outbreak of the Civil Wars.",
+    "aesthetic_principles": "Refined blank verse and prose; psychological interiority and casuistry; moral ambiguity rather than poetic justice; satire of city manners and court corruption; and a late-Jonsonian and late-Shakespearean polish that prized structure, wit, and rhetorical set pieces.",
+    "defining_characteristics": "Massinger's social comedies of debt and gentility; Ford's tragedies of transgressive passion and melancholy; Shirley's fashionable city comedies and moral tragicomedies; Brome's satirical, low-comic city plays; and the vogue for tragicomedy and the court masque.",
+    "historical_significance": "The Caroline theatre was the last and most sophisticated phase of the great Elizabethan-Jacobean drama, and its closure in 1642 marks the end of the first age of the English professional stage."
+  },
+  {
+    "name": "Commonwealth and Interregnum Literature",
+    "start_year": 1642,
+    "end_year": 1660,
+    "description": "The extraordinary output of prose, polemic, and poetry during the Civil Wars, the Commonwealth, and the Protectorate (1642–1660), when the theatres were closed and print became the dominant medium. It comprises the great political and religious tracts of Milton and the radicals, the sermons and devotional prose of the Anglicans and Puritans, the prose of Burton's heirs and Browne, and the clandestine performance of Caroline verse, producing the richest body of English prose writing before the novel.",
+    "historical_context": "The collapse of press censorship in 1641 (the Star Chamber decree) unleashed an explosion of pamphleteering; the Civil Wars (1642–1649), the regicide of Charles I (1649), the Interregnum republic and Cromwell's Protectorate (1653–1659), and the Restoration (1660) generated the period's defining controversies over sovereignty, toleration, and church government.",
+    "aesthetic_principles": "Argumentative, Latinate, and densely figured prose; the polemic and the tract as literary forms; scriptural and classical learning mobilized for political ends; and a self-conscious sense of writing at a world-historical turning point.",
+    "defining_characteristics": "Milton's divorce and republican tracts and Areopagitica; Leveller, Digger, and Fifth Monarchist pamphlets; the Eikon Basilike controversy; spiritual autobiography and Quaker testimonies; and the continuation of metaphysical and Cavalier poetry in manuscript and print.",
+    "historical_significance": "The Interregnum forged modern English political prose and the vocabulary of liberty, toleration, and popular sovereignty, and produced Milton, whose major poetry was written in and against the defeat of the republican cause."
+  },
+  {
+    "name": "The Restoration Theatre",
+    "start_year": 1660,
+    "end_year": 1700,
+    "description": "The professional theatre re-established at the Restoration under the patents granted to Davenant (the Duke's Company) and Killigrew (the King's Company). Housed in indoor proscenium playhouses with moveable scenery, lit by candles, and — for the first time in England — employing women actors, the Restoration stage produced heroic drama, the comedy of manners, and the first English operas and semi-operas.",
+    "historical_context": "Charles II's return in 1660 reopened the theatres; two patent companies held the London monopoly; women first appeared on the English public stage (Nell Gwyn, Elizabeth Barry, Anne Bracegirdle); and the theatre became a self-consciously fashionable, courtly, and witty institution patronized by the aristocracy and the king.",
+    "aesthetic_principles": "Wit, repartee, and the prose of manners; rhymed heroic verse in the 1660s–70s giving way to blank verse and prose; the five-act structure with scenic division and decorum; satire and social observation; and an emphasis on sexual intrigue, cuckoldry, and the code of the rake.",
+    "defining_characteristics": "The comedy of manners of Etherege, Wycherley, and Congreve; the heroic plays of Dryden and Lee; the verse tragedies of Otway; the adaptations of Shakespeare; the semi-operas and dramatic operas of Davenant, Dryden, and Purcell; and the emergence of professional women playwrights, above all Aphra Behn.",
+    "historical_significance": "The Restoration theatre founded the modern English stage — its proscenium architecture, women players, and genres of comedy and satire — and produced Congreve's The Way of the World, the summit of English comic drama."
+  },
+  {
+    "name": "Comedy of Manners",
+    "start_year": 1660,
+    "end_year": 1700,
+    "description": "The witty, prose comedy of Restoration high society, in which intricate plots of courtship, cuckoldry, and intrigue are conducted through brilliant repartee and a satirical anatomy of fashionable manners, affectation, and the double standard. Its heroes are rakes and its heroines spirited, articulate women; its values are wit, style, and self-possession rather than moral earnestness.",
+    "historical_context": "The genre emerged with Etherege's The Comical Revenge (1664) and The Man of Mode (1676), reached its first maturity in Wycherley's The Country Wife (1675) and The Plain Dealer (1676), and its apex in Congreve's Love for Love (1695) and The Way of the World (1700), reflecting the libertine culture of the court of Charles II and the polished society of the 1690s.",
+    "aesthetic_principles": "Prose dialogue of epigrammatic wit; the 'proviso' scene and the negotiation of marriage; sexual intrigue and the rake's progress; satire of fops, country gulls, and pretenders to wit; and an amoral, urbane elegance that prizes style and intelligence.",
+    "defining_characteristics": "Brilliant conversation as the medium of character and courtship; the country-wife and cuckold plots; the rake-hero and the witty heroine; masquerade and disguise; and a social world confined to the town, the park, the playhouse, and the chocolate house.",
+    "historical_significance": "The comedy of manners produced the finest comic prose in English, defined the comedy of wit for later centuries, and gave literature its sharpest satire of sexual hypocrisy and social performance."
+  },
+  {
+    "name": "Heroic Drama",
+    "start_year": 1660,
+    "end_year": 1680,
+    "description": "The elevated, rhymed heroic plays of the early Restoration — above all Dryden's — in which superhuman protagonists of immense love and valour debate honour, ambition, and passion in rolling heroic couplets, set against exotic, imperial, and often Eastern subjects, with spectacle, battles, and the conventions of French and Spanish romance drama.",
+    "historical_context": "Established by Davenant's Siege of Rhodes (1656, revived 1660) and the Howard-Dryden collaboration, the mode dominated the 1660s and early 1670s in Dryden's The Conquest of Granada (1670) and Aureng-Zebe (1675) and Nathaniel Lee's The Rival Queens (1677), before giving way to blank verse and to the satire of Buckingham's The Rehearsal (1671).",
+    "aesthetic_principles": "Rhymed heroic couplets; the 'hero of a single passion' of boundless love and honour; the debate between love and glory; exotic and imperial settings; and the influence of Corneille and French neoclassical drama together with the English masque tradition.",
+    "defining_characteristics": "Elevated rhetoric and set-piece debates; supernatural and spectacular machinery; themes of empire, conquest, and heroic virtue; and a self-conscious grandeur that Dryden both perfected and, in his essays, theorized.",
+    "historical_significance": "Heroic drama was the Restoration's most ambitious serious genre, the vehicle of Dryden's early dramatic genius, and the target of the period's most famous burlesque, shaping later eighteenth-century debate about the decorum of tragedy."
+  },
+  {
+    "name": "The Cambridge Platonists",
+    "start_year": 1633,
+    "end_year": 1688,
+    "description": "A group of liberal Anglican theologians and philosophers associated with Cambridge — Henry More, Ralph Cudworth, Benjamin Whichcote, and John Smith — who sought a rational, tolerant Christianity by synthesizing Platonic and Neoplatonic philosophy with the new learning, arguing that reason and religion are compatible and that the core of faith is a practical, benevolent piety rather than dogmatic Calvinist predestination.",
+    "historical_context": "Formed at Cambridge in the 1630s–40s against Puritan dogmatism and later against Hobbesian materialism and atheism, the Platonists published their major works after the Restoration (More's Enchiridion Metaphysicum 1671, Cudworth's True Intellectual System 1678) and influenced Latitudinarian divinity and the Enlightenment.",
+    "aesthetic_principles": "Reason as the 'candle of the Lord' within the soul; a prose of philosophical argument and moral exhortation; Platonism and emanation; and the defence of the immateriality of spirit against mechanism.",
+    "defining_characteristics": "Philosophical-theological treatises; the reconciliation of faith and reason; advocacy of religious toleration and latitude; polemic against Hobbes, Spinoza, and atheism; and a serene, irenic prose style.",
+    "historical_significance": "The Cambridge Platonists created a rational, tolerant English theology that mediated between Puritanism and the Enlightenment, influenced Locke and the Latitudinarians, and defended the immaterial soul against mechanistic philosophy."
+  },
+  {
+    "name": "The New Science and the Royal Society",
+    "start_year": 1645,
+    "end_year": 1700,
+    "description": "The literary and intellectual culture of experimental natural philosophy that gathered in the 'invisible college' of the 1640s and was institutionalized in the Royal Society of London (chartered 1662). Its writers — Boyle, Hooke, Wilkins, Glanvill, Sprat, Evelyn — championed empirical observation, plain prose, and the collaborative advance of knowledge, and produced a new literature of science: Micrographia, The Sceptical Chymist, Sylva, and the Society's own History.",
+    "historical_context": "Rooted in Bacon's programme and the continental revolutions of Galileo and Descartes, the movement coalesced around Wilkins at Wadham College, Oxford, during the Interregnum, was patronized at the Restoration, and shaped by the Philosophical Transactions (from 1665), the first scientific journal.",
+    "aesthetic_principles": "The 'plain style' of transparent, factual prose; empirical experiment and the appeal to the senses; probabilism and the rejection of dogmatism; utilitarian improvement; and a collaborative, anti-authoritarian ideal of knowledge.",
+    "defining_characteristics": "Scientific treatises and reports of experiments; the advocacy of a reformed, plain English prose (Wilkins, Sprat, Glanvill); utopian and imaginative extensions of the new philosophy (Cavendish's Blazing World); and the philosophical underpinning of Locke's empiricism.",
+    "historical_significance": "The New Science transformed English prose toward clarity and precision, founded the institutions and journal of modern science, produced Boyle's chemistry and Hooke's microscopy, and provided the empirical epistemology that Locke systematized and the eighteenth century adopted."
+  },
+  {
+    "name": "Civil War Radicalism: The Levellers and the Diggers",
+    "start_year": 1645,
+    "end_year": 1660,
+    "description": "The radical political and religious pamphlet literature of the English Revolution — the Levellers (Lilburne, Overton, Walwyn) demanding popular sovereignty and extended suffrage, the Diggers or True Levellers (Winstanley) advocating communal cultivation of the commons, and the Fifth Monarchists and sectarian writers — which produced the Putney Debates and some of the first modern arguments for democracy, equality, and common ownership.",
+    "historical_context": "Emerging from the New Model Army and the collapse of censorship after 1641, the radicals clashed with Cromwell and the Grandees at Putney (1647), were suppressed after the regicide, and left a printed record of democratic argument that anticipates modern political thought.",
+    "aesthetic_principles": "Plain, urgent, often colloquial prose of political appeal; the tract, petition, and declaration as forms; scriptural and natural-law argument for equality and consent; and a direct address to 'the people'.",
+    "defining_characteristics": "The Agreement of the People and Leveller petitions; Winstanley's The Law of Freedom and The New Law of Righteousness; the Putney Debates transcript; and apocalyptic and sectarian prophecy.",
+    "historical_significance": "Civil War radicalism produced the earliest sustained English arguments for democracy, universal suffrage, and agrarian communism, and its printed tracts are foundational documents of modern political thought."
+  },
+  {
+    "name": "The Anglican and Latitudinarian Divines",
+    "start_year": 1625,
+    "end_year": 1700,
+    "description": "The eloquent prose of the seventeenth-century Church of England, from the Caroline 'high' divines and the Anglican writers of devotional and moral prose (Andrewes's heirs, Jeremy Taylor, Browne, Walton, Fuller) to the Restoration Latitudinarians (Tillotson, Barrow, Burnet), who preached a reasonable, tolerant, moral Christianity in a polished pulpit style and defended the established church against Puritan, Catholic, and deist critics.",
+    "historical_context": "The Caroline church under Laud produced a rich devotional literature; the Restoration settlement of 1662 ejected nonconforming ministers (including Baxter and, earlier, Bunyan's circle) and elevated the Latitudinarians, whose sermons defined the respectable Anglican prose of the late century and influenced Addison and Swift.",
+    "aesthetic_principles": "The pulpit and devotional prose of baroque richness (Taylor) or classical clarity (Tillotson); moral casuistry and practical divinity; the appeal to reason, scripture, and the Fathers; and an ideal of holy living and dying.",
+    "defining_characteristics": "Jeremy Taylor's Holy Living and Holy Dying; Tillotson's and Barrow's reasoned sermons; Browne's Religio Medici and Urn Burial; Walton's Lives; Fuller's Worthies; and Burnet's History of the Reformation.",
+    "historical_significance": "The Anglican and Latitudinarian divines created the great tradition of English prose eloquence — devotional, moral, and reasonable — that shaped the eighteenth-century essay and the modern ideal of cultivated English style."
+  }
+]

@@ -320,3 +320,76 @@ Flat list; parent-child links available for later consolidation:
 
 - `English` — the vernacular corpus (151 works)
 - `Latin` — Bacon's Novum Organum and Camden's Britannia, both first published in Latin
+
+## Genre additions (Installment 5)
+
+- `Cavalier Lyric` — the courtly, often Jonsonian, occasional lyric of the 1630s–1650s
+- `Comedy of Manners` — wit-driven satire on fashionable intrigue and reputation
+- `Heroic Play` — the rhymed five-act drama of love and honour on the restored stage
+- `Dramatic Opera and Semi-Opera` — Davenant's and Dryden's spoken drama with sung music
+- `Closet Drama` — dramatic poetry for reading rather than performance (Samson Agonistes)
+- `Spiritual Autobiography` — Grace Abounding and Hutchinson's Memoirs
+- `Diary and Journal` — Pepys and Evelyn
+- `Mock-Heroic and Verse Satire` — Hudibras, Mac Flecknoe, Absalom and Achitophel
+- `Pindaric Ode` — the irregular celebratory ode after Cowley and Dryden
+- `Prose Fiction and the Early Novel` — Behn's tales, Cavendish's romance, Astell's prose
+- `Character Writing` — the Theophrastus-derived prose character (Fuller, Temple)
+- `Verse Epistle` — the familiar verse letter in the Jonson–Donne line
+
+## Theme list (Installment 5)
+
+- `Civil War, regicide, and the trial of the king`
+- `Liberty of conscience and religious toleration`
+- `Country retirement and the estate poem`
+- `Wit, libertinism, and the rake`
+- `Restoration politics: party, succession, and Exclusion`
+- `The New Science and experimental philosophy`
+- `Carpe diem and the pleasures of the present`
+- `Female authorship and the woman writer`
+- `Slavery, empire, and the Atlantic world`
+- `Faith, grace, and the pilgrim's journey`
+- `The city and urban life`
+- `Reason, faith, and the limits of understanding`
+
+## Periods (Installment 5)
+
+| Period | Start | End |
+|---|---|---|
+| Caroline, Commonwealth, and Restoration Period | 1625 | 1700 |
+
+## Movements (Installment 5)
+
+| Movement | Start | End |
+|---|---|---|
+| Cavalier Poetry | 1625 | 1660 |
+| The Caroline Theatre | 1625 | 1642 |
+| Commonwealth and Interregnum Literature | 1642 | 1660 |
+| The Restoration Theatre | 1660 | 1700 |
+| Comedy of Manners | 1660 | 1700 |
+| Heroic Drama | 1660 | 1680 |
+| The Cambridge Platonists | 1633 | 1688 |
+| The New Science and the Royal Society | 1645 | 1700 |
+| Civil War Radicalism: The Levellers and the Diggers | 1645 | 1660 |
+| The Anglican and Latitudinarian Divines | 1625 | 1700 |
+
+The pre-existing movement `Metaphysical Poetry` (1590–1660) is additionally
+linked to the new period, because Herbert, Vaughan, Crashaw and Traherne write
+after 1625.
+
+## original_language (works) — values in use in Installment 5
+
+- `English` — the vernacular corpus (197 works)
+- `Latin` — Milton's Defensio Pro Populo Anglicano, Hobbes's De Cive, Locke's
+  A Letter Concerning Toleration, and Conway's The Principles
+- `English (translated from Latin)` — Hutchinson's Lucretius, Dryden's Virgil
+  and his Juvenal and Persius
+- `English (translated from French)` — Katherine Philips's Pompey after
+  Corneille
+
+## contribution_type — values in use in Installment 5
+
+- `author` — every linked work in this installment has a named author; no
+  compiler or translator rows were needed, because the period's translations
+  are recorded as works of the translator and their co-authorship handled in
+  `attribution_notes`.
+

@@ -16,10 +16,11 @@ or deletes earlier data.
 | 2 | Middle English (c. 1100–1500) | **Complete** |
 | 3 | Renaissance and Early Tudor (c. 1500–1558) | **Complete** |
 | 4 | Elizabethan and Jacobean (1558–1625) | **Complete** |
-| 5–10 | Caroline → Postwar (1625–2000) | Pending |
+| 5 | Caroline, Commonwealth, Restoration (1625–1700) | **Complete** |
+| 6–10 | Augustan → Postwar (1700–2000) | Pending |
 
-Cumulative totals after Installment 4: **149 authors, 505 works** (146
-anonymous), 4 periods, 24 movements, 63 genres, 57 themes, 37 sources.
+Cumulative totals after Installment 5: **214 authors, 710 works** (146
+anonymous), 5 periods, 34 movements, 75 genres, 69 themes, 52 sources.
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for
 the detailed progress log.

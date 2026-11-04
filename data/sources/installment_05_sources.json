@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The Complete Poetry and Essential Prose of John Milton",
+    "author_or_editor": "William Kerrigan, John Rumrich, and Stephen M. Fallon (eds.)",
+    "publisher": "Modern Library",
+    "publication_year": 2007,
+    "source_type": "edition",
+    "reliability_notes": "The standard one-volume complete Milton; used for poem and prose texts, dating, and the canon. Complements the Oxford and Yale editions."
+  },
+  {
+    "title": "The Poems of Andrew Marvell",
+    "author_or_editor": "Nigel Smith (ed.)",
+    "publisher": "Pearson Longman",
+    "publication_year": 2003,
+    "source_type": "edition",
+    "reliability_notes": "The standard annotated edition of Marvell's complete poems (Longman Annotated English Poets); used for texts, dates, and commentary."
+  },
+  {
+    "title": "The English Poems of George Herbert",
+    "author_or_editor": "Helen Wilcox (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2007,
+    "source_type": "edition",
+    "reliability_notes": "The standard scholarly edition of Herbert's English poems with full commentary; used for The Temple's texts and structure."
+  },
+  {
+    "title": "The Diary of Samuel Pepys",
+    "author_or_editor": "Robert Latham and William Matthews (eds.)",
+    "publisher": "Bell & Hyman / University of California Press",
+    "publication_year": 1970,
+    "source_type": "edition",
+    "reliability_notes": "The definitive eleven-volume edition of the complete diary (1970–1983); used for Pepys's text, dating, and the events of 1660–1669."
+  },
+  {
+    "title": "Leviathan: The English and Latin Texts",
+    "author_or_editor": "Noel Malcolm (ed.)",
+    "publisher": "Clarendon Press (Clarendon Edition of the Works of Thomas Hobbes)",
+    "publication_year": 2012,
+    "source_type": "edition",
+    "reliability_notes": "The authoritative Clarendon parallel-text edition; used for Leviathan's text and the variants between the 1651 English and 1668 Latin versions."
+  },
+  {
+    "title": "The Pilgrim's Progress",
+    "author_or_editor": "N. H. Keeble (ed.)",
+    "publisher": "Oxford World's Classics",
+    "publication_year": 1984,
+    "source_type": "edition",
+    "reliability_notes": "Standard scholarly edition of Bunyan's allegory, both parts, with introduction and notes; used for the text and its variants."
+  },
+  {
+    "title": "The Poems and Fables of John Dryden",
+    "author_or_editor": "James Kinsley (ed.)",
+    "publisher": "Oxford University Press",
+    "publication_year": 1958,
+    "source_type": "edition",
+    "reliability_notes": "The standard one-volume edition of Dryden's poems; used for texts and dating, alongside the California edition of the plays and prose."
+  },
+  {
+    "title": "The Major Works of Sir Thomas Browne",
+    "author_or_editor": "C. A. Patrides (ed.)",
+    "publisher": "Penguin Classics",
+    "publication_year": 1977,
+    "source_type": "edition",
+    "reliability_notes": "Standard edition of Religio Medici, Hydriotaphia, The Garden of Cyrus, and other major prose; used for texts and Browne's canon."
+  },
+  {
+    "title": "The Works of Aphra Behn",
+    "author_or_editor": "Janet Todd (ed.)",
+    "publisher": "William Pickering / Ohio State University Press",
+    "publication_year": 1995,
+    "source_type": "edition",
+    "reliability_notes": "The standard six-volume collected edition (1992–1996) of Behn's plays, prose, and verse; used for texts, dates, and the canon."
+  },
+  {
+    "title": "Metaphysical Lyrics and Poems of the Seventeenth Century: Donne to Butler",
+    "author_or_editor": "Herbert J. C. Grierson (ed.)",
+    "publisher": "Clarendon Press",
+    "publication_year": 1921,
+    "source_type": "anthology",
+    "reliability_notes": "Grierson's foundational two-volume anthology, which established 'metaphysical' as a critical category; used for texts of Herbert, Crashaw, Vaughan, Cowley, and their contemporaries."
+  },
+  {
+    "title": "Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse",
+    "author_or_editor": "Germaine Greer, Susan Hastings, Jeslyn Medoff, and Melinda Sansone (eds.)",
+    "publisher": "Farrar Straus Giroux",
+    "publication_year": 1988,
+    "source_type": "anthology",
+    "reliability_notes": "Landmark anthology of women's poetry of the period; used for texts and attributions of Philips, Finch, Cavendish, Bradstreet, and other women writers."
+  },
+  {
+    "title": "The Cambridge Companion to English Literature, 1650–1740",
+    "author_or_editor": "Steven N. Zwicker (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 1998,
+    "source_type": "reference",
+    "reliability_notes": "Authoritative survey essays on the literature of the Restoration and early eighteenth century; used for period context and generic framing."
+  },
+  {
+    "title": "The Cambridge Companion to Milton, 2nd edition",
+    "author_or_editor": "Dennis Richard Danielson (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 1999,
+    "source_type": "reference",
+    "reliability_notes": "Standard collection of essays on Milton's poetry and prose; used for interpretation, context, and the state of scholarship."
+  },
+  {
+    "title": "The Cambridge Companion to Restoration Drama",
+    "author_or_editor": "Deborah Payne Fisk (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2001,
+    "source_type": "reference",
+    "reliability_notes": "Authoritative survey of the Restoration stage, its playwrights, companies, and genres; used for context and attribution of plays."
+  },
+  {
+    "title": "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century",
+    "author_or_editor": "Stephen Greenblatt (gen. ed.)",
+    "publisher": "W. W. Norton",
+    "publication_year": 2018,
+    "source_type": "anthology",
+    "reliability_notes": "Standard classroom anthology for 1660–1785; used for canonical selection, texts, and introductions."
+  }
+]

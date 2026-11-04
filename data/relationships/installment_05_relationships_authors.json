@@ -1,0 +1,2517 @@
+{
+  "author_genres": [
+    {
+      "author": "Abraham Cowley",
+      "genres": [
+        "Cavalier Lyric",
+        "Essay",
+        "Pindaric Ode",
+        "Poetry",
+        "Prose",
+        "Religious Narrative Poetry",
+        "Sonnet Sequence",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Andrew Marvell",
+      "genres": [
+        "Cavalier Lyric",
+        "Complaint and Satire",
+        "Pastoral Poetry",
+        "Pindaric Ode",
+        "Political Treatise",
+        "Political Verse",
+        "Prose",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "author": "Anne Bradstreet",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Poetry",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Anne Conway",
+      "genres": [
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "Anne Finch, Countess of Winchilsea",
+      "genres": [
+        "Cavalier Lyric",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Aphra Behn",
+      "genres": [
+        "Cavalier Lyric",
+        "Comedy",
+        "Comedy of Manners",
+        "Heroic Play",
+        "Letters",
+        "Pindaric Ode",
+        "Poetry",
+        "Prose Fiction and the Early Novel",
+        "Revenge Tragedy",
+        "Tragedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Ben Jonson",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "author": "Charles Sackville, Earl of Dorset",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "author": "Colley Cibber",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "author": "Dorothy Osborne",
+      "genres": [
+        "Letters"
+      ]
+    },
+    {
+      "author": "Edmund Waller",
+      "genres": [
+        "Cavalier Lyric",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Francis Quarles",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Poetry",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "George Etherege",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "author": "George Farquhar",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "author": "George Herbert",
+      "genres": [
+        "Courtesy Book and Household Manual",
+        "Devotional and Mystical Writing",
+        "Metaphysical and Devotional Lyric",
+        "Prose",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Gerrard Winstanley",
+      "genres": [
+        "Humanist Dialogue and Utopian Fiction",
+        "Political Treatise",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "author": "Gilbert Burnet",
+      "genres": [
+        "History and Chronicle",
+        "Prose Biography",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "author": "Henry More",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "Henry Vaughan",
+      "genres": [
+        "Cavalier Lyric",
+        "Metaphysical and Devotional Lyric",
+        "Poetry",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Izaak Walton",
+      "genres": [
+        "Courtesy Book and Household Manual",
+        "Devotional and Mystical Writing",
+        "Essay",
+        "Prose",
+        "Prose Biography"
+      ]
+    },
+    {
+      "author": "James Harrington",
+      "genres": [
+        "Humanist Dialogue and Utopian Fiction",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "James Shirley",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Comedy of Manners",
+        "Revenge Tragedy",
+        "Romance",
+        "Romantic Comedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Jeremy Taylor",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Homily (Sermon)"
+      ]
+    },
+    {
+      "author": "John Aubrey",
+      "genres": [
+        "Character Writing",
+        "Prose Biography"
+      ]
+    },
+    {
+      "author": "John Bunyan",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Dream Vision",
+        "Prose",
+        "Prose Fiction and the Early Novel",
+        "Spiritual Autobiography",
+        "Vision Literature"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "genres": [
+        "Character Writing",
+        "Comedy",
+        "Complaint and Satire",
+        "Court Masque",
+        "Dramatic Opera and Semi-Opera",
+        "Elegy",
+        "Essay",
+        "Heroic Epic",
+        "Heroic Play",
+        "Mock-Heroic and Verse Satire",
+        "Pindaric Ode",
+        "Poetry",
+        "Political Verse",
+        "Reformation Polemic and Controversy",
+        "Tragedy",
+        "Translation"
+      ]
+    },
+    {
+      "author": "John Evelyn",
+      "genres": [
+        "Diary and Journal",
+        "Medical and Scientific Writing",
+        "Prose",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "genres": [
+        "History Play",
+        "History and Chronicle",
+        "Revenge Tragedy",
+        "Tragedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "John Lilburne",
+      "genres": [
+        "Political Treatise",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "author": "John Locke",
+      "genres": [
+        "Essay",
+        "Humanist Educational Treatise",
+        "Philosophy and Scholastic Writing",
+        "Political Treatise",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "author": "John Milton",
+      "genres": [
+        "Closet Drama",
+        "Court Masque",
+        "Elegy",
+        "English Sonnet",
+        "Heroic Epic",
+        "Humanist Educational Treatise",
+        "Pastoral Poetry",
+        "Philosophy and Scholastic Writing",
+        "Poetry",
+        "Political Treatise",
+        "Political Verse",
+        "Prose",
+        "Reformation Polemic and Controversy",
+        "Religious Lyric",
+        "Religious Narrative Poetry",
+        "Sonnet Sequence",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "John Tillotson",
+      "genres": [
+        "Homily (Sermon)"
+      ]
+    },
+    {
+      "author": "John Vanbrugh",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "author": "John Wilkins",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "John Wilmot, Earl of Rochester",
+      "genres": [
+        "Cavalier Lyric",
+        "Mock-Heroic and Verse Satire",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "Joseph Glanvill",
+      "genres": [
+        "Essay",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "Katherine Philips",
+      "genres": [
+        "Cavalier Lyric",
+        "Tragedy",
+        "Translation",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Lucy Hutchinson",
+      "genres": [
+        "Heroic Epic",
+        "Philosophy and Scholastic Writing",
+        "Prose Biography",
+        "Religious Narrative Poetry",
+        "Spiritual Autobiography",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Margaret Cavendish, Duchess of Newcastle",
+      "genres": [
+        "Closet Drama",
+        "Comedy",
+        "Humanist Dialogue and Utopian Fiction",
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing",
+        "Prose Fiction and the Early Novel",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Mary Astell",
+      "genres": [
+        "Essay",
+        "Humanist Educational Treatise"
+      ]
+    },
+    {
+      "author": "Matthew Prior",
+      "genres": [
+        "Mock-Heroic and Verse Satire"
+      ]
+    },
+    {
+      "author": "Nathaniel Lee",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "genres": [
+        "City Comedy",
+        "Closet Drama",
+        "Comedy",
+        "Revenge Tragedy",
+        "Tragedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Ralph Cudworth",
+      "genres": [
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "Richard Brome",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "author": "Richard Crashaw",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Richard Lovelace",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "author": "Robert Boyle",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "Robert Herrick",
+      "genres": [
+        "Cavalier Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Robert Hooke",
+      "genres": [
+        "Medical and Scientific Writing"
+      ]
+    },
+    {
+      "author": "Samuel Butler",
+      "genres": [
+        "Character Writing",
+        "Mock-Heroic and Verse Satire",
+        "Poetry",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "author": "Samuel Pepys",
+      "genres": [
+        "Diary and Journal",
+        "Letters"
+      ]
+    },
+    {
+      "author": "Sir John Denham",
+      "genres": [
+        "Heroic Epic",
+        "Pastoral Poetry",
+        "Poetry"
+      ]
+    },
+    {
+      "author": "Sir John Suckling",
+      "genres": [
+        "Cavalier Lyric",
+        "Closet Drama",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Sir Thomas Browne",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Essay",
+        "History and Chronicle",
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing",
+        "Prose"
+      ]
+    },
+    {
+      "author": "Sir William Davenant",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners",
+        "Court Masque",
+        "Dramatic Opera and Semi-Opera",
+        "Heroic Play",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "author": "Sir William Temple",
+      "genres": [
+        "Essay",
+        "History and Chronicle",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "Thomas Carew",
+      "genres": [
+        "Cavalier Lyric",
+        "Court Masque",
+        "Mock-Heroic and Verse Satire"
+      ]
+    },
+    {
+      "author": "Thomas Fuller",
+      "genres": [
+        "Character Writing",
+        "Devotional and Mystical Writing",
+        "History and Chronicle",
+        "Prose",
+        "Prose Biography"
+      ]
+    },
+    {
+      "author": "Thomas Hobbes",
+      "genres": [
+        "History and Chronicle",
+        "Philosophy and Scholastic Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "Thomas Otway",
+      "genres": [
+        "History Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Thomas Shadwell",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "author": "Thomas Southerne",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Thomas Sprat",
+      "genres": [
+        "Essay",
+        "History and Chronicle",
+        "Medical and Scientific Writing"
+      ]
+    },
+    {
+      "author": "Thomas Traherne",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "William Congreve",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners",
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "William Wycherley",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Comedy of Manners",
+        "Romantic Comedy"
+      ]
+    }
+  ],
+  "author_movements": [
+    {
+      "author": "Abraham Cowley",
+      "movements": [
+        "Cavalier Poetry",
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "author": "Andrew Marvell",
+      "movements": [
+        "Cavalier Poetry",
+        "Commonwealth and Interregnum Literature",
+        "Metaphysical Poetry",
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "Anne Bradstreet",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "author": "Anne Conway",
+      "movements": [
+        "The Cambridge Platonists"
+      ]
+    },
+    {
+      "author": "Anne Finch, Countess of Winchilsea",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Aphra Behn",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Ben Jonson",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "Charles Sackville, Earl of Dorset",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Colley Cibber",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Dorothy Osborne",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "author": "Edmund Waller",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Francis Quarles",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "George Etherege",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "George Farquhar",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "George Herbert",
+      "movements": [
+        "Metaphysical Poetry",
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "Gerrard Winstanley",
+      "movements": [
+        "Civil War Radicalism: The Levellers and the Diggers"
+      ]
+    },
+    {
+      "author": "Gilbert Burnet",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "Henry More",
+      "movements": [
+        "The Cambridge Platonists"
+      ]
+    },
+    {
+      "author": "Henry Vaughan",
+      "movements": [
+        "Cavalier Poetry",
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "author": "Izaak Walton",
+      "movements": [
+        "Cavalier Poetry",
+        "Commonwealth and Interregnum Literature",
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "James Harrington",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "author": "James Shirley",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "Jeremy Taylor",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "John Aubrey",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "John Bunyan",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "movements": [
+        "Comedy of Manners",
+        "Heroic Drama",
+        "The Anglican and Latitudinarian Divines",
+        "The New Science and the Royal Society",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "John Evelyn",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "John Lilburne",
+      "movements": [
+        "Civil War Radicalism: The Levellers and the Diggers"
+      ]
+    },
+    {
+      "author": "John Locke",
+      "movements": [
+        "The Anglican and Latitudinarian Divines",
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "John Milton",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "John Tillotson",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "John Vanbrugh",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "John Wilkins",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "John Wilmot, Earl of Rochester",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Joseph Glanvill",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Katherine Philips",
+      "movements": [
+        "Cavalier Poetry",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "Lucy Hutchinson",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Margaret Cavendish, Duchess of Newcastle",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Mary Astell",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "Matthew Prior",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Nathaniel Lee",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "Ralph Cudworth",
+      "movements": [
+        "The Cambridge Platonists"
+      ]
+    },
+    {
+      "author": "Richard Brome",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "Richard Crashaw",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "author": "Richard Lovelace",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Robert Boyle",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Robert Herrick",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Robert Hooke",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Samuel Butler",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Samuel Pepys",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Sir John Denham",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "author": "Sir John Suckling",
+      "movements": [
+        "Cavalier Poetry",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "Sir Thomas Browne",
+      "movements": [
+        "The Anglican and Latitudinarian Divines",
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Sir William Davenant",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "Heroic Drama",
+        "The Cambridge Platonists",
+        "The Caroline Theatre",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Thomas Carew",
+      "movements": [
+        "Cavalier Poetry",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "author": "Thomas Fuller",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "author": "Thomas Hobbes",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "author": "Thomas Otway",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Thomas Shadwell",
+      "movements": [
+        "Comedy of Manners",
+        "The New Science and the Royal Society",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Thomas Southerne",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Thomas Sprat",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Thomas Traherne",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "author": "William Congreve",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "William Wycherley",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    }
+  ],
+  "author_themes": [
+    {
+      "author": "Abraham Cowley",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Country retirement and the estate poem",
+        "Faith, grace, and the pilgrim's journey",
+        "Heroism and the heroic code",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Patronage and the literary marketplace",
+        "Petrarchan desire and the sonnet mistress",
+        "The contemplative life",
+        "Time, death, and immortality through verse",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Andrew Marvell",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Civil War, regicide, and the trial of the king",
+        "Country retirement and the estate poem",
+        "Ecclesiastical reform and criticism",
+        "Heroism and the heroic code",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Love, constancy, and betrayal",
+        "Restoration politics: party, succession, and Exclusion",
+        "The English vernacular and national letters",
+        "The contemplative life",
+        "Time, death, and immortality through verse",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Anne Bradstreet",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Divine love and holy desire",
+        "Faith, grace, and the pilgrim's journey",
+        "Female authorship and the woman writer",
+        "The contemplative life"
+      ]
+    },
+    {
+      "author": "Anne Conway",
+      "themes": [
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Female authorship and the woman writer",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "author": "Anne Finch, Countess of Winchilsea",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Creation and cosmology",
+        "Female authorship and the woman writer",
+        "Melancholy and self-analysis",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "author": "Aphra Behn",
+      "themes": [
+        "Ambition and the overreacher",
+        "Carpe diem and the pleasures of the present",
+        "Colonial enterprise and the New World",
+        "Exile and homelessness",
+        "Female authorship and the woman writer",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "Monasticism and the religious life",
+        "Penance, confession, and sin",
+        "Restoration politics: party, succession, and Exclusion",
+        "Revenge and justice",
+        "Slavery, empire, and the Atlantic world",
+        "The city and urban life",
+        "Tyranny and the abuse of power",
+        "Wit, libertinism, and the rake",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Ben Jonson",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Melancholy and self-analysis",
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "author": "Charles Sackville, Earl of Dorset",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Love, constancy, and betrayal",
+        "Sea voyage and seafaring"
+      ]
+    },
+    {
+      "author": "Colley Cibber",
+      "themes": [
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "Dorothy Osborne",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Courtly service and courtly danger",
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "author": "Edmund Waller",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Restoration politics: party, succession, and Exclusion",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "author": "Francis Quarles",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Penance, confession, and sin",
+        "The contemplative life",
+        "Typology and biblical interpretation"
+      ]
+    },
+    {
+      "author": "George Etherege",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Courtly service and courtly danger",
+        "Love, constancy, and betrayal",
+        "The city and urban life",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "George Farquhar",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "National identity and Englishness",
+        "The city and urban life",
+        "Warfare and battle",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "George Herbert",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Divine love and holy desire",
+        "Faith, grace, and the pilgrim's journey",
+        "Monasticism and the religious life",
+        "Order and degree: the body politic",
+        "The contemplative life"
+      ]
+    },
+    {
+      "author": "Gerrard Winstanley",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Liberty of conscience and religious toleration",
+        "Order and degree: the body politic",
+        "Reformation faith and the authority of scripture",
+        "Religious persecution and martyrdom",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Gilbert Burnet",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Kingship and good rule",
+        "National identity and Englishness",
+        "Reformation faith and the authority of scripture",
+        "Religious persecution and martyrdom",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Henry More",
+      "themes": [
+        "Melancholy and self-analysis",
+        "Reason, faith, and the limits of understanding",
+        "Religious persecution and martyrdom"
+      ]
+    },
+    {
+      "author": "Henry Vaughan",
+      "themes": [
+        "Consolation and endurance",
+        "Country retirement and the estate poem",
+        "Death, the soul, and the afterlife",
+        "Divine love and holy desire",
+        "Exile and homelessness",
+        "Faith, grace, and the pilgrim's journey",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "author": "Izaak Walton",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Faith, grace, and the pilgrim's journey",
+        "Monasticism and the religious life",
+        "Patronage and the literary marketplace",
+        "Solitude and the hall community",
+        "The contemplative life"
+      ]
+    },
+    {
+      "author": "James Harrington",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "Kingship and good rule",
+        "Order and degree: the body politic",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "James Shirley",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Ecclesiastical reform and criticism",
+        "Fortune and mutability",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Monsters and the marvellous",
+        "Patronage and the literary marketplace",
+        "Revenge and justice",
+        "Social satire and estates criticism",
+        "The city and urban life",
+        "The public theatre and the players' world",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Jeremy Taylor",
+      "themes": [
+        "Consolation and endurance",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Judgment Day and eschatology",
+        "Penance, confession, and sin",
+        "The contemplative life"
+      ]
+    },
+    {
+      "author": "John Aubrey",
+      "themes": [
+        "Melancholy and self-analysis",
+        "Patronage and the literary marketplace",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "John Bunyan",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Ecclesiastical reform and criticism",
+        "Faith, grace, and the pilgrim's journey",
+        "Judgment Day and eschatology",
+        "Marriage and women's conduct",
+        "Melancholy and self-analysis",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Religious persecution and martyrdom",
+        "Revenge and justice",
+        "Social satire and estates criticism",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Wisdom and learning",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Arthurian legend",
+        "Civil War, regicide, and the trial of the king",
+        "Colonial enterprise and the New World",
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Ecclesiastical reform and criticism",
+        "Exile and homelessness",
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Humanist education and the ideal commonwealth",
+        "Judgment Day and eschatology",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "Monsters and the marvellous",
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Reason, faith, and the limits of understanding",
+        "Religious persecution and martyrdom",
+        "Restoration politics: party, succession, and Exclusion",
+        "Social satire and estates criticism",
+        "The English vernacular and national letters",
+        "The New Science and experimental philosophy",
+        "The city and urban life",
+        "The public theatre and the players' world",
+        "Time, death, and immortality through verse",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Wisdom and learning",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "John Evelyn",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Creation and cosmology",
+        "Restoration politics: party, succession, and Exclusion",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Chivalry and knighthood",
+        "Death, the soul, and the afterlife",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "National identity and Englishness",
+        "Penance, confession, and sin",
+        "Reason, faith, and the limits of understanding",
+        "Tyranny and the abuse of power",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "John Lilburne",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "John Locke",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Humanist education and the ideal commonwealth",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Order and degree: the body politic",
+        "Reason, faith, and the limits of understanding",
+        "Reformation faith and the authority of scripture",
+        "Restoration politics: party, succession, and Exclusion",
+        "The New Science and experimental philosophy",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "John Milton",
+      "themes": [
+        "Ambition and the overreacher",
+        "Civil War, regicide, and the trial of the king",
+        "Country retirement and the estate poem",
+        "Courtly service and courtly danger",
+        "Creation and cosmology",
+        "Ecclesiastical reform and criticism",
+        "Faith, grace, and the pilgrim's journey",
+        "Humanist education and the ideal commonwealth",
+        "Judgment Day and eschatology",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Marriage and women's conduct",
+        "Melancholy and self-analysis",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Religious persecution and martyrdom",
+        "Restoration politics: party, succession, and Exclusion",
+        "Revenge and justice",
+        "The English vernacular and national letters",
+        "The Passion of Christ",
+        "The Virgin Mary and Marian devotion",
+        "The contemplative life",
+        "Time, death, and immortality through verse",
+        "Typology and biblical interpretation",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "John Tillotson",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "author": "John Vanbrugh",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Female authorship and the woman writer",
+        "Marriage and women's conduct",
+        "Tyranny and the abuse of power",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "John Wilkins",
+      "themes": [
+        "Creation and cosmology",
+        "Monsters and the marvellous",
+        "The English vernacular and national letters",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "John Wilmot, Earl of Rochester",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Love, constancy, and betrayal",
+        "Reason, faith, and the limits of understanding",
+        "Restoration politics: party, succession, and Exclusion",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "Joseph Glanvill",
+      "themes": [
+        "Monsters and the marvellous",
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "Katherine Philips",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Civil War, regicide, and the trial of the king",
+        "Female authorship and the woman writer",
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Lucy Hutchinson",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Female authorship and the woman writer",
+        "Kingship and good rule",
+        "Loyalty and the comitatus bond",
+        "Reason, faith, and the limits of understanding",
+        "Religious persecution and martyrdom",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Margaret Cavendish, Duchess of Newcastle",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Creation and cosmology",
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Monsters and the marvellous",
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "Mary Astell",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Humanist education and the ideal commonwealth",
+        "Marriage and women's conduct",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Matthew Prior",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Restoration politics: party, succession, and Exclusion",
+        "The city and urban life"
+      ]
+    },
+    {
+      "author": "Nathaniel Lee",
+      "themes": [
+        "Ambition and the overreacher",
+        "Chivalry and knighthood",
+        "Heroism and the heroic code",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Order and degree: the body politic",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Philip Massinger",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Blood-feud, vengeance, and kinship",
+        "Colonial enterprise and the New World",
+        "Death, the soul, and the afterlife",
+        "Heroism and the heroic code",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Social satire and estates criticism",
+        "The city and urban life",
+        "The public theatre and the players' world",
+        "Tyranny and the abuse of power",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Ralph Cudworth",
+      "themes": [
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "author": "Richard Brome",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The English vernacular and national letters",
+        "The city and urban life"
+      ]
+    },
+    {
+      "author": "Richard Crashaw",
+      "themes": [
+        "Divine love and holy desire",
+        "Penance, confession, and sin",
+        "The Passion of Christ",
+        "The Virgin Mary and Marian devotion"
+      ]
+    },
+    {
+      "author": "Richard Lovelace",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Civil War, regicide, and the trial of the king",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond"
+      ]
+    },
+    {
+      "author": "Robert Boyle",
+      "themes": [
+        "Creation and cosmology",
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Robert Herrick",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Country retirement and the estate poem",
+        "Divine love and holy desire",
+        "The English vernacular and national letters",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "author": "Robert Hooke",
+      "themes": [
+        "Creation and cosmology",
+        "Monsters and the marvellous",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "Samuel Butler",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Ecclesiastical reform and criticism",
+        "Social satire and estates criticism",
+        "The New Science and experimental philosophy",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "Samuel Pepys",
+      "themes": [
+        "Medicine, healing, and the body",
+        "Restoration politics: party, succession, and Exclusion",
+        "The city and urban life",
+        "The public theatre and the players' world",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "Sir John Denham",
+      "themes": [
+        "Ambition and the overreacher",
+        "Country retirement and the estate poem",
+        "Exile and homelessness",
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Order and degree: the body politic",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "author": "Sir John Suckling",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "author": "Sir Thomas Browne",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Melancholy and self-analysis",
+        "Monsters and the marvellous",
+        "Penance, confession, and sin",
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy",
+        "The contemplative life",
+        "The transience of earthly glory (ubi sunt)",
+        "Time, death, and immortality through verse",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Sir William Davenant",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Chivalry and knighthood",
+        "Colonial enterprise and the New World",
+        "Divine love and holy desire",
+        "Heroism and the heroic code",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Monsters and the marvellous",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Patronage and the literary marketplace",
+        "Religious persecution and martyrdom",
+        "Social satire and estates criticism",
+        "The public theatre and the players' world",
+        "Warfare and battle",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Sir William Temple",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "The English vernacular and national letters",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Thomas Carew",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Courtly service and courtly danger",
+        "Ecclesiastical reform and criticism",
+        "Love, constancy, and betrayal",
+        "Petrarchan desire and the sonnet mistress",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Thomas Fuller",
+      "themes": [
+        "Marriage and women's conduct",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The contemplative life",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Thomas Hobbes",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Ecclesiastical reform and criticism",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Order and degree: the body politic",
+        "Reason, faith, and the limits of understanding",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Thomas Otway",
+      "themes": [
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Restoration politics: party, succession, and Exclusion",
+        "Revenge and justice",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Thomas Shadwell",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The New Science and experimental philosophy",
+        "The city and urban life",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Thomas Southerne",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Slavery, empire, and the Atlantic world"
+      ]
+    },
+    {
+      "author": "Thomas Sprat",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "The English vernacular and national letters",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "Thomas Traherne",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Creation and cosmology",
+        "Divine love and holy desire",
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "The contemplative life"
+      ]
+    },
+    {
+      "author": "William Congreve",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Revenge and justice",
+        "Tyranny and the abuse of power",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "author": "William Wycherley",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Melancholy and self-analysis",
+        "National identity and Englishness",
+        "The city and urban life",
+        "Wit, libertinism, and the rake"
+      ]
+    }
+  ],
+  "author_influences": [
+    {
+      "author": "James Shirley",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "James Shirley",
+      "influenced_by": [
+        "John Fletcher"
+      ]
+    },
+    {
+      "author": "James Shirley",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "James Shirley",
+      "influenced_by": [
+        "John Marston"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "influenced_by": [
+        "John Webster"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "influenced_by": [
+        "Thomas Middleton"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "influenced_by": [
+        "Robert Burton"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "influenced_by": [
+        "John Fletcher"
+      ]
+    },
+    {
+      "author": "John Ford",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Richard Brome",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Sir William Davenant",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Sir William Davenant",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "Sir William Davenant",
+      "influenced_by": [
+        "Thomas Hobbes"
+      ]
+    },
+    {
+      "author": "William Wycherley",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "William Wycherley",
+      "influenced_by": [
+        "John Fletcher"
+      ]
+    },
+    {
+      "author": "William Congreve",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "William Congreve",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "George Etherege",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Thomas Shadwell",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Thomas Otway",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "Thomas Otway",
+      "influenced_by": [
+        "John Fletcher"
+      ]
+    },
+    {
+      "author": "Thomas Otway",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Aphra Behn",
+      "influenced_by": [
+        "Sir William Davenant"
+      ]
+    },
+    {
+      "author": "Aphra Behn",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Thomas Southerne",
+      "influenced_by": [
+        "Aphra Behn"
+      ]
+    },
+    {
+      "author": "Thomas Southerne",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Thomas Southerne",
+      "influenced_by": [
+        "Thomas Otway"
+      ]
+    },
+    {
+      "author": "Thomas Southerne",
+      "influenced_by": [
+        "John Fletcher"
+      ]
+    },
+    {
+      "author": "John Vanbrugh",
+      "influenced_by": [
+        "William Wycherley"
+      ]
+    },
+    {
+      "author": "John Vanbrugh",
+      "influenced_by": [
+        "George Etherege"
+      ]
+    },
+    {
+      "author": "George Farquhar",
+      "influenced_by": [
+        "William Congreve"
+      ]
+    },
+    {
+      "author": "George Farquhar",
+      "influenced_by": [
+        "John Vanbrugh"
+      ]
+    },
+    {
+      "author": "George Farquhar",
+      "influenced_by": [
+        "William Wycherley"
+      ]
+    },
+    {
+      "author": "George Farquhar",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Colley Cibber",
+      "influenced_by": [
+        "William Congreve"
+      ]
+    },
+    {
+      "author": "Colley Cibber",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "Nathaniel Lee",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Nathaniel Lee",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "John Milton",
+      "influenced_by": [
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "John Milton",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "influenced_by": [
+        "Abraham Cowley"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "influenced_by": [
+        "Geoffrey Chaucer"
+      ]
+    },
+    {
+      "author": "John Dryden",
+      "influenced_by": [
+        "Edward Fairfax"
+      ]
+    },
+    {
+      "author": "George Herbert",
+      "influenced_by": [
+        "John Donne"
+      ]
+    },
+    {
+      "author": "Henry Vaughan",
+      "influenced_by": [
+        "George Herbert"
+      ]
+    },
+    {
+      "author": "Richard Crashaw",
+      "influenced_by": [
+        "George Herbert"
+      ]
+    },
+    {
+      "author": "Richard Crashaw",
+      "influenced_by": [
+        "John Donne"
+      ]
+    },
+    {
+      "author": "Thomas Traherne",
+      "influenced_by": [
+        "George Herbert"
+      ]
+    },
+    {
+      "author": "Abraham Cowley",
+      "influenced_by": [
+        "John Donne"
+      ]
+    },
+    {
+      "author": "Abraham Cowley",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Abraham Cowley",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Andrew Marvell",
+      "influenced_by": [
+        "John Donne"
+      ]
+    },
+    {
+      "author": "Andrew Marvell",
+      "influenced_by": [
+        "John Milton"
+      ]
+    },
+    {
+      "author": "Andrew Marvell",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Edmund Waller",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Richard Lovelace",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Richard Lovelace",
+      "influenced_by": [
+        "John Donne"
+      ]
+    },
+    {
+      "author": "Thomas Carew",
+      "influenced_by": [
+        "John Donne"
+      ]
+    },
+    {
+      "author": "Thomas Carew",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Sir John Suckling",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "Sir John Suckling",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Sir John Suckling",
+      "influenced_by": [
+        "Thomas Hobbes"
+      ]
+    },
+    {
+      "author": "Sir John Denham",
+      "influenced_by": [
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "Robert Herrick",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Samuel Butler",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "John Wilmot, Earl of Rochester",
+      "influenced_by": [
+        "Thomas Hobbes"
+      ]
+    },
+    {
+      "author": "Charles Sackville, Earl of Dorset",
+      "influenced_by": [
+        "Edmund Waller"
+      ]
+    },
+    {
+      "author": "Charles Sackville, Earl of Dorset",
+      "influenced_by": [
+        "John Wilmot, Earl of Rochester"
+      ]
+    },
+    {
+      "author": "Matthew Prior",
+      "influenced_by": [
+        "Edmund Waller"
+      ]
+    },
+    {
+      "author": "Matthew Prior",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Matthew Prior",
+      "influenced_by": [
+        "Charles Sackville, Earl of Dorset"
+      ]
+    },
+    {
+      "author": "Matthew Prior",
+      "influenced_by": [
+        "Samuel Butler"
+      ]
+    },
+    {
+      "author": "Katherine Philips",
+      "influenced_by": [
+        "Abraham Cowley"
+      ]
+    },
+    {
+      "author": "Katherine Philips",
+      "influenced_by": [
+        "Sir John Suckling"
+      ]
+    },
+    {
+      "author": "Katherine Philips",
+      "influenced_by": [
+        "Ben Jonson"
+      ]
+    },
+    {
+      "author": "Anne Finch, Countess of Winchilsea",
+      "influenced_by": [
+        "Abraham Cowley"
+      ]
+    },
+    {
+      "author": "Anne Finch, Countess of Winchilsea",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Anne Bradstreet",
+      "influenced_by": [
+        "Sir Philip Sidney"
+      ]
+    },
+    {
+      "author": "Anne Bradstreet",
+      "influenced_by": [
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "Francis Quarles",
+      "influenced_by": [
+        "George Herbert"
+      ]
+    },
+    {
+      "author": "Izaak Walton",
+      "influenced_by": [
+        "John Donne"
+      ]
+    },
+    {
+      "author": "Jeremy Taylor",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Jeremy Taylor",
+      "influenced_by": [
+        "Richard Hooker"
+      ]
+    },
+    {
+      "author": "John Bunyan",
+      "influenced_by": [
+        "John Foxe"
+      ]
+    },
+    {
+      "author": "Thomas Fuller",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "John Aubrey",
+      "influenced_by": [
+        "Thomas Hobbes"
+      ]
+    },
+    {
+      "author": "John Aubrey",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "John Evelyn",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Thomas Hobbes",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "John Locke",
+      "influenced_by": [
+        "Robert Boyle"
+      ]
+    },
+    {
+      "author": "John Locke",
+      "influenced_by": [
+        "Thomas Hobbes"
+      ]
+    },
+    {
+      "author": "John Locke",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Robert Boyle",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Anne Conway",
+      "influenced_by": [
+        "Henry More"
+      ]
+    },
+    {
+      "author": "Mary Astell",
+      "influenced_by": [
+        "Jeremy Taylor"
+      ]
+    },
+    {
+      "author": "Joseph Glanvill",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Joseph Glanvill",
+      "influenced_by": [
+        "Robert Boyle"
+      ]
+    },
+    {
+      "author": "Joseph Glanvill",
+      "influenced_by": [
+        "Robert Hooke"
+      ]
+    },
+    {
+      "author": "John Wilkins",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Thomas Sprat",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Thomas Sprat",
+      "influenced_by": [
+        "John Wilkins"
+      ]
+    },
+    {
+      "author": "Thomas Sprat",
+      "influenced_by": [
+        "Robert Boyle"
+      ]
+    },
+    {
+      "author": "Robert Hooke",
+      "influenced_by": [
+        "Robert Boyle"
+      ]
+    },
+    {
+      "author": "Robert Hooke",
+      "influenced_by": [
+        "Francis Bacon"
+      ]
+    },
+    {
+      "author": "Lucy Hutchinson",
+      "influenced_by": [
+        "John Milton"
+      ]
+    }
+  ],
+  "period_movements": [
+    {
+      "period": "Caroline, Commonwealth, and Restoration Period",
+      "movements": [
+        "Cavalier Poetry",
+        "Civil War Radicalism: The Levellers and the Diggers",
+        "Comedy of Manners",
+        "Commonwealth and Interregnum Literature",
+        "Heroic Drama",
+        "Metaphysical Poetry",
+        "The Anglican and Latitudinarian Divines",
+        "The Cambridge Platonists",
+        "The Caroline Theatre",
+        "The New Science and the Royal Society",
+        "The Restoration Theatre"
+      ]
+    }
+  ]
+}

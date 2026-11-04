@@ -1,0 +1,5501 @@
+{
+  "work_authors": [
+    {
+      "work": "The Wedding",
+      "author": "James Shirley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Changes",
+      "author": "James Shirley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Hyde Park",
+      "author": "James Shirley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Lady of Pleasure",
+      "author": "James Shirley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Antipodes",
+      "author": "James Shirley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Traitor",
+      "author": "James Shirley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Cardinal",
+      "author": "James Shirley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "'Tis Pity She's a Whore",
+      "author": "John Ford",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Broken Heart",
+      "author": "John Ford",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love's Sacrifice",
+      "author": "John Ford",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Perkin Warbeck",
+      "author": "John Ford",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Lady's Trial",
+      "author": "John Ford",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Northern Lass",
+      "author": "Richard Brome",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Jovial Crew",
+      "author": "Richard Brome",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Sparagus Garden",
+      "author": "Richard Brome",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Covent Garden Weeded",
+      "author": "Richard Brome",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love and Honour",
+      "author": "Sir William Davenant",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Platonic Lovers",
+      "author": "Sir William Davenant",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Salmacida Spolia",
+      "author": "Sir William Davenant",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Siege of Rhodes",
+      "author": "Sir William Davenant",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Playhouse to Be Let",
+      "author": "Sir William Davenant",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Roman Actor",
+      "author": "Philip Massinger",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The City Madam",
+      "author": "Philip Massinger",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Believe as You List",
+      "author": "Philip Massinger",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Maid of Honour",
+      "author": "Philip Massinger",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Unnatural Combat",
+      "author": "Philip Massinger",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Staple of News",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Magnetic Lady; or, Humours Reconciled",
+      "author": "Ben Jonson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "An Horatian Ode upon Cromwell's Return from Ireland",
+      "author": "Andrew Marvell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Upon Appleton House",
+      "author": "Andrew Marvell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "To His Coy Mistress",
+      "author": "Andrew Marvell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Garden",
+      "author": "Andrew Marvell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Rehearsal Transpros'd",
+      "author": "Andrew Marvell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "An Account of the Growth of Popery and Arbitrary Government in England",
+      "author": "Andrew Marvell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Lucasta",
+      "author": "Richard Lovelace",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Coelum Britannicum",
+      "author": "Thomas Carew",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Carew's Poems",
+      "author": "Thomas Carew",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Aglaura",
+      "author": "Sir John Suckling",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Fragmenta Aurea",
+      "author": "Sir John Suckling",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Waller's Poems",
+      "author": "Edmund Waller",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Cooper's Hill",
+      "author": "Sir John Denham",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Sophy",
+      "author": "Sir John Denham",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Hesperides",
+      "author": "Robert Herrick",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Poems by the Most Deservedly Admired Mrs Katherine Philips",
+      "author": "Katherine Philips",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Pompey (a translation of Corneille)",
+      "author": "Katherine Philips",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Tenth Muse Lately Sprung Up in America",
+      "author": "Anne Bradstreet",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Contemplations",
+      "author": "Anne Bradstreet",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Emblems",
+      "author": "Francis Quarles",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Nocturnal Reverie",
+      "author": "Anne Finch, Countess of Winchilsea",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Spleen",
+      "author": "Anne Finch, Countess of Winchilsea",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The City Mouse and Country Mouse",
+      "author": "Matthew Prior",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Temple",
+      "author": "George Herbert",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Priest to the Temple",
+      "author": "George Herbert",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Silex Scintillans",
+      "author": "Henry Vaughan",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Olor Iscanus",
+      "author": "Henry Vaughan",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Steps to the Temple",
+      "author": "Richard Crashaw",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Carmen Deo Nostro",
+      "author": "Richard Crashaw",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Centuries of Thankfulness",
+      "author": "Thomas Traherne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Roman Forgeries",
+      "author": "Thomas Traherne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Davideis",
+      "author": "Abraham Cowley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Pindarique Odes",
+      "author": "Abraham Cowley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Mistress",
+      "author": "Abraham Cowley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Essays in Verse and Prose",
+      "author": "Abraham Cowley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "On the Morning of Christ's Nativity",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "L'Allegro and Il Penseroso",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Comus (A Masque Presented at Ludlow Castle)",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Lycidas",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Milton's Sonnets",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Paradise Lost",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Paradise Regained",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Samson Agonistes",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Areopagitica",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Doctrine and Discipline of Divorce",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Of Education",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Tenure of Kings and Magistrates",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Eikonoklastes",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Defensio Pro Populo Anglicano",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Ready and Easy Way to Establish a Free Commonwealth",
+      "author": "John Milton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Religio Medici",
+      "author": "Sir Thomas Browne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Pseudodoxia Epidemica; or, Enquiries into Very Many Received Tenets",
+      "author": "Sir Thomas Browne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Hydriotaphia; or, Urn-Burial",
+      "author": "Sir Thomas Browne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Garden of Cyrus",
+      "author": "Sir Thomas Browne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Christian Morals",
+      "author": "Sir Thomas Browne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Compleat Angler; or, The Contemplative Man's Recreation",
+      "author": "Izaak Walton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Lives (Walton)",
+      "author": "Izaak Walton",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Rule and Exercises of Holy Living",
+      "author": "Jeremy Taylor",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Rule and Exercises of Holy Dying",
+      "author": "Jeremy Taylor",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Holy State and the Profane State",
+      "author": "Thomas Fuller",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The History of the Worthies of England",
+      "author": "Thomas Fuller",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Brief Lives",
+      "author": "John Aubrey",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Letters from Dorothy Osborne to Sir William Temple",
+      "author": "Dorothy Osborne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Observations upon the United Provinces of the Netherlands",
+      "author": "Sir William Temple",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Of Ancient and Modern Learning",
+      "author": "Sir William Temple",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Diary of Samuel Pepys",
+      "author": "Samuel Pepys",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Diary of John Evelyn",
+      "author": "John Evelyn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Sylva; or, A Discourse of Forest-Trees and the Propagation of Timber",
+      "author": "John Evelyn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Memoirs of the Life of Colonel Hutchinson",
+      "author": "Lucy Hutchinson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Order and Disorder; or, The World Made and Undone",
+      "author": "Lucy Hutchinson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Translation of Lucretius, De Rerum Natura (Hutchinson)",
+      "author": "Lucy Hutchinson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Grace Abounding to the Chief of Sinners",
+      "author": "John Bunyan",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part I)",
+      "author": "John Bunyan",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part II)",
+      "author": "John Bunyan",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Life and Death of Mr. Badman",
+      "author": "John Bunyan",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Holy War Made by Shaddai upon Diabolus, for the Regaining of the Metropolis of the World",
+      "author": "John Bunyan",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Old Bachelor",
+      "author": "William Congreve",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Double Dealer",
+      "author": "William Congreve",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love for Love",
+      "author": "William Congreve",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Mourning Bride",
+      "author": "William Congreve",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Way of the World",
+      "author": "William Congreve",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Orphan; or, The Unhappy Marriage",
+      "author": "Thomas Otway",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Caius Marius",
+      "author": "Thomas Otway",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Venice Preserv'd; or, A Plot Discover'd",
+      "author": "Thomas Otway",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Forc'd Marriage; or, A Night's Intrigue",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Rover; or, The Banish'd Cavaliers",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Rover, Part II",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Abdelazer; or, The Moor's Revenge",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Widow Ranter; or, The History of Bacon in Virginia",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love-Letters Between a Nobleman and His Sister",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Oroonoko; or, The Royal Slave (Behn)",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Fair Jilt; or, The Amours of Prince Tarquin and Sister Henrietta",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Poems upon Several Occasions with a Voyage to the Island of Love (Behn)",
+      "author": "Aphra Behn",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Fatal Marriage; or, The Innocent Adultery",
+      "author": "Thomas Southerne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Oroonoko (Southerne's adaptation)",
+      "author": "Thomas Southerne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Relapse; or, Virtue in Danger",
+      "author": "John Vanbrugh",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Provoked Wife",
+      "author": "John Vanbrugh",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love and a Bottle",
+      "author": "George Farquhar",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Constant Couple; or, A Trip to the Jubilee",
+      "author": "George Farquhar",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Recruiting Officer",
+      "author": "George Farquhar",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Beaux' Stratagem",
+      "author": "George Farquhar",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love's Last Shift; or, The Fool in Fashion",
+      "author": "Colley Cibber",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Wild Gallant",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Indian Queen",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "An Essay of Dramatic Poesy",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Tempest; or, The Enchanted Island",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Tempest; or, The Enchanted Island",
+      "author": "Sir William Davenant",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Conquest of Granada",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Marriage à la Mode",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Aureng-zebe; or, The Great Mogul",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "All for Love; or, The World Well Lost",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Don Sebastian, King of Portugal",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "King Arthur; or, The British Worthy",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Comical Revenge; or, Love in a Tub",
+      "author": "George Etherege",
+      "contribution_type": "author"
+    },
+    {
+      "work": "She Would if She Could",
+      "author": "George Etherege",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Man of Mode; or, Sir Fopling Flutter",
+      "author": "George Etherege",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Love in a Wood; or, St. James's Park",
+      "author": "William Wycherley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Gentleman Dancing-Master",
+      "author": "William Wycherley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Country Wife",
+      "author": "William Wycherley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Plain Dealer",
+      "author": "William Wycherley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Epsom Wells",
+      "author": "Thomas Shadwell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Virtuoso",
+      "author": "Thomas Shadwell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Squire of Alsatia",
+      "author": "Thomas Shadwell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Rival Queens; or, The Death of Alexander the Great",
+      "author": "Nathaniel Lee",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Sophonisba; or, Hannibal's Overthrow",
+      "author": "Nathaniel Lee",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Lucius Junius Brutus, Father of His Country",
+      "author": "Nathaniel Lee",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Astraea Redux",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Annus Mirabilis",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Absalom and Achitophel",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Absalom and Achitophel, Part II",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Mac Flecknoe",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Medal",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Religio Laici",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Hind and the Panther",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "To the Memory of Mr. Oldham",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Threnodia Augustalis",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Song for St. Cecilia's Day, 1687",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Alexander's Feast; or, The Power of Music",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Eleonora: A Panegyrical Dedication",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Fables Ancient and Modern",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Works of Virgil Translated into English Verse",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Satires of Decimus Junius Juvenalis and Aulus Persius Flaccus",
+      "author": "John Dryden",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Hudibras",
+      "author": "Samuel Butler",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Miscellaneous Thoughts and Posthumous Works of Samuel Butler",
+      "author": "Samuel Butler",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Satire Against Reason and Mankind",
+      "author": "John Wilmot, Earl of Rochester",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Poems on Several Occasions (Rochester)",
+      "author": "John Wilmot, Earl of Rochester",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Songs and Poems of Charles Sackville, Earl of Dorset",
+      "author": "Charles Sackville, Earl of Dorset",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Leviathan; or, The Matter, Forme, and Power of a Common-Wealth Ecclesiasticall and Civill",
+      "author": "Thomas Hobbes",
+      "contribution_type": "author"
+    },
+    {
+      "work": "De Cive",
+      "author": "Thomas Hobbes",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Elements of Law, Natural and Politic",
+      "author": "Thomas Hobbes",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Behemoth; or, The Long Parliament",
+      "author": "Thomas Hobbes",
+      "contribution_type": "author"
+    },
+    {
+      "work": "An Essay Concerning Human Understanding",
+      "author": "John Locke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Two Treatises of Government",
+      "author": "John Locke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Letter Concerning Toleration",
+      "author": "John Locke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Some Thoughts Concerning Education",
+      "author": "John Locke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Reasonableness of Christianity, as Delivered in the Scriptures",
+      "author": "John Locke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Sceptical Chymist",
+      "author": "Robert Boyle",
+      "contribution_type": "author"
+    },
+    {
+      "work": "New Experiments Physico-Mechanical, Touching the Spring of the Air",
+      "author": "Robert Boyle",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Description of a New World, Called The Blazing-World",
+      "author": "Margaret Cavendish, Duchess of Newcastle",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Observations upon Experimental Philosophy",
+      "author": "Margaret Cavendish, Duchess of Newcastle",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Plays, Never Before Printed (Cavendish)",
+      "author": "Margaret Cavendish, Duchess of Newcastle",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Principles of the Most Ancient and Modern Philosophy",
+      "author": "Anne Conway",
+      "contribution_type": "author"
+    },
+    {
+      "work": "A Serious Proposal to the Ladies, for the Advancement of Their True and Greatest Interest",
+      "author": "Mary Astell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Some Reflections upon Marriage, Occasion'd by the Duke and Duchess of Mazarine's Case",
+      "author": "Mary Astell",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Vanity of Dogmatizing; or, Confidence in Philosophy",
+      "author": "Joseph Glanvill",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Discovery of a World in the Moone; or, A Discourse Tending to Prove That 'Tis Probable There May Be Another Habitable World in That Planet",
+      "author": "John Wilkins",
+      "contribution_type": "author"
+    },
+    {
+      "work": "An Essay towards a Real Character and a Philosophical Language",
+      "author": "John Wilkins",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The History of the Royal-Society of London for Improving of Natural Knowledge",
+      "author": "Thomas Sprat",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses",
+      "author": "Robert Hooke",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Enthusiasmus Triumphatus; or, A Brief Account of the Nature, Causes, Kinds, and Cure of Enthusiasm",
+      "author": "Henry More",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The True Intellectual System of the Universe",
+      "author": "Ralph Cudworth",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Commonwealth of Oceana",
+      "author": "James Harrington",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The Law of Freedom in a Platform; or, True Magistracy Restored",
+      "author": "Gerrard Winstanley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The New Law of Righteousness",
+      "author": "Gerrard Winstanley",
+      "contribution_type": "author"
+    },
+    {
+      "work": "England's Birth-Right Justified",
+      "author": "John Lilburne",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Sermons upon Several Occasions (Tillotson)",
+      "author": "John Tillotson",
+      "contribution_type": "author"
+    },
+    {
+      "work": "The History of the Reformation of the Church of England",
+      "author": "Gilbert Burnet",
+      "contribution_type": "author"
+    },
+    {
+      "work": "Bishop Burnet's History of His Own Time",
+      "author": "Gilbert Burnet",
+      "contribution_type": "author"
+    }
+  ],
+  "work_periods": [
+    {
+      "period": "Caroline, Commonwealth, and Restoration Period",
+      "works": [
+        "'Tis Pity She's a Whore",
+        "A Jovial Crew",
+        "A Letter Concerning Toleration",
+        "A Nocturnal Reverie",
+        "A Priest to the Temple",
+        "A Satire Against Reason and Mankind",
+        "A Serious Proposal to the Ladies, for the Advancement of Their True and Greatest Interest",
+        "A Song for St. Cecilia's Day, 1687",
+        "Abdelazer; or, The Moor's Revenge",
+        "Absalom and Achitophel",
+        "Absalom and Achitophel, Part II",
+        "Aglaura",
+        "Alexander's Feast; or, The Power of Music",
+        "All for Love; or, The World Well Lost",
+        "An Account of the Growth of Popery and Arbitrary Government in England",
+        "An Essay Concerning Human Understanding",
+        "An Essay of Dramatic Poesy",
+        "An Essay towards a Real Character and a Philosophical Language",
+        "An Horatian Ode upon Cromwell's Return from Ireland",
+        "Annus Mirabilis",
+        "Areopagitica",
+        "Astraea Redux",
+        "Aureng-zebe; or, The Great Mogul",
+        "Behemoth; or, The Long Parliament",
+        "Believe as You List",
+        "Bishop Burnet's History of His Own Time",
+        "Brief Lives",
+        "Caius Marius",
+        "Carew's Poems",
+        "Carmen Deo Nostro",
+        "Centuries of Thankfulness",
+        "Christian Morals",
+        "Coelum Britannicum",
+        "Comus (A Masque Presented at Ludlow Castle)",
+        "Contemplations",
+        "Cooper's Hill",
+        "Davideis",
+        "De Cive",
+        "Defensio Pro Populo Anglicano",
+        "Don Sebastian, King of Portugal",
+        "Eikonoklastes",
+        "Eleonora: A Panegyrical Dedication",
+        "Emblems",
+        "England's Birth-Right Justified",
+        "Enthusiasmus Triumphatus; or, A Brief Account of the Nature, Causes, Kinds, and Cure of Enthusiasm",
+        "Epsom Wells",
+        "Essays in Verse and Prose",
+        "Fables Ancient and Modern",
+        "Fragmenta Aurea",
+        "Grace Abounding to the Chief of Sinners",
+        "Hesperides",
+        "Hudibras",
+        "Hyde Park",
+        "Hydriotaphia; or, Urn-Burial",
+        "King Arthur; or, The British Worthy",
+        "L'Allegro and Il Penseroso",
+        "Letters from Dorothy Osborne to Sir William Temple",
+        "Leviathan; or, The Matter, Forme, and Power of a Common-Wealth Ecclesiasticall and Civill",
+        "Lives (Walton)",
+        "Love and Honour",
+        "Love and a Bottle",
+        "Love for Love",
+        "Love in a Wood; or, St. James's Park",
+        "Love's Last Shift; or, The Fool in Fashion",
+        "Love's Sacrifice",
+        "Love-Letters Between a Nobleman and His Sister",
+        "Lucasta",
+        "Lucius Junius Brutus, Father of His Country",
+        "Lycidas",
+        "Mac Flecknoe",
+        "Marriage à la Mode",
+        "Memoirs of the Life of Colonel Hutchinson",
+        "Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses",
+        "Milton's Sonnets",
+        "Miscellaneous Thoughts and Posthumous Works of Samuel Butler",
+        "New Experiments Physico-Mechanical, Touching the Spring of the Air",
+        "Observations upon Experimental Philosophy",
+        "Observations upon the United Provinces of the Netherlands",
+        "Of Ancient and Modern Learning",
+        "Of Education",
+        "Olor Iscanus",
+        "On the Morning of Christ's Nativity",
+        "Order and Disorder; or, The World Made and Undone",
+        "Oroonoko (Southerne's adaptation)",
+        "Oroonoko; or, The Royal Slave (Behn)",
+        "Paradise Lost",
+        "Paradise Regained",
+        "Perkin Warbeck",
+        "Pindarique Odes",
+        "Plays, Never Before Printed (Cavendish)",
+        "Poems by the Most Deservedly Admired Mrs Katherine Philips",
+        "Poems on Several Occasions (Rochester)",
+        "Poems upon Several Occasions with a Voyage to the Island of Love (Behn)",
+        "Pompey (a translation of Corneille)",
+        "Pseudodoxia Epidemica; or, Enquiries into Very Many Received Tenets",
+        "Religio Laici",
+        "Religio Medici",
+        "Roman Forgeries",
+        "Salmacida Spolia",
+        "Samson Agonistes",
+        "Sermons upon Several Occasions (Tillotson)",
+        "She Would if She Could",
+        "Silex Scintillans",
+        "Some Reflections upon Marriage, Occasion'd by the Duke and Duchess of Mazarine's Case",
+        "Some Thoughts Concerning Education",
+        "Songs and Poems of Charles Sackville, Earl of Dorset",
+        "Sophonisba; or, Hannibal's Overthrow",
+        "Steps to the Temple",
+        "Sylva; or, A Discourse of Forest-Trees and the Propagation of Timber",
+        "The Antipodes",
+        "The Beaux' Stratagem",
+        "The Broken Heart",
+        "The Cardinal",
+        "The Changes",
+        "The City Madam",
+        "The City Mouse and Country Mouse",
+        "The Comical Revenge; or, Love in a Tub",
+        "The Commonwealth of Oceana",
+        "The Compleat Angler; or, The Contemplative Man's Recreation",
+        "The Conquest of Granada",
+        "The Constant Couple; or, A Trip to the Jubilee",
+        "The Country Wife",
+        "The Covent Garden Weeded",
+        "The Description of a New World, Called The Blazing-World",
+        "The Diary of John Evelyn",
+        "The Diary of Samuel Pepys",
+        "The Discovery of a World in the Moone; or, A Discourse Tending to Prove That 'Tis Probable There May Be Another Habitable World in That Planet",
+        "The Doctrine and Discipline of Divorce",
+        "The Double Dealer",
+        "The Elements of Law, Natural and Politic",
+        "The Fair Jilt; or, The Amours of Prince Tarquin and Sister Henrietta",
+        "The Fatal Marriage; or, The Innocent Adultery",
+        "The Forc'd Marriage; or, A Night's Intrigue",
+        "The Garden",
+        "The Garden of Cyrus",
+        "The Gentleman Dancing-Master",
+        "The Hind and the Panther",
+        "The History of the Reformation of the Church of England",
+        "The History of the Royal-Society of London for Improving of Natural Knowledge",
+        "The History of the Worthies of England",
+        "The Holy State and the Profane State",
+        "The Holy War Made by Shaddai upon Diabolus, for the Regaining of the Metropolis of the World",
+        "The Indian Queen",
+        "The Lady of Pleasure",
+        "The Lady's Trial",
+        "The Law of Freedom in a Platform; or, True Magistracy Restored",
+        "The Life and Death of Mr. Badman",
+        "The Magnetic Lady; or, Humours Reconciled",
+        "The Maid of Honour",
+        "The Man of Mode; or, Sir Fopling Flutter",
+        "The Medal",
+        "The Mistress",
+        "The Mourning Bride",
+        "The New Law of Righteousness",
+        "The Northern Lass",
+        "The Old Bachelor",
+        "The Orphan; or, The Unhappy Marriage",
+        "The Pilgrim's Progress from This World to That Which Is to Come (Part I)",
+        "The Pilgrim's Progress from This World to That Which Is to Come (Part II)",
+        "The Plain Dealer",
+        "The Platonic Lovers",
+        "The Playhouse to Be Let",
+        "The Principles of the Most Ancient and Modern Philosophy",
+        "The Provoked Wife",
+        "The Ready and Easy Way to Establish a Free Commonwealth",
+        "The Reasonableness of Christianity, as Delivered in the Scriptures",
+        "The Recruiting Officer",
+        "The Rehearsal Transpros'd",
+        "The Relapse; or, Virtue in Danger",
+        "The Rival Queens; or, The Death of Alexander the Great",
+        "The Roman Actor",
+        "The Rover, Part II",
+        "The Rover; or, The Banish'd Cavaliers",
+        "The Rule and Exercises of Holy Dying",
+        "The Rule and Exercises of Holy Living",
+        "The Satires of Decimus Junius Juvenalis and Aulus Persius Flaccus",
+        "The Sceptical Chymist",
+        "The Siege of Rhodes",
+        "The Sophy",
+        "The Sparagus Garden",
+        "The Spleen",
+        "The Squire of Alsatia",
+        "The Staple of News",
+        "The Tempest; or, The Enchanted Island",
+        "The Temple",
+        "The Tenth Muse Lately Sprung Up in America",
+        "The Tenure of Kings and Magistrates",
+        "The Traitor",
+        "The True Intellectual System of the Universe",
+        "The Unnatural Combat",
+        "The Vanity of Dogmatizing; or, Confidence in Philosophy",
+        "The Virtuoso",
+        "The Way of the World",
+        "The Wedding",
+        "The Widow Ranter; or, The History of Bacon in Virginia",
+        "The Wild Gallant",
+        "The Works of Virgil Translated into English Verse",
+        "Threnodia Augustalis",
+        "To His Coy Mistress",
+        "To the Memory of Mr. Oldham",
+        "Translation of Lucretius, De Rerum Natura (Hutchinson)",
+        "Two Treatises of Government",
+        "Upon Appleton House",
+        "Venice Preserv'd; or, A Plot Discover'd",
+        "Waller's Poems"
+      ]
+    }
+  ],
+  "work_genres": [
+    {
+      "work": "The Wedding",
+      "genres": [
+        "Comedy",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "work": "The Changes",
+      "genres": [
+        "Comedy",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "work": "Hyde Park",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Lady of Pleasure",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Antipodes",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "work": "The Traitor",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Cardinal",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "'Tis Pity She's a Whore",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Broken Heart",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Love's Sacrifice",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Perkin Warbeck",
+      "genres": [
+        "History Play",
+        "History and Chronicle"
+      ]
+    },
+    {
+      "work": "The Lady's Trial",
+      "genres": [
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "The Northern Lass",
+      "genres": [
+        "Comedy",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "work": "A Jovial Crew",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Sparagus Garden",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Covent Garden Weeded",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Love and Honour",
+      "genres": [
+        "Heroic Play",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "The Platonic Lovers",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "Salmacida Spolia",
+      "genres": [
+        "Court Masque"
+      ]
+    },
+    {
+      "work": "The Siege of Rhodes",
+      "genres": [
+        "Dramatic Opera and Semi-Opera",
+        "Heroic Play"
+      ]
+    },
+    {
+      "work": "The Playhouse to Be Let",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Roman Actor",
+      "genres": [
+        "Closet Drama",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The City Madam",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Believe as You List",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Maid of Honour",
+      "genres": [
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "The Unnatural Combat",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Staple of News",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Magnetic Lady; or, Humours Reconciled",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "An Horatian Ode upon Cromwell's Return from Ireland",
+      "genres": [
+        "Pindaric Ode",
+        "Political Verse"
+      ]
+    },
+    {
+      "work": "Upon Appleton House",
+      "genres": [
+        "Pastoral Poetry",
+        "Pindaric Ode"
+      ]
+    },
+    {
+      "work": "To His Coy Mistress",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "work": "The Garden",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "work": "The Rehearsal Transpros'd",
+      "genres": [
+        "Complaint and Satire",
+        "Prose",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "An Account of the Growth of Popery and Arbitrary Government in England",
+      "genres": [
+        "Political Treatise",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "Lucasta",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "work": "Coelum Britannicum",
+      "genres": [
+        "Court Masque",
+        "Mock-Heroic and Verse Satire"
+      ]
+    },
+    {
+      "work": "Carew's Poems",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "work": "Aglaura",
+      "genres": [
+        "Closet Drama",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Fragmenta Aurea",
+      "genres": [
+        "Cavalier Lyric",
+        "Closet Drama"
+      ]
+    },
+    {
+      "work": "Waller's Poems",
+      "genres": [
+        "Cavalier Lyric",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "work": "Cooper's Hill",
+      "genres": [
+        "Pastoral Poetry",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Sophy",
+      "genres": [
+        "Heroic Epic",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "Hesperides",
+      "genres": [
+        "Cavalier Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Poems by the Most Deservedly Admired Mrs Katherine Philips",
+      "genres": [
+        "Cavalier Lyric",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "work": "Pompey (a translation of Corneille)",
+      "genres": [
+        "Tragedy",
+        "Translation"
+      ]
+    },
+    {
+      "work": "The Tenth Muse Lately Sprung Up in America",
+      "genres": [
+        "Poetry",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Contemplations",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Emblems",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Poetry",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "A Nocturnal Reverie",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "work": "The Spleen",
+      "genres": [
+        "Cavalier Lyric",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "work": "The City Mouse and Country Mouse",
+      "genres": [
+        "Mock-Heroic and Verse Satire"
+      ]
+    },
+    {
+      "work": "The Temple",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "A Priest to the Temple",
+      "genres": [
+        "Courtesy Book and Household Manual",
+        "Devotional and Mystical Writing",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Silex Scintillans",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Olor Iscanus",
+      "genres": [
+        "Cavalier Lyric",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "Steps to the Temple",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Carmen Deo Nostro",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Centuries of Thankfulness",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Roman Forgeries",
+      "genres": [
+        "Metaphysical and Devotional Lyric",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "Davideis",
+      "genres": [
+        "Pindaric Ode",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "work": "Pindarique Odes",
+      "genres": [
+        "Pindaric Ode",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Mistress",
+      "genres": [
+        "Cavalier Lyric",
+        "Sonnet Sequence"
+      ]
+    },
+    {
+      "work": "Essays in Verse and Prose",
+      "genres": [
+        "Essay",
+        "Prose",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "work": "On the Morning of Christ's Nativity",
+      "genres": [
+        "Poetry",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "work": "L'Allegro and Il Penseroso",
+      "genres": [
+        "Pastoral Poetry",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "Comus (A Masque Presented at Ludlow Castle)",
+      "genres": [
+        "Closet Drama",
+        "Court Masque"
+      ]
+    },
+    {
+      "work": "Lycidas",
+      "genres": [
+        "Elegy",
+        "Pastoral Poetry"
+      ]
+    },
+    {
+      "work": "Milton's Sonnets",
+      "genres": [
+        "English Sonnet",
+        "Political Verse",
+        "Sonnet Sequence"
+      ]
+    },
+    {
+      "work": "Paradise Lost",
+      "genres": [
+        "Heroic Epic",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "work": "Paradise Regained",
+      "genres": [
+        "Heroic Epic",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "work": "Samson Agonistes",
+      "genres": [
+        "Closet Drama",
+        "Religious Narrative Poetry",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Areopagitica",
+      "genres": [
+        "Political Treatise",
+        "Prose",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "The Doctrine and Discipline of Divorce",
+      "genres": [
+        "Prose",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "Of Education",
+      "genres": [
+        "Humanist Educational Treatise",
+        "Prose"
+      ]
+    },
+    {
+      "work": "The Tenure of Kings and Magistrates",
+      "genres": [
+        "Political Treatise",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Eikonoklastes",
+      "genres": [
+        "Political Treatise",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Defensio Pro Populo Anglicano",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "The Ready and Easy Way to Establish a Free Commonwealth",
+      "genres": [
+        "Political Treatise",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Religio Medici",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Essay"
+      ]
+    },
+    {
+      "work": "Pseudodoxia Epidemica; or, Enquiries into Very Many Received Tenets",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "Hydriotaphia; or, Urn-Burial",
+      "genres": [
+        "Essay",
+        "History and Chronicle"
+      ]
+    },
+    {
+      "work": "The Garden of Cyrus",
+      "genres": [
+        "Essay",
+        "Medical and Scientific Writing"
+      ]
+    },
+    {
+      "work": "Christian Morals",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Prose"
+      ]
+    },
+    {
+      "work": "The Compleat Angler; or, The Contemplative Man's Recreation",
+      "genres": [
+        "Courtesy Book and Household Manual",
+        "Essay",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Lives (Walton)",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Prose Biography"
+      ]
+    },
+    {
+      "work": "The Rule and Exercises of Holy Living",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Homily (Sermon)"
+      ]
+    },
+    {
+      "work": "The Rule and Exercises of Holy Dying",
+      "genres": [
+        "Devotional and Mystical Writing"
+      ]
+    },
+    {
+      "work": "The Holy State and the Profane State",
+      "genres": [
+        "Character Writing",
+        "Devotional and Mystical Writing",
+        "Prose"
+      ]
+    },
+    {
+      "work": "The History of the Worthies of England",
+      "genres": [
+        "History and Chronicle",
+        "Prose Biography"
+      ]
+    },
+    {
+      "work": "Brief Lives",
+      "genres": [
+        "Character Writing",
+        "Prose Biography"
+      ]
+    },
+    {
+      "work": "Letters from Dorothy Osborne to Sir William Temple",
+      "genres": [
+        "Letters"
+      ]
+    },
+    {
+      "work": "Observations upon the United Provinces of the Netherlands",
+      "genres": [
+        "History and Chronicle",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "Of Ancient and Modern Learning",
+      "genres": [
+        "Essay"
+      ]
+    },
+    {
+      "work": "The Diary of Samuel Pepys",
+      "genres": [
+        "Diary and Journal",
+        "Letters"
+      ]
+    },
+    {
+      "work": "The Diary of John Evelyn",
+      "genres": [
+        "Diary and Journal",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "work": "Sylva; or, A Discourse of Forest-Trees and the Propagation of Timber",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Prose"
+      ]
+    },
+    {
+      "work": "Memoirs of the Life of Colonel Hutchinson",
+      "genres": [
+        "Prose Biography",
+        "Spiritual Autobiography"
+      ]
+    },
+    {
+      "work": "Order and Disorder; or, The World Made and Undone",
+      "genres": [
+        "Heroic Epic",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "work": "Translation of Lucretius, De Rerum Natura (Hutchinson)",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Translation"
+      ]
+    },
+    {
+      "work": "Grace Abounding to the Chief of Sinners",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Spiritual Autobiography"
+      ]
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part I)",
+      "genres": [
+        "Dream Vision",
+        "Prose",
+        "Vision Literature"
+      ]
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part II)",
+      "genres": [
+        "Dream Vision",
+        "Prose",
+        "Vision Literature"
+      ]
+    },
+    {
+      "work": "The Life and Death of Mr. Badman",
+      "genres": [
+        "Prose",
+        "Prose Fiction and the Early Novel"
+      ]
+    },
+    {
+      "work": "The Holy War Made by Shaddai upon Diabolus, for the Regaining of the Metropolis of the World",
+      "genres": [
+        "Prose",
+        "Vision Literature"
+      ]
+    },
+    {
+      "work": "The Old Bachelor",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Double Dealer",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "Love for Love",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Mourning Bride",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Way of the World",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Orphan; or, The Unhappy Marriage",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Caius Marius",
+      "genres": [
+        "History Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Venice Preserv'd; or, A Plot Discover'd",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Forc'd Marriage; or, A Night's Intrigue",
+      "genres": [
+        "Heroic Play",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "The Rover; or, The Banish'd Cavaliers",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Rover, Part II",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "Abdelazer; or, The Moor's Revenge",
+      "genres": [
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Widow Ranter; or, The History of Bacon in Virginia",
+      "genres": [
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "Love-Letters Between a Nobleman and His Sister",
+      "genres": [
+        "Letters",
+        "Prose Fiction and the Early Novel"
+      ]
+    },
+    {
+      "work": "Oroonoko; or, The Royal Slave (Behn)",
+      "genres": [
+        "Prose Fiction and the Early Novel"
+      ]
+    },
+    {
+      "work": "The Fair Jilt; or, The Amours of Prince Tarquin and Sister Henrietta",
+      "genres": [
+        "Prose Fiction and the Early Novel"
+      ]
+    },
+    {
+      "work": "Poems upon Several Occasions with a Voyage to the Island of Love (Behn)",
+      "genres": [
+        "Cavalier Lyric",
+        "Pindaric Ode",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "The Fatal Marriage; or, The Innocent Adultery",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Oroonoko (Southerne's adaptation)",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "The Relapse; or, Virtue in Danger",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Provoked Wife",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "Love and a Bottle",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Constant Couple; or, A Trip to the Jubilee",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Recruiting Officer",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Beaux' Stratagem",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "Love's Last Shift; or, The Fool in Fashion",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Wild Gallant",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Indian Queen",
+      "genres": [
+        "Court Masque",
+        "Heroic Play"
+      ]
+    },
+    {
+      "work": "An Essay of Dramatic Poesy",
+      "genres": [
+        "Essay"
+      ]
+    },
+    {
+      "work": "The Tempest; or, The Enchanted Island",
+      "genres": [
+        "Comedy",
+        "Dramatic Opera and Semi-Opera"
+      ]
+    },
+    {
+      "work": "The Conquest of Granada",
+      "genres": [
+        "Heroic Play"
+      ]
+    },
+    {
+      "work": "Marriage à la Mode",
+      "genres": [
+        "Comedy",
+        "Heroic Play"
+      ]
+    },
+    {
+      "work": "Aureng-zebe; or, The Great Mogul",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "All for Love; or, The World Well Lost",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Don Sebastian, King of Portugal",
+      "genres": [
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "King Arthur; or, The British Worthy",
+      "genres": [
+        "Dramatic Opera and Semi-Opera",
+        "Heroic Play"
+      ]
+    },
+    {
+      "work": "The Comical Revenge; or, Love in a Tub",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "She Would if She Could",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Man of Mode; or, Sir Fopling Flutter",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "Love in a Wood; or, St. James's Park",
+      "genres": [
+        "Comedy",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "work": "The Gentleman Dancing-Master",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Country Wife",
+      "genres": [
+        "City Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "The Plain Dealer",
+      "genres": [
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "work": "Epsom Wells",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Virtuoso",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Squire of Alsatia",
+      "genres": [
+        "City Comedy",
+        "Comedy"
+      ]
+    },
+    {
+      "work": "The Rival Queens; or, The Death of Alexander the Great",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Sophonisba; or, Hannibal's Overthrow",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Lucius Junius Brutus, Father of His Country",
+      "genres": [
+        "Heroic Play",
+        "Tragedy"
+      ]
+    },
+    {
+      "work": "Astraea Redux",
+      "genres": [
+        "Political Verse"
+      ]
+    },
+    {
+      "work": "Annus Mirabilis",
+      "genres": [
+        "Heroic Epic",
+        "Political Verse"
+      ]
+    },
+    {
+      "work": "Absalom and Achitophel",
+      "genres": [
+        "Mock-Heroic and Verse Satire",
+        "Political Verse"
+      ]
+    },
+    {
+      "work": "Absalom and Achitophel, Part II",
+      "genres": [
+        "Mock-Heroic and Verse Satire",
+        "Political Verse"
+      ]
+    },
+    {
+      "work": "Mac Flecknoe",
+      "genres": [
+        "Mock-Heroic and Verse Satire"
+      ]
+    },
+    {
+      "work": "The Medal",
+      "genres": [
+        "Mock-Heroic and Verse Satire",
+        "Political Verse"
+      ]
+    },
+    {
+      "work": "Religio Laici",
+      "genres": [
+        "Poetry",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "The Hind and the Panther",
+      "genres": [
+        "Poetry",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "To the Memory of Mr. Oldham",
+      "genres": [
+        "Elegy"
+      ]
+    },
+    {
+      "work": "Threnodia Augustalis",
+      "genres": [
+        "Pindaric Ode",
+        "Political Verse"
+      ]
+    },
+    {
+      "work": "A Song for St. Cecilia's Day, 1687",
+      "genres": [
+        "Pindaric Ode"
+      ]
+    },
+    {
+      "work": "Alexander's Feast; or, The Power of Music",
+      "genres": [
+        "Pindaric Ode"
+      ]
+    },
+    {
+      "work": "Eleonora: A Panegyrical Dedication",
+      "genres": [
+        "Character Writing",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "Fables Ancient and Modern",
+      "genres": [
+        "Complaint and Satire",
+        "Translation"
+      ]
+    },
+    {
+      "work": "The Works of Virgil Translated into English Verse",
+      "genres": [
+        "Heroic Epic",
+        "Translation"
+      ]
+    },
+    {
+      "work": "The Satires of Decimus Junius Juvenalis and Aulus Persius Flaccus",
+      "genres": [
+        "Complaint and Satire",
+        "Translation"
+      ]
+    },
+    {
+      "work": "Hudibras",
+      "genres": [
+        "Mock-Heroic and Verse Satire",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "work": "Miscellaneous Thoughts and Posthumous Works of Samuel Butler",
+      "genres": [
+        "Character Writing",
+        "Mock-Heroic and Verse Satire",
+        "Poetry"
+      ]
+    },
+    {
+      "work": "A Satire Against Reason and Mankind",
+      "genres": [
+        "Mock-Heroic and Verse Satire",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "Poems on Several Occasions (Rochester)",
+      "genres": [
+        "Cavalier Lyric",
+        "Mock-Heroic and Verse Satire"
+      ]
+    },
+    {
+      "work": "Songs and Poems of Charles Sackville, Earl of Dorset",
+      "genres": [
+        "Cavalier Lyric"
+      ]
+    },
+    {
+      "work": "Leviathan; or, The Matter, Forme, and Power of a Common-Wealth Ecclesiasticall and Civill",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "De Cive",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "The Elements of Law, Natural and Politic",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "Behemoth; or, The Long Parliament",
+      "genres": [
+        "History and Chronicle",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "An Essay Concerning Human Understanding",
+      "genres": [
+        "Essay",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "Two Treatises of Government",
+      "genres": [
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "A Letter Concerning Toleration",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "Some Thoughts Concerning Education",
+      "genres": [
+        "Essay",
+        "Humanist Educational Treatise"
+      ]
+    },
+    {
+      "work": "The Reasonableness of Christianity, as Delivered in the Scriptures",
+      "genres": [
+        "Philosophy and Scholastic Writing",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "The Sceptical Chymist",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "New Experiments Physico-Mechanical, Touching the Spring of the Air",
+      "genres": [
+        "Medical and Scientific Writing"
+      ]
+    },
+    {
+      "work": "The Description of a New World, Called The Blazing-World",
+      "genres": [
+        "Humanist Dialogue and Utopian Fiction",
+        "Prose Fiction and the Early Novel"
+      ]
+    },
+    {
+      "work": "Observations upon Experimental Philosophy",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "Plays, Never Before Printed (Cavendish)",
+      "genres": [
+        "Closet Drama",
+        "Comedy",
+        "Tragicomedy"
+      ]
+    },
+    {
+      "work": "The Principles of the Most Ancient and Modern Philosophy",
+      "genres": [
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "A Serious Proposal to the Ladies, for the Advancement of Their True and Greatest Interest",
+      "genres": [
+        "Essay",
+        "Humanist Educational Treatise"
+      ]
+    },
+    {
+      "work": "Some Reflections upon Marriage, Occasion'd by the Duke and Duchess of Mazarine's Case",
+      "genres": [
+        "Essay"
+      ]
+    },
+    {
+      "work": "The Vanity of Dogmatizing; or, Confidence in Philosophy",
+      "genres": [
+        "Essay",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "The Discovery of a World in the Moone; or, A Discourse Tending to Prove That 'Tis Probable There May Be Another Habitable World in That Planet",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "An Essay towards a Real Character and a Philosophical Language",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "The History of the Royal-Society of London for Improving of Natural Knowledge",
+      "genres": [
+        "Essay",
+        "History and Chronicle",
+        "Medical and Scientific Writing"
+      ]
+    },
+    {
+      "work": "Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses",
+      "genres": [
+        "Medical and Scientific Writing"
+      ]
+    },
+    {
+      "work": "Enthusiasmus Triumphatus; or, A Brief Account of the Nature, Causes, Kinds, and Cure of Enthusiasm",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "The True Intellectual System of the Universe",
+      "genres": [
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "work": "The Commonwealth of Oceana",
+      "genres": [
+        "Humanist Dialogue and Utopian Fiction",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "The Law of Freedom in a Platform; or, True Magistracy Restored",
+      "genres": [
+        "Humanist Dialogue and Utopian Fiction",
+        "Political Treatise"
+      ]
+    },
+    {
+      "work": "The New Law of Righteousness",
+      "genres": [
+        "Political Treatise",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "England's Birth-Right Justified",
+      "genres": [
+        "Political Treatise",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "Sermons upon Several Occasions (Tillotson)",
+      "genres": [
+        "Homily (Sermon)"
+      ]
+    },
+    {
+      "work": "The History of the Reformation of the Church of England",
+      "genres": [
+        "History and Chronicle",
+        "Reformation Polemic and Controversy"
+      ]
+    },
+    {
+      "work": "Bishop Burnet's History of His Own Time",
+      "genres": [
+        "History and Chronicle",
+        "Prose Biography"
+      ]
+    }
+  ],
+  "work_themes": [
+    {
+      "work": "The Wedding",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "The Changes",
+      "themes": [
+        "Fortune and mutability",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Hyde Park",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "The Lady of Pleasure",
+      "themes": [
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "The Antipodes",
+      "themes": [
+        "Monsters and the marvellous",
+        "The public theatre and the players' world",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Traitor",
+      "themes": [
+        "Ambition and the overreacher",
+        "Revenge and justice",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Cardinal",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Marriage and women's conduct",
+        "Revenge and justice",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "'Tis Pity She's a Whore",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "The Broken Heart",
+      "themes": [
+        "Chivalry and knighthood",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Love's Sacrifice",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "Perkin Warbeck",
+      "themes": [
+        "Kingship and good rule",
+        "Loyalty and the comitatus bond",
+        "National identity and Englishness",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Lady's Trial",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Marriage and women's conduct",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "The Northern Lass",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Social satire and estates criticism",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "work": "A Jovial Crew",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Social satire and estates criticism",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "The Sparagus Garden",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "The Covent Garden Weeded",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Marriage and women's conduct",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "Love and Honour",
+      "themes": [
+        "Chivalry and knighthood",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "The Platonic Lovers",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Divine love and holy desire",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Salmacida Spolia",
+      "themes": [
+        "Kingship and good rule",
+        "National identity and Englishness",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "The Siege of Rhodes",
+      "themes": [
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Religious persecution and martyrdom",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "work": "The Playhouse to Be Let",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The public theatre and the players' world"
+      ]
+    },
+    {
+      "work": "The Roman Actor",
+      "themes": [
+        "Kingship and good rule",
+        "The public theatre and the players' world",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The City Madam",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Marriage and women's conduct",
+        "Social satire and estates criticism",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "Believe as You List",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Kingship and good rule",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Maid of Honour",
+      "themes": [
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "The Unnatural Combat",
+      "themes": [
+        "Blood-feud, vengeance, and kinship",
+        "Death, the soul, and the afterlife",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "The Staple of News",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "work": "The Magnetic Lady; or, Humours Reconciled",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Melancholy and self-analysis",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "An Horatian Ode upon Cromwell's Return from Ireland",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Heroism and the heroic code",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "Upon Appleton House",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Country retirement and the estate poem",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "work": "To His Coy Mistress",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Love, constancy, and betrayal",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "The Garden",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Country retirement and the estate poem",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "The Rehearsal Transpros'd",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "work": "An Account of the Growth of Popery and Arbitrary Government in England",
+      "themes": [
+        "Liberty of conscience and religious toleration",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Lucasta",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Civil War, regicide, and the trial of the king",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond"
+      ]
+    },
+    {
+      "work": "Coelum Britannicum",
+      "themes": [
+        "Courtly service and courtly danger",
+        "Ecclesiastical reform and criticism",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Carew's Poems",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Love, constancy, and betrayal",
+        "Petrarchan desire and the sonnet mistress"
+      ]
+    },
+    {
+      "work": "Aglaura",
+      "themes": [
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "Fragmenta Aurea",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Love, constancy, and betrayal",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Waller's Poems",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Restoration politics: party, succession, and Exclusion",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Cooper's Hill",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Order and degree: the body politic",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "work": "The Sophy",
+      "themes": [
+        "Ambition and the overreacher",
+        "Exile and homelessness",
+        "Fortune and mutability",
+        "Heroism and the heroic code"
+      ]
+    },
+    {
+      "work": "Hesperides",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Country retirement and the estate poem",
+        "Divine love and holy desire",
+        "The English vernacular and national letters",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Poems by the Most Deservedly Admired Mrs Katherine Philips",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Civil War, regicide, and the trial of the king",
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Pompey (a translation of Corneille)",
+      "themes": [
+        "Ambition and the overreacher",
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Tenth Muse Lately Sprung Up in America",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Female authorship and the woman writer"
+      ]
+    },
+    {
+      "work": "Contemplations",
+      "themes": [
+        "Creation and cosmology",
+        "Divine love and holy desire",
+        "Female authorship and the woman writer",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "Emblems",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Penance, confession, and sin",
+        "The contemplative life",
+        "Typology and biblical interpretation"
+      ]
+    },
+    {
+      "work": "A Nocturnal Reverie",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Creation and cosmology",
+        "Female authorship and the woman writer"
+      ]
+    },
+    {
+      "work": "The Spleen",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Melancholy and self-analysis",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "work": "The City Mouse and Country Mouse",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Restoration politics: party, succession, and Exclusion",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "The Temple",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Divine love and holy desire",
+        "Faith, grace, and the pilgrim's journey",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "A Priest to the Temple",
+      "themes": [
+        "Monasticism and the religious life",
+        "Order and degree: the body politic",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "Silex Scintillans",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Divine love and holy desire",
+        "Exile and homelessness",
+        "Faith, grace, and the pilgrim's journey"
+      ]
+    },
+    {
+      "work": "Olor Iscanus",
+      "themes": [
+        "Consolation and endurance",
+        "Country retirement and the estate poem",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Steps to the Temple",
+      "themes": [
+        "Divine love and holy desire",
+        "Penance, confession, and sin",
+        "The Virgin Mary and Marian devotion"
+      ]
+    },
+    {
+      "work": "Carmen Deo Nostro",
+      "themes": [
+        "Divine love and holy desire",
+        "Penance, confession, and sin",
+        "The Passion of Christ"
+      ]
+    },
+    {
+      "work": "Centuries of Thankfulness",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Creation and cosmology",
+        "Divine love and holy desire",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "Roman Forgeries",
+      "themes": [
+        "Divine love and holy desire",
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration"
+      ]
+    },
+    {
+      "work": "Davideis",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Heroism and the heroic code",
+        "Kingship and good rule"
+      ]
+    },
+    {
+      "work": "Pindarique Odes",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Patronage and the literary marketplace",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "The Mistress",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Petrarchan desire and the sonnet mistress"
+      ]
+    },
+    {
+      "work": "Essays in Verse and Prose",
+      "themes": [
+        "Country retirement and the estate poem",
+        "The contemplative life",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "On the Morning of Christ's Nativity",
+      "themes": [
+        "Judgment Day and eschatology",
+        "The Virgin Mary and Marian devotion",
+        "Typology and biblical interpretation"
+      ]
+    },
+    {
+      "work": "L'Allegro and Il Penseroso",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Melancholy and self-analysis",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "Comus (A Masque Presented at Ludlow Castle)",
+      "themes": [
+        "Courtly service and courtly danger",
+        "Wisdom and learning",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "Lycidas",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Religious persecution and martyrdom",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Milton's Sonnets",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Patronage and the literary marketplace"
+      ]
+    },
+    {
+      "work": "Paradise Lost",
+      "themes": [
+        "Ambition and the overreacher",
+        "Creation and cosmology",
+        "Faith, grace, and the pilgrim's journey",
+        "Penance, confession, and sin",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Paradise Regained",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "The Passion of Christ",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Samson Agonistes",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Revenge and justice"
+      ]
+    },
+    {
+      "work": "Areopagitica",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "The English vernacular and national letters",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Doctrine and Discipline of Divorce",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "Of Education",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Tenure of Kings and Magistrates",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Kingship and good rule",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Eikonoklastes",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Kingship and good rule",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Defensio Pro Populo Anglicano",
+      "themes": [
+        "Kingship and good rule",
+        "National identity and Englishness",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Ready and Easy Way to Establish a Free Commonwealth",
+      "themes": [
+        "Kingship and good rule",
+        "Order and degree: the body politic",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "work": "Religio Medici",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Faith, grace, and the pilgrim's journey",
+        "Melancholy and self-analysis",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "Pseudodoxia Epidemica; or, Enquiries into Very Many Received Tenets",
+      "themes": [
+        "Monsters and the marvellous",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Hydriotaphia; or, Urn-Burial",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "The transience of earthly glory (ubi sunt)",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "The Garden of Cyrus",
+      "themes": [
+        "Creation and cosmology",
+        "Monsters and the marvellous",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Christian Morals",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Penance, confession, and sin",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "The Compleat Angler; or, The Contemplative Man's Recreation",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Solitude and the hall community",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "Lives (Walton)",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Monasticism and the religious life",
+        "Patronage and the literary marketplace",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "The Rule and Exercises of Holy Living",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Penance, confession, and sin",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "The Rule and Exercises of Holy Dying",
+      "themes": [
+        "Consolation and endurance",
+        "Death, the soul, and the afterlife",
+        "Judgment Day and eschatology",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "The Holy State and the Profane State",
+      "themes": [
+        "Marriage and women's conduct",
+        "Order and degree: the body politic",
+        "Social satire and estates criticism",
+        "The contemplative life"
+      ]
+    },
+    {
+      "work": "The History of the Worthies of England",
+      "themes": [
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Brief Lives",
+      "themes": [
+        "Melancholy and self-analysis",
+        "Patronage and the literary marketplace",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Letters from Dorothy Osborne to Sir William Temple",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Courtly service and courtly danger",
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal"
+      ]
+    },
+    {
+      "work": "Observations upon the United Provinces of the Netherlands",
+      "themes": [
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "National identity and Englishness",
+        "Order and degree: the body politic"
+      ]
+    },
+    {
+      "work": "Of Ancient and Modern Learning",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "The English vernacular and national letters",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Diary of Samuel Pepys",
+      "themes": [
+        "Medicine, healing, and the body",
+        "Restoration politics: party, succession, and Exclusion",
+        "The city and urban life",
+        "The public theatre and the players' world",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Diary of John Evelyn",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Creation and cosmology",
+        "Restoration politics: party, succession, and Exclusion",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "Sylva; or, A Discourse of Forest-Trees and the Propagation of Timber",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Creation and cosmology",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "Memoirs of the Life of Colonel Hutchinson",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Female authorship and the woman writer",
+        "Kingship and good rule",
+        "Loyalty and the comitatus bond",
+        "Religious persecution and martyrdom"
+      ]
+    },
+    {
+      "work": "Order and Disorder; or, The World Made and Undone",
+      "themes": [
+        "Creation and cosmology",
+        "Faith, grace, and the pilgrim's journey",
+        "Female authorship and the woman writer",
+        "Kingship and good rule",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Translation of Lucretius, De Rerum Natura (Hutchinson)",
+      "themes": [
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Female authorship and the woman writer",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "Grace Abounding to the Chief of Sinners",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Faith, grace, and the pilgrim's journey",
+        "Melancholy and self-analysis",
+        "Penance, confession, and sin",
+        "Religious persecution and martyrdom"
+      ]
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part I)",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Judgment Day and eschatology",
+        "Penance, confession, and sin",
+        "Social satire and estates criticism",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part II)",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Judgment Day and eschatology",
+        "Marriage and women's conduct",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "work": "The Life and Death of Mr. Badman",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Social satire and estates criticism"
+      ]
+    },
+    {
+      "work": "The Holy War Made by Shaddai upon Diabolus, for the Regaining of the Metropolis of the World",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Penance, confession, and sin",
+        "Revenge and justice",
+        "Tyranny and the abuse of power",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "work": "The Old Bachelor",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Double Dealer",
+      "themes": [
+        "Ambition and the overreacher",
+        "Appearance, dissembling, and self-fashioning",
+        "Marriage and women's conduct",
+        "Revenge and justice"
+      ]
+    },
+    {
+      "work": "Love for Love",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Mourning Bride",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Revenge and justice",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Way of the World",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Orphan; or, The Unhappy Marriage",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "Caius Marius",
+      "themes": [
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Venice Preserv'd; or, A Plot Discover'd",
+      "themes": [
+        "Loyalty and the comitatus bond",
+        "Marriage and women's conduct",
+        "Restoration politics: party, succession, and Exclusion",
+        "Revenge and justice",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Forc'd Marriage; or, A Night's Intrigue",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "work": "The Rover; or, The Banish'd Cavaliers",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Rover, Part II",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "The city and urban life",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Abdelazer; or, The Moor's Revenge",
+      "themes": [
+        "Ambition and the overreacher",
+        "Penance, confession, and sin",
+        "Revenge and justice",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Widow Ranter; or, The History of Bacon in Virginia",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Marriage and women's conduct",
+        "Slavery, empire, and the Atlantic world",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Love-Letters Between a Nobleman and His Sister",
+      "themes": [
+        "Exile and homelessness",
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "work": "Oroonoko; or, The Royal Slave (Behn)",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Female authorship and the woman writer",
+        "Heroism and the heroic code",
+        "Loyalty and the comitatus bond",
+        "Slavery, empire, and the Atlantic world",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Fair Jilt; or, The Amours of Prince Tarquin and Sister Henrietta",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Marriage and women's conduct",
+        "Monasticism and the religious life",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "Poems upon Several Occasions with a Voyage to the Island of Love (Behn)",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Fatal Marriage; or, The Innocent Adultery",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin"
+      ]
+    },
+    {
+      "work": "Oroonoko (Southerne's adaptation)",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Heroism and the heroic code",
+        "Loyalty and the comitatus bond",
+        "Slavery, empire, and the Atlantic world"
+      ]
+    },
+    {
+      "work": "The Relapse; or, Virtue in Danger",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Marriage and women's conduct",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Provoked Wife",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Marriage and women's conduct",
+        "Tyranny and the abuse of power",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Love and a Bottle",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "National identity and Englishness",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Constant Couple; or, A Trip to the Jubilee",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Recruiting Officer",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "The city and urban life",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "work": "The Beaux' Stratagem",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "The city and urban life",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Love's Last Shift; or, The Fool in Fashion",
+      "themes": [
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Wild Gallant",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Indian Queen",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "An Essay of Dramatic Poesy",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "The public theatre and the players' world",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Tempest; or, The Enchanted Island",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Love, constancy, and betrayal",
+        "Monsters and the marvellous",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Conquest of Granada",
+      "themes": [
+        "Ambition and the overreacher",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Religious persecution and martyrdom",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "work": "Marriage à la Mode",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "Aureng-zebe; or, The Great Mogul",
+      "themes": [
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Loyalty and the comitatus bond",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "All for Love; or, The World Well Lost",
+      "themes": [
+        "Ambition and the overreacher",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Don Sebastian, King of Portugal",
+      "themes": [
+        "Exile and homelessness",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Penance, confession, and sin",
+        "Religious persecution and martyrdom"
+      ]
+    },
+    {
+      "work": "King Arthur; or, The British Worthy",
+      "themes": [
+        "Arthurian legend",
+        "Heroism and the heroic code",
+        "Monsters and the marvellous",
+        "National identity and Englishness",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "work": "The Comical Revenge; or, Love in a Tub",
+      "themes": [
+        "Courtly service and courtly danger",
+        "Love, constancy, and betrayal",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "She Would if She Could",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Man of Mode; or, Sir Fopling Flutter",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "The city and urban life",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Love in a Wood; or, St. James's Park",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "The city and urban life",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Gentleman Dancing-Master",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "National identity and Englishness"
+      ]
+    },
+    {
+      "work": "The Country Wife",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Marriage and women's conduct",
+        "The city and urban life",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Plain Dealer",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Marriage and women's conduct",
+        "Melancholy and self-analysis",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Epsom Wells",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Social satire and estates criticism",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "The Virtuoso",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "The Squire of Alsatia",
+      "themes": [
+        "Social satire and estates criticism",
+        "The city and urban life",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Rival Queens; or, The Death of Alexander the Great",
+      "themes": [
+        "Ambition and the overreacher",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Sophonisba; or, Hannibal's Overthrow",
+      "themes": [
+        "Chivalry and knighthood",
+        "Heroism and the heroic code",
+        "Love, constancy, and betrayal",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Lucius Junius Brutus, Father of His Country",
+      "themes": [
+        "Kingship and good rule",
+        "Marriage and women's conduct",
+        "Order and degree: the body politic",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Astraea Redux",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Kingship and good rule",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "work": "Annus Mirabilis",
+      "themes": [
+        "Restoration politics: party, succession, and Exclusion",
+        "The New Science and experimental philosophy",
+        "The city and urban life"
+      ]
+    },
+    {
+      "work": "Absalom and Achitophel",
+      "themes": [
+        "Kingship and good rule",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Absalom and Achitophel, Part II",
+      "themes": [
+        "Kingship and good rule",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "work": "Mac Flecknoe",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "Social satire and estates criticism",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "The Medal",
+      "themes": [
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Religio Laici",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "The Hind and the Panther",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "To the Memory of Mr. Oldham",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "Threnodia Augustalis",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Kingship and good rule",
+        "Restoration politics: party, succession, and Exclusion"
+      ]
+    },
+    {
+      "work": "A Song for St. Cecilia's Day, 1687",
+      "themes": [
+        "Creation and cosmology",
+        "Judgment Day and eschatology",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "Alexander's Feast; or, The Power of Music",
+      "themes": [
+        "Ambition and the overreacher",
+        "Fortune and mutability",
+        "Heroism and the heroic code"
+      ]
+    },
+    {
+      "work": "Eleonora: A Panegyrical Dedication",
+      "themes": [
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Fables Ancient and Modern",
+      "themes": [
+        "Fortune and mutability",
+        "The English vernacular and national letters",
+        "Time, death, and immortality through verse"
+      ]
+    },
+    {
+      "work": "The Works of Virgil Translated into English Verse",
+      "themes": [
+        "Creation and cosmology",
+        "Heroism and the heroic code",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "work": "The Satires of Decimus Junius Juvenalis and Aulus Persius Flaccus",
+      "themes": [
+        "Social satire and estates criticism",
+        "The English vernacular and national letters",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Hudibras",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Ecclesiastical reform and criticism",
+        "Social satire and estates criticism",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Miscellaneous Thoughts and Posthumous Works of Samuel Butler",
+      "themes": [
+        "Social satire and estates criticism",
+        "The New Science and experimental philosophy",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "A Satire Against Reason and Mankind",
+      "themes": [
+        "Reason, faith, and the limits of understanding",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Poems on Several Occasions (Rochester)",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Love, constancy, and betrayal",
+        "Restoration politics: party, succession, and Exclusion",
+        "Wit, libertinism, and the rake"
+      ]
+    },
+    {
+      "work": "Songs and Poems of Charles Sackville, Earl of Dorset",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Love, constancy, and betrayal",
+        "Sea voyage and seafaring"
+      ]
+    },
+    {
+      "work": "Leviathan; or, The Matter, Forme, and Power of a Common-Wealth Ecclesiasticall and Civill",
+      "themes": [
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Order and degree: the body politic",
+        "Reason, faith, and the limits of understanding",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "De Cive",
+      "themes": [
+        "Kingship and good rule",
+        "Order and degree: the body politic",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Elements of Law, Natural and Politic",
+      "themes": [
+        "Order and degree: the body politic",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Behemoth; or, The Long Parliament",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Ecclesiastical reform and criticism",
+        "Kingship and good rule",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "An Essay Concerning Human Understanding",
+      "themes": [
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Two Treatises of Government",
+      "themes": [
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Order and degree: the body politic",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "A Letter Concerning Toleration",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "Some Thoughts Concerning Education",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The Reasonableness of Christianity, as Delivered in the Scriptures",
+      "themes": [
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding",
+        "Reformation faith and the authority of scripture"
+      ]
+    },
+    {
+      "work": "The Sceptical Chymist",
+      "themes": [
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "New Experiments Physico-Mechanical, Touching the Spring of the Air",
+      "themes": [
+        "Creation and cosmology",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "The Description of a New World, Called The Blazing-World",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Creation and cosmology",
+        "Female authorship and the woman writer",
+        "Monsters and the marvellous",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "Observations upon Experimental Philosophy",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "Plays, Never Before Printed (Cavendish)",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct"
+      ]
+    },
+    {
+      "work": "The Principles of the Most Ancient and Modern Philosophy",
+      "themes": [
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Female authorship and the woman writer",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "A Serious Proposal to the Ladies, for the Advancement of Their True and Greatest Interest",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Humanist education and the ideal commonwealth",
+        "Marriage and women's conduct",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "Some Reflections upon Marriage, Occasion'd by the Duke and Duchess of Mazarine's Case",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Marriage and women's conduct",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Vanity of Dogmatizing; or, Confidence in Philosophy",
+      "themes": [
+        "Monsters and the marvellous",
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "The Discovery of a World in the Moone; or, A Discourse Tending to Prove That 'Tis Probable There May Be Another Habitable World in That Planet",
+      "themes": [
+        "Creation and cosmology",
+        "Monsters and the marvellous",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "An Essay towards a Real Character and a Philosophical Language",
+      "themes": [
+        "The English vernacular and national letters",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "work": "The History of the Royal-Society of London for Improving of Natural Knowledge",
+      "themes": [
+        "Patronage and the literary marketplace",
+        "The English vernacular and national letters",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses",
+      "themes": [
+        "Creation and cosmology",
+        "Monsters and the marvellous",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "work": "Enthusiasmus Triumphatus; or, A Brief Account of the Nature, Causes, Kinds, and Cure of Enthusiasm",
+      "themes": [
+        "Melancholy and self-analysis",
+        "Reason, faith, and the limits of understanding",
+        "Religious persecution and martyrdom"
+      ]
+    },
+    {
+      "work": "The True Intellectual System of the Universe",
+      "themes": [
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "The Commonwealth of Oceana",
+      "themes": [
+        "Humanist education and the ideal commonwealth",
+        "Kingship and good rule",
+        "Order and degree: the body politic",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The Law of Freedom in a Platform; or, True Magistracy Restored",
+      "themes": [
+        "Liberty of conscience and religious toleration",
+        "Order and degree: the body politic",
+        "Reformation faith and the authority of scripture",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "The New Law of Righteousness",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Order and degree: the body politic",
+        "Religious persecution and martyrdom",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "England's Birth-Right Justified",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Kingship and good rule",
+        "Liberty of conscience and religious toleration",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "work": "Sermons upon Several Occasions (Tillotson)",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding"
+      ]
+    },
+    {
+      "work": "The History of the Reformation of the Church of England",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "National identity and Englishness",
+        "Reformation faith and the authority of scripture",
+        "Religious persecution and martyrdom"
+      ]
+    },
+    {
+      "work": "Bishop Burnet's History of His Own Time",
+      "themes": [
+        "Kingship and good rule",
+        "Religious persecution and martyrdom",
+        "Restoration politics: party, succession, and Exclusion",
+        "Tyranny and the abuse of power"
+      ]
+    }
+  ],
+  "work_movements": [
+    {
+      "work": "The Wedding",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Changes",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Hyde Park",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Lady of Pleasure",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Antipodes",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Traitor",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Cardinal",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "'Tis Pity She's a Whore",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Broken Heart",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Love's Sacrifice",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Perkin Warbeck",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Lady's Trial",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Northern Lass",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "A Jovial Crew",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Sparagus Garden",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Covent Garden Weeded",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Love and Honour",
+      "movements": [
+        "Heroic Drama",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Platonic Lovers",
+      "movements": [
+        "The Cambridge Platonists",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Salmacida Spolia",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Siege of Rhodes",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "Heroic Drama",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Playhouse to Be Let",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Roman Actor",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The City Madam",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Believe as You List",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Maid of Honour",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Unnatural Combat",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Staple of News",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Magnetic Lady; or, Humours Reconciled",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "An Horatian Ode upon Cromwell's Return from Ireland",
+      "movements": [
+        "Cavalier Poetry",
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Upon Appleton House",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "To His Coy Mistress",
+      "movements": [
+        "Cavalier Poetry",
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "The Garden",
+      "movements": [
+        "Cavalier Poetry",
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "The Rehearsal Transpros'd",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "An Account of the Growth of Popery and Arbitrary Government in England",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Lucasta",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Coelum Britannicum",
+      "movements": [
+        "Cavalier Poetry",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Carew's Poems",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Aglaura",
+      "movements": [
+        "Cavalier Poetry",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Fragmenta Aurea",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Waller's Poems",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Cooper's Hill",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "The Sophy",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Hesperides",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Poems by the Most Deservedly Admired Mrs Katherine Philips",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Pompey (a translation of Corneille)",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "The Tenth Muse Lately Sprung Up in America",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Contemplations",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Emblems",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "A Nocturnal Reverie",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "The Spleen",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "The City Mouse and Country Mouse",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "The Temple",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "A Priest to the Temple",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "Silex Scintillans",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Olor Iscanus",
+      "movements": [
+        "Cavalier Poetry",
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Steps to the Temple",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Carmen Deo Nostro",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Centuries of Thankfulness",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Roman Forgeries",
+      "movements": [
+        "Metaphysical Poetry"
+      ]
+    },
+    {
+      "work": "Davideis",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Pindarique Odes",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Mistress",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Essays in Verse and Prose",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Comus (A Masque Presented at Ludlow Castle)",
+      "movements": [
+        "The Caroline Theatre"
+      ]
+    },
+    {
+      "work": "Milton's Sonnets",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Paradise Lost",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Paradise Regained",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Samson Agonistes",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Areopagitica",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Doctrine and Discipline of Divorce",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Of Education",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Tenure of Kings and Magistrates",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Eikonoklastes",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Defensio Pro Populo Anglicano",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Ready and Easy Way to Establish a Free Commonwealth",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Religio Medici",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "Pseudodoxia Epidemica; or, Enquiries into Very Many Received Tenets",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Hydriotaphia; or, Urn-Burial",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "The Garden of Cyrus",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Christian Morals",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Compleat Angler; or, The Contemplative Man's Recreation",
+      "movements": [
+        "Cavalier Poetry",
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Lives (Walton)",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Rule and Exercises of Holy Living",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Rule and Exercises of Holy Dying",
+      "movements": [
+        "Commonwealth and Interregnum Literature",
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Holy State and the Profane State",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The History of the Worthies of England",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Brief Lives",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Letters from Dorothy Osborne to Sir William Temple",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Diary of Samuel Pepys",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Diary of John Evelyn",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Sylva; or, A Discourse of Forest-Trees and the Propagation of Timber",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Memoirs of the Life of Colonel Hutchinson",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Order and Disorder; or, The World Made and Undone",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Translation of Lucretius, De Rerum Natura (Hutchinson)",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Grace Abounding to the Chief of Sinners",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part I)",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Pilgrim's Progress from This World to That Which Is to Come (Part II)",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Life and Death of Mr. Badman",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Holy War Made by Shaddai upon Diabolus, for the Regaining of the Metropolis of the World",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Old Bachelor",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Double Dealer",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Love for Love",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Mourning Bride",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Way of the World",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Orphan; or, The Unhappy Marriage",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Caius Marius",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Venice Preserv'd; or, A Plot Discover'd",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Forc'd Marriage; or, A Night's Intrigue",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Rover; or, The Banish'd Cavaliers",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Rover, Part II",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Abdelazer; or, The Moor's Revenge",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Widow Ranter; or, The History of Bacon in Virginia",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Love-Letters Between a Nobleman and His Sister",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Oroonoko; or, The Royal Slave (Behn)",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Fatal Marriage; or, The Innocent Adultery",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Oroonoko (Southerne's adaptation)",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Relapse; or, Virtue in Danger",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Provoked Wife",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Love and a Bottle",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Constant Couple; or, A Trip to the Jubilee",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Recruiting Officer",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Beaux' Stratagem",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Love's Last Shift; or, The Fool in Fashion",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Wild Gallant",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Indian Queen",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "An Essay of Dramatic Poesy",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Tempest; or, The Enchanted Island",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Conquest of Granada",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Marriage à la Mode",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Aureng-zebe; or, The Great Mogul",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "All for Love; or, The World Well Lost",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Don Sebastian, King of Portugal",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "King Arthur; or, The British Worthy",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Comical Revenge; or, Love in a Tub",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "She Would if She Could",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Man of Mode; or, Sir Fopling Flutter",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Love in a Wood; or, St. James's Park",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Gentleman Dancing-Master",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Country Wife",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Plain Dealer",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Epsom Wells",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Virtuoso",
+      "movements": [
+        "The New Science and the Royal Society",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Squire of Alsatia",
+      "movements": [
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "The Rival Queens; or, The Death of Alexander the Great",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Sophonisba; or, Hannibal's Overthrow",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Lucius Junius Brutus, Father of His Country",
+      "movements": [
+        "Heroic Drama",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "work": "Annus Mirabilis",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Religio Laici",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Hind and the Panther",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "Miscellaneous Thoughts and Posthumous Works of Samuel Butler",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Poems on Several Occasions (Rochester)",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Songs and Poems of Charles Sackville, Earl of Dorset",
+      "movements": [
+        "Cavalier Poetry"
+      ]
+    },
+    {
+      "work": "Leviathan; or, The Matter, Forme, and Power of a Common-Wealth Ecclesiasticall and Civill",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "De Cive",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Elements of Law, Natural and Politic",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "Behemoth; or, The Long Parliament",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "An Essay Concerning Human Understanding",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "A Letter Concerning Toleration",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Reasonableness of Christianity, as Delivered in the Scriptures",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Sceptical Chymist",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "New Experiments Physico-Mechanical, Touching the Spring of the Air",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "The Description of a New World, Called The Blazing-World",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Observations upon Experimental Philosophy",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "The Principles of the Most Ancient and Modern Philosophy",
+      "movements": [
+        "The Cambridge Platonists"
+      ]
+    },
+    {
+      "work": "A Serious Proposal to the Ladies, for the Advancement of Their True and Greatest Interest",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The Vanity of Dogmatizing; or, Confidence in Philosophy",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "The Discovery of a World in the Moone; or, A Discourse Tending to Prove That 'Tis Probable There May Be Another Habitable World in That Planet",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "An Essay towards a Real Character and a Philosophical Language",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "The History of the Royal-Society of London for Improving of Natural Knowledge",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses",
+      "movements": [
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "work": "Enthusiasmus Triumphatus; or, A Brief Account of the Nature, Causes, Kinds, and Cure of Enthusiasm",
+      "movements": [
+        "The Cambridge Platonists"
+      ]
+    },
+    {
+      "work": "The True Intellectual System of the Universe",
+      "movements": [
+        "The Cambridge Platonists"
+      ]
+    },
+    {
+      "work": "The Commonwealth of Oceana",
+      "movements": [
+        "Commonwealth and Interregnum Literature"
+      ]
+    },
+    {
+      "work": "The Law of Freedom in a Platform; or, True Magistracy Restored",
+      "movements": [
+        "Civil War Radicalism: The Levellers and the Diggers"
+      ]
+    },
+    {
+      "work": "The New Law of Righteousness",
+      "movements": [
+        "Civil War Radicalism: The Levellers and the Diggers"
+      ]
+    },
+    {
+      "work": "England's Birth-Right Justified",
+      "movements": [
+        "Civil War Radicalism: The Levellers and the Diggers"
+      ]
+    },
+    {
+      "work": "Sermons upon Several Occasions (Tillotson)",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    },
+    {
+      "work": "The History of the Reformation of the Church of England",
+      "movements": [
+        "The Anglican and Latitudinarian Divines"
+      ]
+    }
+  ]
+}

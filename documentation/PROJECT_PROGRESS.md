@@ -10,11 +10,13 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 - Backups: `database/backups/English_Literature_Master_installment_01.db`,
   `database/backups/English_Literature_Master_installment_02.db`,
   `database/backups/English_Literature_Master_installment_03.db`,
-  `database/backups/English_Literature_Master_installment_04.db`.
+  `database/backups/English_Literature_Master_installment_04.db`,
+  `database/backups/English_Literature_Master_installment_05.db`.
 - Validation reports: `documentation/validation_reports/validation_report_01.md`,
   `documentation/validation_reports/validation_report_02.md`,
   `documentation/validation_reports/validation_report_03.md`,
-  `documentation/validation_reports/validation_report_04.md`.
+  `documentation/validation_reports/validation_report_04.md`,
+  `documentation/validation_reports/validation_report_05.md`.
 
 ## Installment 1 — Old English and Early Medieval Literature (c. 450–1100)
 
@@ -536,7 +538,219 @@ genres, 57 themes, 37 sources. Next installment begins only on instruction.
 
 ---
 
-## Installments 5–10
+## Installment 5 — Caroline, Commonwealth, and Restoration Literature (1625–1700)
+
+**Status: COMPLETE** — 2026-11-04
+
+### Scope
+
+English literature from the personal rule of Charles I through the Revolution
+Settlement (1625–1700). Coverage: Caroline court and private-circle drama after
+the closure of the public theatres; Cavalier and late metaphysical verse; the
+Commonwealth and Interregnum corpus, above all Milton; the radical prose of the
+civil-war decades (Levellers, Diggers, Harringtonian republicanism); the new
+science and the Royal Society; Anglican and Latitudinarian devotional prose;
+diary, letter and memoir writing; the re-opened Restoration stage, the heroic
+drama and the comedy of manners; Restoration and Exclusion Crisis verse satire;
+the first professional woman writers; and the philosophical and political
+treatises of Hobbes and Locke that close the period.
+
+### Records added
+
+| Entity | Added | Cumulative |
+|---|---|---|
+| Authors | 65 | 214 |
+| Works | 205 | 710 |
+| Anonymous works | 0 | 146 |
+| Periods | 1 | 5 |
+| Movements | 10 | 34 |
+| Genres | 12 | 75 |
+| Themes | 12 | 69 |
+| Sources | 15 | 52 |
+| Work–author links | 206 | 556 |
+| Work editions | 351 | 680 |
+| Other relationship rows | 3,421 | 8,573 |
+
+Total relationship rows created for this installment: 3,978 (including the
+206 work–author links and 351 editions).
+
+### Period added (1)
+
+**Caroline, Commonwealth, and Restoration Period** (1625–1700).
+
+### Movements (10 new; 11 linked to the period)
+
+Cavalier Poetry; The Caroline Theatre; Commonwealth and Interregnum Literature;
+The Restoration Theatre; Comedy of Manners; Heroic Drama; The Cambridge
+Platonists; The New Science and the Royal Society; Civil War Radicalism: The
+Levellers and the Diggers; The Anglican and Latitudinarian Divines. The
+existing movement **Metaphysical Poetry** is also linked to the new period, so
+that Herbert, Vaughan, Crashaw and Traherne sit correctly on both sides of
+1625.
+
+### Genres (12)
+
+Cavalier Lyric; Comedy of Manners; Heroic Play; Dramatic Opera and Semi-Opera;
+Closet Drama; Spiritual Autobiography; Diary and Journal; Mock-Heroic and Verse
+Satire; Pindaric Ode; Prose Fiction and the Early Novel; Character Writing;
+Verse Epistle.
+
+### Themes (12)
+
+Civil War, regicide, and the trial of the king; Liberty of conscience and
+religious toleration; Country retirement and the estate poem; Wit, libertinism,
+and the rake; Restoration politics: party, succession, and Exclusion; The New
+Science and experimental philosophy; Carpe diem and the pleasures of the
+present; Female authorship and the woman writer; Slavery, empire, and the
+Atlantic world; Faith, grace, and the pilgrim's journey; The city and urban
+life; Reason, faith, and the limits of understanding.
+
+### Authors (65)
+
+- **Poets (22):** John Milton, John Dryden, George Herbert, Henry Vaughan,
+  Richard Crashaw, Thomas Traherne, Abraham Cowley, Andrew Marvell, Edmund
+  Waller, Richard Lovelace, Thomas Carew, Sir John Suckling, Sir John Denham,
+  Robert Herrick, Samuel Butler, John Wilmot, Earl of Rochester, Charles
+  Sackville, Earl of Dorset, Matthew Prior, Katherine Philips, Anne Finch,
+  Countess of Winchilsea, Anne Bradstreet, Francis Quarles.
+- **Dramatists (15):** James Shirley, John Ford, Richard Brome, Sir William
+  Davenant, William Wycherley, William Congreve, George Etherege, Thomas
+  Shadwell, Thomas Otway, Aphra Behn, Thomas Southerne, John Vanbrugh, George
+  Farquhar, Colley Cibber, Nathaniel Lee.
+- **Prose, divinity, science and philosophy (28):** Sir Thomas Browne, Izaak
+  Walton, Jeremy Taylor, John Bunyan, Thomas Fuller, John Aubrey, Dorothy
+  Osborne, Sir William Temple, Samuel Pepys, John Evelyn, Thomas Hobbes, John
+  Locke, Robert Boyle, Margaret Cavendish, Duchess of Newcastle, Anne Conway,
+  Mary Astell, Joseph Glanvill, John Wilkins, Thomas Sprat, Robert Hooke,
+  Henry More, Ralph Cudworth, James Harrington, Gerrard Winstanley, John
+  Lilburne, John Tillotson, Gilbert Burnet, Lucy Hutchinson.
+
+### Works (205) — summary by group
+
+- **Milton (15):** the early poems (On the Morning of Christ's Nativity,
+  L'Allegro and Il Penseroso, Comus, Lycidas, Milton's Sonnets); the major
+  poems (Paradise Lost, Paradise Regained, Samson Agonistes); and the prose
+  (Areopagitica, The Doctrine and Discipline of Divorce, Of Education, The
+  Tenure of Kings and Magistrates, Eikonoklastes, Defensio Pro Populo
+  Anglicano, The Ready and Easy Way to Establish a Free Commonwealth).
+- **Metaphysical and religious lyric (12):** Herbert's The Temple and A Priest
+  to the Temple; Vaughan's Silex Scintillans, Olor Iscanus and Pindarique
+  Odes; Crashaw's Steps to the Temple, Carmen Deo Nostro and Roman Forgeries;
+  Traherne's Centuries of Thankfulness and Davideis; Cowley's The Mistress and
+  Essays in Verse and Prose.
+- **Cavalier, court and women's verse (23):** Marvell's An Horatian Ode upon
+  Cromwell's Return from Ireland, Upon Appleton House, To His Coy Mistress,
+  The Garden, The Rehearsal Transpros'd and An Account of the Growth of Popery
+  and Arbitrary Government in England; Lovelace's Lucasta; Suckling's Fragmenta
+  Aurea; Carew's Carew's Poems; Waller's Waller's Poems and Cooper's Hill;
+  Denham's The Sophy; Herrick's Hesperides; Katherine Philips's Poems by the
+  Most Deservedly Admired Mrs Katherine Philips; Bradstreet's The Tenth Muse
+  Lately Sprung Up in America and Contemplations; Quarles's Emblems; Finch's A
+  Nocturnal Reverie; Rochester's The Spleen; Prior's The City Mouse and
+  Country Mouse; Philips's Pompey.
+- **Restoration and Exclusion verse (21):** Dryden's Astraea Redux, Annus
+  Mirabilis, Absalom and Achitophel, Absalom and Achitophel Part II, Mac
+  Flecknoe, The Medal, Religio Laici, The Hind and the Panther, To the Memory
+  of Mr. Oldham, Threnodia Augustalis, A Song for St. Cecilia's Day 1687,
+  Alexander's Feast, Eleonora, Fables Ancient and Modern, The Works of Virgil
+  and The Satires of Juvenalis and Persius; Butler's Hudibras and Miscellaneous
+  Thoughts; Rochester's A Satire Against Reason and Mankind and Poems on
+  Several Occasions; Dorset's Songs and Poems.
+- **Caroline and Commonwealth drama (28):** Shirley's The Wedding, The Changes,
+  Hyde Park, The Lady of Pleasure, The Antipodes, The Traitor and The
+  Cardinal; Ford's 'Tis Pity She's a Whore, The Broken Heart, Love's Sacrifice,
+  Perkin Warbeck and The Lady's Trial; Brome's The Northern Lass, A Jovial
+  Crew, The Sparagus Garden and The Covent Garden Weeded; Davenant's Love and
+  Honour, The Platonic Lovers, Salmacida Spolia, The Siege of Rhodes and The
+  Playhouse to Be Let; five late Massinger plays and two late Jonson plays
+  (additive links to the existing authors).
+- **Restoration tragedy, heroic drama and theory (23):** Dryden's The Wild
+  Gallant, The Indian Queen, An Essay of Dramatic Poesy, The Tempest, The
+  Conquest of Granada, Marriage à la Mode, Aureng-zebe, All for Love, Don
+  Sebastian and King Arthur; Etherege's The Comical Revenge, She Would if She
+  Could and The Man of Mode; Wycherley's Love in a Wood, The Gentleman
+  Dancing-Master, The Country Wife and The Plain Dealer; Shadwell's Epsom
+  Wells, The Virtuoso and The Squire of Alsatia; Lee's The Rival Queens,
+  Sophonisba and Lucius Junius Brutus.
+- **Restoration comedy and women's drama (26):** Congreve's The Old Bachelor,
+  The Double Dealer, Love for Love, The Mourning Bride and The Way of the
+  World; Otway's The Orphan, Caius Marius and Venice Preserv'd; Behn's The
+  Forc'd Marriage, The Rover, The Rover Part II, Abdelazer, The Widow Ranter,
+  Love-Letters, Oroonoko, The Fair Jilt and Poems upon Several Occasions;
+  Southerne's The Fatal Marriage and Oroonoko adaptation; Vanbrugh's The
+  Relapse and The Provoked Wife; Farquhar's Love and a Bottle, The Constant
+  Couple, The Recruiting Officer and The Beaux' Stratagem; Cibber's Love's Last
+  Shift.
+- **Prose, diary, letter and life-writing (21):** Browne's Religio Medici,
+  Pseudodoxia Epidemica, Hydriotaphia, The Garden of Cyrus and Christian
+  Morals; Walton's The Compleat Angler and Lives; Taylor's Holy Living and Holy
+  Dying; Fuller's The Holy State and The Worthies of England; Aubrey's Brief
+  Lives; Osborne's Letters; Temple's Observations upon the United Provinces and
+  Of Ancient and Modern Learning; Pepys's Diary; Evelyn's Diary and Sylva;
+  Hutchinson's Memoirs, Order and Disorder and her Lucretius translation.
+- **Philosophy, politics, science and heterodoxy (31):** Hobbes's Leviathan,
+  De Cive, The Elements of Law and Behemoth; Locke's Essay Concerning Human
+  Understanding, Two Treatises of Government, Letter Concerning Toleration,
+  Some Thoughts Concerning Education and The Reasonableness of Christianity;
+  Boyle's The Sceptical Chymist and New Experiments Physico-Mechanical;
+  Cavendish's Blazing-World, Observations upon Experimental Philosophy and
+  Plays; Conway's The Principles; Astell's A Serious Proposal to the Ladies and
+  Some Reflections upon Marriage; Glanvill's The Vanity of Dogmatizing;
+  Wilkins's Discovery of a World in the Moone and Essay towards a Real
+  Character; Sprat's History of the Royal-Society; Hooke's Micrographia;
+  More's Enthusiasmus Triumphatus; Cudworth's The True Intellectual System;
+  Harrington's The Commonwealth of Oceana; Winstanley's The Law of Freedom and
+  The New Law of Righteousness; Lilburne's England's Birth-Right Justified;
+  Tillotson's Sermons; Burnet's History of the Reformation and History of His
+  Own Time.
+- **Bunyan and nonconformist prose (5):** Grace Abounding to the Chief of
+  Sinners; The Pilgrim's Progress Parts I and II; The Life and Death of Mr.
+  Badman; The Holy War.
+
+### Sources (15)
+
+Scholarly editions (Kerrigan/Rumrich/Fallon's Milton, Nigel Smith's Marvell,
+Helen Wilcox's Herbert, Latham/Matthews's Pepys, Malcolm's Hobbes, Keeble's
+Bunyan, Kinsley's Dryden, Patrides's Browne, Janet Todd's Behn); period
+anthologies (Grierson's Metaphysical Lyrics, Kissing the Rod, Norton Volume C);
+and reference works (Cambridge Companions to English Literature 1650–1740, to
+Milton, and to Restoration Drama).
+
+### Validation results
+
+- `PRAGMA integrity_check`: **ok**
+- `PRAGMA foreign_key_check`: **0 violations**
+- Validation script (`validate_database.py --installment 05`): **0 issues**
+- Duplicate check: **0 duplicate groups**
+- Test suite: **14/14 passing** (including idempotent re-import test)
+- Import re-run idempotent: identical counts, no duplicates created
+
+### Attribution notes
+
+Two works are linked to more than one author already in the database: Dryden's
+adaptation of The Tempest (Dryden and Sir William Davenant) and the second part
+of Absalom and Achitophel (Dryden and Tate — Tate is not yet in the database, so
+the collaboration is recorded in `attribution_notes` only). The same rule keeps
+The Indian Queen (Dryden and Sir Robert Howard), 'Tis Pity She's a Whore
+collaborators, the Charles Montagu share in The City Mouse and Country Mouse,
+and Charles Cotton's share in The Compleat Angler inside `attribution_notes`
+rather than as links. Philip Massinger's five late plays and Ben Jonson's two
+Caroline plays are attached additively to the authors created in Installment 4;
+their earlier records are unchanged. No anonymous work in this installment
+carries an author link, and the period-consistency rule (±50 years) accepts the
+1620s Caroline drafts and the 1706–1707 Farquhar comedies within the 1625–1700
+period.
+
+### Confirmation
+
+Master database preserved; installment backup at
+`database/backups/English_Literature_Master_installment_05.db`. Cumulative
+totals: 214 authors, 710 works (146 anonymous), 5 periods, 34 movements, 75
+genres, 69 themes, 52 sources. Next installment begins only on instruction.
+
+---
+
+## Installments 6–10
 
 Not yet begun. Per protocol, the next installment begins only on instruction.
 
@@ -545,6 +759,7 @@ Not yet begun. Per protocol, the next installment begins only on instruction.
 | 2 | Middle English Literature (c. 1100–1500) | Complete |
 | 3 | Renaissance and Early Tudor (c. 1500–1558) | Complete |
 | 4 | Elizabethan and Jacobean (1558–1625) | Complete |
+| 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Pending |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Pending |
 | 7 | Romantic (c. 1789–1832) | Pending |

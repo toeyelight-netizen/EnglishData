@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cavalier Lyric",
+    "description": "The polished, witty, secular song and short poem of the Caroline cavaliers — lyrics of love, friendship, loyalty, and carpe diem in an easy conversational manner, marked by Horatian clarity, classical allusion, and an aristocratic 'careless' grace: Lovelace, Suckling, Carew, Waller, Herrick, Denham.",
+    "historical_development": "Descended from the 'Sons of Ben' and the court lyrics of the early seventeenth century, the Cavalier lyric flourished 1625–1660, was collected in Hesperides (1648) and the posthumous volumes of Lovelace and Carew, and its smooth heroic-couplet and song forms became the model for Restoration and Augustan verse."
+  },
+  {
+    "name": "Comedy of Manners",
+    "description": "The witty prose comedy of fashionable society in which courtship, cuckoldry, and intrigue are conducted through brilliant repartee and a satirical anatomy of manners, affectation, and sexual hypocrisy: Etherege's The Man of Mode, Wycherley's The Country Wife, Congreve's The Way of the World.",
+    "historical_development": "Founded after 1660 on the models of Molière, Jonson's humours comedy, and the intrigue plays of the French and Spanish stage, the genre matured in the 1670s, peaked with Congreve in the 1690s, and declined after 1700 into sentimental comedy before its nineteenth- and twentieth-century revivals (Sheridan, Wilde)."
+  },
+  {
+    "name": "Heroic Play",
+    "description": "The elevated tragedy in rhymed heroic couplets of the early Restoration, in which superhuman heroes debate love and honour against exotic imperial settings, with spectacle and supernatural machinery: Dryden's The Conquest of Granada and Aureng-Zebe, Lee's The Rival Queens, Davenant's Siege of Rhodes.",
+    "historical_development": "Introduced by Davenant and the Howard circle in the 1650s–60s and theorized by Dryden in his Essay of Dramatic Poesy, heroic drama dominated the serious stage 1660–1678, was burlesqued in Buckingham's The Rehearsal (1671), and gave way to blank-verse tragedy and to Otway's and Dryden's All for Love."
+  },
+  {
+    "name": "Dramatic Opera and Semi-Opera",
+    "description": "The Restoration musical-dramatic genre combining spoken drama with sung masques, dances, and spectacular scenic effects, culminating in the through-sung dramatic opera of the 1670s–90s, notably the collaborations of Dryden and Henry Purcell.",
+    "historical_development": "Prepared by Davenant's Siege of Rhodes (1656), often called the first English opera, and by masque tradition, the semi-opera flourished in Dryden and Purcell's King Arthur (1691) and The Indian Queen, reached its height in Purcell's Dido and Aeneas (c. 1689), and declined after 1700 before the Italian opera of Handel."
+  },
+  {
+    "name": "Closet Drama",
+    "description": "Drama written to be read rather than performed, often in classical or Miltonic forms, used during the closure of the theatres and for subjects too learned or too political for the public stage: Milton's Samson Agonistes, Cowley's Davideis scenes, and the classical translations and imitations of the period.",
+    "historical_development": "Rooted in the Senecan and academic drama of the sixteenth century and sustained through the Interregnum when the theatres were closed, closet drama produced Milton's Samson Agonistes (1671) as its greatest English example and remained a vehicle for serious poetry into the nineteenth century."
+  },
+  {
+    "name": "Spiritual Autobiography",
+    "description": "The first-person narrative of religious conversion, the state of the soul, and divine providence in the writer's life, blending testimony, self-examination, and scriptural typology: Bunyan's Grace Abounding to the Chief of Sinners and the Quaker and Puritan testimonies of the Interregnum.",
+    "historical_development": "Derived from Augustine's Confessions, Protestant conversion narrative, and the Puritan examination of conscience, the genre flourished among sectarians during the Interregnum, was perfected in Bunyan's Grace Abounding (1666), and influenced the eighteenth-century memoir and the Methodist conversion account."
+  },
+  {
+    "name": "Diary and Journal",
+    "description": "The private, dated record of daily life, public events, and self-observation, written without intention of publication: Samuel Pepys's Diary and John Evelyn's Diary, the two great seventeenth-century examples, whose candid detail makes them indispensable historical and literary documents.",
+    "historical_development": "Prepared by astrological and account diaries and by travel journals, the modern private diary emerged in the seventeenth century with Pepys (1660–1669) and Evelyn, remained largely unpublished for a century, and became a major literary form in the eighteenth and nineteenth centuries (Boswell, the Romantic journals)."
+  },
+  {
+    "name": "Mock-Heroic and Verse Satire",
+    "description": "Satire in elevated or heroic forms applied to low, absurd, or contemptible subjects, together with the formal verse satire of the Restoration: Butler's Hudibras (burlesque of Puritanism in doggerel), Dryden's Absalom and Achitophel and Mac Flecknoe, and Rochester's libertine satires.",
+    "historical_development": "Building on classical satire (Juvenal, Horace), Renaissance mock-epic, and the Jonsonian tradition, the form was revolutionized by Butler's Hudibras (1663–78) and elevated by Dryden's political satires of the 1680s, becoming the dominant poetic mode of the Augustan age (Pope's The Rape of the Lock, The Dunciad)."
+  },
+  {
+    "name": "Pindaric Ode",
+    "description": "The lofty, irregular ode on the loose English imitation of Pindar, with varied line lengths and stanzas, used for elevated, public, and ambitious subjects: Cowley's Pindarique Odes (1656) established the form, adopted thereafter by Dryden ('Alexander's Feast'), Congreve, and the eighteenth-century ode-writers.",
+    "historical_development": "Introduced to English by Cowley, who mistook Pindar's regular triadic structure for inspired irregularity, the 'Pindaric' became a prestigious vehicle for grand subjects, was used by Dryden in his two great odes, and persisted through the eighteenth century in the odes of Gray and Collins alongside the stricter Horatian ode."
+  },
+  {
+    "name": "Prose Fiction and the Early Novel",
+    "description": "The extended prose narrative that precedes and prepares the eighteenth-century novel — short novels, romances, and framed tales of love, adventure, and social observation: Aphra Behn's Oroonoko (1688), Margaret Cavendish's The Blazing World (1666), and the translations and imitations of the French romance.",
+    "historical_development": "Growing out of romance, the novella (Boccaccio, the French nouvelles), and the picaresque, prose fiction found its first English masterpieces in Cavendish's utopian romance and Behn's Oroonoko, and the form was consolidated in the late seventeenth century before Defoe, Richardson, and Fielding established the novel proper."
+  },
+  {
+    "name": "Character Writing",
+    "description": "The brief prose sketch of a social or moral type, derived from Theophrastus, presenting a generalized portrait of a humours figure ('A Drunkard', 'A Prisoner', 'A Fair and Happy Milk-Maid'): popularized in England by Overbury, Earle, and Butler, and continued into the Restoration.",
+    "historical_development": "Imported from Theophrastus via Casaubon's edition (1592) and La Bruyère's later French revival, the English character book flourished 1608–1680 (Overbury's Characters, Earle's Microcosmographie, Butler's Theophrastus), fed the comedy of humours and the periodical essay, and shaped Addison and Steele's Spectator characters."
+  },
+  {
+    "name": "Verse Epistle",
+    "description": "The poem in the form of a letter to a named recipient, in heroic couplets or familiar verse, used for moral reflection, compliment, satire, and the essayistic treatment of a theme: Denham, Waller, and Cowley in the seventeenth century, and the Horatian epistles of Rochester, Dryden, and Prior.",
+    "historical_development": "Modeled on the verse epistles of Horace and Ovid, the form was cultivated by the Cavalier and Restoration poets for public and private address, theorized within the Horatian ideal of conversational verse, and perfected in the eighteenth-century moral epistles of Pope."
+  }
+]

@@ -446,3 +446,44 @@ Scholarly editions linked to individual works (stored in the
   Edinburgh University Press, 1939); Samuel Daniel: Poems and A Defence of
   Ryme (Arthur Colby Sprague, ed., Routledge and Kegan Paul, 1930); The Works
   of Michael Drayton, 5 vols. (J. W. Hebel, ed., Blackwell, 1941)
+
+## Installment 5 — Caroline, Commonwealth, and Restoration (1625–1700)
+
+### Reference works and surveys
+
+- The Cambridge Companion to English Literature, 1650–1740 (Steven N. Zwicker (ed.), Cambridge University Press, 1998)
+- The Cambridge Companion to Milton, 2nd edition (Dennis Richard Danielson (ed.), Cambridge University Press, 1999)
+- The Cambridge Companion to Restoration Drama (Deborah Payne Fisk (ed.), Cambridge University Press, 2001)
+
+### Anthologies
+
+- Metaphysical Lyrics and Poems of the Seventeenth Century: Donne to Butler (Herbert J. C. Grierson (ed.), Clarendon Press, 1921)
+- Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse (Germaine Greer, Susan Hastings, Jeslyn Medoff, and Melinda Sansone (eds.), Farrar Straus Giroux, 1988)
+- The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century (Stephen Greenblatt (gen. ed.), W. W. Norton, 2018)
+
+### Primary editions
+
+- The Complete Poetry and Essential Prose of John Milton (William Kerrigan, John Rumrich, and Stephen M. Fallon (eds.), Modern Library, 2007)
+- The Poems of Andrew Marvell (Nigel Smith (ed.), Pearson Longman, 2003)
+- The English Poems of George Herbert (Helen Wilcox (ed.), Cambridge University Press, 2007)
+- The Diary of Samuel Pepys (Robert Latham and William Matthews (eds.), Bell & Hyman / University of California Press, 1970)
+- Leviathan: The English and Latin Texts (Noel Malcolm (ed.), Clarendon Press (Clarendon Edition of the Works of Thomas Hobbes), 2012)
+- The Pilgrim's Progress (N. H. Keeble (ed.), Oxford World's Classics, 1984)
+- The Poems and Fables of John Dryden (James Kinsley (ed.), Oxford University Press, 1958)
+- The Major Works of Sir Thomas Browne (C. A. Patrides (ed.), Penguin Classics, 1977)
+- The Works of Aphra Behn (Janet Todd (ed.), William Pickering / Ohio State University Press, 1995)
+
+## Editions recorded in `work_editions` (Installment 5)
+
+- Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse (Germaine Greer, Susan Hastings, Jeslyn Medoff, and Melinda Sansone (eds.), Farrar Straus Giroux, 1988) — 16 work(s)
+- Leviathan: The English and Latin Texts (Noel Malcolm (ed.), Clarendon Press (Clarendon Edition of the Works of Thomas Hobbes), 2012) — 4 work(s)
+- Metaphysical Lyrics and Poems of the Seventeenth Century: Donne to Butler (Herbert J. C. Grierson (ed.), Clarendon Press, 1921) — 57 work(s)
+- The Complete Poetry and Essential Prose of John Milton (William Kerrigan, John Rumrich, and Stephen M. Fallon (eds.), Modern Library, 2007) — 15 work(s)
+- The Diary of Samuel Pepys (Robert Latham and William Matthews (eds.), Bell & Hyman / University of California Press, 1970) — 1 work(s)
+- The English Poems of George Herbert (Helen Wilcox (ed.), Cambridge University Press, 2007) — 2 work(s)
+- The Major Works of Sir Thomas Browne (C. A. Patrides (ed.), Penguin Classics, 1977) — 5 work(s)
+- The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century (Stephen Greenblatt (gen. ed.), W. W. Norton, 2018) — 205 work(s)
+- The Pilgrim's Progress (N. H. Keeble (ed.), Oxford World's Classics, 1984) — 5 work(s)
+- The Poems and Fables of John Dryden (James Kinsley (ed.), Oxford University Press, 1958) — 26 work(s)
+- The Poems of Andrew Marvell (Nigel Smith (ed.), Pearson Longman, 2003) — 6 work(s)
+- The Works of Aphra Behn (Janet Todd (ed.), William Pickering / Ohio State University Press, 1995) — 9 work(s)
