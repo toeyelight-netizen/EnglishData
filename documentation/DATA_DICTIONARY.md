@@ -393,3 +393,102 @@ after 1625.
   are recorded as works of the translator and their co-authorship handled in
   `attribution_notes`.
 
+
+
+---
+
+## Genre additions (Installment 6) — 27
+
+- Periodical Essay and Spectator Paper
+- Augustan Verse Satire
+- Epistolary Fiction
+- Picaresque and Journey Novel
+- Sentimental and Domestic Novel
+- Gothic Novel and Romance of Terror
+- Philosophical Tale and Oriental Fiction
+- Comic and Ballad Opera
+- Domestic and Sentimental Tragedy
+- Theatrical Occasional Verse
+- Meditative Blank Verse
+- Topographical and Descriptive Poetry
+- Hymn and Devotional Song
+- Ballad and Popular Song
+- Fable and Apologue
+- Critical Treatise and Dissertation
+- Moral Philosophy and the Theory of Society
+- Political Economy and Commercial Writing
+- Philosophical and National History
+- Slave Narrative and Abolitionist Testimony
+- Polemic, Pamphlet, and Open Letter
+- Natural and Revealed Theology
+- Lexicography and Philological Writing
+- Memoir and Autobiographical Prose
+- Literary Biography and Prefatory Commentary
+- Anthology, Reliques, and Editorial Collection
+- Conduct, Education, and Domestic Prose
+
+## Theme list (Installment 6) — 22
+
+- The public sphere, print, and the periodical
+- Wit, ridicule, and the war against dullness
+- Sympathy, benevolence, and the moral sense
+- Taste, decorum, and the rules of art
+- Commerce, luxury, and commercial society
+- Liberty, corruption, and the decline of nations
+- Death, mourning, and the graveyard meditation
+- The sublime, terror, and the ruin
+- Primitive genius and national poetry
+- Women's education and intellectual friendship
+- Seduction and the betrayed heroine
+- The slave trade and abolition
+- Enthusiasm and the disease of the imagination
+- Evangelical experience and assurance
+- Rural labour, depopulation, and the deserted village
+- Poverty, dependence, and the professional writer
+- Self-knowledge and the philosophy of the mind
+- Jacobitism, loyalty, and the '45
+- The literature of the nations: Scotland, Ireland, and Wales
+- Progress, decay, and the philosophy of history
+- Politeness, fashion, and the codes of conduct
+- Childhood, innocence, and education
+
+## Periods (Installment 6) — 6 cumulative, 1 new
+
+- Augustan and Eighteenth-Century Period (1700–1789)
+
+## Movements (Installment 6) — 49 cumulative, 15 new
+
+- Abolitionist and Anti-Slavery Writing
+- Augustan Satire and the Scriblerans
+- Garrick and the Regenerated London Theatre
+- Gothic and the Literature of Terror
+- Neoclassical Criticism and the Rules
+- Primitivism, the Bardic Revival and Ossian
+- Sentimentalism and the Culture of Feeling
+- The Bluestockings and Women's Letters
+- The English Enlightenment and Deist Controversy
+- The Evangelical Revival and Hymn Writing
+- The Graveyard School and Preromantic Meditation
+- The Rise of the English Novel
+- The Scottish Enlightenment
+- The Spectator and Periodical Journalism
+- Topographical and Estate Poetry
+
+## original_language (works) — values in use in Installment 6
+
+- `English` — 326 work(s)
+- `Scots` — 11 work(s)
+- `English (rendered from Gaelic)` — 4 work(s)
+- `English (translated from French)` — 3 work(s)
+- `English (translated from Greek)` — 2 work(s)
+- `English (translated from Latin)` — 2 work(s)
+- `English (translated from Norse)` — 2 work(s)
+- `English (translated from Latin and other languages)` — 1 work(s)
+
+## Date fields — convention restated
+
+The five `works` date columns are `VARCHAR(32)` (`composition_date_start`,
+`composition_date_end`, `publication_date`, `first_performance_date`) and
+`VARCHAR(64)` (`manuscript_date`), and `composition_date_circa` is a BOOLEAN.
+Years are therefore stored as **strings**: `"1737"`, or `"c. 1737"` where the
+date is approximate. Integer years are not used anywhere in the corpus.

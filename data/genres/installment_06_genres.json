@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Periodical Essay and Spectator Paper",
+    "description": "The short prose paper written for daily or weekly publication: the club-spectator essay, the character, the letter to the editor, and the moral or critical reflection addressed to a reading public at the breakfast table.",
+    "historical_development": "Created by Steele's Tatler (1709) and Addison's Spectator (1711-12) out of the newsbook and the character writing, imitated by the Female Tatler, Steele's Guardian and Englishman and Addison's Freeholder, and institutionalised in Johnson's Rambler (1750-59), Hawkesworth's and Johnson's Adventurer (1752-54) and Johnson's Idler (1758-60). It survived in the monthly magazines and critical reviews down to the 1780s."
+  },
+  {
+    "name": "Augustan Verse Satire",
+    "description": "Satire written in the heroic couplet on the model of Horace, Juvenal and Persius, directed at individuals, parties, books, taste and public vice.",
+    "historical_development": "Descended from Dryden's political poems, carried through Pope's career to the Horatian Imitations of 1733-38, practised by Swift, by Gay in his Poems on Several Occasions, by Churchill in The Rosciad (1761), and by Johnson in London (1738); it is the verse mode in which the century conducted its public argument."
+  },
+  {
+    "name": "Epistolary Fiction",
+    "description": "Extended prose fiction composed as a correspondence, in which the letters of the characters successively disclose the action and the motives.",
+    "historical_development": "Developed from the printed letter-collection and the familiar-letter manual, pioneered in English translation from the French, made the instrument of moral analysis by Richardson in Pamela (1740) and Clarissa (1748), varied by Lady Mary Wortley Montagu's letters, by Smollett's Humphry Clinker (1771) and by the sentimental letter-novels of the 1760s-70s, and displaced by the narrated novel before 1789."
+  },
+  {
+    "name": "Picaresque and Journey Novel",
+    "description": "Fiction of the road and the open plot, following a low-born or wandering protagonist through a succession of societies, inns, camps and cities.",
+    "historical_development": "Adapted from Le Sage and Spanish precedent, used by Fielding for Joseph Andrews and for the history of Tom Jones, made a vehicle of national and medical satire by Smollett in Roderick Random (1748) and Humphry Clinker (1771), and combined with the tour narrative. It supplies the century's image of British character seen from the highway."
+  },
+  {
+    "name": "Sentimental and Domestic Novel",
+    "description": "Fiction that tests character by the capacity to feel, and locates virtue in the family, the household and the relation of protection.",
+    "historical_development": "Established by Richardson's 'history of private life', theorised in the advertisements and prefaces of the 1750s and 1760s, carried to its fullest expression by Sterne's Sentimental Journey (1768) and Mackenzie's Man of Feeling (1771), answered by Mackenzie's own Man of the World (1772) and by the anti-sentimental novel of the 1780s, and diffused through the conduct and family magazines."
+  },
+  {
+    "name": "Gothic Novel and Romance of Terror",
+    "description": "The revived tale of tyranny, haunted space and pursued virtue, set in castles, abbeys, labyrinths and Mediterranean landscapes.",
+    "historical_development": "Opened by Walpole's Castle of Otranto (1764) with its pretence of an ancient manuscript, refined by Clara Reeve's The Old English Baron (1777), theorised by the debate on terror and the supernatural, and carried to its extreme by the monk and nun stories of the 1780s and by Lewis's The Monk (1796) at the close of the period. Its machinery of found manuscripts and explained terror became the technique of nineteenth-century sensation and ghost writing."
+  },
+  {
+    "name": "Philosophical Tale and Oriental Fiction",
+    "description": "Short framed or travelling fiction written to examine a thesis about providence, knowledge, civilisation or happiness.",
+    "historical_development": "Derived from the vogue for eastern tales set by the English translation of the Thousand and One Nights (1704-17) and from the French philosophic conte, practised in Johnson's Rasselas (1759), in the oriental letter-collections and tales of the mid-century, and in the philosophical fiction of the 1780s."
+  },
+  {
+    "name": "Comic and Ballad Opera",
+    "description": "The musical stage entertainment that sets new or parodied tunes to an original low-life or satirical libretto.",
+    "historical_development": "Created by Gay's Beggar's Opera (1728) as a burlesque of Italian heroic opera, propagated in the ballad operas and afterpieces of the 1730s and 1740s, developed into comic opera with continuous music by Thomas Arne and later by Charles Dibdin and William Shield, and answered by Fielding's political ballad operas and by the theatrical pamphlet war."
+  },
+  {
+    "name": "Domestic and Sentimental Tragedy",
+    "description": "Serious drama of private calamity, bourgeois family life, seduction and moral probation, written to excite sympathetic distress rather than heroic admiration.",
+    "historical_development": "Prepared by Lillo's London Merchant (1731) and the country plays of mid-century, theorised in the dispute between sentimental and laughing comedy, and maintained in the 1770s and 1780s by the plays of Edward Moore, Hugh Kelly, Hannah Cowley and Richard Brinsley Sheridan."
+  },
+  {
+    "name": "Theatrical Occasional Verse",
+    "description": "Prologues, epilogues, dedicatory verses, birthday odes and jubilee entertainments: the poetry the theatre wrote about itself.",
+    "historical_development": "A continuous minor genre from Dryden's dedications through the Drury Lane and Covent Garden prologues of the 1730s and 1740s, Churchill's Rosciad (1761), and David Garrick's Stratford Jubilee (1769), which made the actor and the national poet together the subjects of occasional verse."
+  },
+  {
+    "name": "Meditative Blank Verse",
+    "description": "Long unrhymed reflective poems of night, death, solitude, retirement and the mind's intercourse with itself.",
+    "historical_development": "Formed from the revived Miltonic blank verse, the graveyard meditation and the verse epistle; practised by Young, Gray, Blair, Thomas Gray's imitators and William Mason, and brought to its eighteenth-century perfection by Cowper's The Task (1785) before passing to Wordsworth."
+  },
+  {
+    "name": "Topographical and Descriptive Poetry",
+    "description": "Couplet or blank-verse description of a real landscape, seat, river or prospect, organised as moral, historical and political reflection.",
+    "historical_development": "Inherited from Denham's Cooper's Hill, renewed by the Spectator descriptions and Pope's Windsor Piece (1713), transformed by the natural-history writing and seasonal structure of Thomson's Seasons (1726-30), and continued in the provincial descriptive and estate poems of the 1750s to the 1780s."
+  },
+  {
+    "name": "Hymn and Devotional Song",
+    "description": "Metrically regular verse composed for congregational singing, and the doctrinal or experimental paraphrase of a psalm or text.",
+    "historical_development": "Carried from the metrical psalter and the Nonconformist hymnals of Watts and Doddridge into the Methodist collections of John and Charles Wesley, the Calvinistic hymns of Joseph Hart and John Newton, and the gospel hymnody of the revival, and distinguished from the closet lyric by its plainness and its dependence on tune."
+  },
+  {
+    "name": "Ballad and Popular Song",
+    "description": "The short narrative or lyric stanzaic poem in the popular manner, whether collected from oral and print tradition, edited from relics, or composed as an imitation.",
+    "historical_development": "Recovered by Thomas D'Urfey's Wit and Music, by David Herd's and Walter Scott's Scottish collections and by Bishop Percy's Reliques of Ancient English Poetry (1765); imitated by Gray, Collins and Cowper; set to music in the opera, the catch-club and the tea-table song collection; and made the model for the lyrical ballad of the following decade."
+  },
+  {
+    "name": "Fable and Apologue",
+    "description": "The short moral tale, usually of beasts, with an appended or implied application.",
+    "historical_development": "Reproduced from Aesop, Phaedrus and La Fontaine by Roger L'Estrange and by his successors, made a vehicle of political and social comment by John Gay's Fables of 1727 and 1738, continued by Robert Dodsley's Fables (1764), and settled into the school and children's fable of the late century."
+  },
+  {
+    "name": "Critical Treatise and Dissertation",
+    "description": "Sustained prose criticism: the essay on taste, the disquisition on the sublime, the lecture on rhetoric and belles-lettres, and the scholarly dissertation prefixed to an edition or translation.",
+    "historical_development": "Begun with Rymer's and Dennis's dramatic treatises and Addison's Spectator essays on the pleasures of the imagination and on Milton, continued in Bentley's and Hurd's scholarly dissertations, in the verse treatises of Akenside and of the school, in Henry Home, Lord Kames's Elements of Criticism, in Adam Smith's and Hugh Blair's lectures on rhetoric and belles-lettres, and in the critical prefaces of the 1780s."
+  },
+  {
+    "name": "Moral Philosophy and the Theory of Society",
+    "description": "Systematic and essayistic writing on the principles of morals, the moral sense, sympathy, and the progress of society.",
+    "historical_development": "Begun by the Shaftesburian enquiry into virtue and merit and by the moral-sermon controversy, continued by Hutcheson, Butler, Hume, Adam Smith, Kames, Reid and the Common-Sense school, and turned into a conjectural history of society by Adam Ferguson and John Millar in the Glasgow professorships."
+  },
+  {
+    "name": "Political Economy and Commercial Writing",
+    "description": "Enquiry into wealth, population, trade, money, taxes and the commercial system, written as policy argument for a public readership.",
+    "historical_development": "Grew out of the mercantilist and currency pamphlets, the political arithmetic of Gregory King and Charles Davenant, the tracts of the South Sea year, Sir James Steuart's Inquiry into the Principles of Political Oeconomy (1767), Hume's commercial essays and the Physiocratic import, and was systematised in Adam Smith's Wealth of Nations (1776) and its reviewers."
+  },
+  {
+    "name": "Philosophical and National History",
+    "description": "History written to explain causes, manners and commerce rather than to chronicle events, from the Enlightenment civilising narrative to antiquarian and constitutional enquiry.",
+    "historical_development": "Introduced by Bolingbroke's philosophical conception of history, practised in Hume's History of England, in William Robertson's histories of Charles V, of America and of Scotland, and in Gibbon's Decline and Fall, and answered by the antiquarian literary histories of Thomas Warton and Richard Hurd and by the constitutional historians of the 1790s."
+  },
+  {
+    "name": "Slave Narrative and Abolitionist Testimony",
+    "description": "The published life of an enslaved or formerly enslaved person, and the pamphlet, sermon or speech built on such testimony against the slave trade.",
+    "historical_development": "Begun in the Quaker addresses of Anthony Benezet and the legal arguments of Granville Sharp, consolidated in Equiano's Interesting Narrative (1789) and in the sermons, enquiries and poems published by the Society for the Abolition of the Slave Trade in the same year; it introduces the first-person testimony of the enslaved into English literature."
+  },
+  {
+    "name": "Polemic, Pamphlet, and Open Letter",
+    "description": "Occasional controversial prose addressed to a party, a minister, a bishop, a city or the public, including the anonymous open letter and its reply.",
+    "historical_development": "The everyday weapon of the century's politics and letters, from the party papers of 1710 and Swift's Examiner and Bickerstaff papers through the Craftsman and the Jacobite and ministerial prints, the Junius letters (1769-72), the Wilkite and American controversies, and the Revolution Controversy opened by Burke's Reflections (1790) and its replies."
+  },
+  {
+    "name": "Natural and Revealed Theology",
+    "description": "Theological argument conducted by evidence, analogy and the light of nature, and the defence of revelation against deism, enthusiasm and scepticism.",
+    "historical_development": "Carried on in the Boyle Lectures and the deist tracts from Anthony Collins to Morgan, Tindal and Chubb, answered in Butler's Analogy (1736) and in the arguments of Law, Waterland and the high-church apologists, continued in the evidences writing of Soame Jenyns and in the rational dissent of Richard Price and Joseph Priestley, and tested by Hume's posthumous Dialogues Concerning Natural Religion (1779)."
+  },
+  {
+    "name": "Lexicography and Philological Writing",
+    "description": "The dictionary, the grammar, the etymological enquiry, and the scholarly history or defence of the English language.",
+    "historical_development": "Developed from the hard-word tables and the project of an English academy into Johnson's Dictionary (1755) and its abridgements, the grammars and spelling books of the expanding school market, John Horne Tooke's etymological speculation, and the comparative philology of Sir William Jones's Oriental researches at the close of the century."
+  },
+  {
+    "name": "Memoir and Autobiographical Prose",
+    "description": "Self-written or biographically composed life-narrative: the memoir, the diary, the journal of a tour, and the letter-collection arranged as a life.",
+    "historical_development": "Descended from the seventeenth-century diary and religious autobiography into the literary memoir, Gibbon's autobiographical sketches, Boswell's tours and journals, the memoir and correspondence collections of the late century, and the published account of a life held in slavery."
+  },
+  {
+    "name": "Literary Biography and Prefatory Commentary",
+    "description": "The critical life of an author, the preface, and the edited text with its notes and account of the writer.",
+    "historical_development": "Formed out of the dedicatory preface and the short life prefixed to an edition, advanced by Dryden's and Addison's prefatory criticism and by the biographical memoirs of the 1740s and 1750s, and perfected in Johnson's Preface to Shakespeare (1765) and Lives of the Poets (1779-81), which founded modern critical biography."
+  },
+  {
+    "name": "Anthology, Reliques, and Editorial Collection",
+    "description": "The editorial collection of older or popular poems and papers, with preface, notes and a historical account of the texts.",
+    "historical_development": "Grew from the miscellany and the poetical treasury of the 1710s into the select collections and school anthologies of the mid-century, Thomas Chatterton's and James Macpherson's 'ancient' publications, and the national, cathedral and ballad collections of the 1760s to the 1780s."
+  },
+  {
+    "name": "Conduct, Education, and Domestic Prose",
+    "description": "Didactic prose on manners, female and male education, family duty, oeconomy and the conduct of ordinary life.",
+    "historical_development": "Descended from the courtesy book and the homily, reshaped by the periodical essay and by the conduct book for young women, developed in Hester Chapone's Letters on the Improvement of the Mind (1773) and the schoolbooks of the academies, diffused through the cheap family and lady's magazines of the 1780s, and answered by the first feminist critiques of the same literature."
+  }
+]

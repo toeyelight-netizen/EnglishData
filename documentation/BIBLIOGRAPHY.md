@@ -487,3 +487,51 @@ Scholarly editions linked to individual works (stored in the
 - The Poems and Fables of John Dryden (James Kinsley (ed.), Oxford University Press, 1958) — 26 work(s)
 - The Poems of Andrew Marvell (Nigel Smith (ed.), Pearson Longman, 2003) — 6 work(s)
 - The Works of Aphra Behn (Janet Todd (ed.), William Pickering / Ohio State University Press, 1995) — 9 work(s)
+
+
+---
+
+## Installment 6 — Augustan and Eighteenth-Century (1700–1789)
+
+### Sources recorded (25)
+
+- The Poems of Alexander Pope, Twickenham Edition (11 volumes)
+- Jonathan Swift: Critical, Scholastic, and Variorum Edition
+- The Spectator, 4 volumes
+- The Yale Edition of the Works of Samuel Johnson (21 volumes)
+- The Life of Samuel Johnson, 6 volumes (Birkbeck Hill edition)
+- The Poems of Thomas Gray, William Collins and Oliver Goldsmith
+- The Poems of Robert Burns, 3 volumes
+- The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period
+- The Cambridge Companion to Eighteenth-Century Poetry
+- The Cambridge Companion to the Eighteenth-Century Novel
+- The Cambridge Companion to Alexander Pope
+- The Cambridge Companion to Samuel Johnson
+- The Cambridge Companion to Gothic Fiction
+- The Rise of the Novel: Studies in Defoe, Richardson and Fielding
+- The Novel: An Anthology of Criticism and Practice, 1700-1800
+- An Inquiry into the Nature and Causes of the Wealth of Nations, 2 volumes
+- The Theory of Moral Sentiments (Cambridge Texts in the History of Philosophy)
+- A Treatise of Human Nature (Clarendon Edition of the Works of David Hume)
+- The Interesting Narrative of the Life of Olaudah Equiano
+- The Works of Mary Wollstonecraft, 7 volumes
+- Reflections on the Revolution in France
+- The History of the Decline and Fall of the Roman Empire, 7 volumes (Bury edition)
+- The Poems of Ossian and Related Works
+- Encyclopedia of the Enlightenment
+- Essays in the History of Ideas
+
+## Editions recorded in `work_editions` (Installment 6)
+
+- A Treatise of Human Nature (Clarendon Edition of the Works of David Hume) — 7 work(s)
+- An Inquiry into the Nature and Causes of the Wealth of Nations, 2 volumes — 2 work(s)
+- Jonathan Swift: Critical, Scholastic, and Variorum Edition — 10 work(s)
+- The History of the Decline and Fall of the Roman Empire, 7 volumes (Bury edition) — 1 work(s)
+- The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century — 260 work(s)
+- The Poems of Alexander Pope, Twickenham Edition (11 volumes) — 16 work(s)
+- The Poems of Ossian and Related Works — 4 work(s)
+- The Poems of Robert Burns, 3 volumes — 12 work(s)
+- The Poems of Thomas Gray, William Collins and Oliver Goldsmith — 17 work(s)
+- The Spectator, 4 volumes — 10 work(s)
+- The Works of Mary Wollstonecraft, 7 volumes — 3 work(s)
+- The Yale Edition of the Works of Samuel Johnson (21 volumes) — 9 work(s)

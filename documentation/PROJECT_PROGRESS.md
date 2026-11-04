@@ -750,9 +750,278 @@ genres, 69 themes, 52 sources. Next installment begins only on instruction.
 
 ---
 
-## Installments 6–10
+## Installment 6 — Augustan and Eighteenth-Century Literature (1700–1789)
+
+Completed 2026-11-04.
+
+### Scope
+
+The long eighteenth century from the reign of Anne to the threshold of the
+Romantic period: Augustan verse satire and the Scribleran circle, the periodical
+press, the rise of the novel, neoclassical criticism and the rules,
+topographical and graveyard poetry, sentimentalism, the English and Scottish
+Enlightenments, the Bluestockings and women's letters, the Evangelical revival
+and its hymnody, the regenerated London theatre, primitivism and the Ossianic
+vogue, abolitionist writing, and the early Gothic.
+
+### Records added
+
+| Entity | This installment | Cumulative |
+|---|---|---|
+| Periods | +1 | 6 |
+| Movements | +15 | 49 |
+| Genres | +27 | 102 |
+| Themes | +22 | 91 |
+| Sources | +25 | 77 |
+| Authors | +96 | 310 |
+| Works | +351 | 1061 |
+
+Relationship links added: 364 `work_authors`, 351 `work_periods`, 351
+`work_genres`, 351 `work_themes`, 347 `work_movements`, 96 each of
+`author_genres`, `author_movements` and `author_themes`, 83 `author_influences`,
+1 `period_movements`, 96 `author_sources`, 351 `work_sources`, 15
+`movement_sources` and 351 `work_editions`.
+
+### Period added (1)
+
+- Augustan and Eighteenth-Century Period (1700–1789)
+
+### Movements (15 new, all linked to the period)
+
+Abolitionist and Anti-Slavery Writing; Augustan Satire and the Scriblerans;
+Garrick and the Regenerated London Theatre; Gothic and the Literature of
+Terror; Neoclassical Criticism and the Rules; Primitivism, the Bardic
+Revival and Ossian; Sentimentalism and the Culture of Feeling; The
+Bluestockings and Women's Letters; The English Enlightenment and Deist
+Controversy; The Evangelical Revival and Hymn Writing; The Graveyard School
+and Preromantic Meditation; The Rise of the English Novel; The Scottish
+Enlightenment; The Spectator and Periodical Journalism; Topographical and
+Estate Poetry
+
+### Genres (27 new)
+
+- Periodical Essay and Spectator Paper
+- Augustan Verse Satire
+- Epistolary Fiction
+- Picaresque and Journey Novel
+- Sentimental and Domestic Novel
+- Gothic Novel and Romance of Terror
+- Philosophical Tale and Oriental Fiction
+- Comic and Ballad Opera
+- Domestic and Sentimental Tragedy
+- Theatrical Occasional Verse
+- Meditative Blank Verse
+- Topographical and Descriptive Poetry
+- Hymn and Devotional Song
+- Ballad and Popular Song
+- Fable and Apologue
+- Critical Treatise and Dissertation
+- Moral Philosophy and the Theory of Society
+- Political Economy and Commercial Writing
+- Philosophical and National History
+- Slave Narrative and Abolitionist Testimony
+- Polemic, Pamphlet, and Open Letter
+- Natural and Revealed Theology
+- Lexicography and Philological Writing
+- Memoir and Autobiographical Prose
+- Literary Biography and Prefatory Commentary
+- Anthology, Reliques, and Editorial Collection
+- Conduct, Education, and Domestic Prose
+
+### Themes (22 new)
+
+- The public sphere, print, and the periodical
+- Wit, ridicule, and the war against dullness
+- Sympathy, benevolence, and the moral sense
+- Taste, decorum, and the rules of art
+- Commerce, luxury, and commercial society
+- Liberty, corruption, and the decline of nations
+- Death, mourning, and the graveyard meditation
+- The sublime, terror, and the ruin
+- Primitive genius and national poetry
+- Women's education and intellectual friendship
+- Seduction and the betrayed heroine
+- The slave trade and abolition
+- Enthusiasm and the disease of the imagination
+- Evangelical experience and assurance
+- Rural labour, depopulation, and the deserted village
+- Poverty, dependence, and the professional writer
+- Self-knowledge and the philosophy of the mind
+- Jacobitism, loyalty, and the '45
+- The literature of the nations: Scotland, Ireland, and Wales
+- Progress, decay, and the philosophy of history
+- Politeness, fashion, and the codes of conduct
+- Childhood, innocence, and education
+
+### Authors (96 new)
+
+  Adam Ferguson, Adam Smith, Alexander Pope, Anna Laetitia Barbauld, Anthony
+  Ashley Cooper, Third Earl of Shaftesbury, Anthony Collins, Bernard
+  Mandeville, Charles Wesley, Charlotte Lennox, Christopher Smart, Clara
+  Reeve, Daniel Defoe, David Hartley, David Hume, Delarivier Manley, Edward
+  Gibbon, Edward Moore, Edward Young, Eliza Haywood, Elizabeth Carter,
+  Elizabeth Montagu, Elizabeth Rowe, Erasmus Darwin, Frances Burney, Francis
+  Hutcheson, George Berkeley, George Whitefield, Gilbert White, Granville
+  Sharp, Hannah Cowley, Hannah More, Henry Fielding, Henry Home, Lord Kames,
+  Hester Chapone, Horace Walpole, Hugh Blair, Hugh Kelly, Isaac Watts, James
+  Beattie, James Boswell, James Hervey, James Macpherson, James Ramsay,
+  James Thomson, Jeremy Bentham, John Arbuthnot, John Dennis, John Dyer,
+  John Gay, John Home, John Millar, John Newton, John Toland, John Wesley,
+  Jonathan Swift, Joseph Addison, Joseph Butler, Joseph Priestley, Lady Mary
+  Wortley Montagu, Laurence Sterne, Mark Akenside, Mary Chudleigh, Mary
+  Wollstonecraft, Matthew Tindal, Nicholas Rowe, Olaudah Equiano, Oliver
+  Goldsmith, Ottobah Cugoano, Philip Doddridge, Richard Blackmore, Richard
+  Brinsley Sheridan, Richard Price, Richard Steele, Robert Blair, Robert
+  Burns, Samuel Johnson, Samuel Richardson, Sarah Fielding, Susanna
+  Centlivre, Thomas Chatterton, Thomas Gray, Thomas Paine, Thomas Parnell,
+  Thomas Percy, Thomas Reid, Thomas Warton, Tobias Smollett, William
+  Beckford, William Blackstone, William Collins, William Cowper, William
+  Law, William Mason, William Paley, William Robertson, William Shenstone
+
+Six further authors already held records from Installments 4 and 5 and were
+linked additively rather than re-created: Matthew Prior, Colley Cibber, John
+Vanbrugh, William Congreve, Thomas Southerne and Mary Astell. In all, 102
+distinct author records are linked to this installment's works.
+
+### Works (351) — grouped by movement
+
+-   Abolitionist and Anti-Slavery Writing — 8 record(s). Examples recorded in
+  this installment: *A Representation of the Injustice and Dangerous
+  Tendency of Tolerating Slavery; or, of Admitting the Least Claim of
+  Private Property in the Persons of Men, in England*, *An Inquiry into the
+  Effects of Putting a Stop to the African Slave Trade, and of Granting
+  Liberty to the Slaves in the British Sugar Colonies*, *Polly*, *Taxation
+  Tyrannical; or, The Colonies and Britain Compared*, *The Commonwealth of
+  Slaves*.
+-   Augustan Satire and the Scriblerans — 56 record(s). Examples recorded in
+  this installment: *A Modest Defence of Publick Stews*, *A Modest
+  Proposal*, *A Political Romance*, *A Project for the Advancement of
+  Learning*, *A Tale of a Tub*.
+-   Garrick and the Regenerated London Theatre — 17 record(s). Examples
+  recorded in this installment: *A Political Romance*, *Apology for the Life
+  of Colley Cibber*, *Douglas*, *False Delicacy*, *Jane Shore*.
+-   Gothic and the Literature of Terror — 15 record(s). Examples recorded in
+  this installment: *A Description of the Villa of Mr. Horace Walpole*, *Tam
+  o' Shanter*, *The Adventures of Ferdinand Count Fathom*, *The Bard*, *The
+  Brothers*.
+-   Neoclassical Criticism and the Rules — 68 record(s). Examples recorded in
+  this installment: *A Dictionary of the English Language*, *A Plan of a
+  Dictionary of the English Language*, *A Project for the Advancement of
+  Learning*, *A Proposal for Correcting, Improving and Ascertaining the
+  English Tongue*, *An Essay on Criticism*.
+-   Primitivism, the Bardic Revival and Ossian — 34 record(s). Examples
+  recorded in this installment: *A Man's a Man for A' That*, *A Red, Red
+  Rose*, *Auld Lang Syne*, *Bohoursky*, *Caractacus: A Dramatic Poem*.
+-   Sentimentalism and the Culture of Feeling — 82 record(s). Examples
+  recorded in this installment: *A Journey Through France and Italy*, *A
+  Red, Red Rose*, *A Sentimental Journey Through France and Italy*, *Account
+  of Corsica*, *Amelia*.
+-   The Bluestockings and Women's Letters — 20 record(s). Examples recorded in
+  this installment: *All the Works of Epictetus*, *An Essay on the Learning
+  and Genius of Shakespeare*, *An Essay to Defend the Women's Cause*,
+  *Cecilia; or, Memoirs of an Heiress*, *Evelina; or, A Young Lady's
+  Introduction to the World*.
+-   The English Enlightenment and Deist Controversy — 65 record(s). Examples
+  recorded in this installment: *A Discourse of the Grounds and Reasons of
+  the Christian Religion*, *A Discourse on the Love of Our Country*, *A
+  Fragment on Government*, *A Jubilate Agno*, *A Modest Defence of Publick
+  Stews*.
+-   The Evangelical Revival and Hymn Writing — 31 record(s). Examples recorded
+  in this installment: *A Collection of Hymns for the Use of the People
+  Called Methodists*, *A Collection of Psalms and Hymns*, *A Jubilate Agno*,
+  *A Serious Call to a Devout and Holy Life*, *A Short Account of God's
+  Dealings with the Reverend Mr. George Whitefield*.
+-   The Graveyard School and Preromantic Meditation — 24 record(s). Examples
+  recorded in this installment: *A Paraphrase upon Part of the Book of Job*,
+  *Autumn*, *Bohoursky*, *Death and Doctor Hornbook*, *Elegy Written in a
+  Country Church-Yard*.
+-   The Rise of the English Novel — 46 record(s). Examples recorded in this
+  installment: *A General History of the Pyrates*, *A Journal of the Plague
+  Year*, *A Sentimental Journey Through France and Italy*, *Amelia*,
+  *Cecilia; or, Memoirs of an Heiress*.
+-   The Scottish Enlightenment — 33 record(s). Examples recorded in this
+  installment: *A Man's a Man for A' That*, *A Short Introduction to Moral
+  Philosophy*, *A Treatise of Human Nature*, *Account of Corsica*, *An
+  Enquiry Concerning Human Understanding*.
+-   The Spectator and Periodical Journalism — 23 record(s). Examples recorded
+  in this installment: *A Journal of a Voyage to Lisbon*, *An Enquiry into
+  the Causes of the Late Increase of Robbers*, *An Enquiry into the Present
+  State of Polite Learning in Europe*, *Essays Moral and Political*, *Essays
+  on Various Subjects, in Prose and Verse*.
+-   Topographical and Estate Poetry — 20 record(s). Examples recorded in this
+  installment: *A Description of the Villa of Mr. Horace Walpole*, *Alfred*,
+  *Autumn*, *Britannia (Thomson)*, *Conversation*.
+
+Authorship status: 1 attributed, 13 collaborative, 5 disputed, 332 single. Research status: 320 complete, 31 partial. Original language: 326 English; 11 Scots; 4 English (rendered from Gaelic); 3 English (translated from French); 2 English (translated from Greek); 2 English (translated from Latin); 2 English (translated from Norse); 1 English (translated from Latin and other languages).
+
+### Sources (25 new)
+
+Scholarly editions and series (the Twickenham *Pope*; Swift's *Critical,
+Scholastic, and Variorum Edition*; the Yale *Johnson*; Birkbeck Hill's *Boswell*;
+the Clarendon *Hume*; Bury's *Gibbon*; Kinsley's *Gray, Collins and Goldsmith*;
+Scott's *Burns*; *The Poems of Ossian and Related Works*; the four-volume
+*Spectator*; the seven-volume *Wollstonecraft*); criticism and anthology
+(Norton Volume C as the teaching spine, Norton Volume D for the preromantic
+figures, the Cambridge Companions to eighteenth-century poetry, the novel, Pope,
+Johnson and Gothic fiction, *The Novel: An Anthology of Criticism and Practice,
+1700-1800*, Watt's *The Rise of the Novel*, the *Encyclopedia of the
+Enlightenment*, *Essays in the History of Ideas*); and the primary philosophical
+texts (Adam Smith's *Wealth of Nations* and *Theory of Moral Sentiments*, Hume's
+*Treatise*, Gibbon's *Decline and Fall*, Equiano's *Interesting Narrative*,
+Wollstonecraft, and the ODNB).
+
+### Validation results
+
+- `PRAGMA integrity_check`: **ok**
+- `PRAGMA foreign_key_check`: **0 violations**
+- Validation script (`validate_database.py --installment 06`): **0 issues**
+- Duplicate check: **0 duplicate groups**
+- Test suite: **14/14 passing** (including the idempotent re-import test)
+- Import re-run idempotent: identical counts, no duplicates created
+
+### Attribution notes
+
+9 works carry more than one linked author:
+
+- *A Collection of Psalms and Hymns* — John Wesley, Charles Wesley
+- *Hymns and Sacred Poems* — John Wesley, Charles Wesley
+- *Olney Hymns* — William Cowper, John Newton
+- *Peri Bathous, the Art of Sinking in Poetry* — Alexander Pope, Jonathan Swift, John Gay, Thomas Parnell
+- *The Drummer* — Richard Steele, Joseph Addison
+- *The Guardian Papers* — Richard Steele, Joseph Addison
+- *The Provok'd Husband* — John Vanbrugh, Colley Cibber
+- *The Spectator and Tatler Papers (Addison)* — Joseph Addison, Richard Steele
+- *The Works of Mr. Martinus Scriblerus* — John Arbuthnot, Alexander Pope, Jonathan Swift, Thomas Parnell
+
+Where a collaborator has no record in the database, the collaboration is stated
+inside `attribution_notes` rather than invented as a link; A General History of the Pyrates is entered as
+`disputed` and left unlinked for the same reason. 31 of the 351 works are
+`research_status: partial`, where a composition or first-print date rests on
+scholarly convention rather than on evidence recorded in the field.
+
+Two corrections were made during review. Boswell's *Life of Samuel Johnson* is
+dated to its first edition of 1791 (Prospectus 1790; revised second edition
+1793), not 1793. James Thomson's poem is entered as `Britannia (Thomson)` to
+keep it distinct from Camden's Latin *Britannia* already held from Installment
+3, following the parenthetical-disambiguation convention used elsewhere in the
+corpus. All date fields are stored as strings, with `c. NNNN` for approximate
+dates, in conformity with the `VARCHAR` columns of the `works` table.
+
+### Confirmation
+
+Master database preserved; installment backup at
+`database/backups/English_Literature_Master_installment_06.db`. Cumulative
+totals: 310 authors, 1061 works (146 anonymous), 6 periods, 49 movements, 102
+genres, 91 themes, 77 sources.
+
+---
+
+## Installments 7–10
 
 Not yet begun. Per protocol, the next installment begins only on instruction.
+Scope agreed for these installments: the English and British canon **and** a
+distinct American strand, with broader Anglophone and postcolonial writing out
+of scope.
 
 | # | Period | Status |
 |---|---|---|
@@ -760,9 +1029,8 @@ Not yet begun. Per protocol, the next installment begins only on instruction.
 | 3 | Renaissance and Early Tudor (c. 1500–1558) | Complete |
 | 4 | Elizabethan and Jacobean (1558–1625) | Complete |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
-| 5 | Caroline, Commonwealth, Restoration (1625–1700) | Pending |
-| 6 | Eighteenth Century and Augustan (1700–1789) | Pending |
-| 7 | Romantic (c. 1789–1832) | Pending |
-| 8 | Victorian (1832–1901) | Pending |
-| 9 | Edwardian–Interwar (c. 1901–1945) | Pending |
-| 10 | Postwar and Late Twentieth Century (1945–2000) | Pending |
+| 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
+| 7 | Romantic, British and American (c. 1789–1832) | Pending |
+| 8 | Victorian and American nineteenth century (1832–1901) | Pending |
+| 9 | Edwardian–Interwar, British and American (1901–1945) | Pending |
+| 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |

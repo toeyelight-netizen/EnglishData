@@ -17,10 +17,11 @@ or deletes earlier data.
 | 3 | Renaissance and Early Tudor (c. 1500–1558) | **Complete** |
 | 4 | Elizabethan and Jacobean (1558–1625) | **Complete** |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | **Complete** |
-| 6–10 | Augustan → Postwar (1700–2000) | Pending |
+| 6 | Augustan and Eighteenth Century (1700–1789) | **Complete** |
+| 7–10 | Romantic → Postwar (1789–2000) | Pending |
 
-Cumulative totals after Installment 5: **214 authors, 710 works** (146
-anonymous), 5 periods, 34 movements, 75 genres, 69 themes, 52 sources.
+Cumulative totals after Installment 6: **310 authors, 1061 works** (146
+anonymous), 6 periods, 49 movements, 102 genres, 91 themes, 77 sources.
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for
 the detailed progress log.

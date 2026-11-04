@@ -1,0 +1,3760 @@
+{
+  "author_genres": [
+    {
+      "author": "Adam Ferguson",
+      "genres": [
+        "Moral Philosophy and the Theory of Society",
+        "Philosophical and National History",
+        "Political Economy and Commercial Writing"
+      ]
+    },
+    {
+      "author": "Adam Smith",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Moral Philosophy and the Theory of Society",
+        "Philosophical and National History",
+        "Political Economy and Commercial Writing"
+      ]
+    },
+    {
+      "author": "Alexander Pope",
+      "genres": [
+        "Augustan Verse Satire",
+        "Character Writing",
+        "Complaint and Satire",
+        "Critical Treatise and Dissertation",
+        "Elegy",
+        "Heroic Epic",
+        "Literary Biography and Prefatory Commentary",
+        "Lyric",
+        "Memoir and Autobiographical Prose",
+        "Mock-Heroic and Verse Satire",
+        "Moral Philosophy and the Theory of Society",
+        "Pastoral Poetry",
+        "Pindaric Ode",
+        "Poetry",
+        "Political Verse",
+        "Prose",
+        "Prose Fiction and the Early Novel",
+        "Theatrical Occasional Verse",
+        "Topographical and Descriptive Poetry",
+        "Translation",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Anna Laetitia Barbauld",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Elegy",
+        "Hymn and Devotional Song",
+        "Poetry",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Anthony Ashley Cooper, Third Earl of Shaftesbury",
+      "genres": [
+        "Character Writing",
+        "Critical Treatise and Dissertation",
+        "Essay",
+        "Humanist Dialogue and Utopian Fiction",
+        "Moral Philosophy and the Theory of Society",
+        "Prose"
+      ]
+    },
+    {
+      "author": "Anthony Collins",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Natural and Revealed Theology"
+      ]
+    },
+    {
+      "author": "Bernard Mandeville",
+      "genres": [
+        "Augustan Verse Satire",
+        "Fable and Apologue",
+        "Moral Philosophy and the Theory of Society",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Economy and Commercial Writing"
+      ]
+    },
+    {
+      "author": "Charles Wesley",
+      "genres": [
+        "Anthology, Reliques, and Editorial Collection",
+        "Hymn and Devotional Song",
+        "Metrical Psalter",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Charlotte Lennox",
+      "genres": [
+        "Anthology, Reliques, and Editorial Collection",
+        "Critical Treatise and Dissertation",
+        "Literary Biography and Prefatory Commentary",
+        "Prose Fiction and the Early Novel",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Christopher Smart",
+      "genres": [
+        "Hymn and Devotional Song",
+        "Pindaric Ode",
+        "Religious Lyric"
+      ]
+    },
+    {
+      "author": "Clara Reeve",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Gothic Novel and Romance of Terror",
+        "Literary Biography and Prefatory Commentary",
+        "Prose Fiction and the Early Novel",
+        "Prose Romance"
+      ]
+    },
+    {
+      "author": "Daniel Defoe",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Diary and Journal",
+        "Essay",
+        "History and Chronicle",
+        "Periodical Essay and Spectator Paper",
+        "Picaresque and Journey Novel",
+        "Polemic, Pamphlet, and Open Letter",
+        "Prose",
+        "Prose Biography",
+        "Prose Fiction and the Early Novel",
+        "Spiritual Autobiography",
+        "Travel and Wonders Literature",
+        "Vision Literature"
+      ]
+    },
+    {
+      "author": "David Hartley",
+      "genres": [
+        "Moral Philosophy and the Theory of Society",
+        "Natural and Revealed Theology",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "David Hume",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Diary and Journal",
+        "Essay",
+        "History and Chronicle",
+        "Humanist Dialogue and Utopian Fiction",
+        "Memoir and Autobiographical Prose",
+        "Moral Philosophy and the Theory of Society",
+        "Natural and Revealed Theology",
+        "Periodical Essay and Spectator Paper",
+        "Philosophical Tale and Oriental Fiction",
+        "Philosophical and National History",
+        "Philosophy and Scholastic Writing",
+        "Political Economy and Commercial Writing",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "Delarivier Manley",
+      "genres": [
+        "Memoir and Autobiographical Prose",
+        "Prose Biography",
+        "Prose Fiction and the Early Novel",
+        "Prose Romance"
+      ]
+    },
+    {
+      "author": "Edward Gibbon",
+      "genres": [
+        "Diary and Journal",
+        "History and Chronicle",
+        "Memoir and Autobiographical Prose",
+        "Philosophical and National History"
+      ]
+    },
+    {
+      "author": "Edward Moore",
+      "genres": [
+        "Domestic and Sentimental Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Edward Young",
+      "genres": [
+        "Complaint and Satire",
+        "Critical Treatise and Dissertation",
+        "Domestic and Sentimental Tragedy",
+        "Elegy",
+        "Letters",
+        "Literary Biography and Prefatory Commentary",
+        "Meditative Blank Verse",
+        "Natural and Revealed Theology",
+        "Poetry",
+        "Religious Lyric",
+        "Revenge Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Eliza Haywood",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Epistolary Fiction",
+        "Prose Biography",
+        "Prose Fiction and the Early Novel",
+        "Prose Romance",
+        "Romance",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Elizabeth Carter",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Philosophy and Scholastic Writing",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Elizabeth Montagu",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Essay",
+        "Literary Biography and Prefatory Commentary"
+      ]
+    },
+    {
+      "author": "Elizabeth Rowe",
+      "genres": [
+        "Epistolary Fiction",
+        "Poetry",
+        "Prose Fiction and the Early Novel",
+        "Religious Narrative Poetry",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Erasmus Darwin",
+      "genres": [
+        "Medical and Scientific Writing",
+        "Topographical and Descriptive Poetry"
+      ]
+    },
+    {
+      "author": "Frances Burney",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners",
+        "Conduct, Education, and Domestic Prose",
+        "Epistolary Fiction",
+        "Prose Fiction and the Early Novel",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Francis Hutcheson",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Humanist Educational Treatise",
+        "Moral Philosophy and the Theory of Society"
+      ]
+    },
+    {
+      "author": "George Berkeley",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Humanist Dialogue and Utopian Fiction",
+        "Medical and Scientific Writing",
+        "Natural and Revealed Theology",
+        "Philosophy and Scholastic Writing",
+        "Polemic, Pamphlet, and Open Letter"
+      ]
+    },
+    {
+      "author": "George Whitefield",
+      "genres": [
+        "Memoir and Autobiographical Prose",
+        "Spiritual Autobiography"
+      ]
+    },
+    {
+      "author": "Gilbert White",
+      "genres": [
+        "Letters",
+        "Medical and Scientific Writing"
+      ]
+    },
+    {
+      "author": "Granville Sharp",
+      "genres": [
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "Hannah Cowley",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "author": "Hannah More",
+      "genres": [
+        "Domestic and Sentimental Tragedy",
+        "Essay",
+        "Periodical Essay and Spectator Paper",
+        "Poetry",
+        "Prose Fiction and the Early Novel",
+        "Sentimental and Domestic Novel",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Henry Fielding",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Conduct, Education, and Domestic Prose",
+        "Diary and Journal",
+        "Drama",
+        "Epistolary Fiction",
+        "Memoir and Autobiographical Prose",
+        "Mock-Heroic and Verse Satire",
+        "Picaresque and Journey Novel",
+        "Polemic, Pamphlet, and Open Letter",
+        "Prose Fiction and the Early Novel",
+        "Sentimental and Domestic Novel",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "Henry Home, Lord Kames",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Moral Philosophy and the Theory of Society",
+        "Philosophical and National History"
+      ]
+    },
+    {
+      "author": "Hester Chapone",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Essay",
+        "Letters"
+      ]
+    },
+    {
+      "author": "Horace Walpole",
+      "genres": [
+        "Closet Drama",
+        "Critical Treatise and Dissertation",
+        "Domestic and Sentimental Tragedy",
+        "Essay",
+        "Gothic Novel and Romance of Terror",
+        "Philosophical and National History",
+        "Prose",
+        "Prose Fiction and the Early Novel",
+        "Prose Romance",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Hugh Blair",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Elegy",
+        "Homily (Sermon)",
+        "Literary Biography and Prefatory Commentary",
+        "Moral Philosophy and the Theory of Society"
+      ]
+    },
+    {
+      "author": "Hugh Kelly",
+      "genres": [
+        "Comedy",
+        "Romantic Comedy"
+      ]
+    },
+    {
+      "author": "Isaac Watts",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Hymn and Devotional Song",
+        "Metrical Psalter",
+        "Religious Lyric",
+        "Translation"
+      ]
+    },
+    {
+      "author": "James Beattie",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "English Epic and Allegorical Romance",
+        "Meditative Blank Verse",
+        "Philosophy and Scholastic Writing",
+        "Poetry",
+        "Polemic, Pamphlet, and Open Letter"
+      ]
+    },
+    {
+      "author": "James Boswell",
+      "genres": [
+        "Diary and Journal",
+        "Literary Biography and Prefatory Commentary",
+        "Memoir and Autobiographical Prose",
+        "Prose Biography",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "James Hervey",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Natural and Revealed Theology"
+      ]
+    },
+    {
+      "author": "James Macpherson",
+      "genres": [
+        "Anthology, Reliques, and Editorial Collection",
+        "Heroic Epic",
+        "Translation"
+      ]
+    },
+    {
+      "author": "James Ramsay",
+      "genres": [
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Economy and Commercial Writing"
+      ]
+    },
+    {
+      "author": "James Thomson",
+      "genres": [
+        "Augustan Verse Satire",
+        "Court Masque",
+        "Dramatic Opera and Semi-Opera",
+        "Heroic Play",
+        "Meditative Blank Verse",
+        "Moral Philosophy and the Theory of Society",
+        "Poetry",
+        "Political Verse",
+        "Theatrical Occasional Verse",
+        "Topographical and Descriptive Poetry",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Jeremy Bentham",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Moral Philosophy and the Theory of Society",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "John Arbuthnot",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Fable and Apologue",
+        "Memoir and Autobiographical Prose",
+        "Mock-Heroic and Verse Satire",
+        "Periodical Essay and Spectator Paper",
+        "Polemic, Pamphlet, and Open Letter",
+        "Prose Fiction and the Early Novel"
+      ]
+    },
+    {
+      "author": "John Dennis",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Poetry",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "John Dyer",
+      "genres": [
+        "Pastoral Poetry",
+        "Topographical and Descriptive Poetry"
+      ]
+    },
+    {
+      "author": "John Gay",
+      "genres": [
+        "Augustan Verse Satire",
+        "Ballad and Popular Song",
+        "Comedy",
+        "Comedy of Manners",
+        "Comic and Ballad Opera",
+        "Complaint and Satire",
+        "Critical Treatise and Dissertation",
+        "Fable and Apologue",
+        "Pastoral Poetry",
+        "Poetry",
+        "Prose",
+        "Theatrical Occasional Verse",
+        "Topographical and Descriptive Poetry"
+      ]
+    },
+    {
+      "author": "John Home",
+      "genres": [
+        "Domestic and Sentimental Tragedy",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "John Millar",
+      "genres": [
+        "Moral Philosophy and the Theory of Society",
+        "Philosophical and National History"
+      ]
+    },
+    {
+      "author": "John Newton",
+      "genres": [
+        "Devotional and Mystical Writing",
+        "Hymn and Devotional Song"
+      ]
+    },
+    {
+      "author": "John Toland",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Letters",
+        "Natural and Revealed Theology",
+        "Philosophy and Scholastic Writing",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "John Wesley",
+      "genres": [
+        "Anthology, Reliques, and Editorial Collection",
+        "Biblical Commentary and Exegesis",
+        "Hymn and Devotional Song",
+        "Metrical Psalter"
+      ]
+    },
+    {
+      "author": "Jonathan Swift",
+      "genres": [
+        "Augustan Verse Satire",
+        "Complaint and Satire",
+        "Critical Treatise and Dissertation",
+        "Elegy",
+        "Essay",
+        "Letters",
+        "Lexicography and Philological Writing",
+        "Memoir and Autobiographical Prose",
+        "Mock-Heroic and Verse Satire",
+        "Periodical Essay and Spectator Paper",
+        "Philosophical Tale and Oriental Fiction",
+        "Philosophical and National History",
+        "Picaresque and Journey Novel",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Economy and Commercial Writing",
+        "Political Treatise",
+        "Political Verse",
+        "Prose",
+        "Prose Fiction and the Early Novel"
+      ]
+    },
+    {
+      "author": "Joseph Addison",
+      "genres": [
+        "Ballad and Popular Song",
+        "Character Writing",
+        "Comedy",
+        "Critical Treatise and Dissertation",
+        "Essay",
+        "Heroic Play",
+        "Literary Biography and Prefatory Commentary",
+        "Periodical Essay and Spectator Paper",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise",
+        "Theatrical Occasional Verse",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "Joseph Butler",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Homily (Sermon)",
+        "Moral Philosophy and the Theory of Society",
+        "Natural and Revealed Theology"
+      ]
+    },
+    {
+      "author": "Joseph Priestley",
+      "genres": [
+        "Diary and Journal",
+        "Medical and Scientific Writing",
+        "Natural and Revealed Theology",
+        "Philosophy and Scholastic Writing",
+        "Polemic, Pamphlet, and Open Letter"
+      ]
+    },
+    {
+      "author": "Lady Mary Wortley Montagu",
+      "genres": [
+        "Essay",
+        "Letters",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "Laurence Sterne",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Homily (Sermon)",
+        "Memoir and Autobiographical Prose",
+        "Periodical Essay and Spectator Paper",
+        "Picaresque and Journey Novel",
+        "Polemic, Pamphlet, and Open Letter",
+        "Prose Fiction and the Early Novel",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Mark Akenside",
+      "genres": [
+        "Augustan Verse Satire",
+        "Critical Treatise and Dissertation",
+        "Hymn and Devotional Song",
+        "Lyric",
+        "Meditative Blank Verse",
+        "Moral Philosophy and the Theory of Society",
+        "Pindaric Ode",
+        "Poetry",
+        "Political Verse",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Mary Chudleigh",
+      "genres": [
+        "Complaint and Satire",
+        "Essay",
+        "Poetry",
+        "Polemic, Pamphlet, and Open Letter",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Mary Wollstonecraft",
+      "genres": [
+        "Anthology, Reliques, and Editorial Collection",
+        "Conduct, Education, and Domestic Prose",
+        "Critical Treatise and Dissertation",
+        "Essay",
+        "Fable and Apologue",
+        "Natural and Revealed Theology",
+        "Prose Fiction and the Early Novel",
+        "Sentimental and Domestic Novel",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Matthew Tindal",
+      "genres": [
+        "Moral Philosophy and the Theory of Society",
+        "Natural and Revealed Theology",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "Nicholas Rowe",
+      "genres": [
+        "Domestic and Sentimental Tragedy",
+        "Heroic Epic",
+        "Heroic Play",
+        "Political Verse",
+        "Revenge Tragedy",
+        "Tragedy",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Olaudah Equiano",
+      "genres": [
+        "Memoir and Autobiographical Prose",
+        "Slave Narrative and Abolitionist Testimony",
+        "Spiritual Autobiography",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "Oliver Goldsmith",
+      "genres": [
+        "Comedy",
+        "Critical Treatise and Dissertation",
+        "Elegy",
+        "Epistolary Fiction",
+        "Moral Philosophy and the Theory of Society",
+        "Pastoral Poetry",
+        "Periodical Essay and Spectator Paper",
+        "Polemic, Pamphlet, and Open Letter",
+        "Prose Fiction and the Early Novel",
+        "Romantic Comedy",
+        "Sentimental and Domestic Novel",
+        "Topographical and Descriptive Poetry",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Ottobah Cugoano",
+      "genres": [
+        "Polemic, Pamphlet, and Open Letter",
+        "Slave Narrative and Abolitionist Testimony"
+      ]
+    },
+    {
+      "author": "Philip Doddridge",
+      "genres": [
+        "Biblical Commentary and Exegesis",
+        "Conduct, Education, and Domestic Prose",
+        "Devotional and Mystical Writing",
+        "Natural and Revealed Theology"
+      ]
+    },
+    {
+      "author": "Richard Blackmore",
+      "genres": [
+        "Heroic Epic",
+        "Natural and Revealed Theology",
+        "Poetry",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "author": "Richard Brinsley Sheridan",
+      "genres": [
+        "Comedy",
+        "Comedy of Manners",
+        "Comic and Ballad Opera",
+        "Dramatic Opera and Semi-Opera",
+        "Theatrical Occasional Verse"
+      ]
+    },
+    {
+      "author": "Richard Price",
+      "genres": [
+        "Homily (Sermon)",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "Richard Steele",
+      "genres": [
+        "Ballad and Popular Song",
+        "Character Writing",
+        "Comedy",
+        "Comedy of Manners",
+        "Conduct, Education, and Domestic Prose",
+        "Essay",
+        "Natural and Revealed Theology",
+        "Periodical Essay and Spectator Paper",
+        "Theatrical Occasional Verse"
+      ]
+    },
+    {
+      "author": "Robert Blair",
+      "genres": [
+        "Elegy",
+        "Meditative Blank Verse"
+      ]
+    },
+    {
+      "author": "Robert Burns",
+      "genres": [
+        "Augustan Verse Satire",
+        "Ballad and Popular Song",
+        "Debate Poetry",
+        "Fable and Apologue",
+        "Lyric",
+        "Pastoral Poetry",
+        "Poetry",
+        "Political Verse",
+        "Verse Epistle"
+      ]
+    },
+    {
+      "author": "Samuel Johnson",
+      "genres": [
+        "Augustan Verse Satire",
+        "Critical Treatise and Dissertation",
+        "Grammar and Didactic Prose",
+        "Letters",
+        "Lexicography and Philological Writing",
+        "Literary Biography and Prefatory Commentary",
+        "Moral Philosophy and the Theory of Society",
+        "Periodical Essay and Spectator Paper",
+        "Philosophical Tale and Oriental Fiction",
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise",
+        "Topographical and Descriptive Poetry",
+        "Wisdom Poetry"
+      ]
+    },
+    {
+      "author": "Samuel Richardson",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Epistolary Fiction",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Sarah Fielding",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Picaresque and Journey Novel",
+        "Prose Fiction and the Early Novel",
+        "Sentimental and Domestic Novel"
+      ]
+    },
+    {
+      "author": "Susanna Centlivre",
+      "genres": [
+        "City Comedy",
+        "Comedy",
+        "Comedy of Manners"
+      ]
+    },
+    {
+      "author": "Thomas Chatterton",
+      "genres": [
+        "Ballad and Popular Song",
+        "Battle Poetry",
+        "Heroic Epic",
+        "Religious Lyric",
+        "Romance"
+      ]
+    },
+    {
+      "author": "Thomas Gray",
+      "genres": [
+        "Battle Poetry",
+        "Elegy",
+        "Hymn and Devotional Song",
+        "Lyric",
+        "Meditative Blank Verse",
+        "Pindaric Ode",
+        "Poetry",
+        "Political Verse",
+        "Religious Lyric",
+        "Translation",
+        "Vision Literature"
+      ]
+    },
+    {
+      "author": "Thomas Paine",
+      "genres": [
+        "Polemic, Pamphlet, and Open Letter",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "Thomas Parnell",
+      "genres": [
+        "Complaint and Satire",
+        "Critical Treatise and Dissertation",
+        "Lyric",
+        "Memoir and Autobiographical Prose",
+        "Mock-Heroic and Verse Satire",
+        "Poetry",
+        "Prose",
+        "Prose Fiction and the Early Novel",
+        "Religious Narrative Poetry"
+      ]
+    },
+    {
+      "author": "Thomas Percy",
+      "genres": [
+        "Anthology, Reliques, and Editorial Collection",
+        "Ballad and Popular Song",
+        "Critical Treatise and Dissertation",
+        "Philosophical and National History",
+        "Translation"
+      ]
+    },
+    {
+      "author": "Thomas Reid",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Essay",
+        "Moral Philosophy and the Theory of Society",
+        "Philosophy and Scholastic Writing"
+      ]
+    },
+    {
+      "author": "Thomas Warton",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Literary Biography and Prefatory Commentary",
+        "Philosophical and National History",
+        "Pindaric Ode",
+        "Poetry"
+      ]
+    },
+    {
+      "author": "Tobias Smollett",
+      "genres": [
+        "Epistolary Fiction",
+        "Gothic Novel and Romance of Terror",
+        "History and Chronicle",
+        "Letters",
+        "Memoir and Autobiographical Prose",
+        "Philosophical and National History",
+        "Picaresque and Journey Novel",
+        "Prose Fiction and the Early Novel",
+        "Romance",
+        "Sentimental and Domestic Novel",
+        "Translation",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "William Beckford",
+      "genres": [
+        "Gothic Novel and Romance of Terror",
+        "Philosophical Tale and Oriental Fiction",
+        "Prose Romance"
+      ]
+    },
+    {
+      "author": "William Blackstone",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Essay",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "William Collins",
+      "genres": [
+        "Lyric",
+        "Pastoral Poetry",
+        "Pindaric Ode",
+        "Poetry",
+        "Theatrical Occasional Verse"
+      ]
+    },
+    {
+      "author": "William Cowper",
+      "genres": [
+        "Critical Treatise and Dissertation",
+        "Devotional and Mystical Writing",
+        "Elegy",
+        "Humanist Educational Treatise",
+        "Hymn and Devotional Song",
+        "Meditative Blank Verse",
+        "Poetry",
+        "Topographical and Descriptive Poetry"
+      ]
+    },
+    {
+      "author": "William Law",
+      "genres": [
+        "Conduct, Education, and Domestic Prose",
+        "Devotional and Mystical Writing",
+        "Natural and Revealed Theology",
+        "Polemic, Pamphlet, and Open Letter"
+      ]
+    },
+    {
+      "author": "William Mason",
+      "genres": [
+        "Closet Drama",
+        "Pastoral Poetry",
+        "Topographical and Descriptive Poetry",
+        "Tragedy"
+      ]
+    },
+    {
+      "author": "William Paley",
+      "genres": [
+        "Moral Philosophy and the Theory of Society",
+        "Natural and Revealed Theology",
+        "Political Treatise"
+      ]
+    },
+    {
+      "author": "William Robertson",
+      "genres": [
+        "History and Chronicle",
+        "Philosophical and National History",
+        "Political Treatise",
+        "Travel and Wonders Literature"
+      ]
+    },
+    {
+      "author": "William Shenstone",
+      "genres": [
+        "Meditative Blank Verse",
+        "Pastoral Poetry"
+      ]
+    }
+  ],
+  "author_movements": [
+    {
+      "author": "Adam Ferguson",
+      "movements": [
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "Adam Smith",
+      "movements": [
+        "Sentimentalism and the Culture of Feeling",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "Alexander Pope",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The English Enlightenment and Deist Controversy",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "Anna Laetitia Barbauld",
+      "movements": [
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "Anthony Ashley Cooper, Third Earl of Shaftesbury",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Anthony Collins",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Bernard Mandeville",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Charles Wesley",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "Charlotte Lennox",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Christopher Smart",
+      "movements": [
+        "The Anglican and Latitudinarian Divines",
+        "The English Enlightenment and Deist Controversy",
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "Clara Reeve",
+      "movements": [
+        "Gothic and the Literature of Terror",
+        "Neoclassical Criticism and the Rules",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Daniel Defoe",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "The Rise of the English Novel",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "David Hartley",
+      "movements": [
+        "The English Enlightenment and Deist Controversy",
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "David Hume",
+      "movements": [
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy",
+        "The Scottish Enlightenment",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Delarivier Manley",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Edward Gibbon",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Edward Moore",
+      "movements": [
+        "Garrick and the Regenerated London Theatre",
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling"
+      ]
+    },
+    {
+      "author": "Edward Young",
+      "movements": [
+        "Gothic and the Literature of Terror",
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy",
+        "The Graveyard School and Preromantic Meditation"
+      ]
+    },
+    {
+      "author": "Eliza Haywood",
+      "movements": [
+        "Sentimentalism and the Culture of Feeling",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Elizabeth Carter",
+      "movements": [
+        "The Bluestockings and Women's Letters",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Elizabeth Montagu",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "The Bluestockings and Women's Letters"
+      ]
+    },
+    {
+      "author": "Elizabeth Rowe",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "Erasmus Darwin",
+      "movements": [
+        "The English Enlightenment and Deist Controversy",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "Frances Burney",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Francis Hutcheson",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "George Berkeley",
+      "movements": [
+        "The English Enlightenment and Deist Controversy",
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "George Whitefield",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "Gilbert White",
+      "movements": []
+    },
+    {
+      "author": "Granville Sharp",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing"
+      ]
+    },
+    {
+      "author": "Hannah Cowley",
+      "movements": [
+        "Garrick and the Regenerated London Theatre",
+        "The Bluestockings and Women's Letters"
+      ]
+    },
+    {
+      "author": "Hannah More",
+      "movements": [
+        "Garrick and the Regenerated London Theatre",
+        "Sentimentalism and the Culture of Feeling",
+        "The Evangelical Revival and Hymn Writing",
+        "The Rise of the English Novel",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Henry Fielding",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Garrick and the Regenerated London Theatre",
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The Restoration Theatre",
+        "The Rise of the English Novel",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Henry Home, Lord Kames",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "Hester Chapone",
+      "movements": [
+        "The Bluestockings and Women's Letters",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Horace Walpole",
+      "movements": [
+        "Gothic and the Literature of Terror",
+        "Neoclassical Criticism and the Rules",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "Hugh Blair",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "The Evangelical Revival and Hymn Writing",
+        "The Graveyard School and Preromantic Meditation",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "Hugh Kelly",
+      "movements": [
+        "Garrick and the Regenerated London Theatre",
+        "Sentimentalism and the Culture of Feeling"
+      ]
+    },
+    {
+      "author": "Isaac Watts",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "James Beattie",
+      "movements": [
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "James Boswell",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "James Hervey",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing",
+        "The Graveyard School and Preromantic Meditation"
+      ]
+    },
+    {
+      "author": "James Macpherson",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian"
+      ]
+    },
+    {
+      "author": "James Ramsay",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing"
+      ]
+    },
+    {
+      "author": "James Thomson",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The Graveyard School and Preromantic Meditation",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "Jeremy Bentham",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "John Arbuthnot",
+      "movements": [
+        "Augustan Satire and the Scriblerans"
+      ]
+    },
+    {
+      "author": "John Dennis",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "John Dyer",
+      "movements": [
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "John Gay",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing",
+        "Augustan Satire and the Scriblerans",
+        "Neoclassical Criticism and the Rules",
+        "The Rise of the English Novel",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "John Home",
+      "movements": [
+        "Garrick and the Regenerated London Theatre",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "John Millar",
+      "movements": [
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "John Newton",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "John Toland",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "John Wesley",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "Jonathan Swift",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Neoclassical Criticism and the Rules",
+        "The English Enlightenment and Deist Controversy",
+        "The Rise of the English Novel",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Joseph Addison",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Neoclassical Criticism and the Rules",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Joseph Butler",
+      "movements": [
+        "The Anglican and Latitudinarian Divines",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Joseph Priestley",
+      "movements": [
+        "The English Enlightenment and Deist Controversy",
+        "The New Science and the Royal Society"
+      ]
+    },
+    {
+      "author": "Lady Mary Wortley Montagu",
+      "movements": [
+        "The Bluestockings and Women's Letters",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Laurence Sterne",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Garrick and the Regenerated London Theatre",
+        "Sentimentalism and the Culture of Feeling",
+        "The Rise of the English Novel",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Mark Akenside",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy",
+        "The Graveyard School and Preromantic Meditation"
+      ]
+    },
+    {
+      "author": "Mary Chudleigh",
+      "movements": [
+        "The Bluestockings and Women's Letters"
+      ]
+    },
+    {
+      "author": "Mary Wollstonecraft",
+      "movements": [
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The English Enlightenment and Deist Controversy",
+        "The Evangelical Revival and Hymn Writing",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Matthew Tindal",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Nicholas Rowe",
+      "movements": [
+        "Garrick and the Regenerated London Theatre",
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling"
+      ]
+    },
+    {
+      "author": "Olaudah Equiano",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing"
+      ]
+    },
+    {
+      "author": "Oliver Goldsmith",
+      "movements": [
+        "Garrick and the Regenerated London Theatre",
+        "Sentimentalism and the Culture of Feeling",
+        "The Rise of the English Novel",
+        "The Spectator and Periodical Journalism",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "Ottobah Cugoano",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing"
+      ]
+    },
+    {
+      "author": "Philip Doddridge",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "Richard Blackmore",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Richard Brinsley Sheridan",
+      "movements": [
+        "Comedy of Manners",
+        "Garrick and the Regenerated London Theatre",
+        "Neoclassical Criticism and the Rules"
+      ]
+    },
+    {
+      "author": "Richard Price",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Richard Steele",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Neoclassical Criticism and the Rules",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Robert Blair",
+      "movements": [
+        "The Evangelical Revival and Hymn Writing",
+        "The Graveyard School and Preromantic Meditation"
+      ]
+    },
+    {
+      "author": "Robert Burns",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Gothic and the Literature of Terror",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The Evangelical Revival and Hymn Writing",
+        "The Graveyard School and Preromantic Meditation",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "Samuel Johnson",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing",
+        "Augustan Satire and the Scriblerans",
+        "Garrick and the Regenerated London Theatre",
+        "Neoclassical Criticism and the Rules",
+        "The English Enlightenment and Deist Controversy",
+        "The Graveyard School and Preromantic Meditation",
+        "The Spectator and Periodical Journalism"
+      ]
+    },
+    {
+      "author": "Samuel Richardson",
+      "movements": [
+        "Sentimentalism and the Culture of Feeling",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Sarah Fielding",
+      "movements": [
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "Susanna Centlivre",
+      "movements": [
+        "Comedy of Manners",
+        "The Restoration Theatre"
+      ]
+    },
+    {
+      "author": "Thomas Chatterton",
+      "movements": [
+        "Primitivism, the Bardic Revival and Ossian"
+      ]
+    },
+    {
+      "author": "Thomas Gray",
+      "movements": [
+        "Gothic and the Literature of Terror",
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The Evangelical Revival and Hymn Writing",
+        "The Graveyard School and Preromantic Meditation",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "Thomas Paine",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Thomas Parnell",
+      "movements": [
+        "Augustan Satire and the Scriblerans",
+        "Neoclassical Criticism and the Rules",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "Thomas Percy",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian"
+      ]
+    },
+    {
+      "author": "Thomas Reid",
+      "movements": [
+        "The English Enlightenment and Deist Controversy",
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "Thomas Warton",
+      "movements": [
+        "Gothic and the Literature of Terror",
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian"
+      ]
+    },
+    {
+      "author": "Tobias Smollett",
+      "movements": [
+        "Gothic and the Literature of Terror",
+        "Sentimentalism and the Culture of Feeling",
+        "The English Enlightenment and Deist Controversy",
+        "The Rise of the English Novel"
+      ]
+    },
+    {
+      "author": "William Beckford",
+      "movements": [
+        "Gothic and the Literature of Terror"
+      ]
+    },
+    {
+      "author": "William Blackstone",
+      "movements": [
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "William Collins",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The Graveyard School and Preromantic Meditation"
+      ]
+    },
+    {
+      "author": "William Cowper",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing",
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The Evangelical Revival and Hymn Writing",
+        "The Graveyard School and Preromantic Meditation",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "William Law",
+      "movements": [
+        "The English Mystics",
+        "The Evangelical Revival and Hymn Writing"
+      ]
+    },
+    {
+      "author": "William Mason",
+      "movements": [
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Topographical and Estate Poetry"
+      ]
+    },
+    {
+      "author": "William Paley",
+      "movements": [
+        "The Anglican and Latitudinarian Divines",
+        "The English Enlightenment and Deist Controversy"
+      ]
+    },
+    {
+      "author": "William Robertson",
+      "movements": [
+        "The Scottish Enlightenment"
+      ]
+    },
+    {
+      "author": "William Shenstone",
+      "movements": [
+        "The Graveyard School and Preromantic Meditation",
+        "Topographical and Estate Poetry"
+      ]
+    }
+  ],
+  "author_themes": [
+    {
+      "author": "Adam Ferguson",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Liberty, corruption, and the decline of nations",
+        "Politeness, fashion, and the codes of conduct",
+        "Progress, decay, and the philosophy of history"
+      ]
+    },
+    {
+      "author": "Adam Smith",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Liberty, corruption, and the decline of nations",
+        "Politeness, fashion, and the codes of conduct",
+        "Progress, decay, and the philosophy of history",
+        "Self-knowledge and the philosophy of the mind",
+        "Slavery, empire, and the Atlantic world",
+        "Sympathy, benevolence, and the moral sense",
+        "The slave trade and abolition"
+      ]
+    },
+    {
+      "author": "Alexander Pope",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Country retirement and the estate poem",
+        "Creation and cosmology",
+        "Death, mourning, and the graveyard meditation",
+        "Death, the soul, and the afterlife",
+        "Divine love and holy desire",
+        "Enthusiasm and the disease of the imagination",
+        "Exile and homelessness",
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "Melancholy and self-analysis",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Progress, decay, and the philosophy of history",
+        "Reason, faith, and the limits of understanding",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The English vernacular and national letters",
+        "The public sphere, print, and the periodical",
+        "The sublime, terror, and the ruin",
+        "Warfare and battle",
+        "Wisdom and learning",
+        "Wit, ridicule, and the war against dullness",
+        "Women's experience and the feminine voice",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Anna Laetitia Barbauld",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Creation and cosmology",
+        "Death, mourning, and the graveyard meditation",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Anthony Ashley Cooper, Third Earl of Shaftesbury",
+      "themes": [
+        "Enthusiasm and the disease of the imagination",
+        "Politeness, fashion, and the codes of conduct",
+        "Reason, faith, and the limits of understanding",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The sublime, terror, and the ruin",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Anthony Collins",
+      "themes": [
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind"
+      ]
+    },
+    {
+      "author": "Bernard Mandeville",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Enthusiasm and the disease of the imagination",
+        "Liberty, corruption, and the decline of nations",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Charles Wesley",
+      "themes": [
+        "Divine love and holy desire",
+        "Evangelical experience and assurance",
+        "Faith, grace, and the pilgrim's journey",
+        "Reformation faith and the authority of scripture",
+        "The contemplative life"
+      ]
+    },
+    {
+      "author": "Charlotte Lennox",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Enthusiasm and the disease of the imagination",
+        "Female authorship and the woman writer",
+        "Jacobitism, loyalty, and the '45",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Primitive genius and national poetry",
+        "Seduction and the betrayed heroine",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "Women's education and intellectual friendship",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "Christopher Smart",
+      "themes": [
+        "Creation and cosmology",
+        "Divine love and holy desire",
+        "Enthusiasm and the disease of the imagination",
+        "Evangelical experience and assurance",
+        "Faith, grace, and the pilgrim's journey",
+        "Time, death, and immortality through verse",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Clara Reeve",
+      "themes": [
+        "Chivalry and knighthood",
+        "Death, the soul, and the afterlife",
+        "Female authorship and the woman writer",
+        "Kingship and good rule",
+        "Loyalty and the comitatus bond",
+        "Taste, decorum, and the rules of art",
+        "The sublime, terror, and the ruin",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Daniel Defoe",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Colonial enterprise and the New World",
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Death, the soul, and the afterlife",
+        "Enthusiasm and the disease of the imagination",
+        "Fortune and mutability",
+        "Liberty of conscience and religious toleration",
+        "Liberty, corruption, and the decline of nations",
+        "Marriage and women's conduct",
+        "Medicine, healing, and the body",
+        "Order and degree: the body politic",
+        "Penance, confession, and sin",
+        "Restoration politics: party, succession, and Exclusion",
+        "Sea voyage and seafaring",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Social satire and estates criticism",
+        "The city and urban life",
+        "The public sphere, print, and the periodical",
+        "The slave trade and abolition",
+        "Wit, ridicule, and the war against dullness",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "David Hartley",
+      "themes": [
+        "Death, the soul, and the afterlife",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense"
+      ]
+    },
+    {
+      "author": "David Hume",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Enthusiasm and the disease of the imagination",
+        "Liberty, corruption, and the decline of nations",
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Progress, decay, and the philosophy of history",
+        "Reason, faith, and the limits of understanding",
+        "Religious persecution and martyrdom",
+        "Self-knowledge and the philosophy of the mind",
+        "Slavery, empire, and the Atlantic world",
+        "Sympathy, benevolence, and the moral sense",
+        "The New Science and experimental philosophy",
+        "The public sphere, print, and the periodical"
+      ]
+    },
+    {
+      "author": "Delarivier Manley",
+      "themes": [
+        "Female authorship and the woman writer",
+        "Liberty, corruption, and the decline of nations",
+        "Poverty, dependence, and the professional writer",
+        "Restoration politics: party, succession, and Exclusion",
+        "Seduction and the betrayed heroine",
+        "The public sphere, print, and the periodical",
+        "Women's experience and the feminine voice",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Edward Gibbon",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty, corruption, and the decline of nations",
+        "Melancholy and self-analysis",
+        "Patronage and the literary marketplace",
+        "Poverty, dependence, and the professional writer",
+        "Progress, decay, and the philosophy of history",
+        "Self-knowledge and the philosophy of the mind",
+        "The transience of earthly glory (ubi sunt)",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Edward Moore",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Death, the soul, and the afterlife",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Sympathy, benevolence, and the moral sense"
+      ]
+    },
+    {
+      "author": "Edward Young",
+      "themes": [
+        "Blood-feud, vengeance, and kinship",
+        "Conscience and moral self-examination",
+        "Consolation and endurance",
+        "Death, mourning, and the graveyard meditation",
+        "Death, the soul, and the afterlife",
+        "Love, constancy, and betrayal",
+        "Melancholy and self-analysis",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Primitive genius and national poetry",
+        "Reason, faith, and the limits of understanding",
+        "Revenge and justice",
+        "Seduction and the betrayed heroine",
+        "Taste, decorum, and the rules of art",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The sublime, terror, and the ruin",
+        "Time, death, and immortality through verse",
+        "Typology and biblical interpretation",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning",
+        "Wit, ridicule, and the war against dullness",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Eliza Haywood",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Country retirement and the estate poem",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Seduction and the betrayed heroine",
+        "Sympathy, benevolence, and the moral sense",
+        "Women's education and intellectual friendship",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "Elizabeth Carter",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Faith, grace, and the pilgrim's journey",
+        "Self-knowledge and the philosophy of the mind",
+        "Wisdom and learning",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Elizabeth Montagu",
+      "themes": [
+        "Female authorship and the woman writer",
+        "National identity and Englishness",
+        "Primitive genius and national poetry",
+        "Taste, decorum, and the rules of art",
+        "The public sphere, print, and the periodical"
+      ]
+    },
+    {
+      "author": "Elizabeth Rowe",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Death, mourning, and the graveyard meditation",
+        "Faith, grace, and the pilgrim's journey",
+        "Fortune and mutability",
+        "Kingship and good rule",
+        "Love, constancy, and betrayal",
+        "Sympathy, benevolence, and the moral sense",
+        "Wisdom and learning",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Erasmus Darwin",
+      "themes": [
+        "Creation and cosmology",
+        "The New Science and experimental philosophy",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Frances Burney",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Female authorship and the woman writer",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Seduction and the betrayed heroine",
+        "Taste, decorum, and the rules of art",
+        "The city and urban life",
+        "The public sphere, print, and the periodical",
+        "The public theatre and the players' world",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Francis Hutcheson",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The education of princes and magistrates"
+      ]
+    },
+    {
+      "author": "George Berkeley",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Creation and cosmology",
+        "Enthusiasm and the disease of the imagination",
+        "Liberty, corruption, and the decline of nations",
+        "Medicine, healing, and the body",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "The New Science and experimental philosophy",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "George Whitefield",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Evangelical experience and assurance",
+        "Faith, grace, and the pilgrim's journey"
+      ]
+    },
+    {
+      "author": "Gilbert White",
+      "themes": [
+        "Country retirement and the estate poem",
+        "Creation and cosmology",
+        "Rural labour, depopulation, and the deserted village",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "Granville Sharp",
+      "themes": [
+        "Liberty of conscience and religious toleration",
+        "Slavery, empire, and the Atlantic world",
+        "The slave trade and abolition",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Hannah Cowley",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Hannah More",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Death, mourning, and the graveyard meditation",
+        "Death, the soul, and the afterlife",
+        "Enthusiasm and the disease of the imagination",
+        "Evangelical experience and assurance",
+        "Marriage and women's conduct",
+        "Poverty, dependence, and the professional writer",
+        "Rural labour, depopulation, and the deserted village",
+        "Seduction and the betrayed heroine",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The public sphere, print, and the periodical"
+      ]
+    },
+    {
+      "author": "Henry Fielding",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Commerce, luxury, and commercial society",
+        "Country retirement and the estate poem",
+        "Death, the soul, and the afterlife",
+        "Enthusiasm and the disease of the imagination",
+        "Heroism and the heroic code",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Medicine, healing, and the body",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Poverty, dependence, and the professional writer",
+        "Sea voyage and seafaring",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Slavery, empire, and the Atlantic world",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The city and urban life",
+        "The public theatre and the players' world",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Henry Home, Lord Kames",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Primitive genius and national poetry",
+        "Progress, decay, and the philosophy of history",
+        "Rural labour, depopulation, and the deserted village",
+        "Self-knowledge and the philosophy of the mind",
+        "Slavery, empire, and the Atlantic world",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The sublime, terror, and the ruin"
+      ]
+    },
+    {
+      "author": "Hester Chapone",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Self-knowledge and the philosophy of the mind",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Horace Walpole",
+      "themes": [
+        "Chivalry and knighthood",
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Country retirement and the estate poem",
+        "Death, the soul, and the afterlife",
+        "Kingship and good rule",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Progress, decay, and the philosophy of history",
+        "Taste, decorum, and the rules of art",
+        "The public sphere, print, and the periodical",
+        "The sublime, terror, and the ruin",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Hugh Blair",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Death, mourning, and the graveyard meditation",
+        "Enthusiasm and the disease of the imagination",
+        "Judgment Day and eschatology",
+        "Politeness, fashion, and the codes of conduct",
+        "Primitive genius and national poetry",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The sublime, terror, and the ruin",
+        "The transience of earthly glory (ubi sunt)"
+      ]
+    },
+    {
+      "author": "Hugh Kelly",
+      "themes": [
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Sympathy, benevolence, and the moral sense"
+      ]
+    },
+    {
+      "author": "Isaac Watts",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Divine love and holy desire",
+        "Ecclesiastical reform and criticism",
+        "Evangelical experience and assurance",
+        "Reformation faith and the authority of scripture",
+        "Typology and biblical interpretation",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "James Beattie",
+      "themes": [
+        "Primitive genius and national poetry",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "Taste, decorum, and the rules of art",
+        "The sublime, terror, and the ruin",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "James Boswell",
+      "themes": [
+        "Jacobitism, loyalty, and the '45",
+        "Liberty, corruption, and the decline of nations",
+        "Patronage and the literary marketplace",
+        "Poverty, dependence, and the professional writer",
+        "Primitive genius and national poetry",
+        "Self-knowledge and the philosophy of the mind",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The public sphere, print, and the periodical",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "James Hervey",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Death, mourning, and the graveyard meditation",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Penance, confession, and sin",
+        "Reformation faith and the authority of scripture",
+        "The transience of earthly glory (ubi sunt)"
+      ]
+    },
+    {
+      "author": "James Macpherson",
+      "themes": [
+        "Death, mourning, and the graveyard meditation",
+        "Heroism and the heroic code",
+        "Primitive genius and national poetry",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The sublime, terror, and the ruin",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "author": "James Ramsay",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Slavery, empire, and the Atlantic world",
+        "The slave trade and abolition"
+      ]
+    },
+    {
+      "author": "James Thomson",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Childhood, innocence, and education",
+        "Colonial enterprise and the New World",
+        "Commerce, luxury, and commercial society",
+        "Creation and cosmology",
+        "Death, mourning, and the graveyard meditation",
+        "Enthusiasm and the disease of the imagination",
+        "Heroism and the heroic code",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "Melancholy and self-analysis",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Patronage and the literary marketplace",
+        "Primitive genius and national poetry",
+        "Progress, decay, and the philosophy of history",
+        "Rural labour, depopulation, and the deserted village",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "The city and urban life",
+        "The contemplative life",
+        "The education of princes and magistrates",
+        "The public theatre and the players' world",
+        "The sublime, terror, and the ruin",
+        "The transience of earthly glory (ubi sunt)",
+        "Warfare and battle",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Jeremy Bentham",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Liberty, corruption, and the decline of nations",
+        "Sympathy, benevolence, and the moral sense",
+        "The education of princes and magistrates",
+        "Tyranny and the abuse of power",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "John Arbuthnot",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Commerce, luxury, and commercial society",
+        "Liberty, corruption, and the decline of nations",
+        "Order and degree: the body politic",
+        "Self-knowledge and the philosophy of the mind",
+        "Taste, decorum, and the rules of art",
+        "The public sphere, print, and the periodical",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "John Dennis",
+      "themes": [
+        "Enthusiasm and the disease of the imagination",
+        "Liberty, corruption, and the decline of nations",
+        "Poverty, dependence, and the professional writer",
+        "Reason, faith, and the limits of understanding",
+        "Revenge and justice",
+        "Taste, decorum, and the rules of art",
+        "The sublime, terror, and the ruin",
+        "Time, death, and immortality through verse",
+        "Tyranny and the abuse of power",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "John Dyer",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Country retirement and the estate poem",
+        "Liberty, corruption, and the decline of nations",
+        "Progress, decay, and the philosophy of history",
+        "Rural labour, depopulation, and the deserted village",
+        "The sublime, terror, and the ruin",
+        "The transience of earthly glory (ubi sunt)"
+      ]
+    },
+    {
+      "author": "John Gay",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Commerce, luxury, and commercial society",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "Patronage and the literary marketplace",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Revenge and justice",
+        "Rural labour, depopulation, and the deserted village",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Slavery, empire, and the Atlantic world",
+        "Taste, decorum, and the rules of art",
+        "The city and urban life",
+        "The education of princes and magistrates",
+        "The public sphere, print, and the periodical",
+        "The public theatre and the players' world",
+        "The slave trade and abolition",
+        "The sublime, terror, and the ruin",
+        "Wit, ridicule, and the war against dullness",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "John Home",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Taste, decorum, and the rules of art",
+        "The literature of the nations: Scotland, Ireland, and Wales"
+      ]
+    },
+    {
+      "author": "John Millar",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Marriage and women's conduct",
+        "Order and degree: the body politic",
+        "Progress, decay, and the philosophy of history"
+      ]
+    },
+    {
+      "author": "John Newton",
+      "themes": [
+        "Death, mourning, and the graveyard meditation",
+        "Evangelical experience and assurance",
+        "Faith, grace, and the pilgrim's journey"
+      ]
+    },
+    {
+      "author": "John Toland",
+      "themes": [
+        "Enthusiasm and the disease of the imagination",
+        "Liberty of conscience and religious toleration",
+        "Liberty, corruption, and the decline of nations",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "John Wesley",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Divine love and holy desire",
+        "Evangelical experience and assurance",
+        "Reformation faith and the authority of scripture",
+        "The contemplative life",
+        "Typology and biblical interpretation"
+      ]
+    },
+    {
+      "author": "Jonathan Swift",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Commerce, luxury, and commercial society",
+        "Death, mourning, and the graveyard meditation",
+        "Death, the soul, and the afterlife",
+        "Ecclesiastical reform and criticism",
+        "Enthusiasm and the disease of the imagination",
+        "Liberty, corruption, and the decline of nations",
+        "National identity and Englishness",
+        "Order and degree: the body politic",
+        "Patronage and the literary marketplace",
+        "Poverty, dependence, and the professional writer",
+        "Progress, decay, and the philosophy of history",
+        "Reason, faith, and the limits of understanding",
+        "Reformation faith and the authority of scripture",
+        "Rural labour, depopulation, and the deserted village",
+        "Self-knowledge and the philosophy of the mind",
+        "Slavery, empire, and the Atlantic world",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The English vernacular and national letters",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The public sphere, print, and the periodical",
+        "The sublime, terror, and the ruin",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Wisdom and learning",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Joseph Addison",
+      "themes": [
+        "Ambition and the overreacher",
+        "Commerce, luxury, and commercial society",
+        "Death, the soul, and the afterlife",
+        "Enthusiasm and the disease of the imagination",
+        "Jacobitism, loyalty, and the '45",
+        "Liberty, corruption, and the decline of nations",
+        "Order and degree: the body politic",
+        "Politeness, fashion, and the codes of conduct",
+        "Primitive genius and national poetry",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The public sphere, print, and the periodical",
+        "The sublime, terror, and the ruin",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Wisdom and learning",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Joseph Butler",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Death, the soul, and the afterlife",
+        "Progress, decay, and the philosophy of history",
+        "Reason, faith, and the limits of understanding",
+        "Sympathy, benevolence, and the moral sense"
+      ]
+    },
+    {
+      "author": "Joseph Priestley",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Creation and cosmology",
+        "Ecclesiastical reform and criticism",
+        "Faith, grace, and the pilgrim's journey",
+        "Medicine, healing, and the body",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "Lady Mary Wortley Montagu",
+      "themes": [
+        "Liberty of conscience and religious toleration",
+        "Medicine, healing, and the body",
+        "Politeness, fashion, and the codes of conduct",
+        "The public sphere, print, and the periodical",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "Laurence Sterne",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Death, mourning, and the graveyard meditation",
+        "Enthusiasm and the disease of the imagination",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The public sphere, print, and the periodical",
+        "The public theatre and the players' world",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Mark Akenside",
+      "themes": [
+        "Creation and cosmology",
+        "Death, mourning, and the graveyard meditation",
+        "Liberty, corruption, and the decline of nations",
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Primitive genius and national poetry",
+        "Progress, decay, and the philosophy of history",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The public sphere, print, and the periodical",
+        "The sublime, terror, and the ruin",
+        "Tyranny and the abuse of power",
+        "Wisdom and learning",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Mary Chudleigh",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Female authorship and the woman writer",
+        "Liberty of conscience and religious toleration",
+        "Marriage and women's conduct",
+        "Restoration politics: party, succession, and Exclusion",
+        "Women's education and intellectual friendship",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "Mary Wollstonecraft",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Death, mourning, and the graveyard meditation",
+        "Ecclesiastical reform and criticism",
+        "Faith, grace, and the pilgrim's journey",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The public sphere, print, and the periodical",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Matthew Tindal",
+      "themes": [
+        "Ecclesiastical reform and criticism",
+        "Liberty of conscience and religious toleration",
+        "Reason, faith, and the limits of understanding",
+        "Sympathy, benevolence, and the moral sense",
+        "The public sphere, print, and the periodical",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Nicholas Rowe",
+      "themes": [
+        "Civil War, regicide, and the trial of the king",
+        "Conscience and moral self-examination",
+        "Exile and homelessness",
+        "Faith, grace, and the pilgrim's journey",
+        "Fortune and mutability",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "National identity and Englishness",
+        "Penance, confession, and sin",
+        "Poverty, dependence, and the professional writer",
+        "Revenge and justice",
+        "Seduction and the betrayed heroine",
+        "The English vernacular and national letters",
+        "The transience of earthly glory (ubi sunt)",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Olaudah Equiano",
+      "themes": [
+        "Faith, grace, and the pilgrim's journey",
+        "Liberty, corruption, and the decline of nations",
+        "Sea voyage and seafaring",
+        "Slavery, empire, and the Atlantic world",
+        "The slave trade and abolition"
+      ]
+    },
+    {
+      "author": "Oliver Goldsmith",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Consolation and endurance",
+        "Country retirement and the estate poem",
+        "Exile and homelessness",
+        "Fortune and mutability",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Rural labour, depopulation, and the deserted village",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "The public sphere, print, and the periodical"
+      ]
+    },
+    {
+      "author": "Ottobah Cugoano",
+      "themes": [
+        "Liberty of conscience and religious toleration",
+        "Slavery, empire, and the Atlantic world",
+        "The slave trade and abolition",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Philip Doddridge",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Faith, grace, and the pilgrim's journey",
+        "Melancholy and self-analysis",
+        "Reformation faith and the authority of scripture",
+        "Typology and biblical interpretation",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Richard Blackmore",
+      "themes": [
+        "Creation and cosmology",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Patronage and the literary marketplace",
+        "Reason, faith, and the limits of understanding",
+        "The New Science and experimental philosophy",
+        "The Passion of Christ",
+        "Typology and biblical interpretation",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "Richard Brinsley Sheridan",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Patronage and the literary marketplace",
+        "Politeness, fashion, and the codes of conduct",
+        "Taste, decorum, and the rules of art",
+        "The city and urban life",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The public theatre and the players' world",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Richard Price",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Commerce, luxury, and commercial society",
+        "Liberty, corruption, and the decline of nations",
+        "National identity and Englishness",
+        "Progress, decay, and the philosophy of history",
+        "Reason, faith, and the limits of understanding",
+        "The public sphere, print, and the periodical",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Richard Steele",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Enthusiasm and the disease of the imagination",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Primitive genius and national poetry",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The city and urban life",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The public sphere, print, and the periodical",
+        "Warfare and battle",
+        "Wit, ridicule, and the war against dullness",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Robert Blair",
+      "themes": [
+        "Consolation and endurance",
+        "Death, mourning, and the graveyard meditation",
+        "Death, the soul, and the afterlife",
+        "Judgment Day and eschatology",
+        "The sublime, terror, and the ruin"
+      ]
+    },
+    {
+      "author": "Robert Burns",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Death, mourning, and the graveyard meditation",
+        "Enthusiasm and the disease of the imagination",
+        "Evangelical experience and assurance",
+        "Fortune and mutability",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "Monsters and the marvellous",
+        "Politeness, fashion, and the codes of conduct",
+        "Primitive genius and national poetry",
+        "Rural labour, depopulation, and the deserted village",
+        "Social satire and estates criticism",
+        "Sympathy, benevolence, and the moral sense",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "Time, death, and immortality through verse",
+        "Warfare and battle",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Samuel Johnson",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Death, mourning, and the graveyard meditation",
+        "Fortune and mutability",
+        "Liberty, corruption, and the decline of nations",
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The English vernacular and national letters",
+        "The city and urban life",
+        "The contemplative life",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The public sphere, print, and the periodical",
+        "The public theatre and the players' world",
+        "The slave trade and abolition",
+        "The transience of earthly glory (ubi sunt)",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "Samuel Richardson",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Death, the soul, and the afterlife",
+        "Liberty of conscience and religious toleration",
+        "Marriage and women's conduct",
+        "Penance, confession, and sin",
+        "Politeness, fashion, and the codes of conduct",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Women, chastity, and constancy"
+      ]
+    },
+    {
+      "author": "Sarah Fielding",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Commerce, luxury, and commercial society",
+        "Death, mourning, and the graveyard meditation",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Seduction and the betrayed heroine",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "Susanna Centlivre",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Love, constancy, and betrayal",
+        "Marriage and women's conduct",
+        "Politeness, fashion, and the codes of conduct",
+        "Restoration politics: party, succession, and Exclusion",
+        "The city and urban life",
+        "Women's experience and the feminine voice"
+      ]
+    },
+    {
+      "author": "Thomas Chatterton",
+      "themes": [
+        "Chivalry and knighthood",
+        "Death, the soul, and the afterlife",
+        "Faith, grace, and the pilgrim's journey",
+        "Heroism and the heroic code",
+        "National identity and Englishness",
+        "Primitive genius and national poetry",
+        "Sympathy, benevolence, and the moral sense",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "author": "Thomas Gray",
+      "themes": [
+        "Ambition and the overreacher",
+        "Childhood, innocence, and education",
+        "Conscience and moral self-examination",
+        "Death, mourning, and the graveyard meditation",
+        "Death, the soul, and the afterlife",
+        "Fortune and mutability",
+        "Heroism and the heroic code",
+        "Liberty, corruption, and the decline of nations",
+        "Melancholy and self-analysis",
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Poverty, dependence, and the professional writer",
+        "Primitive genius and national poetry",
+        "Reason, faith, and the limits of understanding",
+        "Rural labour, depopulation, and the deserted village",
+        "Self-knowledge and the philosophy of the mind",
+        "Solitude and the hall community",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The sublime, terror, and the ruin",
+        "The transience of earthly glory (ubi sunt)",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Wisdom and learning",
+        "Women's experience and the feminine voice",
+        "Wyrd (fate) and providence"
+      ]
+    },
+    {
+      "author": "Thomas Paine",
+      "themes": [
+        "Fortune and mutability",
+        "Kingship and good rule",
+        "Liberty, corruption, and the decline of nations",
+        "The public sphere, print, and the periodical",
+        "Tyranny and the abuse of power",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "author": "Thomas Parnell",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Death, the soul, and the afterlife",
+        "Enthusiasm and the disease of the imagination",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "Solitude and the hall community",
+        "Taste, decorum, and the rules of art",
+        "The English vernacular and national letters",
+        "The sublime, terror, and the ruin",
+        "Wisdom and learning",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "Thomas Percy",
+      "themes": [
+        "Chivalry and knighthood",
+        "Liberty, corruption, and the decline of nations",
+        "Love, constancy, and betrayal",
+        "National identity and Englishness",
+        "Primitive genius and national poetry",
+        "Progress, decay, and the philosophy of history",
+        "Taste, decorum, and the rules of art",
+        "The English vernacular and national letters",
+        "Warfare and battle"
+      ]
+    },
+    {
+      "author": "Thomas Reid",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Reason, faith, and the limits of understanding",
+        "Self-knowledge and the philosophy of the mind",
+        "The New Science and experimental philosophy"
+      ]
+    },
+    {
+      "author": "Thomas Warton",
+      "themes": [
+        "Death, mourning, and the graveyard meditation",
+        "National identity and Englishness",
+        "Primitive genius and national poetry",
+        "Progress, decay, and the philosophy of history",
+        "Taste, decorum, and the rules of art",
+        "The English vernacular and national letters"
+      ]
+    },
+    {
+      "author": "Tobias Smollett",
+      "themes": [
+        "Appearance, dissembling, and self-fashioning",
+        "Chivalry and knighthood",
+        "Civil War, regicide, and the trial of the king",
+        "Commerce, luxury, and commercial society",
+        "Enthusiasm and the disease of the imagination",
+        "Kingship and good rule",
+        "Liberty, corruption, and the decline of nations",
+        "National identity and Englishness",
+        "Patronage and the literary marketplace",
+        "Penance, confession, and sin",
+        "Politeness, fashion, and the codes of conduct",
+        "Poverty, dependence, and the professional writer",
+        "Progress, decay, and the philosophy of history",
+        "Rural labour, depopulation, and the deserted village",
+        "Sea voyage and seafaring",
+        "Seduction and the betrayed heroine",
+        "Slavery, empire, and the Atlantic world",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "The sublime, terror, and the ruin",
+        "Tyranny and the abuse of power",
+        "Warfare and battle",
+        "Wit, ridicule, and the war against dullness"
+      ]
+    },
+    {
+      "author": "William Beckford",
+      "themes": [
+        "Ambition and the overreacher",
+        "Enthusiasm and the disease of the imagination",
+        "Liberty, corruption, and the decline of nations",
+        "The sublime, terror, and the ruin",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "William Blackstone",
+      "themes": [
+        "Liberty, corruption, and the decline of nations",
+        "Order and degree: the body politic",
+        "The education of princes and magistrates",
+        "The public sphere, print, and the periodical",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "William Collins",
+      "themes": [
+        "Carpe diem and the pleasures of the present",
+        "Creation and cosmology",
+        "Death, mourning, and the graveyard meditation",
+        "Divine love and holy desire",
+        "Enthusiasm and the disease of the imagination",
+        "Love, constancy, and betrayal",
+        "Melancholy and self-analysis",
+        "Patronage and the literary marketplace",
+        "Petrarchan desire and the sonnet mistress",
+        "Primitive genius and national poetry",
+        "Self-knowledge and the philosophy of the mind",
+        "Sympathy, benevolence, and the moral sense",
+        "Taste, decorum, and the rules of art",
+        "The sublime, terror, and the ruin",
+        "Time, death, and immortality through verse",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "author": "William Cowper",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Commerce, luxury, and commercial society",
+        "Consolation and endurance",
+        "Death, mourning, and the graveyard meditation",
+        "Evangelical experience and assurance",
+        "Faith, grace, and the pilgrim's journey",
+        "Liberty, corruption, and the decline of nations",
+        "Melancholy and self-analysis",
+        "Politeness, fashion, and the codes of conduct",
+        "Rural labour, depopulation, and the deserted village",
+        "Self-knowledge and the philosophy of the mind",
+        "Taste, decorum, and the rules of art",
+        "The city and urban life",
+        "The public sphere, print, and the periodical",
+        "The slave trade and abolition",
+        "Warfare and battle",
+        "Women's education and intellectual friendship"
+      ]
+    },
+    {
+      "author": "William Law",
+      "themes": [
+        "Conscience and moral self-examination",
+        "Divine love and holy desire",
+        "Enthusiasm and the disease of the imagination",
+        "Faith, grace, and the pilgrim's journey",
+        "Politeness, fashion, and the codes of conduct",
+        "The contemplative life"
+      ]
+    },
+    {
+      "author": "William Mason",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Country retirement and the estate poem",
+        "Heroism and the heroic code",
+        "Liberty, corruption, and the decline of nations",
+        "National identity and Englishness",
+        "Taste, decorum, and the rules of art",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "William Paley",
+      "themes": [
+        "Commerce, luxury, and commercial society",
+        "Conscience and moral self-examination",
+        "Reason, faith, and the limits of understanding",
+        "The education of princes and magistrates"
+      ]
+    },
+    {
+      "author": "William Robertson",
+      "themes": [
+        "Colonial enterprise and the New World",
+        "Creation and cosmology",
+        "Kingship and good rule",
+        "Liberty, corruption, and the decline of nations",
+        "Progress, decay, and the philosophy of history",
+        "Reformation faith and the authority of scripture",
+        "Religious persecution and martyrdom",
+        "Slavery, empire, and the Atlantic world",
+        "The literature of the nations: Scotland, Ireland, and Wales",
+        "Tyranny and the abuse of power"
+      ]
+    },
+    {
+      "author": "William Shenstone",
+      "themes": [
+        "Childhood, innocence, and education",
+        "Country retirement and the estate poem",
+        "Death, mourning, and the graveyard meditation",
+        "Progress, decay, and the philosophy of history",
+        "Rural labour, depopulation, and the deserted village",
+        "The sublime, terror, and the ruin"
+      ]
+    }
+  ],
+  "author_influences": [
+    {
+      "author": "Joseph Addison",
+      "influenced_by": [
+        "John Locke",
+        "Richard Steele"
+      ]
+    },
+    {
+      "author": "Richard Steele",
+      "influenced_by": [
+        "Joseph Addison"
+      ]
+    },
+    {
+      "author": "Alexander Pope",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Jonathan Swift",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "John Gay",
+      "influenced_by": [
+        "Alexander Pope",
+        "Jonathan Swift"
+      ]
+    },
+    {
+      "author": "Thomas Parnell",
+      "influenced_by": [
+        "Alexander Pope"
+      ]
+    },
+    {
+      "author": "Nicholas Rowe",
+      "influenced_by": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "James Thomson",
+      "influenced_by": [
+        "John Milton"
+      ]
+    },
+    {
+      "author": "Richard Blackmore",
+      "influenced_by": [
+        "John Milton"
+      ]
+    },
+    {
+      "author": "Edward Young",
+      "influenced_by": [
+        "John Milton"
+      ]
+    },
+    {
+      "author": "Thomas Gray",
+      "influenced_by": [
+        "John Milton"
+      ]
+    },
+    {
+      "author": "William Collins",
+      "influenced_by": [
+        "John Milton",
+        "Thomas Gray"
+      ]
+    },
+    {
+      "author": "Mark Akenside",
+      "influenced_by": [
+        "John Milton",
+        "Joseph Addison"
+      ]
+    },
+    {
+      "author": "William Shenstone",
+      "influenced_by": [
+        "Alexander Pope",
+        "Edmund Spenser",
+        "James Thomson"
+      ]
+    },
+    {
+      "author": "William Mason",
+      "influenced_by": [
+        "Alexander Pope",
+        "James Thomson",
+        "Thomas Gray"
+      ]
+    },
+    {
+      "author": "Robert Blair",
+      "influenced_by": [
+        "John Milton"
+      ]
+    },
+    {
+      "author": "John Dyer",
+      "influenced_by": [
+        "James Thomson"
+      ]
+    },
+    {
+      "author": "Oliver Goldsmith",
+      "influenced_by": [
+        "Alexander Pope"
+      ]
+    },
+    {
+      "author": "William Cowper",
+      "influenced_by": [
+        "James Thomson",
+        "John Milton"
+      ]
+    },
+    {
+      "author": "Robert Burns",
+      "influenced_by": [
+        "Alexander Pope"
+      ]
+    },
+    {
+      "author": "Samuel Johnson",
+      "influenced_by": [
+        "Alexander Pope",
+        "Joseph Addison",
+        "Robert Burton",
+        "Sir Thomas Browne"
+      ]
+    },
+    {
+      "author": "James Boswell",
+      "influenced_by": [
+        "Samuel Johnson"
+      ]
+    },
+    {
+      "author": "Hugh Blair",
+      "influenced_by": [
+        "Joseph Addison"
+      ]
+    },
+    {
+      "author": "John Dennis",
+      "influenced_by": [
+        "John Dryden"
+      ]
+    },
+    {
+      "author": "Thomas Warton",
+      "influenced_by": [
+        "Edmund Spenser"
+      ]
+    },
+    {
+      "author": "Anna Laetitia Barbauld",
+      "influenced_by": [
+        "Alexander Pope"
+      ]
+    },
+    {
+      "author": "Daniel Defoe",
+      "influenced_by": [
+        "John Bunyan"
+      ]
+    },
+    {
+      "author": "Delarivier Manley",
+      "influenced_by": [
+        "Aphra Behn"
+      ]
+    },
+    {
+      "author": "Susanna Centlivre",
+      "influenced_by": [
+        "John Vanbrugh",
+        "William Congreve"
+      ]
+    },
+    {
+      "author": "Eliza Haywood",
+      "influenced_by": [
+        "Aphra Behn",
+        "Delarivier Manley",
+        "Samuel Richardson"
+      ]
+    },
+    {
+      "author": "Samuel Richardson",
+      "influenced_by": [
+        "Aphra Behn",
+        "Daniel Defoe"
+      ]
+    },
+    {
+      "author": "Henry Fielding",
+      "influenced_by": [
+        "Jonathan Swift",
+        "Samuel Richardson"
+      ]
+    },
+    {
+      "author": "Sarah Fielding",
+      "influenced_by": [
+        "Henry Fielding",
+        "Samuel Richardson"
+      ]
+    },
+    {
+      "author": "Charlotte Lennox",
+      "influenced_by": [
+        "Samuel Johnson",
+        "Samuel Richardson"
+      ]
+    },
+    {
+      "author": "Tobias Smollett",
+      "influenced_by": [
+        "Jonathan Swift"
+      ]
+    },
+    {
+      "author": "Laurence Sterne",
+      "influenced_by": [
+        "John Locke",
+        "Jonathan Swift"
+      ]
+    },
+    {
+      "author": "Clara Reeve",
+      "influenced_by": [
+        "Horace Walpole"
+      ]
+    },
+    {
+      "author": "William Beckford",
+      "influenced_by": [
+        "Samuel Johnson"
+      ]
+    },
+    {
+      "author": "Hugh Kelly",
+      "influenced_by": [
+        "Richard Steele"
+      ]
+    },
+    {
+      "author": "Hannah Cowley",
+      "influenced_by": [
+        "Oliver Goldsmith",
+        "Richard Brinsley Sheridan",
+        "Samuel Richardson"
+      ]
+    },
+    {
+      "author": "John Home",
+      "influenced_by": [
+        "David Hume"
+      ]
+    },
+    {
+      "author": "Richard Brinsley Sheridan",
+      "influenced_by": [
+        "William Congreve"
+      ]
+    },
+    {
+      "author": "Mary Chudleigh",
+      "influenced_by": [
+        "Mary Astell"
+      ]
+    },
+    {
+      "author": "Lady Mary Wortley Montagu",
+      "influenced_by": [
+        "Alexander Pope"
+      ]
+    },
+    {
+      "author": "Elizabeth Carter",
+      "influenced_by": [
+        "Elizabeth Montagu"
+      ]
+    },
+    {
+      "author": "Elizabeth Montagu",
+      "influenced_by": [
+        "Alexander Pope",
+        "William Shakespeare"
+      ]
+    },
+    {
+      "author": "Hester Chapone",
+      "influenced_by": [
+        "Elizabeth Carter",
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Hannah More",
+      "influenced_by": [
+        "Elizabeth Montagu"
+      ]
+    },
+    {
+      "author": "Frances Burney",
+      "influenced_by": [
+        "Henry Fielding",
+        "Samuel Richardson"
+      ]
+    },
+    {
+      "author": "Mary Wollstonecraft",
+      "influenced_by": [
+        "John Locke",
+        "Richard Price"
+      ]
+    },
+    {
+      "author": "Anthony Ashley Cooper, Third Earl of Shaftesbury",
+      "influenced_by": [
+        "John Locke"
+      ]
+    },
+    {
+      "author": "John Toland",
+      "influenced_by": [
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Anthony Collins",
+      "influenced_by": [
+        "Anthony Ashley Cooper, Third Earl of Shaftesbury",
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Matthew Tindal",
+      "influenced_by": [
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Joseph Butler",
+      "influenced_by": [
+        "Anthony Ashley Cooper, Third Earl of Shaftesbury",
+        "John Locke"
+      ]
+    },
+    {
+      "author": "George Berkeley",
+      "influenced_by": [
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Francis Hutcheson",
+      "influenced_by": [
+        "Anthony Ashley Cooper, Third Earl of Shaftesbury"
+      ]
+    },
+    {
+      "author": "David Hume",
+      "influenced_by": [
+        "Anthony Ashley Cooper, Third Earl of Shaftesbury",
+        "Bernard Mandeville",
+        "George Berkeley",
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Adam Smith",
+      "influenced_by": [
+        "Bernard Mandeville",
+        "David Hume",
+        "Francis Hutcheson"
+      ]
+    },
+    {
+      "author": "Thomas Reid",
+      "influenced_by": [
+        "Francis Hutcheson",
+        "George Berkeley",
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Adam Ferguson",
+      "influenced_by": [
+        "Adam Smith",
+        "Henry Home, Lord Kames"
+      ]
+    },
+    {
+      "author": "John Millar",
+      "influenced_by": [
+        "Adam Ferguson",
+        "Adam Smith",
+        "Francis Hutcheson"
+      ]
+    },
+    {
+      "author": "James Beattie",
+      "influenced_by": [
+        "Francis Hutcheson",
+        "James Thomson",
+        "Joseph Butler",
+        "Thomas Reid"
+      ]
+    },
+    {
+      "author": "Henry Home, Lord Kames",
+      "influenced_by": [
+        "Francis Hutcheson",
+        "Joseph Butler"
+      ]
+    },
+    {
+      "author": "David Hartley",
+      "influenced_by": [
+        "John Locke",
+        "Joseph Butler"
+      ]
+    },
+    {
+      "author": "Edward Gibbon",
+      "influenced_by": [
+        "David Hume"
+      ]
+    },
+    {
+      "author": "William Robertson",
+      "influenced_by": [
+        "David Hume",
+        "Francis Hutcheson"
+      ]
+    },
+    {
+      "author": "Joseph Priestley",
+      "influenced_by": [
+        "David Hartley",
+        "John Locke"
+      ]
+    },
+    {
+      "author": "Richard Price",
+      "influenced_by": [
+        "John Locke",
+        "Joseph Butler"
+      ]
+    },
+    {
+      "author": "Jeremy Bentham",
+      "influenced_by": [
+        "David Hume",
+        "Joseph Priestley"
+      ]
+    },
+    {
+      "author": "William Paley",
+      "influenced_by": [
+        "Adam Smith",
+        "David Hume",
+        "Joseph Butler"
+      ]
+    },
+    {
+      "author": "John Wesley",
+      "influenced_by": [
+        "George Whitefield",
+        "William Law"
+      ]
+    },
+    {
+      "author": "Charles Wesley",
+      "influenced_by": [
+        "Isaac Watts",
+        "William Law"
+      ]
+    },
+    {
+      "author": "George Whitefield",
+      "influenced_by": [
+        "Charles Wesley",
+        "John Wesley"
+      ]
+    },
+    {
+      "author": "Philip Doddridge",
+      "influenced_by": [
+        "Isaac Watts",
+        "John Bunyan",
+        "Joseph Butler"
+      ]
+    },
+    {
+      "author": "Isaac Watts",
+      "influenced_by": [
+        "John Locke"
+      ]
+    },
+    {
+      "author": "John Newton",
+      "influenced_by": [
+        "George Whitefield",
+        "William Law"
+      ]
+    },
+    {
+      "author": "James Hervey",
+      "influenced_by": [
+        "Joseph Addison",
+        "Sir Thomas Browne"
+      ]
+    },
+    {
+      "author": "Erasmus Darwin",
+      "influenced_by": [
+        "Joseph Priestley"
+      ]
+    },
+    {
+      "author": "Olaudah Equiano",
+      "influenced_by": [
+        "Granville Sharp"
+      ]
+    },
+    {
+      "author": "Ottobah Cugoano",
+      "influenced_by": [
+        "Granville Sharp"
+      ]
+    },
+    {
+      "author": "Granville Sharp",
+      "influenced_by": [
+        "William Blackstone"
+      ]
+    },
+    {
+      "author": "James Ramsay",
+      "influenced_by": [
+        "Joseph Butler"
+      ]
+    }
+  ],
+  "period_movements": [
+    {
+      "period": "Augustan and Eighteenth-Century Period",
+      "movements": [
+        "Abolitionist and Anti-Slavery Writing",
+        "Augustan Satire and the Scriblerans",
+        "Garrick and the Regenerated London Theatre",
+        "Gothic and the Literature of Terror",
+        "Neoclassical Criticism and the Rules",
+        "Primitivism, the Bardic Revival and Ossian",
+        "Sentimentalism and the Culture of Feeling",
+        "The Bluestockings and Women's Letters",
+        "The English Enlightenment and Deist Controversy",
+        "The Evangelical Revival and Hymn Writing",
+        "The Graveyard School and Preromantic Meditation",
+        "The Rise of the English Novel",
+        "The Scottish Enlightenment",
+        "The Spectator and Periodical Journalism",
+        "Topographical and Estate Poetry"
+      ]
+    }
+  ]
+}
