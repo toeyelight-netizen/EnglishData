@@ -8,8 +8,19 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 - Current schema revision (Alembic): `e4f5a6b7c8d9` (initial schema + FTS5 +
   work detail columns + author `significance_tier` + author
   `bibliographical_notes`).
-- Current position: installments 1–8 imported; **579 authors / 2226 works**
-  across eight periods (c. 450–1901).
+- Current position: installments 1–9 imported; **846 authors / 2838 works**
+  across nine periods (c. 450–1945). Installments 8 and 9 have all their
+  content and pass validation; their close-out (statistics, exports, Android
+  asset) is still to do. See *Installments 8–9: enrichment and quality pass*
+  at the end of this file.
+- 2026-11-05: the master database was rebuilt from the committed JSON
+  (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
+  reset. The gitignored snapshots and backups listed below did not survive the
+  reset; every database state can be rebuilt from the JSON. `import_data.py`
+  now treats the relationships JSON as authoritative for every work, author,
+  period and movement it names. Links removed from the data are therefore
+  removed from the database too, instead of surviving as stale rows; before
+  this fix, re-categorised genres and themes kept their old links.
 - Installment snapshots: `database/English_Literature_Master_installment_07.db`
   (last snapshot kept on disk), with `database/backups/pre_import_07.db` as the
   pre-import recoverable backup. Installment 8 was imported into the master
@@ -29,7 +40,8 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `documentation/validation_reports/validation_report_05.md`,
   `documentation/validation_reports/validation_report_06.md`,
   `documentation/validation_reports/validation_report_07.md`,
-  `documentation/validation_reports/validation_report_08.md`.
+  `documentation/validation_reports/validation_report_08.md`,
+  `documentation/validation_reports/validation_report_09.md`.
 
 ## Installment 1 — Old English and Early Medieval Literature (c. 450–1100)
 
@@ -1131,11 +1143,17 @@ careers).
 
 ## Installment 8 — Victorian Period, British and American (1832–1901)
 
-**Status: in progress.** Cumulative database after the latest import: **579
-authors, 2226 works** (147 anonymous), 8 periods, 87 movements, 153 genres, 142
-themes, 301 sources, 2432 recorded editions. Installment 8 alone accounts for
-**161 authors and 771 works** and for all 21 new movements, 27 new genres and 27
-new themes introduced for the period.
+**Status: content complete; close-out pending.** After the coverage audit
+(`documentation/COVERAGE_AUDIT_08_09.md`, waves A–I) installment 8 holds **232
+authors and 885 works**, and none of the 237 names in its canon list is absent
+from the database. Field enrichment and the quality pass are described under
+*Installments 8–9: enrichment and quality pass* at the end of this file.
+
+At the end of the original waves the cumulative database held 579 authors and
+2226 works (147 anonymous), 8 periods, 87 movements, 153 genres, 142 themes,
+301 sources and 2432 recorded editions; installment 8 then accounted for 161
+authors and 771 works and for all 21 new movements, 27 new genres and 27 new
+themes introduced for the period.
 
 ### Scope
 
@@ -1274,28 +1292,92 @@ Deliberately not yet recorded, so nothing is lost: British — Florence Marryat,
 Netta Syrett, Evelyn Sharp, Clementina Black, Allen Upward, Harriet Martineau's
 later fiction and the minor poets of the 1890s; American — the regional writers
 of the far West, the later Native American autobiographers after Eastman, and
-the immigrant fiction of the 1900s. The Phase-1 audit document remains the
+the immigrant fiction of the 1900s. (Update, 2026-11-05: the coverage audit has
+since added Netta Syrett, Zitkala-Sa, Abraham Cahan and Sui Sin Far; Florence
+Marryat, Evelyn Sharp, Clementina Black and Allen Upward are still unrecorded.)
+The Phase-1 audit document remains the
 one open deliverable of the original plan; the significance-tier filter for
 the UI (Phase 5) is now implemented — see below — and the instrument needs to
 be extended backwards to installments 1–7, which are still ungraded.
 
 ---
 
-## Installments 9–10
+## Installment 9 — Edwardian and Interwar, British and American (1901–1945)
 
-Not started. Per protocol, the next installment begins only on instruction.
-Scope agreed for these installments: the English and British canon **and** a
-distinct American strand, with broader Anglophone and postcolonial writing out
-of scope.
+**Status: content complete; close-out pending.** **197 authors and 498
+works** under 31 genres. None of the 210 names in the canon list is absent from
+the database (`documentation/COVERAGE_AUDIT_08_09.md`, waves J–V). The works
+are written in `scripts/content/content_i09_*.py` through the `w()` factory in
+`scripts/content/i09_taxonomy.py`. That factory resolves every genre, theme and
+movement against the taxonomy of all installments, and the build fails on an
+unknown or ambiguous name.
+
+### Genre taxonomy correction (28 → 31 genres)
+
+The taxonomy had only five verse genres (Modernist Long Poem, Imagist,
+Georgian, Trench, New Negro), so poets who fitted none of them had been filed
+under Georgian or Imagist. Yeats, Auden, cummings and Muir were Georgian; *The
+Waste Land*, *The Bridge*, Owen, Hughes, Empson and MacNeice were Imagist.
+Three genres were added: **Modernist Lyric and the New Idiom**, **Thirties
+Political Lyric and the Auden Generation** and **Irish Revival Lyric and the
+Celtic Twilight**. 54 works were re-genred. Georgian now holds 28 works (Brooke,
+de la Mare, Davies, Squire, Sassoon, Masefield and their circle). Imagist holds
+10 (Pound, H.D., Flint, Aldington, Read, Joyce's *Chamber Music* and Williams).
+
+## Installments 8–9: enrichment and quality pass
+
+- **principal_characters**, all hand-authored. Installment 8: **644 of 885**
+  works (72.8%; installments 5–7 stand at 73%, 70% and 68%). Installment 9:
+  **434 of 498** (87%). Uncertain names were checked by web search, and
+  anything that could not be verified stays null.
+  - Collections list the speakers or protagonists of their main pieces.
+  - Person-centred non-fiction lists the narrator and the principal subjects.
+  - Abstract criticism, history and pure lyric volumes are null by policy.
+  - Automatic character extraction was retired because it produced wrong
+    names (`CHARACTER_FALLBACK = False` in `scripts/content_enrich.py`).
+- **Summary corrections.** Researching the characters exposed wrong plot and
+  argument texts, and 167 were corrected. The faults were invented names,
+  titles and quotations; collections credited with poems from other volumes;
+  and reversed or conflated plots. 24 context prefixes were also repaired.
+- **historical_context regression.** Enrichment revision 12 had replaced
+  authored contexts with generic text, while fill-rate checks still showed
+  100%. The authored contexts were restored, and `check_installment.py` gained
+  two boilerplate gates. They fail the build if generic text reaches
+  `historical_context` or `principal_characters`.
+- **Stale links.** See the 2026-11-05 note under *Protocol state*.
+
+### Close-out still to do (installments 8–9)
+
+1. Run `scripts/generate_statistics.py`, `scripts/export_data.py`,
+   `scripts/export_app_data.py` and `android/build.py`. Then re-check the
+   Phase-5 tier ladder, since 428 of the 846 authors are now graded.
+2. Update `documentation/DATABASE_SCHEMA.md` and the validation reports.
+3. Follow-ups:
+   - Lady Florence Dixie (*Gloriana*, *Across Patagonia*) was planned in
+     coverage wave H but never added. She is the one ledger row still marked
+     TODO; the other 209 rows were checked against the database and marked
+     DONE.
+   - Movements cover only 383 of installment 9's 498 works.
+   - A few genre oddities remain: Frost's poems are tagged Regional Novel, and
+     *The Listeners* is tagged Ghost Story.
+   - Some installment-9 boilerplate descriptions call prose criticism "a verse
+     work".
+
+## Installment 10 — Postwar and Late Twentieth Century, British and American (1945–2000)
+
+Not started. It follows the installment 8–9 close-out. The agreed scope is the
+English and British canon **and** a distinct American strand, with broader
+Anglophone and postcolonial writing out of scope.
 
 | # | Period | Status |
 |---|---|---|
+| 1 | Old English and Early Medieval Literature (c. 450–1100) | Complete |
 | 2 | Middle English Literature (c. 1100–1500) | Complete |
 | 3 | Renaissance and Early Tudor (c. 1500–1558) | Complete |
 | 4 | Elizabethan and Jacobean (1558–1625) | Complete |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
-| 8 | Victorian and American nineteenth century (1832–1901) | Complete (161 authors, 771 works) |
-| 9 | Edwardian–Interwar, British and American (1901–1945) | Pending |
+| 8 | Victorian and American nineteenth century (1832–1901) | Content complete (232 authors, 885 works); close-out pending |
+| 9 | Edwardian–Interwar, British and American (1901–1945) | Content complete (197 authors, 498 works); close-out pending |
 | 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |
