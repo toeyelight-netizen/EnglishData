@@ -45,7 +45,7 @@ MAP_B20 = {
         ['Class, the servant problem, and the new democracy', 'The suburb, the villa, and the new domesticity'],
         []),
     'Dubliners': (['James Joyce'],
-        ['Modern Short Story and the Magazine Tale', 'Regional Novel and the American Local-Colour Inheritance'],
+        ['Modern Short Story and the Magazine Tale'],
         ['Ireland, Home Rule, and the national question', 'The absurd, the void, and the failure of meaning', 'Class, the servant problem, and the new democracy', 'Death, elegy, and the modern funeral'],
         ['The Irish Literary Revival and the Abbey Theatre', 'The Celtic Twilight and the Irish Short Story']),
     'A Portrait of the Artist as a Young Man': (['James Joyce'],

@@ -25,7 +25,7 @@ MAP_B5 = {
         ['The absurd, the void, and the failure of meaning', 'Religion, doubt, and the post-war faith', 'Mass society, the crowd, and the individual talent', 'Totalitarianism, propaganda, and the political novel'],
         ['The Edwardian Country House and the Condition of England', 'The Waste Land Generation and the Mythical Method']),
     'The Innocence of Father Brown': (['G. K. Chesterton'],
-        ['Detective Novel and the Golden Age Mystery', 'Ghost Story and the Modern Weird Tale'],
+        ['Detective Novel and the Golden Age Mystery', 'Modern Short Story and the Magazine Tale'],
         ['Religion, doubt, and the post-war faith', 'The absurd, the void, and the failure of meaning', 'Class, the servant problem, and the new democracy', 'Mass society, the crowd, and the individual talent'],
         ['The Golden Age of Detective Fiction']),
     'Orthodoxy': (['G. K. Chesterton'],
