@@ -7,16 +7,24 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 
 - Current schema revision (Alembic): `c2d3e4f5a6b7` (initial schema + FTS5 +
   work detail columns).
+- Installment snapshots: `database/English_Literature_Master_installment_07.db`
+  (cumulative), with `database/backups/pre_import_07.db` as the pre-import
+  recoverable backup.
 - Backups: `database/backups/English_Literature_Master_installment_01.db`,
   `database/backups/English_Literature_Master_installment_02.db`,
   `database/backups/English_Literature_Master_installment_03.db`,
   `database/backups/English_Literature_Master_installment_04.db`,
-  `database/backups/English_Literature_Master_installment_05.db`.
+  `database/backups/English_Literature_Master_installment_05.db`,
+  `database/backups/pre_import_07.db`.
+- Installment-07 data snapshot (the untracked JSON tree before the agents'
+  file collision was fixed): `backups/data_snapshot_i07_20261105_0041.zip`.
 - Validation reports: `documentation/validation_reports/validation_report_01.md`,
   `documentation/validation_reports/validation_report_02.md`,
   `documentation/validation_reports/validation_report_03.md`,
   `documentation/validation_reports/validation_report_04.md`,
-  `documentation/validation_reports/validation_report_05.md`.
+  `documentation/validation_reports/validation_report_05.md`,
+  `documentation/validation_reports/validation_report_06.md`,
+  `documentation/validation_reports/validation_report_07.md`.
 
 ## Installment 1 — Old English and Early Medieval Literature (c. 450–1100)
 
@@ -1016,9 +1024,109 @@ genres, 91 themes, 77 sources.
 
 ---
 
-## Installments 7–10
+## Installment 7 — Romantic Period, British and American (c. 1789–1832)
 
-Not yet begun. Per protocol, the next installment begins only on instruction.
+**Status: COMPLETE** — 2026-11-05
+
+### Scope
+
+The British and American Romantic period. Coverage: the Lyrical Ballads
+generation and the Lake poets, Byron and the Byronic revolt, Shelley and
+radical Romanticism, Keats and the sensuous ode, the Regency popular-verse and
+annual public, Labouring-class and village poetry, the Gothic and the
+literature of terror, the philosophical fiction of the Godwin circle, the
+essay and review, the Romantic sonnet revival, topographical and estate verse,
+the drama of the Regency stage, and the transatlantic strand: Charles Brockden
+Brown and the American Gothic, Cooper and the romance of forest and sea, the
+Knickerbocker group and the American sketch, Bryant and the American nature
+lyric, the early American republic and its letters, and abolitionist and
+anti-slavery writing in both nations.
+
+### Newly added by this installment
+
+| Entity | Added | Cumulative |
+|---|---|---|
+| Authors | +108 | 418 |
+| Works | +394 | 1455 |
+| Periods | +1 (Romantic Period) | 7 |
+| Movements | +17 | 66 |
+| Genres | +24 | 126 |
+| Themes | +24 | 115 |
+| Sources | +167 | 244 |
+| Editions recorded | +1401 | 2432 |
+| `work_sources` links | +2515 | 6280 |
+| `author_sources` links | +598 | 1771 |
+
+### Verification gates run at completion
+
+- `scripts/audit_installment.py 07` — 0 ERRORs before import (394 works in 16
+  batch files, 108 authors in 21 files, 167 sources, 394 map entries).
+- `scripts/installment_toolkit.py check 07 b*` — CLEAN for every batch.
+- `scripts/import_data.py` run twice: byte-identical row counts on the second
+  run, so the import is idempotent and created no duplicates.
+- `scripts/validate_database.py --installment 07` — 0 issues
+  (`documentation/validation_reports/validation_report_07.md`).
+- `scripts/check_duplicates.py` — 0 potential duplicate groups.
+- `python -m unittest discover -s tests` — 14 tests, OK.
+- Installment backup preserved at
+  `database/backups/pre_import_07.db`; the cumulative snapshot is
+  `database/English_Literature_Master_installment_07.db`.
+
+### Method notes and corrections made during research
+
+- Sources are attached by strand. A period-wide reference (the ODNB) stands
+  behind every work; the Norton *English Literature* Romantic volume and the
+  Cambridge Companion attach to British works, the Norton *American
+  Literature* volume to American ones. Nothing is stapled to a work whose
+  subject it is not — the earlier behaviour of attaching every "general"
+  reference to every work was removed, and the average is 6.38 sources per
+  work against installment 6's 5.8.
+- *Zofloya; or, The Moor* (1806) is Charlotte Dacre's, not Charlotte Smith's;
+  an attribution to Smith was caught in verification and corrected.
+- Morse's *The American Universal Geography* is dated to the verified 1793
+  first edition, with the 1789 *American Geography* antecedent recorded in
+  the bibliographical note rather than as a separate work.
+- Five works first published anonymously but securely attributed (Byron's
+  *English Bards and Scotch Reviewers*, Poe's *Tamerlane and Other Poems*,
+  Malthus's *Essay on the Principle of Population*, Owen's *A New View of
+  Society*, Croker's *Fairy Legends*) are recorded as `single`, with the
+  original anonymity carried in `attribution_notes`; recording them as
+  `anonymous` while naming an author contradicts the schema's meaning.
+- Two movement rows carried `defining_characteristics` as a JSON list, which
+  aborted the SQL INSERT. Fixed, and `audit_installment.py` now rejects any
+  list in a taxonomy column and any map that names an author for a work
+  recorded as anonymous, so neither defect can reach an import again.
+
+### Deferred canonical gaps (deliberate, recorded so nothing is lost)
+
+Research on installment 7 was closed on instruction to move on. These titles
+are absent from the corpus and are the standing to-do list for a later
+installment-7 supplement; they must be added as new records, never by
+rewriting what is already imported:
+
+*Lamia, Isabella, The Eve of St. Agnes, and Other Poems* (Keats, 1820);
+*The Rights of Man* (Paine, 1791); *Plays on the Passions* and *The De Monfort*
+(Baillie); *The Quarterly Review* (1809, ed. Gifford); *Blackwood's Edinburgh
+Magazine* (1817); *The Liberal* (1822, Hunt and Byron); *Letters from France*
+(Helen Maria Williams — no author record yet); *Zofloya* as a work (Dacre's
+author record exists); *Adeline Mowbray* (Opie); *Glenarvon* (Lamb);
+*Bracebridge Hall*, *A Tour on the Prairies*, *The Journal of Major John
+André*, *Moral Pieces* (Irving); *The Deerslayer* (Cooper, 1841 — belongs to
+installment 8); *The Coquette* (Foster — no author record yet); *The Power of
+Sympathy* (Brown — no author record yet); *The Vision of Columbus* (Barlow);
+*Hobomok* and *An Appeal* (Child); *Androborus* (Dunlap — no author record
+yet); *The Frontier*; *The Battle of Blenheim* (Southey); *Letters from the
+Federal Farmer*; *The Rights of All*; and the sweep's two unattributed
+entries, *Milton: a Poem* and *Nature: An Essay*, which must be verified or
+dropped. Author records that exist but claim no work: Andrew Bell, John
+Hamilton Reynolds, Thomas Babington Macaulay (all essentially installment-8
+careers).
+
+---
+
+## Installments 8–10
+
+Under way. Per protocol, the next installment begins only on instruction.
 Scope agreed for these installments: the English and British canon **and** a
 distinct American strand, with broader Anglophone and postcolonial writing out
 of scope.
@@ -1030,7 +1138,7 @@ of scope.
 | 4 | Elizabethan and Jacobean (1558–1625) | Complete |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
-| 7 | Romantic, British and American (c. 1789–1832) | Pending |
+| 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Pending |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Pending |
 | 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |

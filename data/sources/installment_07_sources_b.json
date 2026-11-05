@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The Collected Letters of Samuel Taylor Coleridge (6 volumes)",
+    "author_or_editor": "Earl Leslie Griggs (editor)",
+    "publisher": "Clarendon Press",
+    "publication_year": 1956,
+    "source_type": "edition",
+    "reliability_notes": "The standard scholarly Coleridge correspondence, Oxford, 1956-1971, dating and authenticating the letters with manuscript readings; the usual basis for the chronology of his life and career. It is not the fabricated 'Cambridge Edition' of the letters, which does not exist."
+  },
+  {
+    "title": "Blackwood's Edinburgh Magazine",
+    "author_or_editor": "Founded and published by William Blackwood in 1817; principal editors included John Gibson Lockhart and William Maginn",
+    "publisher": "William Blackwood, Edinburgh",
+    "publication_year": 1817,
+    "source_type": "periodical",
+    "reliability_notes": "The great Tory-Covenanting Edinburgh monthly, the venue for Hogg, Lockhart and the 'Noctes Ambrosianae' and a main organ of the Romantic-era magazine culture. Launched as the Edinburgh Monthly Magazine in 1817 before relaunching under Blackwood's name; cite individual numbers by volume and date.",
+    "url": "https://en.wikipedia.org/wiki/Blackwood%27s_Magazine"
+  },
+  {
+    "title": "The Edinburgh Review",
+    "author_or_editor": "Founded October 1802 by Francis Jeffrey, Sydney Smith, Francis Horner and Henry Brougham; edited by Francis Jeffrey from 1803",
+    "publisher": "Archibald Constable, Edinburgh",
+    "publication_year": 1802,
+    "source_type": "periodical",
+    "reliability_notes": "The Whig review that defined Romantic-era criticism and shaped the reception of Wordsworth, Byron and the Lake poets; Jeffrey's editorship (1803-1829) makes it central to installments covering British Romanticism. Imprints changed over the run, so cite by volume and date.",
+    "url": "https://www.sciper.org/browse/ER_desc.html"
+  },
+  {
+    "title": "The Quarterly Review",
+    "author_or_editor": "Founded March 1809 by the publisher John Murray; first edited by William Gifford",
+    "publisher": "John Murray, London",
+    "publication_year": 1809,
+    "source_type": "periodical",
+    "reliability_notes": "The Tory counterweight to the Edinburgh Review, the hostile venue for famous attacks on Keats, Shelley and others; essential for the contemporary reception history of the period. Continue attributions remain debated, so cite by volume and date.",
+    "url": "https://www.britannica.com/topic/The-Quarterly-Review"
+  },
+  {
+    "title": "The Examiner",
+    "author_or_editor": "Founded 1808 by Leigh Hunt and John Hunt; edited by Leigh Hunt",
+    "publisher": "John Hunt, London",
+    "publication_year": 1808,
+    "source_type": "periodical",
+    "reliability_notes": "The radical weekly that championed the 'Cockney' school and published Keats, Shelley and Hazlitt early; a key source for the politics and literary debates of 1808-1832. Published by John Hunt at the Examiner Office.",
+    "url": "https://en.wikipedia.org/wiki/The_Examiner_(1808%E2%80%931886)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Poems of Charlotte Smith",
+    "author_or_editor": "Stuart Curran (editor)",
+    "publisher": "Oxford University Press, New York and Oxford (Women Writers in English 1350-1850)",
+    "publication_year": 1993,
+    "source_type": "edition",
+    "reliability_notes": "The standard scholarly edition of Smith's poems, edited from the first editions and issued in the Oxford Women Writers series in 1993; it carries Elegiac Sonnets and Other Poems, The Emigrants, and the posthumous Beachy Head volume, and is the text relied on here for poem titles, order of the enlarged issues of Elegiac Sonnets, and the blank-verse attribution of The Emigrants and Beachy Head. Curran's introduction and headnotes are reliable for publication history; his judgements of date of composition are used only where they are not contradicted by the imprints."
+  },
+  {
+    "title": "The Collected Letters of Charlotte Smith",
+    "author_or_editor": "Judith Phillips Stanton (editor)",
+    "publisher": "Indiana University Press, Bloomington",
+    "publication_year": 2003,
+    "source_type": "edition",
+    "reliability_notes": "Gathers the surviving correspondence (nearly five hundred letters preserved in libraries, archives and private collections after her family destroyed most of her papers) to publishers, patrons, solicitors, relatives and friends; it is the authority for payments, copyright bargains, publication dates and the order of composition of the novels and the juvenile dialogues, and therefore the strongest evidence in this batch for the bibliographical_notes of Celestina, Desmond, The Old Manor House, Marchmont, The Young Philosopher, Rural Walks and Conversations. Transcribed and annotated, so individual letters are quotable; editorial inference about dating is marked as such."
+  },
+  {
+    "title": "Charlotte Smith in British Romanticism",
+    "author_or_editor": "Jacqueline Labbe (editor)",
+    "publisher": "Pickering and Chatto, London (The Enlightenment World)",
+    "publication_year": 2008,
+    "source_type": "reference",
+    "reliability_notes": "Edited collection of current scholarly essays placing Smith within British Romanticism rather than in a merely preromantic or sentimental line; used here for the critical characterisations in literary_significance and intellectual_concerns (the sonnet revival, topographical and scientific verse, the professional and political novelist). As a set of individual arguments, its claims are treated as interpretive rather than documentary, and no factual detail of date or imprint is taken from it alone."
+  },
+  {
+    "title": "The Works of Mary Robinson (8 volumes)",
+    "author_or_editor": "W. D. Brewer (general editor)",
+    "publisher": "Pickering and Chatto, London",
+    "publication_year": 2010,
+    "source_type": "edition",
+    "reliability_notes": "The first complete scholarly edition of Robinson's writings, including her dramas in the final volume; the edition's general introduction and volume headnotes carry the collated first-edition texts of the Poems, Sappho and Phaon, Lyrical Tales, the novels and the Memoirs, and are the chief modern authority for the imprint statements in this batch. Bibliographical statements in the edition have been cross-checked against the Jackson Bibliography of Romantic Poetry and against library catalogue records for the imprints of J. Bell, T. Cadell, Hookham and Carpenter, T. N. Longman and R. Phillips."
+  },
+  {
+    "title": "Perdita: The Life of Mary Robinson",
+    "author_or_editor": "Paula Byrne (author)",
+    "publisher": "HarperCollins, London",
+    "publication_year": 2004,
+    "source_type": "reference",
+    "reliability_notes": "The fullest modern biography of Robinson, used here for the Bristol childhood, the child marriage, the Perdita appearance and the Prince of Wales connexion, the later Continental and Scottish years, and the poverty of her death in December 1800. It is a trade biography working from surviving records and from the Memoirs, so biographical particulars that depend on it alone (dates of birth, the terms of the royal settlement, the paternity of her daughter) are flagged in the author record's biographical_uncertainty field rather than presented as settled."
+  }
+]

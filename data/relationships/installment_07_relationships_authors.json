@@ -1,0 +1,3485 @@
+{
+ "author_genres": [
+  {
+   "author": "Amelia Opie",
+   "genres": [
+    "Sentimental and Domestic Novel"
+   ]
+  },
+  {
+   "author": "Ann Radcliffe",
+   "genres": [
+    "Gothic Novel and Romance of Terror",
+    "Sentimental and Domestic Novel",
+    "Travel and Wonders Literature",
+    "Letters",
+    "Metrical Tale and Romance in Verse",
+    "Memoir and Autobiographical Prose"
+   ]
+  },
+  {
+   "author": "Benjamin Lundy",
+   "genres": [
+    "Periodical Essay and Spectator Paper",
+    "Critical Review and Periodical Essay"
+   ]
+  },
+  {
+   "author": "Bryan Waller Procter",
+   "genres": [
+    "Lyrical Ballad and Popular Stanza",
+    "Romantic Sonnet Revival"
+   ]
+  },
+  {
+   "author": "Caroline Norton",
+   "genres": [
+    "Metrical Tale and Romance in Verse",
+    "Literary Annual and Keepsake Verse"
+   ]
+  },
+  {
+   "author": "Catharine Maria Sedgwick",
+   "genres": [
+    "Sentimental and Domestic Novel",
+    "Historical Novel and Romance"
+   ]
+  },
+  {
+   "author": "Charles Brockden Brown",
+   "genres": [
+    "American Gothic Tale",
+    "Picaresque and Journey Novel",
+    "Epistolary Fiction"
+   ]
+  },
+  {
+   "author": "Charles Lamb",
+   "genres": [
+    "Familiar Essay and Character Sketch",
+    "Periodical Essay and Spectator Paper",
+    "Essay",
+    "Juvenile, School and Educational Book",
+    "Prose Fiction and the Early Novel",
+    "Fairy Tale and Romantic Legend"
+   ]
+  },
+  {
+   "author": "Charles Robert Maturin",
+   "genres": [
+    "Gothic Novel and Romance of Terror",
+    "Sentimental and Domestic Novel",
+    "Closet Drama"
+   ]
+  },
+  {
+   "author": "Charlotte Dacre",
+   "genres": [
+    "Gothic Novel and Romance of Terror"
+   ]
+  },
+  {
+   "author": "Charlotte Smith",
+   "genres": [
+    "Romantic Sonnet Revival",
+    "Sonnet Sequence",
+    "Elegy",
+    "Sentimental and Domestic Novel",
+    "Novel of Manners and Fashion",
+    "Prose Fiction and the Early Novel",
+    "Epistolary Fiction",
+    "Nature Lyric and Meditation",
+    "Meditative Blank Verse",
+    "Topographical and Descriptive Poetry",
+    "Gothic Novel and Romance of Terror",
+    "Historical Novel and Romance",
+    "Juvenile, School and Educational Book",
+    "Conduct, Education, and Domestic Prose",
+    "Prose",
+    "Polemic, Pamphlet, and Open Letter"
+   ]
+  },
+  {
+   "author": "David Walker",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter",
+    "Prose"
+   ]
+  },
+  {
+   "author": "Douglas William Jerrold",
+   "genres": [
+    "Melodrama and Nautical Drama"
+   ]
+  },
+  {
+   "author": "Edgar Allan Poe",
+   "genres": [
+    "Metrical Tale and Romance in Verse",
+    "Elegy",
+    "Vision Literature",
+    "Lyric"
+   ]
+  },
+  {
+   "author": "Edmund Burke",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter",
+    "Letters"
+   ]
+  },
+  {
+   "author": "Edward Jenner",
+   "genres": [
+    "Medical and Scientific Writing"
+   ]
+  },
+  {
+   "author": "Elizabeth Hamilton",
+   "genres": [
+    "Epistolary Fiction",
+    "Philosophical Tale and Oriental Fiction",
+    "Comedy of Manners",
+    "Novel of Manners and Fashion"
+   ]
+  },
+  {
+   "author": "Elizabeth Heyrick",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter",
+    "Political Treatise"
+   ]
+  },
+  {
+   "author": "Felicia Hemans",
+   "genres": [
+    "Lyric",
+    "Poetry",
+    "Metrical Tale and Romance in Verse",
+    "Sonnet Sequence",
+    "Hymn and Devotional Song"
+   ]
+  },
+  {
+   "author": "Fitz-Greene Halleck",
+   "genres": [
+    "Nature Lyric and Meditation",
+    "Elegy"
+   ]
+  },
+  {
+   "author": "Francis Jeffrey",
+   "genres": [
+    "Critical Review and Periodical Essay"
+   ]
+  },
+  {
+   "author": "George Gordon Byron, Sixth Baron Byron",
+   "genres": [
+    "Poetry",
+    "Verse Epistle",
+    "Mock-Heroic and Verse Satire",
+    "Metrical Tale and Romance in Verse",
+    "Closet Drama",
+    "Lyrical Ballad and Popular Stanza",
+    "Tragedy"
+   ]
+  },
+  {
+   "author": "Hartley Coleridge",
+   "genres": [
+    "Romantic Sonnet Revival",
+    "Nature Lyric and Meditation",
+    "Metrical Tale and Romance in Verse"
+   ]
+  },
+  {
+   "author": "Hugh Henry Brackenridge",
+   "genres": [
+    "Picaresque and Journey Novel"
+   ]
+  },
+  {
+   "author": "Humphry Davy",
+   "genres": [
+    "Medical and Scientific Writing",
+    "Philosophy and Scholastic Writing"
+   ]
+  },
+  {
+   "author": "James Fenimore Cooper",
+   "genres": [
+    "Novel of Manners and Fashion",
+    "Historical Novel and Romance",
+    "Frontier and Maritime Romance",
+    "Humanist Dialogue and Utopian Fiction",
+    "Familiar Essay and Character Sketch"
+   ]
+  },
+  {
+   "author": "James Hogg",
+   "genres": [
+    "Gothic Novel and Romance of Terror",
+    "Metrical Tale and Romance in Verse"
+   ]
+  },
+  {
+   "author": "James Kirke Paulding",
+   "genres": [
+    "National Epic and Didactic Poem",
+    "Topographical and Descriptive Poetry",
+    "The Sketch and Character Tale"
+   ]
+  },
+  {
+   "author": "James Mackintosh",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter",
+    "Political Treatise"
+   ]
+  },
+  {
+   "author": "James Mill",
+   "genres": [
+    "Philosophical and National History",
+    "History and Chronicle",
+    "Political Economy and Commercial Writing"
+   ]
+  },
+  {
+   "author": "James Montgomery",
+   "genres": [
+    "Religious Narrative Poetry",
+    "National Epic and Didactic Poem",
+    "Topographical and Descriptive Poetry",
+    "Nature Lyric and Meditation"
+   ]
+  },
+  {
+   "author": "James Nelson Barker",
+   "genres": [
+    "Melodrama and Nautical Drama",
+    "Comic Opera and Burletta"
+   ]
+  },
+  {
+   "author": "James Robinson Planché",
+   "genres": [
+    "Melodrama and Nautical Drama",
+    "Drama"
+   ]
+  },
+  {
+   "author": "Jane Austen",
+   "genres": [
+    "Novel of Manners and Fashion",
+    "Sentimental and Domestic Novel",
+    "Comedy of Manners",
+    "Gothic Novel and Romance of Terror",
+    "Epistolary Fiction"
+   ]
+  },
+  {
+   "author": "Jane Taylor",
+   "genres": [
+    "Juvenile, School and Educational Book",
+    "Lyrical Ballad and Popular Stanza"
+   ]
+  },
+  {
+   "author": "Jared Sparks",
+   "genres": [
+    "History and Chronicle",
+    "Letters"
+   ]
+  },
+  {
+   "author": "Jedidiah Morse",
+   "genres": [
+    "Grammar and Didactic Prose",
+    "Local Guide and Topographical Prose",
+    "History and Chronicle"
+   ]
+  },
+  {
+   "author": "Joanna Baillie",
+   "genres": [
+    "Tragedy",
+    "Closet Drama",
+    "Comedy",
+    "Metrical Tale and Romance in Verse",
+    "Topographical and Descriptive Poetry"
+   ]
+  },
+  {
+   "author": "Joel Barlow",
+   "genres": [
+    "National Epic and Didactic Poem",
+    "Mock-Heroic and Verse Satire"
+   ]
+  },
+  {
+   "author": "John Banim",
+   "genres": [
+    "Tragedy",
+    "Gothic Novel and Romance of Terror",
+    "The Sketch and Character Tale",
+    "Prose Fiction and the Early Novel"
+   ]
+  },
+  {
+   "author": "John Brown Russwurm",
+   "genres": [
+    "Periodical Essay and Spectator Paper",
+    "Critical Review and Periodical Essay"
+   ]
+  },
+  {
+   "author": "John Clare",
+   "genres": [
+    "Topographical and Descriptive Poetry",
+    "Nature Lyric and Meditation",
+    "Metrical Tale and Romance in Verse",
+    "Lyrical Ballad and Popular Stanza",
+    "Pastoral Poetry",
+    "Romantic Sonnet Revival"
+   ]
+  },
+  {
+   "author": "John Gabriel Stedman",
+   "genres": [
+    "Travel and Wonders Literature",
+    "Memoir and Autobiographical Prose"
+   ]
+  },
+  {
+   "author": "John Galt",
+   "genres": [
+    "Novel of Manners and Fashion",
+    "Picaresque and Journey Novel",
+    "Frontier and Maritime Romance"
+   ]
+  },
+  {
+   "author": "John Hamilton Reynolds",
+   "genres": [
+    "Mock-Heroic and Verse Satire",
+    "Lyrical Ballad and Popular Stanza",
+    "Metrical Tale and Romance in Verse",
+    "Romantic Sonnet Revival",
+    "Pindaric Ode",
+    "Romantic Ode",
+    "Fairy Tale and Romantic Legend"
+   ]
+  },
+  {
+   "author": "John Keats",
+   "genres": [
+    "Romantic Sonnet Revival",
+    "English Sonnet",
+    "Metrical Tale and Romance in Verse",
+    "Lyrical Ballad and Popular Stanza",
+    "Fairy Tale and Romantic Legend",
+    "National Epic and Didactic Poem",
+    "Meditative Blank Verse",
+    "Romantic Ode",
+    "Nature Lyric and Meditation",
+    "Vision Literature"
+   ]
+  },
+  {
+   "author": "John Neal",
+   "genres": [
+    "Frontier and Maritime Romance",
+    "Historical Novel and Romance",
+    "Critical Review and Periodical Essay",
+    "American Gothic Tale"
+   ]
+  },
+  {
+   "author": "John Ramsay McCulloch",
+   "genres": [
+    "Political Economy and Commercial Writing"
+   ]
+  },
+  {
+   "author": "Joseph Lancaster",
+   "genres": [
+    "Humanist Educational Treatise",
+    "Conduct, Education, and Domestic Prose"
+   ]
+  },
+  {
+   "author": "Lady Caroline Lamb",
+   "genres": [
+    "Historical Novel and Romance",
+    "Gothic Novel and Romance of Terror"
+   ]
+  },
+  {
+   "author": "Leigh Hunt",
+   "genres": [
+    "Metrical Tale and Romance in Verse",
+    "Critical Review and Periodical Essay",
+    "Familiar Essay and Character Sketch",
+    "Periodical Essay and Spectator Paper",
+    "Prose Biography",
+    "Memoir and Autobiographical Prose",
+    "Political and Revolutionary Verse",
+    "Lyrical Ballad and Popular Stanza",
+    "Romantic Sonnet Revival",
+    "Mock-Heroic and Verse Satire"
+   ]
+  },
+  {
+   "author": "Letitia Elizabeth Landon",
+   "genres": [
+    "Metrical Tale and Romance in Verse",
+    "Fairy Tale and Romantic Legend",
+    "Lyric",
+    "English Sonnet"
+   ]
+  },
+  {
+   "author": "Lydia Howard Sigourney",
+   "genres": [
+    "Elegy",
+    "Nature Lyric and Meditation"
+   ]
+  },
+  {
+   "author": "Lydia Maria Child",
+   "genres": [
+    "Historical Novel and Romance",
+    "Sentimental and Domestic Novel",
+    "Juvenile, School and Educational Book",
+    "Periodical Essay and Spectator Paper",
+    "History and Chronicle"
+   ]
+  },
+  {
+   "author": "Maria Edgeworth",
+   "genres": [
+    "Novel of Manners and Fashion",
+    "Sentimental and Domestic Novel",
+    "Historical Novel and Romance",
+    "The Sketch and Character Tale",
+    "Fairy Tale and Romantic Legend",
+    "Letters",
+    "Conduct, Education, and Domestic Prose",
+    "Humanist Educational Treatise"
+   ]
+  },
+  {
+   "author": "Maria Graham",
+   "genres": [
+    "Juvenile, School and Educational Book",
+    "Devotional and Mystical Writing"
+   ]
+  },
+  {
+   "author": "Maria W. Stewart",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter",
+    "Homily (Sermon)"
+   ]
+  },
+  {
+   "author": "Mary Brunton",
+   "genres": [
+    "Sentimental and Domestic Novel",
+    "Gothic Novel and Romance of Terror"
+   ]
+  },
+  {
+   "author": "Mary Lamb",
+   "genres": [
+    "Juvenile, School and Educational Book",
+    "Prose Fiction and the Early Novel",
+    "Fairy Tale and Romantic Legend"
+   ]
+  },
+  {
+   "author": "Mary Martha Sherwood",
+   "genres": [
+    "Juvenile, School and Educational Book",
+    "Conduct, Education, and Domestic Prose"
+   ]
+  },
+  {
+   "author": "Mary Prince",
+   "genres": [
+    "Slave Narrative and Abolitionist Testimony",
+    "Memoir and Autobiographical Prose"
+   ]
+  },
+  {
+   "author": "Mary Robinson",
+   "genres": [
+    "Lyric",
+    "Romantic Sonnet Revival",
+    "Elegy",
+    "Gothic Novel and Romance of Terror",
+    "Epistolary Fiction",
+    "Political and Revolutionary Verse",
+    "Sonnet Sequence",
+    "Prose Fiction and the Early Novel",
+    "Novel of Manners and Fashion",
+    "Polemic, Pamphlet, and Open Letter",
+    "Conduct, Education, and Domestic Prose",
+    "Sentimental and Domestic Novel",
+    "Lyrical Ballad and Popular Stanza",
+    "Metrical Tale and Romance in Verse",
+    "Memoir and Autobiographical Prose"
+   ]
+  },
+  {
+   "author": "Mary Russell Mitford",
+   "genres": [
+    "Familiar Essay and Character Sketch"
+   ]
+  },
+  {
+   "author": "Mary Wollstonecraft Shelley",
+   "genres": [
+    "Gothic Novel and Romance of Terror",
+    "Philosophical and Anarchist Fiction",
+    "Historical Novel and Romance",
+    "Sentimental and Domestic Novel"
+   ]
+  },
+  {
+   "author": "Mason Locke Weems",
+   "genres": [
+    "Prose Biography",
+    "Juvenile, School and Educational Book"
+   ]
+  },
+  {
+   "author": "Matthew Gregory Lewis",
+   "genres": [
+    "Tragedy",
+    "Drama",
+    "Gothic Novel and Romance of Terror"
+   ]
+  },
+  {
+   "author": "Michael Banim",
+   "genres": [
+    "The Sketch and Character Tale",
+    "Prose Fiction and the Early Novel"
+   ]
+  },
+  {
+   "author": "Noah Webster",
+   "genres": [
+    "Lexicography and Philological Writing",
+    "Grammar and Didactic Prose"
+   ]
+  },
+  {
+   "author": "Percy Bysshe Shelley",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter",
+    "Political and Revolutionary Verse",
+    "Metrical Tale and Romance in Verse",
+    "Nature Lyric and Meditation",
+    "Conversation Poem and Lyric Meditation",
+    "Closet Drama",
+    "Tragedy",
+    "Romantic Ode",
+    "Elegy",
+    "Lyrical Ballad and Popular Stanza",
+    "Critical Treatise and Dissertation"
+   ]
+  },
+  {
+   "author": "Richard Henry Dana",
+   "genres": [
+    "Metrical Tale and Romance in Verse"
+   ]
+  },
+  {
+   "author": "Richard Lovell Edgeworth",
+   "genres": [
+    "Humanist Educational Treatise",
+    "Conduct, Education, and Domestic Prose"
+   ]
+  },
+  {
+   "author": "Robert Bloomfield",
+   "genres": [
+    "Topographical and Descriptive Poetry",
+    "Pastoral Poetry"
+   ]
+  },
+  {
+   "author": "Robert Owen",
+   "genres": [
+    "Moral Philosophy and the Theory of Society",
+    "Conduct, Education, and Domestic Prose",
+    "Political Economy and Commercial Writing"
+   ]
+  },
+  {
+   "author": "Robert Southey",
+   "genres": [
+    "Closet Drama",
+    "Tragedy",
+    "Meditative Blank Verse",
+    "Metrical Tale and Romance in Verse",
+    "National Epic and Didactic Poem",
+    "Philosophical Tale and Oriental Fiction",
+    "Political and Revolutionary Verse",
+    "Prose Biography",
+    "Literary Biography and Prefatory Commentary",
+    "Local Guide and Topographical Prose",
+    "Letters",
+    "Travel and Wonders Literature",
+    "Periodical Essay and Spectator Paper",
+    "Critical Review and Periodical Essay",
+    "Translation",
+    "Prose Romance",
+    "History and Chronicle",
+    "Philosophical and National History",
+    "Hagiography",
+    "Anthology, Reliques, and Editorial Collection",
+    "Familiar Essay and Character Sketch",
+    "Critical Treatise and Dissertation",
+    "Humanist Dialogue and Utopian Fiction",
+    "Moral Philosophy and the Theory of Society",
+    "Prose",
+    "Memoir and Autobiographical Prose"
+   ]
+  },
+  {
+   "author": "Samuel Cornish",
+   "genres": [
+    "Periodical Essay and Spectator Paper",
+    "Critical Review and Periodical Essay"
+   ]
+  },
+  {
+   "author": "Samuel Ferguson",
+   "genres": [
+    "Ballad and Popular Song",
+    "Lyrical Ballad and Popular Stanza",
+    "Fairy Tale and Romantic Legend"
+   ]
+  },
+  {
+   "author": "Samuel Rogers",
+   "genres": [
+    "Poetry",
+    "Lyric",
+    "Meditative Blank Verse",
+    "Verse Epistle"
+   ]
+  },
+  {
+   "author": "Samuel Taylor Coleridge",
+   "genres": [
+    "Lyrical Ballad and Popular Stanza",
+    "Ballad and Popular Song",
+    "Metrical Tale and Romance in Verse",
+    "Vision Literature",
+    "Lyric",
+    "Conversation Poem and Lyric Meditation",
+    "Nature Lyric and Meditation",
+    "Meditative Blank Verse",
+    "Romantic Ode",
+    "Pindaric Ode",
+    "Literary Biography and Prefatory Commentary",
+    "Critical Treatise and Dissertation",
+    "Memoir and Autobiographical Prose",
+    "Philosophy and Scholastic Writing",
+    "Periodical Essay and Spectator Paper",
+    "Critical Review and Periodical Essay",
+    "Moral Philosophy and the Theory of Society",
+    "Natural and Revealed Theology"
+   ]
+  },
+  {
+   "author": "Sarah Josepha Hale",
+   "genres": [
+    "Elegy",
+    "Nature Lyric and Meditation",
+    "Juvenile, School and Educational Book",
+    "Lyrical Ballad and Popular Stanza"
+   ]
+  },
+  {
+   "author": "Sir Walter Scott",
+   "genres": [
+    "Historical Novel and Romance",
+    "Comedy of Manners",
+    "Gothic Novel and Romance of Terror",
+    "Metrical Tale and Romance in Verse",
+    "Lyrical Ballad and Popular Stanza",
+    "Anthology, Reliques, and Editorial Collection"
+   ]
+  },
+  {
+   "author": "Susan Ferrier",
+   "genres": [
+    "Novel of Manners and Fashion"
+   ]
+  },
+  {
+   "author": "Sydney Owenson",
+   "genres": [
+    "Historical Novel and Romance",
+    "Epistolary Fiction"
+   ]
+  },
+  {
+   "author": "Thomas Campbell",
+   "genres": [
+    "Meditative Blank Verse",
+    "Political Verse",
+    "Metrical Tale and Romance in Verse",
+    "Anthology, Reliques, and Editorial Collection",
+    "Critical Treatise and Dissertation"
+   ]
+  },
+  {
+   "author": "Thomas Chalmers",
+   "genres": [
+    "Natural and Revealed Theology",
+    "Moral Philosophy and the Theory of Society",
+    "Homily (Sermon)"
+   ]
+  },
+  {
+   "author": "Thomas Clarkson",
+   "genres": [
+    "Philosophical and National History",
+    "History and Chronicle"
+   ]
+  },
+  {
+   "author": "Thomas Crofton Croker",
+   "genres": [
+    "Local Guide and Topographical Prose",
+    "Travel and Wonders Literature",
+    "Fairy Tale and Romantic Legend",
+    "Ballad and Popular Song"
+   ]
+  },
+  {
+   "author": "Thomas De Quincey",
+   "genres": [
+    "Inward Confession and Opium Narrative",
+    "Memoir and Autobiographical Prose",
+    "Spiritual Autobiography",
+    "Critical Review and Periodical Essay",
+    "Familiar Essay and Character Sketch",
+    "Polemic, Pamphlet, and Open Letter"
+   ]
+  },
+  {
+   "author": "Thomas Hood",
+   "genres": [
+    "Mock-Heroic and Verse Satire",
+    "Pindaric Ode",
+    "Romantic Ode",
+    "The Sketch and Character Tale",
+    "Prose Fiction and the Early Novel",
+    "Metrical Tale and Romance in Verse",
+    "Literary Annual and Keepsake Verse",
+    "Lyrical Ballad and Popular Stanza"
+   ]
+  },
+  {
+   "author": "Thomas Love Peacock",
+   "genres": [
+    "Novel of Manners and Fashion",
+    "Prose Romance"
+   ]
+  },
+  {
+   "author": "Thomas Lovell Beddoes",
+   "genres": [
+    "Closet Drama",
+    "Tragedy"
+   ]
+  },
+  {
+   "author": "Thomas Moore",
+   "genres": [
+    "Lyrical Ballad and Popular Stanza",
+    "Ballad and Popular Song",
+    "Mock-Heroic and Verse Satire",
+    "Verse Epistle",
+    "Metrical Tale and Romance in Verse",
+    "Philosophical Tale and Oriental Fiction",
+    "Letters",
+    "Literary Biography and Prefatory Commentary"
+   ]
+  },
+  {
+   "author": "Thomas Robert Malthus",
+   "genres": [
+    "Political Economy and Commercial Writing",
+    "Moral Philosophy and the Theory of Society"
+   ]
+  },
+  {
+   "author": "Timothy Dwight",
+   "genres": [
+    "Topographical and Descriptive Poetry",
+    "Local Guide and Topographical Prose",
+    "Travel and Wonders Literature"
+   ]
+  },
+  {
+   "author": "Venture Smith",
+   "genres": [
+    "Slave Narrative and Abolitionist Testimony",
+    "Memoir and Autobiographical Prose"
+   ]
+  },
+  {
+   "author": "Walter Savage Landor",
+   "genres": [
+    "Metrical Tale and Romance in Verse",
+    "English Epic and Allegorical Romance",
+    "National Epic and Didactic Poem",
+    "Familiar Essay and Character Sketch",
+    "Humanist Dialogue and Utopian Fiction",
+    "Prose Romance",
+    "Letters",
+    "Conversation Poem and Lyric Meditation",
+    "Elegy"
+   ]
+  },
+  {
+   "author": "Washington Irving",
+   "genres": [
+    "Periodical Essay and Spectator Paper",
+    "Prose Fiction and the Early Novel",
+    "The Sketch and Character Tale",
+    "Fairy Tale and Romantic Legend",
+    "Local Guide and Topographical Prose"
+   ]
+  },
+  {
+   "author": "William Blake",
+   "genres": [
+    "Lyrical Ballad and Popular Stanza",
+    "Lyric",
+    "Hymn and Devotional Song",
+    "Pastoral Poetry",
+    "Visionary and Illuminated Prophecy",
+    "Vision Literature",
+    "Polemic, Pamphlet, and Open Letter",
+    "Metrical Tale and Romance in Verse",
+    "Closet Drama",
+    "Political and Revolutionary Verse",
+    "English Epic and Allegorical Romance",
+    "National Epic and Didactic Poem"
+   ]
+  },
+  {
+   "author": "William Cobbett",
+   "genres": [
+    "Periodical Essay and Spectator Paper",
+    "Polemic, Pamphlet, and Open Letter",
+    "Political Economy and Commercial Writing",
+    "Critical Review and Periodical Essay",
+    "Local Guide and Topographical Prose",
+    "Familiar Essay and Character Sketch",
+    "Letters",
+    "Reformation Polemic and Controversy",
+    "Philosophical and National History",
+    "Grammar and Didactic Prose",
+    "Conduct, Education, and Domestic Prose",
+    "History and Chronicle",
+    "Political Treatise"
+   ]
+  },
+  {
+   "author": "William Cullen Bryant",
+   "genres": [
+    "Nature Lyric and Meditation",
+    "Mock-Heroic and Verse Satire",
+    "Political Verse",
+    "Topographical and Descriptive Poetry"
+   ]
+  },
+  {
+   "author": "William Ellery Channing",
+   "genres": [
+    "Homily (Sermon)",
+    "Natural and Revealed Theology"
+   ]
+  },
+  {
+   "author": "William Godwin",
+   "genres": [
+    "Philosophical and Anarchist Fiction",
+    "Gothic Novel and Romance of Terror",
+    "Historical Novel and Romance",
+    "Polemic, Pamphlet, and Open Letter",
+    "Political Treatise"
+   ]
+  },
+  {
+   "author": "William Harrison Ainsworth",
+   "genres": [
+    "Gothic Novel and Romance of Terror"
+   ]
+  },
+  {
+   "author": "William Hazlitt",
+   "genres": [
+    "Critical Treatise and Dissertation",
+    "Character Writing",
+    "Literary Biography and Prefatory Commentary",
+    "Familiar Essay and Character Sketch",
+    "Critical Review and Periodical Essay",
+    "Periodical Essay and Spectator Paper",
+    "Essay"
+   ]
+  },
+  {
+   "author": "William Lloyd Garrison",
+   "genres": [
+    "Periodical Essay and Spectator Paper",
+    "Critical Review and Periodical Essay"
+   ]
+  },
+  {
+   "author": "William Roscoe",
+   "genres": [
+    "Prose Biography",
+    "Philosophical and National History",
+    "Political and Revolutionary Verse",
+    "Fable and Apologue",
+    "Juvenile, School and Educational Book"
+   ]
+  },
+  {
+   "author": "William Wordsworth",
+   "genres": [
+    "Lyrical Ballad and Popular Stanza",
+    "Ballad and Popular Song",
+    "Metrical Tale and Romance in Verse",
+    "Critical Treatise and Dissertation",
+    "Literary Biography and Prefatory Commentary",
+    "Conversation Poem and Lyric Meditation",
+    "Nature Lyric and Meditation",
+    "Meditative Blank Verse",
+    "Pastoral Poetry",
+    "Lyric",
+    "Romantic Sonnet Revival",
+    "English Sonnet",
+    "Romantic Ode",
+    "Pindaric Ode",
+    "Vision Literature"
+   ]
+  }
+ ],
+ "author_movements": [
+  {
+   "author": "Amelia Opie",
+   "movements": [
+    "Sentimentalism and the Culture of Feeling"
+   ]
+  },
+  {
+   "author": "Ann Radcliffe",
+   "movements": [
+    "Gothic and the Literature of Terror",
+    "The Rise of the English Novel",
+    "Sentimentalism and the Culture of Feeling"
+   ]
+  },
+  {
+   "author": "Benjamin Lundy",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Bryan Waller Procter",
+   "movements": [
+    "Regency Popular Verse and the Annual Public"
+   ]
+  },
+  {
+   "author": "Caroline Norton",
+   "movements": [
+    "Byron and the Byronic Revolt",
+    "Regency Popular Verse and the Annual Public"
+   ]
+  },
+  {
+   "author": "Catharine Maria Sedgwick",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Charles Brockden Brown",
+   "movements": [
+    "Charles Brockden Brown and the American Gothic",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Charles Lamb",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Charles Robert Maturin",
+   "movements": [
+    "Gothic and the Literature of Terror",
+    "Byron and the Byronic Revolt"
+   ]
+  },
+  {
+   "author": "Charlotte Dacre",
+   "movements": [
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "Charlotte Smith",
+   "movements": [
+    "The Graveyard School and Preromantic Meditation",
+    "Sentimentalism and the Culture of Feeling",
+    "The Rise of the English Novel",
+    "Philosophical Fiction and the Godwin Circle",
+    "Topographical and Estate Poetry",
+    "Gothic and the Literature of Terror",
+    "The Bluestockings and Women's Letters"
+   ]
+  },
+  {
+   "author": "David Walker",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Douglas William Jerrold",
+   "movements": [
+    "The Regency Stage and Popular Drama"
+   ]
+  },
+  {
+   "author": "Edgar Allan Poe",
+   "movements": [
+    "The Early American Republic and Its Letters",
+    "Byron and the Byronic Revolt"
+   ]
+  },
+  {
+   "author": "Edmund Burke",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Edward Jenner",
+   "movements": [
+    "The New Science and the Royal Society"
+   ]
+  },
+  {
+   "author": "Elizabeth Hamilton",
+   "movements": [
+    "The Bluestockings and Women's Letters",
+    "Romantic Essay, Criticism and the Review",
+    "Philosophical Fiction and the Godwin Circle"
+   ]
+  },
+  {
+   "author": "Elizabeth Heyrick",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing"
+   ]
+  },
+  {
+   "author": "Felicia Hemans",
+   "movements": [
+    "Regency Popular Verse and the Annual Public"
+   ]
+  },
+  {
+   "author": "Fitz-Greene Halleck",
+   "movements": [
+    "The Knickerbocker Group and the American Sketch"
+   ]
+  },
+  {
+   "author": "Francis Jeffrey",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "George Gordon Byron, Sixth Baron Byron",
+   "movements": [
+    "Byron and the Byronic Revolt"
+   ]
+  },
+  {
+   "author": "Hartley Coleridge",
+   "movements": [
+    "Lyrical Ballads and the Lake Poets"
+   ]
+  },
+  {
+   "author": "Hugh Henry Brackenridge",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Humphry Davy",
+   "movements": [
+    "The New Science and the Royal Society"
+   ]
+  },
+  {
+   "author": "James Fenimore Cooper",
+   "movements": [
+    "Cooper and the American Romance of Forest and Sea",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "James Hogg",
+   "movements": [
+    "Gothic and the Literature of Terror",
+    "Scott, the Ballad Revival and the Historical Novel"
+   ]
+  },
+  {
+   "author": "James Kirke Paulding",
+   "movements": [
+    "The Knickerbocker Group and the American Sketch",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "James Mackintosh",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle"
+   ]
+  },
+  {
+   "author": "James Mill",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle"
+   ]
+  },
+  {
+   "author": "James Nelson Barker",
+   "movements": [
+    "The Regency Stage and Popular Drama",
+    "Cooper and the American Romance of Forest and Sea"
+   ]
+  },
+  {
+   "author": "James Robinson Planché",
+   "movements": [
+    "The Regency Stage and Popular Drama",
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "Jane Austen",
+   "movements": [
+    "Austen and the Novel of Manners",
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "Jared Sparks",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Jedidiah Morse",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Joanna Baillie",
+   "movements": [
+    "The Regency Stage and Popular Drama",
+    "Scott, the Ballad Revival and the Historical Novel"
+   ]
+  },
+  {
+   "author": "Joel Barlow",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "John Banim",
+   "movements": [
+    "The Regency Stage and Popular Drama",
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "John Brown Russwurm",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "John Clare",
+   "movements": [
+    "Labouring-Class and Village Poetry"
+   ]
+  },
+  {
+   "author": "John Gabriel Stedman",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Evangelical Revival and Hymn Writing"
+   ]
+  },
+  {
+   "author": "John Galt",
+   "movements": [
+    "Scott, the Ballad Revival and the Historical Novel"
+   ]
+  },
+  {
+   "author": "John Hamilton Reynolds",
+   "movements": [
+    "Regency Popular Verse and the Annual Public",
+    "Keats and the Sensuous Ode"
+   ]
+  },
+  {
+   "author": "John Keats",
+   "movements": [
+    "Keats and the Sensuous Ode"
+   ]
+  },
+  {
+   "author": "John Neal",
+   "movements": [
+    "The Early American Republic and Its Letters",
+    "Romantic Essay, Criticism and the Review",
+    "Charles Brockden Brown and the American Gothic"
+   ]
+  },
+  {
+   "author": "John Ramsay McCulloch",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Joseph Lancaster",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Lady Caroline Lamb",
+   "movements": [
+    "Scott, the Ballad Revival and the Historical Novel",
+    "Gothic and the Literature of Terror",
+    "Byron and the Byronic Revolt"
+   ]
+  },
+  {
+   "author": "Leigh Hunt",
+   "movements": [
+    "Regency Popular Verse and the Annual Public",
+    "Romantic Essay, Criticism and the Review",
+    "The Spectator and Periodical Journalism",
+    "Byron and the Byronic Revolt",
+    "Shelley and Radical Romanticism"
+   ]
+  },
+  {
+   "author": "Letitia Elizabeth Landon",
+   "movements": [
+    "Regency Popular Verse and the Annual Public"
+   ]
+  },
+  {
+   "author": "Lydia Howard Sigourney",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Lydia Maria Child",
+   "movements": [
+    "The Early American Republic and Its Letters",
+    "Scott, the Ballad Revival and the Historical Novel"
+   ]
+  },
+  {
+   "author": "Maria Edgeworth",
+   "movements": [
+    "Austen and the Novel of Manners",
+    "Scott, the Ballad Revival and the Historical Novel",
+    "The Rise of the English Novel",
+    "The Bluestockings and Women's Letters",
+    "Philosophical Fiction and the Godwin Circle"
+   ]
+  },
+  {
+   "author": "Maria Graham",
+   "movements": [
+    "The Evangelical Revival and Hymn Writing"
+   ]
+  },
+  {
+   "author": "Maria W. Stewart",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Evangelical Revival and Hymn Writing"
+   ]
+  },
+  {
+   "author": "Mary Brunton",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle",
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "Mary Lamb",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Mary Martha Sherwood",
+   "movements": [
+    "The Evangelical Revival and Hymn Writing"
+   ]
+  },
+  {
+   "author": "Mary Prince",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing"
+   ]
+  },
+  {
+   "author": "Mary Robinson",
+   "movements": [
+    "Sentimentalism and the Culture of Feeling",
+    "Gothic and the Literature of Terror",
+    "The Rise of the English Novel",
+    "The Bluestockings and Women's Letters",
+    "Austen and the Novel of Manners",
+    "Lyrical Ballads and the Lake Poets"
+   ]
+  },
+  {
+   "author": "Mary Russell Mitford",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Mary Wollstonecraft Shelley",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle",
+    "Gothic and the Literature of Terror",
+    "Shelley and Radical Romanticism",
+    "Scott, the Ballad Revival and the Historical Novel"
+   ]
+  },
+  {
+   "author": "Mason Locke Weems",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Matthew Gregory Lewis",
+   "movements": [
+    "The Regency Stage and Popular Drama",
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "Michael Banim",
+   "movements": [
+    "The Regency Stage and Popular Drama"
+   ]
+  },
+  {
+   "author": "Noah Webster",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Percy Bysshe Shelley",
+   "movements": [
+    "Shelley and Radical Romanticism",
+    "Keats and the Sensuous Ode",
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Richard Henry Dana",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Richard Lovell Edgeworth",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle"
+   ]
+  },
+  {
+   "author": "Robert Bloomfield",
+   "movements": [
+    "Labouring-Class and Village Poetry"
+   ]
+  },
+  {
+   "author": "Robert Owen",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle"
+   ]
+  },
+  {
+   "author": "Robert Southey",
+   "movements": [
+    "Lyrical Ballads and the Lake Poets",
+    "Romantic Essay, Criticism and the Review",
+    "The Spectator and Periodical Journalism",
+    "The Evangelical Revival and Hymn Writing"
+   ]
+  },
+  {
+   "author": "Samuel Cornish",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Samuel Ferguson",
+   "movements": [
+    "Scott, the Ballad Revival and the Historical Novel"
+   ]
+  },
+  {
+   "author": "Samuel Rogers",
+   "movements": [
+    "Regency Popular Verse and the Annual Public"
+   ]
+  },
+  {
+   "author": "Samuel Taylor Coleridge",
+   "movements": [
+    "Lyrical Ballads and the Lake Poets",
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Sarah Josepha Hale",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Sir Walter Scott",
+   "movements": [
+    "Scott, the Ballad Revival and the Historical Novel",
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "Susan Ferrier",
+   "movements": [
+    "Austen and the Novel of Manners"
+   ]
+  },
+  {
+   "author": "Sydney Owenson",
+   "movements": [
+    "Scott, the Ballad Revival and the Historical Novel",
+    "The Bluestockings and Women's Letters"
+   ]
+  },
+  {
+   "author": "Thomas Campbell",
+   "movements": [
+    "Regency Popular Verse and the Annual Public",
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Thomas Chalmers",
+   "movements": [
+    "The Evangelical Revival and Hymn Writing"
+   ]
+  },
+  {
+   "author": "Thomas Clarkson",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Evangelical Revival and Hymn Writing"
+   ]
+  },
+  {
+   "author": "Thomas Crofton Croker",
+   "movements": [
+    "Scott, the Ballad Revival and the Historical Novel"
+   ]
+  },
+  {
+   "author": "Thomas De Quincey",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Thomas Hood",
+   "movements": [
+    "Regency Popular Verse and the Annual Public"
+   ]
+  },
+  {
+   "author": "Thomas Love Peacock",
+   "movements": [
+    "Austen and the Novel of Manners",
+    "Byron and the Byronic Revolt"
+   ]
+  },
+  {
+   "author": "Thomas Lovell Beddoes",
+   "movements": [
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "Thomas Moore",
+   "movements": [
+    "Regency Popular Verse and the Annual Public",
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Thomas Robert Malthus",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle"
+   ]
+  },
+  {
+   "author": "Timothy Dwight",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "Venture Smith",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing"
+   ]
+  },
+  {
+   "author": "Walter Savage Landor",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "Washington Irving",
+   "movements": [
+    "The Knickerbocker Group and the American Sketch",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "William Blake",
+   "movements": [
+    "Blake and the Illuminated Prophecy"
+   ]
+  },
+  {
+   "author": "William Cobbett",
+   "movements": [
+    "The Spectator and Periodical Journalism",
+    "Romantic Essay, Criticism and the Review",
+    "The English Reformation"
+   ]
+  },
+  {
+   "author": "William Cullen Bryant",
+   "movements": [
+    "Bryant and the American Nature Lyric",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "William Ellery Channing",
+   "movements": [
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "William Godwin",
+   "movements": [
+    "Philosophical Fiction and the Godwin Circle",
+    "Gothic and the Literature of Terror",
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "William Harrison Ainsworth",
+   "movements": [
+    "Gothic and the Literature of Terror"
+   ]
+  },
+  {
+   "author": "William Hazlitt",
+   "movements": [
+    "Romantic Essay, Criticism and the Review"
+   ]
+  },
+  {
+   "author": "William Lloyd Garrison",
+   "movements": [
+    "Abolitionist and Anti-Slavery Writing",
+    "The Early American Republic and Its Letters"
+   ]
+  },
+  {
+   "author": "William Roscoe",
+   "movements": [
+    "Romantic Essay, Criticism and the Review",
+    "Abolitionist and Anti-Slavery Writing"
+   ]
+  },
+  {
+   "author": "William Wordsworth",
+   "movements": [
+    "Lyrical Ballads and the Lake Poets",
+    "Romantic Essay, Criticism and the Review"
+   ]
+  }
+ ],
+ "author_themes": [
+  {
+   "author": "Amelia Opie",
+   "themes": [
+    "Seduction and the betrayed heroine",
+    "Marriage and women's conduct",
+    "Women's experience and the feminine voice"
+   ]
+  },
+  {
+   "author": "Ann Radcliffe",
+   "themes": [
+    "Gothic confinement and the pursued heroine",
+    "Tyranny and the abuse of power",
+    "The supernatural ballad and willed belief",
+    "Women, chastity, and constancy",
+    "Patronage and the literary marketplace",
+    "The sublime, terror, and the ruin",
+    "Penance, confession, and sin",
+    "Death, mourning, and the graveyard meditation",
+    "Religious persecution and martyrdom",
+    "Revenge and justice",
+    "Love, constancy, and betrayal",
+    "Nature, landscape, and the shaping mind",
+    "Exile, travel, and the southern sojourn",
+    "National identity and Englishness",
+    "Revolutionary hope and its disappointment",
+    "Chivalry and knighthood",
+    "Border, ballad, and national memory",
+    "The literature of the nations: Scotland, Ireland, and Wales"
+   ]
+  },
+  {
+   "author": "Benjamin Lundy",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "The public sphere, print, and the periodical",
+    "Commerce, luxury, and commercial society"
+   ]
+  },
+  {
+   "author": "Bryan Waller Procter",
+   "themes": [
+    "Sensibility, feeling, and its critics",
+    "Idealized love and the lost beloved",
+    "Poetic solitude and the conversation with nature"
+   ]
+  },
+  {
+   "author": "Caroline Norton",
+   "themes": [
+    "Seduction and the betrayed heroine",
+    "Women's experience and the feminine voice",
+    "Female authorship and the woman writer",
+    "Exile and homelessness",
+    "Rebellion, guilt, and the outcast hero",
+    "The annual, the keepsake, and the gift-book economy"
+   ]
+  },
+  {
+   "author": "Catharine Maria Sedgwick",
+   "themes": [
+    "Puritan inheritance and the secret sin",
+    "Doubt, faith, and secular questioning",
+    "Women's experience and the feminine voice",
+    "The wilderness, settlement, and Indian removal",
+    "Sensibility, feeling, and its critics"
+   ]
+  },
+  {
+   "author": "Charles Brockden Brown",
+   "themes": [
+    "Puritan inheritance and the secret sin",
+    "Enthusiasm and the disease of the imagination",
+    "Gothic confinement and the pursued heroine",
+    "Women's experience and the feminine voice",
+    "Transatlantic exchange and cultural dependence",
+    "The city and urban life",
+    "Medicine, healing, and the body",
+    "Commerce, luxury, and commercial society",
+    "The wilderness, settlement, and Indian removal",
+    "Dream, intoxication, and the divided mind",
+    "Rebellion, guilt, and the outcast hero"
+   ]
+  },
+  {
+   "author": "Charles Lamb",
+   "themes": [
+    "Familiar prose and the essayist's persona",
+    "The city and urban life",
+    "Poverty, dependence, and the professional writer",
+    "Consolation and endurance",
+    "Memory and the growth of the poet's mind",
+    "Melancholy and self-analysis",
+    "Childhood, innocence, and education",
+    "Marriage and women's conduct",
+    "Tyranny and the abuse of power",
+    "Appearance, dissembling, and self-fashioning"
+   ]
+  },
+  {
+   "author": "Charles Robert Maturin",
+   "themes": [
+    "Gothic confinement and the pursued heroine",
+    "Exile and homelessness",
+    "Religious persecution and martyrdom",
+    "Rebellion, guilt, and the outcast hero",
+    "Doubt, faith, and secular questioning",
+    "Penance, confession, and sin",
+    "Revenge and justice",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Idealized love and the lost beloved"
+   ]
+  },
+  {
+   "author": "Charlotte Dacre",
+   "themes": [
+    "Dream, intoxication, and the divided mind",
+    "Sensibility, feeling, and its critics",
+    "Gothic confinement and the pursued heroine",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "Charlotte Smith",
+   "themes": [
+    "Death, mourning, and the graveyard meditation",
+    "Melancholy and self-analysis",
+    "Poverty, dependence, and the professional writer",
+    "Idealized love and the lost beloved",
+    "Nature, landscape, and the shaping mind",
+    "Time, death, and immortality through verse",
+    "Female authorship and the woman writer",
+    "The marriage market and the limited estate",
+    "Sensibility, feeling, and its critics",
+    "Tyranny and the abuse of power",
+    "Marriage and women's conduct",
+    "Revolutionary hope and its disappointment",
+    "Exile, travel, and the southern sojourn",
+    "Industry, enclosure, and the changed countryside",
+    "Fortune and mutability",
+    "Gothic confinement and the pursued heroine",
+    "Childhood, innocence, and education",
+    "Women's education and intellectual friendship",
+    "Sympathy, benevolence, and the moral sense",
+    "Sea voyage and seafaring",
+    "Memory and the growth of the poet's mind",
+    "The sublime, terror, and the ruin",
+    "Natural history, science, and the poetic eye"
+   ]
+  },
+  {
+   "author": "David Walker",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Tyranny and the abuse of power",
+    "Religious persecution and martyrdom"
+   ]
+  },
+  {
+   "author": "Douglas William Jerrold",
+   "themes": [
+    "Sea voyage and seafaring",
+    "Love, constancy, and betrayal",
+    "The public theatre and the players' world"
+   ]
+  },
+  {
+   "author": "Edgar Allan Poe",
+   "themes": [
+    "Rebellion, guilt, and the outcast hero",
+    "Idealized love and the lost beloved",
+    "Exile and homelessness",
+    "Imagination as a way of knowing",
+    "Creation and cosmology",
+    "Death, the soul, and the afterlife",
+    "Early death and the mourning of poets",
+    "Death, mourning, and the graveyard meditation",
+    "Penance, confession, and sin"
+   ]
+  },
+  {
+   "author": "Edmund Burke",
+   "themes": [
+    "Revolutionary hope and its disappointment",
+    "Order and degree: the body politic",
+    "Liberty, corruption, and the decline of nations",
+    "Tyranny and the abuse of power",
+    "Warfare and battle",
+    "Commerce, luxury, and commercial society",
+    "Poverty, dependence, and the professional writer"
+   ]
+  },
+  {
+   "author": "Edward Jenner",
+   "themes": [
+    "Medicine, healing, and the body",
+    "The New Science and experimental philosophy"
+   ]
+  },
+  {
+   "author": "Elizabeth Hamilton",
+   "themes": [
+    "Slavery, empire, and the Atlantic world",
+    "Commerce, luxury, and commercial society",
+    "Women's experience and the feminine voice",
+    "Revolutionary hope and its disappointment",
+    "Marriage and women's conduct",
+    "Reason, faith, and the limits of understanding"
+   ]
+  },
+  {
+   "author": "Elizabeth Heyrick",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Commerce, luxury, and commercial society",
+    "Female authorship and the woman writer"
+   ]
+  },
+  {
+   "author": "Felicia Hemans",
+   "themes": [
+    "Sensibility, feeling, and its critics",
+    "Marriage and women's conduct",
+    "Exile and homelessness",
+    "Gothic confinement and the pursued heroine",
+    "Women's experience and the feminine voice",
+    "Female authorship and the woman writer",
+    "Consolation and endurance",
+    "Early death and the mourning of poets"
+   ]
+  },
+  {
+   "author": "Fitz-Greene Halleck",
+   "themes": [
+    "The transience of earthly glory (ubi sunt)",
+    "Early death and the mourning of poets",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "Francis Jeffrey",
+   "themes": [
+    "The public sphere, print, and the periodical",
+    "Wit, ridicule, and the war against dullness",
+    "Taste, decorum, and the rules of art"
+   ]
+  },
+  {
+   "author": "George Gordon Byron, Sixth Baron Byron",
+   "themes": [
+    "Patronage and the literary marketplace",
+    "Wit, ridicule, and the war against dullness",
+    "Exile, travel, and the southern sojourn",
+    "Rebellion, guilt, and the outcast hero",
+    "The transience of earthly glory (ubi sunt)",
+    "Gothic confinement and the pursued heroine",
+    "The supernatural ballad and willed belief",
+    "Idealized love and the lost beloved",
+    "Sea voyage and seafaring",
+    "The sublime, terror, and the ruin",
+    "Poetic solitude and the conversation with nature",
+    "Tyranny and the abuse of power",
+    "Exile and homelessness",
+    "Doubt, faith, and secular questioning",
+    "Imagination as a way of knowing",
+    "Border, ballad, and national memory",
+    "Seduction and the betrayed heroine",
+    "The marriage market and the limited estate",
+    "Penance, confession, and sin",
+    "Revenge and justice",
+    "Social satire and estates criticism"
+   ]
+  },
+  {
+   "author": "Hartley Coleridge",
+   "themes": [
+    "Melancholy and self-analysis",
+    "Idealized love and the lost beloved",
+    "Death, mourning, and the graveyard meditation",
+    "Colonial enterprise and the New World"
+   ]
+  },
+  {
+   "author": "Hugh Henry Brackenridge",
+   "themes": [
+    "Chivalry and knighthood",
+    "Social satire and estates criticism",
+    "Republican nationhood and the claim to a national literature"
+   ]
+  },
+  {
+   "author": "Humphry Davy",
+   "themes": [
+    "The New Science and experimental philosophy",
+    "Creation and cosmology",
+    "Natural history, science, and the poetic eye",
+    "Dream, intoxication, and the divided mind",
+    "Medicine, healing, and the body"
+   ]
+  },
+  {
+   "author": "James Fenimore Cooper",
+   "themes": [
+    "The marriage market and the limited estate",
+    "Transatlantic exchange and cultural dependence",
+    "Sensibility, feeling, and its critics",
+    "Warfare and battle",
+    "Heroism and the heroic code",
+    "Republican nationhood and the claim to a national literature",
+    "The wilderness, settlement, and Indian removal",
+    "Nature, landscape, and the shaping mind",
+    "Gothic confinement and the pursued heroine",
+    "Sea voyage and seafaring",
+    "Tyranny and the abuse of power",
+    "Enthusiasm and the disease of the imagination",
+    "Doubt, faith, and secular questioning",
+    "The public sphere, print, and the periodical",
+    "Liberty, corruption, and the decline of nations",
+    "Revenge and justice"
+   ]
+  },
+  {
+   "author": "James Hogg",
+   "themes": [
+    "Rebellion, guilt, and the outcast hero",
+    "Doubt, faith, and secular questioning",
+    "Dream, intoxication, and the divided mind",
+    "Penance, confession, and sin",
+    "Border, ballad, and national memory",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Exile and homelessness",
+    "Seduction and the betrayed heroine",
+    "Marriage and women's conduct",
+    "Love, constancy, and betrayal"
+   ]
+  },
+  {
+   "author": "James Kirke Paulding",
+   "themes": [
+    "Republican nationhood and the claim to a national literature",
+    "The wilderness, settlement, and Indian removal",
+    "Transatlantic exchange and cultural dependence",
+    "Border, ballad, and national memory",
+    "The marriage market and the limited estate",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "James Mackintosh",
+   "themes": [
+    "Revolutionary hope and its disappointment",
+    "Liberty, corruption, and the decline of nations",
+    "Progress, decay, and the philosophy of history"
+   ]
+  },
+  {
+   "author": "James Mill",
+   "themes": [
+    "Slavery, empire, and the Atlantic world",
+    "Progress, decay, and the philosophy of history",
+    "Order and degree: the body politic",
+    "Commerce, luxury, and commercial society",
+    "Industry, enclosure, and the changed countryside",
+    "Poverty, dependence, and the professional writer"
+   ]
+  },
+  {
+   "author": "James Montgomery",
+   "themes": [
+    "Creation and cosmology",
+    "Judgment Day and eschatology",
+    "Rebellion, guilt, and the outcast hero",
+    "The transience of earthly glory (ubi sunt)",
+    "Exile, travel, and the southern sojourn",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "James Nelson Barker",
+   "themes": [
+    "The wilderness, settlement, and Indian removal",
+    "Colonial enterprise and the New World",
+    "Sensibility, feeling, and its critics"
+   ]
+  },
+  {
+   "author": "James Robinson Planché",
+   "themes": [
+    "The supernatural ballad and willed belief",
+    "Gothic confinement and the pursued heroine",
+    "Death, the soul, and the afterlife"
+   ]
+  },
+  {
+   "author": "Jane Austen",
+   "themes": [
+    "Sensibility, feeling, and its critics",
+    "The marriage market and the limited estate",
+    "Marriage and women's conduct",
+    "Appearance, dissembling, and self-fashioning",
+    "Women's experience and the feminine voice",
+    "Slavery, empire, and the Atlantic world",
+    "Women's education and intellectual friendship",
+    "Self-knowledge and the philosophy of the mind",
+    "Gothic confinement and the pursued heroine",
+    "Love, constancy, and betrayal",
+    "Sea voyage and seafaring"
+   ]
+  },
+  {
+   "author": "Jane Taylor",
+   "themes": [
+    "Childhood, innocence, and education",
+    "Natural history, science, and the poetic eye",
+    "Sympathy, benevolence, and the moral sense",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "Jared Sparks",
+   "themes": [
+    "Republican nationhood and the claim to a national literature",
+    "Warfare and battle",
+    "National identity and Englishness"
+   ]
+  },
+  {
+   "author": "Jedidiah Morse",
+   "themes": [
+    "Colonial enterprise and the New World",
+    "Republican nationhood and the claim to a national literature",
+    "Mission, conversion, and the Church",
+    "Warfare and battle",
+    "Progress, decay, and the philosophy of history"
+   ]
+  },
+  {
+   "author": "Joanna Baillie",
+   "themes": [
+    "Revenge and justice",
+    "Blood-feud, vengeance, and kinship",
+    "Love, constancy, and betrayal",
+    "Heroism and the heroic code",
+    "Warfare and battle",
+    "Conscience and moral self-examination",
+    "Sensibility, feeling, and its critics",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Marriage and women's conduct",
+    "Colonial enterprise and the New World",
+    "The transience of earthly glory (ubi sunt)"
+   ]
+  },
+  {
+   "author": "Joel Barlow",
+   "themes": [
+    "Republican nationhood and the claim to a national literature",
+    "Colonial enterprise and the New World",
+    "Progress, decay, and the philosophy of history",
+    "Slavery, empire, and the Atlantic world",
+    "Transatlantic exchange and cultural dependence"
+   ]
+  },
+  {
+   "author": "John Banim",
+   "themes": [
+    "Loyalty and the comitatus bond",
+    "Heroism and the heroic code",
+    "Tyranny and the abuse of power",
+    "Death, the soul, and the afterlife",
+    "Fortune and mutability",
+    "Conscience and moral self-examination",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Rural labour, depopulation, and the deserted village",
+    "The supernatural ballad and willed belief"
+   ]
+  },
+  {
+   "author": "John Brown Russwurm",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "The public sphere, print, and the periodical",
+    "Republican nationhood and the claim to a national literature"
+   ]
+  },
+  {
+   "author": "John Clare",
+   "themes": [
+    "Industry, enclosure, and the changed countryside",
+    "Rural labour, depopulation, and the deserted village",
+    "Poverty, dependence, and the professional writer",
+    "Memory and the growth of the poet's mind",
+    "Natural history, science, and the poetic eye",
+    "Poetic solitude and the conversation with nature",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "John Gabriel Stedman",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Colonial enterprise and the New World",
+    "Love, constancy, and betrayal"
+   ]
+  },
+  {
+   "author": "John Galt",
+   "themes": [
+    "Industry, enclosure, and the changed countryside",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "The city and urban life",
+    "Patronage and the literary marketplace",
+    "The wilderness, settlement, and Indian removal",
+    "Exile and homelessness"
+   ]
+  },
+  {
+   "author": "John Hamilton Reynolds",
+   "themes": [
+    "Wit, ridicule, and the war against dullness",
+    "Poverty, dependence, and the professional writer",
+    "Idealized love and the lost beloved",
+    "Sensibility, feeling, and its critics",
+    "Memory and the growth of the poet's mind",
+    "The public sphere, print, and the periodical",
+    "Patronage and the literary marketplace",
+    "Dream, intoxication, and the divided mind",
+    "Imagination as a way of knowing"
+   ]
+  },
+  {
+   "author": "John Keats",
+   "themes": [
+    "Imagination as a way of knowing",
+    "Primitive genius and national poetry",
+    "Idealized love and the lost beloved",
+    "Early death and the mourning of poets",
+    "Love, constancy, and betrayal",
+    "Revenge and justice",
+    "The transience of earthly glory (ubi sunt)",
+    "Progress, decay, and the philosophy of history",
+    "Gothic confinement and the pursued heroine",
+    "Sensibility, feeling, and its critics",
+    "Appearance, dissembling, and self-fashioning",
+    "Reason, faith, and the limits of understanding",
+    "Dream, intoxication, and the divided mind",
+    "Time, death, and immortality through verse",
+    "Taste, decorum, and the rules of art",
+    "Nature, landscape, and the shaping mind",
+    "Poetic solitude and the conversation with nature"
+   ]
+  },
+  {
+   "author": "John Neal",
+   "themes": [
+    "The wilderness, settlement, and Indian removal",
+    "Revenge and justice",
+    "Border, ballad, and national memory",
+    "Warfare and battle",
+    "Republican nationhood and the claim to a national literature",
+    "Heroism and the heroic code",
+    "Transatlantic exchange and cultural dependence",
+    "The public sphere, print, and the periodical",
+    "Gothic confinement and the pursued heroine",
+    "Sea voyage and seafaring"
+   ]
+  },
+  {
+   "author": "John Ramsay McCulloch",
+   "themes": [
+    "Commerce, luxury, and commercial society",
+    "Industry, enclosure, and the changed countryside",
+    "Progress, decay, and the philosophy of history"
+   ]
+  },
+  {
+   "author": "Joseph Lancaster",
+   "themes": [
+    "Childhood, innocence, and education",
+    "Humanist education and the ideal commonwealth",
+    "Poverty, dependence, and the professional writer"
+   ]
+  },
+  {
+   "author": "Lady Caroline Lamb",
+   "themes": [
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Religious persecution and martyrdom",
+    "Love, constancy, and betrayal",
+    "Rebellion, guilt, and the outcast hero",
+    "Gothic confinement and the pursued heroine",
+    "Female authorship and the woman writer"
+   ]
+  },
+  {
+   "author": "Leigh Hunt",
+   "themes": [
+    "Idealized love and the lost beloved",
+    "Sensibility, feeling, and its critics",
+    "Familiar prose and the essayist's persona",
+    "The public sphere, print, and the periodical",
+    "Poverty, dependence, and the professional writer",
+    "Exile, travel, and the southern sojourn",
+    "Revolutionary hope and its disappointment",
+    "Tyranny and the abuse of power",
+    "Liberty of conscience and religious toleration",
+    "Poetic solitude and the conversation with nature",
+    "Taste, decorum, and the rules of art",
+    "Patronage and the literary marketplace"
+   ]
+  },
+  {
+   "author": "Letitia Elizabeth Landon",
+   "themes": [
+    "Gothic confinement and the pursued heroine",
+    "Love, constancy, and betrayal",
+    "Female authorship and the woman writer",
+    "Idealized love and the lost beloved",
+    "The annual, the keepsake, and the gift-book economy",
+    "Poverty, dependence, and the professional writer",
+    "Chivalry and knighthood",
+    "Fortune and mutability",
+    "Women's experience and the feminine voice"
+   ]
+  },
+  {
+   "author": "Lydia Howard Sigourney",
+   "themes": [
+    "Death, mourning, and the graveyard meditation",
+    "Women's experience and the feminine voice",
+    "Consolation and endurance"
+   ]
+  },
+  {
+   "author": "Lydia Maria Child",
+   "themes": [
+    "Republican nationhood and the claim to a national literature",
+    "Warfare and battle",
+    "Tyranny and the abuse of power",
+    "Marriage and women's conduct",
+    "Childhood, innocence, and education",
+    "The education of princes and magistrates",
+    "The slave trade and abolition",
+    "Women's education and intellectual friendship",
+    "The wilderness, settlement, and Indian removal",
+    "Colonial enterprise and the New World"
+   ]
+  },
+  {
+   "author": "Maria Edgeworth",
+   "themes": [
+    "The marriage market and the limited estate",
+    "Politeness, fashion, and the codes of conduct",
+    "Women's experience and the feminine voice",
+    "Slavery, empire, and the Atlantic world",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Rural labour, depopulation, and the deserted village",
+    "Fortune and mutability",
+    "Childhood, innocence, and education",
+    "Primitive genius and national poetry",
+    "Appearance, dissembling, and self-fashioning",
+    "Women's education and intellectual friendship",
+    "Marriage and women's conduct",
+    "Reason, faith, and the limits of understanding",
+    "Patronage and the literary marketplace",
+    "The education of princes and magistrates",
+    "Order and degree: the body politic",
+    "Liberty of conscience and religious toleration",
+    "Sensibility, feeling, and its critics",
+    "Self-knowledge and the philosophy of the mind",
+    "Humanist education and the ideal commonwealth"
+   ]
+  },
+  {
+   "author": "Maria Graham",
+   "themes": [
+    "Mission, conversion, and the Church",
+    "Childhood, innocence, and education",
+    "Colonial enterprise and the New World",
+    "Evangelical experience and assurance"
+   ]
+  },
+  {
+   "author": "Maria W. Stewart",
+   "themes": [
+    "The slave trade and abolition",
+    "Women's experience and the feminine voice",
+    "Religious persecution and martyrdom",
+    "Faith, grace, and the pilgrim's journey"
+   ]
+  },
+  {
+   "author": "Mary Brunton",
+   "themes": [
+    "Sensibility, feeling, and its critics",
+    "Gothic confinement and the pursued heroine",
+    "The wilderness, settlement, and Indian removal",
+    "Doubt, faith, and secular questioning",
+    "Penance, confession, and sin"
+   ]
+  },
+  {
+   "author": "Mary Lamb",
+   "themes": [
+    "Childhood, innocence, and education",
+    "Marriage and women's conduct",
+    "Tyranny and the abuse of power",
+    "Appearance, dissembling, and self-fashioning"
+   ]
+  },
+  {
+   "author": "Mary Martha Sherwood",
+   "themes": [
+    "Childhood, innocence, and education",
+    "Penance, confession, and sin",
+    "Evangelical experience and assurance",
+    "Puritan inheritance and the secret sin",
+    "Sympathy, benevolence, and the moral sense"
+   ]
+  },
+  {
+   "author": "Mary Prince",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Women's experience and the feminine voice",
+    "Seduction and the betrayed heroine"
+   ]
+  },
+  {
+   "author": "Mary Robinson",
+   "themes": [
+    "Idealized love and the lost beloved",
+    "Melancholy and self-analysis",
+    "Female authorship and the woman writer",
+    "Patronage and the literary marketplace",
+    "Fortune and mutability",
+    "Enthusiasm and the disease of the imagination",
+    "Gothic confinement and the pursued heroine",
+    "Seduction and the betrayed heroine",
+    "Women's education and intellectual friendship",
+    "Revolutionary hope and its disappointment",
+    "Tyranny and the abuse of power",
+    "Death, mourning, and the graveyard meditation",
+    "Time, death, and immortality through verse",
+    "Consolation and endurance",
+    "Petrarchan desire and the sonnet mistress",
+    "Women's experience and the feminine voice",
+    "Marriage and women's conduct",
+    "Politeness, fashion, and the codes of conduct",
+    "The marriage market and the limited estate",
+    "Appearance, dissembling, and self-fashioning",
+    "Poverty, dependence, and the professional writer",
+    "Exile, travel, and the southern sojourn",
+    "Memory and the growth of the poet's mind"
+   ]
+  },
+  {
+   "author": "Mary Russell Mitford",
+   "themes": [
+    "Familiar prose and the essayist's persona",
+    "Nature, landscape, and the shaping mind",
+    "Industry, enclosure, and the changed countryside"
+   ]
+  },
+  {
+   "author": "Mary Wollstonecraft Shelley",
+   "themes": [
+    "Rebellion, guilt, and the outcast hero",
+    "Creation and cosmology",
+    "The sublime, terror, and the ruin",
+    "Judgment Day and eschatology",
+    "Death, mourning, and the graveyard meditation",
+    "Consolation and endurance",
+    "Kingship and good rule",
+    "Fortune and mutability",
+    "Women, chastity, and constancy",
+    "Marriage and women's conduct",
+    "Childhood, innocence, and education",
+    "Women's education and intellectual friendship",
+    "Penance, confession, and sin"
+   ]
+  },
+  {
+   "author": "Mason Locke Weems",
+   "themes": [
+    "Republican nationhood and the claim to a national literature",
+    "Heroism and the heroic code",
+    "Childhood, innocence, and education"
+   ]
+  },
+  {
+   "author": "Matthew Gregory Lewis",
+   "themes": [
+    "Gothic confinement and the pursued heroine",
+    "The supernatural ballad and willed belief",
+    "Love, constancy, and betrayal",
+    "Rebellion, guilt, and the outcast hero",
+    "Seduction and the betrayed heroine",
+    "Penance, confession, and sin",
+    "Tyranny and the abuse of power",
+    "Revenge and justice"
+   ]
+  },
+  {
+   "author": "Michael Banim",
+   "themes": [
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Rural labour, depopulation, and the deserted village",
+    "The supernatural ballad and willed belief"
+   ]
+  },
+  {
+   "author": "Noah Webster",
+   "themes": [
+    "The English vernacular and national letters",
+    "Republican nationhood and the claim to a national literature",
+    "National identity and Englishness"
+   ]
+  },
+  {
+   "author": "Percy Bysshe Shelley",
+   "themes": [
+    "Doubt, faith, and secular questioning",
+    "Reason, faith, and the limits of understanding",
+    "Liberty of conscience and religious toleration",
+    "Revolutionary hope and its disappointment",
+    "Tyranny and the abuse of power",
+    "Poetic solitude and the conversation with nature",
+    "Imagination as a way of knowing",
+    "Idealized love and the lost beloved",
+    "The sublime, terror, and the ruin",
+    "Nature, landscape, and the shaping mind",
+    "Love, constancy, and betrayal",
+    "Revenge and justice",
+    "Seduction and the betrayed heroine",
+    "Time, death, and immortality through verse",
+    "Exile and homelessness",
+    "Early death and the mourning of poets",
+    "Exile, travel, and the southern sojourn",
+    "Liberty, corruption, and the decline of nations",
+    "Industry, enclosure, and the changed countryside",
+    "Taste, decorum, and the rules of art",
+    "Poverty, dependence, and the professional writer"
+   ]
+  },
+  {
+   "author": "Richard Henry Dana",
+   "themes": [
+    "Sea voyage and seafaring",
+    "Rebellion, guilt, and the outcast hero",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "Richard Lovell Edgeworth",
+   "themes": [
+    "Childhood, innocence, and education",
+    "The education of princes and magistrates",
+    "Self-knowledge and the philosophy of the mind",
+    "Humanist education and the ideal commonwealth"
+   ]
+  },
+  {
+   "author": "Robert Bloomfield",
+   "themes": [
+    "Rural labour, depopulation, and the deserted village",
+    "Industry, enclosure, and the changed countryside",
+    "Patronage and the literary marketplace"
+   ]
+  },
+  {
+   "author": "Robert Owen",
+   "themes": [
+    "Industry, enclosure, and the changed countryside",
+    "Poverty, dependence, and the professional writer",
+    "Commerce, luxury, and commercial society",
+    "Childhood, innocence, and education"
+   ]
+  },
+  {
+   "author": "Robert Southey",
+   "themes": [
+    "Warfare and battle",
+    "Tyranny and the abuse of power",
+    "Revolutionary hope and its disappointment",
+    "Religious persecution and martyrdom",
+    "Heroism and the heroic code",
+    "Rebellion, guilt, and the outcast hero",
+    "Exile, travel, and the southern sojourn",
+    "Doubt, faith, and secular questioning",
+    "Love, constancy, and betrayal",
+    "Colonial enterprise and the New World",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Slavery, empire, and the Atlantic world",
+    "Seduction and the betrayed heroine",
+    "Social satire and estates criticism",
+    "Sea voyage and seafaring",
+    "National identity and Englishness",
+    "Nature, landscape, and the shaping mind",
+    "Familiar prose and the essayist's persona",
+    "The public sphere, print, and the periodical",
+    "Industry, enclosure, and the changed countryside",
+    "Chivalry and knighthood",
+    "Kingship and good rule",
+    "Mission, conversion, and the Church",
+    "Idealized love and the lost beloved",
+    "Commerce, luxury, and commercial society",
+    "Enthusiasm and the disease of the imagination",
+    "Evangelical experience and assurance",
+    "Liberty of conscience and religious toleration",
+    "Order and degree: the body politic",
+    "Taste, decorum, and the rules of art",
+    "Poverty, dependence, and the professional writer",
+    "Patronage and the literary marketplace",
+    "Republican nationhood and the claim to a national literature",
+    "Progress, decay, and the philosophy of history",
+    "Melancholy and self-analysis"
+   ]
+  },
+  {
+   "author": "Samuel Cornish",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "The public sphere, print, and the periodical",
+    "Republican nationhood and the claim to a national literature"
+   ]
+  },
+  {
+   "author": "Samuel Ferguson",
+   "themes": [
+    "Industry, enclosure, and the changed countryside",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Love, constancy, and betrayal",
+    "The supernatural ballad and willed belief",
+    "Monsters and the marvellous"
+   ]
+  },
+  {
+   "author": "Samuel Rogers",
+   "themes": [
+    "Taste, decorum, and the rules of art",
+    "Patronage and the literary marketplace",
+    "Self-knowledge and the philosophy of the mind",
+    "Reason, faith, and the limits of understanding",
+    "Exile, travel, and the southern sojourn",
+    "The transience of earthly glory (ubi sunt)"
+   ]
+  },
+  {
+   "author": "Samuel Taylor Coleridge",
+   "themes": [
+    "The supernatural ballad and willed belief",
+    "Nature, landscape, and the shaping mind",
+    "Industry, enclosure, and the changed countryside",
+    "Rebellion, guilt, and the outcast hero",
+    "Poverty, dependence, and the professional writer",
+    "Penance, confession, and sin",
+    "Sea voyage and seafaring",
+    "Creation and cosmology",
+    "Dream, intoxication, and the divided mind",
+    "Imagination as a way of knowing",
+    "Monsters and the marvellous",
+    "Exile, travel, and the southern sojourn",
+    "Gothic confinement and the pursued heroine",
+    "Seduction and the betrayed heroine",
+    "Appearance, dissembling, and self-fashioning",
+    "Poetic solitude and the conversation with nature",
+    "Childhood, innocence, and education",
+    "Melancholy and self-analysis",
+    "Idealized love and the lost beloved",
+    "Reason, faith, and the limits of understanding",
+    "Self-knowledge and the philosophy of the mind",
+    "Memory and the growth of the poet's mind",
+    "Familiar prose and the essayist's persona",
+    "The public sphere, print, and the periodical",
+    "Conscience and moral self-examination",
+    "Doubt, faith, and secular questioning"
+   ]
+  },
+  {
+   "author": "Sarah Josepha Hale",
+   "themes": [
+    "Death, mourning, and the graveyard meditation",
+    "Consolation and endurance",
+    "Women's experience and the feminine voice",
+    "Childhood, innocence, and education",
+    "Sympathy, benevolence, and the moral sense"
+   ]
+  },
+  {
+   "author": "Sir Walter Scott",
+   "themes": [
+    "Jacobitism, loyalty, and the '45",
+    "Border, ballad, and national memory",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Rebellion, guilt, and the outcast hero",
+    "Appearance, dissembling, and self-fashioning",
+    "Religious persecution and martyrdom",
+    "Puritan inheritance and the secret sin",
+    "Revenge and justice",
+    "Women, chastity, and constancy",
+    "Blood-feud, vengeance, and kinship",
+    "Seduction and the betrayed heroine",
+    "Chivalry and knighthood",
+    "National identity and Englishness",
+    "The supernatural ballad and willed belief",
+    "Warfare and battle",
+    "Exile and homelessness",
+    "Primitive genius and national poetry",
+    "Courtly service and courtly danger",
+    "The transience of earthly glory (ubi sunt)",
+    "Liberty of conscience and religious toleration",
+    "Kingship and good rule",
+    "Loyalty and the comitatus bond",
+    "Commerce, luxury, and commercial society",
+    "The city and urban life"
+   ]
+  },
+  {
+   "author": "Susan Ferrier",
+   "themes": [
+    "The marriage market and the limited estate",
+    "Sensibility, feeling, and its critics",
+    "Women's experience and the feminine voice",
+    "Fortune and mutability"
+   ]
+  },
+  {
+   "author": "Sydney Owenson",
+   "themes": [
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Border, ballad, and national memory",
+    "Marriage and women's conduct",
+    "Jacobitism, loyalty, and the '45",
+    "Exile and homelessness"
+   ]
+  },
+  {
+   "author": "Thomas Campbell",
+   "themes": [
+    "Progress, decay, and the philosophy of history",
+    "Liberty, corruption, and the decline of nations",
+    "The wilderness, settlement, and Indian removal",
+    "Transatlantic exchange and cultural dependence",
+    "Warfare and battle",
+    "Taste, decorum, and the rules of art",
+    "Primitive genius and national poetry"
+   ]
+  },
+  {
+   "author": "Thomas Chalmers",
+   "themes": [
+    "Creation and cosmology",
+    "Reason, faith, and the limits of understanding",
+    "The New Science and experimental philosophy",
+    "The city and urban life",
+    "Poverty, dependence, and the professional writer",
+    "Sympathy, benevolence, and the moral sense"
+   ]
+  },
+  {
+   "author": "Thomas Clarkson",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Commerce, luxury, and commercial society",
+    "Sympathy, benevolence, and the moral sense"
+   ]
+  },
+  {
+   "author": "Thomas Crofton Croker",
+   "themes": [
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "The supernatural ballad and willed belief",
+    "Primitive genius and national poetry",
+    "Monsters and the marvellous"
+   ]
+  },
+  {
+   "author": "Thomas De Quincey",
+   "themes": [
+    "Dream, intoxication, and the divided mind",
+    "The city and urban life",
+    "Penance, confession, and sin",
+    "Poverty, dependence, and the professional writer",
+    "Enthusiasm and the disease of the imagination",
+    "Revenge and justice",
+    "Self-knowledge and the philosophy of the mind",
+    "Monsters and the marvellous",
+    "The public sphere, print, and the periodical"
+   ]
+  },
+  {
+   "author": "Thomas Hood",
+   "themes": [
+    "Wit, ridicule, and the war against dullness",
+    "The public sphere, print, and the periodical",
+    "Patronage and the literary marketplace",
+    "Poverty, dependence, and the professional writer",
+    "The annual, the keepsake, and the gift-book economy",
+    "Revenge and justice",
+    "Blood-feud, vengeance, and kinship",
+    "Love, constancy, and betrayal",
+    "Imagination as a way of knowing",
+    "Idealized love and the lost beloved",
+    "The supernatural ballad and willed belief",
+    "Penance, confession, and sin",
+    "Rebellion, guilt, and the outcast hero",
+    "Death, mourning, and the graveyard meditation"
+   ]
+  },
+  {
+   "author": "Thomas Love Peacock",
+   "themes": [
+    "Sensibility, feeling, and its critics",
+    "Social satire and estates criticism",
+    "Enthusiasm and the disease of the imagination",
+    "Dream, intoxication, and the divided mind",
+    "Idealized love and the lost beloved",
+    "Nature, landscape, and the shaping mind"
+   ]
+  },
+  {
+   "author": "Thomas Lovell Beddoes",
+   "themes": [
+    "Revenge and justice",
+    "Love, constancy, and betrayal",
+    "Death, the soul, and the afterlife",
+    "Dream, intoxication, and the divided mind",
+    "Judgment Day and eschatology"
+   ]
+  },
+  {
+   "author": "Thomas Moore",
+   "themes": [
+    "Border, ballad, and national memory",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "Liberty, corruption, and the decline of nations",
+    "Wit, ridicule, and the war against dullness",
+    "The public sphere, print, and the periodical",
+    "Transatlantic exchange and cultural dependence",
+    "Exile, travel, and the southern sojourn",
+    "Social satire and estates criticism",
+    "Idealized love and the lost beloved",
+    "Monsters and the marvellous",
+    "Divine love and holy desire",
+    "Enthusiasm and the disease of the imagination",
+    "Reason, faith, and the limits of understanding",
+    "Patronage and the literary marketplace",
+    "Appearance, dissembling, and self-fashioning"
+   ]
+  },
+  {
+   "author": "Thomas Robert Malthus",
+   "themes": [
+    "Poverty, dependence, and the professional writer",
+    "Commerce, luxury, and commercial society",
+    "Progress, decay, and the philosophy of history"
+   ]
+  },
+  {
+   "author": "Timothy Dwight",
+   "themes": [
+    "Country retirement and the estate poem",
+    "Nature, landscape, and the shaping mind",
+    "Puritan inheritance and the secret sin",
+    "Industry, enclosure, and the changed countryside",
+    "Republican nationhood and the claim to a national literature"
+   ]
+  },
+  {
+   "author": "Venture Smith",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Colonial enterprise and the New World",
+    "Exile and homelessness"
+   ]
+  },
+  {
+   "author": "Walter Savage Landor",
+   "themes": [
+    "Rebellion, guilt, and the outcast hero",
+    "Exile, travel, and the southern sojourn",
+    "The supernatural ballad and willed belief",
+    "Warfare and battle",
+    "Kingship and good rule",
+    "The transience of earthly glory (ubi sunt)",
+    "Taste, decorum, and the rules of art",
+    "Tyranny and the abuse of power",
+    "Memory and the growth of the poet's mind",
+    "Women's education and intellectual friendship",
+    "Idealized love and the lost beloved",
+    "Humanist education and the ideal commonwealth",
+    "Death, mourning, and the graveyard meditation",
+    "Early death and the mourning of poets"
+   ]
+  },
+  {
+   "author": "Washington Irving",
+   "themes": [
+    "The city and urban life",
+    "Wit, ridicule, and the war against dullness",
+    "Familiar prose and the essayist's persona",
+    "Republican nationhood and the claim to a national literature",
+    "Transatlantic exchange and cultural dependence",
+    "Border, ballad, and national memory",
+    "The supernatural ballad and willed belief",
+    "Commerce, luxury, and commercial society",
+    "The transience of earthly glory (ubi sunt)"
+   ]
+  },
+  {
+   "author": "William Blake",
+   "themes": [
+    "Childhood, innocence, and education",
+    "Tyranny and the abuse of power",
+    "Nature, landscape, and the shaping mind",
+    "Poetic solitude and the conversation with nature",
+    "Rebellion, guilt, and the outcast hero",
+    "Seduction and the betrayed heroine",
+    "Penance, confession, and sin",
+    "Doubt, faith, and secular questioning",
+    "Imagination as a way of knowing",
+    "Revolutionary hope and its disappointment",
+    "Enthusiasm and the disease of the imagination",
+    "Slavery, empire, and the Atlantic world",
+    "Exile and homelessness",
+    "Idealized love and the lost beloved",
+    "Colonial enterprise and the New World",
+    "Warfare and battle",
+    "Creation and cosmology",
+    "Reason, faith, and the limits of understanding",
+    "National identity and Englishness"
+   ]
+  },
+  {
+   "author": "William Cobbett",
+   "themes": [
+    "The public sphere, print, and the periodical",
+    "Industry, enclosure, and the changed countryside",
+    "Tyranny and the abuse of power",
+    "Poverty, dependence, and the professional writer",
+    "Rural labour, depopulation, and the deserted village",
+    "The city and urban life",
+    "Ecclesiastical reform and criticism",
+    "Monasticism and the religious life",
+    "Reformation faith and the authority of scripture",
+    "Religious persecution and martyrdom",
+    "The English vernacular and national letters",
+    "Humanist education and the ideal commonwealth",
+    "Politeness, fashion, and the codes of conduct",
+    "Marriage and women's conduct",
+    "Commerce, luxury, and commercial society",
+    "Conscience and moral self-examination",
+    "Order and degree: the body politic",
+    "Civil War, regicide, and the trial of the king"
+   ]
+  },
+  {
+   "author": "William Cullen Bryant",
+   "themes": [
+    "Poetic solitude and the conversation with nature",
+    "Death, mourning, and the graveyard meditation",
+    "Nature, landscape, and the shaping mind",
+    "Faith, grace, and the pilgrim's journey",
+    "Commerce, luxury, and commercial society",
+    "Liberty, corruption, and the decline of nations",
+    "Republican nationhood and the claim to a national literature",
+    "The wilderness, settlement, and Indian removal",
+    "The transience of earthly glory (ubi sunt)"
+   ]
+  },
+  {
+   "author": "William Ellery Channing",
+   "themes": [
+    "Reason, faith, and the limits of understanding",
+    "Doubt, faith, and secular questioning",
+    "Liberty of conscience and religious toleration"
+   ]
+  },
+  {
+   "author": "William Godwin",
+   "themes": [
+    "Rebellion, guilt, and the outcast hero",
+    "Tyranny and the abuse of power",
+    "Revenge and justice",
+    "Penance, confession, and sin",
+    "Commerce, luxury, and commercial society",
+    "Exile and homelessness",
+    "Religious persecution and martyrdom",
+    "Melancholy and self-analysis",
+    "The sublime, terror, and the ruin",
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Revolutionary hope and its disappointment",
+    "Progress, decay, and the philosophy of history",
+    "Liberty, corruption, and the decline of nations"
+   ]
+  },
+  {
+   "author": "William Harrison Ainsworth",
+   "themes": [
+    "Rebellion, guilt, and the outcast hero",
+    "Penance, confession, and sin"
+   ]
+  },
+  {
+   "author": "William Hazlitt",
+   "themes": [
+    "Imagination as a way of knowing",
+    "Self-knowledge and the philosophy of the mind",
+    "Taste, decorum, and the rules of art",
+    "The public theatre and the players' world",
+    "The sublime, terror, and the ruin",
+    "Time, death, and immortality through verse",
+    "Wit, ridicule, and the war against dullness",
+    "The city and urban life",
+    "Patronage and the literary marketplace",
+    "Tyranny and the abuse of power",
+    "Revenge and justice",
+    "Ambition and the overreacher",
+    "Familiar prose and the essayist's persona",
+    "The public sphere, print, and the periodical",
+    "Poverty, dependence, and the professional writer",
+    "Doubt, faith, and secular questioning",
+    "Melancholy and self-analysis"
+   ]
+  },
+  {
+   "author": "William Lloyd Garrison",
+   "themes": [
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "The public sphere, print, and the periodical",
+    "Liberty, corruption, and the decline of nations"
+   ]
+  },
+  {
+   "author": "William Roscoe",
+   "themes": [
+    "Patronage and the literary marketplace",
+    "Tyranny and the abuse of power",
+    "Taste, decorum, and the rules of art",
+    "Liberty, corruption, and the decline of nations",
+    "Reformation faith and the authority of scripture",
+    "Ecclesiastical reform and criticism",
+    "The slave trade and abolition",
+    "Slavery, empire, and the Atlantic world",
+    "Sympathy, benevolence, and the moral sense",
+    "Commerce, luxury, and commercial society",
+    "Childhood, innocence, and education",
+    "Natural history, science, and the poetic eye"
+   ]
+  },
+  {
+   "author": "William Wordsworth",
+   "themes": [
+    "The supernatural ballad and willed belief",
+    "Nature, landscape, and the shaping mind",
+    "Industry, enclosure, and the changed countryside",
+    "Rebellion, guilt, and the outcast hero",
+    "Poverty, dependence, and the professional writer",
+    "Imagination as a way of knowing",
+    "Memory and the growth of the poet's mind",
+    "Taste, decorum, and the rules of art",
+    "Poetic solitude and the conversation with nature",
+    "Consolation and endurance",
+    "Melancholy and self-analysis",
+    "Seduction and the betrayed heroine",
+    "Love, constancy, and betrayal",
+    "Border, ballad, and national memory",
+    "The literature of the nations: Scotland, Ireland, and Wales",
+    "The city and urban life",
+    "The sublime, terror, and the ruin",
+    "Childhood, innocence, and education",
+    "Time, death, and immortality through verse",
+    "Revolutionary hope and its disappointment",
+    "Doubt, faith, and secular questioning"
+   ]
+  }
+ ],
+ "author_influences": [
+  {
+   "author": "Elizabeth Heyrick",
+   "influenced_by": [
+    "Thomas Clarkson",
+    "William Roscoe",
+    "Granville Sharp"
+   ]
+  },
+  {
+   "author": "Thomas Clarkson",
+   "influenced_by": [
+    "Granville Sharp",
+    "James Ramsay",
+    "John Newton",
+    "William Roscoe"
+   ]
+  },
+  {
+   "author": "William Lloyd Garrison",
+   "influenced_by": [
+    "Benjamin Lundy",
+    "Elizabeth Heyrick",
+    "Thomas Clarkson",
+    "Thomas Paine"
+   ]
+  },
+  {
+   "author": "Edmund Burke",
+   "influenced_by": [
+    "John Locke",
+    "Joseph Addison",
+    "Jonathan Swift",
+    "William Blackstone"
+   ]
+  },
+  {
+   "author": "Richard Lovell Edgeworth",
+   "influenced_by": [
+    "John Locke",
+    "Joseph Priestley",
+    "Erasmus Darwin",
+    "David Hume"
+   ]
+  },
+  {
+   "author": "Robert Owen",
+   "influenced_by": [
+    "Adam Smith"
+   ]
+  },
+  {
+   "author": "Fitz-Greene Halleck",
+   "influenced_by": [
+    "Robert Burns",
+    "Alexander Pope",
+    "William Shakespeare"
+   ]
+  },
+  {
+   "author": "James Mackintosh",
+   "influenced_by": [
+    "Edward Gibbon"
+   ]
+  },
+  {
+   "author": "Charlotte Smith",
+   "influenced_by": [
+    "Thomas Gray",
+    "John Milton"
+   ]
+  },
+  {
+   "author": "Mary Robinson",
+   "influenced_by": [
+    "William Shakespeare"
+   ]
+  },
+  {
+   "author": "Ann Radcliffe",
+   "influenced_by": [
+    "Horace Walpole",
+    "Clara Reeve",
+    "William Beckford",
+    "Charlotte Smith",
+    "Edmund Burke"
+   ]
+  },
+  {
+   "author": "Jane Austen",
+   "influenced_by": [
+    "Samuel Johnson",
+    "Frances Burney",
+    "Ann Radcliffe"
+   ]
+  },
+  {
+   "author": "Sir Walter Scott",
+   "influenced_by": [
+    "Robert Burns",
+    "James Macpherson",
+    "Ann Radcliffe",
+    "Matthew Gregory Lewis",
+    "John Dryden"
+   ]
+  },
+  {
+   "author": "Felicia Hemans",
+   "influenced_by": [
+    "Sir Walter Scott",
+    "William Wordsworth",
+    "George Gordon Byron, Sixth Baron Byron",
+    "Anna Laetitia Barbauld",
+    "Thomas Gray"
+   ]
+  },
+  {
+   "author": "Letitia Elizabeth Landon",
+   "influenced_by": [
+    "George Gordon Byron, Sixth Baron Byron",
+    "Thomas Moore",
+    "Sir Walter Scott",
+    "Felicia Hemans"
+   ]
+  },
+  {
+   "author": "Samuel Rogers",
+   "influenced_by": [
+    "Alexander Pope",
+    "Oliver Goldsmith",
+    "Mark Akenside",
+    "Thomas Gray",
+    "William Cowper",
+    "Samuel Johnson"
+   ]
+  },
+  {
+   "author": "Thomas Campbell",
+   "influenced_by": [
+    "Robert Burns",
+    "James Beattie",
+    "Alexander Pope",
+    "Oliver Goldsmith",
+    "Mark Akenside",
+    "Thomas Gray"
+   ]
+  },
+  {
+   "author": "Thomas Moore",
+   "influenced_by": [
+    "Oliver Goldsmith",
+    "Matthew Prior",
+    "Lady Mary Wortley Montagu",
+    "Jonathan Swift",
+    "Robert Burns",
+    "George Gordon Byron, Sixth Baron Byron"
+   ]
+  },
+  {
+   "author": "Francis Jeffrey",
+   "influenced_by": [
+    "David Hume",
+    "Adam Smith",
+    "Henry Home, Lord Kames",
+    "John Millar",
+    "Joseph Addison",
+    "Alexander Pope"
+   ]
+  },
+  {
+   "author": "Humphry Davy",
+   "influenced_by": [
+    "Joseph Priestley",
+    "Erasmus Darwin"
+   ]
+  },
+  {
+   "author": "James Mill",
+   "influenced_by": [
+    "John Locke",
+    "David Hartley",
+    "Jeremy Bentham",
+    "Adam Smith",
+    "Thomas Paine"
+   ]
+  },
+  {
+   "author": "James Montgomery",
+   "influenced_by": [
+    "Isaac Watts",
+    "William Cowper",
+    "Robert Burns",
+    "James Ramsay"
+   ]
+  },
+  {
+   "author": "Maria Edgeworth",
+   "influenced_by": [
+    "Frances Burney",
+    "Richard Lovell Edgeworth",
+    "Hester Chapone",
+    "Jonathan Swift"
+   ]
+  },
+  {
+   "author": "Thomas Babington Macaulay",
+   "influenced_by": [
+    "Edward Gibbon",
+    "David Hume",
+    "John Milton",
+    "James Mill"
+   ]
+  },
+  {
+   "author": "Thomas Chalmers",
+   "influenced_by": [
+    "William Paley",
+    "Thomas Robert Malthus",
+    "Adam Smith",
+    "Thomas Reid",
+    "Joseph Butler"
+   ]
+  },
+  {
+   "author": "Thomas Robert Malthus",
+   "influenced_by": [
+    "Adam Smith",
+    "David Hume",
+    "Joseph Priestley",
+    "William Godwin",
+    "Jonathan Swift"
+   ]
+  },
+  {
+   "author": "William Godwin",
+   "influenced_by": [
+    "John Locke",
+    "David Hume",
+    "David Hartley",
+    "Joseph Priestley",
+    "Jonathan Swift",
+    "Samuel Johnson",
+    "Thomas Paine"
+   ]
+  },
+  {
+   "author": "William Roscoe",
+   "influenced_by": [
+    "William Cowper",
+    "Anna Laetitia Barbauld",
+    "Oliver Goldsmith",
+    "Jonathan Swift"
+   ]
+  },
+  {
+   "author": "Amelia Opie",
+   "influenced_by": [
+    "William Godwin",
+    "Mary Wollstonecraft"
+   ]
+  },
+  {
+   "author": "Charles Robert Maturin",
+   "influenced_by": [
+    "Ann Radcliffe",
+    "Matthew Gregory Lewis"
+   ]
+  },
+  {
+   "author": "Charlotte Dacre",
+   "influenced_by": [
+    "Matthew Gregory Lewis",
+    "Ann Radcliffe",
+    "William Godwin"
+   ]
+  },
+  {
+   "author": "James Hogg",
+   "influenced_by": [
+    "Robert Burns",
+    "Sir Walter Scott"
+   ]
+  },
+  {
+   "author": "John Galt",
+   "influenced_by": [
+    "Robert Burns",
+    "Sir Walter Scott"
+   ]
+  },
+  {
+   "author": "Mary Brunton",
+   "influenced_by": [
+    "William Godwin",
+    "Samuel Johnson",
+    "Ann Radcliffe"
+   ]
+  },
+  {
+   "author": "Matthew Gregory Lewis",
+   "influenced_by": [
+    "William Beckford",
+    "Ann Radcliffe"
+   ]
+  },
+  {
+   "author": "Susan Ferrier",
+   "influenced_by": [
+    "Sir Walter Scott",
+    "Frances Burney",
+    "Maria Edgeworth",
+    "Jane Austen"
+   ]
+  },
+  {
+   "author": "Thomas Love Peacock",
+   "influenced_by": [
+    "Percy Bysshe Shelley",
+    "Laurence Sterne",
+    "Thomas Nashe"
+   ]
+  },
+  {
+   "author": "William Harrison Ainsworth",
+   "influenced_by": [
+    "Matthew Gregory Lewis"
+   ]
+  },
+  {
+   "author": "Caroline Norton",
+   "influenced_by": [
+    "George Gordon Byron, Sixth Baron Byron",
+    "Richard Brinsley Sheridan"
+   ]
+  },
+  {
+   "author": "Lady Caroline Lamb",
+   "influenced_by": [
+    "George Gordon Byron, Sixth Baron Byron",
+    "Sydney Owenson"
+   ]
+  },
+  {
+   "author": "Samuel Ferguson",
+   "influenced_by": [
+    "William Shakespeare",
+    "Sir Walter Scott",
+    "John Milton",
+    "Robert Burns",
+    "James Macpherson",
+    "Abraham Cowley"
+   ]
+  },
+  {
+   "author": "Thomas Lovell Beddoes",
+   "influenced_by": [
+    "William Shakespeare",
+    "Christopher Marlowe",
+    "John Webster",
+    "John Marston",
+    "John Ford",
+    "Cyril Tourneur"
+   ]
+  },
+  {
+   "author": "Hartley Coleridge",
+   "influenced_by": [
+    "Ben Jonson",
+    "William Shakespeare",
+    "Philip Massinger",
+    "John Ford"
+   ]
+  },
+  {
+   "author": "Maria Graham",
+   "influenced_by": [
+    "Anna Laetitia Barbauld",
+    "Frances Burney",
+    "Samuel Johnson"
+   ]
+  },
+  {
+   "author": "John Ramsay McCulloch",
+   "influenced_by": [
+    "Adam Smith",
+    "Thomas Robert Malthus",
+    "James Mill"
+   ]
+  }
+ ],
+ "period_movements": [
+  {
+   "period": "Romantic Period",
+   "movements": [
+    "Austen and the Novel of Manners",
+    "Blake and the Illuminated Prophecy",
+    "Bryant and the American Nature Lyric",
+    "Byron and the Byronic Revolt",
+    "Charles Brockden Brown and the American Gothic",
+    "Cooper and the American Romance of Forest and Sea",
+    "Keats and the Sensuous Ode",
+    "Labouring-Class and Village Poetry",
+    "Lyrical Ballads and the Lake Poets",
+    "Philosophical Fiction and the Godwin Circle",
+    "Regency Popular Verse and the Annual Public",
+    "Romantic Essay, Criticism and the Review",
+    "Scott, the Ballad Revival and the Historical Novel",
+    "Shelley and Radical Romanticism",
+    "The Early American Republic and Its Letters",
+    "The Knickerbocker Group and the American Sketch",
+    "The Regency Stage and Popular Drama"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Lyrical Ballad and Popular Stanza",
+    "description": "The short narrative or lyric poem written in the common measure and recurrent stanza of popular song, refined for a reading public: the conversation-ballad, the tale of humble sorrow, and the ballad of the supernatural.",
+    "historical_development": "Revived from the printed and sung border ballad by Percy's Reliques (1765) and the collections of Herd and Aird, made a literary form by Cowper, Burns and the English imitators of the 1790s, and institutionalised by Lyrical Ballads (1798) and Scott's Minstrelsy (1802-03). Coleridge's supernatural ballads, Wordsworth's Lucy poems and humble-life tales, and the imitation ballads of the broadside and the magazine carry it to 1832, and it passes into the popular song and the lyric of the Victorian period."
+  },
+  {
+    "name": "Conversation Poem and Lyric Meditation",
+    "description": "A blank-verse poem addressed to a named friend, a place, or a state of mind, in which the argument of the feeling is carried by the movement of the speaker's attention rather than by narrative.",
+    "historical_development": "Formed by Coleridge in 'This Lime-Tree Bower My Prison', 'Frost at Midnight' and 'Dejection: An Ode', and by Wordsworth in 'Lines written a few miles above Tintern Abbey' and the later topographical meditations; descended from the eighteenth-century estate poem and the verse epistle. It is the form on which later meditative blank verse, from Shelley's 'Mont Blanc' to Arnold and beyond, depends."
+  },
+  {
+    "name": "Romantic Ode",
+    "description": "The long lyric of meditation and address, in a stanza built for the occasion, on beauty, mortality, melancholy, night, wind or the imagination itself.",
+    "historical_development": "Developed out of the Pindaric ode and the hymn, and given its Romantic shape by Wordsworth's 'Intimations of Immortality' ode, by Shelley's 'Ode to the West Wind' and 'To a Skylark', and by the odes of Keats in 1819. It becomes the characteristic high lyric form of the nineteenth century."
+  },
+  {
+    "name": "Romantic Sonnet Revival",
+    "description": "The fourteen-line poem returned to serious public use after long neglect, for meditation, for political occasion and for the argument of a single mind.",
+    "historical_development": "Renewed by Charlotte Smith's Elegiac Sonnets (1784) and the descriptive sonnets of the 1790s, enlarged by Wordsworth's sonnets on liberty, on the river Duddon and on public affairs, used by Coleridge, Byron, Shelley, Keats and the Hunt circle, and by the contributors to the annuals, so that by 1832 the sonnet was again a living English form."
+  },
+  {
+    "name": "Visionary and Illuminated Prophecy",
+    "description": "Poem and design produced as one engraved artefact: the prophetic book with its personal mythology, its emblematic argument and its plate-to-plate variations.",
+    "historical_development": "Blake's method from Songs of Innocence (1789) and The Marriage of Heaven and Hell through America, Europe, Milton and Jerusalem to the last engravings. The form has no direct successor in its own century, though its symbolism and its liberated mythology enter the poetry of the 1890s and the artists' book of the twentieth century."
+  },
+  {
+    "name": "Metrical Tale and Romance in Verse",
+    "description": "The long narrative poem of adventure, border war, pilgrimage or Oriental scene, told in a stanza chosen for speed and music rather than for the dignity of heroic blank verse.",
+    "historical_development": "Scott's Lay of the Last Minstrel (1805), Marmion (1808), Rokeby (1813) and The Lord of the Isles (1815) set the fashion for the romantic metrical tale; Byron's pilgrimage and Oriental narratives and Moore's Lalla Rookh (1817) answered it, and the form survived into the narrative lyric of the annuals and of the 1830s."
+  },
+  {
+    "name": "Historical Novel and Romance",
+    "description": "Prose fiction in which a documented past age, its manners, dress, speech and social conflict, supplies both the setting and the argument, with a central figure often too modern or too passive to change the events that surround him.",
+    "historical_development": "Established by Scott's Waverley (1814) out of the Scottish Jacobite and antiquarian tale, the translated German historical romance and his own ballad editing; practised in England by Ainsworth, in France by Hugo, Dumas and Mérimée, in Italy by Manzoni, and in America by Cooper; the dominant form of popular narrative fiction for the rest of the century."
+  },
+  {
+    "name": "Novel of Manners and Fashion",
+    "description": "The prose comedy of a bounded social world, in which rank, income, marriage and conversation carry the plot and judgement is made by taste and behaviour rather than by event.",
+    "historical_development": "Given its modern form by Austen's completed novels and the posthumous pair of 1818, continued in the fashionable and silver-fork novel of the 1830s, and carried forward by Disraeli and Thackeray; prepared for by Burney and by the domestic and sentimental novel of the eighteenth century."
+  },
+  {
+    "name": "Philosophical and Anarchist Fiction",
+    "description": "The novel constructed to test a political or moral argument: institutions tried by an individual case, justice pursued through pursuit and disclosure, and the consequences of opinion shown in a life.",
+    "historical_development": "Begun with Godwin's Caleb Williams (1794) beside his Enquiry Concerning Political Justice (1793), continued by Wollstonecraft's domestic and political tales, by Mary Shelley's Frankenstein (1818) and The Last Man (1826), and by the novels of the Owenite and Benthamite 1830s; the ancestor of the tale of idea in later science fiction."
+  },
+  {
+    "name": "American Gothic Tale",
+    "description": "The tale of terror, delusion and pursuit set in American city, backcountry or epidemic, without the castle, the superstition or the feudal machinery of the British romance.",
+    "historical_development": "Founded by Charles Brockden Brown's Wieland, Edgar Huntly, Ormond and Arthur Mervyn (1798-1800); carried by the frontier horrors of Cooper, by the ghost tales of the Knickerbocker school, and by Hawthorne and Poe, in whom the American gothic of guilt, mystery and the divided mind becomes fully formed."
+  },
+  {
+    "name": "The Sketch and Character Tale",
+    "description": "The short prose piece of observation, humour and reminiscence, and the brief tale built on one figure or one scene, published in parts or gathered as a collection under an editor's or reporter's name.",
+    "historical_development": "Descended from the character writing of The Spectator and from Sterne; made American by Irving's Salmagundi papers (1807-08) and the Sketch Book of Geoffrey Crayon, Gent. (1819-20), practised by Paulding and the magazine and annual writers, and continued as the sketch of the nineteenth-century periodical."
+  },
+  {
+    "name": "Frontier and Maritime Romance",
+    "description": "The narrative of the boundary between settlement and wilderness, or of the ship and its crew, in which survival, hunting, seamanship and the contest of loyalties carry the story.",
+    "historical_development": "Formed by Cooper's frontier sequence from The Pioneers (1823) through The Last of the Mohicans (1826) to The Prairie (1827), and by his sea narratives from The Pilot (1824) to The Red Rover (1827); the ancestral form of the American Indian tale, the Western, and the sea novel from Marryat and Melville to Jack London."
+  },
+  {
+    "name": "Familiar Essay and Character Sketch",
+    "description": "The first-person prose essay of memory, book-love, humour and self-portraiture, written for a periodical and gathered as a volume of papers under a pseudonymous self.",
+    "historical_development": "Established as a Romantic form by Lamb's Essays of Elia (1820-23), Hazlitt's table-talk and character essays, and De Quincey's retrospective prose; derived from Bacon, from Jonson's Discoveries and from the Spectator tradition; the direct ancestor of the Victorian and modern familiar essay."
+  },
+  {
+    "name": "Critical Review and Periodical Essay",
+    "description": "The long review-article on books, public affairs and persons, written to a quarterly or monthly programme and forming the professional criticism of an age.",
+    "historical_development": "Created for Britain by the Edinburgh Review (from 1802) under Francis Jeffrey, the Quarterly Review (from 1809) under William Gifford, and Blackwood's Edinburgh Magazine (from 1817); paralleled in America by the Monthly Anthology (from 1805) and the North American Review (from 1815). It is the form of criticism that made literature a public profession."
+  },
+  {
+    "name": "Literary Annual and Keepsake Verse",
+    "description": "The gift-book and seasonal annual of engraving, sentimental verse, short tale and domestic ornament, produced for the present-buying market and paying contributors per piece.",
+    "historical_development": "Opened by Frederick Hill's The Forget Me Not in the early 1820s and carried to dominance by The Keepsake (from 1828) and Fisher's Drawing Room Scrap Book; it employed Wordsworth, Scott, Southey, Moore, Hemans and Landon, and shaped the popular verse and prose of the 1830s."
+  },
+  {
+    "name": "Inward Confession and Opium Narrative",
+    "description": "Prose that records the movements of a mind under passion, dream or drug, treating the self as a case to be read and the narrative of interior experience as a literature.",
+    "historical_development": "Made a form by De Quincey's Confessions of an English Opium-Eater (1816, revised 1821-22) and the later Suspiria de Profundis, with its dreams and its English Maltese; anticipated by the Newgate ordinary's account and the confession narrative; the ancestor of the prose of inner experience from Poe and Baudelaire to the modern memoir."
+  },
+  {
+    "name": "Fairy Tale and Romantic Legend",
+    "description": "The short fiction of enchantment, folk legend and marvel, retold for a literary audience with an explicit or implicit moral and social meaning.",
+    "historical_development": "Carried from Perrault and Mme d'Aulnoy through the children's books of the 1780s and 1790s, the translation of German tales into English, and Irving's colonial legends, into the literary fairy tale and verse romance of the 1830s, which prepares the great Victorian revival of the form."
+  },
+  {
+    "name": "Nature Lyric and Meditation",
+    "description": "The short poem on a natural scene, bird, flower, stream or season, in which observation becomes the occasion for thought on death, endurance, solitude or the mind.",
+    "historical_development": "Developed from Thomson's Seasons, the eighteenth-century descriptive poem and the evening hymn; perfected in the Romantic lyric of Wordsworth, Coleridge, Shelley and Keats, and taken up in America by Bryant's 'Thanatopsis' (1811) and 'To a Waterfowl'. It is the chief source of later nature poetry in both countries."
+  },
+  {
+    "name": "Local Guide and Topographical Prose",
+    "description": "Prose description of a country, district or river, written to direct the tourist's eye and to teach a landscape's aesthetic and historical meaning.",
+    "historical_development": "Grown out of the tour narrative and the eighteenth-century topographical poem; established as a Romantic form by Gilpin's and Uvedale Price's essays on the picturesque and by Wordsworth's Guide to the Lakes (1810), and continued by the county histories, the scenery pages of the annuals and the travel books of the 1830s."
+  },
+  {
+    "name": "Political and Revolutionary Verse",
+    "description": "Poetry written for a public argument: the song of the reform and radical cause, the address to a nation, the poem of the crowd and the festival, and the verse of war, liberty and the oppressor.",
+    "historical_development": "Made a serious mode by Burns's songs and the British radical songbooks of the 1790s and by the American revolutionary Musa; given high Romantic form in Shelley's political lyrics, Byron's 'England and France' and 'The Age of Bronze', Southey's early republican drama, and the national odes of the American republic; it continues in Chartist and reform verse."
+  },
+  {
+    "name": "National Epic and Didactic Poem",
+    "description": "The long poem undertaken to give a nation its subject or its instruction: the epic of origins and discovery, and the didactic poem on a country, its people and its duties.",
+    "historical_development": "Attempted in America by Barlow's The Columbiad (1807), by Trumbull's revolutionary satire and by the Musa of the 1770s, and in the topographical-didactic line by Dwight's Greenfield Hill (1794); the older British model of the didactic poem survives into the nineteenth century while the epic ambition passes to prose fiction."
+  },
+  {
+    "name": "Juvenile, School and Educational Book",
+    "description": "Prose and verse written for instruction at first or second reading: the spelling book, the school grammar, the moral tale for children, the child's library and the school anthology.",
+    "historical_development": "Developed from Newbery's little pretty books and the conduct literature of the eighteenth century; made a vehicle of national culture by Mrs. Barbauld's and Edgeworth's educational writing, by Noah Webster's spelling book and grammar, by the monitorial-school books, by Godwin's Juvenile Library from 1805, and by the school readers of the 1830s."
+  },
+  {
+    "name": "Melodrama and Nautical Drama",
+    "description": "The played romance of the persecuted heroine and the rescued virtuous poor, with music, spectacle and moral clarity, and its seafaring branch in which the ship, the mutiny and the rescue carry the plot.",
+    "historical_development": "Formed from the French melodrame brought to London after 1800, from the Gothic stage-romance and from the spoken-and-sung structure of ballad opera; perfected in the minor theatres and, after the patent reforms, in the large houses. The nautical branch built on the naval history of the wars and the popularity of the sailor; it is the direct ancestor of Victorian sensation drama."
+  },
+  {
+    "name": "Comic Opera and Burletta",
+    "description": "The short musical comedy of spoken dialogue with interspersed song, written for the minor theatres and their licences, and for the singing actors of the Regency stage.",
+    "historical_development": "Descended from Gay's ballad opera and the afterpieces of the eighteenth century, revived under the burletta licences of the 1810s and 1820s; practised by the theatre-houses of London and by Thomas Moore, whose Irish airs and musical plays made the form a national vehicle; it merges into the Victorian comic opera."
+  }
+]
