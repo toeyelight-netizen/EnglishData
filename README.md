@@ -19,11 +19,15 @@ or deletes earlier data.
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | **Complete** |
 | 6 | Augustan and Eighteenth Century (1700–1789) | **Complete** |
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
-| 8–10 | Victorian → Postwar (1832–2000) | Pending |
+| 8 | Victorian, British and American (1832–1901) | **In progress** |
+| 9–10 | Edwardian → Postwar (1901–2000) | Pending |
 
-Cumulative totals after Installment 7: **418 authors, 1455 works** (147
-anonymous), 7 periods, 66 movements, 126 genres, 115 themes, 244 sources, 2432
-recorded editions.
+Cumulative totals: **579 authors, 2226 works** (147 anonymous), 8 periods, 87
+movements, 153 genres, 142 themes, 301 sources, 2432 recorded editions.
+Installment 8 has contributed **161 authors and 771 works** to the Victorian
+period (1832–1901), with both a British and an American strand — from the
+Brontës, Tennyson and Eliot through Swinburne, Wilde, Hardy and Shaw to
+Emerson, Dickinson, Twain, James, Crane, Dreiser and Wharton.
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for
 the detailed progress log.

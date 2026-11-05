@@ -3,7 +3,8 @@
 Master database: `database/English_Literature_Master.db` (SQLite 3)
 
 Schema is managed by Alembic (`alembic upgrade head`). Current head:
-`c2d3e4f5a6b7` (initial schema + FTS5 tables + work detail columns).
+`e4f5a6b7c8d9` (initial schema + FTS5 tables + work detail columns + author
+`significance_tier` + author `bibliographical_notes`).
 
 ## Conventions
 
@@ -40,6 +41,8 @@ Schema is managed by Alembic (`alembic upgrade head`). Current head:
 | historical_significance | TEXT | |
 | major_influences | TEXT | JSON list |
 | biographical_uncertainty | TEXT | explicit uncertainty notes |
+| significance_tier | VARCHAR(64) | nullable; `Major / canonical` \| `Significant / secondary` \| `Minor / lesser-known` \| `Obscure / historically neglected` (Inst. 8 onward; NULL = not yet graded) |
+| bibliographical_notes | TEXT | author-level note for documented writings that cannot carry a work record (Inst. 8) |
 | research_status | VARCHAR(32) | |
 
 ### works

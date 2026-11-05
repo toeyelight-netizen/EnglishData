@@ -1,0 +1,458 @@
+[
+  {
+    "title": "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "author_or_editor": "Stephen Greenblatt (gen. ed.), Catherine Robson and Rachel Ablow (vol. eds.)",
+    "publisher": "W. W. Norton",
+    "publication_year": 2024,
+    "source_type": "anthology",
+    "reliability_notes": "Confirmed via Norton/Wiley adoption listings and Princeton library catalog. Victorian volume is E, not D (D = Romantic, 1785–1832)."
+  },
+  {
+    "title": "The Oxford Dictionary of National Biography, 60 vols",
+    "author_or_editor": "H. C. G. Matthew and Brian Harrison (eds.)",
+    "publisher": "Oxford University Press",
+    "publication_year": 2004,
+    "source_type": "encyclopedia",
+    "reliability_notes": "60-vol print set + index confirmed by OUP/LRB reporting; Harrison died Oct 2004 and Lawrence Goldman succeeded him as co-editor — cite the 2004 set as Matthew & Harrison."
+  },
+  {
+    "title": "The Poems of Tennyson, 2nd edn, 3 vols (Longman Annotated English Poets)",
+    "author_or_editor": "Christopher Ricks (ed.)",
+    "publisher": "Longman (Harlow)",
+    "publication_year": 1987,
+    "source_type": "edition",
+    "reliability_notes": "NYPL/Hathi records: 1st edn 1969, the standard 3-vol set is the 2nd edn of 1987."
+  },
+  {
+    "title": "The Poems of Robert Browning (Longman Annotated English Poets)",
+    "author_or_editor": "John Woolford, Daniel Karlin and Joseph Phelan (eds.)",
+    "publisher": "Longman",
+    "publication_year": 1991,
+    "source_type": "edition",
+    "reliability_notes": "Browning Society/series records confirm the three-editor team and the 1991 start. check_first: the total number of volumes in the completed set (5 or 6)."
+  },
+  {
+    "title": "The Works of Elizabeth Barrett Browning, 5 vols",
+    "author_or_editor": "Sandra Donaldson (gen. ed.)",
+    "publisher": "Pickering & Chatto",
+    "publication_year": 2010,
+    "source_type": "edition",
+    "reliability_notes": "NYPL MARC record, ISBN 9781851969005, confirms 5 vols, Donaldson, 2010."
+  },
+  {
+    "title": "The Letters of Charles Dickens, Pilgrim Edition, 12 vols",
+    "author_or_editor": "Madeline House, Graham Storey and Kathleen Tillotson (gen. eds.)",
+    "publisher": "Clarendon Press",
+    "publication_year": 1965,
+    "source_type": "edition",
+    "reliability_notes": "Dickens Journals Online's bibliographic page states \"12 vols (Oxford: Clarendon Press, 1965–2002)\" — my first guess of 14 vols/1973 was wrong. Serial texts of Household Words / All the Year Round are covered by Dickens Journals Online (Buckingham, 2009–; gen. ed. Paul Schlichr with Andrew MacGibbon), verified but held in RESERVE."
+  },
+  {
+    "title": "Vanity Fair: A Novel without a Personality (Riverside Edition)",
+    "author_or_editor": "Geoffrey Tillotson and Kathleen Tillotson (eds.)",
+    "publisher": "Houghton Mifflin (Boston)",
+    "publication_year": 1963,
+    "source_type": "edition",
+    "reliability_notes": "Catalog record for the Riverside Edition confirms both editors and 1963. The 17-vol \"Oxford Thackeray\" (ed. Saintsbury) was also checked but the OUP volume dates vary, so it is not used as a row."
+  },
+  {
+    "title": "The Clarendon Edition of the Novels of the Brontës",
+    "author_or_editor": "Ian Jack (gen. ed.), with Herbert Rosengarten (textual ed.)",
+    "publisher": "Clarendon Press",
+    "publication_year": 1969,
+    "source_type": "edition",
+    "reliability_notes": "Series start (Jane Eyre, 1969) and gen. ed. confirmed by OUP records. check_first: the individual volume editors and dates — the Jane Eyre volume's editor name is recorded inconsistently in catalogs. One row covers Charlotte and Emily Brontë."
+  },
+  {
+    "title": "The Collected Letters of George Gissing",
+    "author_or_editor": "Paul F. Mattheisen, Arthur C. Young and Pierre Coustillas (eds.)",
+    "publisher": "Ohio University Press",
+    "publication_year": 1990,
+    "source_type": "edition",
+    "reliability_notes": "Athens/Ohio UP records confirm the three editors and the 1990–1997 run. check_first: the number of volumes (catalogs differ, 6 vs 9, depending on the issue) — title, editors, publisher and dates are firm."
+  },
+  {
+    "title": "Esther Waters, first book edition",
+    "author_or_editor": "George Moore",
+    "publisher": "London: Walter Scott Publishing Co.",
+    "publication_year": 1894,
+    "source_type": "edition",
+    "reliability_notes": "Publication first appeared in the Speaker (1894); the first book edition is Walter Scott Publishing Co., March 1894. My first guess of William Heinemann was wrong — Heinemann is Moore's later publisher."
+  },
+  {
+    "title": "The Time Machine: An Invention, first edition in book form",
+    "author_or_editor": "H. G. Wells",
+    "publisher": "London: William Heinemann",
+    "publication_year": 1895,
+    "source_type": "edition",
+    "reliability_notes": "Book publication May 1895 (simultaneous US edition, Henry Holt, 1895); the story had been serialised in The Observer (December 1894 – February 1895) before the Heinemann volume. Imprint and year confirmed in bibliographic records."
+  },
+  {
+    "title": "The Symbolist Movement in Literature",
+    "author_or_editor": "Arthur Symons",
+    "publisher": "London: William Heinemann",
+    "publication_year": 1900,
+    "source_type": "edition",
+    "reliability_notes": "First edition confirmed in catalog/auction records. A modern scholarly reprint with Matthew Creasy's introduction is Fyfield Books / Manchester University Press, 2014 — either can be cited; the 1900 Heinemann text is used here."
+  },
+  {
+    "title": "Middlemarch: A Norton Critical Edition",
+    "author_or_editor": "Ronjaunee Chatterjee (ed.)",
+    "publisher": "W. W. Norton",
+    "publication_year": 2024,
+    "source_type": "edition",
+    "reliability_notes": "Norton record ISBN 9780393877199; text follows the 1874 revised (author's final) text. George Eliot's correspondence is covered by Gordon S. Haight, The George Eliot Letters (Yale UP, 1954–1978), verified but held in RESERVE."
+  },
+  {
+    "title": "The Letters of Mrs Gaskell",
+    "author_or_editor": "J. A. V. Chapple and Arthur Pollard (eds.)",
+    "publisher": "Manchester University Press",
+    "publication_year": 1966,
+    "source_type": "edition",
+    "reliability_notes": "Standard scholarly edition; reprinted with revisions 1997. Publisher and editors confirmed in library catalogs."
+  },
+  {
+    "title": "The Collected Letters of Thomas Hardy, 7 vols",
+    "author_or_editor": "Richard Little Purdy and Michael Millgate (eds.), later volumes Michael Millgate and Keith Wilson",
+    "publisher": "Clarendon Press",
+    "publication_year": 1978,
+    "source_type": "edition",
+    "reliability_notes": "Volume sequence and editors confirmed across OUP/catalog records; a supplement volume appeared in 2012. check_first: attribution of the 2012 supplement as vol. 8."
+  },
+  {
+    "title": "The Way We Live Now (Oxford World's Classics, 2nd edn)",
+    "author_or_editor": "Francis O'Gorman (ed.)",
+    "publisher": "Oxford University Press",
+    "publication_year": 2009,
+    "source_type": "edition",
+    "reliability_notes": "ISBN 9780198705031 confirms editor and edition. check_first: the exact reprint year of this OWC 2nd edn (2009 vs later impression)."
+  },
+  {
+    "title": "Selected Works of Anthony Trollope, 62 vols in 36 titles (facsimile edition)",
+    "author_or_editor": "N. John Hall (gen. ed.)",
+    "publisher": "Arno Press (New York)",
+    "publication_year": 1981,
+    "source_type": "edition",
+    "reliability_notes": "Two independent sources (a Springer bibliography of Trollope editions and the encyclopedia.com Hall entry) state 62 vols, Arno Press, 1981. This is the real Trollope scholarly set — the \"Ohio State Press Cornell series\" in the task brief could not be traced (see UNRESOLVED)."
+  },
+  {
+    "title": "The Rossetti Archive",
+    "author_or_editor": "Jerome J. McGann (gen. ed.)",
+    "publisher": "University of Virginia / Institute for Advanced Technology in the Humanities",
+    "publication_year": 1993,
+    "source_type": "archive",
+    "reliability_notes": "IATH project record confirms director and 1993 start (core NEH funding 1993–2008). Covers D. G., William Michael and Christina Rossetti."
+  },
+  {
+    "title": "The Collected Works of William Morris, 24 vols",
+    "author_or_editor": "May Morris (ed. and commentator)",
+    "publisher": "Longmans, Green",
+    "publication_year": 1910,
+    "source_type": "edition",
+    "reliability_notes": "University of Iowa Morris & Friends collection confirms 24 vols, May Morris, Longmans. My first guess of 23 vols was wrong."
+  },
+  {
+    "title": "Culture and Anarchy and Other Writings (Cambridge Texts in the History of Political Thought)",
+    "author_or_editor": "Stefan Collini (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 1993,
+    "source_type": "edition",
+    "reliability_notes": "CUP series page confirms Collini and 1993."
+  },
+  {
+    "title": "Poems and Ballads, first edition",
+    "author_or_editor": "Algernon Charles Swinburne",
+    "publisher": "London: Edward Moxon",
+    "publication_year": 1866,
+    "source_type": "edition",
+    "reliability_notes": "Rossetti Archive/bibliographic records and auction catalogues give Moxon as the 1866 publisher. check_first: one bookseller attributes the first edition to John Camden Hotten — Moxon (with the Moxon & Co. issue variant) is the better-supported statement."
+  },
+  {
+    "title": "The Poems of Gerard Manley Hopkins, 4th edn",
+    "author_or_editor": "W. H. Gardner and N. H. MacKenzie (eds.)",
+    "publisher": "Clarendon Press",
+    "publication_year": 1967,
+    "source_type": "edition",
+    "reliability_notes": "Confirmed as the standard scholarly text; the first edition was 1918, ed. Robert Bridges."
+  },
+  {
+    "title": "Apologia Pro Vita Sua",
+    "author_or_editor": "Martin J. Svaglic (ed.)",
+    "publisher": "Clarendon Press",
+    "publication_year": 1967,
+    "source_type": "edition",
+    "reliability_notes": "Oxford English Texts series record confirms Svaglic and 1967."
+  },
+  {
+    "title": "The Renaissance: Studies in Art and Poetry — the 1893 Text",
+    "author_or_editor": "Walter Pater, ed. Donald L. Hill",
+    "publisher": "University of California Press",
+    "publication_year": 1980,
+    "source_type": "edition",
+    "reliability_notes": "UC Press catalog + library MARC confirm Hill's 1893-text edition, 1980. My first guess (an Oxford or Princeton edition of 1971) was wrong."
+  },
+  {
+    "title": "The Works of John Ruskin, Library Edition, 39 vols",
+    "author_or_editor": "E. T. Cook and Alexander Wedderburn (eds.)",
+    "publisher": "George Allen",
+    "publication_year": 1903,
+    "source_type": "edition",
+    "reliability_notes": "Confirmed by the standard Ruskin bibliographies (Library Edition, limited to 2,062 copies)."
+  },
+  {
+    "title": "The Collected Works of John Stuart Mill, vol. XVIII: Essays on Politics and Society I (incl. On Liberty)",
+    "author_or_editor": "J. M. Robson (ed.), intro. Alexander Brady",
+    "publisher": "University of Toronto Press",
+    "publication_year": 1977,
+    "source_type": "edition",
+    "reliability_notes": "University of Toronto Press published-volume record confirms vol. XVIII, Robson as editor and 1977 (London: Routledge & Kegan Paul is the co-publisher — not used as the citation)."
+  },
+  {
+    "title": "The Correspondence of Thomas Carlyle and Ralph Waldo Emerson, 1834–1872, 2 vols",
+    "author_or_editor": "Charles Eliot Norton (ed.)",
+    "publisher": "Chatto & Windus (London); Boston: Ticknor and Co.",
+    "publication_year": 1883,
+    "source_type": "edition",
+    "reliability_notes": "Duke-Edinburgh/Carlyle bibliographies give 1883, Chatto & Windus (Norton was the editor). My first guess of Chapman & Hall, 1882 was wrong."
+  },
+  {
+    "title": "The Annotated Origin: A Facsimile of the First Edition of On the Origin of Species",
+    "author_or_editor": "James T. Costa (annot. and intro.)",
+    "publisher": "Belknap Press of Harvard University Press",
+    "publication_year": 2009,
+    "source_type": "edition",
+    "reliability_notes": "Harvard UP record confirms Costa as annotator. My first guess (Janet Browne) was wrong — Browne is the author of a Darwin biography, a different book."
+  },
+  {
+    "title": "The First Principles",
+    "author_or_editor": "Herbert Spencer",
+    "publisher": "London: Williams and Norgate",
+    "publication_year": 1862,
+    "source_type": "edition",
+    "reliability_notes": "First-edition imprint confirmed in bibliographic records; the same publisher issued The Study of Sociology in installments 1873 (US: Appleton)."
+  },
+  {
+    "title": "The Picture of Dorian Gray (Oxford World's Classics)",
+    "author_or_editor": "Joseph Bristow (ed.)",
+    "publisher": "Oxford University Press",
+    "publication_year": 2008,
+    "source_type": "edition",
+    "reliability_notes": "OUP record confirms Bristow's edition and 2008. The Complete Letters of Oscar Wilde (eds. Merlin Holland and Rupert Hart-Davis, Fourth Estate, 2000) is verified but trimmed — see RESERVE."
+  },
+  {
+    "title": "The Cambridge Companion to George Bernard Shaw",
+    "author_or_editor": "Christopher Innes (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 1998,
+    "source_type": "reference",
+    "reliability_notes": "CUP series record confirms Innes as editor of the 1998 Cambridge Companion volume."
+  },
+  {
+    "title": "Heart of Darkness: A Norton Critical Edition, 3rd edn",
+    "author_or_editor": "Joseph Conrad, ed. Robert Kimbrough",
+    "publisher": "W. W. Norton",
+    "publication_year": 1988,
+    "source_type": "edition",
+    "reliability_notes": "Norton record confirms Kimbrough's edition; the NCE line ran 1963 (1st) – 1971 (2nd) – 1988 (3rd)."
+  },
+  {
+    "title": "The Norton Anthology of American Literature, 9th edn",
+    "author_or_editor": "Robert S. Levine (gen. ed.)",
+    "publisher": "W. W. Norton",
+    "publication_year": 2017,
+    "source_type": "anthology",
+    "reliability_notes": "Norton catalog + library records confirm Levine as gen. ed. of the 9th edn and 2017. check_first: the per-volume editor names for vols A–F; the whole-set citation is solid."
+  },
+  {
+    "title": "Leaves of Grass: A Textual Variorum of the Printed Poems, 3 vols (The Collected Writings of Walt Whitman)",
+    "author_or_editor": "Sculley Bradley, Harold W. Blodgett, Arthur Golden and William White (eds.)",
+    "publisher": "New York University Press",
+    "publication_year": 1979,
+    "source_type": "edition",
+    "reliability_notes": "Confirmed as the variorum of the printed editions of Leaves of Grass from 1855 through 1881–82, issued under the Collected Writings of Walt Whitman umbrella."
+  },
+  {
+    "title": "The Walt Whitman Archive",
+    "author_or_editor": "Ed Folsom and Kenneth M. Price (gen. eds.), later Matt Cohen and others as project editors",
+    "publisher": "Center for Digital Research in the Humanities, University of Nebraska–Lincoln",
+    "publication_year": 1995,
+    "source_type": "archive",
+    "reliability_notes": "Archive's own credits page confirms the general editors and host. check_first: the founding year (1995 vs 1996 first funding cycle)."
+  },
+  {
+    "title": "The Poems of Emily Dickinson: Variorum Edition, 3 vols",
+    "author_or_editor": "Ralph W. Franklin (ed.)",
+    "publisher": "Belknap Press of Harvard University Press",
+    "publication_year": 1998,
+    "source_type": "edition",
+    "reliability_notes": "HUP record (ISBN 9780674676220), Emily Dickinson Museum edition list and JSTOR review all confirm 3 vols, Belknap, 1998; the 1-vol Reading Edition followed in 1999. There is no \"California edition\" of Dickinson (see UNRESOLVED)."
+  },
+  {
+    "title": "The Poems of Emily Dickinson, 3 vols",
+    "author_or_editor": "Thomas H. Johnson (ed.)",
+    "publisher": "Belknap Press of Harvard University Press",
+    "publication_year": 1955,
+    "source_type": "edition",
+    "reliability_notes": "HUP feature page, the Dickinson archive's edition guide and a 1956 JSTOR review all confirm Belknap/1955/3 vols — the first complete scholarly text."
+  },
+  {
+    "title": "Moby-Dick; or, The Whale, vol. 6 of the Northwestern-Newberry Edition of the Writings of Herman Melville",
+    "author_or_editor": "Harrison Hayford and Hershel Parker (eds.), with G. Thomas Tanselle (gen. ed. of the series)",
+    "publisher": "Northwestern University Press (with the Newberry Library)",
+    "publication_year": 1988,
+    "source_type": "edition",
+    "reliability_notes": "NUP records and library catalogs confirm NNME vol. 6, Moby-Dick, 1988, Hayford & Parker as volume editors and Tanselle as general editor of the series. check_first: the exact order of names as printed on the volume title page."
+  },
+  {
+    "title": "The Centenary Edition of the Works of Nathaniel Hawthorne",
+    "author_or_editor": "William Charvat, Roy Harvey Pearce and Claude M. Simpson (gen. eds.), with Fredson Bowers and L. Neal Smith (textual eds.)",
+    "publisher": "Ohio State University Press",
+    "publication_year": 1962,
+    "source_type": "edition",
+    "reliability_notes": "Series title page/OSU records: 23 vols, 1962–1997, publication place Columbus."
+  },
+  {
+    "title": "The Collected Works of Edgar Allan Poe, 3 vols (Tales; Poems; Essays and Reviews)",
+    "author_or_editor": "Thomas Ollive Mabbott (ed.)",
+    "publisher": "Belknap Press of Harvard University Press",
+    "publication_year": 1969,
+    "source_type": "edition",
+    "reliability_notes": "Harvard UP records confirm Mabbott as editor and the 1969–1978 publication span of the three volumes (Tales 1969; Poems and Essays and Reviews 1978, issued after Mabbott's death with editorial assistance)."
+  },
+  {
+    "title": "The Collected Works of Ralph Waldo Emerson, vol. I: Nature, Addresses, and Lectures",
+    "author_or_editor": "Robert E. Spiller and Alfred R. Ferguson (eds.)",
+    "publisher": "Belknap Press of Harvard University Press",
+    "publication_year": 1969,
+    "source_type": "edition",
+    "reliability_notes": "Harvard's Emerson project volume list. check_first: the 1960 date sometimes cited for vol. I vs the 1969 Belknap printing."
+  },
+  {
+    "title": "The Writings of Henry D. Thoreau",
+    "author_or_editor": "Elizabeth Witherell (editor-in-chief)",
+    "publisher": "Princeton University Press",
+    "publication_year": 1981,
+    "source_type": "edition",
+    "reliability_notes": "Princeton's Collected Writings pages confirm Witherell and the ongoing scholarly edition. My first guess of Yale University Press was wrong — Yale publishes only individual Thoreau titles, e.g. Walden: A Fully Annotated Edition, ed. Jeffrey S. Cramer (Yale UP, 2004, ISBN 0300104669), which is verified but held in RESERVE."
+  },
+  {
+    "title": "Woman in the Nineteenth Century: A Norton Critical Edition",
+    "author_or_editor": "Margaret Fuller, ed. Larry J. Reynolds",
+    "publisher": "W. W. Norton",
+    "publication_year": 1997,
+    "source_type": "edition",
+    "reliability_notes": "Norton record ISBN 0393971570 confirms Reynolds and 1997."
+  },
+  {
+    "title": "Little Women, Little Men, Jo's Boys (Library of America)",
+    "author_or_editor": "Louisa May Alcott, ed. Elaine Showalter",
+    "publisher": "Library of America",
+    "publication_year": 2005,
+    "source_type": "anthology",
+    "reliability_notes": "LOA volume listing confirms the 2005 edition with Showalter's introduction and notes. check_first: the LOA volume number (108 vs the series' later numbering) — title, editor, publisher and year are firm."
+  },
+  {
+    "title": "Adventures of Huckleberry Finn (Mark Twain Library edition)",
+    "author_or_editor": "Walter Blair and Victor Fischer (eds.), revised edn Victor Fischer and Lin Salamo with Harriet Elinor Smith",
+    "publisher": "University of California Press",
+    "publication_year": 1985,
+    "source_type": "edition",
+    "reliability_notes": "Mark Twain Project/UC Press confirm the MLA text, first published 1985, revised later."
+  },
+  {
+    "title": "The Novels and Tales of Henry James, New York Edition, 24 vols",
+    "author_or_editor": "Henry James (author; 1907–09 general preface)",
+    "publisher": "Charles Scribner's Sons (New York); simultaneously London: Macmillan",
+    "publication_year": 1907,
+    "source_type": "edition",
+    "reliability_notes": "Bibliographic records confirm 24 vols, Scribner's 1907–09, Macmillan London 1908–09. This is the authoritative revised text James supervised."
+  },
+  {
+    "title": "The Complete Letters of Henry James, 12 vols (ongoing)",
+    "author_or_editor": "Pierre A. Walker and Greg W. Zacharias (gen. eds.), later series edited with Michael Anesko and Katie Sommer",
+    "publisher": "University of Nebraska Press",
+    "publication_year": 2006,
+    "source_type": "edition",
+    "reliability_notes": "Nebraska page one series record confirms the general editors and 2006 start. The task brief's \"Harvard/Atlantic edition\" of James could not be traced (see UNRESOLVED)."
+  },
+  {
+    "title": "The Rise of Silas Lapham",
+    "author_or_editor": "William Dean Howells, intro. Kermit Vanderbilt",
+    "publisher": "Penguin Classics",
+    "publication_year": 1983,
+    "source_type": "edition",
+    "reliability_notes": "Penguin record confirms Vanderbilt's introduction and 1983. No full scholarly Howells edition row is used beyond the Ohio State Writings series (checked but not re-dated this pass)."
+  },
+  {
+    "title": "A New England Nun and Other Stories",
+    "author_or_editor": "Mary E. Wilkins (Freeman)",
+    "publisher": "New York: Harper and Brothers",
+    "publication_year": 1891,
+    "source_type": "edition",
+    "reliability_notes": "First-collection imprint confirmed in library catalogs and Freeman scholarship."
+  },
+  {
+    "title": "The Awakening: A Norton Critical Edition, 2nd edn",
+    "author_or_editor": "Kate Chopin, ed. Margo Culley",
+    "publisher": "W. W. Norton",
+    "publication_year": 1994,
+    "source_type": "edition",
+    "reliability_notes": "Norton record confirms Culley's NCE; a 3rd edn followed in 2018 — cite the edn actually used."
+  },
+  {
+    "title": "The Works of Stephen Crane, 10 vols (University of Virginia Edition)",
+    "author_or_editor": "Fredson Bowers (gen. ed.)",
+    "publisher": "University Press of Virginia",
+    "publication_year": 1969,
+    "source_type": "edition",
+    "reliability_notes": "Bowers's scholarly texts of Maggie: A Girl of the Streets, The Black Riders, The Red Badge of Courage, George's Mother and Three Stories (1969–1976), confirmed via catalog records for the University of Virginia Publications series."
+  },
+  {
+    "title": "McTeague: A Norton Critical Edition, 2nd edn",
+    "author_or_editor": "Frank Norris, ed. Donald Pizer",
+    "publisher": "W. W. Norton",
+    "publication_year": 1997,
+    "source_type": "edition",
+    "reliability_notes": "Norton record ISBN 9780393970135 confirms Pizer and 1997; Pizer also edited The Red Badge of Courage NCE (2nd edn, 1976), verified but trimmed — see RESERVE."
+  },
+  {
+    "title": "Jack London: Novels and Social Writings (Library of America, vol. 7)",
+    "author_or_editor": "Jack London; Library of America edited volume (no named volume editor on the title page)",
+    "publisher": "Library of America",
+    "publication_year": 1982,
+    "source_type": "anthology",
+    "reliability_notes": "LOA confirms vol. 7 (1982) as the London volume gathering the novels and the social writing. check_first: the name of the LOA volume editor — cite the volume itself rather than an editor that is not printed on it."
+  },
+  {
+    "title": "The Columbia Literary History of the United States",
+    "author_or_editor": "Emory Elliott (gen. ed.)",
+    "publisher": "Columbia University Press",
+    "publication_year": 1988,
+    "source_type": "reference",
+    "reliability_notes": "CUP record confirms Elliott as general editor and 1988. check_first: the names of the section/contributing editors as printed; the gen. ed. and publisher/year are firm."
+  },
+  {
+    "title": "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "author_or_editor": "published for the American Literature Section of the MLA",
+    "publisher": "Duke University Press",
+    "publication_year": 1929,
+    "source_type": "periodical",
+    "reliability_notes": "Duke UP's own series page states \"From 1929 to the latest issue\" — vol. 1 is 1929, still running."
+  },
+  {
+    "title": "The Cambridge Companion to the Victorian Novel",
+    "author_or_editor": "Deirdre David (ed.)",
+    "publisher": "Cambridge University Press",
+    "publication_year": 2001,
+    "source_type": "reference",
+    "reliability_notes": "Standard Cambridge Companion: first edition 2001, second edition 2012. Essays on the serial, realism, the sensation novel, industrial fiction, and the New Woman novel; used as the critical frame for the British strand, not as a substitute for a primary text."
+  },
+  {
+    "title": "Victorian Studies: A Journal of the Humanities, Arts, and Sciences",
+    "author_or_editor": "published by Indiana University Press",
+    "publisher": "Indiana University Press",
+    "publication_year": 1957,
+    "source_type": "periodical",
+    "reliability_notes": "Founded 1957 at Indiana University; the principal interdisciplinary journal of the field. Cited as an ongoing periodical of record for Victorian scholarship, not for any single biographical fact."
+  }
+]

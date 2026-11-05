@@ -2,7 +2,7 @@
 
 A fast, offline Android app for browsing and searching the English Literature
 Database (c. 450–2000). Built entirely with the Android framework (Java 8) —
-no AndroidX, no Kotlin, no external libraries — so the APK is small (≈2.4 MB)
+no AndroidX, no Kotlin, no external libraries — so the APK is small (≈3.7 MB)
 and starts instantly.
 
 ## Features
@@ -10,8 +10,11 @@ and starts instantly.
 - **Search bar** — search authors or their works; diacritic-insensitive, so
   `caedmon` finds *Cædmon* and `meihhad` finds *Hali Meiðhad*. Results are
   ranked (exact > prefix > contains) and appear as you type.
-- **Browse** — clear the search to browse all 67 authors and 260 works,
-  grouped by section.
+- **Browse** — clear the search to browse all 579 authors and 2226 works,
+  grouped by section. Installment 8 (Victorian and American nineteenth
+  century, 1832-1901) contributes 161 authors and 771 works, including the
+  whole British Victorian canon and the American strand from Emerson to
+  Edith Wharton.
 - **Author pages** — biography, literary profile, style, themes, movements,
   sources, and the author's works.
 - **Work pages** — summary, plot, characters, structure, meter, editions,

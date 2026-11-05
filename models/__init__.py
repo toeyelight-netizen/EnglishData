@@ -1,6 +1,14 @@
 """Model package: importing this module registers all tables on Base.metadata."""
 
-from .database import Base, DATABASE_PATH, DATABASE_URL, SessionLocal, engine, get_session
+from .database import (
+    Base,
+    DATABASE_DIR,
+    DATABASE_PATH,
+    DATABASE_URL,
+    SessionLocal,
+    engine,
+    get_session,
+)
 from .author import Author
 from .genre import Genre
 from .movement import Movement
@@ -27,6 +35,7 @@ from .work import Work
 
 __all__ = [
     "Base",
+    "DATABASE_DIR",
     "DATABASE_PATH",
     "DATABASE_URL",
     "SessionLocal",

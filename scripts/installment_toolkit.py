@@ -76,6 +76,21 @@ AUTHOR_KEYS = [
     "biographical_uncertainty", "research_status",
 ]
 
+# Authors may optionally carry a documented significance classification
+# (installment 8 onwards). The JSON records store it as "significance_tier";
+# it is written to the authors table as a nullable column.
+OPTIONAL_AUTHOR_KEYS = ["significance_tier"]
+
+# Author-level note listing documented writings that cannot carry a full work record.
+OPTIONAL_AUTHOR_NOTE_KEYS = ["bibliographical_notes"]
+
+SIGNIFICANCE_TIERS = {
+    "Major / canonical",
+    "Significant / secondary",
+    "Minor / lesser-known",
+    "Obscure / historically neglected",
+}
+
 DATE_FIELDS = ("composition_date_start", "composition_date_end", "publication_date",
                "first_performance_date", "manuscript_date")
 

@@ -5,8 +5,9 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 
 ## Protocol state
 
-- Current schema revision (Alembic): `c2d3e4f5a6b7` (initial schema + FTS5 +
-  work detail columns).
+- Current schema revision (Alembic): `e4f5a6b7c8d9` (initial schema + FTS5 +
+  work detail columns + author `significance_tier` + author
+  `bibliographical_notes`).
 - Installment snapshots: `database/English_Literature_Master_installment_07.db`
   (cumulative), with `database/backups/pre_import_07.db` as the pre-import
   recoverable backup.
@@ -1124,9 +1125,130 @@ careers).
 
 ---
 
-## Installments 8–10
+## Installment 8 — Victorian Period, British and American (1832–1901)
 
-Under way. Per protocol, the next installment begins only on instruction.
+**Status: in progress.** Cumulative database after the latest import: **579
+authors, 2226 works** (147 anonymous), 8 periods, 87 movements, 153 genres, 142
+themes, 301 sources, 2432 recorded editions. Installment 8 alone accounts for
+**161 authors and 771 works** and for all 21 new movements, 27 new genres and 27
+new themes introduced for the period.
+
+### Scope
+
+Installment 8 covers the Victorian period in Britain and the American
+nineteenth century after 1832. It is built as a set of author-and-work *waves*,
+each researched against the same taxonomy, then built, imported and validated
+before the next wave begins. Every wave carries full work records — description,
+plot or argument, historical context, significance, form, composition and
+publication dates, genres, themes, movements and canonical status — plus full
+author records with biography, profile, style, concerns, significance,
+influences, alternative names and an `also=` bibliography.
+
+### Waves imported
+
+| Wave | Authors | Works | Focus |
+|---|---|---|---|
+| British core (batches 1–4) | 41 | 206 | Tennyson to Hopkins, the Brontës, Eliot, Hardy, Gaskell, Trollope, Collins, the Pre-Raphaelites, the critics |
+| American Renaissance | 10 | 53 | Emerson, Thoreau, Fuller, Hawthorne, Melville, Whitman, Dickinson, Stowe, Douglass, Jacobs |
+| American realists and the colour line | 9 | 46 | Twain, Howells, James, Jewett, Chopin, Gilman, Washington, Chesnutt, Dunbar |
+| American women and African-American writers | 10 | 39 | Alcott, Rebecca Harding Davis, Phelps, F. E. W. Harper, H. E. Wilson, W. W. Brown, A. J. Cooper, Ida B. Wells, Harte, Joel Chandler Harris |
+| Aesthetic and Decadent 1890s | 8 | 36 | Swinburne, Morris, Symons, Dowson, Lionel Johnson, John Davidson, Francis Thompson, Michael Field |
+| Social-problem and New Woman | 10 | 68 | Oliphant, Yonge, Craik, Linton, Mrs Humphry Ward, Haggard, George Moore, Zangwill, Sarah Grand, Mona Caird |
+| Drama, nonsense and children | 7 | 29 | Bulwer-Lytton, Disraeli, Shaw, Lear, Housman, Barrie, Jerome |
+| American naturalists and the colour line | 14 | 58 | Crane, Norris, London, Wharton, Bierce, Garland, Cable, Freeman, Dunbar-Nelson, Sui Sin Far, Cahan, Dreiser, Henry Adams, Zitkala-Sa |
+| Late-Victorian essayists and nineties novelists | 7 | 32 | Grant Allen, Vernon Lee, Lucas Malet, Jefferies, Hudson, Borrow, Mrs Henry Wood |
+| The late-Victorian stage and the poets of the nineties | 9 | 36 | Gilbert, Pinero, Henry Arthur Jones, Henley, Bridges, Newbolt, du Maurier, Anthony Hope, W. W. Jacobs |
+| American poets and Native American autobiography | 5 | 20 | Emma Lazarus, Sidney Lanier, James Whitcomb Riley, E. A. Robinson, Charles Eastman |
+
+Some installments overlap by author (Dickens, Eliot, Hardy, the Brontës,
+Stevenson, Kipling, Conan Doyle, Stoker, Gaskell, Trollope, Collins, Meredith,
+Carroll, Rossetti, Pater, Ruskin, Arnold, Carlyle, Mill, Martineau and others
+were already present from earlier periods or from installments 6–7). Waves in
+this installment therefore add **works** to existing author records as well as
+new author records, and the build tool treats a work title already owned by the
+same author as an update rather than a duplicate.
+
+### Authoring conventions adopted in this installment
+
+- **New author metadata.** Two nullable author columns were added by migration
+  (`d3e4f5a6b7c8`, `e4f5a6b7c8d9`): `significance_tier` (a four-value controlled
+  vocabulary — see `documentation/DATA_DICTIONARY.md`) and
+  `bibliographical_notes` (for documented writings that cannot honestly carry a
+  full work record). Installment 8 authors carry both; installments 1–7 keep
+  NULL, so earlier research is preserved exactly as recorded. 161 of the 579
+  authors are graded so far: 45 Major / canonical, 61 Significant / secondary,
+  51 Minor / lesser-known, 4 Obscure / historically neglected.
+- **Content lives in code, not in `/tmp`.** Every wave is written as a Python
+  module under `scripts/content/` (`content_i08_a*.py`, `content_i08_w*.py`)
+  built on the shared `_lib.py` helpers; `scripts/build_installment.py 08`
+  serialises them into the JSON under `data/`. The modules, not the JSON, are
+  the editable source.
+- **Taxonomy is closed.** Genres are written with the `g()`/`wk(gb=...)`
+  resolver and movements/themes with the same disambiguating-substring lookup,
+  so an unresolvable name fails the build instead of silently importing a new
+  taxonomy row. All names come from the 21 movements, 27 genres and 27 themes
+  registered for installment 8.
+- **Title collisions averted.** Generic titles (*Poems*, *Verses*, *New Poems*,
+  *Marriage*, *Endymion*, *Nature*, *Belinda*, *Autobiography*) are disambiguated
+  with an author or year suffix in **both** the work module and the author
+  record's `also=` list, and the original title is carried in
+  `alternative_titles`, because the build refuses a title already held by
+  another author.
+
+### Verification
+
+- `python scripts/build_installment.py 08` — 161 authors, 771 works, 31 work
+  files, 21 author files; 775 work-author links.
+- `python scripts/import_data.py` — idempotent; re-runs produce the same counts.
+- `python scripts/check_installment.py 08` — **CLEAN**, 771 map entries.
+- `python scripts/validate_database.py --installment 08` — **0 issues**
+  (`documentation/validation_reports/validation_report_08.md`).
+- `python scripts/check_duplicates.py` — 0 potential duplicate groups.
+
+### Defects found and fixed during this installment
+
+- *The Bostonians* had been filed under **Howells**; it is James's 1886 novel.
+  Moved to the James group, its stale `work_authors` row deleted, and replaced in
+  the Howells group with *Indian Summer* (1886).
+- A duplicate `alternative_names` entry repeating an author's own canonical name
+  (Jewett, Gilman, Dunbar, Joel Chandler Harris, Haggard, Zangwill) — the alt
+  list must never repeat the canonical name. Fixed across the installment.
+- Jewett's `major_influences` contained an unverifiable personal entry and a
+  reversed influence relation; replaced with documented literary influences.
+- "onrace" typo in the *Pudd'nhead Wilson* historical context.
+- *E. Nesbit* already existed in the database as **Edith Nesbit** (author 479,
+  with six works from the earlier children's-literature wave), so the planned
+  new record was dropped and the duplicate author entry removed rather than
+  creating a second Nesbit. The same check caught nothing else in the last four
+  waves only because every candidate was queried against `authors.full_name`
+  before authoring.
+- Historical-context strings that opened with a repeated "The" before a date
+  (`The 1888, ...`) were normalised to date-first form (`1888: ...`), matching
+  the convention already used elsewhere in the corpus.
+
+### Export and build refresh
+
+After the final wave the whole downstream chain was re-run: `export_data.py`
+(11 tables), `export_app_data.py` (the Android asset is now 7.3 MB of JSON for
+579 authors and 2226 works), and `android/build.py`, which produced a signed,
+verified APK at 3.7 MB. The Android README's browse count and APK size are
+updated to match.
+
+### Deferred gaps for a later Installment-8 supplement
+
+Deliberately not yet recorded, so nothing is lost: British — Florence Marryat,
+Netta Syrett, Evelyn Sharp, Clementina Black, Allen Upward, Harriet Martineau's
+later fiction and the minor poets of the 1890s; American — the regional writers
+of the far West, the later Native American autobiographers after Eastman, and
+the immigrant fiction of the 1900s. Also outstanding: the significance-tier
+filter for the UI (Phase 5), the Phase-1 audit document, and a final
+export/APK refresh once installment 8 is closed.
+
+---
+
+## Installments 9–10
+
+Not started. Per protocol, the next installment begins only on instruction.
 Scope agreed for these installments: the English and British canon **and** a
 distinct American strand, with broader Anglophone and postcolonial writing out
 of scope.
@@ -1139,6 +1261,6 @@ of scope.
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
-| 8 | Victorian and American nineteenth century (1832–1901) | Pending |
+| 8 | Victorian and American nineteenth century (1832–1901) | In progress (161 authors, 771 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Pending |
 | 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |

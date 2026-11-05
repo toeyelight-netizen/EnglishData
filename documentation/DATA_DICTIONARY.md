@@ -43,6 +43,25 @@ New values may be added in later installments (e.g. `editor`, `adaptor`).
 | `needs_review` | Flagged for scholarly review; kept, never silently deleted |
 | `uncertain` | Fundamental uncertainty about the record itself |
 
+### significance_tier (authors)
+
+Nullable controlled vocabulary added in Installment 8, recording documented
+literary-historical standing. NULL means "not yet graded" and is the correct
+value for installments 1-7, which were researched before the column existed.
+
+| Value | Meaning |
+|---|---|
+| `Major / canonical` | Central to the canon; taught, anthologised, continuously in print |
+| `Significant / secondary` | Substantial and studied, but not central to the canon |
+| `Minor / lesser-known` | Real but limited standing; read by specialists |
+| `Obscure / historically neglected` | Recovered or marginal figure; the record exists to make them findable |
+
+Rules of use: assign from documented reception (standard literary histories,
+the Cambridge/OUP/Oxford companions, the Dictionary of Literary Biography),
+never from personal taste. An author whose standing is genuinely contested is
+graded at the lower tier and the disagreement is recorded in
+`biographical_uncertainty`.
+
 ### source_type (sources)
 
 | Value | Meaning |

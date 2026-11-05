@@ -1,21 +1,21 @@
 # Database Statistics
 
-Generated: 2026-11-05 11:03
+Generated: 2026-11-05 15:28
 
 ## Totals
 
 | Entity | Count |
 |---|---|
-| Authors | 418 |
-| Works | 1455 |
+| Authors | 579 |
+| Works | 2226 |
 | Anonymous works | 147 |
-| Periods | 7 |
-| Movements | 66 |
-| Genres | 126 |
-| Themes | 115 |
-| Sources | 244 |
+| Periods | 8 |
+| Movements | 87 |
+| Genres | 153 |
+| Themes | 142 |
+| Sources | 301 |
 | Editions recorded | 2432 |
-| Author influence links | 524 |
+| Author influence links | 1048 |
 
 ## Works per period
 
@@ -28,26 +28,34 @@ Generated: 2026-11-05 11:03
 | Old English Period (Anglo-Saxon) | 128 |
 | Renaissance and Early Tudor Period | 92 |
 | Romantic Period | 390 |
+| Victorian Period (1832–1901) | 771 |
 
 ## Works per movement
 
 | Movement | Works |
 |---|---|
 | Abolitionist and Anti-Slavery Writing | 19 |
+| Aestheticism and the Decadent Decade | 135 |
 | Alfredian Renaissance | 9 |
+| American Naturalism and the Determinist Tragedy | 31 |
+| American Realism and the Howells Program | 101 |
 | Anglo-Saxon Heroic Tradition | 17 |
+| Arnold and the Criticism of Culture | 99 |
 | Augustan Satire and the Scriblerans | 56 |
 | Austen and the Novel of Manners | 16 |
 | Benedictine Reform | 19 |
 | Blake and the Illuminated Prophecy | 8 |
 | Bryant and the American Nature Lyric | 4 |
 | Byron and the Byronic Revolt | 24 |
+| Carlyle and the Hero-Worship Lecture | 20 |
 | Cavalier Poetry | 22 |
 | Charles Brockden Brown and the American Gothic | 5 |
+| Chartism and the Condition-of-England Novel | 67 |
 | Civil War Radicalism: The Levellers and the Diggers | 3 |
 | Comedy of Manners | 28 |
 | Commonwealth and Interregnum Literature | 38 |
 | Cooper and the American Romance of Forest and Sea | 9 |
+| Dark Romance and the Puritan Inheritance | 33 |
 | Early Anglo-Latin Learning and the Northumbrian Golden Age | 16 |
 | Early Tudor Court Poetry | 16 |
 | Early Tudor Drama | 24 |
@@ -61,24 +69,33 @@ Generated: 2026-11-05 11:03
 | Jacobean Tragedy and Revenge Drama | 9 |
 | Keats and the Sensuous Ode | 13 |
 | Labouring-Class and Village Poetry | 5 |
+| Local Colour and the Regionalist School | 105 |
 | Lollardy | 4 |
 | Lyrical Ballads and the Lake Poets | 28 |
+| Mark Twain and the Vernacular Performance | 20 |
 | Metaphysical Poetry | 15 |
+| Muscular Christianity and the Schoolboy Tale of Empire | 40 |
 | Neoclassical Criticism and the Rules | 68 |
 | Philosophical Fiction and the Godwin Circle | 30 |
+| Pre-Raphaelitism and the Truth to Nature | 60 |
 | Primitivism, the Bardic Revival and Ossian | 34 |
 | Regency Popular Verse and the Annual Public | 37 |
 | Ricardian Poetry | 12 |
 | Romantic Essay, Criticism and the Review | 51 |
+| Ruskin and the Political Economy of Art | 8 |
 | Scott, the Ballad Revival and the Historical Novel | 39 |
+| Sensation Fiction and the Serial Plot | 85 |
 | Sentimentalism and the Culture of Feeling | 89 |
 | Shelley and Radical Romanticism | 18 |
+| South-Western Humour and the Tall-Tale Sketch | 6 |
 | The AB Language Group (West Midlands Devotional Prose) | 5 |
+| The Aesthetic Turn in 1890s America | 18 |
 | The Alliterative Revival | 14 |
 | The Anglican and Latitudinarian Divines | 23 |
 | The Bluestockings and Women's Letters | 30 |
 | The Cambridge Platonists | 4 |
 | The Caroline Theatre | 32 |
+| The Dramatic Monologue and the Masked Voice | 24 |
 | The Early American Republic and Its Letters | 43 |
 | The Elizabethan Public Theatre | 58 |
 | The English Enlightenment and Deist Controversy | 66 |
@@ -88,44 +105,67 @@ Generated: 2026-11-05 11:03
 | The Graveyard School and Preromantic Meditation | 25 |
 | The Knickerbocker Group and the American Sketch | 8 |
 | The New Science and the Royal Society | 29 |
+| The New Woman and the Fin-de-Siècle Problem Novel | 71 |
 | The Regency Stage and Popular Drama | 7 |
 | The Restoration Theatre | 61 |
 | The Rise of the English Novel | 60 |
 | The Scottish Enlightenment | 33 |
 | The Scottish Makars | 9 |
 | The Scottish Renaissance | 6 |
+| The Second American Renaissance and the Whitman-Dickinson Lyric | 13 |
 | The Spectator and Periodical Journalism | 29 |
 | The Twelfth-Century Renaissance | 9 |
 | The University Wits | 12 |
 | Topographical and Estate Poetry | 22 |
+| Tractarian Prose and the Oxford Movement | 43 |
+| Transcendentalism and the Concord Lyceum | 25 |
 | Vernacular Religious Drama | 10 |
+| Victorian High Seriousness and the Public Poet | 150 |
 
 ## Works per genre
 
 | Genre | Works |
 |---|---|
+| Review Essay and Quarterly Argument | 181 |
+| Realist Novel of Common Life | 158 |
+| Novel of Development and the Growth Story | 116 |
+| Lecture and Popular Address | 102 |
+| Pastoral Elegy and the Mourning Sequence | 101 |
 | Comedy | 97 |
+| Social Inquiry and the Documented Survey | 90 |
+| Local-Colour Sketch and the Regional Portrait | 88 |
 | Tragedy | 87 |
 | Poetry | 79 |
+| Dramatic Monologue and Masked Lyric | 71 |
+| Sensation Novel | 70 |
 | Polemic, Pamphlet, and Open Letter | 69 |
 | Critical Treatise and Dissertation | 59 |
 | Prose Fiction and the Early Novel | 59 |
 | Metrical Tale and Romance in Verse | 58 |
+| New Woman and Marriage-Question Novel | 58 |
 | Translation | 56 |
+| Children's Fantasy and the Dream-Region Tale | 51 |
 | Philosophy and Scholastic Writing | 51 |
 | History and Chronicle | 49 |
+| Idyll and Domestic Narrative Poem | 49 |
+| Imperial Adventure Romance | 49 |
 | Lyric | 49 |
 | Political Treatise | 49 |
 | Prose | 48 |
 | Devotional and Mystical Writing | 45 |
 | Romance | 44 |
 | Essay | 43 |
+| Problem Play and Well-Made Drama | 41 |
 | Sentimental and Domestic Novel | 41 |
 | Elegy | 39 |
 | Moral Philosophy and the Theory of Society | 39 |
 | Religious Lyric | 39 |
+| Industrial and Condition-of-England Novel | 38 |
 | Religious Narrative Poetry | 38 |
+| Nonsense Verse and the Parody of Rule | 37 |
 | Conduct, Education, and Domestic Prose | 36 |
+| Ghost Story and Scientific Supernatural Tale | 36 |
+| Sonnet Revival and Sequenced Sonnet | 34 |
 | Complaint and Satire | 33 |
 | Gothic Novel and Romance of Terror | 33 |
 | Historical Novel and Romance | 32 |
@@ -143,19 +183,25 @@ Generated: 2026-11-05 11:03
 | Ballad and Popular Song | 25 |
 | Hagiography | 25 |
 | Political Verse | 25 |
+| Victorian Verse Drama and Revived Tragedy | 25 |
 | Closet Drama | 24 |
+| Dialect Poem and Vernacular Performance | 24 |
 | Nature Lyric and Meditation | 24 |
 | Novel of Manners and Fashion | 24 |
 | Philosophical and National History | 24 |
+| Serial and Monthly-Part Novel | 24 |
 | Pastoral Poetry | 23 |
 | Pindaric Ode | 23 |
 | Augustan Verse Satire | 22 |
 | Homily (Sermon) | 22 |
 | Memoir and Autobiographical Prose | 22 |
+| Naturalist and Determinist Novel | 22 |
 | Romantic Comedy | 22 |
+| War Narrative of the Common Soldier | 22 |
 | Picaresque and Journey Novel | 21 |
 | Prose Biography | 21 |
 | Verse Epistle | 21 |
+| Early Scientific Romance and Utopian Speculation | 20 |
 | Heroic Epic | 20 |
 | Literary Biography and Prefatory Commentary | 20 |
 | Grammar and Didactic Prose | 19 |
@@ -168,6 +214,7 @@ Generated: 2026-11-05 11:03
 | Wisdom Poetry | 17 |
 | Dream Vision | 16 |
 | Cavalier Lyric | 15 |
+| Detective Story and the Tale of Detection | 15 |
 | Epistolary Fiction | 15 |
 | Critical Review and Periodical Essay | 14 |
 | English Sonnet | 14 |
@@ -175,10 +222,12 @@ Generated: 2026-11-05 11:03
 | Humanist Educational Treatise | 14 |
 | Political Economy and Commercial Writing | 14 |
 | Revenge Tragedy | 14 |
+| Sensation Drama and the Domestic Stage | 14 |
 | Character Writing | 13 |
 | Familiar Essay and Character Sketch | 13 |
 | Humanist Dialogue and Utopian Fiction | 13 |
 | Juvenile, School and Educational Book | 13 |
+| Tall Tale and South-Western Humour Sketch | 13 |
 | Vision Literature | 13 |
 | Morality Play | 12 |
 | Romantic Sonnet Revival | 12 |
@@ -235,41 +284,59 @@ Generated: 2026-11-05 11:03
 
 | Theme | Works |
 |---|---|
+| Doubt, agnosticism, and the Broad Church conscience | 239 |
+| The woman question, married disability, and the New Woman | 225 |
+| Art versus life, and the romance of the artist | 216 |
 | Love, constancy, and betrayal | 151 |
+| Wage labour, the strike, and the two nations | 149 |
+| Sexuality, the double standard, and the literature of the social evil | 148 |
+| Bereavement, immortality, and the argument from grief | 144 |
 | Tyranny and the abuse of power | 141 |
 | Marriage and women's conduct | 137 |
 | Wisdom and learning | 126 |
+| Education, the schools, and the cultivation of the self | 120 |
+| Self-destruction, melancholy, and the coroner's verdict | 114 |
+| Childhood, the child labourer, and the sentimental child | 109 |
 | Kingship and good rule | 109 |
+| Money, credit, speculation, and the joint-stock imagination | 108 |
+| Empire, jingoism, and the literature of the metropole | 105 |
 | Penance, confession, and sin | 105 |
 | Death, the soul, and the afterlife | 104 |
+| Science, religion, and the question of design | 94 |
 | Liberty, corruption, and the decline of nations | 88 |
 | Social satire and estates criticism | 83 |
 | Patronage and the literary marketplace | 82 |
 | Taste, decorum, and the rules of art | 82 |
 | Appearance, dissembling, and self-fashioning | 79 |
 | Commerce, luxury, and commercial society | 79 |
+| Regional identity and the American sectional character | 77 |
+| Race, voice, and the dialect of freedom | 76 |
 | Fortune and mutability | 75 |
 | Creation and cosmology | 74 |
 | Reason, faith, and the limits of understanding | 74 |
 | Poverty, dependence, and the professional writer | 73 |
 | Sympathy, benevolence, and the moral sense | 71 |
 | National identity and Englishness | 69 |
+| Democracy, individualism, and the American experiment | 68 |
 | Warfare and battle | 68 |
 | Wit, ridicule, and the war against dullness | 67 |
 | The literature of the nations: Scotland, Ireland, and Wales | 65 |
 | Self-knowledge and the philosophy of the mind | 63 |
 | The public sphere, print, and the periodical | 59 |
+| The metropolis, the crowd, and the imperial capital | 58 |
 | Mission, conversion, and the Church | 57 |
 | Conscience and moral self-examination | 55 |
 | Heroism and the heroic code | 53 |
 | Politeness, fashion, and the codes of conduct | 52 |
 | Order and degree: the body politic | 51 |
 | Ecclesiastical reform and criticism | 50 |
+| Madness, the asylum, and the diagnosis of the will | 50 |
 | Seduction and the betrayed heroine | 50 |
 | Death, mourning, and the graveyard meditation | 47 |
 | Enthusiasm and the disease of the imagination | 46 |
 | The city and urban life | 46 |
 | Women's experience and the feminine voice | 46 |
+| Leisure class, the idle rich, and the unearned income | 45 |
 | Consolation and endurance | 44 |
 | Female authorship and the woman writer | 44 |
 | Revenge and justice | 44 |
@@ -277,6 +344,7 @@ Generated: 2026-11-05 11:03
 | Childhood, innocence, and education | 43 |
 | Typology and biblical interpretation | 42 |
 | Nature, landscape, and the shaping mind | 39 |
+| Slavery, emancipation, and the unfinished Reconstruction | 39 |
 | Faith, grace, and the pilgrim's journey | 38 |
 | Slavery, empire, and the Atlantic world | 38 |
 | The English vernacular and national letters | 38 |
@@ -314,12 +382,14 @@ Generated: 2026-11-05 11:03
 | Courtly service and courtly danger | 24 |
 | Gothic confinement and the pursued heroine | 24 |
 | Industry, enclosure, and the changed countryside | 24 |
+| The American wilderness and the myth of the forest | 24 |
 | Ambition and the overreacher | 23 |
 | Exile, travel, and the southern sojourn | 23 |
 | Doubt, faith, and secular questioning | 22 |
 | Republican nationhood and the claim to a national literature | 22 |
 | Border, ballad, and national memory | 21 |
 | Evangelical experience and assurance | 19 |
+| Industrial wealth, accumulation, and the gospel of accumulation | 19 |
 | Poetic solitude and the conversation with nature | 19 |
 | Courtly love and fin'amor | 18 |
 | Loyalty and the comitatus bond | 18 |
@@ -327,17 +397,21 @@ Generated: 2026-11-05 11:03
 | The supernatural ballad and willed belief | 18 |
 | Civil War, regicide, and the trial of the king | 17 |
 | Medicine, healing, and the body | 17 |
+| The machinery of print: the serial, the magazine, and the book trade | 17 |
 | The marriage market and the limited estate | 17 |
 | The Passion of Christ | 15 |
 | The education of princes and magistrates | 15 |
 | The wilderness, settlement, and Indian removal | 15 |
 | Carpe diem and the pleasures of the present | 14 |
+| The closing of the American frontier | 13 |
 | Wyrd (fate) and providence | 13 |
 | Familiar prose and the essayist's persona | 12 |
 | Transatlantic exchange and cultural dependence | 12 |
 | Arthurian legend | 11 |
 | Blood-feud, vengeance, and kinship | 11 |
+| Bohemia, the professional writer, and the Grub Street market | 11 |
 | Dream, intoxication, and the divided mind | 11 |
+| The American city, the machine, and the moneyed metropolis | 11 |
 | Petrarchan desire and the sonnet mistress | 10 |
 | Monasticism and the religious life | 9 |
 | Solitude and the hall community | 9 |
@@ -349,4 +423,6 @@ Generated: 2026-11-05 11:03
 | Puritan inheritance and the secret sin | 6 |
 | Natural history, science, and the poetic eye | 5 |
 | Lollardy and religious dissent | 4 |
+| Innocence, experience, and the lost American Eden | 3 |
 | Treasure, gift-giving, and reciprocity | 3 |
+| The machine age, speed, and technical modernity | 1 |
