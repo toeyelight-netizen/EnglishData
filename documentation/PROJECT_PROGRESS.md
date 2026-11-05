@@ -8,11 +8,13 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 - Current schema revision (Alembic): `e4f5a6b7c8d9` (initial schema + FTS5 +
   work detail columns + author `significance_tier` + author
   `bibliographical_notes`).
-- Current position: installments 1–9 imported; **847 authors / 2840 works**
-  across nine periods (c. 450–1945). Installments 8 and 9 are complete: they
-  pass validation, and their close-out (statistics, exports, Android asset) was
-  run on 2026-11-06. Installment 10 is next. See *Installments 8–9: enrichment
-  and quality pass* at the end of this file.
+- Current position: installments 1–9 are imported, plus the installment 10
+  pilot, giving **848 authors / 2846 works** across ten periods (c. 450–2000).
+  Installments 8 and 9 are complete: they pass validation, and their close-out
+  (statistics, exports, Android asset) was run on 2026-11-06. See
+  *Installments 8–9: enrichment and quality pass* at the end of this file.
+  **Installment 10 is in progress.** Only the pilot wave is built; see
+  *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
   reset. The gitignored snapshots and backups listed below did not survive the
@@ -1504,11 +1506,79 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
      definitions of `compose_structure` and `compose_description_extra` (only
      the last of each is live).
 
-## Installment 10 — Postwar and Late Twentieth Century, British and American (1945–2000)
+## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-Not started; it is next. The agreed scope is the
-English and British canon **and** a distinct American strand, with broader
-Anglophone and postcolonial writing out of scope.
+**Status: in progress. Only the pilot wave is built. Not complete.**
+Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
+audit").
+
+**Inspection (2026-11-06).** No installment 10 records existed on any branch, so
+there was nothing earlier to repair. The database held:
+- 12 works dated 1946 or later, all recorded by installment 9;
+- 120 authors who died in 1956 or later, whose post-war works were missing.
+
+Landmark works of 1945–1951 were absent, among them *Animal Farm*, *Nineteen
+Eighty-Four*, *Death of a Salesman*, *A Streetcar Named Desire*, *The Catcher in
+the Rye* and *Cry, the Beloved Country*.
+
+**Scope decisions (2026-11-06).** These replace the earlier plan of 1945–2000
+with broader Anglophone writing out of scope.
+- **Period.** 1 January 1946 to 31 December 2000. The core is 1951–2000; the
+  1946–1950 bridge from installment 9 is reported separately.
+- **Inclusion.** By literary activity in the period, not birth date: careers
+  that continue from before 1951, posthumous works (marked as such), and minor,
+  regional and one-book writers.
+- **Traditions.** British (English, Scottish, Welsh), Irish and Northern Irish,
+  and American literature, plus the English-language literatures of Canada,
+  Australia, New Zealand, the Caribbean, Africa and South Asia, and their
+  diasporas.
+- **Records.** Every literary work gets its own record, with depth tiered as
+  major, significant or minor. Non-literary output goes in the author's
+  bibliography note, which states what is still missing.
+
+**Schema.** Alembic `f5a6b7c8d9e0` adds three work columns (`thematic_analysis`,
+`critical_context`, `verification_status`) and two author columns
+(`bibliography_status`, `verification_status`). See DATABASE_SCHEMA.md.
+
+**Pipeline.**
+- **Record constructors.** `scripts/content/i10_lib.py` provides `A10()` and
+  `W10()`. They map the seven description parts to columns and validate genre,
+  theme and movement names exactly.
+- **Strict build.** `META["strict"]` in `scripts/content_i10.py` turns off
+  template enrichment. `scripts/strict_checks.py` blocks the build on any of:
+  - a field below its depth tier;
+  - boilerplate;
+  - a sentence repeated across works or within a field;
+  - a date outside 1946–2000;
+  - an undefined taxonomy name or source;
+  - a record marked verified without the sources consulted.
+
+  The tests are in `tests/test_strict_checks_i10.py`.
+- **Taxonomy.** The 1946–2000 period record, 69 movements, 181 genres in 10
+  families (each family named "… (1946–2000)") and 33 themes, all in
+  `data/*/installment_10_*.json`. Eight genre names were changed to avoid
+  colliding with earlier installments.
+- **Discovery baseline.** `scripts/i10_discovery.py` writes
+  `research/installment_10/discovery_inventory.csv`: 5617 candidate authors from
+  the peer-reviewed Post45 datasets, with decades, priority tiers, evidence and
+  Wikidata, VIAF and LCCN identifiers. Joint credits are split, name typos
+  corrected and pre-1946 reprints dropped.
+- **Audit and report.** `scripts/audit_installment_10.py` regenerates
+  `documentation/INSTALLMENT_10_COVERAGE_MATRIX.csv` and
+  `documentation/INSTALLMENT_10_AUDIT_REPORT.md` from the actual records. The
+  report's method, corrections, limitations and stopping-point text comes from
+  `research/installment_10/report_notes.md`.
+
+**Waves.** Wave 01 (pilot) is Ralph Ellison's 1946–2000 bibliography: six works,
+each built, imported and audited. *Trading Twelves* is deferred until Albert
+Murray's author record exists.
+
+**Stopping point.** The ordered list of outstanding tasks is in
+`research/installment_10/report_notes.md`:
+1. compile the British, Irish and Commonwealth inventories;
+2. build waves by decade × tradition × genre;
+3. add post-war works for authors already in the database;
+4. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
 |---|---|---|
@@ -1521,4 +1591,4 @@ Anglophone and postcolonial writing out of scope.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (197 authors, 498 works) |
-| 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (pilot wave: 1 author, 6 works) |

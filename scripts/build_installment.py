@@ -34,7 +34,7 @@ os.chdir(PROJECT_ROOT)
 sys.path.insert(0, os.path.join(PROJECT_ROOT, "scripts"))
 
 from installment_toolkit import (  # noqa: E402
-    AUTHOR_KEYS, CANONICAL_STATUS, OPTIONAL_AUTHOR_KEYS, RESEARCH_STATUS,
+    AUTHOR_KEYS, CANONICAL_STATUS, OPTIONAL_AUTHOR_AUDIT_KEYS, OPTIONAL_AUTHOR_KEYS, RESEARCH_STATUS,
     SIGNIFICANCE_TIERS, WORK_KEYS,
 )
 
@@ -76,7 +76,9 @@ def installment_taxonomy(num):
 # ------------------------------------------------------------------ shaping
 EXTRA_WORK_COLUMNS = ("summary", "significance", "provenance_and_manuscripts",
                       "editions", "modern_translations", "related_works",
-                      "manuscript_locations", "research_notes")
+                      "manuscript_locations", "research_notes",
+                      # installment 10 onwards (migration f5a6b7c8d9e0)
+                      "thematic_analysis", "critical_context", "verification_status")
 
 
 def work_record(w):
@@ -141,11 +143,17 @@ def author_record(a):
     # Works that are documented but that cannot honestly carry a full record are
     # listed on the author under a bibliography heading, so the record states the
     # known output without inventing a schema for lost or unverifiable titles.
-    if a.get("also"):
+    if a.get("biblio_note"):
+        # Installment 10: an authored statement of bibliographic coverage.
+        rec["bibliographical_notes"] = a["biblio_note"]
+    elif a.get("also"):
         rec["bibliographical_notes"] = (
             "Other documented writings, recorded here because no separate work "
             "record with a verifiable description can be supported: "
             + "; ".join(a["also"]) + ".")
+    for key in OPTIONAL_AUTHOR_AUDIT_KEYS:
+        if a.get(key):
+            rec[key] = a[key]
     return rec
 
 
@@ -271,6 +279,7 @@ def main():
             expected = list(AUTHOR_KEYS) + list(OPTIONAL_AUTHOR_KEYS)
             if "bibliographical_notes" in rec:
                 expected.append("bibliographical_notes")
+            expected += [k for k in OPTIONAL_AUTHOR_AUDIT_KEYS if k in rec]
             assert list(rec.keys()) == expected, list(rec.keys())
     # works in batches aligned to author order, 25 works per file
     work_files = []
@@ -294,13 +303,27 @@ def main():
     work_meta = {w["title"]: ([w["author"]] + list(w.get("coauthors") or []),
                               list(w.get("genres") or []), list(w.get("themes") or []),
                               list(w.get("movements") or [])) for w in works}
-    import content_enrich
-    filled = content_enrich.apply_enrichment(work_payloads, work_meta, author_payloads)
-    print("enrichment: " + (", ".join("%s x%d" % (k, v) for k, v in sorted(filled.items()))
-                            or "nothing to fill"))
+    if meta.get("strict"):
+        # Installment 10 onwards: every analytical field is authored per record.
+        # No template text is composed; the strict checks enforce depth, reject
+        # boilerplate and duplicated prose, and require sources for verified records.
+        import strict_checks
+        strict_problems = strict_checks.check(works, authors, meta)
+        if strict_problems:
+            print("BUILD BLOCKED (strict): %d problem(s)" % len(strict_problems))
+            for p in strict_problems:
+                print("  -", p)
+            return 1
+        print("strict checks: passed (%d works, %d authors); enrichment disabled" % (len(works), len(authors)))
+    else:
+        import content_enrich
+        filled = content_enrich.apply_enrichment(work_payloads, work_meta, author_payloads)
+        print("enrichment: " + (", ".join("%s x%d" % (k, v) for k, v in sorted(filled.items()))
+                                or "nothing to fill"))
 
     for rec in work_payloads:
-        assert list(rec.keys()) == WORK_KEYS, list(rec.keys())
+        keys = list(rec.keys())
+        assert keys[:len(WORK_KEYS)] == WORK_KEYS and set(keys[len(WORK_KEYS):]) <= set(EXTRA_WORK_COLUMNS), keys
 
     if not args.check_only:
         for path in author_files:
@@ -405,7 +428,9 @@ def main():
             author_genres.setdefault(name, set()).update(w.get("genres") or [])
             author_movements.setdefault(name, set()).update(w.get("movements") or [])
             author_themes.setdefault(name, set()).update(w.get("themes") or [])
-        sources = set(universal) | set(strand_sources.get(strand(all_authors[w["author"]]), []))
+        # A work may belong to an author recorded by an earlier installment.
+        owner = all_authors.get(w["author"])
+        sources = set(universal) | (set(strand_sources.get(strand(owner), [])) if owner else set())
         sources |= set(w.get("sources") or [])
         for title in list(sources):
             if title not in every_source:

@@ -1,0 +1,157 @@
+{
+ "work_authors": [
+  {
+   "work": "Invisible Man",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Shadow and Act",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Going to the Territory",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Collected Essays of Ralph Ellison",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Flying Home and Other Stories",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Juneteenth",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  }
+ ],
+ "work_genres": [
+  {
+   "work": "Invisible Man",
+   "genres": [
+    "Literary Novel",
+    "Bildungsroman",
+    "Political Novel",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Shadow and Act",
+   "genres": [
+    "Literary Essay",
+    "Literary Criticism",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Going to the Territory",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "The Collected Essays of Ralph Ellison",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Flying Home and Other Stories",
+   "genres": [
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "work": "Juneteenth",
+   "genres": [
+    "Literary Novel",
+    "Political Novel"
+   ]
+  }
+ ],
+ "work_themes": [
+  {
+   "work": "Invisible Man",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Shadow and Act",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Going to the Territory",
+   "themes": [
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Collected Essays of Ralph Ellison",
+   "themes": [
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Flying Home and Other Stories",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Childhood, adolescence and coming of age",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Juneteenth",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self"
+   ]
+  }
+ ],
+ "work_movements": [
+  {
+   "work": "Invisible Man",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Shadow and Act",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  }
+ ],
+ "work_periods": [
+  {
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "works": [
+    "Invisible Man",
+    "Shadow and Act",
+    "Going to the Territory",
+    "The Collected Essays of Ralph Ellison",
+    "Flying Home and Other Stories",
+    "Juneteenth"
+   ]
+  }
+ ]
+}

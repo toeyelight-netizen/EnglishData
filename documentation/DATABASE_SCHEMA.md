@@ -3,8 +3,10 @@
 Master database: `database/English_Literature_Master.db` (SQLite 3)
 
 Schema is managed by Alembic (`alembic upgrade head`). Current head:
-`e4f5a6b7c8d9` (initial schema + FTS5 tables + work detail columns + author
-`significance_tier` + author `bibliographical_notes`).
+`f5a6b7c8d9e0`. The chain: the initial schema, the FTS5 tables, the work detail
+columns, author `significance_tier`, author `bibliographical_notes`, and the
+installment 10 audit fields (works `thematic_analysis`, `critical_context` and
+`verification_status`; authors `bibliography_status` and `verification_status`).
 
 ## Conventions
 
@@ -43,6 +45,8 @@ Schema is managed by Alembic (`alembic upgrade head`). Current head:
 | biographical_uncertainty | TEXT | explicit uncertainty notes |
 | significance_tier | VARCHAR(64) | nullable; `Major / canonical` \| `Significant / secondary` \| `Minor / lesser-known` \| `Obscure / historically neglected` (Inst. 8 onward; NULL = not yet graded) |
 | bibliographical_notes | TEXT | author-level note for documented writings that cannot carry a work record (Inst. 8) |
+| bibliography_status | VARCHAR(32) | nullable; `complete` \| `substantially complete` \| `incomplete`, covering the author's output within the installment's period (Inst. 10 onward; the scope statement is in `bibliographical_notes`) |
+| verification_status | VARCHAR(32) | nullable; `verified` \| `partially verified` \| `unverified` (Inst. 10 onward) |
 | research_status | VARCHAR(32) | |
 
 ### works
@@ -75,6 +79,9 @@ Schema is managed by Alembic (`alembic upgrade head`). Current head:
 | editions | TEXT | JSON list (Inst. 2) |
 | modern_translations | TEXT | JSON list (Inst. 2) |
 | related_works | TEXT | JSON list (Inst. 2) |
+| thematic_analysis | TEXT | nullable; explained major themes, part 4 of the seven-part description (Inst. 10 onward) |
+| critical_context | TEXT | nullable; reception and critical debate, part 7 (Inst. 10 onward) |
+| verification_status | VARCHAR(32) | nullable; `verified` \| `partially verified` \| `unverified`; the sources consulted are linked in `work_sources` (Inst. 10 onward) |
 | manuscript_locations | TEXT | JSON list (Inst. 2) |
 | canonical_status | VARCHAR(32) | Inst. 2 |
 | research_notes | TEXT | Inst. 2 |

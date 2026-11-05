@@ -1,0 +1,63 @@
+{
+ "author_genres": [
+  {
+   "author": "Ralph Ellison",
+   "genres": [
+    "Bildungsroman",
+    "Cultural Criticism",
+    "Literary Criticism",
+    "Literary Essay",
+    "Literary Novel",
+    "Political Novel",
+    "Satirical Fiction",
+    "Short-Story Collection"
+   ]
+  }
+ ],
+ "author_movements": [
+  {
+   "author": "Ralph Ellison",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  }
+ ],
+ "author_themes": [
+  {
+   "author": "Ralph Ellison",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Nationhood and national identity",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ]
+  }
+ ],
+ "author_influences": [
+  {
+   "author": "Ralph Ellison",
+   "influenced_by": [
+    "Richard Wright",
+    "T. S. Eliot",
+    "Ernest Hemingway",
+    "William Faulkner"
+   ]
+  }
+ ],
+ "author_sources": [
+  {
+   "author": "Ralph Ellison",
+   "sources": [
+    "Major Literary Prizes (Post45 Data Collective)",
+    "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)",
+    "Ralph Ellison (New World Encyclopedia)",
+    "Ralph Ellison (Wikipedia)"
+   ]
+  }
+ ]
+}

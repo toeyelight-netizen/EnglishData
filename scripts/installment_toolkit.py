@@ -98,6 +98,11 @@ AUTHORSHIP_STATUS = {"single", "anonymous", "collaborative", "attributed", "disp
 CANONICAL_STATUS = {"Major canon", "Secondary canon", "Minor canon"}
 RESEARCH_STATUS = {"complete", "partial"}
 
+# Installment 10 onwards: per-record audit fields (migration f5a6b7c8d9e0).
+OPTIONAL_AUTHOR_AUDIT_KEYS = ["bibliography_status", "verification_status"]
+VERIFICATION_STATUS = {"verified", "partially verified", "unverified"}
+BIBLIOGRAPHY_STATUS = {"complete", "substantially complete", "incomplete"}
+
 
 def year_num(value):
     """Date fields are strings, sometimes 'c. 1737' or '8th century'."""

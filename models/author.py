@@ -36,6 +36,9 @@ class Author(Base):
     # carry a separate work record (lost texts, unverifiable fragments, works
     # whose only record is a periodical reference). Added for installment 8.
     bibliographical_notes = Column(Text)
+    # Installment 10 onwards (migration f5a6b7c8d9e0); NULL = not assessed.
+    bibliography_status = Column(String(32))
+    verification_status = Column(String(32))
     research_status = Column(String(32), default="complete")
     created_at = Column(DateTime, server_default=func.now())
     updated_at = Column(DateTime, server_default=func.now(), onupdate=func.now())

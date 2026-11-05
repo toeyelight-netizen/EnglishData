@@ -1,0 +1,135 @@
+"""Installment 10, wave 01 (pilot): Ralph Ellison's complete 1946-2000 book bibliography.
+
+Pilot of the strict installment-10 record standard. Sources consulted for every
+record are cited per record; dates and bibliography were cross-checked across
+Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia, and the
+National Book Award and bestseller listing against the Post45 datasets.
+Trading Twelves (2000), co-written with Albert Murray, is deferred until Murray's
+author record exists, so that the book is not attributed to Ellison alone.
+"""
+
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(__file__))
+from i10_lib import A10, W10, G, T, M, MAJ  # noqa: E402
+
+WIKI = "Ralph Ellison (Wikipedia)"
+GALE = "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)"
+NWE = "Ralph Ellison (New World Encyclopedia)"
+PRIZES = "Major Literary Prizes (Post45 Data Collective)"
+NYT = "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)"
+
+AUTHORS = [
+A10("Ralph Ellison", MAJ, "1913", "1994", "Oklahoma City, Oklahoma, United States",
+  "American; African American novelist, essayist and critic of jazz and American culture",
+  "Novelist and essayist; the author of Invisible Man (1952), the most honoured American novel of the post-war decades, and of two collections of essays on literature, music and American identity.",
+  "Ralph Waldo Ellison was born in Oklahoma City on 1 March 1913 and named after Ralph Waldo Emerson. He studied music at the Tuskegee Institute in Alabama from 1933, left for New York in 1936, and there met Langston Hughes and Richard Wright, who encouraged him to write reviews and stories; he worked for the Federal Writers' Project and served in the merchant marine during the Second World War. Invisible Man, begun in 1945 and published by Random House in 1952, won the National Book Award in 1953. He held a fellowship at the American Academy in Rome in the mid-1950s, published the essays of Shadow and Act in 1964, taught at Bard, Rutgers and Yale, and held the Albert Schweitzer Chair in the Humanities at New York University from 1970 to 1979. He received the National Medal of Arts in 1985 and published a second collection, Going to the Territory, in 1986. He worked for some forty years on a second novel that he never finished. He died of pancreatic cancer in New York on 16 April 1994; his literary executor John F. Callahan edited his essays (1995), stories (1996) and the novel Juneteenth (1999) from his papers.",
+  "Ralph Ellison's reputation rests on one finished novel and two books of essays: Invisible Man fused the African American folk and blues tradition with the techniques of modernist fiction, and the essays argued that Black American culture is central to, not separate from, American culture as a whole.",
+  "A densely allusive, comic and lyrical prose that shifts between registers, from sermon, folk tale and blues to surrealist nightmare; a first-person narrator who reflects on his own telling; essays that move from personal reminiscence to cultural argument, often through jazz.",
+  "Race and visibility in American democracy; identity as improvisation; the folk and vernacular sources of art; jazz and the blues as models of discipline and freedom; the American nation as a mixed, unfinished culture.",
+  "Ellison stands with Richard Wright and James Baldwin among the defining African American writers of the mid-twentieth century; Invisible Man was voted the most important American novel since the Second World War in a 1965 Book Week poll, and his essays shaped later arguments about the relation between Black culture and American identity.",
+  bib_status="substantially complete",
+  bib_note="Bibliography status, 1946-2000: substantially complete. Recorded as works: Invisible Man (1952), Shadow and Act (1964), Going to the Territory (1986), The Collected Essays of Ralph Ellison (1995, posthumous), Flying Home and Other Stories (1996, posthumous) and Juneteenth (1999, posthumous). Not yet recorded: Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray (2000), deferred until Albert Murray's author record exists so that the letters are not attributed to Ellison alone; uncollected periodical pieces, including the excerpts from the unfinished second novel published in magazines between 1960 and 1977, are not individually recorded. Outside the period: Living with Music (2002), Three Days Before the Shooting... (2010) and The Selected Letters (2019). Checked against Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia.",
+  ver="verified", sources=[WIKI, GALE, NWE, PRIZES],
+  infl=["Richard Wright", "T. S. Eliot", "Ernest Hemingway", "William Faulkner", "Fyodor Dostoevsky", "André Malraux", "Kenneth Burke"],
+  alt=["Ralph Waldo Ellison"],
+  unc="Birth year: Wikipedia and the New World Encyclopedia give 1 March 1913; the Gale entries reproduced by Encyclopedia.com give 1914, the year found in many older references. 1913 is recorded here."),
+]
+
+WORKS = [
+W10("Invisible Man", "Ralph Ellison", "1952", "Novel", "major",
+  genres=G("Literary Novel", "Bildungsroman", "Political Novel", "Satirical Fiction"),
+  themes=T("Race, racism and the struggle for civil rights", "Identity, authenticity and the divided self",
+           "Power, the state and surveillance", "The city, the suburb and modern space"),
+  movements=M("Postwar African American Writing: Protest and Its Critics"),
+  overview="Invisible Man is Ralph Ellison's only completed novel, published by Random House in 1952: a first-person picaresque Bildungsroman in which an unnamed young Black man travels from the segregated South to Harlem and discovers that the people and institutions he trusts see him only as a role. It combines realist social observation with surrealism, satire, folklore and the blues, and it is framed by a prologue and epilogue spoken from an underground hiding place.",
+  content="A prologue in which the narrator, living secretly in a basement lit by 1,369 stolen light bulbs, announces that he is invisible; twenty-five chapters that tell, in retrospect, his expulsion from a Southern Black college, his work in a New York paint factory, his recruitment as a Harlem speaker for a political organisation called the Brotherhood, and a riot; and an epilogue in which he resolves to come out of hiding.",
+  summary="In the prologue the narrator explains that he is invisible because others refuse to see him. He lives rent-free in a forgotten basement of a whites-only building, steals electricity from Monopolated Light & Power to burn 1,369 bulbs, and listens to Louis Armstrong's recording of \"(What Did I Do to Be So) Black and Blue\".\n\nThe story proper begins in the South. On his deathbed the narrator's grandfather urges his family to \"overcome 'em with yeses, undermine 'em with grins\". As a promising high-school graduate the narrator is invited to give his speech to the town's white leaders, but first he must fight blindfolded with other Black boys in a \"battle royal\" and scramble for coins on an electrified rug; he is rewarded with a briefcase and a scholarship to the state college for Black students. There, assigned to drive the white trustee Mr. Norton, he takes him to the cabin of the sharecropper Jim Trueblood, who tells of fathering a child with his own daughter, and then to the Golden Day, a bar full of shell-shocked Black veterans, where Norton collapses. The college president, Dr. Bledsoe, expels the narrator and sends him to New York with sealed letters of recommendation to the trustees.\n\nIn New York the letters fail to open any door, until the son of a trustee, young Emerson, shows him that they instruct their readers to keep him running. He finds work at Liberty Paints, whose famous Optic White is made by adding drops of black, and is injured in a boiler-room explosion caused by his quarrel with the old Black engineer Lucius Brockway; in the factory hospital he undergoes electric-shock treatment that strips him of his name and past. Taken in by the kindly Mary Rambo, he makes an impromptu speech at the eviction of an elderly Harlem couple and is recruited by Brother Jack into the Brotherhood, which trains him as its Harlem spokesman.\n\nHis success brings him into conflict with the Black nationalist Ras the Exhorter and, eventually, with the Brotherhood itself, which moves him downtown and then changes its policy towards Harlem. His friend Tod Clifton, a gifted youth leader, leaves the organisation and is found selling dancing paper Sambo dolls on the street; a policeman shoots him dead. The narrator's funeral oration for Clifton earns a rebuke from the committee, and during the confrontation Brother Jack's glass eye falls out. Hiding behind dark glasses and a hat, the narrator is mistaken for Rinehart, a protean preacher, lover, numbers runner and hustler, and realises how fluid identity can be.\n\nA riot breaks out in Harlem, which the narrator comes to believe the Brotherhood has allowed to happen; Ras, now the Destroyer, rides through the streets on horseback with a spear. Fleeing, the narrator falls through an open manhole into a coal cellar and burns the papers in his briefcase, his diploma, Clifton's doll and an anonymous warning note written in Brother Jack's hand, to make light. In the epilogue, after months underground, he concludes that he must emerge and play a socially responsible role, ending with the question \"Who knows but that, on the lower frequencies, I speak for you?\"",
+  themes_text="Invisibility is the central figure: the narrator is unseen because the white South, the Black college, the white liberal trustee, the factory and the left-wing Brotherhood all impose roles on him, so that racism appears as a failure of perception rather than only as overt hatred. Identity is therefore treated as a problem of improvisation: the narrator passes through a sequence of names and parts until Rinehart's protean existence shows him both the freedom and the danger of having no fixed self. The novel examines how power works through institutions and ideologies, from Bledsoe's accommodationism to the Brotherhood's 'scientific' politics, each of which uses individuals as instruments. Against these systems it sets the resources of Black vernacular culture, the blues, sermons and folk tales, and it ends by affirming democratic responsibility and the mixed, plural character of American culture.",
+  structure="A frame of prologue and epilogue, set after the events, encloses twenty-five chapters told in retrospective first-person narration; the action follows the episodic, journey-based pattern of the picaresque and the Bildungsroman, with each episode exposing a new institution and a new illusion, and recurring objects (the briefcase, the letters, the coin bank) binding the episodes together.",
+  style="Ellison varies the style with the narrator's development, moving from naturalistic description in the Southern chapters to expressionist and surrealist distortion in the factory hospital and the riot; the prose absorbs the cadences of the sermon, the folk tale, the blues and jazz improvisation, uses dense symbolism and allusion (Dostoevsky's underground man, Emerson, T. S. Eliot), and is often comic and satirical.",
+  ctx="Ellison began the novel in 1945, after wartime service in the merchant marine, and wrote it in New York through the late 1940s, when the Great Migration had made Harlem the capital of Black America and the Communist Party's appeal to Black intellectuals of the 1930s had turned to disillusion. It appeared in 1952, two years before Brown v. Board of Education, when Richard Wright's protest naturalism was the dominant model for Black fiction.",
+  sig="Invisible Man won the National Book Award for Fiction in 1953, and a Book Week poll of some two hundred critics, writers and editors in 1965 named it the most important American novel published since the Second World War. It moved African American fiction beyond Wright's naturalist protest by joining Black folk and musical forms to the methods of modernism, and it became a central text of post-war American literature, studied as a novel about American democracy as much as about race.",
+  crit="Irving Howe's essay \"Black Boys and Native Sons\" (1963) praised Wright and faulted Ellison and Baldwin for abandoning protest; Ellison's reply, \"The World and the Jug\" (1963-64, collected in Shadow and Act), defended the Black writer's freedom to be an artist rather than a spokesman. Writers of the Black Arts Movement later criticised the novel's individualism and integrationism, while critics such as Robert G. O'Meally (The Craft of Ralph Ellison, 1980) traced its roots in folklore, jazz and the blues; its relation to existentialism and to Dostoevsky's Notes from Underground is a recurring theme of commentary.",
+  chars="The narrator (unnamed); his grandfather; Mr. Norton; Jim Trueblood; Dr. A. Hebert Bledsoe; Homer A. Barbee; young Emerson; Lucius Brockway; Mary Rambo; Brother Jack; Tod Clifton; Ras the Exhorter (the Destroyer); Rinehart (reported); Sybil",
+  comp=("1945", "1952"), canon="Major canon",
+  biblio="First edition: Random House, New York, 1952. National Book Award for Fiction, 1953. Thirtieth-anniversary edition with a new introduction by Ellison, Random House, 1982.",
+  ver="partially verified", sources=[WIKI, GALE, NWE, PRIZES, NYT],
+  notes=None),
+W10("Shadow and Act", "Ralph Ellison", "1964", "Essays, interviews and lectures", "significant",
+  genres=G("Literary Essay", "Literary Criticism", "Cultural Criticism"),
+  themes=T("Race, racism and the struggle for civil rights", "Art, the artist and the creative life", "Nationhood and national identity"),
+  movements=M("Postwar African American Writing: Protest and Its Critics"),
+  overview="Shadow and Act is Ralph Ellison's first collection of essays, published by Random House in 1964: reviews, lectures, interviews and memoirs written over some twenty years on literature, jazz and the blues, and the representation of Black Americans in fiction and film.",
+  content="Three sections: \"The Seer and the Seen\", on fiction and the writer's craft, including \"Twentieth-Century Fiction and the Black Mask of Humanity\", \"Change the Joke and Slip the Yoke\" and \"The World and the Jug\"; \"Sound and the Mainstream\", on jazz and the blues, including essays on Charlie Parker, Charlie Christian and Jimmy Rushing; and \"The Shadow and the Act\", on film and society, including the title essay on Hollywood films about race and \"Harlem Is Nowhere\".",
+  summary="Ellison argues that Black American life is not a mere reaction to oppression but a culture with its own complexity, discipline and joy, and that the Black writer must be judged as an artist rather than as a sociological spokesman. The literary essays attack the reduction of Black characters to stereotypes in American fiction and defend the writer's use of folklore and the vernacular, as in his exchange with Stanley Edgar Hyman over the trickster figure and with Irving Howe over Richard Wright's legacy. The music essays present jazz musicians as models of artistic discipline and improvisation within a tradition, and the closing essays read Hollywood's treatment of race and the psychological cost of life in Harlem as symptoms of a national failure to see Black Americans.",
+  themes_text="The book's recurring argument is that Black culture is an integral part of American culture, so that misrepresenting it distorts the nation's understanding of itself. It treats art, and especially jazz, as a disciplined freedom that converts experience into style, and it insists on the individual writer's responsibility to craft rather than to ideology.",
+  structure="A personal introduction followed by three thematic sections of essays, interviews and reviews from 1942 to 1964, arranged by subject rather than date.",
+  style="Lucid, urbane and allusive prose that moves easily from memoir to argument, enlivened by anecdote and by the conversational give-and-take of the interviews.",
+  ctx="The collection appeared in 1964, at the height of the civil rights movement and just before the rise of the Black Arts Movement, when the role of the Black writer was fiercely debated.",
+  sig="It established Ellison as a major American essayist and remains a key statement of the view that African American culture is central to American identity; \"The World and the Jug\" is a classic document of the debate over protest literature.",
+  crit="Admired as a model of the critical essay, it was also attacked by Black Arts critics in the later 1960s, who rejected its integrationist premises; its music essays are foundational texts of jazz criticism.",
+  canon="Secondary canon",
+  biblio="First edition: Random House, New York, 1964.",
+  ver="partially verified", sources=[WIKI, GALE, NWE]),
+W10("Going to the Territory", "Ralph Ellison", "1986", "Essays, lectures and interviews", "significant",
+  genres=G("Literary Essay", "Cultural Criticism"),
+  themes=T("Nationhood and national identity", "Race, racism and the struggle for civil rights", "Art, the artist and the creative life"),
+  overview="Going to the Territory is Ralph Ellison's second collection of essays, published by Random House in 1986: seventeen essays, speeches and reminiscences from the 1960s to the 1980s on American culture, literature and music.",
+  content="Pieces on William Faulkner and on Ellison's friend Richard Wright, an homage to Duke Ellington, reminiscences of his Oklahoma childhood, and lectures on the contribution of African Americans to American national identity, including the title address and \"The Little Man at Chehaw Station\".",
+  summary="The essays extend the argument of Shadow and Act into a broader theory of American culture as a democratic, improvised mixture in which African Americans have been central creators. Ellison imagines an ideal listener, the 'little man' who may turn up anywhere and judge an artist's work, as a figure for America's unpredictable democratic audience; he recalls the Oklahoma 'territory' of his youth as a frontier of possibility; and he pays tribute to Ellington and Wright as artists who made American culture.",
+  themes_text="American identity as an unfinished, pluralist creation; the vernacular as the source of high art; the artist's obligation to a democratic audience; the inseparability of Black and American experience.",
+  structure="Seventeen essays, addresses and interviews arranged by theme, ranging from reminiscence to formal lecture.",
+  style="Expansive, digressive and anecdotal, the prose of a public lecturer and memoirist, more relaxed than the polemics of the earlier book.",
+  ctx="Published in 1986, more than twenty years after Shadow and Act, when Ellison's long-promised second novel had still not appeared and multiculturalism was reshaping debates about American culture.",
+  sig="It confirmed Ellison's standing as a cultural critic and offered his fullest account of American culture as a vernacular, mixed democracy; \"The Little Man at Chehaw Station\" is among his most cited essays.",
+  canon="Secondary canon",
+  biblio="First edition: Random House, New York, 1986 (ISBN 0394540506).",
+  ver="partially verified", sources=[WIKI, GALE, NWE]),
+W10("The Collected Essays of Ralph Ellison", "Ralph Ellison", "1995", "Collected essays", "minor",
+  genres=G("Literary Essay", "Cultural Criticism"),
+  themes=T("Nationhood and national identity", "Race, racism and the struggle for civil rights"),
+  overview="The Collected Essays of Ralph Ellison is a posthumous Modern Library volume (1995), edited by his literary executor John F. Callahan, that gathers Ellison's nonfiction in one book.",
+  content="It reprints Shadow and Act and Going to the Territory together with essays, reviews and addresses not collected in either book.",
+  summary="By placing the two published collections beside previously uncollected pieces, the edition presents Ellison's nonfiction as a continuous body of cultural criticism from the 1940s to the 1980s, centred on literature, music and American identity.",
+  themes_text="The same concerns as the two collections: American culture as a mixed democracy and the Black vernacular as a source of art.",
+  structure="A collected edition: the two essay books in full followed by uncollected material.",
+  style="An editorial compilation of Ellison's essays, preserving their original texts.",
+  ctx="Published the year after Ellison's death as the first of four volumes edited from his papers between 1995 and 2000.",
+  sig="It made the whole of Ellison's nonfiction available in a standard edition and is the usual text cited for his uncollected essays.",
+  canon="Minor canon",
+  biblio="First edition: Modern Library, New York, 1995 (ISBN 0679601767); edited by John F. Callahan. Posthumous publication.",
+  ver="partially verified", sources=[WIKI, GALE]),
+W10("Flying Home and Other Stories", "Ralph Ellison", "1996", "Short-story collection", "significant",
+  genres=G("Short-Story Collection"),
+  themes=T("Race, racism and the struggle for civil rights", "Childhood, adolescence and coming of age", "Violence, crime and justice"),
+  overview="Flying Home and Other Stories is a posthumous collection (Random House, 1996) of Ralph Ellison's short fiction, edited by John F. Callahan from stories published in magazines from the late 1930s to the 1950s and from manuscripts found in his papers.",
+  content="Thirteen stories, among them \"A Party Down at the Square\", a lynching witnessed by a white boy; \"Flying Home\", about a Black pilot trainee who crashes in an Alabama field; \"King of the Bingo Game\"; \"In a Strange Country\"; and stories of the boys Buster and Riley.",
+  summary="The stories trace Ellison's development from the naturalism of his early apprenticeship to Richard Wright towards the folkloric and symbolic manner of Invisible Man. In \"Flying Home\" a young Black airman training under segregation crashes and is rescued by an old farmer whose folk tale about a man who flew in heaven at first humiliates and then helps him; in \"King of the Bingo Game\" a desperate man at a cinema bingo wheel refuses to release the button; and \"A Party Down at the Square\" renders a lynching through the eyes of a white boy who is horrified and fascinated.",
+  themes_text="Racial violence and humiliation, the search for dignity under segregation, the conflict between education and folk wisdom, and childhood initiation into a racist world.",
+  structure="Thirteen independent stories arranged by the editor, several of them linked by recurring child characters.",
+  style="From spare naturalism to symbolic, folk-inflected narration; dialogue rich in Southern Black vernacular.",
+  ctx="Most of the stories were written between 1937 and the early 1950s; the collection was assembled after Ellison's death, with \"A Party Down at the Square\" among the previously unpublished pieces.",
+  sig="It revealed the range of Ellison's short fiction and the road to Invisible Man; \"Flying Home\" and \"King of the Bingo Game\" are widely anthologised.",
+  canon="Secondary canon",
+  biblio="First edition: Random House, New York, 1996 (ISBN 0679457046); edited by John F. Callahan. Posthumous publication.",
+  notes="Publication year: Wikipedia and the first-edition ISBN record give 1996; the Gale entry reproduced by Encyclopedia.com gives 1997, probably the paperback. 1996 is recorded; confirm against the Library of Congress catalogue record.",
+  ver="partially verified", sources=[WIKI, GALE]),
+W10("Juneteenth", "Ralph Ellison", "1999", "Novel (posthumous, edited from manuscript)", "significant",
+  genres=G("Literary Novel", "Political Novel"),
+  themes=T("Race, racism and the struggle for civil rights", "Faith, doubt and the sacred", "Identity, authenticity and the divided self"),
+  overview="Juneteenth is the novel edited from Ralph Ellison's unfinished second book and published posthumously by Random House in 1999. His literary executor John F. Callahan condensed it from the more than two thousand pages Ellison wrote over some forty years into a single narrative of about 350 pages.",
+  content="The deathbed conversation between a race-baiting New England senator, shot on the floor of the Senate, and the elderly Black preacher who raised him, interleaved with their memories of the boy's childhood in the Black revival circuit and of his later flight into a white identity.",
+  summary="In 1955 Senator Adam Sunraider, notorious for his attacks on Black Americans, is shot while speaking in the Senate. Dying in hospital, he asks for the Reverend Alonzo Hickman, a former jazz trombonist turned Baptist preacher, who arrives with a group of Black church members. Through their memories and dialogue the novel reveals that Sunraider was once Bliss, a child of indeterminate race whom Hickman raised and made the star of his revival meetings, in which the boy rose from a small coffin to preach. Their recollections return to a great Juneteenth celebration, the commemoration of emancipation, at which Hickman preached on the Word and on the meaning of Black survival. Bliss later ran away, drifted through jobs including making films, and remade himself as a white politician who disowned his past.",
+  themes_text="Race as both an illusion and an inescapable American fact; the loss and betrayal of a cultural inheritance; religion, sermon and music as the bearers of memory; the American capacity for self-invention and its moral cost.",
+  structure="Alternating present-tense hospital scenes and long remembered passages, many in Hickman's sermonising voice, assembled by the editor from a much larger manuscript.",
+  style="Incantatory, sermon-based prose and extended interior monologue that draws heavily on the cadences of the Black church and of jazz.",
+  ctx="Ellison worked on the novel from the early 1950s until his death; a fire at his summer house in 1967 destroyed part of the manuscript, and he published only excerpts in magazines during his lifetime.",
+  sig="The publication made public the main narrative of Ellison's long-awaited second novel; a fuller scholarly edition of the manuscripts appeared later as Three Days Before the Shooting... (2010).",
+  crit="Reviewers and scholars debated whether a condensed, editor-assembled text could represent Ellison's intentions; many praised individual sermons and passages while judging the whole incomplete.",
+  canon="Secondary canon",
+  biblio="First edition: Random House, New York, 1999 (ISBN 0394464575); edited by John F. Callahan. Posthumous publication.",
+  notes="Length of the published condensation: Wikipedia says 368 pages, the New World Encyclopedia about 300; the overview gives the approximate figure. The 1967 fire is recorded from general Ellison scholarship and should be confirmed against a biography.",
+  ver="partially verified", sources=[WIKI, NWE]),
+]

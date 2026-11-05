@@ -21,10 +21,10 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (pilot wave: 1 author, 6 works) |
 
-Cumulative totals: **847 authors, 2840 works** (147 anonymous), 9 periods, 110
-movements, 189 genres, 170 themes, 337 sources, 2432 recorded editions.
+Cumulative totals: **848 authors, 2846 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 346 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the
@@ -36,6 +36,20 @@ Georgian and Modernist period (1901–1945). It runs from Wells, Bennett,
 Galsworthy and Forster through Joyce, Woolf, Eliot, Lawrence and the war poets
 to Auden and Orwell, and in America from the Harlem Renaissance to Hemingway,
 Faulkner and Steinbeck.
+
+Installment 10 (1946–2000, with 1951–2000 as the core) is **in progress, and only
+its pilot wave has been built.**
+- **Scope (widened on 2026-11-06).** British, Irish and American literature,
+  plus the English-language literatures of Canada, Australia, New Zealand, the
+  Caribbean, Africa and South Asia, and their diasporas.
+- **Record standard.** A strict, template-free build: every work has a
+  seven-part description, a bibliography status, a verification status and the
+  sources actually consulted.
+- **Baseline.** A discovery inventory of 5617 candidate authors, drawn from
+  peer-reviewed Post45 datasets.
+- **Current state.** The pilot wave is Ralph Ellison's six books. The measured
+  state, the eight audits and the exact stopping point are in
+  [documentation/INSTALLMENT_10_AUDIT_REPORT.md](documentation/INSTALLMENT_10_AUDIT_REPORT.md).
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for
 the detailed progress log.

@@ -1,0 +1,1078 @@
+[
+ {
+  "name": "Prose Fiction (1946–2000)",
+  "description": "Novels, novellas and short fiction in English, 1946–2000.",
+  "historical_development": "From late modernism through postmodernism, with realism persisting throughout."
+ },
+ {
+  "name": "Literary Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Extended prose fiction valued chiefly for style, character and ideas rather than formula.",
+  "historical_development": "Dominant prestige form of the period, from Bellow and Murdoch to Morrison, Rushdie and McEwan; consecrated by the Booker (1969) and National Book Award."
+ },
+ {
+  "name": "Historical Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction set in a documented past, reconstructing its society and events.",
+  "historical_development": "Revived by Mary Renault and Patrick O'Brian; transformed by Fowles, Doctorow (Ragtime, 1975), Barry Unsworth and Hilary Mantel into historiographic fiction."
+ },
+ {
+  "name": "Psychological Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction centred on the inner life, motives and perceptions of its characters.",
+  "historical_development": "Continued by Murdoch, Lessing, Patrick White, Elizabeth Bowen and Anita Brookner; overlaps the novel of consciousness."
+ },
+ {
+  "name": "Social Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction that examines a society's institutions, classes and conditions.",
+  "historical_development": "Practised by C. P. Snow, Margaret Drabble, Tom Wolfe (The Bonfire of the Vanities, 1987) and the working-class realists."
+ },
+ {
+  "name": "Political Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction organised around political power, ideology or revolution.",
+  "historical_development": "Orwell's Nineteen Eighty-Four (1949), Ellison's Invisible Man, Naipaul's Guerrillas and Gordimer's Burger's Daughter mark its range."
+ },
+ {
+  "name": "Realist Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction that represents ordinary life with documentary plausibility.",
+  "historical_development": "Persisted beside every experimental wave, from Larkin's and Amis's 1950s to Updike, Munro and the 1990s realist revival."
+ },
+ {
+  "name": "Naturalist Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction stressing heredity, environment and social determinism.",
+  "historical_development": "Continued in Mailer's The Naked and the Dead (1948), Selby's Last Exit to Brooklyn (1964) and urban crime fiction."
+ },
+ {
+  "name": "Modernist Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction continuing modernist techniques such as stream of consciousness and fragmentation.",
+  "historical_development": "Late modernist novels by Lowry, Beckett, Barnes and Durrell (The Alexandria Quartet, 1957–60)."
+ },
+ {
+  "name": "Postmodern Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction marked by self-reflexivity, pastiche, ontological play and genre mixing.",
+  "historical_development": "Pynchon, Barth, Barthelme, DeLillo, Carter and Rushdie; theorised by Hassan, McHale and Hutcheon."
+ },
+ {
+  "name": "Experimental Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction that breaks with conventional narrative form, layout or syntax.",
+  "historical_development": "B. S. Johnson, Christine Brooke-Rose, Ann Quin, Raymond Federman and the Fiction Collective (1974)."
+ },
+ {
+  "name": "Metafictional Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction that foregrounds its own fictionality and the act of storytelling.",
+  "historical_development": "Pale Fire (1962), The French Lieutenant's Woman (1969), Lost in the Funhouse (1968), Flaubert's Parrot (1984)."
+ },
+ {
+  "name": "Satirical Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction that ridicules individuals, institutions or societies.",
+  "historical_development": "Waugh's late satires, Heller's Catch-22, Vonnegut, Amis's Money (1984), Swift-like dystopias."
+ },
+ {
+  "name": "Philosophical Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction that dramatises philosophical problems and arguments.",
+  "historical_development": "Murdoch, Golding, Percy, Gass and Fowles; the existentialist novel of the 1950s."
+ },
+ {
+  "name": "Bildungsroman",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "The novel of formation, following a young protagonist into adulthood.",
+  "historical_development": "The Catcher in the Rye (1951), The Bell Jar (1963), Annie John (1985), Oranges Are Not the Only Fruit (1985)."
+ },
+ {
+  "name": "Künstlerroman",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "The novel of an artist's development.",
+  "historical_development": "Lessing's The Golden Notebook, Potok's My Name Is Asher Lev (1972), Atwood's Cat's Eye (1988)."
+ },
+ {
+  "name": "Family Saga",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Multigenerational fiction following a family over decades.",
+  "historical_development": "Galsworthy's heirs in Cookson and Delderfield; Morrison's Song of Solomon, Seth's A Suitable Boy, Erdrich's linked novels."
+ },
+ {
+  "name": "Regional Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction rooted in the speech, landscape and community of a particular region.",
+  "historical_development": "Southern, Appalachian, Prairie, Northern English and Scottish writing; Welty, Laurence, Mackay Brown."
+ },
+ {
+  "name": "Campus Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction set in and satirising universities and academic life.",
+  "historical_development": "Mary McCarthy's The Groves of Academe (1952), Lucky Jim (1954), Pnin (1957), David Lodge's Changing Places (1975), Malcolm Bradbury's The History Man (1975)."
+ },
+ {
+  "name": "Domestic Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction centred on home, marriage and family life.",
+  "historical_development": "Barbara Pym, Elizabeth Taylor, Anne Tyler, Margaret Drabble and Carol Shields."
+ },
+ {
+  "name": "Epistolary Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction told through letters, diaries or documents.",
+  "historical_development": "Alice Walker's The Color Purple (1982), Bellow's Herzog (in part), Helene Hanff's 84, Charing Cross Road (nonfiction, 1970)."
+ },
+ {
+  "name": "Novella",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Prose fiction of intermediate length, between story and novel.",
+  "historical_development": "Hemingway's The Old Man and the Sea (1952), Spark's The Prime of Miss Jean Brodie (1961), Capote's Breakfast at Tiffany's (1958)."
+ },
+ {
+  "name": "Short Story",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "A single short prose narrative, often first published in a magazine.",
+  "historical_development": "The New Yorker's dominance, Cheever, O'Connor, Carver, Munro, Trevor; individually significant stories are recorded where bibliographically important."
+ },
+ {
+  "name": "Short-Story Collection",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "A book gathering an author's short stories.",
+  "historical_development": "Salinger's Nine Stories (1953), Dubliners' heirs in Trevor and McGahern, Munro's collections, Carver's What We Talk About (1981)."
+ },
+ {
+  "name": "Flash Fiction",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Very short fiction, usually under a thousand words.",
+  "historical_development": "Named and anthologised in Sudden Fiction (1986) and Flash Fiction (1992); practised by Barthelme, Lydia Davis and Russell Edson."
+ },
+ {
+  "name": "War Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction depicting combat and the experience of war.",
+  "historical_development": "The Naked and the Dead (1948), From Here to Eternity (1951), Catch-22 (1961), Slaughterhouse-Five (1969), The Things They Carried (1990), Regeneration (1991)."
+ },
+ {
+  "name": "Comic Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction whose primary mode is comedy of character, situation or language.",
+  "historical_development": "Lucky Jim, Wodehouse's late novels, Tom Sharpe, A Confederacy of Dunces (1980), Lodge's academic comedies."
+ },
+ {
+  "name": "Autobiographical Novel",
+  "parent_genre": "Prose Fiction (1946–2000)",
+  "description": "Fiction closely based on its author's life.",
+  "historical_development": "The Bell Jar (1963), Go Tell It on the Mountain (1953), Kerouac's road novels, Winterson's Oranges."
+ },
+ {
+  "name": "Speculative Fiction (1946–2000)",
+  "description": "Science fiction, fantasy and horror, 1946–2000.",
+  "historical_development": "From the postwar magazine era through New Wave, feminist SF and cyberpunk, with the fantasy boom after Tolkien."
+ },
+ {
+  "name": "Science Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction that extrapolates scientific, technological or social change.",
+  "historical_development": "Expanded from the magazines into book publishing after 1945; Hugo Awards from 1953 and Nebula Awards from 1965."
+ },
+ {
+  "name": "Hard Science Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Science fiction emphasising scientific accuracy and technical extrapolation.",
+  "historical_development": "Arthur C. Clarke, Hal Clement (Mission of Gravity, 1953), Larry Niven, Gregory Benford."
+ },
+ {
+  "name": "Soft Science Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Science fiction centred on the social sciences, psychology and culture.",
+  "historical_development": "Bradbury, Le Guin, Pohl and Kornbluth's The Space Merchants (1953)."
+ },
+ {
+  "name": "Space Opera",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Large-scale adventure science fiction set among stars and empires.",
+  "historical_development": "Asimov's Foundation books (1951–53), Frank Herbert's Dune (1965), Iain M. Banks's Culture novels (from 1987)."
+ },
+ {
+  "name": "Dystopian Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction depicting an oppressive imagined society.",
+  "historical_development": "Nineteen Eighty-Four (1949), Fahrenheit 451 (1953), A Clockwork Orange (1962), The Handmaid's Tale (1985)."
+ },
+ {
+  "name": "Utopian Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction depicting an ideal or improved society.",
+  "historical_development": "B. F. Skinner's Walden Two (1948), Huxley's Island (1962), Le Guin's The Dispossessed (1974), Callenbach's Ecotopia (1975)."
+ },
+ {
+  "name": "Apocalyptic Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction depicting the end of the world or of civilisation.",
+  "historical_development": "Nevil Shute's On the Beach (1957), Walter M. Miller Jr.'s A Canticle for Leibowitz (1960)."
+ },
+ {
+  "name": "Post-Apocalyptic Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction set after a civilisational collapse.",
+  "historical_development": "John Wyndham's The Day of the Triffids (1951), Russell Hoban's Riddley Walker (1980)."
+ },
+ {
+  "name": "Cyberpunk Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Science fiction of computer networks, corporations and street culture.",
+  "historical_development": "Gibson's Neuromancer (1984), Sterling's Islands in the Net (1988), Stephenson's Snow Crash (1992)."
+ },
+ {
+  "name": "Alternate History",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction set in a world where history diverged.",
+  "historical_development": "Philip K. Dick's The Man in the High Castle (1962), Kingsley Amis's The Alteration (1976)."
+ },
+ {
+  "name": "Fantasy",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction involving magic or impossible worlds treated consistently.",
+  "historical_development": "Transformed by Tolkien's The Lord of the Rings (1954–55) and its paperback success in the 1960s."
+ },
+ {
+  "name": "High Fantasy",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fantasy set in a fully invented secondary world.",
+  "historical_development": "Tolkien, Le Guin's Earthsea (from 1968), Stephen Donaldson, Robert Jordan."
+ },
+ {
+  "name": "Low Fantasy",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fantasy in which magic intrudes on the primary, everyday world.",
+  "historical_development": "Alan Garner's The Owl Service (1967), Peter S. Beagle."
+ },
+ {
+  "name": "Sword and Sorcery",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fantasy of heroic combat and magic on a personal scale.",
+  "historical_development": "Fritz Leiber's Fafhrd and the Gray Mouser, Michael Moorcock's Elric (from 1961)."
+ },
+ {
+  "name": "Urban Fantasy",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fantasy set in a modern city.",
+  "historical_development": "Charles de Lint's Moonheart (1984), Emma Bull's War for the Oaks (1987), Neil Gaiman's Neverwhere (1996)."
+ },
+ {
+  "name": "Dark Fantasy",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fantasy with horror elements and a bleak tone.",
+  "historical_development": "Karl Edward Wagner, Tanith Lee, Clive Barker's Weaveworld (1987)."
+ },
+ {
+  "name": "Contemporary Fantasy",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fantasy set in the present-day world.",
+  "historical_development": "Mary Norton, John Crowley's Little, Big (1981), Gaiman's American Gods (2001, outside the period)."
+ },
+ {
+  "name": "Mythological Retelling",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction or poetry that retells classical, biblical or folk myth.",
+  "historical_development": "Mary Renault's The King Must Die (1958), John Gardner's Grendel (1971), Marion Zimmer Bradley's The Mists of Avalon (1983)."
+ },
+ {
+  "name": "Fairy-Tale Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction that reworks fairy tales for adult readers.",
+  "historical_development": "Angela Carter's The Bloody Chamber (1979), Robert Coover's Briar Rose (1996), Anne Sexton's Transformations (verse, 1971)."
+ },
+ {
+  "name": "Horror Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction designed to frighten through the monstrous or uncanny.",
+  "historical_development": "Commercial boom after Rosemary's Baby (1967) and The Exorcist (1971); Stephen King, James Herbert, Clive Barker."
+ },
+ {
+  "name": "Gothic Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction of haunted spaces, secrets and terror in the Gothic tradition.",
+  "historical_development": "Daphne du Maurier, Shirley Jackson, Susan Hill, the 'female Gothic' paperback boom of the 1960s."
+ },
+ {
+  "name": "Psychological Horror",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Horror arising from the mind rather than the supernatural.",
+  "historical_development": "Robert Bloch's Psycho (1959), Patricia Highsmith, Ramsey Campbell."
+ },
+ {
+  "name": "Supernatural Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction centred on ghosts, the occult or the unexplained.",
+  "historical_development": "Robert Aickman's 'strange stories', Peter Straub's Ghost Story (1979)."
+ },
+ {
+  "name": "Weird Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction blending horror and fantasy in the tradition of Lovecraft.",
+  "historical_development": "Continued by August Derleth's Arkham House, Ramsey Campbell and Thomas Ligotti."
+ },
+ {
+  "name": "Occult Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction centred on magic, Satanism or esoteric belief.",
+  "historical_development": "Dennis Wheatley's later novels, Ira Levin's Rosemary's Baby (1967), William Peter Blatty's The Exorcist (1971)."
+ },
+ {
+  "name": "Ghost Story",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "A narrative in which a ghost or haunting is central.",
+  "historical_development": "Shirley Jackson, Susan Hill's The Woman in Black (1983), Toni Morrison's Beloved (1987) in transformed form."
+ },
+ {
+  "name": "Vampire Fiction",
+  "parent_genre": "Speculative Fiction (1946–2000)",
+  "description": "Fiction featuring vampires.",
+  "historical_development": "Richard Matheson's I Am Legend (1954), Stephen King's 'Salem's Lot (1975), Anne Rice's Interview with the Vampire (1976)."
+ },
+ {
+  "name": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Detective, crime, spy and thriller fiction, 1946–2000.",
+  "historical_development": "From the late Golden Age through hardboiled, procedural and espionage fiction to the psychological thriller."
+ },
+ {
+  "name": "Crime Fiction",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Fiction centred on a crime, its perpetrators and its consequences.",
+  "historical_development": "Highsmith's Ripley novels (from 1955), Ruth Rendell, Elmore Leonard; CWA Daggers from 1955."
+ },
+ {
+  "name": "Detective Fiction",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Fiction in which a detective investigates and solves a crime.",
+  "historical_development": "Late Christie and Sayers' heirs, P. D. James, Colin Dexter; Edgar Awards from 1954."
+ },
+ {
+  "name": "Police Procedural",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Crime fiction following the routine work of police investigators.",
+  "historical_development": "Hillary Waugh's Last Seen Wearing (1952), Ed McBain's 87th Precinct (from 1956), Joseph Wambaugh."
+ },
+ {
+  "name": "Hardboiled Fiction",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Tough, violent crime fiction with a cynical urban detective.",
+  "historical_development": "Mickey Spillane's I, the Jury (1947), Ross Macdonald, Chester Himes's Harlem novels."
+ },
+ {
+  "name": "Noir Fiction",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Crime fiction of doomed protagonists, moral corruption and fatalism.",
+  "historical_development": "Jim Thompson's The Killer Inside Me (1952), David Goodis, Charles Willeford."
+ },
+ {
+  "name": "Spy and Espionage Fiction",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Fiction of intelligence agents and international espionage.",
+  "historical_development": "Ian Fleming's Bond novels (from 1953), John le Carré's The Spy Who Came in from the Cold (1963), Len Deighton."
+ },
+ {
+  "name": "Thriller",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Fast-paced suspense fiction of danger and pursuit.",
+  "historical_development": "Alistair MacLean, Frederick Forsyth's The Day of the Jackal (1971), Robert Ludlum, Tom Clancy."
+ },
+ {
+  "name": "Psychological Thriller",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Suspense fiction driven by states of mind, obsession and deception.",
+  "historical_development": "Highsmith's Strangers on a Train (1950), Ruth Rendell's A Judgement in Stone (1977), Thomas Harris's The Silence of the Lambs (1988)."
+ },
+ {
+  "name": "Legal Thriller",
+  "parent_genre": "Crime and Suspense Fiction (1946–2000)",
+  "description": "Suspense fiction centred on lawyers, trials and the legal system.",
+  "historical_development": "Robert Traver's Anatomy of a Murder (1958), Scott Turow's Presumed Innocent (1987), John Grisham's The Firm (1991)."
+ },
+ {
+  "name": "Adventure, Western and Romance Fiction (1946–2000)",
+  "description": "Popular adventure, Western and romance fiction, 1946–2000.",
+  "historical_development": "Mass-market paperback genres of the postwar decades."
+ },
+ {
+  "name": "Adventure Fiction",
+  "parent_genre": "Adventure, Western and Romance Fiction (1946–2000)",
+  "description": "Fiction of physical danger, exploration and heroic action.",
+  "historical_development": "Hammond Innes, Alistair MacLean, Wilbur Smith."
+ },
+ {
+  "name": "Western Fiction",
+  "parent_genre": "Adventure, Western and Romance Fiction (1946–2000)",
+  "description": "Fiction of the American frontier West.",
+  "historical_development": "Louis L'Amour, Jack Schaefer's Shane (1949), Larry McMurtry's Lonesome Dove (1985), Cormac McCarthy's Blood Meridian (1985)."
+ },
+ {
+  "name": "Historical Adventure",
+  "parent_genre": "Adventure, Western and Romance Fiction (1946–2000)",
+  "description": "Adventure fiction set in a historical period.",
+  "historical_development": "C. S. Forester's Hornblower series, Patrick O'Brian's Aubrey–Maturin novels (from 1969), George MacDonald Fraser's Flashman (from 1969)."
+ },
+ {
+  "name": "Popular Romance Fiction",
+  "parent_genre": "Adventure, Western and Romance Fiction (1946–2000)",
+  "description": "Fiction centred on a love story with an emotionally satisfying ending.",
+  "historical_development": "Mills & Boon and Harlequin lines, Georgette Heyer's Regency romances, Barbara Cartland, Danielle Steel."
+ },
+ {
+  "name": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry in English, 1946–2000.",
+  "historical_development": "From the Movement and the New American Poetry to Language poetry, New Formalism and spoken word."
+ },
+ {
+  "name": "Lyric Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Short poems expressing personal feeling or perception.",
+  "historical_development": "The central mode of the period's collections, from Larkin and Bishop to Heaney and Rich."
+ },
+ {
+  "name": "Narrative Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry that tells a story.",
+  "historical_development": "Revived in verse novels such as Vikram Seth's The Golden Gate (1986) and Les Murray's Fredy Neptune (1998)."
+ },
+ {
+  "name": "Dramatic Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry presented through characters' speech.",
+  "historical_development": "Browning's heirs in Richard Howard and Lowell's persona poems."
+ },
+ {
+  "name": "Confessional Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Autobiographical lyric that discloses private and painful experience.",
+  "historical_development": "Lowell's Life Studies (1959), Plath, Sexton, Berryman, Snodgrass."
+ },
+ {
+  "name": "Modernist Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry continuing modernist fragmentation, allusion and open form.",
+  "historical_development": "The late Pound, Williams's Paterson, Bunting, Zukofsky, David Jones."
+ },
+ {
+  "name": "Postmodern Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry of indeterminacy, collage and self-reflexive play.",
+  "historical_development": "Ashbery, the New York School, Language poetry."
+ },
+ {
+  "name": "Experimental Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry that tests the limits of syntax, form and the page.",
+  "historical_development": "Black Mountain, the British Poetry Revival, Language poetry, sound poetry."
+ },
+ {
+  "name": "Concrete Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry whose typographic arrangement is integral to its meaning.",
+  "historical_development": "Ian Hamilton Finlay, Edwin Morgan, Mary Ellen Solt, bpNichol."
+ },
+ {
+  "name": "Visual Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry combining text and image or using visual composition.",
+  "historical_development": "dom sylvester houédard, Tom Phillips's A Humument (1970)."
+ },
+ {
+  "name": "Prose Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry written in prose paragraphs rather than lines.",
+  "historical_development": "Russell Edson, Robert Bly, Charles Simic's The World Doesn't End (1989, Pulitzer 1990)."
+ },
+ {
+  "name": "Free Verse",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry without regular metre or rhyme.",
+  "historical_development": "The dominant prosody after 1960 in the United States and increasingly in Britain."
+ },
+ {
+  "name": "Formal Verse",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry in traditional metre, rhyme and stanza.",
+  "historical_development": "Larkin, Wilbur, Hecht, Merrill; revived by the New Formalists in the 1980s."
+ },
+ {
+  "name": "Sonnet",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "The fourteen-line poem and its variants.",
+  "historical_development": "Berryman's Sonnets (1967), Lowell's Notebook sonnets, Heaney's Glanmore Sonnets, Tony Harrison's sixteen-line sonnets."
+ },
+ {
+  "name": "Elegiac Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poems of mourning and lament for the dead.",
+  "historical_development": "Lowell's 'The Quaker Graveyard', Berryman, Geoffrey Hill, Douglas Dunn's Elegies (1985)."
+ },
+ {
+  "name": "Ode",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Formal poem of address and celebration or meditation.",
+  "historical_development": "Robert Lowell's 'For the Union Dead', Frank O'Hara's odes, Allen Tate's earlier 'Ode to the Confederate Dead' in revision."
+ },
+ {
+  "name": "Epic Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Long narrative poem of heroic or national scope.",
+  "historical_development": "Derek Walcott's Omeros (1990), Christopher Logue's War Music (1981)."
+ },
+ {
+  "name": "Long Poem",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Extended poem or sequence beyond the lyric, often open in form.",
+  "historical_development": "Olson's The Maximus Poems, Zukofsky's 'A', Bunting's Briggflatts, Merrill's The Changing Light at Sandover (1982)."
+ },
+ {
+  "name": "Pastoral and Rural Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry of rural life and landscape, idealised or anti-idealised.",
+  "historical_development": "R. S. Thomas, Ted Hughes's Moortown (1979), Seamus Heaney's early work."
+ },
+ {
+  "name": "Political Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry that addresses political events, power or protest.",
+  "historical_development": "Anti-war poetry of the Vietnam era, Adrienne Rich, Tony Harrison's v. (1985)."
+ },
+ {
+  "name": "Social Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry that examines social conditions and community life.",
+  "historical_development": "Gwendolyn Brooks, Tony Harrison, Douglas Dunn's Terry Street (1969)."
+ },
+ {
+  "name": "Nature Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry centred on the natural world.",
+  "historical_development": "Ted Hughes's animal poems, Mary Oliver, Gary Snyder's Turtle Island (1974, Pulitzer 1975)."
+ },
+ {
+  "name": "Love Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry of romantic and erotic love.",
+  "historical_development": "Robert Graves's late lyrics, Rich's Twenty-One Love Poems (1976), Hughes's Birthday Letters (1998)."
+ },
+ {
+  "name": "Religious Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry of faith, devotion and spiritual searching.",
+  "historical_development": "R. S. Thomas, Geoffrey Hill, Elizabeth Jennings, Denise Levertov's late work."
+ },
+ {
+  "name": "Performance Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry composed principally for live performance.",
+  "historical_development": "The Liverpool poets, the Last Poets, John Cooper Clarke, the poetry slam (from 1984)."
+ },
+ {
+  "name": "Spoken-Word Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry rooted in orality, rhythm and audience address.",
+  "historical_development": "Gil Scott-Heron, the Nuyorican Poets Café (1973), 1990s spoken word."
+ },
+ {
+  "name": "Beat Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry of the Beat Generation: spontaneous, incantatory, countercultural.",
+  "historical_development": "Ginsberg's Howl (1956), Corso, Ferlinghetti, Kaufman."
+ },
+ {
+  "name": "Black Arts Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry of the Black Arts Movement written for and from the Black community.",
+  "historical_development": "Baraka, Sanchez, Giovanni, Madhubuti, Knight."
+ },
+ {
+  "name": "Regional Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Poetry rooted in a particular region's place and speech.",
+  "historical_development": "Scottish, Welsh, Northern Irish, Appalachian and Western American poetry."
+ },
+ {
+  "name": "Dub Poetry",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Performance poetry in Jamaican Creole to the rhythm of reggae.",
+  "historical_development": "Linton Kwesi Johnson, Michael Smith, Jean Binta Breeze, Benjamin Zephaniah."
+ },
+ {
+  "name": "Light Verse",
+  "parent_genre": "Poetry and Verse Forms (1946–2000)",
+  "description": "Humorous and witty poetry.",
+  "historical_development": "Ogden Nash, John Betjeman, Phyllis McGinley (Times Three, Pulitzer 1961)."
+ },
+ {
+  "name": "Drama and Performance (1946–2000)",
+  "description": "Stage, radio and television drama in English, 1946–2000.",
+  "historical_development": "From the postwar well-made play through absurdism, kitchen-sink realism and political theatre to the 1990s."
+ },
+ {
+  "name": "Modern Tragedy",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama of serious action ending in catastrophe, often for ordinary protagonists.",
+  "historical_development": "Arthur Miller's Death of a Salesman (1949) and his essay 'Tragedy and the Common Man' (1949)."
+ },
+ {
+  "name": "Stage Comedy",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama whose primary mode is comedy.",
+  "historical_development": "Neil Simon, Alan Ayckbourn, Joe Orton, Michael Frayn's Noises Off (1982)."
+ },
+ {
+  "name": "Modern Tragicomedy",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama mixing tragic and comic modes.",
+  "historical_development": "Beckett called Waiting for Godot 'a tragicomedy in two acts'; Pinter and Stoppard."
+ },
+ {
+  "name": "Absurdist Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama presenting a meaningless world through illogical action and dialogue.",
+  "historical_development": "Beckett, Pinter, Simpson, Albee; named by Martin Esslin (1961)."
+ },
+ {
+  "name": "Existentialist Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama of freedom, choice and responsibility in a godless world.",
+  "historical_development": "Sartre and Camus in translation; English echoes in Albee and Peter Shaffer."
+ },
+ {
+  "name": "Political Theatre",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Theatre that addresses political power and seeks change.",
+  "historical_development": "Brenton, Hare, Edgar, Churchill, McGrath's 7:84; Amiri Baraka's revolutionary drama."
+ },
+ {
+  "name": "Social Realist Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama that depicts social conditions realistically.",
+  "historical_development": "Wesker, Storey, Lorraine Hansberry, August Wilson's century cycle (from 1982)."
+ },
+ {
+  "name": "Domestic Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama of family and home life.",
+  "historical_development": "Tennessee Williams, Eugene O'Neill's posthumous Long Day's Journey into Night (1956), Sam Shepard's family plays."
+ },
+ {
+  "name": "Historical Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama set in and interpreting the past.",
+  "historical_development": "Robert Bolt's A Man for All Seasons (1960), Peter Shaffer's Amadeus (1979), Brian Friel's Translations (1980)."
+ },
+ {
+  "name": "Experimental Theatre",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Theatre that breaks with conventional dramatic form.",
+  "historical_development": "The Living Theatre, the Open Theater, Peter Brook, the Wooster Group."
+ },
+ {
+  "name": "Avant-Garde Theatre",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Radically innovative theatre challenging artistic norms.",
+  "historical_development": "Robert Wilson, Richard Foreman, Adrienne Kennedy, Happenings."
+ },
+ {
+  "name": "Epic Theatre",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Brechtian theatre of episodic structure and critical distance.",
+  "historical_development": "Brecht's influence after the Berliner Ensemble's 1956 London visit; John Arden, Edward Bond, Caryl Churchill."
+ },
+ {
+  "name": "Theatre of Cruelty",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Artaudian theatre assaulting the senses to reach primal experience.",
+  "historical_development": "Peter Brook and Charles Marowitz's 1964 Theatre of Cruelty season and Marat/Sade (1964)."
+ },
+ {
+  "name": "Kitchen-Sink Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "British realist drama of working-class domestic life.",
+  "historical_development": "Look Back in Anger (1956), A Taste of Honey (1958), the Wesker Trilogy."
+ },
+ {
+  "name": "Musical Theatre",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama integrating song, music and dance.",
+  "historical_development": "Rodgers and Hammerstein, Sondheim, Lloyd Webber; book and lyrics as literary texts."
+ },
+ {
+  "name": "Radio Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama written for radio broadcast.",
+  "historical_development": "Dylan Thomas's Under Milk Wood (1954), Beckett's All That Fall (1957), Pinter, Stoppard; the BBC Third Programme."
+ },
+ {
+  "name": "Television Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama written for television broadcast.",
+  "historical_development": "Armchair Theatre (from 1956), The Wednesday Play (1964–70), Dennis Potter's The Singing Detective (1986), Paddy Chayefsky's Marty (1953)."
+ },
+ {
+  "name": "One-Act Play",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "A short play in a single act.",
+  "historical_development": "Albee's The Zoo Story (1959), Pinter's early plays, Off-Off-Broadway."
+ },
+ {
+  "name": "Full-Length Play",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "A play occupying a full evening, usually in two or more acts.",
+  "historical_development": "The standard form of the professional stage throughout the period."
+ },
+ {
+  "name": "Verse Drama",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "Drama written in verse.",
+  "historical_development": "T. S. Eliot's The Cocktail Party (1949), Christopher Fry's The Lady's Not for Burning (1948), Derek Walcott, Tony Harrison."
+ },
+ {
+  "name": "Dramatic Monologue",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "A play or poem spoken by a single character.",
+  "historical_development": "Beckett's Krapp's Last Tape (1958) and Not I (1972), Alan Bennett's Talking Heads (1988)."
+ },
+ {
+  "name": "Screenplay",
+  "parent_genre": "Drama and Performance (1946–2000)",
+  "description": "A script written for film.",
+  "historical_development": "Harold Pinter's screenplays, Hanif Kureishi's My Beautiful Laundrette (1985)."
+ },
+ {
+  "name": "Nonfiction Prose (1946–2000)",
+  "description": "Essays, life writing, travel, journalism and history, 1946–2000.",
+  "historical_development": "From the postwar essay to New Journalism and creative nonfiction."
+ },
+ {
+  "name": "Literary Essay",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "A short prose composition of reflection or argument.",
+  "historical_development": "Orwell, Baldwin, Didion, Sontag, Gore Vidal."
+ },
+ {
+  "name": "Personal Essay",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "An essay grounded in the writer's experience.",
+  "historical_development": "E. B. White, Joan Didion, Annie Dillard, Edward Hoagland."
+ },
+ {
+  "name": "Political Essay",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "An essay of political argument.",
+  "historical_development": "Baldwin's The Fire Next Time (1963), Orwell's late essays, Edward Said."
+ },
+ {
+  "name": "Philosophical Essay",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "An essay addressing philosophical questions.",
+  "historical_development": "Iris Murdoch's The Sovereignty of Good (1970), Susan Sontag's Against Interpretation (1966)."
+ },
+ {
+  "name": "Cultural Criticism",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Criticism of culture, media and society.",
+  "historical_development": "Raymond Williams, Susan Sontag, Dwight Macdonald's 'Masscult and Midcult' (1960)."
+ },
+ {
+  "name": "Autobiography",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "A life told by its subject.",
+  "historical_development": "The Autobiography of Malcolm X (1965), Maya Angelou's I Know Why the Caged Bird Sings (1969), Nabokov's Speak, Memory (1951/1966)."
+ },
+ {
+  "name": "Biography",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "A life told by another writer.",
+  "historical_development": "Richard Ellmann's James Joyce (1959), Michael Holroyd's Lytton Strachey (1967–68), Leon Edel's Henry James (1953–72)."
+ },
+ {
+  "name": "Memoir",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Life writing focused on a period, relationship or theme.",
+  "historical_development": "Mary McCarthy, Frank McCourt's Angela's Ashes (1996), Mary Karr's The Liars' Club (1995)."
+ },
+ {
+  "name": "Diaries and Journals",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Private daily records published as literature.",
+  "historical_development": "The Diary of Anne Frank (English 1952), Virginia Woolf's diaries (1977–84), Sylvia Plath's Journals (1982)."
+ },
+ {
+  "name": "Collected Letters",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Correspondence edited and published.",
+  "historical_development": "Selected Letters of Philip Larkin (1992), Letters Home (Plath, 1975), Flannery O'Connor's The Habit of Being (1979)."
+ },
+ {
+  "name": "Travel Writing",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Narratives of journeys and foreign places.",
+  "historical_development": "Patrick Leigh Fermor, Bruce Chatwin's In Patagonia (1977), Paul Theroux's The Great Railway Bazaar (1975)."
+ },
+ {
+  "name": "Literary Journalism",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Reporting written with literary technique.",
+  "historical_development": "New Journalism; Joseph Mitchell, John McPhee, Gay Talese."
+ },
+ {
+  "name": "Investigative Journalism",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Reporting that uncovers hidden wrongdoing.",
+  "historical_development": "Rachel Carson's Silent Spring (1962), Woodward and Bernstein's All the President's Men (1974)."
+ },
+ {
+  "name": "Historical Writing",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Narrative and analytical history written for general readers.",
+  "historical_development": "Barbara Tuchman, Shelby Foote's The Civil War (1958–74), Simon Schama."
+ },
+ {
+  "name": "Cultural History",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "History of mentalities, customs and cultural forms.",
+  "historical_development": "E. P. Thompson, Paul Fussell's The Great War and Modern Memory (1975)."
+ },
+ {
+  "name": "Intellectual History",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "History of ideas and thinkers.",
+  "historical_development": "Isaiah Berlin, Perry Miller, Richard Hofstadter's Anti-Intellectualism in American Life (1963)."
+ },
+ {
+  "name": "Social Criticism",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Prose analysing and criticising society.",
+  "historical_development": "Michael Harrington's The Other America (1962), Christopher Lasch's The Culture of Narcissism (1979)."
+ },
+ {
+  "name": "Nature Writing",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Literary nonfiction about the natural world.",
+  "historical_development": "Rachel Carson, Annie Dillard's Pilgrim at Tinker Creek (1974), Edward Abbey's Desert Solitaire (1968)."
+ },
+ {
+  "name": "Nonfiction Novel",
+  "parent_genre": "Nonfiction Prose (1946–2000)",
+  "description": "Factual narrative written with the techniques of the novel.",
+  "historical_development": "Truman Capote's In Cold Blood (1966), Norman Mailer's The Executioner's Song (1979)."
+ },
+ {
+  "name": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism and theory of literature, 1946–2000.",
+  "historical_development": "From late New Criticism and myth criticism through structuralism and poststructuralism to historicism, feminism, postcolonial and queer theory."
+ },
+ {
+  "name": "Literary Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Interpretation and evaluation of literary works.",
+  "historical_development": "Edmund Wilson, Lionel Trilling, F. R. Leavis, Randall Jarrell; the critical essay and monograph."
+ },
+ {
+  "name": "Literary Theory",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Systematic reflection on the nature and functioning of literature.",
+  "historical_development": "Frye's Anatomy of Criticism (1957) to the theory boom of the 1970s–80s."
+ },
+ {
+  "name": "Formalist Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Close reading of the text as an autonomous structure.",
+  "historical_development": "The late New Criticism of Brooks, Wimsatt and Beardsley."
+ },
+ {
+  "name": "Myth Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism of archetypes, myths and genres as recurrent structures.",
+  "historical_development": "Northrop Frye, Leslie Fiedler."
+ },
+ {
+  "name": "Feminist Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism examining gender, women writers and patriarchal representation.",
+  "historical_development": "Millett, Showalter, Gilbert and Gubar, Cixous, hooks."
+ },
+ {
+  "name": "Marxist Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism relating literature to class, ideology and history.",
+  "historical_development": "Raymond Williams, Terry Eagleton, Fredric Jameson."
+ },
+ {
+  "name": "Psychoanalytic Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism drawing on Freud, Lacan and psychoanalysis.",
+  "historical_development": "Lacan, Bloom's The Anxiety of Influence (1973), Peter Brooks."
+ },
+ {
+  "name": "Structuralist Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism analysing literature as a system of codes.",
+  "historical_development": "Barthes, Todorov, Culler's Structuralist Poetics (1975)."
+ },
+ {
+  "name": "Poststructuralist Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism questioning stable meaning, subject and structure.",
+  "historical_development": "Derrida, Foucault, late Barthes, Kristeva."
+ },
+ {
+  "name": "Deconstructive Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Readings that expose a text's undoing of its own oppositions.",
+  "historical_development": "Paul de Man, J. Hillis Miller, Barbara Johnson."
+ },
+ {
+  "name": "Postcolonial Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism of colonial discourse and its aftermath.",
+  "historical_development": "Said's Orientalism (1978), Spivak, Bhabha, The Empire Writes Back (1989)."
+ },
+ {
+  "name": "New Historicist Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism reading texts alongside other documents of their culture.",
+  "historical_development": "Greenblatt, Montrose, Gallagher; Representations (1983)."
+ },
+ {
+  "name": "Reader-Response Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism centred on the reader and the reading process.",
+  "historical_development": "Iser, Jauss, Fish, Holland, Rosenblatt."
+ },
+ {
+  "name": "Narratology",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "The systematic study of narrative structure.",
+  "historical_development": "Genette's Narrative Discourse (1972; English 1980), Chatman, Prince, Bal."
+ },
+ {
+  "name": "Rhetorical Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism of how texts persuade and shape readers.",
+  "historical_development": "Wayne C. Booth's The Rhetoric of Fiction (1961), Kenneth Burke."
+ },
+ {
+  "name": "Queer Criticism",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Criticism examining sexuality and non-normative identities.",
+  "historical_development": "Sedgwick, Butler, Halperin."
+ },
+ {
+  "name": "Cultural Studies",
+  "parent_genre": "Literary Criticism and Theory (1946–2000)",
+  "description": "Interdisciplinary study of culture, media and everyday life.",
+  "historical_development": "Hoggart, Williams, Stuart Hall and the Birmingham Centre (1964)."
+ },
+ {
+  "name": "Children's and Young Adult Literature (1946–2000)",
+  "description": "Literature for children and young people, 1946–2000.",
+  "historical_development": "From the postwar 'second golden age' of children's books to the young adult novel and the picture-book boom."
+ },
+ {
+  "name": "Children's Fiction",
+  "parent_genre": "Children's and Young Adult Literature (1946–2000)",
+  "description": "Fiction written for children.",
+  "historical_development": "C. S. Lewis's Narnia (1950–56), Roald Dahl, Philippa Pearce's Tom's Midnight Garden (1958); Carnegie and Newbery Medals."
+ },
+ {
+  "name": "Juvenile Fiction",
+  "parent_genre": "Children's and Young Adult Literature (1946–2000)",
+  "description": "Fiction for middle-grade readers, roughly eight to twelve.",
+  "historical_development": "E. B. White's Charlotte's Web (1952), Beverly Cleary, Judy Blume."
+ },
+ {
+  "name": "Young Adult Fiction",
+  "parent_genre": "Children's and Young Adult Literature (1946–2000)",
+  "description": "Fiction written for teenage readers.",
+  "historical_development": "S. E. Hinton's The Outsiders (1967), Robert Cormier's The Chocolate War (1974), Philip Pullman's Northern Lights (1995)."
+ },
+ {
+  "name": "Picture Book",
+  "parent_genre": "Children's and Young Adult Literature (1946–2000)",
+  "description": "A book in which pictures and text tell the story together.",
+  "historical_development": "Maurice Sendak's Where the Wild Things Are (1963), Dr. Seuss's The Cat in the Hat (1957); Caldecott and Kate Greenaway Medals."
+ },
+ {
+  "name": "Fairy-Tale Collection",
+  "parent_genre": "Children's and Young Adult Literature (1946–2000)",
+  "description": "Collections of literary or retold fairy tales.",
+  "historical_development": "Jane Yolen, Angela Carter's The Virago Book of Fairy Tales (1990)."
+ },
+ {
+  "name": "Folklore Collection",
+  "parent_genre": "Children's and Young Adult Literature (1946–2000)",
+  "description": "Gathered traditional tales, songs and beliefs.",
+  "historical_development": "Virginia Hamilton's The People Could Fly (1985), Italo Calvino's Italian Folktales (English 1980)."
+ },
+ {
+  "name": "Retelling and Adaptation",
+  "parent_genre": "Children's and Young Adult Literature (1946–2000)",
+  "description": "Works that retell or adapt an earlier text.",
+  "historical_development": "Wide Sargasso Sea (1966), Ted Hughes's Tales from Ovid (1997), Jane Smiley's A Thousand Acres (1991)."
+ },
+ {
+  "name": "Other Literary Forms (1946–2000)",
+  "description": "Comics, translation, anthologies, manifestos and hybrid forms, 1946–2000.",
+  "historical_development": "Forms that cut across the genre families."
+ },
+ {
+  "name": "Graphic Novel",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "Book-length narrative in comics form.",
+  "historical_development": "Will Eisner's A Contract with God (1978), Art Spiegelman's Maus (1986–91; Pulitzer special award 1992), Alan Moore and Dave Gibbons's Watchmen (1986–87)."
+ },
+ {
+  "name": "Comics",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "Sequential art narratives published serially.",
+  "historical_development": "Underground comix of the 1960s, Neil Gaiman's The Sandman (1989–96)."
+ },
+ {
+  "name": "Literary Translation",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "Translation of literary works into English.",
+  "historical_development": "Seamus Heaney's Beowulf (1999), Robert Fitzgerald's Odyssey (1961), Robert Lowell's Imitations (1961)."
+ },
+ {
+  "name": "Anthology",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "A collection of works by several writers, edited.",
+  "historical_development": "Donald Allen's The New American Poetry (1960), Alvarez's The New Poetry (1962), Black Fire (1968)."
+ },
+ {
+  "name": "Literary Manifesto",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "A public declaration of a movement's aims.",
+  "historical_development": "Olson's 'Projective Verse' (1950), Larry Neal's 'The Black Arts Movement' (1968)."
+ },
+ {
+  "name": "Pamphlet",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "A short unbound polemical or literary publication.",
+  "historical_development": "Small-press poetry pamphlets, political tracts of the 1960s."
+ },
+ {
+  "name": "Political Publication",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "Writing produced for political organisations or campaigns.",
+  "historical_development": "Civil rights and anti-apartheid publications, feminist newsletters."
+ },
+ {
+  "name": "Religious Literature",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "Writing of devotion, theology or spiritual life.",
+  "historical_development": "C. S. Lewis's Mere Christianity (1952), Thomas Merton's The Seven Storey Mountain (1948)."
+ },
+ {
+  "name": "Hybrid Forms",
+  "parent_genre": "Other Literary Forms (1946–2000)",
+  "description": "Works mixing genres, media or modes.",
+  "historical_development": "Claudia Rankine's predecessors, Anne Carson's Autobiography of Red (1998), Theresa Hak Kyung Cha's Dictee (1982)."
+ }
+]

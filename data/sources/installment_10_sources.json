@@ -1,0 +1,101 @@
+[
+ {
+  "title": "Major Literary Prizes (Post45 Data Collective)",
+  "author_or_editor": "Claire Grossman, Juliana Spahr and Stephanie Young",
+  "publisher": "Post45 Data Collective, Emory University",
+  "publication_year": 2022,
+  "source_type": "dataset",
+  "url": "https://github.com/Post45-Data-Collective/data/tree/main/major_literary_prizes",
+  "doi_or_identifier": "doi:10.18737/CNJV1733p4520221212",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Peer-reviewed dataset of US literary prize winners and judges (1918-2020) with Wikidata, VIAF and LCCN author identifiers; used for author discovery and prize-year verification."
+ },
+ {
+  "title": "Selected British Literary Prizes, 1990-2022 (Post45 Data Collective)",
+  "author_or_editor": "Katherine Binhammer, Kanika Batra, Theo Gray and Maryse Jayasuriya",
+  "publisher": "Post45 Data Collective, Emory University",
+  "publication_year": 2025,
+  "source_type": "dataset",
+  "url": "https://github.com/Post45-Data-Collective/data/tree/main/british_literary_prizes",
+  "doi_or_identifier": "doi:10.18737/961425",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Peer-reviewed dataset of winners and shortlists of major British prizes (Booker, Whitbread, Orange, T. S. Eliot, James Tait Black and others) with book titles and VIAF identifiers; 1990-2000 rows used."
+ },
+ {
+  "title": "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
+  "author_or_editor": "Jordan Pruett",
+  "publisher": "Post45 Data Collective, Emory University",
+  "publication_year": 2022,
+  "source_type": "dataset",
+  "url": "https://github.com/Post45-Data-Collective/data/tree/main/nyt_hardcover_fiction_bestsellers",
+  "doi_or_identifier": "doi:10.18737/CNJV1733p4520220211",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Peer-reviewed bestseller metadata with OCLC numbers and author authority identifiers; used for popular and commercial fiction discovery."
+ },
+ {
+  "title": "NEA Creative Writing Fellowships (Post45 Data Collective)",
+  "author_or_editor": "Alexander Manshel",
+  "publisher": "Post45 Data Collective, Emory University",
+  "publication_year": 2023,
+  "source_type": "dataset",
+  "url": "https://github.com/Post45-Data-Collective/data/tree/main/nea_writing_fellowships",
+  "doi_or_identifier": "doi:10.18737/096734",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Peer-reviewed list of National Endowment for the Arts literature fellows from 1967; used to discover minor and mid-career US writers. A fellowship is evidence of activity, not of a particular book."
+ },
+ {
+  "title": "Asian American Literary Canon (Post45 Data Collective)",
+  "author_or_editor": "Long Le-Khac",
+  "publisher": "Post45 Data Collective, Emory University",
+  "publication_year": 2025,
+  "source_type": "dataset",
+  "url": "https://github.com/Post45-Data-Collective/data/tree/main/asian_american_literature",
+  "doi_or_identifier": "doi:10.18737/092211",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Peer-reviewed dataset of Asian American texts and authors ranked by instances of scholarly study, with publication years, genres and publishers."
+ },
+ {
+  "title": "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
+  "author_or_editor": "Julie R. Enszer, Salome Grasland, Cassidy Hunt and Michaela Hayes",
+  "publisher": "Post45 Data Collective, Emory University",
+  "publication_year": 2025,
+  "source_type": "dataset",
+  "url": "https://github.com/Post45-Data-Collective/data/tree/main/feminist_bookstore_news",
+  "doi_or_identifier": "doi:10.18737/410409",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Archival article metadata from Feminist Bookstore News; used to discover feminist and lesbian small-press writers."
+ },
+ {
+  "title": "Ralph Ellison (Wikipedia)",
+  "author_or_editor": "Wikipedia contributors",
+  "publisher": "Wikimedia Foundation",
+  "publication_year": 2026,
+  "source_type": "encyclopedia (open)",
+  "url": "https://en.wikipedia.org/wiki/Ralph_Ellison",
+  "doi_or_identifier": "",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Article revision of October 2026; dates, bibliography with first-edition ISBNs and posthumous-publication history checked against Encyclopedia.com and the New World Encyclopedia."
+ },
+ {
+  "title": "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)",
+  "author_or_editor": "Gale / Cengage (compiled)",
+  "publisher": "Encyclopedia.com",
+  "publication_year": 2026,
+  "source_type": "reference compilation",
+  "url": "https://www.encyclopedia.com/people/literature-and-arts/american-literature-biographies/ralph-ellison",
+  "doi_or_identifier": "",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Reproduces Gale reference entries; gives the older birth year 1914 and dates Flying Home 1997, both recorded as discrepancies."
+ },
+ {
+  "title": "Ralph Ellison (New World Encyclopedia)",
+  "author_or_editor": "New World Encyclopedia contributors",
+  "publisher": "New World Encyclopedia",
+  "publication_year": 2019,
+  "source_type": "encyclopedia",
+  "url": "https://www.newworldencyclopedia.org/entry/Ralph_Ellison",
+  "doi_or_identifier": "",
+  "accessed_date": "2026-11-06",
+  "reliability_notes": "Independent corroboration of dates (1913-1994), the National Book Award (1953) and the 1965 Book Week poll."
+ }
+]

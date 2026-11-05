@@ -26,6 +26,9 @@ from installment_toolkit import (  # noqa: E402
 )
 
 
+from build_installment import EXTRA_WORK_COLUMNS  # noqa: E402
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("installment")
@@ -71,8 +74,11 @@ def main():
     for t in {t for t in titles if titles.count(t) > 1}:
         problems.append("duplicate work title %r" % t)
     for w in works:
-        if list(w.keys()) != WORK_KEYS:
-            problems.append("schema drift in %r: %s" % (w["title"], list(w.keys())))
+        keys = list(w.keys())
+        # The 21 core keys in order, optionally followed by declared extra columns
+        # (installment 10 onwards: summary, thematic_analysis, critical_context, ...).
+        if keys[:len(WORK_KEYS)] != WORK_KEYS or not set(keys[len(WORK_KEYS):]) <= set(EXTRA_WORK_COLUMNS):
+            problems.append("schema drift in %r: %s" % (w["title"], keys))
         if w["authorship_status"] not in AUTHORSHIP_STATUS:
             problems.append("bad authorship_status %r" % w["title"])
         if w["canonical_status"] not in CANONICAL_STATUS:
