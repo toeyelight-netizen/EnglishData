@@ -493,7 +493,7 @@
     "Documentary Prose and the Reportage Book",
     "Dystopian Fiction and the Anti-Utopian Satire",
     "Experimental Novel and the Modernist Form",
-    "Ghost Story and the Modern Weird Tale",
+    "Modern Short Story and the Magazine Tale",
     "Scientific Romance and the Utopian Tale"
    ]
   },
@@ -536,8 +536,8 @@
   {
    "author": "Gwendolyn Brooks",
    "genres": [
-    "New Negro Lyric and the Harlem Renaissance Poem",
-    "Regional Novel and the American Local-Colour Inheritance"
+    "Modernist Lyric and the New Idiom",
+    "New Negro Lyric and the Harlem Renaissance Poem"
    ]
   },
   {
@@ -713,8 +713,7 @@
     "Imagist Lyric and the Free-Verse Line",
     "Modern Short Story and the Magazine Tale",
     "Novel of Consciousness and the Stream of Mind",
-    "Novel of Development and the Growth Story",
-    "Regional Novel and the American Local-Colour Inheritance"
+    "Novel of Development and the Growth Story"
    ]
   },
   {
@@ -1157,8 +1156,9 @@
   {
    "author": "Robert Frost",
    "genres": [
+    "Dramatic Monologue and Masked Lyric",
     "Georgian Anthology Lyric",
-    "Regional Novel and the American Local-Colour Inheritance"
+    "Nature Lyric and Meditation"
    ]
   },
   {
@@ -1502,8 +1502,7 @@
    "author": "Walter de la Mare",
    "genres": [
     "Children's Fantasy and the Golden-Age Tale",
-    "Georgian Anthology Lyric",
-    "Ghost Story and the Modern Weird Tale"
+    "Georgian Anthology Lyric"
    ]
   },
   {

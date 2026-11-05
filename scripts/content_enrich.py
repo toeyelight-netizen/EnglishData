@@ -739,21 +739,96 @@ FORM_MARKERS = (
 )
 
 
+# Family classification (drama / verse / fiction / nonfiction).
+#
+# The work's own literary form decides, with whole-word matching; its genres
+# are consulted, primary genre first, only when the form names no family.
+# The earlier version substring-matched the form and every genre name at once,
+# so "ode" matched inside "Modern"/"Modernist", "epic" inside a novel's
+# "(first of 'The Epic of the Wheat')", "drama" inside the verse genre
+# "Dramatic Monologue", and any secondary verse genre ("Nonsense Verse")
+# turned a prose book into "a verse work".
+_FAMILY_WORDS = (
+    ("drama", r"plays?|dramas?|traged(?:y|ies)|comed(?:y|ies)|tragicomed(?:y|ies)|farces?|"
+              r"melodramas?|masques?|operas?|operettas?|librett(?:o|os|i)|interludes?|"
+              r"pageants?|pantomimes?|extravaganzas?|burlettas?|revues?|"
+              r"screenplays?"),
+    ("verse", r"poems?|poetry|verses?|lyrics?|sonnets?|odes?|ballads?|eleg(?:y|ies)|"
+              r"idylls?|cantos?|eclogues?|limericks?|hymns?|songs?|epics?|rhymes?|"
+              r"quatrains?|couplets?|hexameters?|monologues?|monodramas?|ballades?|rondeaus?|"
+              r"villanelles?"),
+    ("nonfiction", r"autobiograph(?:y|ies)|memoirs?|biograph(?:y|ies)|essays?|criticism|"
+                   r"histor(?:y|ies)|treatises?|sermons?|lectures?|letters|diar(?:y|ies)|"
+                   r"journals?|travels|travelogues?|pamphlets?|philosophy|reportage|"
+                   r"journalism|stud(?:y|ies)|polemics?|manifestos?|reminiscences|"
+                   r"recollections|surveys?|tracts?|chronicles?|accounts?|guides?|"
+                   r"handbooks?|dictionar(?:y|ies)|translations?|commentar(?:y|ies)"),
+    ("fiction", r"novels?|novellas?|novelettes?|stor(?:y|ies)|tales?|romances?|"
+                r"sketch(?:es)?|fiction|fables?|fantas(?:y|ies)|narratives?"),
+)
+_FAMILY_RX = [(fam, re.compile(r"\b(?:%s)\b" % words)) for fam, words in _FAMILY_WORDS]
+# Compounds whose family differs from their head noun, checked first.
+_FAMILY_COMPOUNDS = (
+    ("drama", re.compile(r"\b(?:verse|poetic|closet|lyric|music|dance|chronicle)[- ]"
+                         r"(?:dramas?|plays?)\b|\bplays? in verse\b")),
+    ("fiction", re.compile(r"\bfuture histor(?:y|ies)\b")),
+    ("verse", re.compile(r"\b(?:verse|metrical|rhymed?)[- ](?:novels?|novelettes?|novellas?|"
+                         r"tales?|romances?|"
+                         r"narratives?|satires?|essays?|epistles?|letters?|sermons?|fables?|"
+                         r"stor(?:y|ies)|parod(?:y|ies)|chronicles?|histor(?:y|ies)|translations?)\b"
+                         r"|\b(?:novels?|tales?|romances?|narratives?|stor(?:y|ies)|satires?|"
+                         r"essays?|letters?|sermons?|fables?) in (?:verse|rhyme)\b"
+                         r"|\bdramatic (?:monologues?|lyrics?|poems?|idylls?|romances?)\b"
+                         r"|\btranslations? (?:of|from) [a-z' -]*?\b(?:poetry|poems|verse|"
+                         r"songs|ballads|lyrics|sonnets|odes)\b")),
+    ("nonfiction", re.compile(r"\b(?:slave|captivity|travel|conversion|spiritual)[- ]"
+                              r"narratives?\b|\btravel (?:book|writing|sketch(?:es)?)\b"
+                              r"|\bhistorical (?:prose )?narratives?\b")),
+)
+_FAMILY_SPLIT = re.compile(r"\b(?:of|in|with|for|by|from|on|about|after|to)\b|[,:;]| and ")
+
+
+# "narrative" and "sketch" name prose without settling fiction against
+# fact (Walden is a "prose narrative", Sketches by Boz "periodical sketches"),
+# so a form decided only by them defers to a non-fiction genre.
+_WEAK_FICTION = re.compile(r"\b(?:narratives?|sketch(?:es)?)\b")
+
+
+def _form_family_detail(text):
+    """(family, weak) named by one form or genre string; family may be None."""
+    s = re.sub(r"\([^)]*\)|'[^']*'|\"[^\"]*\"", " ", (text or "").lower())
+    for fam, rx in _FAMILY_COMPOUNDS:
+        if rx.search(s):
+            return fam, False
+    head, *rest = _FAMILY_SPLIT.split(s)
+    hits = [(m.start(), m.group(), fam) for fam, rx in _FAMILY_RX for m in rx.finditer(head)]
+    if hits:
+        _, word, fam = max(hits)  # English compounds are head-final: "verse drama"
+        return fam, bool(_WEAK_FICTION.fullmatch(word))
+    for part in rest:
+        hits = [(m.start(), m.group(), fam) for fam, rx in _FAMILY_RX for m in rx.finditer(part)]
+        if hits:
+            _, word, fam = min(hits)  # first family word of the qualifier: "collection of stories"
+            return fam, bool(_WEAK_FICTION.fullmatch(word))
+    return None, False
+
+
+def _form_family(text):
+    """Family named by one form or genre string, or None."""
+    return _form_family_detail(text)[0]
+
+
 def family(form, genres):
-    text = ((form or "") + " " + " ".join(genres or [])).lower()
-    if any(k in text for k in ("play", "drama", "traged", "comed", "opera", "act)",
-                                "acts", "stage", "masque", "farce", "melodrama",
-                                "monodrama", "interlude")):
-        return "drama"
-    if any(k in text for k in ("poem", "poetry", "verse", "lyric", "sonnet", "ode",
-                               "ballad", "eleg", "epic", "idyll", "canto", "metrical",
-                               "sprung", "quatrain", "couplet", "hexameter", "limerick",
-                               "anthology lyric", "sermons in verse")):
-        return "verse"
-    if any(k in text for k in ("novel", "novella", "story", "stories", "romance",
-                               "tale", "sketch", "fiction", "fantasy", "narrative")):
-        return "fiction"
-    return "nonfiction"
+    fam, weak = _form_family_detail(form)
+    if fam and not weak:
+        return fam
+    for gname in genres or []:
+        gfam = _form_family(gname)
+        if gfam:
+            if not fam or gfam == "nonfiction":
+                return gfam
+            break
+    return fam or "nonfiction"
 
 
 def _style_clause(author):
@@ -788,7 +863,10 @@ def compose_meter(w, author):
     parts = []
     reg = None
     for gname in genres:
-        if gname in GENRE_REGISTER:
+        # A genre of another family would describe the wrong medium (a comic
+        # novel tagged "Nonsense Verse" must not get "Verse of regular comic
+        # metre"); genres that name no family are usable for any work.
+        if gname in GENRE_REGISTER and _form_family(gname) in (None, fam):
             reg = GENRE_REGISTER[gname]
             break
     if reg is None:
