@@ -1573,7 +1573,6 @@
   {
    "author": "Aldous Huxley",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Bloomsbury Group and the Novel of Consciousness",
     "The Edwardian Country House and the Condition of England",
     "The Scientific Romance and the English Utopia",
@@ -1618,7 +1617,6 @@
   {
    "author": "Arthur Machen",
    "movements": [
-    "The Aesthetic Turn in 1890s America",
     "The Ghost Story and the Modern Weird Tale"
    ]
   },
@@ -1704,7 +1702,6 @@
   {
    "author": "D. H. Lawrence",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Edwardian Country House and the Condition of England",
     "The Waste Land Generation and the Mythical Method"
    ]
@@ -1731,7 +1728,6 @@
   {
    "author": "Djuna Barnes",
    "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness",
     "The Lost Generation and the Expatriate Novel"
    ]
   },
@@ -1766,14 +1762,11 @@
   },
   {
    "author": "E. H. Young",
-   "movements": [
-    "The Auden Generation and the Thirties Poem"
-   ]
+   "movements": []
   },
   {
    "author": "E. M. Delafield",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Bloomsbury Group and the Novel of Consciousness"
    ]
   },
@@ -1830,7 +1823,6 @@
   {
    "author": "Elizabeth Bowen",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Bloomsbury Group and the Novel of Consciousness",
     "The Irish Literary Revival and the Abbey Theatre"
    ]
@@ -1865,9 +1857,7 @@
   },
   {
    "author": "Evelyn Waugh",
-   "movements": [
-    "The Auden Generation and the Thirties Poem"
-   ]
+   "movements": []
   },
   {
    "author": "Ezra Pound",
@@ -1902,9 +1892,7 @@
   },
   {
    "author": "Flann O'Brien",
-   "movements": [
-    "The American Theatre and the Modern Stage"
-   ]
+   "movements": []
   },
   {
    "author": "Ford Madox Ford",
@@ -1938,7 +1926,6 @@
   {
    "author": "George Orwell",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Hungry Thirties and the Documentary Novel"
    ]
   },
@@ -2000,7 +1987,6 @@
   {
    "author": "Herbert George Wells",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Edwardian Country House and the Condition of England",
     "The Scientific Romance and the English Utopia"
    ]
@@ -2103,8 +2089,7 @@
   {
    "author": "Jean Rhys",
    "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness",
-    "The Lost Generation and the Expatriate Novel"
+    "The Bloomsbury Group and the Novel of Consciousness"
    ]
   },
   {
@@ -2123,15 +2108,13 @@
   {
    "author": "John Boynton Priestley",
    "movements": [
-    "The Auden Generation and the Thirties Poem"
+    "The Hungry Thirties and the Documentary Novel"
    ]
   },
   {
    "author": "John Buchan",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
-    "The Edwardian Country House and the Condition of England",
-    "The Lost Generation and the Expatriate Novel"
+    "The Edwardian Country House and the Condition of England"
    ]
   },
   {
@@ -2201,15 +2184,12 @@
   {
    "author": "Katherine Anne Porter",
    "movements": [
-    "The Celtic Twilight and the Irish Short Story",
     "The Southern Renaissance and the American Regional Novel"
    ]
   },
   {
    "author": "Katherine Mansfield",
-   "movements": [
-    "Georgian Poetry and the English Lyric"
-   ]
+   "movements": []
   },
   {
    "author": "Lady Gregory",
@@ -2329,7 +2309,7 @@
   {
    "author": "Noel Coward",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
+    "The Drawing-Room Stage and the Comedy of Manners",
     "The Edwardian Country House and the Condition of England"
    ]
   },
@@ -2359,10 +2339,7 @@
   },
   {
    "author": "P. G. Wodehouse",
-   "movements": [
-    "The Auden Generation and the Thirties Poem",
-    "The Edwardian Country House and the Condition of England"
-   ]
+   "movements": []
   },
   {
    "author": "Padraic Colum",
@@ -2373,9 +2350,7 @@
   },
   {
    "author": "Patrick Hamilton",
-   "movements": [
-    "The Auden Generation and the Thirties Poem"
-   ]
+   "movements": []
   },
   {
    "author": "Patrick Kavanagh",
@@ -2401,8 +2376,7 @@
   {
    "author": "Radclyffe Hall",
    "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness",
-    "The Lost Generation and the Expatriate Novel"
+    "The Bloomsbury Group and the Novel of Consciousness"
    ]
   },
   {
@@ -2481,7 +2455,6 @@
   {
    "author": "Rosamond Lehmann",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Bloomsbury Group and the Novel of Consciousness"
    ]
   },
@@ -2563,9 +2536,7 @@
   },
   {
    "author": "Stella Gibbons",
-   "movements": [
-    "The Auden Generation and the Thirties Poem"
-   ]
+   "movements": []
   },
   {
    "author": "Stephen Spender",
@@ -2588,7 +2559,6 @@
   {
    "author": "Sylvia Townsend Warner",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Bloomsbury Group and the Novel of Consciousness"
    ]
   },
@@ -2602,14 +2572,12 @@
   {
    "author": "T. E. Lawrence",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Edwardian Country House and the Condition of England"
    ]
   },
   {
    "author": "T. F. Powys",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Waste Land Generation and the Mythical Method"
    ]
   },
@@ -2653,7 +2621,6 @@
   {
    "author": "Vera Brittain",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Waste Land Generation and the Mythical Method"
    ]
   },
@@ -2692,10 +2659,8 @@
   {
    "author": "W. Somerset Maugham",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Bloomsbury Group and the Novel of Consciousness",
-    "The Edwardian Country House and the Condition of England",
-    "The Lost Generation and the Expatriate Novel"
+    "The Edwardian Country House and the Condition of England"
    ]
   },
   {
@@ -2752,7 +2717,6 @@
   {
    "author": "Winifred Holtby",
    "movements": [
-    "The Auden Generation and the Thirties Poem",
     "The Hungry Thirties and the Documentary Novel"
    ]
   },

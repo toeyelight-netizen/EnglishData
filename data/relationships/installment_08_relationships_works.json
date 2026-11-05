@@ -17670,8 +17670,7 @@
   {
    "work": "Little Dorrit",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
-    "Carlyle and the Hero-Worship Lecture"
+    "Chartism and the Condition-of-England Novel"
    ]
   },
   {
@@ -17703,7 +17702,14 @@
   {
    "work": "Vanity Fair: A Novel without a Hero",
    "movements": [
-    "Chartism and the Condition-of-England Novel"
+    "Chartism and the Condition-of-England Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
+   ]
+  },
+  {
+   "work": "The History of Pendennis: His Fortunes and Misfortunes, His Friends and His Greatest Enemy",
+   "movements": [
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -17715,7 +17721,8 @@
   {
    "work": "The Newcomes: Memoirs of a Most Respectable Family",
    "movements": [
-    "Sensation Fiction and the Serial Plot"
+    "Sensation Fiction and the Serial Plot",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -17745,19 +17752,26 @@
   {
    "work": "Jane Eyre: An Autobiography",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Shirley: A Tale",
    "movements": [
-    "Chartism and the Condition-of-England Novel"
+    "Chartism and the Condition-of-England Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
+   ]
+  },
+  {
+   "work": "Villette",
+   "movements": [
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Professor",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -17775,62 +17789,66 @@
   {
    "work": "Agnes Grey",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
+   ]
+  },
+  {
+   "work": "The Tenant of Wildfell Hall",
+   "movements": [
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Scenes of Clerical Life",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Adam Bede",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Pre-Raphaelitism and the Truth to Nature"
+    "Pre-Raphaelitism and the Truth to Nature",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Mill on the Floss",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Silas Marner: The Weaver of Raveloe",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Romola",
    "movements": [
     "Pre-Raphaelitism and the Truth to Nature",
-    "Ruskin and the Political Economy of Art"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Felix Holt, the Radical",
    "movements": [
     "Chartism and the Condition-of-England Novel",
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Middlemarch: A Study of Provincial Life",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel"
+    "Chartism and the Condition-of-England Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Daniel Deronda",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -17842,32 +17860,34 @@
   {
    "work": "Mary Barton: A Tale of Manchester Life",
    "movements": [
-    "Chartism and the Condition-of-England Novel"
+    "Chartism and the Condition-of-England Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Cranford",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Ruth",
    "movements": [
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "North and South",
    "movements": [
     "Chartism and the Condition-of-England Novel",
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Wives and Daughters: An Every-Day Story",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -17880,71 +17900,73 @@
   {
    "work": "The Warden",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Barchester Towers",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Doctor Thorne",
    "movements": [
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Framley Parsonage",
    "movements": [
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Small House at Allington",
    "movements": [
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Last Chronicle of Barset",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Phineas Finn, the Irish Member",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel"
+    "Chartism and the Condition-of-England Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Eustace Diamonds",
    "movements": [
-    "Sensation Fiction and the Serial Plot"
+    "Sensation Fiction and the Serial Plot",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Way We Live Now",
    "movements": [
-    "Sensation Fiction and the Serial Plot"
+    "Sensation Fiction and the Serial Plot",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Prime Minister",
    "movements": [
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Duke's Children",
    "movements": [
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -18015,8 +18037,7 @@
   {
    "work": "Criticism and Fiction",
    "movements": [
-    "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture"
+    "American Realism and the Howells Program"
    ]
   },
   {
@@ -18029,36 +18050,31 @@
   {
    "work": "The Portrait of a Lady",
    "movements": [
-    "American Realism and the Howells Program",
-    "Aestheticism and the Decadent Decade"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "work": "The Ambassadors",
    "movements": [
-    "American Realism and the Howells Program",
-    "Aestheticism and the Decadent Decade"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "work": "The Wings of the Dove",
    "movements": [
-    "American Realism and the Howells Program",
-    "Aestheticism and the Decadent Decade"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "work": "The Golden Bowl",
    "movements": [
-    "American Realism and the Howells Program",
-    "Aestheticism and the Decadent Decade"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "work": "What Maisie Knew",
    "movements": [
-    "American Realism and the Howells Program",
-    "Aestheticism and the Decadent Decade"
+    "American Realism and the Howells Program"
    ]
   },
   {
@@ -18271,15 +18287,8 @@
    ]
   },
   {
-   "work": "'Life in the Iron-Mills'",
-   "movements": [
-    "Chartism and the Condition-of-England Novel"
-   ]
-  },
-  {
    "work": "Margret Howth: A Story of To-Day",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
     "American Realism and the Howells Program"
    ]
   },
@@ -18293,14 +18302,12 @@
   {
    "work": "Dallas Galbraith",
    "movements": [
-    "American Realism and the Howells Program",
-    "Chartism and the Condition-of-England Novel"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "work": "The Gates Ajar",
    "movements": [
-    "Tractarian Prose and the Oxford Movement",
     "American Realism and the Howells Program"
    ]
   },
@@ -18321,14 +18328,7 @@
   {
    "work": "The Silent Partner",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
     "American Realism and the Howells Program"
-   ]
-  },
-  {
-   "work": "Poems on Miscellaneous Subjects",
-   "movements": [
-    "Chartism and the Condition-of-England Novel"
    ]
   },
   {
@@ -18340,7 +18340,6 @@
   {
    "work": "Moses: A Story of the Nile",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
     "Dark Romance and the Puritan Inheritance"
    ]
   },
@@ -18360,8 +18359,7 @@
   {
    "work": "Clotel; or, The President's Daughter",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "Chartism and the Condition-of-England Novel"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -18374,15 +18372,7 @@
   {
    "work": "The Escape; or, A Leap for Freedom",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "Sensation Fiction and the Serial Plot"
-   ]
-  },
-  {
-   "work": "Three Years in Europe",
-   "movements": [
-    "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -18401,8 +18391,7 @@
   {
    "work": "'The Higher Education of Women'",
    "movements": [
-    "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture"
+    "American Realism and the Howells Program"
    ]
   },
   {
@@ -18705,8 +18694,7 @@
   {
    "work": "The Tragic Mary",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Victorian High Seriousness and the Public Poet"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
@@ -18719,52 +18707,42 @@
   {
    "work": "Miss Marjoribanks",
    "movements": [
-    "American Realism and the Howells Program",
-    "Sensation Fiction and the Serial Plot"
+    "Sensation Fiction and the Serial Plot",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Doctor's Family",
    "movements": [
-    "Sensation Fiction and the Serial Plot"
+    "Sensation Fiction and the Serial Plot",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Salem Chapel",
    "movements": [
     "Sensation Fiction and the Serial Plot",
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
-   "work": "A Beleaguered City",
+   "work": "Hester",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Kirsteen",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Autobiography of Margaret Oliphant",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Heir of Redclyffe",
    "movements": [
-    "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
    "work": "The Daisy Chain",
    "movements": [
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -18777,7 +18755,8 @@
   {
    "work": "Pillars of the House",
    "movements": [
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -18790,14 +18769,7 @@
   {
    "work": "John Halifax, Gentleman",
    "movements": [
-    "Carlyle and the Hero-Worship Lecture",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "A Woman's Thoughts about Women",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -18807,15 +18779,10 @@
    ]
   },
   {
-   "work": "The Little Lame Prince and His Travelling Cloak",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
    "work": "Olive",
    "movements": [
-    "Sensation Fiction and the Serial Plot"
+    "Sensation Fiction and the Serial Plot",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -18828,12 +18795,6 @@
    "work": "The Rebel of the Family",
    "movements": [
     "The New Woman and the Fin-de-Siècle Problem Novel"
-   ]
-  },
-  {
-   "work": "The True History of Joshua Davidson",
-   "movements": [
-    "Carlyle and the Hero-Worship Lecture"
    ]
   },
   {
@@ -18852,13 +18813,14 @@
    "work": "Robert Elsmere",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Marcella",
    "movements": [
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -18883,8 +18845,7 @@
   {
    "work": "She: A History of Adventure",
    "movements": [
-    "Muscular Christianity and the Schoolboy Tale of Empire",
-    "Victorian High Seriousness and the Public Poet"
+    "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
@@ -18896,21 +18857,13 @@
   {
    "work": "Cleopatra",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
     "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
    "work": "Eric Brighteyes",
    "movements": [
-    "Muscular Christianity and the Schoolboy Tale of Empire",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The World's Desire",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
@@ -18922,21 +18875,23 @@
   {
    "work": "A Mummer's Wife",
    "movements": [
-    "Aestheticism and the Decadent Decade"
+    "Aestheticism and the Decadent Decade",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Esther Waters",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "American Naturalism and the Determinist Tragedy"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "A Drama in Muslin",
    "movements": [
     "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Aestheticism and the Decadent Decade"
+    "Aestheticism and the Decadent Decade",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -18949,27 +18904,18 @@
   {
    "work": "The Untilled Field",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Aestheticism and the Decadent Decade"
    ]
   },
   {
    "work": "Children of the Ghetto",
    "movements": [
-    "Local Colour and the Regionalist School",
     "The New Woman and the Fin-de-Siècle Problem Novel"
-   ]
-  },
-  {
-   "work": "The King of Schnorrers",
-   "movements": [
-    "Local Colour and the Regionalist School"
    ]
   },
   {
    "work": "Dreamers of the Ghetto",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Arnold and the Criticism of Culture"
    ]
   },
@@ -19024,68 +18970,21 @@
    ]
   },
   {
-   "work": "The Last Days of Pompeii",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Lady of Lyons; or, Love and Pride",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Coming Race",
-   "movements": [
-    "Carlyle and the Hero-Worship Lecture",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Zanoni",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Caxtons: A Family Picture",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Coningsby; or, The New Generation",
-   "movements": [
-    "Carlyle and the Hero-Worship Lecture",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
    "work": "Sybil; or, The Two Nations",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
-    "Carlyle and the Hero-Worship Lecture"
+    "Chartism and the Condition-of-England Novel"
    ]
   },
   {
    "work": "Tancred; or, The New Crusade",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
     "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
    "work": "Lothair",
    "movements": [
-    "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Endymion (Disraeli)",
-   "movements": [
-    "Carlyle and the Hero-Worship Lecture"
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
@@ -19098,8 +18997,7 @@
   {
    "work": "Arms and the Man",
    "movements": [
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -19130,19 +19028,6 @@
    "work": "The Admirable Crichton",
    "movements": [
     "The New Woman and the Fin-de-Siècle Problem Novel"
-   ]
-  },
-  {
-   "work": "The Little Minister",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Margaret Ogilvy",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -19316,8 +19201,7 @@
   {
    "work": "Crumbling Idols",
    "movements": [
-    "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture"
+    "American Realism and the Howells Program"
    ]
   },
   {
@@ -19440,12 +19324,6 @@
    ]
   },
   {
-   "work": "Mont-Saint-Michel and Chartres",
-   "movements": [
-    "Tractarian Prose and the Oxford Movement"
-   ]
-  },
-  {
    "work": "History of the United States during the Administrations of Jefferson and Madison",
    "movements": [
     "American Realism and the Howells Program"
@@ -19481,15 +19359,13 @@
   {
    "work": "The British Barbarians",
    "movements": [
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Arnold and the Criticism of Culture"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "work": "The Evolution of the Idea of God",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Victorian High Seriousness and the Public Poet"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
@@ -19568,35 +19444,30 @@
   {
    "work": "The Story of My Heart",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
     "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
    "work": "The Amateur Poacher",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
    "work": "The Life of the Fields",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
    "work": "After London; or, Wild England",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
     "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
    "work": "Bevis: The Story of a Boy",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
     "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
@@ -19604,40 +19475,6 @@
    "work": "Green Mansions: A Romance of the Tropical Forest",
    "movements": [
     "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "The Purple Land That England Lost",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Lavengro: The Scholar, the Gypsy, the Priest",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The Bible in Spain",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Wild Wales: Its People, Language and Scenery",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Romany Rye",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -19655,8 +19492,7 @@
   {
    "work": "Johnny Ludlow",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "Local Colour and the Regionalist School"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -19669,12 +19505,6 @@
    "work": "The Bab Ballads",
    "movements": [
     "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "H.M.S. Pinafore; or, The Lass That Loved a Sailor",
-   "movements": [
-    "The Aesthetic Turn in 1890s America"
    ]
   },
   {
@@ -19702,12 +19532,6 @@
    "movements": [
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Arnold and the Criticism of Culture"
-   ]
-  },
-  {
-   "work": "The Magistrate",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -19826,20 +19650,7 @@
   {
    "work": "The Dolly Dialogues",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
     "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "The God in the Car",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Many Cargoes",
-   "movements": [
-    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -20193,47 +20004,13 @@
   {
    "work": "Songs of a Semite: The Dance to Death and Other Poems",
    "movements": [
-    "The Aesthetic Turn in 1890s America",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Admetus and Other Poems",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Poems of Emma Lazarus",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "The Aesthetic Turn in 1890s America"
    ]
   },
   {
    "work": "'The Marshes of Glynn'",
    "movements": [
-    "The Aesthetic Turn in 1890s America",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Science of English Verse",
-   "movements": [
-    "Arnold and the Criticism of Culture",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Poems (Lanier, 1877)",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The English Novel",
-   "movements": [
-    "Arnold and the Criticism of Culture",
-    "Victorian High Seriousness and the Public Poet"
+    "The Aesthetic Turn in 1890s America"
    ]
   },
   {
@@ -20293,22 +20070,9 @@
    ]
   },
   {
-   "work": "The Deemster",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The Manxman",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
    "work": "The Christian",
    "movements": [
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Local Colour and the Regionalist School"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -20331,66 +20095,9 @@
    ]
   },
   {
-   "work": "Little Lord Fauntleroy",
-   "movements": [
-    "Mark Twain and the Vernacular Performance",
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "A Little Princess",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
    "work": "Lorna Doone: A Romance of Exmoor",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Sensation Fiction and the Serial Plot"
-   ]
-  },
-  {
-   "work": "The Maid of Sker",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "A Daughter of Heth",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The Strange Adventures of a Phaeton",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The Stickit Minister",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The Raiders",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Beside the Bonnie Brier Bush",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The House with the Green Shutters",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "American Naturalism and the Determinist Tragedy"
    ]
   },
   {
@@ -20454,12 +20161,6 @@
    ]
   },
   {
-   "work": "The Diary of a Nobody",
-   "movements": [
-    "Mark Twain and the Vernacular Performance"
-   ]
-  },
-  {
    "work": "The Tinted Venus: A Farcical Romance",
    "movements": [
     "Aestheticism and the Decadent Decade"
@@ -20493,8 +20194,7 @@
   {
    "work": "The Autocrat of the Breakfast-Table",
    "movements": [
-    "Transcendentalism and the Concord Lyceum",
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
@@ -20523,16 +20223,9 @@
    ]
   },
   {
-   "work": "Ruth Hall",
-   "movements": [
-    "Sensation Fiction and the Serial Plot"
-   ]
-  },
-  {
    "work": "The Amber Gods and Other Stories",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "Aestheticism and the Decadent Decade"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -20587,7 +20280,6 @@
   {
    "work": "A Century of Dishonor",
    "movements": [
-    "The Second American Renaissance and the Whitman-Dickinson Lyric",
     "Local Colour and the Regionalist School"
    ]
   },
@@ -20595,12 +20287,6 @@
    "work": "Ramona",
    "movements": [
     "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Army Life in a Black Regiment",
-   "movements": [
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
    ]
   },
   {
@@ -20623,38 +20309,6 @@
    ]
   },
   {
-   "work": "History of Ireland: Heroic Period",
-   "movements": [
-    "The Second American Renaissance and the Whitman-Dickinson Lyric",
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Cuculain and His Contemporaries",
-   "movements": [
-    "The Second American Renaissance and the Whitman-Dickinson Lyric",
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Hurrish",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Grania: The Story of an Island",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "With the Wild Geese",
-   "movements": [
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
-   ]
-  },
-  {
    "work": "Laurence Bloomfield in Ireland",
    "movements": [
     "Chartism and the Condition-of-England Novel",
@@ -20664,8 +20318,7 @@
   {
    "work": "Poems (Allingham, 1850)",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Local Colour and the Regionalist School"
+    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -20683,7 +20336,6 @@
   {
    "work": "Hwomely Rhymes",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -20744,8 +20396,7 @@
   {
    "work": "Lays of the Scottish Cavaliers",
    "movements": [
-    "Victorian High Seriousness and the Public Poet",
-    "Local Colour and the Regionalist School"
+    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -20797,8 +20448,7 @@
   {
    "work": "Comin' thro' the Rye",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "Local Colour and the Regionalist School"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -20817,7 +20467,6 @@
   {
    "work": "Under Salisbury Spire",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Tractarian Prose and the Oxford Movement"
    ]
   },
@@ -20825,24 +20474,6 @@
    "work": "Miss Toosey's Mission",
    "movements": [
     "Sensation Fiction and the Serial Plot"
-   ]
-  },
-  {
-   "work": "Cecil",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Conversations with Lord Byron",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "The Idler in Italy",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -20855,7 +20486,7 @@
    "work": "The Semi-Detached House",
    "movements": [
     "Sensation Fiction and the Serial Plot",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -20915,16 +20546,9 @@
    ]
   },
   {
-   "work": "Divorce",
-   "movements": [
-    "Sensation Fiction and the Serial Plot"
-   ]
-  },
-  {
    "work": "A History of Nineteenth Century Literature",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Victorian High Seriousness and the Public Poet"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
@@ -21162,14 +20786,12 @@
   {
    "work": "Erewhon: or, Over the Range",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Arnold and the Criticism of Culture"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
    "work": "The Way of All Flesh",
    "movements": [
-    "Arnold and the Criticism of Culture",
     "Aestheticism and the Decadent Decade"
    ]
   },
@@ -21251,22 +20873,19 @@
   {
    "work": "The Ordeal of Richard Feverel: A History of Father and Son",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "Victorian High Seriousness and the Public Poet"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
    "work": "The Egoist: A Comedy in Narrative",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "Arnold and the Criticism of Culture"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
    "work": "Beauchamp's Career",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "Arnold and the Criticism of Culture"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -21278,34 +20897,32 @@
   {
    "work": "Far from the Madding Crowd",
    "movements": [
-    "Local Colour and the Regionalist School",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Return of the Native",
    "movements": [
-    "Local Colour and the Regionalist School"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Mayor of Casterbridge: The Life and Death of a Man of Character",
    "movements": [
-    "Local Colour and the Regionalist School"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Tess of the d'Urbervilles: A Pure Woman Faithfully Presented",
    "movements": [
-    "American Naturalism and the Determinist Tragedy",
-    "Local Colour and the Regionalist School"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Jude the Obscure",
    "movements": [
-    "American Naturalism and the Determinist Tragedy",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -21315,15 +20932,9 @@
    ]
   },
   {
-   "work": "Wessex Poems and Other Verses",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
    "work": "The Woodlanders",
    "movements": [
-    "Local Colour and the Regionalist School"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -21341,8 +20952,7 @@
   {
    "work": "Kidnapped: Being Memoirs of the Adventures of David Balfour in the Year 1751",
    "movements": [
-    "Muscular Christianity and the Schoolboy Tale of Empire",
-    "Local Colour and the Regionalist School"
+    "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
@@ -21427,46 +21037,9 @@
    ]
   },
   {
-   "work": "Alice's Adventures in Wonderland",
-   "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Through the Looking-Glass, and What Alice Found There",
-   "movements": [
-    "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "The Hunting of the Snark: An Agony in Eight Fits",
-   "movements": [
-    "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "Phantasmagoria and Other Poems",
-   "movements": [
-    "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "Sylvie and Bruno",
-   "movements": [
-    "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
    "work": "Dracula",
    "movements": [
     "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "The Snake's Pass",
-   "movements": [
-    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -21482,28 +21055,9 @@
    ]
   },
   {
-   "work": "A Study in Scarlet",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
    "work": "The Sign of Four",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Aestheticism and the Decadent Decade"
-   ]
-  },
-  {
-   "work": "The Adventures of Sherlock Holmes",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The Hound of the Baskervilles",
-   "movements": [
-    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -21563,8 +21117,7 @@
   {
    "work": "Divinity School Address",
    "movements": [
-    "Transcendentalism and the Concord Lyceum",
-    "Tractarian Prose and the Oxford Movement"
+    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
@@ -21582,7 +21135,7 @@
   {
    "work": "English Traits",
    "movements": [
-    "Arnold and the Criticism of Culture"
+    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
@@ -21636,14 +21189,7 @@
   {
    "work": "Papers on Literature and Art",
    "movements": [
-    "Transcendentalism and the Concord Lyceum",
-    "Arnold and the Criticism of Culture"
-   ]
-  },
-  {
-   "work": "These Sad but Glorious Days: Dispatches from Europe",
-   "movements": [
-    "Arnold and the Criticism of Culture"
+    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
@@ -21675,8 +21221,7 @@
   {
    "work": "The Marble Faun",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "Pre-Raphaelitism and the Truth to Nature"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -21688,7 +21233,6 @@
   {
    "work": "Typee: A Peep at Polynesian Life",
    "movements": [
-    "Muscular Christianity and the Schoolboy Tale of Empire",
     "Local Colour and the Regionalist School"
    ]
   },
@@ -21708,8 +21252,7 @@
   {
    "work": "Benito Cereno",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "Muscular Christianity and the Schoolboy Tale of Empire"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -21734,8 +21277,7 @@
   {
    "work": "Clarel: A Poem and Pilgrimage in the Holy Land",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "Victorian High Seriousness and the Public Poet"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -21811,8 +21353,7 @@
   {
    "work": "Uncle Tom's Cabin; or, Life among the Lowly",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "Chartism and the Condition-of-England Novel"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -21968,31 +21509,33 @@
   {
    "work": "New Grub Street",
    "movements": [
-    "Arnold and the Criticism of Culture"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "The Odd Women",
    "movements": [
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
+   ]
+  },
+  {
+   "work": "The Nether World",
+   "movements": [
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "In the Year of Jubilee",
    "movements": [
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "work": "Illustrations of Political Economy",
    "movements": [
     "Chartism and the Condition-of-England Novel"
-   ]
-  },
-  {
-   "work": "Society in America",
-   "movements": [
-    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
@@ -22164,12 +21707,6 @@
    ]
   },
   {
-   "work": "The Iliad of Homer, Done into English Prose",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
    "work": "Letters to Dead Authors",
    "movements": [
     "Arnold and the Criticism of Culture"
@@ -22192,12 +21729,6 @@
    "work": "Later Poems",
    "movements": [
     "Victorian High Seriousness and the Public Poet"
-   ]
-  },
-  {
-   "work": "Reuben Sachs: A Sketch",
-   "movements": [
-    "Arnold and the Criticism of Culture"
    ]
   },
   {
@@ -22338,8 +21869,7 @@
   {
    "work": "David Elginbrod",
    "movements": [
-    "Tractarian Prose and the Oxford Movement",
-    "Local Colour and the Regionalist School"
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
@@ -22508,7 +22038,6 @@
   {
    "work": "Plain Tales from the Hills",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
@@ -22528,8 +22057,7 @@
   {
    "work": "Kim",
    "movements": [
-    "Muscular Christianity and the Schoolboy Tale of Empire",
-    "Local Colour and the Regionalist School"
+    "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
@@ -22543,12 +22071,6 @@
    "work": "Stalky & Co.",
    "movements": [
     "Muscular Christianity and the Schoolboy Tale of Empire"
-   ]
-  },
-  {
-   "work": "The Story of an African Farm",
-   "movements": [
-    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -22567,43 +22089,6 @@
    "work": "Trooper Peter Halket of Mashonaland",
    "movements": [
     "Muscular Christianity and the Schoolboy Tale of Empire"
-   ]
-  },
-  {
-   "work": "While the Billy Boils",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "South-Western Humour and the Tall-Tale Sketch"
-   ]
-  },
-  {
-   "work": "'The Drover's Wife'",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Joe Wilson and His Mates",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "In the Days When the World Was Wide",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "The Three Miss Kings",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
-   "work": "Thirty Years in Australia",
-   "movements": [
-    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -22646,21 +22131,9 @@
    ]
   },
   {
-   "work": "Life in the Clearings versus the Bush",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
-  },
-  {
    "work": "Mark Hurdlestone; or, The Gold Worshipper",
    "movements": [
     "Sensation Fiction and the Serial Plot"
-   ]
-  },
-  {
-   "work": "Flora Lyndsay; or, Passages in the Life of an Emigrant",
-   "movements": [
-    "Local Colour and the Regionalist School"
    ]
   },
   {

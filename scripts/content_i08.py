@@ -41,6 +41,7 @@ META = {
         "American Naturalism and the Determinist Tragedy",
         "South-Western Humour and the Tall-Tale Sketch",
         "The Aesthetic Turn in 1890s America",
+        "Victorian Realism and the Novel of Ordinary Life",
     ],
     # Sources that legitimately stand behind every record of the period.
     "sources_universal": [

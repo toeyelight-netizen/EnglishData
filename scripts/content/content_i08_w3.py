@@ -369,7 +369,7 @@ BAGEHOT = wks("Walter Bagehot", [
 BUTLER = wks("Samuel Butler (1835-1902)", [
  dict(title="Erewhon: or, Over the Range", year="1872",
    gb="Early Scientific Romance and Utopian Speculation, Nonsense Verse and the Parody of Rule", tb=DESIGN+", " + ECON + ", " + EDU,
-   mb="Aestheticism and the Decadent Decade, Arnold and the Criticism of Culture", comp=["1871", "1871"],
+   mb="Aestheticism and the Decadent Decade", comp=["1871", "1871"],
    form="Satirical utopian novel",
    desc="Published anonymously in 1872 and one of the most original satires in English: the account of an imaginary country discovered beyond a mountain range, whose institutions invert those of Victorian England.",
    plot="Higgs, a sheep farmer, crosses the range into Erewhon, where he finds a society in which sickness is a crime and crime is treated as illness, where the churches are 'Musical Banks', where 'hypothetical' language is forbidden, and where the 'Book of the Machines' records the debate on whether machines might become conscious and should be abolished. He falls in love with Arowhena and escapes with her in a balloon.",
@@ -379,7 +379,7 @@ BUTLER = wks("Samuel Butler (1835-1902)", [
    canon="Major canon"),
  dict(title="The Way of All Flesh", year="1903",
    gb="Novel of Development and the Growth Story, Realist Novel of Common Life", tb="Childhood, the child labourer, and the sentimental child".replace("Childhood, the child labourer, and the sentimental child", "Education, the schools, and the cultivation of the self") + ", " + DOUBT + ", " + WOM,
-   mb="Arnold and the Criticism of Culture, Aestheticism and the Decadent Decade", comp=["1873", "1884"],
+   mb="Aestheticism and the Decadent Decade", comp=["1873", "1884"],
    form="Novel (posthumous)",
    desc="Written between 1873 and 1884 and published posthumously in 1903: the most complete fictional indictment of the Victorian family, and the novel that made Butler a hero to the generation of Shaw and the Edwardian critics.",
    plot="The novel follows four generations of the Pontifex family, from the tyrannical clergyman Theobald and his son Ernest, through Ernest's miserable childhood, his disastrous marriage to Ellen, his imprisonment for attempted assault, and his eventual inheritance and freedom, to the narrator Overton's amused commentary on the whole.",

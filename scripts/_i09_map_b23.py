@@ -11,7 +11,7 @@ MAP_B23 = {
     'The Garden Party and Other Stories': (['Katherine Mansfield'],
         ['Modern Short Story and the Magazine Tale'],
         ['Childhood, the nursery, and the Edwardian idyll', 'Class, the servant problem, and the new democracy', 'Death, elegy, and the modern funeral', 'The body, illness, and the sanatorium'],
-        ['Georgian Poetry and the English Lyric']),
+        []),
     'A Drunk Man Looks at the Thistle': (['Hugh MacDiarmid'],
         ['Modernist Long Poem and the Mythical Method', 'Dialect Poem and Vernacular Performance'],
         ['Wales, Scotland, and the Celtic periphery', 'Religion, doubt, and the post-war faith', 'Class, the servant problem, and the new democracy', 'The body, illness, and the sanatorium'],

@@ -2131,9 +2131,7 @@
   },
   {
    "author": "Ada Cambridge",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
+   "movements": []
   },
   {
    "author": "Alfred Austin",
@@ -2185,7 +2183,6 @@
    "author": "Amy Levy",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Arnold and the Criticism of Culture",
     "The Dramatic Monologue and the Masked Voice",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
@@ -2195,21 +2192,19 @@
    "author": "Andrew Lang",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Pre-Raphaelitism and the Truth to Nature",
-    "Victorian High Seriousness and the Public Poet"
+    "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
    "author": "Anna Julia Cooper",
    "movements": [
-    "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "author": "Anne Brontë",
    "movements": [
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -2228,24 +2223,22 @@
    "author": "Anthony Hope",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Muscular Christianity and the Schoolboy Tale of Empire",
-    "Victorian High Seriousness and the Public Poet"
+    "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
    "author": "Anthony Trollope",
    "movements": [
-    "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel",
     "Sensation Fiction and the Serial Plot",
-    "Tractarian Prose and the Oxford Movement"
+    "Tractarian Prose and the Oxford Movement",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "author": "Arthur Conan Doyle",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
@@ -2272,8 +2265,7 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -2286,9 +2278,7 @@
   },
   {
    "author": "Augustin Daly",
-   "movements": [
-    "Sensation Fiction and the Serial Plot"
-   ]
+   "movements": []
   },
   {
    "author": "Beatrix Potter",
@@ -2299,10 +2289,8 @@
   {
    "author": "Benjamin Disraeli",
    "movements": [
-    "Carlyle and the Hero-Worship Lecture",
     "Chartism and the Condition-of-England Novel",
-    "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
@@ -2314,8 +2302,7 @@
   {
    "author": "Bram Stoker",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Local Colour and the Regionalist School"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
@@ -2327,9 +2314,7 @@
   },
   {
    "author": "Catherine Gore",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
+   "movements": []
   },
   {
    "author": "Celia Thaxter",
@@ -2338,7 +2323,6 @@
   {
    "author": "Charles Dickens",
    "movements": [
-    "Carlyle and the Hero-Worship Lecture",
     "Chartism and the Condition-of-England Novel",
     "Sensation Fiction and the Serial Plot"
    ]
@@ -2384,7 +2368,7 @@
    "author": "Charlotte Brontë",
    "movements": [
     "Chartism and the Condition-of-England Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -2393,7 +2377,7 @@
     "Muscular Christianity and the Schoolboy Tale of Empire",
     "Sensation Fiction and the Serial Plot",
     "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -2440,9 +2424,8 @@
   {
    "author": "Dinah Mulock Craik",
    "movements": [
-    "Carlyle and the Hero-Worship Lecture",
     "Sensation Fiction and the Serial Plot",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -2503,10 +2486,7 @@
   },
   {
    "author": "Edward Bulwer-Lytton",
-   "movements": [
-    "Carlyle and the Hero-Worship Lecture",
-    "Victorian High Seriousness and the Public Poet"
-   ]
+   "movements": []
   },
   {
    "author": "Edward FitzGerald",
@@ -2530,7 +2510,6 @@
    "author": "Eliza Lynn Linton",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Carlyle and the Hero-Worship Lecture",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement"
    ]
@@ -2548,7 +2527,7 @@
     "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel",
     "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -2567,9 +2546,7 @@
    "author": "Elizabeth Stuart Phelps",
    "movements": [
     "American Realism and the Howells Program",
-    "Chartism and the Condition-of-England Novel",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Tractarian Prose and the Oxford Movement"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -2589,28 +2566,23 @@
    "author": "Emily Eden",
    "movements": [
     "Sensation Fiction and the Serial Plot",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "author": "Emily Lawless",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
-   ]
+   "movements": []
   },
   {
    "author": "Emma Lazarus",
    "movements": [
     "American Realism and the Howells Program",
-    "The Aesthetic Turn in 1890s America",
-    "Victorian High Seriousness and the Public Poet"
+    "The Aesthetic Turn in 1890s America"
    ]
   },
   {
    "author": "Emma Marshall",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Tractarian Prose and the Oxford Movement"
    ]
   },
@@ -2640,27 +2612,20 @@
   },
   {
    "author": "Fanny Fern",
-   "movements": [
-    "Sensation Fiction and the Serial Plot"
-   ]
+   "movements": []
   },
   {
    "author": "Frances E. W. Harper",
    "movements": [
     "American Realism and the Howells Program",
-    "Chartism and the Condition-of-England Novel",
     "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School",
-    "Mark Twain and the Vernacular Performance",
-    "Victorian High Seriousness and the Public Poet"
+    "Mark Twain and the Vernacular Performance"
    ]
   },
   {
    "author": "Frances Hodgson Burnett",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "Mark Twain and the Vernacular Performance"
-   ]
+   "movements": []
   },
   {
    "author": "Frances Power Cobbe",
@@ -2705,23 +2670,16 @@
    "author": "George Bernard Shaw",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "author": "George Borrow",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "Victorian High Seriousness and the Public Poet"
-   ]
+   "movements": []
   },
   {
    "author": "George Douglas Brown",
-   "movements": [
-    "American Naturalism and the Determinist Tragedy",
-    "Local Colour and the Regionalist School"
-   ]
+   "movements": []
   },
   {
    "author": "George Egerton",
@@ -2736,29 +2694,25 @@
     "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel",
     "Pre-Raphaelitism and the Truth to Nature",
-    "Ruskin and the Political Economy of Art",
     "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "author": "George Gissing",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "author": "George Grossmith",
-   "movements": [
-    "Mark Twain and the Vernacular Performance"
-   ]
+   "movements": []
   },
   {
    "author": "George MacDonald",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Local Colour and the Regionalist School",
     "Pre-Raphaelitism and the Truth to Nature",
     "Tractarian Prose and the Oxford Movement"
    ]
@@ -2766,29 +2720,25 @@
   {
    "author": "George Meredith",
    "movements": [
-    "Arnold and the Criticism of Culture",
     "Pre-Raphaelitism and the Truth to Nature",
     "Sensation Fiction and the Serial Plot",
     "The Dramatic Monologue and the Masked Voice",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "author": "George Moore",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "American Naturalism and the Determinist Tragedy",
     "Arnold and the Criticism of Culture",
-    "Local Colour and the Regionalist School",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "author": "George Saintsbury",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Victorian High Seriousness and the Public Poet"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
@@ -2841,21 +2791,18 @@
     "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
     "Muscular Christianity and the Schoolboy Tale of Empire",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "author": "H. Rider Haggard",
    "movements": [
-    "Muscular Christianity and the Schoolboy Tale of Empire",
-    "Victorian High Seriousness and the Public Poet"
+    "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
    "author": "Hall Caine",
    "movements": [
-    "Local Colour and the Regionalist School",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
@@ -2863,7 +2810,6 @@
    "author": "Hamlin Garland",
    "movements": [
     "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture",
     "Local Colour and the Regionalist School",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
@@ -2878,7 +2824,6 @@
   {
    "author": "Harriet Beecher Stowe",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
     "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School"
    ]
@@ -2902,14 +2847,12 @@
    "movements": [
     "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel",
-    "Tractarian Prose and the Oxford Movement",
-    "Transcendentalism and the Concord Lyceum"
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
    "author": "Harriet Prescott Spofford",
    "movements": [
-    "Aestheticism and the Decadent Decade",
     "Dark Romance and the Puritan Inheritance"
    ]
   },
@@ -2922,22 +2865,19 @@
   {
    "author": "Helen Hunt Jackson",
    "movements": [
-    "Local Colour and the Regionalist School",
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+    "Local Colour and the Regionalist School"
    ]
   },
   {
    "author": "Helen Mathers",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Sensation Fiction and the Serial Plot"
    ]
   },
   {
    "author": "Henry Adams",
    "movements": [
-    "American Realism and the Howells Program",
-    "Tractarian Prose and the Oxford Movement"
+    "American Realism and the Howells Program"
    ]
   },
   {
@@ -2960,17 +2900,13 @@
   {
    "author": "Henry James",
    "movements": [
-    "Aestheticism and the Decadent Decade",
     "American Realism and the Howells Program",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "author": "Henry Lawson",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "South-Western Humour and the Tall-Tale Sketch"
-   ]
+   "movements": []
   },
   {
    "author": "Henry Newbolt",
@@ -3005,17 +2941,13 @@
     "American Realism and the Howells Program",
     "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School",
-    "Muscular Christianity and the Schoolboy Tale of Empire",
     "The Second American Renaissance and the Whitman-Dickinson Lyric",
-    "Transcendentalism and the Concord Lyceum",
-    "Victorian High Seriousness and the Public Poet"
+    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
    "author": "Ian Maclaren",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
+   "movements": []
   },
   {
    "author": "Ida B. Wells",
@@ -3033,16 +2965,13 @@
    "author": "Israel Zangwill",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Local Colour and the Regionalist School",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "author": "J. M. Barrie",
    "movements": [
-    "Local Colour and the Regionalist School",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -3191,10 +3120,7 @@
   },
   {
    "author": "Lewis Carroll",
-   "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Victorian High Seriousness and the Public Poet"
-   ]
+   "movements": []
   },
   {
    "author": "Lionel Johnson",
@@ -3221,24 +3147,20 @@
   {
    "author": "Margaret Fuller",
    "movements": [
-    "Arnold and the Criticism of Culture",
     "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
    "author": "Margaret Oliphant",
    "movements": [
-    "American Realism and the Howells Program",
     "Sensation Fiction and the Serial Plot",
     "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "author": "Marguerite Gardiner, Countess of Blessington",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
+   "movements": []
   },
   {
    "author": "Marie Corelli",
@@ -3261,7 +3183,7 @@
     "Arnold and the Criticism of Culture",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -3325,8 +3247,7 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
-    "Pre-Raphaelitism and the Truth to Nature",
-    "Victorian High Seriousness and the Public Poet"
+    "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
@@ -3339,7 +3260,6 @@
   {
    "author": "Mrs Henry Wood",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Sensation Fiction and the Serial Plot"
    ]
   },
@@ -3348,7 +3268,6 @@
    "movements": [
     "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School",
-    "Pre-Raphaelitism and the Truth to Nature",
     "Transcendentalism and the Concord Lyceum"
    ]
   },
@@ -3366,7 +3285,6 @@
    "author": "Olive Schreiner",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
@@ -3375,7 +3293,6 @@
    "author": "Oliver Wendell Holmes Sr.",
    "movements": [
     "Dark Romance and the Puritan Inheritance",
-    "The Second American Renaissance and the Whitman-Dickinson Lyric",
     "Transcendentalism and the Concord Lyceum"
    ]
   },
@@ -3413,8 +3330,6 @@
   {
    "author": "Ralph Waldo Emerson",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Tractarian Prose and the Oxford Movement",
     "Transcendentalism and the Concord Lyceum"
    ]
   },
@@ -3422,7 +3337,6 @@
    "author": "Rebecca Harding Davis",
    "movements": [
     "American Realism and the Howells Program",
-    "Chartism and the Condition-of-England Novel",
     "Dark Romance and the Puritan Inheritance"
    ]
   },
@@ -3435,7 +3349,6 @@
   {
    "author": "Richard Doddridge Blackmore",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Sensation Fiction and the Serial Plot"
    ]
   },
@@ -3455,9 +3368,7 @@
   {
    "author": "Richard Jefferies",
    "movements": [
-    "Local Colour and the Regionalist School",
-    "Pre-Raphaelitism and the Truth to Nature",
-    "Victorian High Seriousness and the Public Poet"
+    "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
@@ -3495,7 +3406,6 @@
    "author": "Robert Louis Stevenson",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
@@ -3513,7 +3423,6 @@
    "author": "Rudyard Kipling",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire",
     "Pre-Raphaelitism and the Truth to Nature"
    ]
@@ -3528,9 +3437,7 @@
   },
   {
    "author": "Samuel Rutherford Crockett",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
+   "movements": []
   },
   {
    "author": "Sarah Grand",
@@ -3549,9 +3456,7 @@
   {
    "author": "Sidney Lanier",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "The Aesthetic Turn in 1890s America",
-    "Victorian High Seriousness and the Public Poet"
+    "The Aesthetic Turn in 1890s America"
    ]
   },
   {
@@ -3562,10 +3467,7 @@
   },
   {
    "author": "Standish James O'Grady",
-   "movements": [
-    "Local Colour and the Regionalist School",
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
-   ]
+   "movements": []
   },
   {
    "author": "Stephen Crane",
@@ -3586,7 +3488,6 @@
    "author": "Susanna Moodie",
    "movements": [
     "Chartism and the Condition-of-England Novel",
-    "Local Colour and the Regionalist School",
     "Sensation Fiction and the Serial Plot"
    ]
   },
@@ -3615,18 +3516,14 @@
   {
    "author": "Thomas Hardy",
    "movements": [
-    "American Naturalism and the Determinist Tragedy",
-    "Local Colour and the Regionalist School",
     "The Dramatic Monologue and the Masked Voice",
     "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Victorian High Seriousness and the Public Poet"
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
    "author": "Thomas Wentworth Higginson",
-   "movements": [
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
-   ]
+   "movements": []
   },
   {
    "author": "Toru Dutt",
@@ -3661,24 +3558,19 @@
   {
    "author": "W. H. Hudson",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Local Colour and the Regionalist School",
-    "Victorian High Seriousness and the Public Poet"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
    "author": "W. S. Gilbert",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Pre-Raphaelitism and the Truth to Nature",
-    "The Aesthetic Turn in 1890s America"
+    "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
    "author": "W. W. Jacobs",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
+   "movements": []
   },
   {
    "author": "Walt Whitman",
@@ -3714,34 +3606,28 @@
    "author": "William Allingham",
    "movements": [
     "Chartism and the Condition-of-England Novel",
-    "Local Colour and the Regionalist School",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
    "author": "William Barnes",
    "movements": [
-    "Local Colour and the Regionalist School",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
    "author": "William Black",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
+   "movements": []
   },
   {
    "author": "William Dean Howells",
    "movements": [
-    "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "author": "William Edmondstoune Aytoun",
    "movements": [
-    "Local Colour and the Regionalist School",
     "The Dramatic Monologue and the Masked Voice",
     "Victorian High Seriousness and the Public Poet"
    ]
@@ -3758,7 +3644,8 @@
    "movements": [
     "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel",
-    "Sensation Fiction and the Serial Plot"
+    "Sensation Fiction and the Serial Plot",
+    "Victorian Realism and the Novel of Ordinary Life"
    ]
   },
   {
@@ -3773,10 +3660,7 @@
    "author": "William Wells Brown",
    "movements": [
     "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel",
     "Dark Romance and the Puritan Inheritance",
-    "Sensation Fiction and the Serial Plot",
     "Transcendentalism and the Concord Lyceum"
    ]
   },

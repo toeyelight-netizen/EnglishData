@@ -1392,8 +1392,31 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
     Science* (Sensation Fiction) and Melville's *Billy Budd* (Dark Romance).
   - Victorian High Seriousness was also removed from Lear's nonsense books,
     Gilbert's ballads and operas, and Jerome.
-  - Coverage is now installment 8 **799/885** and installment 9 **359/498**.
-    A work with no movement is preferred to a wrong one.
+  - After this step coverage was installment 8 799/885 and installment 9
+    359/498. A work with no movement is preferred to a wrong one.
+- **Movement audit, round 2.** Installment 8 had no movement for Victorian
+  realism, so its central novels had been filed under poetry, sensation or
+  criticism movements. **Victorian Realism and the Novel of Ordinary Life**
+  (1847–95) was added. It now covers 57 novels by 14 authors, including
+  Thackeray, the Brontës, Gaskell, Trollope, George Eliot, Oliphant, Hardy,
+  Gissing and Moore. Every other rule kept a recorded list of exceptions:
+  - **Nationality.** American movements need an American author. Hardy, the
+    Kailyard writers, Kipling and Conan Doyle had been under "Local Colour
+    and the Regionalist School", which is defined by American regions.
+    British movements were removed from American authors (*Uncle Tom's Cabin*
+    under Chartism, Melville under Muscular Christianity). Kept: Boucicault and
+    Alcott under Sensation Fiction, Frost's *North of Boston* under Georgian
+    Poetry, Garvey under the Harlem Renaissance.
+  - **Medium and membership.** Victorian High Seriousness and the Public Poet
+    stays on verse only, plus the verse dramas *Becket*, *Atalanta in Calydon*
+    and *The Seraphim*. The criticism movements (Arnold, Carlyle, Ruskin) are
+    off novels, except *Sartor Resartus* and *Robert Elsmere*. The Auden
+    Generation is kept for the group its own description names. Henry James
+    and Lewis Carroll no longer sit under Aestheticism.
+  - **Moves.** Coward's comedies went to the Drawing-Room Stage, and two 1930s
+    novels to the Hungry Thirties, the movements whose descriptions name them.
+  - Work–movement links: installment 8 −205/+58, installment 9 −46/+6.
+    Coverage is now installment 8 **723/885** and installment 9 **337/498**.
 - **Relationship lists** in the built JSON are de-duplicated (a theme name
   split at its own commas had been listed once per fragment).
 
@@ -1408,12 +1431,9 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
      coverage wave H but never added. She is the one ledger row still marked
      TODO; the other 209 rows were checked against the database and marked
      DONE.
-   - Movement audit, continued. Installment 8 has no movement for Victorian
-     realism, so Eliot, Gaskell, Trollope and the Brontës carry poetry or
-     sensation movements. American movements are linked to British works
-     (Hardy under "Local Colour and the Regionalist School", *Tess* under
-     American Naturalism). Poetry movements are linked to prose works
-     (installment 9's Auden Generation on Waugh, Coward and Wodehouse).
+   - Movement audit, last step. "The Edwardian Country House and the
+     Condition of England" (1901–14) is still a catch-all for Conrad, the
+     adventure romances (Orczy, Sabatini, Wren, Buchan) and Coward's comedies.
    - Out-of-span movement links in installments 1–7 (219 more than ten years
      out) have not been reviewed.
 

@@ -35,7 +35,7 @@ MAP_B1 = {
     'The Shape of Things to Come: The Ultimate Revolution': (['Herbert George Wells'],
         ['Scientific Romance and the Utopian Tale', 'Dystopian Fiction and the Anti-Utopian Satire'],
         ['Science, technology, and the machine age', 'The machine, the motor car, and the modern tempo', 'Totalitarianism, propaganda, and the political novel'],
-        ['The Scientific Romance and the English Utopia', 'The Auden Generation and the Thirties Poem']),
+        ['The Scientific Romance and the English Utopia']),
     'The History of Mr Polly': (['Herbert George Wells'],
         ['Condition-of-England Novel and the Edwardian Social Panorama', 'Comic Novel and the Satire of Manners'],
         ['Class, the servant problem, and the new democracy', 'The suburb, the villa, and the new domesticity', 'The countryside, the vanishing rural world, and the motor road'],

@@ -11,7 +11,7 @@ MAP_B36 = {
     'Flora Lyndsay; or, Passages in the Life of an Emigrant': (['Susanna Moodie'],
         ['Novel of Development and the Growth Story', 'Local-Colour Sketch and the Regional Portrait'],
         ['The woman question, married disability, and the New Woman', 'The woman question, married disability, and the New Woman', 'The woman question, married disability, and the New Woman', 'Regional identity and the American sectional character', 'Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations'],
-        ['Local Colour and the Regionalist School']),
+        []),
     "'The Song of the Lower Classes'": (['Ernest Jones'],
         ['Political Verse and the Poem of Public Cause'],
         ['Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations', 'Money, credit, speculation, and the joint-stock imagination', 'Money, credit, speculation, and the joint-stock imagination', 'Money, credit, speculation, and the joint-stock imagination', 'Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole'],

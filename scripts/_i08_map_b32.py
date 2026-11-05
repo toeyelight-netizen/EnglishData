@@ -83,7 +83,7 @@ MAP_B32 = {
     'The Iliad of Homer, Done into English Prose': (['Andrew Lang'],
         ['Review Essay and Quarterly Argument', 'Lecture and Popular Address'],
         ['Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole', 'Art versus life, and the romance of the artist', 'Art versus life, and the romance of the artist', 'Science, religion, and the question of design'],
-        ['Victorian High Seriousness and the Public Poet']),
+        []),
     'Letters to Dead Authors': (['Andrew Lang'],
         ['Review Essay and Quarterly Argument', 'Nonsense Verse and the Parody of Rule'],
         ['Art versus life, and the romance of the artist', 'Art versus life, and the romance of the artist', 'The machinery of print: the serial, the magazine, and the book trade', 'The machinery of print: the serial, the magazine, and the book trade', 'The machinery of print: the serial, the magazine, and the book trade', 'Education, the schools, and the cultivation of the self', 'Education, the schools, and the cultivation of the self', 'Education, the schools, and the cultivation of the self'],

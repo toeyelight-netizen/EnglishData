@@ -348,7 +348,7 @@ FIELD = wks("Michael Field", [
    sig="Wild Honey from Various Thyme is the final testament of one of the most remarkable literary partnerships in English and a key text in the history of Victorian women's writing and of the aesthetic movement."),
  dict(title="The Tragic Mary", year="1890",
    gb="Victorian Verse Drama and Revived Tragedy, Problem Play and Well-Made Drama", tb=WOM+", " + SEX + ", " + DESIGN,
-   mb="Aestheticism and the Decadent Decade, Victorian High Seriousness and the Public Poet", comp=["1889", "1890"],
+   mb="Aestheticism and the Decadent Decade", comp=["1889", "1890"],
    form="Verse drama",
    desc="Published in 1890 and the finest of the Michael Field verse plays: a drama of Mary Queen of Scots, her marriages and her imprisonment.",
    plot="The play follows Mary through the crisis of 1566-67, from her estrangement from Darnley and his murder to her marriage with Bothwell and her downfall, and reads her as a figure of tragic passion rather than of political failure.",

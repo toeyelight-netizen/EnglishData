@@ -67,7 +67,7 @@ MAP_B24 = {
     'Flowering Judas': (['Katherine Anne Porter'],
         ['Modern Short Story and the Magazine Tale'],
         ['Sexuality, the new psychology, and the Freudian century', 'Religion, doubt, and the post-war faith', 'Class, the servant problem, and the new democracy'],
-        ['The Southern Renaissance and the American Regional Novel', 'The Celtic Twilight and the Irish Short Story']),
+        ['The Southern Renaissance and the American Regional Novel']),
     'Pale Horse, Pale Rider': (['Katherine Anne Porter'],
         ['Modern Short Story and the Magazine Tale', 'Novel of Consciousness and the Stream of Mind'],
         ['The body, illness, and the sanatorium', 'The First World War and the myth of sacrifice', 'Race, the colour line, and the New Negro', 'Death, elegy, and the modern funeral'],

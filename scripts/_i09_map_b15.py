@@ -51,7 +51,7 @@ MAP_B15 = {
     'The Lone Swallows': (['Henry Williamson'],
         ['War Memoir and the Autobiographical Testimony', 'Autobiography and the Modern Memoir'],
         ['The First World War and the myth of sacrifice', 'Shell shock, mourning, and the unquiet dead', 'The countryside, the vanishing rural world, and the motor road'],
-        ['Trench Poetry and the Literature of the First World War']),
+        []),
     'Tarka the Otter': (['Henry Williamson'],
         ['Nature Essay and the Rural Observation', 'Provincial Novel and the British Rural Chronicle'],
         ['The countryside, the vanishing rural world, and the motor road', 'Myth, ritual, and the primitive imagination', 'Death, elegy, and the modern funeral'],

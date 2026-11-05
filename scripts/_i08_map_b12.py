@@ -71,7 +71,7 @@ MAP_B12 = {
     'Crumbling Idols': (['Hamlin Garland'],
         ['Review Essay and Quarterly Argument', 'Lecture and Popular Address'],
         ['Art versus life, and the romance of the artist', 'Art versus life, and the romance of the artist', 'Democracy, individualism, and the American experiment', 'Democracy, individualism, and the American experiment', 'Democracy, individualism, and the American experiment', 'Regional identity and the American sectional character'],
-        ['American Realism and the Howells Program', 'Arnold and the Criticism of Culture']),
+        ['American Realism and the Howells Program']),
     'A Son of the Middle Border': (['Hamlin Garland'],
         ['Social Inquiry and the Documented Survey', 'Local-Colour Sketch and the Regional Portrait'],
         ['The closing of the American frontier', 'Childhood, the child labourer, and the sentimental child', 'Childhood, the child labourer, and the sentimental child', 'Regional identity and the American sectional character'],

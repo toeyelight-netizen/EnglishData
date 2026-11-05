@@ -63,7 +63,7 @@ MAP_B16 = {
     'Faustus Kelly': (["Flann O'Brien"],
         ['Comedy of Manners and the Drawing-Room Stage', 'Peasant Play and the Irish Dramatic Movement'],
         ['Ireland, Home Rule, and the national question', 'The absurd, the void, and the failure of meaning', 'Religion, doubt, and the post-war faith'],
-        ['The American Theatre and the Modern Stage']),
+        []),
     'Cruiskeen Lawn (columns)': (["Flann O'Brien"],
         ['Critical Essay and the Modern Review', 'Nonsense Verse and the Parody of Rule'],
         ['Ireland, Home Rule, and the national question', 'Mass society, the crowd, and the individual talent', 'The absurd, the void, and the failure of meaning'],
