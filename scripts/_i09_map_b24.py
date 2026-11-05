@@ -63,7 +63,7 @@ MAP_B24 = {
     'Of Time and the River': (['Thomas Wolfe'],
         ['Novel of Development and the Growth Story', 'Experimental Novel and the Modernist Form'],
         ['Time, memory, and the duration of consciousness', 'Exile, expatriation, and the lost generation', 'Childhood, the nursery, and the Edwardian idyll', 'The absurd, the void, and the failure of meaning'],
-        ['The Southern Renaissance and the American Regional Novel', 'The Lost Generation and the Expatriate Novel']),
+        ['The Southern Renaissance and the American Regional Novel']),
     'Flowering Judas': (['Katherine Anne Porter'],
         ['Modern Short Story and the Magazine Tale'],
         ['Sexuality, the new psychology, and the Freudian century', 'Religion, doubt, and the post-war faith', 'Class, the servant problem, and the new democracy'],

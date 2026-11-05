@@ -31,7 +31,7 @@ MAP_B12 = {
     "The People's Palace": (['Sacheverell Sitwell'],
         ['Modernist Lyric and the New Idiom'],
         ['Myth, ritual, and the primitive imagination', 'The little magazine and the modernist institution'],
-        ['Vorticism and the Modernist Little Magazine', 'Imagism and the Free-Verse Revolution']),
+        []),
     'The Spanish Scene': (['Sacheverell Sitwell'],
         ['Documentary Prose and the Reportage Book', 'Critical Essay and the Modern Review'],
         ['Myth, ritual, and the primitive imagination', 'Religion, doubt, and the post-war faith', 'Time, memory, and the duration of consciousness'],

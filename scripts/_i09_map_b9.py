@@ -27,7 +27,7 @@ MAP_B9 = {
     'A Street in Bronzeville': (['Gwendolyn Brooks'],
         ['New Negro Lyric and the Harlem Renaissance Poem', 'Modernist Lyric and the New Idiom'],
         ['Race, the colour line, and the New Negro', 'The American city, the machine, and the moneyed metropolis', 'The woman question, married disability, and the New Woman', 'Death, the soul, and the afterlife'],
-        ['The Harlem Renaissance and the New Negro']),
+        []),
     'Not Without Laughter': (['Langston Hughes'],
         ['Novel of Development and the Growth Story', 'Regional Novel and the American Local-Colour Inheritance'],
         ['Race, the colour line, and the New Negro', 'Religion, doubt, and the post-war faith', 'Education, the schools, and the cultivation of the self', 'Regional identity and the American sectional character'],

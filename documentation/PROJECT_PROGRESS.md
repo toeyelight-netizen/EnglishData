@@ -1416,7 +1416,22 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
   - **Moves.** Coward's comedies went to the Drawing-Room Stage, and two 1930s
     novels to the Hungry Thirties, the movements whose descriptions name them.
   - Work–movement links: installment 8 −205/+58, installment 9 −46/+6.
-    Coverage is now installment 8 **723/885** and installment 9 **337/498**.
+    After round 2 coverage was installment 8 723/885 and installment 9 337/498.
+- **Movement audit, round 3** (installment 9 membership). Each movement was
+  checked against the writers its own description names.
+  - "The Edwardian Country House and the Condition of England" keeps the
+    Edwardian social novel: Galsworthy, Bennett, Wells, Forster, Lawrence,
+    Ford, Saki, *The Secret Agent* and *Crome Yellow*. It loses 26 adventure
+    romances, thrillers, essays and plays (*The Scarlet Pimpernel*, *Beau
+    Geste*, Buchan, *Hay Fever*).
+  - Bloomsbury loses Maugham, Beerbohm, Delafield, Compton-Burnett, Warner and
+    Radclyffe Hall.
+  - Imagism and Vorticism lose the Sitwells.
+  - The Harlem Renaissance loses Richard Wright and Gwendolyn Brooks (Chicago,
+    the next generation).
+  - The Lost Generation keeps only the expatriates.
+  - In all, 64 links were removed. Installment 8 coverage stays **723/885**;
+    installment 9 is now **297/498**.
 - **Relationship lists** in the built JSON are de-duplicated (a theme name
   split at its own commas had been listed once per fragment).
 
@@ -1431,9 +1446,9 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
      coverage wave H but never added. She is the one ledger row still marked
      TODO; the other 209 rows were checked against the database and marked
      DONE.
-   - Movement audit, last step. "The Edwardian Country House and the
-     Condition of England" (1901–14) is still a catch-all for Conrad, the
-     adventure romances (Orczy, Sabatini, Wren, Buchan) and Coward's comedies.
+   - Installment 9 has no movement for writers outside the named schools
+     (Maugham, Wodehouse, Buchan, Sabatini). Candidate additions are the
+     Bright Young Things (Waugh, Powell, Henry Green) and the Inklings.
    - Out-of-span movement links in installments 1–7 (219 more than ten years
      out) have not been reviewed.
 

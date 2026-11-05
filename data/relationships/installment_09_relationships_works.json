@@ -9960,31 +9960,7 @@
  ],
  "work_movements": [
   {
-   "work": "Heart of Darkness",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Lord Jim",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Nostromo: A Tale of the Seaboard",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
    "work": "The Secret Agent: A Simple Tale",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Under Western Eyes",
    "movements": [
     "The Edwardian Country House and the Condition of England"
    ]
@@ -10197,7 +10173,6 @@
   {
    "work": "Hay Fever",
    "movements": [
-    "The Edwardian Country House and the Condition of England",
     "The Drawing-Room Stage and the Comedy of Manners"
    ]
   },
@@ -10217,12 +10192,6 @@
    "work": "Design for Living",
    "movements": [
     "The Drawing-Room Stage and the Comedy of Manners"
-   ]
-  },
-  {
-   "work": "The Vortex",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
    ]
   },
   {
@@ -10268,12 +10237,6 @@
    ]
   },
   {
-   "work": "Seven Pillars of Wisdom",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
    "work": "The Complete Short Stories of Saki",
    "movements": [
     "The Edwardian Country House and the Condition of England"
@@ -10316,97 +10279,15 @@
    ]
   },
   {
-   "work": "Of Human Bondage",
-   "movements": [
-    "The Edwardian Country House and the Condition of England",
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "The Moon and Sixpence",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Cakes and Ale",
-   "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "The Man Who Was Thursday: A Nightmare",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
    "work": "The Innocence of Father Brown",
    "movements": [
     "The Golden Age of Detective Fiction"
    ]
   },
   {
-   "work": "Orthodoxy",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
    "work": "The Napoleon of Notting Hill",
    "movements": [
-    "The Edwardian Country House and the Condition of England",
     "The Scientific Romance and the English Utopia"
-   ]
-  },
-  {
-   "work": "The Thirty-Nine Steps",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Greenmantle",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "The Three Hostages",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Zuleika Dobson; or, An Oxford Love Story",
-   "movements": [
-    "The Edwardian Country House and the Condition of England",
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "A Christmas Garland",
-   "movements": [
-    "The Edwardian Country House and the Condition of England",
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "Cautionary Tales for Children",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "The Path to Rome",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Testament of Youth",
-   "movements": [
-    "The Waste Land Generation and the Mythical Method"
    ]
   },
   {
@@ -10447,8 +10328,7 @@
   {
    "work": "The Middle Parts of Fortune: Somme and Ancre, 1916",
    "movements": [
-    "Trench Poetry and the Literature of the First World War",
-    "The Hungry Thirties and the Documentary Novel"
+    "Trench Poetry and the Literature of the First World War"
    ]
   },
   {
@@ -10461,8 +10341,7 @@
   {
    "work": "Marlborough and Other Poems",
    "movements": [
-    "Trench Poetry and the Literature of the First World War",
-    "Georgian Poetry and the English Lyric"
+    "Trench Poetry and the Literature of the First World War"
    ]
   },
   {
@@ -10475,8 +10354,7 @@
   {
    "work": "The Winnowing Fan: Poems on the Great War",
    "movements": [
-    "Trench Poetry and the Literature of the First World War",
-    "Georgian Poetry and the English Lyric"
+    "Trench Poetry and the Literature of the First World War"
    ]
   },
   {
@@ -10488,15 +10366,13 @@
   {
    "work": "The Farmer's Bride",
    "movements": [
-    "Georgian Poetry and the English Lyric",
-    "The Waste Land Generation and the Mythical Method"
+    "Georgian Poetry and the English Lyric"
    ]
   },
   {
    "work": "The Contemplative Quarry",
    "movements": [
-    "Georgian Poetry and the English Lyric",
-    "Imagism and the Free-Verse Revolution"
+    "Georgian Poetry and the English Lyric"
    ]
   },
   {
@@ -10574,12 +10450,6 @@
    ]
   },
   {
-   "work": "The Bridge of San Luis Rey",
-   "movements": [
-    "The Lost Generation and the Expatriate Novel"
-   ]
-  },
-  {
    "work": "Miss Lonelyhearts",
    "movements": [
     "The Hungry Thirties and the Documentary Novel",
@@ -10601,14 +10471,12 @@
   {
    "work": "Native Son",
    "movements": [
-    "The Harlem Renaissance and the New Negro",
     "The Hungry Thirties and the Documentary Novel"
    ]
   },
   {
    "work": "Uncle Tom's Children",
    "movements": [
-    "The Harlem Renaissance and the New Negro",
     "The Hungry Thirties and the Documentary Novel"
    ]
   },
@@ -10656,12 +10524,6 @@
    ]
   },
   {
-   "work": "Consequences",
-   "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
    "work": "Dusty Answer",
    "movements": [
     "The Bloomsbury Group and the Novel of Consciousness"
@@ -10669,36 +10531,6 @@
   },
   {
    "work": "The Weather in the Streets",
-   "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "Pastors and Masters",
-   "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "A House and Its Head",
-   "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "Lolly Willowes; or, The Loving Huntsman",
-   "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "Mr Fortune's Maggot",
-   "movements": [
-    "The Bloomsbury Group and the Novel of Consciousness"
-   ]
-  },
-  {
-   "work": "The Well of Loneliness",
    "movements": [
     "The Bloomsbury Group and the Novel of Consciousness"
    ]
@@ -10736,8 +10568,7 @@
   {
    "work": "Quicksand",
    "movements": [
-    "The Harlem Renaissance and the New Negro",
-    "The Lost Generation and the Expatriate Novel"
+    "The Harlem Renaissance and the New Negro"
    ]
   },
   {
@@ -10766,12 +10597,6 @@
   },
   {
    "work": "Southern Road",
-   "movements": [
-    "The Harlem Renaissance and the New Negro"
-   ]
-  },
-  {
-   "work": "A Street in Bronzeville",
    "movements": [
     "The Harlem Renaissance and the New Negro"
    ]
@@ -10874,51 +10699,9 @@
    ]
   },
   {
-   "work": "The Scarlet Pimpernel",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Moonfleet",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
    "work": "The Nebuly Coat",
    "movements": [
     "The Ghost Story and the Modern Weird Tale"
-   ]
-  },
-  {
-   "work": "Scaramouche",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Captain Blood",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Beau Geste",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "Sinister Street",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
-   ]
-  },
-  {
-   "work": "The Brother of Daphne",
-   "movements": [
-    "The Edwardian Country House and the Condition of England"
    ]
   },
   {
@@ -10930,15 +10713,13 @@
   {
    "work": "Into Battle",
    "movements": [
-    "Trench Poetry and the Literature of the First World War",
-    "Georgian Poetry and the English Lyric"
+    "Trench Poetry and the Literature of the First World War"
    ]
   },
   {
    "work": "Poems (Grenfell, 1915)",
    "movements": [
-    "Trench Poetry and the Literature of the First World War",
-    "Georgian Poetry and the English Lyric"
+    "Trench Poetry and the Literature of the First World War"
    ]
   },
   {
@@ -10972,33 +10753,6 @@
    ]
   },
   {
-   "work": "The Mother and Other Poems",
-   "movements": [
-    "Imagism and the Free-Verse Revolution",
-    "Vorticism and the Modernist Little Magazine"
-   ]
-  },
-  {
-   "work": "Clown's Houses",
-   "movements": [
-    "Imagism and the Free-Verse Revolution",
-    "Vorticism and the Modernist Little Magazine"
-   ]
-  },
-  {
-   "work": "Façade",
-   "movements": [
-    "Vorticism and the Modernist Little Magazine",
-    "Imagism and the Free-Verse Revolution"
-   ]
-  },
-  {
-   "work": "Bucolic Comedies",
-   "movements": [
-    "Imagism and the Free-Verse Revolution"
-   ]
-  },
-  {
    "work": "Gold Coast Customs",
    "movements": [
     "The Waste Land Generation and the Mythical Method"
@@ -11014,13 +10768,6 @@
    "work": "A Place of One's Own",
    "movements": [
     "The Ghost Story and the Modern Weird Tale"
-   ]
-  },
-  {
-   "work": "The People's Palace",
-   "movements": [
-    "Vorticism and the Modernist Little Magazine",
-    "Imagism and the Free-Verse Revolution"
    ]
   },
   {
@@ -11441,16 +11188,9 @@
    ]
   },
   {
-   "work": "Prufrock and Other Observations",
-   "movements": [
-    "Imagism and the Free-Verse Revolution"
-   ]
-  },
-  {
    "work": "The Waste Land",
    "movements": [
-    "The Waste Land Generation and the Mythical Method",
-    "Imagism and the Free-Verse Revolution"
+    "The Waste Land Generation and the Mythical Method"
    ]
   },
   {
@@ -11751,7 +11491,6 @@
   {
    "work": "Tender Buttons",
    "movements": [
-    "Vorticism and the Modernist Little Magazine",
     "The Lost Generation and the Expatriate Novel"
    ]
   },
@@ -11801,8 +11540,7 @@
   {
    "work": "Home to Harlem",
    "movements": [
-    "The Harlem Renaissance and the New Negro",
-    "The Lost Generation and the Expatriate Novel"
+    "The Harlem Renaissance and the New Negro"
    ]
   },
   {
@@ -11820,8 +11558,7 @@
   {
    "work": "Cane",
    "movements": [
-    "The Harlem Renaissance and the New Negro",
-    "The Lost Generation and the Expatriate Novel"
+    "The Harlem Renaissance and the New Negro"
    ]
   },
   {
@@ -11917,8 +11654,7 @@
   {
    "work": "Of Time and the River",
    "movements": [
-    "The Southern Renaissance and the American Regional Novel",
-    "The Lost Generation and the Expatriate Novel"
+    "The Southern Renaissance and the American Regional Novel"
    ]
   },
   {
