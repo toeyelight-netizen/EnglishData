@@ -9,10 +9,10 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   work detail columns + author `significance_tier` + author
   `bibliographical_notes`).
 - Current position: installments 1–9 imported; **847 authors / 2840 works**
-  across nine periods (c. 450–1945). Installments 8 and 9 have all their
-  content and pass validation; their close-out (statistics, exports, Android
-  asset) is still to do. See *Installments 8–9: enrichment and quality pass*
-  at the end of this file.
+  across nine periods (c. 450–1945). Installments 8 and 9 are complete: they
+  pass validation, and their close-out (statistics, exports, Android asset) was
+  run on 2026-11-06. Installment 10 is next. See *Installments 8–9: enrichment
+  and quality pass* at the end of this file.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
   reset. The gitignored snapshots and backups listed below did not survive the
@@ -1148,7 +1148,7 @@ careers).
 
 ## Installment 8 — Victorian Period, British and American (1832–1901)
 
-**Status: content complete; close-out pending.** After the coverage audit
+**Status: complete** (close-out 2026-11-06). After the coverage audit
 (`documentation/COVERAGE_AUDIT_08_09.md`, waves A–I) installment 8 holds **233
 authors and 887 works**, and none of the 238 names in its canon list is absent
 from the database. Field enrichment and the quality pass are described under
@@ -1287,7 +1287,22 @@ Resulting ladder (verified against the exported asset):
 | Minor | 157 | 756 |
 | Obscure | 161 | 771 |
 
-Only the 161 installment-8 authors are graded so far, so the Obscure floor
+Update (2026-11-06, installments 8–9 close-out). All 429 authors of
+installments 8 and 9 are now graded. The ladder recomputed from the refreshed
+asset:
+
+| Floor | Authors | Works |
+|---|---|---|
+| All | 847 | 2840 |
+| Major canon | 134 | 557 |
+| Significant canon | 326 | 1109 |
+| Minor | 417 | 1362 |
+| Obscure | 429 | 1385 |
+
+The Obscure floor equals installments 8 and 9 combined (887 + 498 works);
+installments 1–7 remain ungraded.
+
+When this phase was first verified, only the 161 installment-8 authors were graded, so the Obscure floor
 coincides with the full installment. Grading installments 1–7 would make the
 filtered views meaningful across the whole 1,200-year range.
 
@@ -1309,7 +1324,7 @@ be extended backwards to installments 1–7, which are still ungraded.
 
 ## Installment 9 — Edwardian and Interwar, British and American (1901–1945)
 
-**Status: content complete; close-out pending.** **197 authors and 498
+**Status: complete** (close-out 2026-11-06). **197 authors and 498
 works** under 33 genres. None of the 210 names in the canon list is absent from
 the database (`documentation/COVERAGE_AUDIT_08_09.md`, waves J–V). The works
 are written in `scripts/content/content_i09_*.py` through the `w()` factory in
@@ -1444,22 +1459,54 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 - **Relationship lists** in the built JSON are de-duplicated (a theme name
   split at its own commas had been listed once per fragment).
 
-### Close-out still to do (installments 8–9)
+### Close-out (installments 8–9), done 2026-11-06
 
-1. Run `scripts/generate_statistics.py`, `scripts/export_data.py`,
-   `scripts/export_app_data.py` and `android/build.py`. Then re-check the
-   Phase-5 tier ladder, since 429 of the 847 authors are now graded.
-2. Update `documentation/DATABASE_SCHEMA.md` and the validation reports.
-3. Follow-ups:
+- `scripts/generate_statistics.py` rewrote `documentation/statistics.md`
+  (847 authors, 2840 works, 110 movements, 189 genres, 170 themes, 337
+  sources, 2432 editions).
+- `scripts/export_data.py` writes the gitignored `data/exports/`.
+- `scripts/export_app_data.py` refreshed the Android asset, which had stood at
+  651 authors and 2420 works. Its header had been hard-coded
+  (`"installments": "1-2"`, a fixed date). It now derives the installment span
+  from `data/works/` and dates the build, honouring `SOURCE_DATE_EPOCH`.
+- The Phase-5 ladder was recomputed (see the update under Phase 5).
+- `documentation/DATABASE_SCHEMA.md` already documents every column (schema
+  head `e4f5a6b7c8d9`; no migration since). The validation reports for 08 and
+  09 were regenerated, with 0 issues.
+- Not run in this environment: `android/build.py` and
+  `android/tools/run_tier_tests.py` need the local toolchain in
+  `~/.android-build/` (JDK, aapt2, d8, apksig, android-all.jar), which cannot
+  be fetched here. Rebuild the APK locally from the refreshed asset.
+
+### Follow-ups (installments 8–9)
+
    - Installment 9 has no movement for writers outside the named schools
      (Maugham, Wodehouse, Buchan, Sabatini). Candidate additions are the
      Bright Young Things (Waugh, Powell, Henry Green) and the Inklings.
    - Out-of-span movement links in installments 1–7 (219 more than ten years
      out) have not been reviewed.
+   - Movement links not yet reviewed: Zitkala-Ša and Eastman under American
+     Realism; Gilbert's *Patience* under Pre-Raphaelitism and Aestheticism.
+   - Fact checks: *The Wheels of Chance* (Bechamel); *Dred* ("decline of the
+     Peyton family"); *Ireland, with Other Poems* ("The Abbey of Saint Mary").
+   - Plot precision: *The Luck of Roaring Camp* (only Kentuck dies); *The
+     White Company* ("rescues the Lady Maude" is imprecise); *The Heroic Slave*
+     (omits Susan's death).
+   - Genre misfits:
+     - Standish O'Grady's two books still carry Serial Novel and Idyll.
+     - The realistic Nesbit and Molesworth books sit under Children's Fantasy.
+     - *A Sheaf Gleaned* takes its metre text from Idyll.
+     - *Invictus* and *The Black Riders* carry only Dramatic Monologue.
+     - *The Amateur Poacher* could add Nature Essay.
+   - H. G. Wells has an author record in both installments. The database keeps
+     one row (author 603), written from whichever record is imported last.
+   - Code: `scripts/content_enrich.py` still contains dead duplicate
+     definitions of `compose_structure` and `compose_description_extra` (only
+     the last of each is live).
 
 ## Installment 10 — Postwar and Late Twentieth Century, British and American (1945–2000)
 
-Not started. It follows the installment 8–9 close-out. The agreed scope is the
+Not started; it is next. The agreed scope is the
 English and British canon **and** a distinct American strand, with broader
 Anglophone and postcolonial writing out of scope.
 
@@ -1472,6 +1519,6 @@ Anglophone and postcolonial writing out of scope.
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
-| 8 | Victorian and American nineteenth century (1832–1901) | Content complete (233 authors, 887 works); close-out pending |
-| 9 | Edwardian–Interwar, British and American (1901–1945) | Content complete (197 authors, 498 works); close-out pending |
+| 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
+| 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (197 authors, 498 works) |
 | 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |

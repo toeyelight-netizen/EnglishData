@@ -6,7 +6,10 @@ The master database remains the single source of truth; re-run this script
 after any installment to refresh the app data.
 """
 
+import datetime
 import json
+import os
+import re
 import sys
 import unicodedata
 from pathlib import Path
@@ -67,6 +70,23 @@ def fold(value):
     text = unicodedata.normalize("NFD", str(value or "").lower())
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     return text.replace("\u00fe", "th").replace("\u00f0", "th").strip()
+
+
+def installment_range():
+    """Span of the installments whose works are present, e.g. "1-9"."""
+    nums = sorted({int(m.group(1)) for p in (PROJECT_ROOT / "data" / "works").glob("installment_*")
+                   for m in [re.match(r"installment_(\d+)_", p.name)] if m})
+    if not nums:
+        return ""
+    return str(nums[0]) if nums[0] == nums[-1] else "%d-%d" % (nums[0], nums[-1])
+
+
+def generated_date():
+    """Build date; honours SOURCE_DATE_EPOCH for reproducible output."""
+    epoch = os.environ.get("SOURCE_DATE_EPOCH")
+    if epoch:
+        return datetime.datetime.fromtimestamp(int(epoch), datetime.timezone.utc).date().isoformat()
+    return datetime.date.today().isoformat()
 
 
 def author_dates(record):
@@ -243,8 +263,8 @@ def main() -> int:
         work_payloads.sort(key=lambda w: fold(w["title"]))
 
         payload = {
-            "generated": "2026-11-03",
-            "installments": "1-2",
+            "generated": generated_date(),
+            "installments": installment_range(),
             "counts": {
                 "authors": len(author_payloads),
                 "works": len(work_payloads),

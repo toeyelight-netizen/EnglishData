@@ -20,14 +20,22 @@ or deletes earlier data.
 | 6 | Augustan and Eighteenth Century (1700–1789) | **Complete** |
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
-| 9–10 | Edwardian → Postwar (1901–2000) | Pending |
+| 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
+| 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |
 
-Cumulative totals: **579 authors, 2226 works** (147 anonymous), 8 periods, 87
-movements, 153 genres, 142 themes, 301 sources, 2432 recorded editions.
-Installment 8 has contributed **161 authors and 771 works** to the Victorian
-period (1832–1901), with both a British and an American strand — from the
-Brontës, Tennyson and Eliot through Swinburne, Wilde, Hardy and Shaw to
-Emerson, Dickinson, Twain, James, Crane, Dreiser and Wharton.
+Cumulative totals: **847 authors, 2840 works** (147 anonymous), 9 periods, 110
+movements, 189 genres, 170 themes, 337 sources, 2432 recorded editions.
+
+Installment 8 contributed **233 authors and 887 works** to the Victorian period
+(1832–1901), with both a British and an American strand. It runs from the
+Brontës, Tennyson and Eliot through Swinburne, Wilde, Hardy and Shaw, and from
+Emerson, Dickinson and Twain to James, Crane, Dreiser and Wharton.
+
+Installment 9 contributed **197 authors and 498 works** to the Edwardian,
+Georgian and Modernist period (1901–1945). It runs from Wells, Bennett,
+Galsworthy and Forster through Joyce, Woolf, Eliot, Lawrence and the war poets
+to Auden and Orwell, and in America from the Harlem Renaissance to Hemingway,
+Faulkner and Steinbeck.
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for
 the detailed progress log.
