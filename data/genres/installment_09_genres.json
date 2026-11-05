@@ -133,5 +133,25 @@
   "name": "Autobiography and the Modern Memoir",
   "description": "The autobiography written as a literary work: Sassoon's Sherston trilogy (1928–36), Graves's Good-bye to All That (1929), Yeats's Autobiographies (1926), Edwin Muir's The Story and the Fable (1940) and the childhood memoir of the period.",
   "historical_development": "The form was transformed by the war, which made the young man's testimony a public document, and by the Freudian account of childhood, which made the private life the true subject of the memoir."
+ },
+ {
+  "name": "Expressionist and Epic Drama",
+  "description": "The non-realistic stage of the period 1910-1945: the play that abandons the well-made structure and the furnished room for distortion, direct address, mask, dream logic, chant and the bare platform. Its American summit is O'Neill's expressionist sequence - The Emperor Jones (1920), The Hairy Ape (1922) - and its formal counterpart is the episodic, narrated, anti-illusionist theatre of Wilder's Our Town (1938), with the Stage Manager as epic narrator. In Britain the mode reaches the stage through the Auden-Isherwood verse-and-prose propaganda plays of the Group Theatre and the Unity Theatre, and through the non-illusionist experiments of the Festival Theatre at Cambridge.",
+  "historical_development": "The form arrives from German expressionism (Kaiser, Toller) and from the symbolist and cabaret stages of the 1890s, and is naturalised in English and American theatre between 1920 and 1938. Its devices - the split self, the chanted crowd, the numbered scenes, the narrator who steps outside the action, the bare stage with two chairs - pass into the documentary and agit-prop theatre of the thirties and thence into the post-war drama of Beckett, Williams and Albee, which inherits its rejection of the realistic room."
+ },
+ {
+  "name": "Modernist Lyric and the New Idiom",
+  "description": "The short and middle-length poem of high modernism outside the strict Imagist programme: compressed, ironic, syntactically and typographically adventurous, built from juxtaposed images, overheard voices and argument rather than from a single stated emotion. Its examples include Eliot's Prufrock and Other Observations (1917), Stevens's Harmonium (1923), Moore's Observations (1924), cummings's Tulips and Chimneys (1923), Williams's Spring and All (1923) and the middle and late Yeats of The Tower (1928).",
+  "historical_development": "Growing out of French Symbolism and the Imagist reforms of 1912-14, the new lyric was carried by the little magazines (Poetry, The Egoist, The Dial, Others) and the small presses of London, Paris and New York; in the 1920s it displaced the Georgian anthology piece as the standard of serious verse, in the 1930s Empson, the Sitwells, Beckett and Muir extended it into the metaphysical conceit, the sound-pattern and the dream-fable, and the New Criticism made its difficulty the norm by which poems were read."
+ },
+ {
+  "name": "Thirties Political Lyric and the Auden Generation",
+  "description": "The public poem of the 1930s: lyric, ballad, ode, eclogue and verse-letter turned on the slump, the hunger marches, fascism, Spain and the coming war, mixing Marx and Freud, the landscape of industrial decline, the language of the clinic and the newsreel, and the light verse of the music hall. Its centre is Auden's Poems (1930), Look, Stranger! (1936), Spain (1937) and Another Time (1940), with Spender's Poems (1933) and The Still Centre (1939) and MacNeice's The Earth Compels (1938) and Autumn Journal (1939).",
+  "historical_development": "Launched by Auden's Poems (1930) and gathered into a movement by Michael Roberts's anthologies New Signatures (1932) and New Country (1933), the mode dominated English poetry through the Spanish Civil War, when Auden, Spender and MacNeice wrote its most quoted poems; it dissolved with the Nazi-Soviet pact, Auden's emigration to America in 1939 and the outbreak of war, and its public voice was later repudiated by Auden himself."
+ },
+ {
+  "name": "Irish Revival Lyric and the Celtic Twilight",
+  "description": "The lyric of the Irish Literary Revival: the incantatory, symbol-laden verse of the Celtic Twilight, with its masks, its Sidhe and its western landscape, and the plainer poems of the road, the fair and the cottage spoken in the idiom of Irish country people. Its examples run from Yeats's The Wind Among the Reeds (1899) and Colum's Wild Earth (1907) to the harder, public Irish poems of Yeats's The Wild Swans at Coole (1917) and The Tower (1928).",
+  "historical_development": "Formed in the 1890s from the translations of Gaelic song by Ferguson, Mangan and Hyde, the folklore gathered by Lady Gregory and Yeats, and the Symbolism of the Rhymers' Club, the Twilight manner was renounced by Yeats himself after 1904 for a barer, more personal and more political lyric, while Colum, Campbell and Stephens carried the peasant poem into the new century; the Rising, the civil war and the Free State turned the Revival's dream of Ireland into the matter of elegy and argument."
  }
 ]

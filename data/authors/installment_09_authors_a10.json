@@ -1,34 +1,250 @@
 [
  {
-  "full_name": "Noel Coward",
+  "full_name": "Margery Allingham",
   "alternative_names": [
-   "Noël Pierce Coward",
-   "Noël Coward"
+   "Margery Louise Allingham",
+   "M. Allingham"
   ],
   "pseudonyms": [],
-  "birth_date": "1899",
+  "birth_date": "1904",
   "birth_date_approximate": false,
-  "death_date": "1973",
+  "death_date": "1966",
   "death_date_approximate": false,
-  "birthplace": "Teddington, Middlesex, England",
-  "nationality_or_literary_tradition": "British; the comedy of manners, the revue and the popular song",
-  "literary_identity": "Playwright, composer, actor and director; the most performed English dramatist of the period and the definitive voice of interwar sophistication.",
-  "biography": "Born Noël Pierce Coward at Teddington on 16 December 1899; he went on the stage as a child, wrote his first play at eleven and served in the army in the First World War. The Young Idea (1923), The Vortex (1924), Hay Fever (1925), Bitter Sweet (1929), Private Lives (1930), Cavalcade (1931), Design for Living (1933), Blithe Spirit (1941) and Brief Encounter (1945) made him the most successful playwright of his time; he wrote the songs, composed the music and directed and starred in the productions. He was knighted in 1970 and died in Jamaica on 26 March 1973.",
-  "literary_profile": "Coward is the most performed English dramatist of the period and the definitive voice of interwar sophistication: Private Lives and Hay Fever are the finest English comedies of manners of the century, Blithe Spirit is the best English comedy of the supernatural, and Brief Encounter (from his one-act Still Life) is one of the great English films. His songs — 'Mad Dogs and Englishmen', 'Mad About the Boy', 'Someday I'll Find You' — are the period's lyric poetry of the drawing room.",
-  "stylistic_characteristics": "The epigram and the witty exchange; the symmetrical three-act construction; the single drawing-room set; the sophisticated, amoral, unillusioned tone; the song written into the action; the revue's sketch structure and the musical's integration of song and scene.",
-  "intellectual_concerns": "Love, marriage and infidelity among the leisured; the country house weekend and the Riviera hotel; the pursuit of pleasure and the fear of boredom; the changing position of women; class, money and the nouveaux riches; the English abroad.",
-  "historical_significance": "Coward is the most performed English dramatist of the period: Private Lives and Hay Fever are the finest comedies of manners of the century, Blithe Spirit and Brief Encounter are permanent, and his songs and revues made him the voice of interwar England. He is the period's definitive comic dramatist.",
+  "birthplace": "Ealing, London, England",
+  "nationality_or_literary_tradition": "British; the Golden Age mystery and Albert Campion",
+  "literary_identity": "Novelist; one of the four Queens of Crime and the creator of Albert Campion.",
+  "biography": "Born Margery Louise Allingham in Ealing on 9 May 1904, the daughter of the writer Herbert Allingham; she published The White Cottage Mystery in 1928 and The Crime at Black Dudley, the first Campion novel, in 1929. Tiger in the Smoke (1952), The Tiger in the Smoke's predecessor The Fashion in Shrouds (1938) and The Beckoning Lady (1955) followed. She died at Colchester on 30 June 1966.",
+  "literary_profile": "Margery Allingham was one of the four Queens of Crime and the creator of Albert Campion: her novels brought the thriller and the Dickensian character into the Golden Age mystery, and Tiger in the Smoke is one of the finest crime novels of the century.",
+  "stylistic_characteristics": "The comic detective and the grotesque villain; the London fog and the country house; the Dickensian minor character; the thriller plot inside the mystery; the plain, lively, inventive prose.",
+  "intellectual_concerns": "Class, the servant problem, and the new democracy; the metropolis, the crowd, and the imperial capital; the countryside, the vanishing rural world, and the motor road; mass society, the crowd, and the individual talent.",
+  "historical_significance": "Margery Allingham was one of the four Queens of Crime and the creator of Albert Campion: her novels brought the thriller and the Dickensian character into the Golden Age mystery, and Tiger in the Smoke is one of the finest crime novels of the century.",
   "major_influences": [
-   "Oscar Wilde",
-   "William Somerset Maugham",
-   "A. A. Milne",
-   "George Bernard Shaw",
-   "Ivor Novello",
-   "Gilbert and Sullivan"
+   "Charles Dickens",
+   "Agatha Christie",
+   "Dorothy L. Sayers",
+   "Arthur Conan Doyle",
+   "Edgar Wallace"
   ],
-  "biographical_uncertainty": null,
+  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1929 and 1938.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The White Cottage Mystery (1928); The Crime at Black Dudley (1929); Mystery Mile (1930); Look to the Lady (1931); Police at the Funeral (1931); Sweet Danger (1933); Death of a Ghost (1934); Flowers for the Judge (1936); The Case of the Late Pig (1937); Dancers in Mourning (1937); The Fashion in Shrouds (1938); Traitor's Purse (1941); Coroner's Pidgin (1945); More Work for the Undertaker (1948); The Tiger in the Smoke (1952); The Beckoning Lady (1955); Hide My Eyes (1958); The China Governess (1963); Cargo of Eagles (1968, posthumous)."
+ },
+ {
+  "full_name": "Ronald Knox",
+  "alternative_names": [
+   "Ronald Arbuthnott Knox",
+   "R. A. Knox",
+   "Monsignor Ronald Knox"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1888",
+  "birth_date_approximate": false,
+  "death_date": "1957",
+  "death_date_approximate": false,
+  "birthplace": "Kibworth, Leicestershire, England",
+  "nationality_or_literary_tradition": "British; the ten commandments of detection and the clerical wit",
+  "literary_identity": "Priest, theologian and detective novelist; the author of the Decalogue of detective fiction and one of the founding wits of the Golden Age.",
+  "biography": "Born Ronald Arbuthnott Knox at Kibworth, Leicestershire, on 17 February 1888; he was a fellow of Trinity College, Oxford, converted to Rome in 1917, and was the Catholic chaplain at Oxford from 1926. The Viaduct Murder (1925), The Three Taps (1927) and The Body in the Silo (1933) followed, with his translation of the Bible and his 'Detective Story Decalogue' of 1929.",
+  "literary_profile": "Ronald Knox wrote the Decalogue of detective fiction, the fair-play rules that governed the Golden Age, and his own detective novels were among the wittiest of the period: his rules made the classical detective story a game with a code and his clerical wit gave the genre one of its founding critics.",
+  "stylistic_characteristics": "The fair-play puzzle with its rules; the clerical detective and the Oxford setting; the learned joke and the paradox; the exact timetable and the map; the plain, witty, classical prose.",
+  "intellectual_concerns": "Class, the servant problem, and the new democracy; religion, doubt, and the post-war faith; education, the schools, and the cultivation of the self; the absurd, the void.",
+  "historical_significance": "Ronald Knox wrote the Decalogue of detective fiction, the fair-play rules that governed the Golden Age: his rules made the classical detective story a game with a code, and his own novels were among the wittiest of the period.",
+  "major_influences": [
+   "G. K. Chesterton",
+   "Arthur Conan Doyle",
+   "Agatha Christie",
+   "John Henry Newman",
+   "Dorothy L. Sayers"
+  ],
+  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: I'll Leave It to You (1919, play); The Young Idea (1923, play); The Vortex (1924, play); Hay Fever (1925, play); Fallen Angels (1925, play); Easy Virtue (1926, play); This Was a Man (1926, play); The Marquise (1927, play); Home Chat (1927, play); Sirocco (1927, play); Bitter Sweet (1929, operetta); Private Lives (1930, play); Post-Mortem (1930, play); Cavalcade (1931, play); Words and Music (1932, revue); Design for Living (1933, play); Conversation Piece (1934, musical); Tonight at 8.30 (1936, cycle of plays); Present Laughter (1939, play); This Happy Breed (1939, play); Blithe Spirit (1941, play); Present Indicative (1937, autobiography); Brief Encounter (1945, film screenplay); Future Indefinite (1954, autobiography); Nude with Violin (1956, play); Waiting in the Wings (1960, play); A Song at Twilight (1966, play); The Lyrics of Noël Coward (1965); The Noël Coward Diaries (1982, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Some Loose Stones (1913); A Spiritual Aeneid (1918); The Viaduct Murder (1925); Other Eyes than Ours (1926); The Three Taps (1927); The Footsteps at the Lock (1928); The Body in the Silo (1933); Still Dead (1934); Double Cross Purposes (1937); The Knox Bible (1955, translation); Literary Distractions (1958); A Retreat for Lay People (1955); Enthusiasm (1950)."
+ },
+ {
+  "full_name": "Baroness Orczy",
+  "alternative_names": [
+   "Emma Orczy",
+   "Baroness Emmuska Orczy"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1865",
+  "birth_date_approximate": false,
+  "death_date": "1947",
+  "death_date_approximate": false,
+  "birthplace": "Tarnaors, Heves County, Hungary",
+  "nationality_or_literary_tradition": "Hungarian-British; the historical adventure and the masked hero",
+  "literary_identity": "Novelist and playwright; the creator of the Scarlet Pimpernel, the first masked hero of modern fiction.",
+  "biography": "Born Emma Magdolna Rozalia Maria Jozefa Borbala Orczy in Hungary on 23 September 1865; her family moved to London in 1880, and she became a painter and writer. The Scarlet Pimpernel (1905), the play of 1903 and its many sequels made her famous. She died in Monte Carlo on 12 November 1947.",
+  "literary_profile": "Baroness Orczy created the Scarlet Pimpernel, the first masked hero of modern fiction and the direct ancestor of Zorro, Batman and the superhero: her novel and play founded the double-life hero and the rescue narrative of the twentieth century.",
+  "stylistic_characteristics": "The double-life hero and the secret identity; the rescue from the guillotine; the historical adventure of the French Revolution; the society comedy and the disguise; the plain, swift, romantic prose.",
+  "intellectual_concerns": "Empire, the imperial idea, and its discontents; class, the servant problem, and the new democracy; the French Revolution and the rights of man; the countryside, the vanishing rural world, and the motor road.",
+  "historical_significance": "Baroness Orczy created the Scarlet Pimpernel, the first masked hero of modern fiction and the direct ancestor of Zorro, Batman and the superhero: her novel and play founded the double-life hero and the rescue narrative of the twentieth century.",
+  "major_influences": [
+   "Charles Dickens",
+   "Alexandre Dumas",
+   "Walter Scott",
+   "Rafael Sabatini",
+   "Anthony Hope"
+  ],
+  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "research_status": "complete",
+  "significance_tier": "Significant / secondary",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Emperor's Candlesticks (1899); The Scarlet Pimpernel (1905); I Will Repay (1906); The Elusive Pimpernel (1908); The League of the Scarlet Pimpernel (1919); The Triumph of the Scarlet Pimpernel (1922); Sir Percy Leads the Band (1936); Mam'zelle Guillotine (1940); The Laughing Cavalier (1913); The First Sir Percy (1920); Pimpernel and Rosemary (1924); A Child of the Revolution (1932); Links in the Chain of Life (1947, autobiography)."
+ },
+ {
+  "full_name": "Erskine Childers",
+  "alternative_names": [
+   "Robert Erskine Childers",
+   "R. E. Childers"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1870",
+  "birth_date_approximate": false,
+  "death_date": "1922",
+  "death_date_approximate": false,
+  "birthplace": "Mayfair, London, England",
+  "nationality_or_literary_tradition": "Irish-British; the spy novel and the Irish revolution",
+  "literary_identity": "Writer and Irish nationalist; the author of The Riddle of the Sands, the first modern spy novel.",
+  "biography": "Born Robert Erskine Childers in London on 25 June 1870; he served in the Boer War, wrote The Riddle of the Sands in 1903, ran guns to Ireland in the Asgard in 1914, and became a minister in the Irish Free State. He was executed by the Free State government on 24 November 1922.",
+  "literary_profile": "Erskine Childers wrote The Riddle of the Sands, the first modern spy novel and the founding text of the genre: its sailing, its German invasion plot and its factual exactness created the espionage novel and made the threat of war the subject of popular fiction.",
+  "stylistic_characteristics": "The yachting narrative and the exact seamanship; the documentary detail of the Frisian coast; the amateur spy and the discovery; the plain, factual, reportorial prose; the invasion plot that made the novel a warning.",
+  "intellectual_concerns": "Empire, the imperial idea, and its discontents; Ireland, Home Rule, and the national question; the First World War and the myth of sacrifice; totalitarianism, propaganda, and the political novel.",
+  "historical_significance": "Erskine Childers wrote The Riddle of the Sands, the first modern spy novel and the founding text of the genre: its sailing, its German invasion plot and its factual exactness created the espionage novel and made the threat of war the subject of popular fiction.",
+  "major_influences": [
+   "Robert Louis Stevenson",
+   "Joseph Conrad",
+   "Rider Haggard",
+   "William Le Queux",
+   "John Buchan"
+  ],
+  "biographical_uncertainty": "6 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Riddle of the Sands (1903); The Framework of Home Rule (1911); German Spies in England (1915); The Form and Purpose of Home Rule (1912); Military Rule in Ireland (1920); The Constructive Work of Dail Eireann (1921)."
+ },
+ {
+  "full_name": "John Meade Falkner",
+  "alternative_names": [
+   "J. Meade Falkner",
+   "John Falkner"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1858",
+  "birth_date_approximate": false,
+  "death_date": "1932",
+  "death_date_approximate": false,
+  "birthplace": "Manningford Bruce, Wiltshire, England",
+  "nationality_or_literary_tradition": "British; the smuggling romance and the antiquarian ghost story",
+  "literary_identity": "Novelist and antiquarian; the author of Moonfleet, one of the great English adventure novels.",
+  "biography": "Born John Meade Falkner at Manningford Bruce, Wiltshire, on 8 May 1858; he was a schoolmaster and then a director of Armstrong Whitworth, and published The Lost Stradivarius (1895), Moonfleet (1898) and The Nebuly Coat (1903). He was honorary librarian to the Dean and Chapter of Durham and died at Burford on 22 July 1932.",
+  "literary_profile": "John Meade Falkner wrote Moonfleet, one of the great English adventure novels and the finest smuggling romance in the language: The Lost Stradivarius is one of the finest antiquarian ghost stories of the century, and The Nebuly Coat is a classic of the English architectural novel.",
+  "stylistic_characteristics": "The first-person Dorset narrative of the boy smuggler; the underground vault and the diamond; the antiquarian ghost story of the Stradivarius; the architectural detail of the cathedral; the plain, exact, old-fashioned prose.",
+  "intellectual_concerns": "The countryside, the vanishing rural world, and the motor road; class, the servant problem, and the new democracy; the supernatural and the antiquarian; money, credit, speculation, and the joint-stock imagination.",
+  "historical_significance": "John Meade Falkner wrote Moonfleet, one of the great English adventure novels and the finest smuggling romance in the language: The Lost Stradivarius is one of the finest antiquarian ghost stories of the century.",
+  "major_influences": [
+   "Robert Louis Stevenson",
+   "M. R. James",
+   "Walter Scott",
+   "Charles Dickens",
+   "Wilkie Collins"
+  ],
+  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1898 and 1903.",
+  "research_status": "complete",
+  "significance_tier": "Significant / secondary",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Lost Stradivarius (1895); Moonfleet (1898); The Nebuly Coat (1903); A History of Oxfordshire (1899); The Baths of Bath (1901)."
+ },
+ {
+  "full_name": "Rafael Sabatini",
+  "alternative_names": [
+   "Rafael Sabatini (Scaramouche)"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1875",
+  "birth_date_approximate": false,
+  "death_date": "1950",
+  "death_date_approximate": false,
+  "birthplace": "Jesi, Ancona, Italy",
+  "nationality_or_literary_tradition": "Italian-British; the swashbuckler and the historical romance",
+  "literary_identity": "Novelist; the greatest writer of the swashbuckling historical romance in English.",
+  "biography": "Born Rafael Sabatini at Jesi, Italy, on 29 April 1875 to an Italian father and an English mother; he grew up in Portugal and Switzerland and settled in England, publishing The Sea-Hawk (1915), Scaramouche (1921) and Captain Blood (1922). He died at Adelboden, Switzerland, on 13 February 1950.",
+  "literary_profile": "Rafael Sabatini was the greatest writer of the swashbuckling historical romance in English: Scaramouche and Captain Blood are the finest adventure novels of the century, and his dialogue, his plots and his heroes made the historical romance a permanent popular form.",
+  "stylistic_characteristics": "The swashbuckling hero and the duel; the exact historical setting; the wit and the epigram; the rapid plot of pursuit and disguise; the plain, spirited, vigorous prose.",
+  "intellectual_concerns": "The French Revolution and the rights of man; empire, the imperial idea, and its discontents; class, the servant problem, and the new democracy; the sea and the voyage.",
+  "historical_significance": "Rafael Sabatini was the greatest writer of the swashbuckling historical romance in English: Scaramouche and Captain Blood are the finest adventure novels of the century, and his heroes and duels made the historical romance a permanent popular form.",
+  "major_influences": [
+   "Alexandre Dumas",
+   "Robert Louis Stevenson",
+   "Walter Scott",
+   "Rider Haggard",
+   "Baroness Orczy"
+  ],
+  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1921 and 1922.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Lovers of Yvonne (1902); Bardelys the Magnificent (1906); The Trampling of the Lilies (1906); The Shame of Motley (1908); The Sea-Hawk (1915); Scaramouche (1921); Captain Blood (1922); Fortune's Fool (1923); The Carolinian (1924); Bellarion the Fortunate (1926); The Hounds of God (1928); The Romantic Prince (1929); Captain Blood Returns (1931); The Black Swan (1932); Venetian Masque (1934); The Lost King (1937); The Sword of Islam (1939); Columbus (1941); Scaramouche the King-Maker (1931)."
+ },
+ {
+  "full_name": "P. C. Wren",
+  "alternative_names": [
+   "Percival Christopher Wren",
+   "Percival Wren"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1875",
+  "birth_date_approximate": false,
+  "death_date": "1941",
+  "death_date_approximate": false,
+  "birthplace": "Devizes, Wiltshire, England",
+  "nationality_or_literary_tradition": "British; the Foreign Legion romance",
+  "literary_identity": "Novelist; the author of Beau Geste, the most famous French Foreign Legion novel in English.",
+  "biography": "Born Percival Christopher Wren at Devizes, Wiltshire, on 1 November 1875; he served in India and with the French Foreign Legion, and published Beau Geste in 1924, followed by Beau Sabreur (1926), Beau Ideal (1928) and some thirty other novels. He died at Amberley, Gloucestershire, on 22 November 1941.",
+  "literary_profile": "P. C. Wren wrote Beau Geste, the most famous French Foreign Legion novel in English and one of the great adventure stories of the century: its desert fort, its mysterious theft and its brothers made it a permanent popular classic and the founding text of the Legion romance.",
+  "stylistic_characteristics": "The desert fort and the siege; the brothers and the sacrifice; the mystery of the stolen jewel; the legionnaire's code of honour; the plain, stirring, romantic prose.",
+  "intellectual_concerns": "Empire, the imperial idea, and its discontents; the French colonial army and the Sahara; class, the servant problem, and the new democracy; the heroic code and sacrifice.",
+  "historical_significance": "P. C. Wren wrote Beau Geste, the most famous French Foreign Legion novel in English: its desert fort, its mysterious theft and its brothers made it a permanent popular classic and the founding text of the Legion romance.",
+  "major_influences": [
+   "Rider Haggard",
+   "Robert Louis Stevenson",
+   "Alexandre Dumas",
+   "Joseph Conrad",
+   "Rafael Sabatini"
+  ],
+  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "research_status": "complete",
+  "significance_tier": "Minor / lesser-known",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Dew and Mildew (1912); Father Gregory (1913); Snake and Sword (1914); The Wages of Virtue (1916); Cupid in Africa (1920); Beau Geste (1924); Beau Sabreur (1926); Beau Ideal (1928); Good Gestes (1929); Sowing Glory (1931); The Exploits of Begbie (1932); Port o' Missing Men (1934); Sinbad the Soldier (1935); The Man of a Ghost (1937); Cardboard Castle (1938)."
+ },
+ {
+  "full_name": "Compton Mackenzie",
+  "alternative_names": [
+   "Edward Montague Compton Mackenzie",
+   "C. Mackenzie"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1883",
+  "birth_date_approximate": false,
+  "death_date": "1972",
+  "death_date_approximate": false,
+  "birthplace": "West Hartlepool, County Durham, England",
+  "nationality_or_literary_tradition": "British; the comic novel and the Scottish island",
+  "literary_identity": "Novelist, poet and nationalist; the author of Whisky Galore and Sinister Street, and a central figure of the Scottish Renaissance.",
+  "biography": "Born Edward Montague Compton Mackenzie at West Hartlepool on 17 January 1883; he was educated at Oxford, published Sinister Street (1913–14) and Youth's Encounter (1913), served in the Aegean in the First World War, and founded the Scottish National Party's predecessor. Whisky Galore (1947), The Monarch of the Glen (1941) and The Four Winds of Love followed, and he died in Edinburgh on 30 November 1972.",
+  "literary_profile": "Compton Mackenzie was one of the great comic novelists of the century and a central figure of the Scottish Renaissance: Whisky Galore is the funniest Scottish novel ever written, Sinister Street made the novel of Oxford and London, and his Scottish nationalism gave the movement one of its founders.",
+  "stylistic_characteristics": "The comic novel of the island; the exact topography of the Hebrides; the dialogue of the islanders; the society comedy of the metropolis; the plain, warm, discursive prose.",
+  "intellectual_concerns": "The countryside, the vanishing rural world, and the motor road; empire, the imperial idea, and its discontents; class, the servant problem, and the new democracy; the absurd, the void.",
+  "historical_significance": "Compton Mackenzie was one of the great comic novelists of the century and a central figure of the Scottish Renaissance: Whisky Galore is the funniest Scottish novel ever written, Sinister Street made the novel of Oxford and London, and his nationalism gave the movement one of its founders.",
+  "major_influences": [
+   "Charles Dickens",
+   "William Makepeace Thackeray",
+   "Walter Scott",
+   "Thomas Hardy",
+   "George Meredith"
+  ],
+  "biographical_uncertainty": "20 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1913 and 1947.",
+  "research_status": "complete",
+  "significance_tier": "Significant / secondary",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Passionate Elopement (1911); Carnival (1912); Sinister Street (1913-14); Youth's Encounter (1913); Guy and Pauline (1915); The Early Life and Adventures of Sylvia Scarlett (1918); Poor Relations (1919); The Altar Steps (1922); The Parson's Progress (1923); The Heavenly Ladder (1924); Fairy Gold (1926); Extremes Meet (1928); Greek Memories (1932); The Four Winds of Love (1937-45); The Monarch of the Glen (1941); Keep the Home Guard Turning (1943); Whisky Galore (1947); The Rival Monster (1952); Thin Ice (1956); My Life and Times (1963-71)."
  }
 ]
