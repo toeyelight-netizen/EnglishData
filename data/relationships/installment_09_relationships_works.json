@@ -1,0 +1,5388 @@
+{
+ "work_authors": [
+  {
+   "work": "Heart of Darkness",
+   "author": "Joseph Conrad",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lord Jim",
+   "author": "Joseph Conrad",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Nostromo: A Tale of the Seaboard",
+   "author": "Joseph Conrad",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Secret Agent: A Simple Tale",
+   "author": "Joseph Conrad",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Under Western Eyes",
+   "author": "Joseph Conrad",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Tono-Bungay",
+   "author": "Herbert George Wells",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Outline of History: Being a Plain History of Life and Mankind",
+   "author": "Herbert George Wells",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Shape of Things to Come: The Ultimate Revolution",
+   "author": "Herbert George Wells",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The History of Mr Polly",
+   "author": "Herbert George Wells",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Old Wives' Tale (Bennett, 1908)",
+   "author": "Arnold Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Clayhanger",
+   "author": "Arnold Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Man of Property",
+   "author": "John Galsworthy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Howards End",
+   "author": "E. M. Forster",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Passage to India",
+   "author": "E. M. Forster",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mrs Dalloway",
+   "author": "Virginia Woolf",
+   "contribution_type": "author"
+  },
+  {
+   "work": "To the Lighthouse",
+   "author": "Virginia Woolf",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Waves",
+   "author": "Virginia Woolf",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Orlando: A Biography",
+   "author": "Virginia Woolf",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sons and Lovers",
+   "author": "D. H. Lawrence",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Rainbow",
+   "author": "D. H. Lawrence",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Women in Love",
+   "author": "D. H. Lawrence",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lady Chatterley's Lover",
+   "author": "D. H. Lawrence",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Crome Yellow",
+   "author": "Aldous Huxley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Point Counter Point",
+   "author": "Aldous Huxley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Brave New World",
+   "author": "Aldous Huxley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eyeless in Gaza",
+   "author": "Aldous Huxley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Perennial Philosophy",
+   "author": "Aldous Huxley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Decline and Fall",
+   "author": "Evelyn Waugh",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vile Bodies",
+   "author": "Evelyn Waugh",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Handful of Dust",
+   "author": "Evelyn Waugh",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Scoop",
+   "author": "Evelyn Waugh",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder",
+   "author": "Evelyn Waugh",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sword of Honour",
+   "author": "Evelyn Waugh",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Mysterious Affair at Styles",
+   "author": "Agatha Christie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Murder of Roger Ackroyd",
+   "author": "Agatha Christie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Murder on the Orient Express",
+   "author": "Agatha Christie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "And Then There Were None",
+   "author": "Agatha Christie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Whose Body?",
+   "author": "Dorothy L. Sayers",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Nine Tailors",
+   "author": "Dorothy L. Sayers",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Gaudy Night",
+   "author": "Dorothy L. Sayers",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ghost Stories of an Antiquary",
+   "author": "M. R. James",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Thin Ghost and Others",
+   "author": "M. R. James",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Willows",
+   "author": "Algernon Blackwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Great God Pan",
+   "author": "Arthur Machen",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Hill of Dreams",
+   "author": "Arthur Machen",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Rising of the Moon",
+   "author": "Lady Gregory",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Spreading the News",
+   "author": "Lady Gregory",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Workhouse Ward",
+   "author": "Lady Gregory",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hay Fever",
+   "author": "Noel Coward",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Private Lives",
+   "author": "Noel Coward",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Blithe Spirit",
+   "author": "Noel Coward",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Present Laughter",
+   "author": "Noel Coward",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Design for Living",
+   "author": "Noel Coward",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cavalcade",
+   "author": "Noel Coward",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Vortex",
+   "author": "Noel Coward",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Last and First Men",
+   "author": "Olaf Stapledon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Star Maker",
+   "author": "Olaf Stapledon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Odd John: A Story Between Jest and Earnest",
+   "author": "Olaf Stapledon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sirius: A Fantasy of Love and Discord",
+   "author": "Olaf Stapledon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Dangerous Corner",
+   "author": "John Boynton Priestley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Time and the Conways",
+   "author": "John Boynton Priestley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "An Inspector Calls",
+   "author": "John Boynton Priestley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Good Companions",
+   "author": "John Boynton Priestley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Angel Pavement",
+   "author": "John Boynton Priestley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Winslow Boy",
+   "author": "Terence Rattigan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Browning Version",
+   "author": "Terence Rattigan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Separate Tables",
+   "author": "Terence Rattigan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Seven Pillars of Wisdom",
+   "author": "T. E. Lawrence",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Mint",
+   "author": "T. E. Lawrence",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Complete Short Stories of Saki",
+   "author": "Saki (H. H. Munro)",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Beasts and Super-Beasts",
+   "author": "Saki (H. H. Munro)",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Love on the Dole",
+   "author": "Walter Greenwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Our Irish Theatre: A Chapter of Autobiography",
+   "author": "Lady Gregory",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Visions and Beliefs in the West of Ireland",
+   "author": "Lady Gregory",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Boy",
+   "author": "James Hanley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Furys",
+   "author": "James Hanley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Wind Among the Reeds",
+   "author": "W. B. Yeats",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Wild Swans at Coole",
+   "author": "W. B. Yeats",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Tower",
+   "author": "W. B. Yeats",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Countess Cathleen",
+   "author": "W. B. Yeats",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Playboy of the Western World",
+   "author": "J. M. Synge",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Riders to the Sea",
+   "author": "J. M. Synge",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Aran Islands",
+   "author": "J. M. Synge",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Shadow of a Gunman",
+   "author": "Sean O'Casey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Juno and the Paycock",
+   "author": "Sean O'Casey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Plough and the Stars",
+   "author": "Sean O'Casey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Dubliners",
+   "author": "James Joyce",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Portrait of the Artist as a Young Man",
+   "author": "James Joyce",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ulysses (Joyce, 1922)",
+   "author": "James Joyce",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Finnegans Wake",
+   "author": "James Joyce",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Chamber Music",
+   "author": "James Joyce",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Prufrock and Other Observations",
+   "author": "T. S. Eliot",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Waste Land",
+   "author": "T. S. Eliot",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Four Quartets",
+   "author": "T. S. Eliot",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ash-Wednesday",
+   "author": "T. S. Eliot",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Murder in the Cathedral",
+   "author": "T. S. Eliot",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Old Possum's Book of Practical Cats",
+   "author": "T. S. Eliot",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Cantos",
+   "author": "Ezra Pound",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cathay",
+   "author": "Ezra Pound",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hugh Selwyn Mauberley",
+   "author": "Ezra Pound",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Personae: The Collected Poems of Ezra Pound",
+   "author": "Ezra Pound",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sea Garden",
+   "author": "H. D. (Hilda Doolittle)",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Trilogy",
+   "author": "H. D. (Hilda Doolittle)",
+   "contribution_type": "author"
+  },
+  {
+   "work": "North of Boston",
+   "author": "Robert Frost",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mountain Interval",
+   "author": "Robert Frost",
+   "contribution_type": "author"
+  },
+  {
+   "work": "New Hampshire",
+   "author": "Robert Frost",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Harmonium",
+   "author": "Wallace Stevens",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Man with the Blue Guitar",
+   "author": "Wallace Stevens",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Notes Toward a Supreme Fiction",
+   "author": "Wallace Stevens",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Spring and All",
+   "author": "William Carlos Williams",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Paterson",
+   "author": "William Carlos Williams",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems (Moore, 1921)",
+   "author": "Marianne Moore",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Observations",
+   "author": "Marianne Moore",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Tulips and Chimneys",
+   "author": "e e cummings",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Bridge",
+   "author": "Hart Crane",
+   "contribution_type": "author"
+  },
+  {
+   "work": "1914 and Other Poems",
+   "author": "Rupert Brooke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Listeners and Other Poems",
+   "author": "Walter de la Mare",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Peacock Pie",
+   "author": "Walter de la Mare",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Collected Poems of Edward Thomas",
+   "author": "Edward Thomas",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Old Huntsman and Other Poems",
+   "author": "Siegfried Sassoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Counter-Attack and Other Poems",
+   "author": "Siegfried Sassoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Collected Poems of Wilfred Owen",
+   "author": "Wilfred Owen",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems (Rosenberg, 1922)",
+   "author": "Isaac Rosenberg",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Good-bye to All That",
+   "author": "Robert Graves",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Memoirs of a Fox-Hunting Man",
+   "author": "Siegfried Sassoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Undertones of War",
+   "author": "Edmund Blunden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Everlasting Mercy",
+   "author": "John Masefield",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Salt-Water Ballads",
+   "author": "John Masefield",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Collected Poems of Rupert Brooke",
+   "author": "Rupert Brooke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Songs of Childhood",
+   "author": "Walter de la Mare",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eminent Victorians",
+   "author": "Lytton Strachey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Queen Victoria",
+   "author": "Lytton Strachey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vision and Design",
+   "author": "Roger Fry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pointed Roofs",
+   "author": "Dorothy Richardson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Good Soldier: A Tale of Passion",
+   "author": "Ford Madox Ford",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Some Do Not…",
+   "author": "Ford Madox Ford",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Parade's End",
+   "author": "Ford Madox Ford",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Garden Party and Other Stories",
+   "author": "Katherine Mansfield",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Drunk Man Looks at the Thistle",
+   "author": "Hugh MacDiarmid",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sunset Song",
+   "author": "Lewis Grassic Gibbon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Scots Quair",
+   "author": "Lewis Grassic Gibbon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Story and the Fable",
+   "author": "Edwin Muir",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Narrow Place",
+   "author": "Edwin Muir",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Three Lives",
+   "author": "Gertrude Stein",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Tender Buttons",
+   "author": "Gertrude Stein",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Autobiography of Alice B. Toklas",
+   "author": "Gertrude Stein",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Winesburg, Ohio",
+   "author": "Sherwood Anderson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Weary Blues",
+   "author": "Langston Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Ways of White Folks",
+   "author": "Langston Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Their Eyes Were Watching God",
+   "author": "Zora Neale Hurston",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mules and Men",
+   "author": "Zora Neale Hurston",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Harlem Shadows",
+   "author": "Claude McKay",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Home to Harlem",
+   "author": "Claude McKay",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Color",
+   "author": "Countee Cullen",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Caroling Dusk",
+   "author": "Countee Cullen",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cane",
+   "author": "Jean Toomer",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Three Soldiers",
+   "author": "John Dos Passos",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Manhattan Transfer",
+   "author": "John Dos Passos",
+   "contribution_type": "author"
+  },
+  {
+   "work": "U.S.A.",
+   "author": "John Dos Passos",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Tender Is the Night",
+   "author": "F. Scott Fitzgerald",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Sun Also Rises",
+   "author": "Ernest Hemingway",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Farewell to Arms",
+   "author": "Ernest Hemingway",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Our Time",
+   "author": "Ernest Hemingway",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Sound and the Fury",
+   "author": "William Faulkner",
+   "contribution_type": "author"
+  },
+  {
+   "work": "As I Lay Dying",
+   "author": "William Faulkner",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Light in August",
+   "author": "William Faulkner",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Absalom, Absalom!",
+   "author": "William Faulkner",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Go Down, Moses",
+   "author": "William Faulkner",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Look Homeward, Angel",
+   "author": "Thomas Wolfe",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Of Time and the River",
+   "author": "Thomas Wolfe",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Flowering Judas",
+   "author": "Katherine Anne Porter",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pale Horse, Pale Rider",
+   "author": "Katherine Anne Porter",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Curtain of Green",
+   "author": "Eudora Welty",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Optimist's Daughter",
+   "author": "Eudora Welty",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Heart Is a Lonely Hunter",
+   "author": "Carson McCullers",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Member of the Wedding",
+   "author": "Carson McCullers",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems (Auden, 1930)",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Orators: An English Study",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Look, Stranger!",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Spain",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Another Time",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lions and Shadows: An Education in the Twenties",
+   "author": "Christopher Isherwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Goodbye to Berlin",
+   "author": "Christopher Isherwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Autumn Journal",
+   "author": "Louis MacNeice",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Burning Perch",
+   "author": "Louis MacNeice",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems (Spender, 1933)",
+   "author": "Stephen Spender",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vienna",
+   "author": "Stephen Spender",
+   "contribution_type": "author"
+  },
+  {
+   "work": "World Within World",
+   "author": "Stephen Spender",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Homage to Catalonia",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Burmese Days",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Keep the Aspidistra Flying",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Coming Up for Air",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Road to Wigan Pier",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  }
+ ],
+ "work_genres": [
+  {
+   "work": "Heart of Darkness",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "Lord Jim",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Nostromo: A Tale of the Seaboard",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "The Secret Agent: A Simple Tale",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "Under Western Eyes",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Detective Novel and the Golden Age Mystery"
+   ]
+  },
+  {
+   "work": "Tono-Bungay",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "The Outline of History: Being a Plain History of Life and Mankind",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Critical Essay and the Modern Review"
+   ]
+  },
+  {
+   "work": "The Shape of Things to Come: The Ultimate Revolution",
+   "genres": [
+    "Scientific Romance and the Utopian Tale",
+    "Dystopian Fiction and the Anti-Utopian Satire"
+   ]
+  },
+  {
+   "work": "The History of Mr Polly",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "The Old Wives' Tale (Bennett, 1908)",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "Clayhanger",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "The Man of Property",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "Howards End",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "A Passage to India",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Mrs Dalloway",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "To the Lighthouse",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "The Waves",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Orlando: A Biography",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Biography and the Modern Life"
+   ]
+  },
+  {
+   "work": "Sons and Lovers",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "The Rainbow",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Women in Love",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Lady Chatterley's Lover",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Crome Yellow",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "Point Counter Point",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Brave New World",
+   "genres": [
+    "Dystopian Fiction and the Anti-Utopian Satire",
+    "Scientific Romance and the Utopian Tale"
+   ]
+  },
+  {
+   "work": "Eyeless in Gaza",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "The Perennial Philosophy",
+   "genres": [
+    "Critical Essay and the Modern Review",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "Decline and Fall",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Vile Bodies",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Jazz-Age Novel and the Expatriate Romance"
+   ]
+  },
+  {
+   "work": "A Handful of Dust",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "Scoop",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Sword of Honour",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "The Mysterious Affair at Styles",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery"
+   ]
+  },
+  {
+   "work": "The Murder of Roger Ackroyd",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Murder on the Orient Express",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery"
+   ]
+  },
+  {
+   "work": "And Then There Were None",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery",
+    "Dystopian Fiction and the Anti-Utopian Satire"
+   ]
+  },
+  {
+   "work": "Whose Body?",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "The Nine Tailors",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Gaudy Night",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Ghost Stories of an Antiquary",
+   "genres": [
+    "Ghost Story and the Modern Weird Tale",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "A Thin Ghost and Others",
+   "genres": [
+    "Ghost Story and the Modern Weird Tale",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "The Willows",
+   "genres": [
+    "Ghost Story and the Modern Weird Tale",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "work": "The Great God Pan",
+   "genres": [
+    "Ghost Story and the Modern Weird Tale",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "The Hill of Dreams",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "The Rising of the Moon",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Spreading the News",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "The Workhouse Ward",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Hay Fever",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "Private Lives",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Blithe Spirit",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "Present Laughter",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Design for Living",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Cavalcade",
+   "genres": [
+    "Verse Drama and the Poetic Play",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "The Vortex",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Last and First Men",
+   "genres": [
+    "Scientific Romance and the Utopian Tale",
+    "Dystopian Fiction and the Anti-Utopian Satire"
+   ]
+  },
+  {
+   "work": "Star Maker",
+   "genres": [
+    "Scientific Romance and the Utopian Tale",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Odd John: A Story Between Jest and Earnest",
+   "genres": [
+    "Scientific Romance and the Utopian Tale",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Sirius: A Fantasy of Love and Discord",
+   "genres": [
+    "Scientific Romance and the Utopian Tale",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Dangerous Corner",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Time and the Conways",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "An Inspector Calls",
+   "genres": [
+    "Verse Drama and the Poetic Play",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "The Good Companions",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Angel Pavement",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "The Winslow Boy",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "work": "The Browning Version",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Separate Tables",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Seven Pillars of Wisdom",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "The Mint",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "The Complete Short Stories of Saki",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Beasts and Super-Beasts",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "Love on the Dole",
+   "genres": [
+    "Proletarian Novel and the Working-Class Fiction",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Our Irish Theatre: A Chapter of Autobiography",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Autobiography and the Modern Memoir"
+   ]
+  },
+  {
+   "work": "Visions and Beliefs in the West of Ireland",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "work": "Boy",
+   "genres": [
+    "Proletarian Novel and the Working-Class Fiction",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "The Furys",
+   "genres": [
+    "Proletarian Novel and the Working-Class Fiction",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "The Wind Among the Reeds",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "The Wild Swans at Coole",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "The Tower",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "The Countess Cathleen",
+   "genres": [
+    "Verse Drama and the Poetic Play",
+    "Peasant Play and the Irish Dramatic Movement"
+   ]
+  },
+  {
+   "work": "The Playboy of the Western World",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Riders to the Sea",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "work": "The Aran Islands",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "work": "The Shadow of a Gunman",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "Juno and the Paycock",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Comedy of Manners and the Drawing-Room Stage"
+   ]
+  },
+  {
+   "work": "The Plough and the Stars",
+   "genres": [
+    "Peasant Play and the Irish Dramatic Movement",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "work": "Dubliners",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "A Portrait of the Artist as a Young Man",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Ulysses (Joyce, 1922)",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Finnegans Wake",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Chamber Music",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "Prufrock and Other Observations",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "The Waste Land",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "Four Quartets",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "work": "Ash-Wednesday",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "work": "Murder in the Cathedral",
+   "genres": [
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "work": "Old Possum's Book of Practical Cats",
+   "genres": [
+    "Children's Fantasy and the Golden-Age Tale",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "The Cantos",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Cathay",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Hugh Selwyn Mauberley",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Personae: The Collected Poems of Ezra Pound",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Sea Garden",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Trilogy",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "North of Boston",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Mountain Interval",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "New Hampshire",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Harmonium",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "The Man with the Blue Guitar",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "Notes Toward a Supreme Fiction",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "Spring and All",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Paterson",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "Poems (Moore, 1921)",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Observations",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Tulips and Chimneys",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "The Bridge",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "1914 and Other Poems",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Trench Lyric and the War Poem"
+   ]
+  },
+  {
+   "work": "The Listeners and Other Poems",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "Peacock Pie",
+   "genres": [
+    "Children's Fantasy and the Golden-Age Tale",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Edward Thomas",
+   "genres": [
+    "Trench Lyric and the War Poem",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "work": "The Old Huntsman and Other Poems",
+   "genres": [
+    "Trench Lyric and the War Poem",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Counter-Attack and Other Poems",
+   "genres": [
+    "Trench Lyric and the War Poem",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Wilfred Owen",
+   "genres": [
+    "Trench Lyric and the War Poem",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Poems (Rosenberg, 1922)",
+   "genres": [
+    "Trench Lyric and the War Poem",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Good-bye to All That",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "Memoirs of a Fox-Hunting Man",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Undertones of War",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "work": "The Everlasting Mercy",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "work": "Salt-Water Ballads",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Rupert Brooke",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Trench Lyric and the War Poem"
+   ]
+  },
+  {
+   "work": "Songs of Childhood",
+   "genres": [
+    "Children's Fantasy and the Golden-Age Tale",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Eminent Victorians",
+   "genres": [
+    "Biography and the Modern Life",
+    "Critical Essay and the Modern Review"
+   ]
+  },
+  {
+   "work": "Queen Victoria",
+   "genres": [
+    "Biography and the Modern Life"
+   ]
+  },
+  {
+   "work": "Vision and Design",
+   "genres": [
+    "Critical Essay and the Modern Review"
+   ]
+  },
+  {
+   "work": "Pointed Roofs",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "The Good Soldier: A Tale of Passion",
+   "genres": [
+    "Novel of Consciousness and the Stream of Mind",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Some Do Not…",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Parade's End",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "The Garden Party and Other Stories",
+   "genres": [
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "A Drunk Man Looks at the Thistle",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Sunset Song",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "work": "A Scots Quair",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "The Story and the Fable",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Biography and the Modern Life"
+   ]
+  },
+  {
+   "work": "The Narrow Place",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Three Lives",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "Tender Buttons",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "The Autobiography of Alice B. Toklas",
+   "genres": [
+    "Biography and the Modern Life",
+    "Autobiography and the Modern Memoir"
+   ]
+  },
+  {
+   "work": "Winesburg, Ohio",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "The Weary Blues",
+   "genres": [
+    "New Negro Lyric and the Harlem Renaissance Poem",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "The Ways of White Folks",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "New Negro Lyric and the Harlem Renaissance Poem"
+   ]
+  },
+  {
+   "work": "Their Eyes Were Watching God",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Mules and Men",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "Harlem Shadows",
+   "genres": [
+    "New Negro Lyric and the Harlem Renaissance Poem",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "work": "Home to Harlem",
+   "genres": [
+    "Jazz-Age Novel and the Expatriate Romance",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Color",
+   "genres": [
+    "New Negro Lyric and the Harlem Renaissance Poem",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "Caroling Dusk",
+   "genres": [
+    "New Negro Lyric and the Harlem Renaissance Poem",
+    "Critical Essay and the Modern Review"
+   ]
+  },
+  {
+   "work": "Cane",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "New Negro Lyric and the Harlem Renaissance Poem"
+   ]
+  },
+  {
+   "work": "Three Soldiers",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Proletarian Novel and the Working-Class Fiction"
+   ]
+  },
+  {
+   "work": "Manhattan Transfer",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "U.S.A.",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Proletarian Novel and the Working-Class Fiction"
+   ]
+  },
+  {
+   "work": "The Great Gatsby",
+   "genres": [
+    "Jazz-Age Novel and the Expatriate Romance",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "Tender Is the Night",
+   "genres": [
+    "Jazz-Age Novel and the Expatriate Romance",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "The Sun Also Rises",
+   "genres": [
+    "Jazz-Age Novel and the Expatriate Romance"
+   ]
+  },
+  {
+   "work": "A Farewell to Arms",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Jazz-Age Novel and the Expatriate Romance"
+   ]
+  },
+  {
+   "work": "In Our Time",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "work": "The Sound and the Fury",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "As I Lay Dying",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Light in August",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Absalom, Absalom!",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Go Down, Moses",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "Look Homeward, Angel",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Of Time and the River",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Flowering Judas",
+   "genres": [
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "Pale Horse, Pale Rider",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "A Curtain of Green",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "The Optimist's Daughter",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "The Heart Is a Lonely Hunter",
+   "genres": [
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "The Member of the Wedding",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Poems (Auden, 1930)",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "The Orators: An English Study",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "work": "Look, Stranger!",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Spain",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Another Time",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Lions and Shadows: An Education in the Twenties",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Biography and the Modern Life"
+   ]
+  },
+  {
+   "work": "Goodbye to Berlin",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "work": "Autumn Journal",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Georgian Anthology Lyric"
+   ]
+  },
+  {
+   "work": "The Burning Perch",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Poems (Spender, 1933)",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Vienna",
+   "genres": [
+    "Modernist Long Poem and the Mythical Method",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "World Within World",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Biography and the Modern Life"
+   ]
+  },
+  {
+   "work": "Homage to Catalonia",
+   "genres": [
+    "War Memoir and the Autobiographical Testimony",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "Burmese Days",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "work": "Keep the Aspidistra Flying",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Coming Up for Air",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "work": "The Road to Wigan Pier",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Critical Essay and the Modern Review"
+   ]
+  }
+ ],
+ "work_themes": [
+  {
+   "work": "Heart of Darkness",
+   "themes": [
+    "Empire, the imperial idea, and its discontents",
+    "The absurd, the void, and the failure of meaning",
+    "Race, the colour line, and the New Negro"
+   ]
+  },
+  {
+   "work": "Lord Jim",
+   "themes": [
+    "Empire, the imperial idea, and its discontents",
+    "The absurd, the void, and the failure of meaning",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Nostromo: A Tale of the Seaboard",
+   "themes": [
+    "Empire, the imperial idea, and its discontents",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Secret Agent: A Simple Tale",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Mass society, the crowd, and the individual talent",
+    "The absurd, the void, and the failure of meaning",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Under Western Eyes",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Exile, expatriation, and the lost generation",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Tono-Bungay",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Mass society, the crowd, and the individual talent",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The machine, the motor car, and the modern tempo"
+   ]
+  },
+  {
+   "work": "The Outline of History: Being a Plain History of Life and Mankind",
+   "themes": [
+    "Science, technology, and the machine age",
+    "The waste land and the decline of the West",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "The Shape of Things to Come: The Ultimate Revolution",
+   "themes": [
+    "Science, technology, and the machine age",
+    "The machine, the motor car, and the modern tempo",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "The History of Mr Polly",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "The suburb, the villa, and the new domesticity",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "The Old Wives' Tale (Bennett, 1908)",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Clayhanger",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "work": "The Man of Property",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Class, the servant problem, and the new democracy",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "Howards End",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The suburb, the villa, and the new domesticity",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "A Passage to India",
+   "themes": [
+    "Empire, the imperial idea, and its discontents",
+    "Class, the servant problem, and the new democracy",
+    "Religion, doubt, and the post-war faith",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Mrs Dalloway",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Shell shock, mourning, and the unquiet dead",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Mass society, the crowd, and the individual talent",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "To the Lighthouse",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Death, elegy, and the modern funeral",
+    "The First World War and the myth of sacrifice",
+    "Suffrage, feminism, and the woman's work"
+   ]
+  },
+  {
+   "work": "The Waves",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "The absurd, the void, and the failure of meaning",
+    "Death, elegy, and the modern funeral",
+    "Childhood, the nursery, and the Edwardian idyll"
+   ]
+  },
+  {
+   "work": "Orlando: A Biography",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Time, memory, and the duration of consciousness",
+    "Suffrage, feminism, and the woman's work",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Sons and Lovers",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "The Rainbow",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Suffrage, feminism, and the woman's work",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "Women in Love",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Class, the servant problem, and the new democracy",
+    "The machine, the motor car, and the modern tempo",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Lady Chatterley's Lover",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Class, the servant problem, and the new democracy",
+    "The machine, the motor car, and the modern tempo",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "work": "Crome Yellow",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning",
+    "Science, technology, and the machine age"
+   ]
+  },
+  {
+   "work": "Point Counter Point",
+   "themes": [
+    "The absurd, the void, and the failure of meaning",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Science, technology, and the machine age",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "Brave New World",
+   "themes": [
+    "Science, technology, and the machine age",
+    "Mass society, the crowd, and the individual talent",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "Eyeless in Gaza",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Totalitarianism, propaganda, and the political novel",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "The Perennial Philosophy",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "Myth, ritual, and the primitive imagination",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Decline and Fall",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "Vile Bodies",
+   "themes": [
+    "The jazz age and the pleasure economy",
+    "Mass society, the crowd, and the individual talent",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "A Handful of Dust",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The absurd, the void, and the failure of meaning",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Scoop",
+   "themes": [
+    "Mass society, the crowd, and the individual talent",
+    "Empire, the imperial idea, and its discontents",
+    "The absurd, the void, and the failure of meaning",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "Class, the servant problem, and the new democracy",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Sword of Honour",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Religion, doubt, and the post-war faith",
+    "Class, the servant problem, and the new democracy",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "The Mysterious Affair at Styles",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "The Murder of Roger Ackroyd",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Murder on the Orient Express",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "And Then There Were None",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "The absurd, the void, and the failure of meaning",
+    "Class, the servant problem, and the new democracy",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "Whose Body?",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "The Nine Tailors",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "Gaudy Night",
+   "themes": [
+    "Suffrage, feminism, and the woman's work",
+    "Education, the schools, and the cultivation of the self",
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Ghost Stories of an Antiquary",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "A Thin Ghost and Others",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "The Willows",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Great God Pan",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Hill of Dreams",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "The absurd, the void, and the failure of meaning",
+    "Myth, ritual, and the primitive imagination",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "work": "The Rising of the Moon",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Empire, the imperial idea, and its discontents",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Spreading the News",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Mass society, the crowd, and the individual talent",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "The Workhouse Ward",
+   "themes": [
+    "Poverty, dependence, and the professional writer",
+    "Ireland, Home Rule, and the national question"
+   ]
+  },
+  {
+   "work": "Hay Fever",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Art versus life, and the romance of the artist",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Private Lives",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Love, constancy, and betrayal",
+    "Class, the servant problem, and the new democracy",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "work": "Blithe Spirit",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Love, constancy, and betrayal",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Present Laughter",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Design for Living",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Love, constancy, and betrayal",
+    "Art versus life, and the romance of the artist",
+    "Bohemia, the professional writer, and the Grub Street market"
+   ]
+  },
+  {
+   "work": "Cavalcade",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "National identity and Englishness",
+    "Empire, the imperial idea, and its discontents"
+   ]
+  },
+  {
+   "work": "The Vortex",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "work": "Last and First Men",
+   "themes": [
+    "Science, technology, and the machine age",
+    "The absurd, the void, and the failure of meaning",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "Star Maker",
+   "themes": [
+    "Creation and cosmology",
+    "Religion, doubt, and the post-war faith",
+    "Science, technology, and the machine age",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Odd John: A Story Between Jest and Earnest",
+   "themes": [
+    "Science, technology, and the machine age",
+    "The absurd, the void, and the failure of meaning",
+    "Tyranny and the abuse of power"
+   ]
+  },
+  {
+   "work": "Sirius: A Fantasy of Love and Discord",
+   "themes": [
+    "Science, technology, and the machine age",
+    "The body, illness, and the sanatorium",
+    "Love, constancy, and betrayal",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Dangerous Corner",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Time and the Conways",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning",
+    "The Depression, unemployment, and the hunger march"
+   ]
+  },
+  {
+   "work": "An Inspector Calls",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Poverty, dependence, and the professional writer",
+    "Conscience and moral self-examination",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "work": "The Good Companions",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The jazz age and the pleasure economy",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "Angel Pavement",
+   "themes": [
+    "The metropolis, the crowd, and the imperial capital",
+    "The Depression, unemployment, and the hunger march",
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "work": "The Winslow Boy",
+   "themes": [
+    "Conscience and moral self-examination",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "The Browning Version",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning",
+    "Conscience and moral self-examination"
+   ]
+  },
+  {
+   "work": "Separate Tables",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "The body, illness, and the sanatorium",
+    "Love, constancy, and betrayal",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Seven Pillars of Wisdom",
+   "themes": [
+    "Empire, the imperial idea, and its discontents",
+    "The First World War and the myth of sacrifice",
+    "Exile, expatriation, and the lost generation",
+    "National identity and Englishness"
+   ]
+  },
+  {
+   "work": "The Mint",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "The body, illness, and the sanatorium",
+    "Mass society, the crowd, and the individual talent",
+    "Empire, the imperial idea, and its discontents"
+   ]
+  },
+  {
+   "work": "The Complete Short Stories of Saki",
+   "themes": [
+    "The absurd, the void, and the failure of meaning",
+    "Class, the servant problem, and the new democracy",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "The supernatural ballad and willed belief"
+   ]
+  },
+  {
+   "work": "Beasts and Super-Beasts",
+   "themes": [
+    "The absurd, the void, and the failure of meaning",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "Love on the Dole",
+   "themes": [
+    "The Depression, unemployment, and the hunger march",
+    "Class, the servant problem, and the new democracy",
+    "Wage labour, the strike, and the two nations",
+    "Poverty, dependence, and the professional writer"
+   ]
+  },
+  {
+   "work": "Our Irish Theatre: A Chapter of Autobiography",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "Visions and Beliefs in the West of Ireland",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "Ireland, Home Rule, and the national question",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Death, the soul, and the afterlife"
+   ]
+  },
+  {
+   "work": "Boy",
+   "themes": [
+    "The Depression, unemployment, and the hunger march",
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Poverty, dependence, and the professional writer"
+   ]
+  },
+  {
+   "work": "The Furys",
+   "themes": [
+    "The Depression, unemployment, and the hunger march",
+    "Class, the servant problem, and the new democracy",
+    "Religion, doubt, and the post-war faith",
+    "Poverty, dependence, and the professional writer"
+   ]
+  },
+  {
+   "work": "The Wind Among the Reeds",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "Ireland, Home Rule, and the national question",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "The Wild Swans at Coole",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "The First World War and the myth of sacrifice",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "The Tower",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Ireland, Home Rule, and the national question",
+    "The body, illness, and the sanatorium",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "The Countess Cathleen",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Religion, doubt, and the post-war faith",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "The Playboy of the Western World",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Myth, ritual, and the primitive imagination",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Riders to the Sea",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Death, elegy, and the modern funeral",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "The Aran Islands",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "The Shadow of a Gunman",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Juno and the Paycock",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Plough and the Stars",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Class, the servant problem, and the new democracy",
+    "The First World War and the myth of sacrifice",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Dubliners",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "The absurd, the void, and the failure of meaning",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "A Portrait of the Artist as a Young Man",
+   "themes": [
+    "Ireland, Home Rule, and the national question",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Religion, doubt, and the post-war faith",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Ulysses (Joyce, 1922)",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Ireland, Home Rule, and the national question",
+    "The absurd, the void, and the failure of meaning",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "Finnegans Wake",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "Time, memory, and the duration of consciousness",
+    "Death, elegy, and the modern funeral",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Chamber Music",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Time, memory, and the duration of consciousness",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Prufrock and Other Observations",
+   "themes": [
+    "The absurd, the void, and the failure of meaning",
+    "Mass society, the crowd, and the individual talent",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "The Waste Land",
+   "themes": [
+    "The waste land and the decline of the West",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Death, elegy, and the modern funeral",
+    "Mass society, the crowd, and the individual talent",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "Four Quartets",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Religion, doubt, and the post-war faith",
+    "The First World War and the myth of sacrifice",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Ash-Wednesday",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "The absurd, the void, and the failure of meaning",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Murder in the Cathedral",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "Totalitarianism, propaganda, and the political novel",
+    "Death, elegy, and the modern funeral",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "Old Possum's Book of Practical Cats",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "The suburb, the villa, and the new domesticity",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Cantos",
+   "themes": [
+    "The waste land and the decline of the West",
+    "Totalitarianism, propaganda, and the political novel",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "Cathay",
+   "themes": [
+    "Exile, expatriation, and the lost generation",
+    "Time, memory, and the duration of consciousness",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "Hugh Selwyn Mauberley",
+   "themes": [
+    "The waste land and the decline of the West",
+    "Mass society, the crowd, and the individual talent",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "work": "Personae: The Collected Poems of Ezra Pound",
+   "themes": [
+    "The waste land and the decline of the West",
+    "Exile, expatriation, and the lost generation",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "Sea Garden",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Myth, ritual, and the primitive imagination",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Trilogy",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Religion, doubt, and the post-war faith",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "North of Boston",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Death, elegy, and the modern funeral",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Mountain Interval",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Time, memory, and the duration of consciousness",
+    "Childhood, the nursery, and the Edwardian idyll"
+   ]
+  },
+  {
+   "work": "New Hampshire",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Time, memory, and the duration of consciousness",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Harmonium",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "Myth, ritual, and the primitive imagination",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "The Man with the Blue Guitar",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Time, memory, and the duration of consciousness",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Notes Toward a Supreme Fiction",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "Art versus life, and the romance of the artist",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "Spring and All",
+   "themes": [
+    "The machine, the motor car, and the modern tempo",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "Paterson",
+   "themes": [
+    "The machine, the motor car, and the modern tempo",
+    "Mass society, the crowd, and the individual talent",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "Poems (Moore, 1921)",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Mass society, the crowd, and the individual talent",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "Observations",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Mass society, the crowd, and the individual talent",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "Tulips and Chimneys",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Mass society, the crowd, and the individual talent",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Bridge",
+   "themes": [
+    "The machine, the motor car, and the modern tempo",
+    "Myth, ritual, and the primitive imagination",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "1914 and Other Poems",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Exile, expatriation, and the lost generation"
+   ]
+  },
+  {
+   "work": "The Listeners and Other Poems",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Peacock Pie",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Myth, ritual, and the primitive imagination",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Edward Thomas",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "The First World War and the myth of sacrifice",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "The Old Huntsman and Other Poems",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "Counter-Attack and Other Poems",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Shell shock, mourning, and the unquiet dead",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Wilfred Owen",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Shell shock, mourning, and the unquiet dead",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Poems (Rosenberg, 1922)",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "Good-bye to All That",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "Shell shock, mourning, and the unquiet dead"
+   ]
+  },
+  {
+   "work": "Memoirs of a Fox-Hunting Man",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Class, the servant problem, and the new democracy",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "work": "Undertones of War",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Shell shock, mourning, and the unquiet dead"
+   ]
+  },
+  {
+   "work": "The Everlasting Mercy",
+   "themes": [
+    "The countryside, the vanishing rural world, and the motor road",
+    "Class, the servant problem, and the new democracy",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "Salt-Water Ballads",
+   "themes": [
+    "Exile, expatriation, and the lost generation",
+    "Class, the servant problem, and the new democracy",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Rupert Brooke",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Childhood, the nursery, and the Edwardian idyll"
+   ]
+  },
+  {
+   "work": "Songs of Childhood",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Myth, ritual, and the primitive imagination",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "Eminent Victorians",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Religion, doubt, and the post-war faith",
+    "Empire, the imperial idea, and its discontents"
+   ]
+  },
+  {
+   "work": "Queen Victoria",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Empire, the imperial idea, and its discontents",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Vision and Design",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Myth, ritual, and the primitive imagination",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "Pointed Roofs",
+   "themes": [
+    "Suffrage, feminism, and the woman's work",
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "The Good Soldier: A Tale of Passion",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Some Do Not…",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Suffrage, feminism, and the woman's work"
+   ]
+  },
+  {
+   "work": "Parade's End",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "Shell shock, mourning, and the unquiet dead"
+   ]
+  },
+  {
+   "work": "The Garden Party and Other Stories",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "work": "A Drunk Man Looks at the Thistle",
+   "themes": [
+    "Wales, Scotland, and the Celtic periphery",
+    "Religion, doubt, and the post-war faith",
+    "Class, the servant problem, and the new democracy",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "work": "Sunset Song",
+   "themes": [
+    "Wales, Scotland, and the Celtic periphery",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The First World War and the myth of sacrifice",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "A Scots Quair",
+   "themes": [
+    "Wales, Scotland, and the Celtic periphery",
+    "Class, the servant problem, and the new democracy",
+    "The Depression, unemployment, and the hunger march",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "The Story and the Fable",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Wales, Scotland, and the Celtic periphery",
+    "Time, memory, and the duration of consciousness",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "work": "The Narrow Place",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Religion, doubt, and the post-war faith",
+    "Wales, Scotland, and the Celtic periphery"
+   ]
+  },
+  {
+   "work": "Three Lives",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Race, the colour line, and the New Negro",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Tender Buttons",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Mass society, the crowd, and the individual talent",
+    "The suburb, the villa, and the new domesticity"
+   ]
+  },
+  {
+   "work": "The Autobiography of Alice B. Toklas",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Exile, expatriation, and the lost generation",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "Winesburg, Ohio",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Weary Blues",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "The jazz age and the pleasure economy",
+    "Exile, expatriation, and the lost generation"
+   ]
+  },
+  {
+   "work": "The Ways of White Folks",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Class, the servant problem, and the new democracy",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "work": "Their Eyes Were Watching God",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The Depression, unemployment, and the hunger march"
+   ]
+  },
+  {
+   "work": "Mules and Men",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "Harlem Shadows",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Exile, expatriation, and the lost generation",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "work": "Home to Harlem",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "The jazz age and the pleasure economy",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Color",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century"
+   ]
+  },
+  {
+   "work": "Caroling Dusk",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Art versus life, and the romance of the artist",
+    "The little magazine and the modernist institution"
+   ]
+  },
+  {
+   "work": "Cane",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Exile, expatriation, and the lost generation",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "work": "Three Soldiers",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Manhattan Transfer",
+   "themes": [
+    "Mass society, the crowd, and the individual talent",
+    "The jazz age and the pleasure economy",
+    "Class, the servant problem, and the new democracy",
+    "The machine, the motor car, and the modern tempo"
+   ]
+  },
+  {
+   "work": "U.S.A.",
+   "themes": [
+    "Mass society, the crowd, and the individual talent",
+    "The Depression, unemployment, and the hunger march",
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "work": "The Great Gatsby",
+   "themes": [
+    "The jazz age and the pleasure economy",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "work": "Tender Is the Night",
+   "themes": [
+    "The jazz age and the pleasure economy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The body, illness, and the sanatorium",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "The Sun Also Rises",
+   "themes": [
+    "The jazz age and the pleasure economy",
+    "Exile, expatriation, and the lost generation",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "work": "A Farewell to Arms",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Death, elegy, and the modern funeral",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "In Our Time",
+   "themes": [
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Sound and the Fury",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Time, memory, and the duration of consciousness",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "As I Lay Dying",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Light in August",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Absalom, Absalom!",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Class, the servant problem, and the new democracy",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "Go Down, Moses",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "Look Homeward, Angel",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "work": "Of Time and the River",
+   "themes": [
+    "Time, memory, and the duration of consciousness",
+    "Exile, expatriation, and the lost generation",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "Flowering Judas",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Religion, doubt, and the post-war faith",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Pale Horse, Pale Rider",
+   "themes": [
+    "The body, illness, and the sanatorium",
+    "The First World War and the myth of sacrifice",
+    "Race, the colour line, and the New Negro",
+    "Death, elegy, and the modern funeral"
+   ]
+  },
+  {
+   "work": "A Curtain of Green",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Class, the servant problem, and the new democracy",
+    "Childhood, the nursery, and the Edwardian idyll"
+   ]
+  },
+  {
+   "work": "The Optimist's Daughter",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Death, elegy, and the modern funeral",
+    "Time, memory, and the duration of consciousness",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "The Heart Is a Lonely Hunter",
+   "themes": [
+    "Race, the colour line, and the New Negro",
+    "Class, the servant problem, and the new democracy",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "work": "The Member of the Wedding",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Race, the colour line, and the New Negro"
+   ]
+  },
+  {
+   "work": "Poems (Auden, 1930)",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Class, the servant problem, and the new democracy",
+    "The machine, the motor car, and the modern tempo"
+   ]
+  },
+  {
+   "work": "The Orators: An English Study",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "Look, Stranger!",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Death, elegy, and the modern funeral",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Spain",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Another Time",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Death, elegy, and the modern funeral",
+    "Exile, expatriation, and the lost generation",
+    "Mass society, the crowd, and the individual talent"
+   ]
+  },
+  {
+   "work": "Lions and Shadows: An Education in the Twenties",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation"
+   ]
+  },
+  {
+   "work": "Goodbye to Berlin",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Exile, expatriation, and the lost generation",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Autumn Journal",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Time, memory, and the duration of consciousness",
+    "Ireland, Home Rule, and the national question",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "work": "The Burning Perch",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "The absurd, the void, and the failure of meaning",
+    "The machine, the motor car, and the modern tempo"
+   ]
+  },
+  {
+   "work": "Poems (Spender, 1933)",
+   "themes": [
+    "The machine, the motor car, and the modern tempo",
+    "Class, the servant problem, and the new democracy",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "Vienna",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation"
+   ]
+  },
+  {
+   "work": "World Within World",
+   "themes": [
+    "Sexuality, the new psychology, and the Freudian century",
+    "Totalitarianism, propaganda, and the political novel",
+    "Class, the servant problem, and the new democracy",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "work": "Homage to Catalonia",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "The First World War and the myth of sacrifice",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Burmese Days",
+   "themes": [
+    "Empire, the imperial idea, and its discontents",
+    "Race, the colour line, and the New Negro",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Keep the Aspidistra Flying",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The Depression, unemployment, and the hunger march"
+   ]
+  },
+  {
+   "work": "Coming Up for Air",
+   "themes": [
+    "The suburb, the villa, and the new domesticity",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "The Road to Wigan Pier",
+   "themes": [
+    "The Depression, unemployment, and the hunger march",
+    "Class, the servant problem, and the new democracy",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  }
+ ],
+ "work_movements": [
+  {
+   "work": "Heart of Darkness",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Lord Jim",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Nostromo: A Tale of the Seaboard",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Secret Agent: A Simple Tale",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "Under Western Eyes",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Tono-Bungay",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Outline of History: Being a Plain History of Life and Mankind",
+   "movements": [
+    "The Scientific Romance and the English Utopia",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Shape of Things to Come: The Ultimate Revolution",
+   "movements": [
+    "The Scientific Romance and the English Utopia",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The History of Mr Polly",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Old Wives' Tale (Bennett, 1908)",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Clayhanger",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Man of Property",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Howards End",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "A Passage to India",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Mrs Dalloway",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "To the Lighthouse",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "The Waves",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Orlando: A Biography",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Sons and Lovers",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Rainbow",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Women in Love",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Lady Chatterley's Lover",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Crome Yellow",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Point Counter Point",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Brave New World",
+   "movements": [
+    "The Scientific Romance and the English Utopia",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Eyeless in Gaza",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Perennial Philosophy",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Decline and Fall",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Vile Bodies",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "A Handful of Dust",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Scoop",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Sword of Honour",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Mysterious Affair at Styles",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "The Murder of Roger Ackroyd",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "Murder on the Orient Express",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "And Then There Were None",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "Whose Body?",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "The Nine Tailors",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "Gaudy Night",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "work": "Ghost Stories of an Antiquary",
+   "movements": [
+    "The Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "A Thin Ghost and Others",
+   "movements": [
+    "The Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "The Willows",
+   "movements": [
+    "The Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "The Great God Pan",
+   "movements": [
+    "The Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "work": "The Hill of Dreams",
+   "movements": [
+    "The Aesthetic Turn in 1890s America"
+   ]
+  },
+  {
+   "work": "The Rising of the Moon",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Spreading the News",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "The Workhouse Ward",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Hay Fever",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Private Lives",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Blithe Spirit",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Present Laughter",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Design for Living",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Cavalcade",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Vortex",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Last and First Men",
+   "movements": [
+    "The Scientific Romance and the English Utopia"
+   ]
+  },
+  {
+   "work": "Star Maker",
+   "movements": [
+    "The Scientific Romance and the English Utopia"
+   ]
+  },
+  {
+   "work": "Odd John: A Story Between Jest and Earnest",
+   "movements": [
+    "The Scientific Romance and the English Utopia"
+   ]
+  },
+  {
+   "work": "Sirius: A Fantasy of Love and Discord",
+   "movements": [
+    "The Scientific Romance and the English Utopia"
+   ]
+  },
+  {
+   "work": "Dangerous Corner",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Time and the Conways",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "An Inspector Calls",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Good Companions",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Angel Pavement",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Winslow Boy",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Browning Version",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Separate Tables",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Seven Pillars of Wisdom",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Mint",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Complete Short Stories of Saki",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Beasts and Super-Beasts",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "Love on the Dole",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "work": "Our Irish Theatre: A Chapter of Autobiography",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Visions and Beliefs in the West of Ireland",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Boy",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "work": "The Furys",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "work": "The Wind Among the Reeds",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "The Wild Swans at Coole",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "The Tower",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "The Countess Cathleen",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "The Playboy of the Western World",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Riders to the Sea",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "The Aran Islands",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "The Shadow of a Gunman",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Juno and the Paycock",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "The Plough and the Stars",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Dubliners",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre",
+    "The Celtic Twilight and the Irish Short Story"
+   ]
+  },
+  {
+   "work": "A Portrait of the Artist as a Young Man",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Ulysses (Joyce, 1922)",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Finnegans Wake",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Chamber Music",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "work": "Prufrock and Other Observations",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "work": "The Waste Land",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "work": "Four Quartets",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Ash-Wednesday",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Murder in the Cathedral",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Old Possum's Book of Practical Cats",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "The Cantos",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "Vorticism and the Modernist Little Magazine"
+   ]
+  },
+  {
+   "work": "Cathay",
+   "movements": [
+    "Imagism and the Free-Verse Revolution",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Hugh Selwyn Mauberley",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "Vorticism and the Modernist Little Magazine"
+   ]
+  },
+  {
+   "work": "Personae: The Collected Poems of Ezra Pound",
+   "movements": [
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "work": "Sea Garden",
+   "movements": [
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "work": "Trilogy",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "work": "North of Boston",
+   "movements": [
+    "Georgian Poetry and the English Lyric",
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "Mountain Interval",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "New Hampshire",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "Harmonium",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "The Man with the Blue Guitar",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "Notes Toward a Supreme Fiction",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "Spring and All",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "work": "Paterson",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "Poems (Moore, 1921)",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "work": "Observations",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "Tulips and Chimneys",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "The Bridge",
+   "movements": [
+    "The Waste Land Generation and the Mythical Method",
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "1914 and Other Poems",
+   "movements": [
+    "Georgian Poetry and the English Lyric",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "The Listeners and Other Poems",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "Peacock Pie",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Edward Thomas",
+   "movements": [
+    "Georgian Poetry and the English Lyric",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "The Old Huntsman and Other Poems",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War",
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "Counter-Attack and Other Poems",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Wilfred Owen",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "Poems (Rosenberg, 1922)",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "Good-bye to All That",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "Memoirs of a Fox-Hunting Man",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "Undertones of War",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "The Everlasting Mercy",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "Salt-Water Ballads",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "The Collected Poems of Rupert Brooke",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "Songs of Childhood",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "Eminent Victorians",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Queen Victoria",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Vision and Design",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Pointed Roofs",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "The Good Soldier: A Tale of Passion",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "work": "Some Do Not…",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "Parade's End",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "The Garden Party and Other Stories",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "work": "A Drunk Man Looks at the Thistle",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "work": "Sunset Song",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "work": "A Scots Quair",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "work": "The Story and the Fable",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "work": "The Narrow Place",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "work": "Three Lives",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "work": "Tender Buttons",
+   "movements": [
+    "Vorticism and the Modernist Little Magazine",
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "work": "The Autobiography of Alice B. Toklas",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "Vorticism and the Modernist Little Magazine"
+   ]
+  },
+  {
+   "work": "Winesburg, Ohio",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "The Weary Blues",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "work": "The Ways of White Folks",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "work": "Their Eyes Were Watching God",
+   "movements": [
+    "The Harlem Renaissance and the New Negro",
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "Mules and Men",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "work": "Harlem Shadows",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "work": "Home to Harlem",
+   "movements": [
+    "The Harlem Renaissance and the New Negro",
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "work": "Color",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "work": "Caroling Dusk",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "work": "Cane",
+   "movements": [
+    "The Harlem Renaissance and the New Negro",
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "work": "Three Soldiers",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "Manhattan Transfer",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "U.S.A.",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "work": "The Great Gatsby",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "work": "Tender Is the Night",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "work": "The Sun Also Rises",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "work": "A Farewell to Arms",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "work": "In Our Time",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "work": "The Sound and the Fury",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "As I Lay Dying",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "Light in August",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "Absalom, Absalom!",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "Go Down, Moses",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "Look Homeward, Angel",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "Of Time and the River",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel",
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "work": "Flowering Judas",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel",
+    "The Celtic Twilight and the Irish Short Story"
+   ]
+  },
+  {
+   "work": "Pale Horse, Pale Rider",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "A Curtain of Green",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "The Optimist's Daughter",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "The Heart Is a Lonely Hunter",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "The Member of the Wedding",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "work": "Poems (Auden, 1930)",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Orators: An English Study",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "Vorticism and the Modernist Little Magazine"
+   ]
+  },
+  {
+   "work": "Look, Stranger!",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Spain",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Another Time",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Lions and Shadows: An Education in the Twenties",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Goodbye to Berlin",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Autumn Journal",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "The Burning Perch",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Poems (Spender, 1933)",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Vienna",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "World Within World",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Homage to Catalonia",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "work": "Burmese Days",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "work": "Keep the Aspidistra Flying",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "work": "Coming Up for Air",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "work": "The Road to Wigan Pier",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel",
+    "The Auden Generation and the Thirties Poem"
+   ]
+  }
+ ],
+ "work_periods": [
+  {
+   "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
+   "works": [
+    "Heart of Darkness",
+    "Lord Jim",
+    "Nostromo: A Tale of the Seaboard",
+    "The Secret Agent: A Simple Tale",
+    "Under Western Eyes",
+    "Tono-Bungay",
+    "The Outline of History: Being a Plain History of Life and Mankind",
+    "The Shape of Things to Come: The Ultimate Revolution",
+    "The History of Mr Polly",
+    "The Old Wives' Tale (Bennett, 1908)",
+    "Clayhanger",
+    "The Man of Property",
+    "Howards End",
+    "A Passage to India",
+    "Mrs Dalloway",
+    "To the Lighthouse",
+    "The Waves",
+    "Orlando: A Biography",
+    "Sons and Lovers",
+    "The Rainbow",
+    "Women in Love",
+    "Lady Chatterley's Lover",
+    "Crome Yellow",
+    "Point Counter Point",
+    "Brave New World",
+    "Eyeless in Gaza",
+    "The Perennial Philosophy",
+    "Decline and Fall",
+    "Vile Bodies",
+    "A Handful of Dust",
+    "Scoop",
+    "Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder",
+    "Sword of Honour",
+    "The Mysterious Affair at Styles",
+    "The Murder of Roger Ackroyd",
+    "Murder on the Orient Express",
+    "And Then There Were None",
+    "Whose Body?",
+    "The Nine Tailors",
+    "Gaudy Night",
+    "Ghost Stories of an Antiquary",
+    "A Thin Ghost and Others",
+    "The Willows",
+    "The Great God Pan",
+    "The Hill of Dreams",
+    "The Rising of the Moon",
+    "Spreading the News",
+    "The Workhouse Ward",
+    "Hay Fever",
+    "Private Lives",
+    "Blithe Spirit",
+    "Present Laughter",
+    "Design for Living",
+    "Cavalcade",
+    "The Vortex",
+    "Last and First Men",
+    "Star Maker",
+    "Odd John: A Story Between Jest and Earnest",
+    "Sirius: A Fantasy of Love and Discord",
+    "Dangerous Corner",
+    "Time and the Conways",
+    "An Inspector Calls",
+    "The Good Companions",
+    "Angel Pavement",
+    "The Winslow Boy",
+    "The Browning Version",
+    "Separate Tables",
+    "Seven Pillars of Wisdom",
+    "The Mint",
+    "The Complete Short Stories of Saki",
+    "Beasts and Super-Beasts",
+    "Love on the Dole",
+    "Our Irish Theatre: A Chapter of Autobiography",
+    "Visions and Beliefs in the West of Ireland",
+    "Boy",
+    "The Furys",
+    "The Wind Among the Reeds",
+    "The Wild Swans at Coole",
+    "The Tower",
+    "The Countess Cathleen",
+    "The Playboy of the Western World",
+    "Riders to the Sea",
+    "The Aran Islands",
+    "The Shadow of a Gunman",
+    "Juno and the Paycock",
+    "The Plough and the Stars",
+    "Dubliners",
+    "A Portrait of the Artist as a Young Man",
+    "Ulysses (Joyce, 1922)",
+    "Finnegans Wake",
+    "Chamber Music",
+    "Prufrock and Other Observations",
+    "The Waste Land",
+    "Four Quartets",
+    "Ash-Wednesday",
+    "Murder in the Cathedral",
+    "Old Possum's Book of Practical Cats",
+    "The Cantos",
+    "Cathay",
+    "Hugh Selwyn Mauberley",
+    "Personae: The Collected Poems of Ezra Pound",
+    "Sea Garden",
+    "Trilogy",
+    "North of Boston",
+    "Mountain Interval",
+    "New Hampshire",
+    "Harmonium",
+    "The Man with the Blue Guitar",
+    "Notes Toward a Supreme Fiction",
+    "Spring and All",
+    "Paterson",
+    "Poems (Moore, 1921)",
+    "Observations",
+    "Tulips and Chimneys",
+    "The Bridge",
+    "1914 and Other Poems",
+    "The Listeners and Other Poems",
+    "Peacock Pie",
+    "The Collected Poems of Edward Thomas",
+    "The Old Huntsman and Other Poems",
+    "Counter-Attack and Other Poems",
+    "The Collected Poems of Wilfred Owen",
+    "Poems (Rosenberg, 1922)",
+    "Good-bye to All That",
+    "Memoirs of a Fox-Hunting Man",
+    "Undertones of War",
+    "The Everlasting Mercy",
+    "Salt-Water Ballads",
+    "The Collected Poems of Rupert Brooke",
+    "Songs of Childhood",
+    "Eminent Victorians",
+    "Queen Victoria",
+    "Vision and Design",
+    "Pointed Roofs",
+    "The Good Soldier: A Tale of Passion",
+    "Some Do Not…",
+    "Parade's End",
+    "The Garden Party and Other Stories",
+    "A Drunk Man Looks at the Thistle",
+    "Sunset Song",
+    "A Scots Quair",
+    "The Story and the Fable",
+    "The Narrow Place",
+    "Three Lives",
+    "Tender Buttons",
+    "The Autobiography of Alice B. Toklas",
+    "Winesburg, Ohio",
+    "The Weary Blues",
+    "The Ways of White Folks",
+    "Their Eyes Were Watching God",
+    "Mules and Men",
+    "Harlem Shadows",
+    "Home to Harlem",
+    "Color",
+    "Caroling Dusk",
+    "Cane",
+    "Three Soldiers",
+    "Manhattan Transfer",
+    "U.S.A.",
+    "The Great Gatsby",
+    "Tender Is the Night",
+    "The Sun Also Rises",
+    "A Farewell to Arms",
+    "In Our Time",
+    "The Sound and the Fury",
+    "As I Lay Dying",
+    "Light in August",
+    "Absalom, Absalom!",
+    "Go Down, Moses",
+    "Look Homeward, Angel",
+    "Of Time and the River",
+    "Flowering Judas",
+    "Pale Horse, Pale Rider",
+    "A Curtain of Green",
+    "The Optimist's Daughter",
+    "The Heart Is a Lonely Hunter",
+    "The Member of the Wedding",
+    "Poems (Auden, 1930)",
+    "The Orators: An English Study",
+    "Look, Stranger!",
+    "Spain",
+    "Another Time",
+    "Lions and Shadows: An Education in the Twenties",
+    "Goodbye to Berlin",
+    "Autumn Journal",
+    "The Burning Perch",
+    "Poems (Spender, 1933)",
+    "Vienna",
+    "World Within World",
+    "Homage to Catalonia",
+    "Burmese Days",
+    "Keep the Aspidistra Flying",
+    "Coming Up for Air",
+    "The Road to Wigan Pier"
+   ]
+  }
+ ]
+}

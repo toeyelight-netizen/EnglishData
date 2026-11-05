@@ -1,0 +1,3542 @@
+{
+ "author_genres": [
+  {
+   "author": "Agatha Christie",
+   "genres": [
+    "Detective Novel and the Golden Age Mystery",
+    "Dystopian Fiction and the Anti-Utopian Satire",
+    "Experimental Novel and the Modernist Form"
+   ]
+  },
+  {
+   "author": "Aldous Huxley",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Critical Essay and the Modern Review",
+    "Documentary Prose and the Reportage Book",
+    "Dystopian Fiction and the Anti-Utopian Satire",
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind",
+    "Scientific Romance and the Utopian Tale"
+   ]
+  },
+  {
+   "author": "Algernon Blackwood",
+   "genres": [
+    "Ghost Story and the Modern Weird Tale",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "author": "Arnold Bennett",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "author": "Arthur Machen",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Ghost Story and the Modern Weird Tale",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "author": "Carson McCullers",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Christopher Isherwood",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Biography and the Modern Life",
+    "Documentary Prose and the Reportage Book",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "author": "Claude McKay",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Jazz-Age Novel and the Expatriate Romance",
+    "New Negro Lyric and the Harlem Renaissance Poem",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Countee Cullen",
+   "genres": [
+    "Critical Essay and the Modern Review",
+    "Georgian Anthology Lyric",
+    "New Negro Lyric and the Harlem Renaissance Poem"
+   ]
+  },
+  {
+   "author": "D. H. Lawrence",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind",
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Dorothy L. Sayers",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Detective Novel and the Golden Age Mystery",
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Dorothy Richardson",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "author": "E. M. Forster",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Edmund Blunden",
+   "genres": [
+    "Nature Essay and the Rural Observation",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "Edward Thomas",
+   "genres": [
+    "Nature Essay and the Rural Observation",
+    "Trench Lyric and the War Poem"
+   ]
+  },
+  {
+   "author": "Edwin Muir",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Biography and the Modern Life",
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Ernest Hemingway",
+   "genres": [
+    "Jazz-Age Novel and the Expatriate Romance",
+    "Modern Short Story and the Magazine Tale",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "Eudora Welty",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Evelyn Waugh",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Documentary Prose and the Reportage Book",
+    "Experimental Novel and the Modernist Form",
+    "Jazz-Age Novel and the Expatriate Romance",
+    "Novel of Consciousness and the Stream of Mind",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "Ezra Pound",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "F. Scott Fitzgerald",
+   "genres": [
+    "Jazz-Age Novel and the Expatriate Romance",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "author": "Ford Madox Ford",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Critical Essay and the Modern Review",
+    "Documentary Prose and the Reportage Book",
+    "Novel of Consciousness and the Stream of Mind",
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "Gertrude Stein",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Biography and the Modern Life",
+    "Experimental Novel and the Modernist Form",
+    "Imagist Lyric and the Free-Verse Line",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "author": "H. D. (Hilda Doolittle)",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Hart Crane",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Herbert George Wells",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Critical Essay and the Modern Review",
+    "Documentary Prose and the Reportage Book",
+    "Dystopian Fiction and the Anti-Utopian Satire",
+    "Scientific Romance and the Utopian Tale"
+   ]
+  },
+  {
+   "author": "Hugh MacDiarmid",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Isaac Rosenberg",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Trench Lyric and the War Poem"
+   ]
+  },
+  {
+   "author": "J. M. Synge",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Documentary Prose and the Reportage Book",
+    "Nature Essay and the Rural Observation",
+    "Peasant Play and the Irish Dramatic Movement",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "author": "James Hanley",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Proletarian Novel and the Working-Class Fiction",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "James Joyce",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line",
+    "Modern Short Story and the Magazine Tale",
+    "Novel of Consciousness and the Stream of Mind",
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Jean Toomer",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "New Negro Lyric and the Harlem Renaissance Poem"
+   ]
+  },
+  {
+   "author": "John Boynton Priestley",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Experimental Novel and the Modernist Form",
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "author": "John Dos Passos",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Proletarian Novel and the Working-Class Fiction",
+    "Regional Novel and the American Local-Colour Inheritance",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "John Galsworthy",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "author": "John Masefield",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line",
+    "Nature Essay and the Rural Observation"
+   ]
+  },
+  {
+   "author": "Joseph Conrad",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Detective Novel and the Golden Age Mystery",
+    "Ghost Story and the Modern Weird Tale",
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Katherine Anne Porter",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "author": "Katherine Mansfield",
+   "genres": [
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "author": "Lady Gregory",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Documentary Prose and the Reportage Book",
+    "Nature Essay and the Rural Observation",
+    "Peasant Play and the Irish Dramatic Movement"
+   ]
+  },
+  {
+   "author": "Langston Hughes",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Modern Short Story and the Magazine Tale",
+    "New Negro Lyric and the Harlem Renaissance Poem"
+   ]
+  },
+  {
+   "author": "Lewis Grassic Gibbon",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Regional Novel and the American Local-Colour Inheritance",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "Louis MacNeice",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Lytton Strachey",
+   "genres": [
+    "Biography and the Modern Life",
+    "Critical Essay and the Modern Review"
+   ]
+  },
+  {
+   "author": "M. R. James",
+   "genres": [
+    "Ghost Story and the Modern Weird Tale",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "author": "Marianne Moore",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  },
+  {
+   "author": "Noel Coward",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Documentary Prose and the Reportage Book",
+    "Experimental Novel and the Modernist Form",
+    "Ghost Story and the Modern Weird Tale",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "author": "Olaf Stapledon",
+   "genres": [
+    "Dystopian Fiction and the Anti-Utopian Satire",
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance",
+    "Scientific Romance and the Utopian Tale"
+   ]
+  },
+  {
+   "author": "Robert Frost",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Robert Graves",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "Roger Fry",
+   "genres": [
+    "Critical Essay and the Modern Review"
+   ]
+  },
+  {
+   "author": "Rupert Brooke",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Trench Lyric and the War Poem"
+   ]
+  },
+  {
+   "author": "Saki (H. H. Munro)",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Ghost Story and the Modern Weird Tale",
+    "Modern Short Story and the Magazine Tale"
+   ]
+  },
+  {
+   "author": "Sean O'Casey",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Peasant Play and the Irish Dramatic Movement",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "author": "Sherwood Anderson",
+   "genres": [
+    "Modern Short Story and the Magazine Tale",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Siegfried Sassoon",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Novel of Development and the Growth Story",
+    "Trench Lyric and the War Poem",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "Stephen Spender",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Biography and the Modern Life",
+    "Documentary Prose and the Reportage Book",
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "T. E. Lawrence",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "War Memoir and the Autobiographical Testimony"
+   ]
+  },
+  {
+   "author": "T. S. Eliot",
+   "genres": [
+    "Children's Fantasy and the Golden-Age Tale",
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line",
+    "Modernist Long Poem and the Mythical Method",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "author": "Terence Rattigan",
+   "genres": [
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "author": "Thomas Wolfe",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Virginia Woolf",
+   "genres": [
+    "Biography and the Modern Life",
+    "Comedy of Manners and the Drawing-Room Stage",
+    "Experimental Novel and the Modernist Form",
+    "Novel of Consciousness and the Stream of Mind"
+   ]
+  },
+  {
+   "author": "W. B. Yeats",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line",
+    "Modernist Long Poem and the Mythical Method",
+    "Peasant Play and the Irish Dramatic Movement",
+    "Verse Drama and the Poetic Play"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Georgian Anthology Lyric",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Wallace Stevens",
+   "genres": [
+    "Imagist Lyric and the Free-Verse Line",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Walter Greenwood",
+   "genres": [
+    "Proletarian Novel and the Working-Class Fiction",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Walter de la Mare",
+   "genres": [
+    "Children's Fantasy and the Golden-Age Tale",
+    "Georgian Anthology Lyric",
+    "Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "author": "Wilfred Owen",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Trench Lyric and the War Poem"
+   ]
+  },
+  {
+   "author": "William Carlos Williams",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Imagist Lyric and the Free-Verse Line",
+    "Modernist Long Poem and the Mythical Method"
+   ]
+  },
+  {
+   "author": "William Faulkner",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Modern Short Story and the Magazine Tale",
+    "Novel of Consciousness and the Stream of Mind",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "Zora Neale Hurston",
+   "genres": [
+    "Documentary Prose and the Reportage Book",
+    "Modern Short Story and the Magazine Tale",
+    "Novel of Development and the Growth Story",
+    "Regional Novel and the American Local-Colour Inheritance"
+   ]
+  },
+  {
+   "author": "e e cummings",
+   "genres": [
+    "Georgian Anthology Lyric",
+    "Imagist Lyric and the Free-Verse Line"
+   ]
+  }
+ ],
+ "author_movements": [
+  {
+   "author": "Agatha Christie",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "author": "Aldous Huxley",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Bloomsbury Group and the Novel of Consciousness",
+    "The Edwardian Country House and the Condition of England",
+    "The Scientific Romance and the English Utopia",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Algernon Blackwood",
+   "movements": [
+    "The Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "author": "Arnold Bennett",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "Arthur Machen",
+   "movements": [
+    "The Aesthetic Turn in 1890s America",
+    "The Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "author": "Carson McCullers",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "author": "Christopher Isherwood",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "author": "Claude McKay",
+   "movements": [
+    "The Harlem Renaissance and the New Negro",
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "author": "Countee Cullen",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "author": "D. H. Lawrence",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Dorothy L. Sayers",
+   "movements": [
+    "The Golden Age of Detective Fiction"
+   ]
+  },
+  {
+   "author": "Dorothy Richardson",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "author": "E. M. Forster",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "Edmund Blunden",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "Edward Thomas",
+   "movements": [
+    "Georgian Poetry and the English Lyric",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "Edwin Muir",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "author": "Ernest Hemingway",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "The Lost Generation and the Expatriate Novel",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "Eudora Welty",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "author": "Evelyn Waugh",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "Ezra Pound",
+   "movements": [
+    "Imagism and the Free-Verse Revolution",
+    "The Waste Land Generation and the Mythical Method",
+    "Vorticism and the Modernist Little Magazine"
+   ]
+  },
+  {
+   "author": "F. Scott Fitzgerald",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Ford Madox Ford",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness",
+    "The Edwardian Country House and the Condition of England",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England",
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "author": "Gertrude Stein",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "The Lost Generation and the Expatriate Novel",
+    "Vorticism and the Modernist Little Magazine"
+   ]
+  },
+  {
+   "author": "H. D. (Hilda Doolittle)",
+   "movements": [
+    "Imagism and the Free-Verse Revolution",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Hart Crane",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Herbert George Wells",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England",
+    "The Scientific Romance and the English Utopia"
+   ]
+  },
+  {
+   "author": "Hugh MacDiarmid",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "author": "Isaac Rosenberg",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "J. M. Synge",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "author": "James Hanley",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "author": "James Joyce",
+   "movements": [
+    "The Celtic Twilight and the Irish Short Story",
+    "The Irish Literary Revival and the Abbey Theatre",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Jean Toomer",
+   "movements": [
+    "The Harlem Renaissance and the New Negro",
+    "The Lost Generation and the Expatriate Novel"
+   ]
+  },
+  {
+   "author": "John Boynton Priestley",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "John Dos Passos",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "The Hungry Thirties and the Documentary Novel",
+    "The Lost Generation and the Expatriate Novel",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "John Galsworthy",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "John Masefield",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "author": "Joseph Conrad",
+   "movements": [
+    "The Edwardian Country House and the Condition of England",
+    "The Golden Age of Detective Fiction",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Katherine Anne Porter",
+   "movements": [
+    "The Celtic Twilight and the Irish Short Story",
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "author": "Katherine Mansfield",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "author": "Lady Gregory",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "author": "Langston Hughes",
+   "movements": [
+    "The Harlem Renaissance and the New Negro"
+   ]
+  },
+  {
+   "author": "Lewis Grassic Gibbon",
+   "movements": [
+    "The Scottish Renaissance and the Vernacular Revival"
+   ]
+  },
+  {
+   "author": "Louis MacNeice",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "author": "Lytton Strachey",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "author": "M. R. James",
+   "movements": [
+    "The Ghost Story and the Modern Weird Tale"
+   ]
+  },
+  {
+   "author": "Marianne Moore",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "author": "Noel Coward",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "Olaf Stapledon",
+   "movements": [
+    "The Scientific Romance and the English Utopia"
+   ]
+  },
+  {
+   "author": "Robert Frost",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "author": "Robert Graves",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "Roger Fry",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness"
+   ]
+  },
+  {
+   "author": "Rupert Brooke",
+   "movements": [
+    "Georgian Poetry and the English Lyric",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "Saki (H. H. Munro)",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "Sean O'Casey",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre"
+   ]
+  },
+  {
+   "author": "Sherwood Anderson",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "author": "Siegfried Sassoon",
+   "movements": [
+    "Georgian Poetry and the English Lyric",
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "Stephen Spender",
+   "movements": [
+    "The Auden Generation and the Thirties Poem"
+   ]
+  },
+  {
+   "author": "T. E. Lawrence",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "T. S. Eliot",
+   "movements": [
+    "Imagism and the Free-Verse Revolution",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "Terence Rattigan",
+   "movements": [
+    "The Edwardian Country House and the Condition of England"
+   ]
+  },
+  {
+   "author": "Thomas Wolfe",
+   "movements": [
+    "The Lost Generation and the Expatriate Novel",
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "author": "Virginia Woolf",
+   "movements": [
+    "The Bloomsbury Group and the Novel of Consciousness",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "W. B. Yeats",
+   "movements": [
+    "The Irish Literary Revival and the Abbey Theatre",
+    "The Waste Land Generation and the Mythical Method"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "movements": [
+    "The Auden Generation and the Thirties Poem",
+    "Vorticism and the Modernist Little Magazine"
+   ]
+  },
+  {
+   "author": "Wallace Stevens",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  },
+  {
+   "author": "Walter Greenwood",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "author": "Walter de la Mare",
+   "movements": [
+    "Georgian Poetry and the English Lyric"
+   ]
+  },
+  {
+   "author": "Wilfred Owen",
+   "movements": [
+    "Trench Poetry and the Literature of the First World War"
+   ]
+  },
+  {
+   "author": "William Carlos Williams",
+   "movements": [
+    "American Modernism and the Objectivist Lyric",
+    "Imagism and the Free-Verse Revolution"
+   ]
+  },
+  {
+   "author": "William Faulkner",
+   "movements": [
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "author": "Zora Neale Hurston",
+   "movements": [
+    "The Harlem Renaissance and the New Negro",
+    "The Southern Renaissance and the American Regional Novel"
+   ]
+  },
+  {
+   "author": "e e cummings",
+   "movements": [
+    "American Modernism and the Objectivist Lyric"
+   ]
+  }
+ ],
+ "author_themes": [
+  {
+   "author": "Agatha Christie",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The absurd, the void, and the failure of meaning",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Aldous Huxley",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Mass society, the crowd, and the individual talent",
+    "Myth, ritual, and the primitive imagination",
+    "Religion, doubt, and the post-war faith",
+    "Science, technology, and the machine age",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning",
+    "Time, memory, and the duration of consciousness",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Algernon Blackwood",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Arnold Bennett",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Arthur Machen",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Myth, ritual, and the primitive imagination",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "author": "Carson McCullers",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Race, the colour line, and the New Negro",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "author": "Christopher Isherwood",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Claude McKay",
+   "themes": [
+    "Exile, expatriation, and the lost generation",
+    "Race, the colour line, and the New Negro",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "author": "Countee Cullen",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The little magazine and the modernist institution"
+   ]
+  },
+  {
+   "author": "D. H. Lawrence",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Suffrage, feminism, and the woman's work",
+    "The absurd, the void, and the failure of meaning",
+    "The body, illness, and the sanatorium",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The machine, the motor car, and the modern tempo"
+   ]
+  },
+  {
+   "author": "Dorothy L. Sayers",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Education, the schools, and the cultivation of the self",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Suffrage, feminism, and the woman's work"
+   ]
+  },
+  {
+   "author": "Dorothy Richardson",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Suffrage, feminism, and the woman's work"
+   ]
+  },
+  {
+   "author": "E. M. Forster",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Empire, the imperial idea, and its discontents",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Religion, doubt, and the post-war faith",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The suburb, the villa, and the new domesticity"
+   ]
+  },
+  {
+   "author": "Edmund Blunden",
+   "themes": [
+    "Shell shock, mourning, and the unquiet dead",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Edward Thomas",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Edwin Muir",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Religion, doubt, and the post-war faith",
+    "Time, memory, and the duration of consciousness",
+    "Wales, Scotland, and the Celtic periphery"
+   ]
+  },
+  {
+   "author": "Ernest Hemingway",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Exile, expatriation, and the lost generation",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "author": "Eudora Welty",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Race, the colour line, and the New Negro",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Evelyn Waugh",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Empire, the imperial idea, and its discontents",
+    "Mass society, the crowd, and the individual talent",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The jazz age and the pleasure economy",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Ezra Pound",
+   "themes": [
+    "Exile, expatriation, and the lost generation",
+    "Mass society, the crowd, and the individual talent",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Myth, ritual, and the primitive imagination",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The waste land and the decline of the West",
+    "Time, memory, and the duration of consciousness",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "F. Scott Fitzgerald",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning",
+    "The body, illness, and the sanatorium",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "author": "Ford Madox Ford",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Shell shock, mourning, and the unquiet dead",
+    "Suffrage, feminism, and the woman's work",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Empire, the imperial idea, and its discontents",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Race, the colour line, and the New Negro",
+    "The Depression, unemployment, and the hunger march",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The suburb, the villa, and the new domesticity",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Gertrude Stein",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation",
+    "Mass society, the crowd, and the individual talent",
+    "Race, the colour line, and the New Negro",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The suburb, the villa, and the new domesticity"
+   ]
+  },
+  {
+   "author": "H. D. (Hilda Doolittle)",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Hart Crane",
+   "themes": [
+    "Mass society, the crowd, and the individual talent",
+    "Myth, ritual, and the primitive imagination",
+    "The machine, the motor car, and the modern tempo"
+   ]
+  },
+  {
+   "author": "Herbert George Wells",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Mass society, the crowd, and the individual talent",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Science, technology, and the machine age",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The machine, the motor car, and the modern tempo",
+    "The suburb, the villa, and the new domesticity",
+    "The waste land and the decline of the West",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Hugh MacDiarmid",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Religion, doubt, and the post-war faith",
+    "The body, illness, and the sanatorium",
+    "Wales, Scotland, and the Celtic periphery"
+   ]
+  },
+  {
+   "author": "Isaac Rosenberg",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Religion, doubt, and the post-war faith",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "author": "J. M. Synge",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Ireland, Home Rule, and the national question",
+    "Myth, ritual, and the primitive imagination",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "James Hanley",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Poverty, dependence, and the professional writer",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The Depression, unemployment, and the hunger march"
+   ]
+  },
+  {
+   "author": "James Joyce",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Ireland, Home Rule, and the national question",
+    "Myth, ritual, and the primitive imagination",
+    "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Jean Toomer",
+   "themes": [
+    "Exile, expatriation, and the lost generation",
+    "Myth, ritual, and the primitive imagination",
+    "Race, the colour line, and the New Negro",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "John Boynton Priestley",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Class, the servant problem, and the new democracy",
+    "Conscience and moral self-examination",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Poverty, dependence, and the professional writer",
+    "The Depression, unemployment, and the hunger march",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The jazz age and the pleasure economy",
+    "The metropolis, the crowd, and the imperial capital",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "John Dos Passos",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Mass society, the crowd, and the individual talent",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The Depression, unemployment, and the hunger march",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning",
+    "The jazz age and the pleasure economy",
+    "The machine, the motor car, and the modern tempo"
+   ]
+  },
+  {
+   "author": "John Galsworthy",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Class, the servant problem, and the new democracy",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "author": "John Masefield",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation",
+    "Religion, doubt, and the post-war faith",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Joseph Conrad",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Empire, the imperial idea, and its discontents",
+    "Exile, expatriation, and the lost generation",
+    "Mass society, the crowd, and the individual talent",
+    "Race, the colour line, and the New Negro",
+    "The absurd, the void, and the failure of meaning",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Katherine Anne Porter",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "author": "Katherine Mansfield",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "author": "Lady Gregory",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Class, the servant problem, and the new democracy",
+    "Death, the soul, and the afterlife",
+    "Empire, the imperial idea, and its discontents",
+    "Ireland, Home Rule, and the national question",
+    "Mass society, the crowd, and the individual talent",
+    "Myth, ritual, and the primitive imagination",
+    "Poverty, dependence, and the professional writer",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Langston Hughes",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation",
+    "Race, the colour line, and the New Negro",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "author": "Lewis Grassic Gibbon",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Religion, doubt, and the post-war faith",
+    "The Depression, unemployment, and the hunger march",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Wales, Scotland, and the Celtic periphery"
+   ]
+  },
+  {
+   "author": "Louis MacNeice",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Ireland, Home Rule, and the national question",
+    "The absurd, the void, and the failure of meaning",
+    "The body, illness, and the sanatorium",
+    "The machine, the motor car, and the modern tempo",
+    "Time, memory, and the duration of consciousness",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Lytton Strachey",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Empire, the imperial idea, and its discontents",
+    "Religion, doubt, and the post-war faith"
+   ]
+  },
+  {
+   "author": "M. R. James",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Myth, ritual, and the primitive imagination",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Marianne Moore",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Mass society, the crowd, and the individual talent",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Noel Coward",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Bohemia, the professional writer, and the Grub Street market",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Empire, the imperial idea, and its discontents",
+    "Love, constancy, and betrayal",
+    "National identity and Englishness",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning",
+    "The jazz age and the pleasure economy"
+   ]
+  },
+  {
+   "author": "Olaf Stapledon",
+   "themes": [
+    "Creation and cosmology",
+    "Love, constancy, and betrayal",
+    "Religion, doubt, and the post-war faith",
+    "Science, technology, and the machine age",
+    "The absurd, the void, and the failure of meaning",
+    "The body, illness, and the sanatorium",
+    "Totalitarianism, propaganda, and the political novel",
+    "Tyranny and the abuse of power"
+   ]
+  },
+  {
+   "author": "Robert Frost",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Robert Graves",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Shell shock, mourning, and the unquiet dead",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "author": "Roger Fry",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Mass society, the crowd, and the individual talent",
+    "Myth, ritual, and the primitive imagination"
+   ]
+  },
+  {
+   "author": "Rupert Brooke",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Exile, expatriation, and the lost generation",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Saki (H. H. Munro)",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Myth, ritual, and the primitive imagination",
+    "The absurd, the void, and the failure of meaning",
+    "The supernatural ballad and willed belief"
+   ]
+  },
+  {
+   "author": "Sean O'Casey",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Ireland, Home Rule, and the national question",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  },
+  {
+   "author": "Sherwood Anderson",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Siegfried Sassoon",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Shell shock, mourning, and the unquiet dead",
+    "The First World War and the myth of sacrifice",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Stephen Spender",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The machine, the motor car, and the modern tempo",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "T. E. Lawrence",
+   "themes": [
+    "Empire, the imperial idea, and its discontents",
+    "Exile, expatriation, and the lost generation",
+    "Mass society, the crowd, and the individual talent",
+    "National identity and Englishness",
+    "The First World War and the myth of sacrifice",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "author": "T. S. Eliot",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Death, elegy, and the modern funeral",
+    "Mass society, the crowd, and the individual talent",
+    "Myth, ritual, and the primitive imagination",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning",
+    "The suburb, the villa, and the new domesticity",
+    "The waste land and the decline of the West",
+    "Time, memory, and the duration of consciousness",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Terence Rattigan",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Conscience and moral self-examination",
+    "Education, the schools, and the cultivation of the self",
+    "Love, constancy, and betrayal",
+    "The absurd, the void, and the failure of meaning",
+    "The body, illness, and the sanatorium"
+   ]
+  },
+  {
+   "author": "Thomas Wolfe",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Exile, expatriation, and the lost generation",
+    "Race, the colour line, and the New Negro",
+    "The absurd, the void, and the failure of meaning",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Virginia Woolf",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Mass society, the crowd, and the individual talent",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Shell shock, mourning, and the unquiet dead",
+    "Suffrage, feminism, and the woman's work",
+    "The First World War and the myth of sacrifice",
+    "The absurd, the void, and the failure of meaning",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "W. B. Yeats",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Ireland, Home Rule, and the national question",
+    "Myth, ritual, and the primitive imagination",
+    "Religion, doubt, and the post-war faith",
+    "The First World War and the myth of sacrifice",
+    "The body, illness, and the sanatorium",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Exile, expatriation, and the lost generation",
+    "Mass society, the crowd, and the individual talent",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The First World War and the myth of sacrifice",
+    "The machine, the motor car, and the modern tempo",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "author": "Wallace Stevens",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Myth, ritual, and the primitive imagination",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Walter Greenwood",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Poverty, dependence, and the professional writer",
+    "The Depression, unemployment, and the hunger march",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Walter de la Mare",
+   "themes": [
+    "Childhood, the nursery, and the Edwardian idyll",
+    "Death, elegy, and the modern funeral",
+    "Myth, ritual, and the primitive imagination",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "Wilfred Owen",
+   "themes": [
+    "Death, elegy, and the modern funeral",
+    "Shell shock, mourning, and the unquiet dead",
+    "The First World War and the myth of sacrifice"
+   ]
+  },
+  {
+   "author": "William Carlos Williams",
+   "themes": [
+    "Mass society, the crowd, and the individual talent",
+    "The countryside, the vanishing rural world, and the motor road",
+    "The machine, the motor car, and the modern tempo",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "William Faulkner",
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Death, elegy, and the modern funeral",
+    "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning",
+    "The countryside, the vanishing rural world, and the motor road",
+    "Time, memory, and the duration of consciousness"
+   ]
+  },
+  {
+   "author": "Zora Neale Hurston",
+   "themes": [
+    "Myth, ritual, and the primitive imagination",
+    "Race, the colour line, and the New Negro",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The Depression, unemployment, and the hunger march",
+    "The countryside, the vanishing rural world, and the motor road"
+   ]
+  },
+  {
+   "author": "e e cummings",
+   "themes": [
+    "Mass society, the crowd, and the individual talent",
+    "Sexuality, the new psychology, and the Freudian century",
+    "The absurd, the void, and the failure of meaning"
+   ]
+  }
+ ],
+ "author_influences": [
+  {
+   "author": "Joseph Conrad",
+   "influenced_by": [
+    "Charles Dickens",
+    "Robert Louis Stevenson",
+    "Henry James"
+   ]
+  },
+  {
+   "author": "Herbert George Wells",
+   "influenced_by": [
+    "Jonathan Swift",
+    "George Bernard Shaw",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "Arnold Bennett",
+   "influenced_by": [
+    "George Moore",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "John Galsworthy",
+   "influenced_by": [
+    "Charles Dickens",
+    "William Makepeace Thackeray",
+    "George Eliot"
+   ]
+  },
+  {
+   "author": "E. M. Forster",
+   "influenced_by": [
+    "Jane Austen",
+    "George Eliot",
+    "Samuel Butler",
+    "Matthew Arnold",
+    "Nathaniel Hawthorne"
+   ]
+  },
+  {
+   "author": "Virginia Woolf",
+   "influenced_by": [
+    "James Joyce",
+    "Henry James",
+    "Laurence Sterne",
+    "Jane Austen",
+    "George Eliot",
+    "Walter Pater"
+   ]
+  },
+  {
+   "author": "D. H. Lawrence",
+   "influenced_by": [
+    "Thomas Hardy",
+    "George Eliot",
+    "William Blake",
+    "Walt Whitman"
+   ]
+  },
+  {
+   "author": "Olaf Stapledon",
+   "influenced_by": [
+    "Herman Melville"
+   ]
+  },
+  {
+   "author": "John Boynton Priestley",
+   "influenced_by": [
+    "Charles Dickens",
+    "George Bernard Shaw",
+    "Arnold Bennett",
+    "William Hazlitt"
+   ]
+  },
+  {
+   "author": "Terence Rattigan",
+   "influenced_by": [
+    "Noel Coward",
+    "Oscar Wilde",
+    "George Bernard Shaw"
+   ]
+  },
+  {
+   "author": "T. E. Lawrence",
+   "influenced_by": [
+    "Herman Melville",
+    "Thomas Malory",
+    "Walter Pater"
+   ]
+  },
+  {
+   "author": "Saki (H. H. Munro)",
+   "influenced_by": [
+    "Oscar Wilde",
+    "Rudyard Kipling",
+    "William Makepeace Thackeray",
+    "Lewis Carroll",
+    "Charles Dickens",
+    "Jerome K. Jerome"
+   ]
+  },
+  {
+   "author": "Walter Greenwood",
+   "influenced_by": [
+    "Charles Dickens",
+    "Arnold Bennett",
+    "George Orwell"
+   ]
+  },
+  {
+   "author": "James Hanley",
+   "influenced_by": [
+    "Joseph Conrad",
+    "Charles Dickens",
+    "James Joyce",
+    "Herman Melville"
+   ]
+  },
+  {
+   "author": "W. B. Yeats",
+   "influenced_by": [
+    "William Blake",
+    "Percy Bysshe Shelley",
+    "John Keats",
+    "William Morris",
+    "Lady Gregory"
+   ]
+  },
+  {
+   "author": "T. S. Eliot",
+   "influenced_by": [
+    "John Donne",
+    "William Shakespeare",
+    "Ezra Pound"
+   ]
+  },
+  {
+   "author": "Ezra Pound",
+   "influenced_by": [
+    "Robert Browning",
+    "Walt Whitman",
+    "Ford Madox Ford"
+   ]
+  },
+  {
+   "author": "H. D. (Hilda Doolittle)",
+   "influenced_by": [
+    "Ezra Pound",
+    "Walt Whitman"
+   ]
+  },
+  {
+   "author": "Edward Thomas",
+   "influenced_by": [
+    "Robert Frost",
+    "William Wordsworth",
+    "John Clare",
+    "Richard Jefferies",
+    "Thomas Hardy",
+    "W. H. Hudson"
+   ]
+  },
+  {
+   "author": "Siegfried Sassoon",
+   "influenced_by": [
+    "Thomas Hardy",
+    "John Masefield",
+    "William Wordsworth",
+    "Wilfred Owen",
+    "Edward Thomas",
+    "Rupert Brooke"
+   ]
+  },
+  {
+   "author": "Wilfred Owen",
+   "influenced_by": [
+    "Siegfried Sassoon",
+    "John Keats",
+    "William Wordsworth",
+    "Percy Bysshe Shelley",
+    "Algernon Charles Swinburne",
+    "Thomas Hardy"
+   ]
+  },
+  {
+   "author": "Rupert Brooke",
+   "influenced_by": [
+    "John Donne",
+    "William Wordsworth",
+    "John Webster",
+    "W. B. Yeats",
+    "John Masefield",
+    "Thomas Hardy"
+   ]
+  },
+  {
+   "author": "Walter de la Mare",
+   "influenced_by": [
+    "John Keats",
+    "William Wordsworth",
+    "Robert Louis Stevenson",
+    "Thomas Hardy",
+    "Edgar Allan Poe",
+    "Robert Herrick"
+   ]
+  },
+  {
+   "author": "Robert Frost",
+   "influenced_by": [
+    "Ralph Waldo Emerson",
+    "William Wordsworth",
+    "Robert Browning",
+    "Thomas Hardy",
+    "Edward Thomas"
+   ]
+  },
+  {
+   "author": "Wallace Stevens",
+   "influenced_by": [
+    "Walt Whitman",
+    "John Keats",
+    "Ralph Waldo Emerson"
+   ]
+  },
+  {
+   "author": "William Carlos Williams",
+   "influenced_by": [
+    "Ezra Pound",
+    "H. D. (Hilda Doolittle)",
+    "Walt Whitman",
+    "John Keats",
+    "Marianne Moore",
+    "Ralph Waldo Emerson"
+   ]
+  },
+  {
+   "author": "Marianne Moore",
+   "influenced_by": [
+    "Ezra Pound",
+    "T. S. Eliot",
+    "Henry James",
+    "Gerard Manley Hopkins",
+    "Walt Whitman",
+    "William Carlos Williams"
+   ]
+  },
+  {
+   "author": "Hart Crane",
+   "influenced_by": [
+    "Walt Whitman",
+    "T. S. Eliot",
+    "Christopher Marlowe",
+    "William Blake",
+    "Emily Dickinson",
+    "Herman Melville"
+   ]
+  },
+  {
+   "author": "e e cummings",
+   "influenced_by": [
+    "Ezra Pound",
+    "Gertrude Stein",
+    "John Keats",
+    "William Shakespeare"
+   ]
+  },
+  {
+   "author": "Isaac Rosenberg",
+   "influenced_by": [
+    "John Keats",
+    "William Blake",
+    "Percy Bysshe Shelley",
+    "William Wordsworth",
+    "Robert Browning"
+   ]
+  },
+  {
+   "author": "Robert Graves",
+   "influenced_by": [
+    "John Skelton",
+    "John Donne",
+    "William Shakespeare",
+    "Thomas Hardy",
+    "Siegfried Sassoon"
+   ]
+  },
+  {
+   "author": "Edmund Blunden",
+   "influenced_by": [
+    "John Clare",
+    "William Wordsworth",
+    "Thomas Hardy",
+    "Edward Thomas",
+    "Leigh Hunt",
+    "William Hazlitt"
+   ]
+  },
+  {
+   "author": "John Masefield",
+   "influenced_by": [
+    "John Keats",
+    "Geoffrey Chaucer",
+    "Robert Louis Stevenson",
+    "William Wordsworth",
+    "John Ruskin",
+    "George Borrow"
+   ]
+  },
+  {
+   "author": "J. M. Synge",
+   "influenced_by": [
+    "William Wordsworth",
+    "Lady Gregory",
+    "W. B. Yeats",
+    "John Keats"
+   ]
+  },
+  {
+   "author": "Lady Gregory",
+   "influenced_by": [
+    "William Shakespeare",
+    "W. B. Yeats",
+    "Edmund Spenser"
+   ]
+  },
+  {
+   "author": "Sean O'Casey",
+   "influenced_by": [
+    "William Shakespeare",
+    "George Bernard Shaw",
+    "Charles Dickens",
+    "W. B. Yeats"
+   ]
+  },
+  {
+   "author": "James Joyce",
+   "influenced_by": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "W. B. Yeats"
+   ]
+  },
+  {
+   "author": "Lytton Strachey",
+   "influenced_by": [
+    "Thomas Carlyle",
+    "Edward Gibbon",
+    "Samuel Johnson",
+    "George Eliot"
+   ]
+  },
+  {
+   "author": "Roger Fry",
+   "influenced_by": [
+    "John Ruskin",
+    "Walter Pater"
+   ]
+  },
+  {
+   "author": "Dorothy Richardson",
+   "influenced_by": [
+    "Henry James",
+    "George Eliot",
+    "James Joyce"
+   ]
+  },
+  {
+   "author": "Ford Madox Ford",
+   "influenced_by": [
+    "Joseph Conrad",
+    "Henry James",
+    "William Makepeace Thackeray"
+   ]
+  },
+  {
+   "author": "Katherine Mansfield",
+   "influenced_by": [
+    "Virginia Woolf",
+    "Oscar Wilde",
+    "D. H. Lawrence",
+    "William Shakespeare"
+   ]
+  },
+  {
+   "author": "Hugh MacDiarmid",
+   "influenced_by": [
+    "Robert Burns",
+    "William Dunbar",
+    "James Joyce",
+    "Ezra Pound",
+    "T. S. Eliot"
+   ]
+  },
+  {
+   "author": "Lewis Grassic Gibbon",
+   "influenced_by": [
+    "Thomas Hardy",
+    "Hugh MacDiarmid",
+    "John Galt"
+   ]
+  },
+  {
+   "author": "Edwin Muir",
+   "influenced_by": [
+    "John Keats",
+    "William Wordsworth",
+    "William Blake",
+    "Robert Burns"
+   ]
+  },
+  {
+   "author": "Gertrude Stein",
+   "influenced_by": [
+    "Henry James",
+    "Laurence Sterne"
+   ]
+  },
+  {
+   "author": "Sherwood Anderson",
+   "influenced_by": [
+    "Theodore Dreiser",
+    "Gertrude Stein",
+    "Mark Twain",
+    "Walt Whitman",
+    "Henry James",
+    "D. H. Lawrence"
+   ]
+  },
+  {
+   "author": "Langston Hughes",
+   "influenced_by": [
+    "Walt Whitman",
+    "Paul Laurence Dunbar",
+    "Claude McKay",
+    "Countee Cullen"
+   ]
+  },
+  {
+   "author": "Zora Neale Hurston",
+   "influenced_by": [
+    "Langston Hughes",
+    "Joel Chandler Harris"
+   ]
+  },
+  {
+   "author": "Claude McKay",
+   "influenced_by": [
+    "William Wordsworth",
+    "Percy Bysshe Shelley",
+    "Paul Laurence Dunbar",
+    "Walt Whitman"
+   ]
+  },
+  {
+   "author": "Countee Cullen",
+   "influenced_by": [
+    "John Keats",
+    "A. E. Housman",
+    "William Wordsworth",
+    "Percy Bysshe Shelley"
+   ]
+  },
+  {
+   "author": "Jean Toomer",
+   "influenced_by": [
+    "Walt Whitman",
+    "Sherwood Anderson",
+    "Gertrude Stein",
+    "William Blake"
+   ]
+  },
+  {
+   "author": "F. Scott Fitzgerald",
+   "influenced_by": [
+    "John Keats",
+    "Joseph Conrad",
+    "Henry James",
+    "Edith Wharton"
+   ]
+  },
+  {
+   "author": "Ernest Hemingway",
+   "influenced_by": [
+    "Gertrude Stein",
+    "Sherwood Anderson",
+    "Ezra Pound",
+    "Joseph Conrad",
+    "Mark Twain"
+   ]
+  },
+  {
+   "author": "John Dos Passos",
+   "influenced_by": [
+    "Walt Whitman",
+    "James Joyce",
+    "T. S. Eliot",
+    "Gertrude Stein",
+    "Sherwood Anderson"
+   ]
+  },
+  {
+   "author": "William Faulkner",
+   "influenced_by": [
+    "James Joyce",
+    "Joseph Conrad",
+    "Sherwood Anderson",
+    "T. S. Eliot",
+    "William Shakespeare",
+    "Herman Melville",
+    "Mark Twain"
+   ]
+  },
+  {
+   "author": "Thomas Wolfe",
+   "influenced_by": [
+    "James Joyce",
+    "Sherwood Anderson",
+    "Walt Whitman",
+    "Gertrude Stein"
+   ]
+  },
+  {
+   "author": "Katherine Anne Porter",
+   "influenced_by": [
+    "Henry James",
+    "James Joyce",
+    "Katherine Mansfield"
+   ]
+  },
+  {
+   "author": "Eudora Welty",
+   "influenced_by": [
+    "Katherine Anne Porter",
+    "William Faulkner",
+    "Jane Austen"
+   ]
+  },
+  {
+   "author": "Carson McCullers",
+   "influenced_by": [
+    "William Faulkner",
+    "Sherwood Anderson",
+    "Eudora Welty"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "influenced_by": [
+    "T. S. Eliot",
+    "Gerard Manley Hopkins",
+    "Thomas Hardy",
+    "Edward Lear",
+    "W. B. Yeats"
+   ]
+  },
+  {
+   "author": "Christopher Isherwood",
+   "influenced_by": [
+    "E. M. Forster",
+    "W. H. Auden"
+   ]
+  },
+  {
+   "author": "Stephen Spender",
+   "influenced_by": [
+    "W. H. Auden",
+    "John Donne",
+    "William Wordsworth",
+    "Percy Bysshe Shelley",
+    "T. S. Eliot",
+    "Walter Savage Landor"
+   ]
+  },
+  {
+   "author": "Louis MacNeice",
+   "influenced_by": [
+    "W. H. Auden",
+    "John Donne",
+    "William Wordsworth",
+    "W. B. Yeats"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "influenced_by": [
+    "Charles Dickens",
+    "Jonathan Swift",
+    "George Gissing",
+    "Jack London",
+    "William Hazlitt"
+   ]
+  },
+  {
+   "author": "Aldous Huxley",
+   "influenced_by": [
+    "Matthew Arnold",
+    "D. H. Lawrence"
+   ]
+  },
+  {
+   "author": "Evelyn Waugh",
+   "influenced_by": [
+    "Charles Dickens",
+    "Laurence Sterne",
+    "Thomas Malory"
+   ]
+  },
+  {
+   "author": "Agatha Christie",
+   "influenced_by": [
+    "Arthur Conan Doyle",
+    "Wilkie Collins",
+    "Edgar Allan Poe"
+   ]
+  },
+  {
+   "author": "Dorothy L. Sayers",
+   "influenced_by": [
+    "Wilkie Collins",
+    "Arthur Conan Doyle"
+   ]
+  },
+  {
+   "author": "M. R. James",
+   "influenced_by": [
+    "Edgar Allan Poe",
+    "Charles Dickens",
+    "Joseph Sheridan Le Fanu",
+    "William Shakespeare",
+    "Henry James"
+   ]
+  },
+  {
+   "author": "Algernon Blackwood",
+   "influenced_by": [
+    "Edgar Allan Poe",
+    "Richard Jefferies",
+    "W. B. Yeats",
+    "Arthur Machen"
+   ]
+  },
+  {
+   "author": "Arthur Machen",
+   "influenced_by": [
+    "Robert Louis Stevenson",
+    "Walter Pater",
+    "Edgar Allan Poe",
+    "William Blake",
+    "Margaret Oliphant"
+   ]
+  },
+  {
+   "author": "Noel Coward",
+   "influenced_by": [
+    "Oscar Wilde",
+    "George Bernard Shaw"
+   ]
+  }
+ ],
+ "author_sources": [
+  {
+   "author": "Joseph Conrad",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Letters of Joseph Conrad",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Herbert George Wells",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Arnold Bennett",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "John Galsworthy",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "E. M. Forster",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Virginia Woolf",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Diary of Virginia Woolf",
+    "The Letters of Virginia Woolf",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "D. H. Lawrence",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Complete Poems of D. H. Lawrence",
+    "The Complete Poems of D. H. Lawrence (Cambridge edition)",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Olaf Stapledon",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "John Boynton Priestley",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Terence Rattigan",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "T. E. Lawrence",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Complete Poems of D. H. Lawrence",
+    "The Complete Poems of D. H. Lawrence (Cambridge edition)",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Saki (H. H. Munro)",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Walter Greenwood",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "James Hanley",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "W. B. Yeats",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Autobiography of W. B. Yeats",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Poems of W. B. Yeats",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "T. S. Eliot",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Letters of T. S. Eliot, Volume 1: 1898–1922",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Ezra Pound",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "H. D. (Hilda Doolittle)",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Edward Thomas",
+   "sources": [
+    "Memoirs of the Life and Writings of Thomas Chalmers, D.D., LL.D. (4 volumes)",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "Nightmare Abbey (The Cambridge Edition of the Novels of Thomas Love Peacock, volume 7)",
+    "Selected Poems of Thomas Hood",
+    "Sir Thomas Wyatt: The Complete Poems",
+    "The Ashgate Research Companion to Thomas Lovell Beddoes (The Nineteenth Century Series)",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Letters of Thomas Hardy, 7 vols",
+    "The Correspondence of Thomas Carlyle and Ralph Waldo Emerson, 1834–1872, 2 vols",
+    "The Journals of Thomas Babington Macaulay (5 volumes)",
+    "The Letters of Thomas Babington Macaulay: Volume 2, March 1831-December 1833",
+    "The Major Works of Sir Thomas Browne",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Papers of Thomas Jefferson",
+    "The Poems of Edward Thomas",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith",
+    "The Poetical Works of Thomas Lovell Beddoes (2 volumes)",
+    "The Poetical Works of Thomas Moore",
+    "The Works of Thomas De Quincey (21 volumes)",
+    "Thomas Chalmers and the Godly Commonwealth in Scotland"
+   ]
+  },
+  {
+   "author": "Siegfried Sassoon",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Wilfred Owen",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Poems of Wilfred Owen",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Selected Works of Robert Owen (4 volumes)"
+   ]
+  },
+  {
+   "author": "Rupert Brooke",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Poems of Rupert Brooke",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Walter de la Mare",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "Nightmare Abbey (The Cambridge Edition of the Novels of Thomas Love Peacock, volume 7)",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Robert Frost",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Poems of Robert Frost"
+   ]
+  },
+  {
+   "author": "Wallace Stevens",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Poems of Wallace Stevens",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "William Carlos Williams",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Marianne Moore",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "Sources and Style in Moore's Irish Melodies",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Poetical Works of Thomas Moore"
+   ]
+  },
+  {
+   "author": "Hart Crane",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Complete Poems of Hart Crane",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Works of Stephen Crane, 10 vols (University of Virginia Edition)"
+   ]
+  },
+  {
+   "author": "e e cummings",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Isaac Rosenberg",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Poems of Isaac Rosenberg",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Robert Graves",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Edmund Blunden",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "John Masefield",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "J. M. Synge",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Lady Gregory",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Sean O'Casey",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "James Joyce",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Lytton Strachey",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Roger Fry",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Dorothy Richardson",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Rise of the Novel: Studies in Defoe, Richardson and Fielding"
+   ]
+  },
+  {
+   "author": "Ford Madox Ford",
+   "sources": [
+    "An Enquiry Concerning Political Justice (Oxford World's Classics)",
+    "Confessions of an English Opium-Eater and Other Writings (Oxford World's Classics)",
+    "Melmoth the Wanderer (Oxford World's Classics)",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "Oxford Dictionary of National Biography",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Digital Mitford: The Mary Russell Mitford Digital Archive",
+    "The Monk (Oxford World's Classics)",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to Crime and Mystery Writing",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Irish Literature",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Oxford Handbook of Modernisms",
+    "The Oxford Handbook of Tudor Literature, 1485–1603",
+    "The Oxford Shakespeare: The Complete Works, 2nd edition",
+    "The Picture of Dorian Gray (Oxford World's Classics)",
+    "The Private Memoirs and Confessions of a Justified Sinner (Oxford World's Classics)",
+    "The Way We Live Now (Oxford World's Classics, 2nd edn)",
+    "Zofloya: or, The Moor (Oxford World's Classics)"
+   ]
+  },
+  {
+   "author": "Katherine Mansfield",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Hugh MacDiarmid",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Lewis Grassic Gibbon",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Edwin Muir",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Gertrude Stein",
+   "sources": [
+    "Frankenstein; or, The Modern Prometheus: The 1818 Text",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Sherwood Anderson",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Langston Hughes",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Collected Poems of Langston Hughes",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Zora Neale Hurston",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Claude McKay",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Countee Cullen",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Letters of William Cullen Bryant (6 volumes)",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Prose Writings of William Cullen Bryant (2 volumes)"
+   ]
+  },
+  {
+   "author": "Jean Toomer",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "F. Scott Fitzgerald",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Ernest Hemingway",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "John Dos Passos",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "William Faulkner",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Thomas Wolfe",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Katherine Anne Porter",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Eudora Welty",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Carson McCullers",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Christopher Isherwood",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Stephen Spender",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Louis MacNeice",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Aldous Huxley",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Evelyn Waugh",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Agatha Christie",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Dorothy L. Sayers",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "M. R. James",
+   "sources": [
+    "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
+    "James Kirke Paulding: The Last Republican",
+    "James Nelson Barker, 1784-1858; With a Reprint of His Comedy \"Tears and Smiles\"",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Complete Letters of Henry James, 12 vols (ongoing)",
+    "The Letters and Journals of James Fenimore Cooper (6 volumes)",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Novels and Tales of Henry James, New York Edition, 24 vols",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Poetical Works of James Montgomery (2 volumes)"
+   ]
+  },
+  {
+   "author": "Algernon Blackwood",
+   "sources": [
+    "Blackwood's Edinburgh Magazine",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Arthur Machen",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Noel Coward",
+   "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  }
+ ]
+}
