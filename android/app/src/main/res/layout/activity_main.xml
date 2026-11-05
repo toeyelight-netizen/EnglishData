@@ -58,6 +58,35 @@
         </LinearLayout>
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/filter_canon"
+            android:textColor="@color/ink_soft"
+            android:textSize="12sp"
+            android:letterSpacing="0.06" />
+
+        <Spinner
+            android:id="@+id/tier_filter"
+            android:layout_width="0dp"
+            android:layout_height="34dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/bg_filter_bar"
+            android:paddingLeft="14dp"
+            android:paddingRight="14dp"
+            android:popupBackground="@color/surface" />
+    </LinearLayout>
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"

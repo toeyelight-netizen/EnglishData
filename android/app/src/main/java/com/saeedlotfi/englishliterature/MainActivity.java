@@ -8,8 +8,11 @@ import android.os.Looper;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
+import android.widget.Spinner;
 import android.widget.TextView;
 
 import com.saeedlotfi.englishliterature.data.Library;
@@ -32,7 +35,11 @@ public final class MainActivity extends Activity implements SearchAdapter.Listen
     private SearchAdapter adapter;
     private View emptyState;
     private TextView emptySubtitle;
+    private TextView subtitle;
+    private Spinner tierFilter;
     private String lastQuery = "";
+    /** Current significance-tier floor ("" = all authors and works). */
+    private String tierFloor = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,7 +51,7 @@ public final class MainActivity extends Activity implements SearchAdapter.Listen
         emptyState = findViewById(R.id.empty_state);
         emptySubtitle = findViewById(R.id.empty_subtitle);
 
-        TextView subtitle = findViewById(R.id.subtitle);
+        subtitle = findViewById(R.id.subtitle);
         Library library = Library.get();
         if (library.isLoaded()) {
             subtitle.setText(buildSubtitle(library));
@@ -53,6 +60,8 @@ public final class MainActivity extends Activity implements SearchAdapter.Listen
         adapter = new SearchAdapter(this, this);
         list.setAdapter(adapter);
         list.setOnItemClickListener(null);
+
+        setUpTierFilter();
 
         searchInput.addTextChangedListener(new TextWatcher() {
             @Override
@@ -90,9 +99,47 @@ public final class MainActivity extends Activity implements SearchAdapter.Listen
         });
     }
 
+    /**
+     * Significance filter. Options are the four documented tiers plus "All";
+     * choosing a tier shows only authors graded at or above it, and only works
+     * with at least one such author.
+     */
+    private void setUpTierFilter() {
+        tierFilter = findViewById(R.id.tier_filter);
+        String[] options = new String[Library.TIER_FILTERS.length];
+        for (int i = 0; i < options.length; i++) {
+            options[i] = Library.tierFilterLabel(Library.TIER_FILTERS[i]);
+        }
+        ArrayAdapter<String> tierAdapter = new ArrayAdapter<>(
+                this, R.layout.item_spinner_selected, options);
+        tierAdapter.setDropDownViewResource(R.layout.item_spinner_dropdown);
+        tierFilter.setAdapter(tierAdapter);
+        tierFilter.setSelection(0, false);
+        tierFilter.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                String chosen = Library.TIER_FILTERS[position];
+                if (chosen.equals(tierFloor)) return;
+                tierFloor = chosen;
+                runSearch(lastQuery);
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+            }
+        });
+    }
+
     private String buildSubtitle(Library library) {
-        return "A searchable library of " + library.authorCount()
-                + " authors and " + library.workCount() + " works · c. 450\u20132000";
+        if (tierFloor.isEmpty()) {
+            return "A searchable library of " + library.authorCount()
+                    + " authors and " + library.workCount() + " works \u00b7 c. 450\u20132000";
+        }
+        // Compact when filtered: the full sentence would wrap into two lines
+        // and shift the search field down every time the filter changes.
+        return library.browseAuthors(tierFloor) + " authors \u00b7 "
+                + library.browseWorks(tierFloor) + " works \u00b7 "
+                + Library.tierFilterLabel(tierFloor) + " and above";
     }
 
     private void runSearch(final String query) {
@@ -100,22 +147,31 @@ public final class MainActivity extends Activity implements SearchAdapter.Listen
         executor.execute(new Runnable() {
             @Override
             public void run() {
-                final List<Library.Entry> results = Library.get().search(query);
+                final String floor = tierFloor;
+                final List<Library.Entry> results = Library.get().search(query, floor);
                 final boolean showWorksSection = query.trim().length() < 3;
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        if (!lastQuery.equals(query)) return; // stale result
+                        if (!lastQuery.equals(query) || !floor.equals(tierFloor)) {
+                            return; // stale result
+                        }
+                        List<Library.Entry> shown;
                         if (results == null) {
-                            adapter.setResults(Library.get().browse(), true);
+                            shown = Library.get().browse(floor);
+                            adapter.setResults(shown, true);
                         } else {
+                            shown = results;
                             adapter.setResults(results, showWorksSection);
                         }
-                        boolean empty = results != null && results.isEmpty();
+                        boolean empty = shown.isEmpty();
                         emptyState.setVisibility(empty ? View.VISIBLE : View.GONE);
                         if (empty) {
-                            emptySubtitle.setText("No matches for \u201c" + query.trim() + "\u201d");
+                            emptySubtitle.setText(results == null
+                                    ? getString(R.string.filter_empty)
+                                    : "No matches for \u201c" + query.trim() + "\u201d");
                         }
+                        subtitle.setText(buildSubtitle(Library.get()));
                         if (results != null && !results.isEmpty() || results == null) {
                             list.setSelection(0);
                         }

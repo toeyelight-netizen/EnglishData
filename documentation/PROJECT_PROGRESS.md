@@ -8,9 +8,12 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 - Current schema revision (Alembic): `e4f5a6b7c8d9` (initial schema + FTS5 +
   work detail columns + author `significance_tier` + author
   `bibliographical_notes`).
+- Current position: installments 1–8 imported; **579 authors / 2226 works**
+  across eight periods (c. 450–1901).
 - Installment snapshots: `database/English_Literature_Master_installment_07.db`
-  (cumulative), with `database/backups/pre_import_07.db` as the pre-import
-  recoverable backup.
+  (last snapshot kept on disk), with `database/backups/pre_import_07.db` as the
+  pre-import recoverable backup. Installment 8 was imported into the master
+  database; snapshots are gitignored and are made on request.
 - Backups: `database/backups/English_Literature_Master_installment_01.db`,
   `database/backups/English_Literature_Master_installment_02.db`,
   `database/backups/English_Literature_Master_installment_03.db`,
@@ -25,7 +28,8 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `documentation/validation_reports/validation_report_04.md`,
   `documentation/validation_reports/validation_report_05.md`,
   `documentation/validation_reports/validation_report_06.md`,
-  `documentation/validation_reports/validation_report_07.md`.
+  `documentation/validation_reports/validation_report_07.md`,
+  `documentation/validation_reports/validation_report_08.md`.
 
 ## Installment 1 — Old English and Early Medieval Literature (c. 450–1100)
 
@@ -1234,15 +1238,46 @@ After the final wave the whole downstream chain was re-run: `export_data.py`
 verified APK at 3.7 MB. The Android README's browse count and APK size are
 updated to match.
 
+### Phase 5 — significance-tier filter in the app (done)
+
+`significance_tier` (the four-value vocabulary from migration `e4f5a6b7c8d9`)
+is now exported to the app asset as `"tier"` and drives a filter in the UI.
+`Library` ranks the tiers (`Major` 4 → `Obscure` 1, ungraded 0), keeps a
+`workTier` map (a work inherits the highest tier among its authors), and
+exposes `search(query, floor)` / `browse(floor)` where `floor` is a minimum,
+not an exact match. `MainActivity` adds a `Canon` spinner with All / Major /
+Significant / Minor / Neglected and recomputes the header subtitle to the
+filtered counts ("45 authors \u00b7 287 works \u00b7 Major and above");
+`AuthorDetailActivity` shows the tier as a chip plus a "Canonical Standing"
+section, and `WorkDetailActivity` inherits the badge from its authors.
+`Library.browseAuthors(floor)` / `browseWorks(floor)` supply the subtitle
+counts, and a stale-result guard discards hits that arrive after the floor
+changed.
+
+Resulting ladder (verified against the exported asset):
+
+| Floor | Authors | Works |
+|---|---|---|
+| All | 579 | 2226 |
+| Major canon | 45 | 287 |
+| Significant canon | 106 | 564 |
+| Minor | 157 | 756 |
+| Obscure | 161 | 771 |
+
+Only the 161 installment-8 authors are graded so far, so the Obscure floor
+coincides with the full installment. Grading installments 1–7 would make the
+filtered views meaningful across the whole 1,200-year range.
+
 ### Deferred gaps for a later Installment-8 supplement
 
 Deliberately not yet recorded, so nothing is lost: British — Florence Marryat,
 Netta Syrett, Evelyn Sharp, Clementina Black, Allen Upward, Harriet Martineau's
 later fiction and the minor poets of the 1890s; American — the regional writers
 of the far West, the later Native American autobiographers after Eastman, and
-the immigrant fiction of the 1900s. Also outstanding: the significance-tier
-filter for the UI (Phase 5), the Phase-1 audit document, and a final
-export/APK refresh once installment 8 is closed.
+the immigrant fiction of the 1900s. The Phase-1 audit document remains the
+one open deliverable of the original plan; the significance-tier filter for
+the UI (Phase 5) is now implemented — see below — and the instrument needs to
+be extended backwards to installments 1–7, which are still ungraded.
 
 ---
 

@@ -215,6 +215,7 @@ def main() -> int:
                 "style": author.stylistic_characteristics or "",
                 "concerns": author.intellectual_concerns or "",
                 "significance": author.historical_significance or "",
+                "tier": author.significance_tier or "",
                 "uncertainty": author.biographical_uncertainty or "",
                 "genres": names(
                     link_rows(author_genres, "author_id", author.author_id), genre_of

@@ -30,6 +30,55 @@ public final class Library {
     public static final int TYPE_AUTHOR = 0;
     public static final int TYPE_WORK = 1;
 
+    /** Significance tiers, in descending order of standing. Author records
+     *  carry one of these strings (or "" when not yet graded); a work inherits
+     *  the highest tier among its authors. */
+    public static final String TIER_MAJOR = "Major / canonical";
+    public static final String TIER_SECONDARY = "Significant / secondary";
+    public static final String TIER_MINOR = "Minor / lesser-known";
+    public static final String TIER_OBSCURE = "Obscure / historically neglected";
+
+    /** Tier options for the filter, in display order ("" = no filter). */
+    public static final String[] TIER_FILTERS = {
+            "", TIER_MAJOR, TIER_SECONDARY, TIER_MINOR, TIER_OBSCURE};
+
+    /** Rank of a tier name: 0 = ungraded, 1 = obscure ... 4 = major. */
+    public static int tierRank(String tier) {
+        if (tier == null) return 0;
+        String t = tier.trim();
+        if (t.equals(TIER_MAJOR)) return 4;
+        if (t.equals(TIER_SECONDARY)) return 3;
+        if (t.equals(TIER_MINOR)) return 2;
+        if (t.equals(TIER_OBSCURE)) return 1;
+        return 0;
+    }
+
+    /** Short human-readable label for a tier, e.g. "Major canon". */
+    public static String tierLabel(String tier) {
+        if (tierRank(tier) == 4) return "Major canon";
+        if (tierRank(tier) == 3) return "Secondary canon";
+        if (tierRank(tier) == 2) return "Minor";
+        if (tierRank(tier) == 1) return "Neglected";
+        return "";
+    }
+
+    /** Short label for the filter bar, where space is tight:
+     *  All / Major / Significant / Minor / Neglected. */
+    public static String tierFilterLabel(String tier) {
+        int rank = tierRank(tier);
+        if (rank == 4) return "Major";
+        if (rank == 3) return "Significant";
+        if (rank == 2) return "Minor";
+        if (rank == 1) return "Neglected";
+        return "All";
+    }
+
+    /** True when the tier names something at or above {@code floor}. */
+    public static boolean tierAtLeast(String tier, String floor) {
+        if (floor == null || floor.isEmpty()) return true;
+        return tierRank(tier) >= tierRank(floor);
+    }
+
     public static final class Entry {
         public final int type;
         public final int id;
@@ -53,6 +102,8 @@ public final class Library {
     private final List<Work> works = new ArrayList<>();
     private final Map<Integer, Author> authorById = new HashMap<>();
     private final Map<Integer, Work> workById = new HashMap<>();
+    /** Highest author tier for each work ("" when no author is graded). */
+    private final Map<Integer, String> workTier = new HashMap<>();
     private final List<Entry> index = new ArrayList<>();
     private final Object lock = new Object();
     private volatile boolean loaded = false;
@@ -113,6 +164,7 @@ public final class Library {
         }
         synchronized (lock) {
             buildIndex();
+            buildWorkTiers();
             loaded = true;
         }
     }
@@ -138,18 +190,79 @@ public final class Library {
         });
     }
 
+    private void buildWorkTiers() {
+        workTier.clear();
+        for (Work w : works) {
+            String best = "";
+            for (int i = 0; i < w.authorIds.size(); i++) {
+                Author a = authorById.get(w.authorIds.get(i));
+                if (a == null) continue;
+                if (tierRank(a.tier) > tierRank(best)) best = a.tier;
+            }
+            workTier.put(w.id, best);
+        }
+    }
+
+    /** Highest tier among a work's authors ("" when nobody is graded). */
+    public String workTier(int workId) {
+        String t = workTier.get(workId);
+        return t == null ? "" : t;
+    }
+
     /** All entries in display order (browse mode). */
     public List<Entry> browse() {
         return new ArrayList<>(index);
     }
 
+    /** Browse entries whose author/work standing is at or above {@code floor}.
+     *  An ungraded author (installments 1-7) is treated as not-yet-classified
+     *  and is admitted only when no filter is set. */
+    public List<Entry> browse(String floor) {
+        if (floor == null || floor.isEmpty()) return browse();
+        List<Entry> out = new ArrayList<>();
+        for (Entry e : index) {
+            if (e.type == TYPE_AUTHOR) {
+                Author a = authorById.get(e.id);
+                if (a != null && tierAtLeast(a.tier, floor)) out.add(e);
+            } else {
+                if (tierAtLeast(workTier(e.id), floor)) out.add(e);
+            }
+        }
+        return out;
+    }
+
+    /** Count of authors at or above {@code floor} (for the filter subtitle). */
+    public int browseAuthors(String floor) {
+        int n = 0;
+        for (Author a : authors) {
+            if (tierAtLeast(a.tier, floor)) n++;
+        }
+        return n;
+    }
+
+    /** Count of works at or above {@code floor}. */
+    public int browseWorks(String floor) {
+        int n = 0;
+        for (Work w : works) {
+            if (tierAtLeast(workTier(w.id), floor)) n++;
+        }
+        return n;
+    }
+
     /** Ranked matches; empty query returns null to signal browse mode. */
     public List<Entry> search(String query) {
+        return search(query, "");
+    }
+
+    /** Ranked matches restricted to the given tier floor ("" = no filter). */
+    public List<Entry> search(String query, String floor) {
+        boolean filtered = floor != null && !floor.isEmpty();
         String q = fold(query).trim();
         if (q.isEmpty()) return null;
         String[] tokens = q.split("\\s+");
         List<Entry> hits = new ArrayList<>();
         for (Author a : authors) {
+            if (filtered && !tierAtLeast(a.tier, floor)) continue;
             int score = scoreFor(q, tokens, a.name, a.altNames, join(" ", a.genres, a.movements, a.identity));
             if (score > 0) {
                 hits.add(new Entry(TYPE_AUTHOR, a.id, a.name,
@@ -157,6 +270,7 @@ public final class Library {
             }
         }
         for (Work w : works) {
+            if (filtered && !tierAtLeast(workTier(w.id), floor)) continue;
             int score = scoreFor(q, tokens, w.title, w.altTitles,
                     join(" ", w.description, w.summary, w.plot, w.period, w.authors));
             if (score > 0) {

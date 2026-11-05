@@ -15,8 +15,17 @@ and starts instantly.
   century, 1832-1901) contributes 161 authors and 771 works, including the
   whole British Victorian canon and the American strand from Emerson to
   Edith Wharton.
+- **Canon filter** — a `Canon` spinner above the list narrows the library to
+  authors at or above a significance tier: **Major** (45 authors, 287 works),
+  **Significant** (106 / 564), **Minor** (157 / 756) or **Neglected**
+  (161 / 771), plus **All** (579 / 2226). Each level is a floor, not a single
+  tier, so Major is nested inside Significant and so on; the filter applies to
+  search as well as browse, and the header shows the live counts ("45 authors
+  · 287 works · Major and above"). Ungraded authors appear only under **All**.
+  The database grades 161 of 579 authors — the whole of installment 8 — so the
+  filter is most useful on Victorian material.
 - **Author pages** — biography, literary profile, style, themes, movements,
-  sources, and the author's works.
+  sources, the author's works, and a standing badge when the author is graded.
 - **Work pages** — summary, plot, characters, structure, meter, editions,
   sources, and tappable author links.
 - **Splash screen** — medieval-fantasy logo and the credit
