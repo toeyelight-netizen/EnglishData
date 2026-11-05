@@ -1,0 +1,114 @@
+[
+ {
+  "name": "The waste land and the decline of the West",
+  "description": "The sense, pervasive after 1918, that a civilisation has exhausted itself: the imagery of drought, sterility, broken fragments and the dead god, together with Spengler's Decline of the West (1918–22) and the post-war discourse of decadence. Its central text is Eliot's The Waste Land (1922), with Yeats's 'The Second Coming' (1920) and Pound's Mauberley (1920) as its companions."
+ },
+ {
+  "name": "The machine, the motor car, and the modern tempo",
+  "description": "The transformation of speed and distance by the motor car, the aeroplane, the telephone and the wireless, and the literature that registered it: the Futurist celebration of speed, the Vorticist machine aesthetic, the motor-car journey in Forster and Kipling, and the aeroplane as both liberation and bomber."
+ },
+ {
+  "name": "Empire, the imperial idea, and its discontents",
+  "description": "The literature of the British Empire in its last confident phase and its first retreat: Kipling's late stories, Forster's A Passage to India (1924), Orwell's Burmese Days (1934) and 'Shooting an Elephant', Conrad's Congo, and the colonial servants, missionaries and businessmen who populate the period's fiction."
+ },
+ {
+  "name": "Class, the servant problem, and the new democracy",
+  "description": "The literature of the English class system at the moment of its greatest strain: the servant who is also a witness, the Edwardian country house and its below-stairs, the General Strike of 1926, the means test, and the arrival of the working-class writer with a public voice."
+ },
+ {
+  "name": "The First World War and the myth of sacrifice",
+  "description": "The war as a system of meaning and of loss: the rhetoric of sacrifice and its collapse, the volunteer and the conscript, the dead as a national possession, the poppy and the cenotaph, and the bitterness of the generation that survived."
+ },
+ {
+  "name": "Shell shock, mourning, and the unquiet dead",
+  "description": "The psychological aftermath of the war: neurasthenia and the war hospital, the return of the dead in dreams and in séances, the spiritualist vogue of the 1920s, and the literature of grief that refuses to be consoled."
+ },
+ {
+  "name": "Sexuality, the new psychology, and the Freudian century",
+  "description": "The remaking of sexual life by Freud, Havelock Ellis, Marie Stopes and the contraceptive clinic: the sex novel of the 1920s, the lesbian and homosexual subculture of the period, the Bloomsbury candour, and the censorship trials that defined the limit of the sayable."
+ },
+ {
+  "name": "Suffrage, feminism, and the woman's work",
+  "description": "The women's movement from the militant campaign of 1905–14 to the franchise of 1918 and 1928, and the literature it produced: the suffrage play, the woman's novel of work and independence, the new professions, and the contested meaning of the woman's 'freedom' between the wars."
+ },
+ {
+  "name": "Mass society, the crowd, and the individual talent",
+  "description": "The literature of the mass: the crowd in the street, the newspaper reader, the cinema audience, the political rally, and the modernist anxiety about the individual talent in an age of mass culture. Its theorists are Le Bon, Ortega y Gasset and the Frankfurt School; its novelists Huxley, Lewis and Orwell."
+ },
+ {
+  "name": "Time, memory, and the duration of consciousness",
+  "description": "The Bergsonian and Jamesian sense of time as duration rather than clock-measure, and the narrative techniques it produced: the interior monologue, the memory that returns without warning, the Proustian madeleine and the Woolfian moment of being."
+ },
+ {
+  "name": "Myth, ritual, and the primitive imagination",
+  "description": "The discovery of myth as a structure of meaning by Frazer, Jane Harrison and the Cambridge anthropologists, and its use in literature: the fertility god in The Waste Land, the Cuchulain cycle in Yeats, the folk tale in the Harlem Renaissance, and the primitive as a critique of civilisation."
+ },
+ {
+  "name": "Exile, expatriation, and the lost generation",
+  "description": "The literature of the American and Irish writer abroad: Paris in the 1920s, the voluntary exile as a condition of art, the return that fails, and the sense that the homeland has become uninhabitable for the writer."
+ },
+ {
+  "name": "Race, the colour line, and the New Negro",
+  "description": "The literature of the colour line in the age of the Great Migration and the Harlem Renaissance: the passing narrative, the lynching poem, the folk sermon, the blues, and the argument over whether the black artist should write the folk or the received tradition."
+ },
+ {
+  "name": "The jazz age and the pleasure economy",
+  "description": "The literature of the 1920s boom: the cocktail, the motor car, the dance hall, the gramophone and the cinema, the short life and the fast dollar, and the moral hangover that followed the crash."
+ },
+ {
+  "name": "Totalitarianism, propaganda, and the political novel",
+  "description": "The literature of the totalitarian state and the propaganda that sustains it: the show trial, the secret police, the manipulated newspaper, and the individual consciousness under surveillance — from Koestler's Darkness at Noon (1940) to Orwell's Nineteen Eighty-Four (1949)."
+ },
+ {
+  "name": "The Depression, unemployment, and the hunger march",
+  "description": "The literature of the slump: the dole queue, the means test, the closed mill, the Jarrow March and the dust bowl, the migrant camp and the strike, and the documentary impulse that tried to record them."
+ },
+ {
+  "name": "The suburb, the villa, and the new domesticity",
+  "description": "The literature of the new suburb and the semi-detached house: the villa and the garden city, the commuter and the motor road, the servantless household, and the anxiety about taste and respectability that the suburban novel registers."
+ },
+ {
+  "name": "Science, technology, and the machine age",
+  "description": "The literature of applied science: the laboratory, the invention, the machine and the assembly line, the aeroplane and the bomb, and the debate over whether technology is liberation, eugenic improvement or the instrument of a new servitude."
+ },
+ {
+  "name": "The absurd, the void, and the failure of meaning",
+  "description": "The literature of the post-war loss of belief: the disappearance of God, the meaningless universe, the absurd hero, and the formal experiment that tries to render the absence — from Eliot's hollow men to Beckett's later voices."
+ },
+ {
+  "name": "Childhood, the nursery, and the Edwardian idyll",
+  "description": "The literature of the privileged child: the nursery and the nanny, the golden afternoon, the imaginary world and the toy, together with its dark underside — the feared child, the lost boy, and the childhood that cannot be recovered."
+ },
+ {
+  "name": "The seaside, the holiday, and the pleasure resort",
+  "description": "The literature of the new leisure: the seaside boarding house, the pier and the promenade, the charabanc and the holiday camp, Blackpool and Brighton, and the working-class holiday as a subject of comedy and of social observation."
+ },
+ {
+  "name": "Death, elegy, and the modern funeral",
+  "description": "The literature of mortality in a period of mass death: the war cemetery, the cenotaph, the obituary and the memorial volume, the elegy that refuses consolation, and the ordinary death that the modern novel records without ceremony."
+ },
+ {
+  "name": "Religion, doubt, and the post-war faith",
+  "description": "The literature of belief after the war: Anglo-Catholicism and the conversion narratives of Eliot, Waugh and Greene, the 'death of God' debate, the spiritualist revival, and the humanist and rationalist counter-arguments."
+ },
+ {
+  "name": "The little magazine and the modernist institution",
+  "description": "The literature of the small magazine and the small press: Blast, The Egoist, The Little Review, The Criterion, transition, The Dial and the Hogarth Press, together with the manifestos, the patronage, the little-public and the deliberate difficulty that the institution produced."
+ },
+ {
+  "name": "Ireland, Home Rule, and the national question",
+  "description": "The literature of Irish nationality: the Home Rule crisis, the Easter Rising, the war of independence and the civil war, the protestant and catholic inheritances, and the argument over what an Irish literature should be."
+ },
+ {
+  "name": "Wales, Scotland, and the Celtic periphery",
+  "description": "The literature of the non-English nations of Britain: the Scottish Renaissance and the Scots language, the Welsh-language tradition and its anglicised counterpart, the Celtic revival's claim to a pre-modern inheritance, and the economic decline of the periphery."
+ },
+ {
+  "name": "The body, illness, and the sanatorium",
+  "description": "The literature of the sick body: tuberculosis and the sanatorium (Lawrence, Mansfield, Orwell), the war wound and the artificial limb, the neurasthenic and the asylum, and the sick-room as a place of vision."
+ },
+ {
+  "name": "The countryside, the vanishing rural world, and the motor road",
+  "description": "The literature of the disappearing rural England: the agricultural depression, the tied cottage, the motor road and the ribbon development, the nature essay and the walking book, and the sense that a whole way of life was being recorded before it vanished."
+ }
+]

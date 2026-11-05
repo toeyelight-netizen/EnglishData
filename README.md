@@ -19,7 +19,7 @@ or deletes earlier data.
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | **Complete** |
 | 6 | Augustan and Eighteenth Century (1700–1789) | **Complete** |
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
-| 8 | Victorian, British and American (1832–1901) | **In progress** |
+| 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9–10 | Edwardian → Postwar (1901–2000) | Pending |
 
 Cumulative totals: **579 authors, 2226 works** (147 anonymous), 8 periods, 87

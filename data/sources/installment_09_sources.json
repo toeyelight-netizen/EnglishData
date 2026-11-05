@@ -1,0 +1,306 @@
+[
+ {
+  "title": "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+  "author_or_editor": "Stephen Greenblatt (gen. ed.), Jahan Ramazani and Jon Stallworthy (vol. eds.)",
+  "publisher": "W. W. Norton",
+  "publication_year": 2024,
+  "source_type": "anthology",
+  "reliability_notes": "Confirmed via Norton catalogue and library records. Volume F covers 1900 to the present; the modernist and interwar sections are the backbone of this installment's verse canon."
+ },
+ {
+  "title": "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
+  "author_or_editor": "Robert S. Levine (gen. ed.)",
+  "publisher": "W. W. Norton",
+  "publication_year": 2022,
+  "source_type": "anthology",
+  "reliability_notes": "Confirmed via Norton catalogue. Volume D covers American modernism, the Harlem Renaissance and the Depression; used for the American strand."
+ },
+ {
+  "title": "The Oxford Dictionary of National Biography, 60 vols",
+  "author_or_editor": "H. C. G. Matthew and Brian Harrison (eds.)",
+  "publisher": "Oxford University Press",
+  "publication_year": 2004,
+  "source_type": "reference",
+  "reliability_notes": "The standard authority for British and Irish biography; birth, death and career dates for the British, Irish and Scottish authors in this installment are checked against it."
+ },
+ {
+  "title": "The Cambridge Companion to Modernism, 2nd edn",
+  "author_or_editor": "Michael Levenson (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2011,
+  "source_type": "reference",
+  "reliability_notes": "Standard critical survey of the modernist movements; used for movement definitions and dating."
+ },
+ {
+  "title": "The Cambridge Companion to the Literature of the First World War",
+  "author_or_editor": "Vincent Sherry (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2005,
+  "source_type": "reference",
+  "reliability_notes": "Standard critical account of First World War writing; used for the trench-poetry and war-memoir movements."
+ },
+ {
+  "title": "The Cambridge History of Twentieth-Century English Literature",
+  "author_or_editor": "Laura Marcus and Peter Nicholls (eds.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2004,
+  "source_type": "reference",
+  "reliability_notes": "Period-wide literary history; used as a control on the periodisation and the movement boundaries of this installment."
+ },
+ {
+  "title": "The Oxford Companion to Twentieth-Century Literature in English",
+  "author_or_editor": "Jenny Stringer (ed.)",
+  "publisher": "Oxford University Press",
+  "publication_year": 1996,
+  "source_type": "reference",
+  "reliability_notes": "Author-level reference for dates, first publications and canonical standing."
+ },
+ {
+  "title": "The Columbia Literary History of the United States",
+  "author_or_editor": "Emory Elliott (gen. ed.)",
+  "publisher": "Columbia University Press",
+  "publication_year": 1988,
+  "source_type": "reference",
+  "reliability_notes": "The standard large-scale history of American literature; used for the American movements and for the dating of first publications."
+ },
+ {
+  "title": "The Cambridge Companion to the Harlem Renaissance",
+  "author_or_editor": "George Hutchinson (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2007,
+  "source_type": "reference",
+  "reliability_notes": "Standard account of the Harlem Renaissance; used for the movement's institutions, dates and personnel."
+ },
+ {
+  "title": "The Oxford Companion to Irish Literature",
+  "author_or_editor": "Robert Welch (ed.)",
+  "publisher": "Oxford University Press",
+  "publication_year": 1996,
+  "source_type": "reference",
+  "reliability_notes": "Author-level reference for the Irish revival and for the Dublin and Abbey Theatre writers."
+ },
+ {
+  "title": "The Cambridge Companion to the Irish Novel",
+  "author_or_editor": "John Wilson Foster (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2006,
+  "source_type": "reference",
+  "reliability_notes": "Used for the Irish short story and for the dating of Joyce, O'Casey and the revival dramatists."
+ },
+ {
+  "title": "The Cambridge Companion to Scottish Literature",
+  "author_or_editor": "Gerard Carruthers and Liam McIlvanney (eds.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2012,
+  "source_type": "reference",
+  "reliability_notes": "Used for the Scottish Renaissance and for MacDiarmid and Gibbon."
+ },
+ {
+  "title": "The Oxford Companion to English Literature, 7th edn",
+  "author_or_editor": "Dinah Birch (ed.)",
+  "publisher": "Oxford University Press",
+  "publication_year": 2009,
+  "source_type": "reference",
+  "reliability_notes": "General author and title reference; used as a cross-check on titles, dates and attributions throughout."
+ },
+ {
+  "title": "The Cambridge Companion to the Literature of the First World War (poetry and memoir chapters)",
+  "author_or_editor": "Vincent Sherry (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2005,
+  "source_type": "reference",
+  "reliability_notes": "Used specifically for the memoir and testimonial literature of 1928–37."
+ },
+ {
+  "title": "Modernism: A Guide to European Literature 1890–1930",
+  "author_or_editor": "Malcolm Bradbury and James McFarlane (eds.)",
+  "publisher": "Penguin",
+  "publication_year": 1976,
+  "source_type": "reference",
+  "reliability_notes": "The standard critical guide to European modernism; used for movement definitions in the British and American context."
+ },
+ {
+  "title": "The Cambridge Companion to the Modernist Novel",
+  "author_or_editor": "Morag Shiach (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2007,
+  "source_type": "reference",
+  "reliability_notes": "Used for the novel of consciousness, the experimental novel and the dating of the modernist long fiction."
+ },
+ {
+  "title": "The Oxford Handbook of Modernisms",
+  "author_or_editor": "Peter Brooker, Andrzej Gasiorek, Deborah Longworth and Andrew Thacker (eds.)",
+  "publisher": "Oxford University Press",
+  "publication_year": 2010,
+  "source_type": "reference",
+  "reliability_notes": "Used for the little-magazine movement and for the institutional history of modernism."
+ },
+ {
+  "title": "The Cambridge Companion to British Literature of the 1930s",
+  "author_or_editor": "James Smith (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2012,
+  "source_type": "reference",
+  "reliability_notes": "Used for the Auden generation, the documentary movement and the thirties writers."
+ },
+ {
+  "title": "The Oxford Companion to Crime and Mystery Writing",
+  "author_or_editor": "Rosemary Herbert (ed.)",
+  "publisher": "Oxford University Press",
+  "publication_year": 1999,
+  "source_type": "reference",
+  "reliability_notes": "Standard reference for the Golden Age detective novel and its authors."
+ },
+ {
+  "title": "The Penguin Classics editions of the individual novels and poems cited",
+  "author_or_editor": "Various editors",
+  "publisher": "Penguin Books",
+  "publication_year": 2000,
+  "source_type": "edition",
+  "reliability_notes": "Textual authority for the works recorded here where a standard teaching edition exists; individual edition records are in work_editions."
+ },
+ {
+  "title": "The Waste Land: A Facsimile and Transcript of the Original Drafts",
+  "author_or_editor": "T. S. Eliot; Valerie Eliot (ed.)",
+  "publisher": "Faber and Faber",
+  "publication_year": 1971,
+  "source_type": "edition",
+  "reliability_notes": "The primary document for the composition and Pound's editing of The Waste Land; used for the dating and the composition history."
+ },
+ {
+  "title": "The Collected Poems of Wilfred Owen",
+  "author_or_editor": "Wilfred Owen; C. Day-Lewis (ed.)",
+  "publisher": "Chatto and Windus",
+  "publication_year": 1963,
+  "source_type": "edition",
+  "reliability_notes": "Standard edition of Owen's poems, including the fragments and the drafts; used for dating the war poems."
+ },
+ {
+  "title": "The Complete Poems of D. H. Lawrence",
+  "author_or_editor": "D. H. Lawrence; Vivian de Sola Pinto and F. Warren Roberts (eds.)",
+  "publisher": "Heinemann",
+  "publication_year": 1964,
+  "source_type": "edition",
+  "reliability_notes": "Standard edition of Lawrence's poems; used for the dating of the verse."
+ },
+ {
+  "title": "The Collected Letters of Joseph Conrad",
+  "author_or_editor": "Joseph Conrad; Frederick R. Karl and Laurence Davies (eds.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 1983,
+  "source_type": "edition",
+  "reliability_notes": "The standard edition of Conrad's correspondence; used for composition dates and the dating of publication."
+ },
+ {
+  "title": "The Letters of Virginia Woolf",
+  "author_or_editor": "Virginia Woolf; Nigel Nicolson and Joanne Trautmann (eds.)",
+  "publisher": "Hogarth Press",
+  "publication_year": 1975,
+  "source_type": "edition",
+  "reliability_notes": "Standard edition of Woolf's letters; used for the Hogarth Press history and the dating of the novels."
+ },
+ {
+  "title": "The Collected Poems of W. B. Yeats",
+  "author_or_editor": "W. B. Yeats; Richard J. Finneran (ed.)",
+  "publisher": "Scribner",
+  "publication_year": 1996,
+  "source_type": "edition",
+  "reliability_notes": "Standard one-volume edition of Yeats's poems; used for the dating of first publication."
+ },
+ {
+  "title": "The Collected Poems of Wallace Stevens",
+  "author_or_editor": "Wallace Stevens",
+  "publisher": "Faber and Faber",
+  "publication_year": 1955,
+  "source_type": "edition",
+  "reliability_notes": "The author's collected poems; used for the dating of first publication."
+ },
+ {
+  "title": "The Poems of Robert Frost",
+  "author_or_editor": "Robert Frost",
+  "publisher": "Henry Holt",
+  "publication_year": 1930,
+  "source_type": "edition",
+  "reliability_notes": "The collected poems authorised in Frost's lifetime; used for the dating of first publication."
+ },
+ {
+  "title": "The Collected Poems of Langston Hughes",
+  "author_or_editor": "Langston Hughes; Arnold Rampersad and David Roessel (eds.)",
+  "publisher": "Alfred A. Knopf",
+  "publication_year": 1994,
+  "source_type": "edition",
+  "reliability_notes": "The standard edition of Hughes's poems; used for the dating of the Harlem Renaissance verse."
+ },
+ {
+  "title": "The Complete Poems of Hart Crane",
+  "author_or_editor": "Hart Crane; Marc Simon (ed.)",
+  "publisher": "Liveright",
+  "publication_year": 1986,
+  "source_type": "edition",
+  "reliability_notes": "The standard edition of Crane's poems; used for the dating of The Bridge."
+ },
+ {
+  "title": "The Poems of Edward Thomas",
+  "author_or_editor": "Edward Thomas; R. George Thomas (ed.)",
+  "publisher": "Oxford University Press",
+  "publication_year": 1978,
+  "source_type": "edition",
+  "reliability_notes": "Standard edition of Thomas's poems; used for the dating of the poems written in 1914–17."
+ },
+ {
+  "title": "The Collected Poems of Isaac Rosenberg",
+  "author_or_editor": "Isaac Rosenberg; Gordon Bottomley and Denys Harding (eds.)",
+  "publisher": "Chatto and Windus",
+  "publication_year": 1949,
+  "source_type": "edition",
+  "reliability_notes": "Standard edition of Rosenberg's poems; used for the dating of the war poems."
+ },
+ {
+  "title": "The Collected Poems of Rupert Brooke",
+  "author_or_editor": "Rupert Brooke; George Edward Woodberry (ed.)",
+  "publisher": "Dodd, Mead",
+  "publication_year": 1915,
+  "source_type": "edition",
+  "reliability_notes": "The first posthumous collected edition (1915) established the canon of Brooke's war poems."
+ },
+ {
+  "title": "The Complete Poems of D. H. Lawrence (Cambridge edition)",
+  "author_or_editor": "D. H. Lawrence; Christopher Pollnitz (ed.)",
+  "publisher": "Cambridge University Press",
+  "publication_year": 2013,
+  "source_type": "edition",
+  "reliability_notes": "The scholarly edition of Lawrence's poems; used to confirm first-publication dates."
+ },
+ {
+  "title": "Ulysses: A Critical and Synoptic Edition",
+  "author_or_editor": "James Joyce; Hans Walter Gabler (ed.)",
+  "publisher": "Garland",
+  "publication_year": 1984,
+  "source_type": "edition",
+  "reliability_notes": "The scholarly edition of Ulysses; used for the dating of serial and book publication."
+ },
+ {
+  "title": "The Letters of T. S. Eliot, Volume 1: 1898–1922",
+  "author_or_editor": "T. S. Eliot; Valerie Eliot and Hugh Haughton (eds.)",
+  "publisher": "Faber and Faber",
+  "publication_year": 2009,
+  "source_type": "edition",
+  "reliability_notes": "Used for the dating of Eliot's early poems and for the Criterion's founding."
+ },
+ {
+  "title": "The Diary of Virginia Woolf",
+  "author_or_editor": "Virginia Woolf; Anne Olivier Bell (ed.)",
+  "publisher": "Hogarth Press",
+  "publication_year": 1977,
+  "source_type": "edition",
+  "reliability_notes": "Used for the composition dates of the novels and for the Bloomsbury chronology."
+ },
+ {
+  "title": "The Autobiography of W. B. Yeats",
+  "author_or_editor": "W. B. Yeats",
+  "publisher": "Macmillan",
+  "publication_year": 1955,
+  "source_type": "edition",
+  "reliability_notes": "Yeats's own retrospective account of the revival; used with caution for the movement's chronology."
+ }
+]

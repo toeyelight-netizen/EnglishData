@@ -1296,6 +1296,6 @@ of scope.
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
-| 8 | Victorian and American nineteenth century (1832–1901) | In progress (161 authors, 771 works) |
+| 8 | Victorian and American nineteenth century (1832–1901) | Complete (161 authors, 771 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Pending |
 | 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |
