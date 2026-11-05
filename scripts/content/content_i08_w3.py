@@ -81,7 +81,8 @@ CARLYLE = wks("Thomas Carlyle", [
    plot="Carlyle follows Sterling's life from Cambridge and the Apostles through his marriage, his colonial venture in the West Indies, his editorship of the Athenaeum, his friendship with Carlyle and his final years of illness and religious searching, quoting the letters and setting them in the narrative.",
    context="The 1830s-40s, the Oxford Movement, the Athenaeum, and the Victorian crisis of faith as it appeared in an individual life.",
    sig="The Life of John Sterling is the finest of Carlyle's shorter biographies and a central document of Victorian friendship and religious doubt; it is also the model for the Victorian life-and-letters biography that Gaskell's Brontë and Froude's Carlyle later practised.",
-   canon="Secondary canon"),
+   canon="Secondary canon",
+   chars="John Sterling; Thomas Carlyle, the narrator; Edward Sterling, his father; Frederick Denison Maurice; Samuel Taylor Coleridge; Julius Hare"),
  dict(title="History of Friedrich II of Prussia, called Frederick the Great", year="1858",
    gb="Review Essay and Quarterly Argument, Lecture and Popular Address", tb=EMPIRE+", " + DOUBT + ", " + ECON,
    mb="Carlyle and the Hero-Worship Lecture", comp=["1851", "1865"],
@@ -144,12 +145,13 @@ RUSKIN = wks("John Ruskin", [
    mb="Ruskin and the Political Economy of Art, Aestheticism and the Decadent Decade", comp=["1885", "1889"],
    form="Autobiography (unfinished; serialised 1885-89)",
    desc="Ruskin's autobiography, serialised in the magazine of the same name in twenty-four parts from 1885 and left unfinished in 1889: the most beautiful of Victorian autobiographies, and the retrospective re-creation of a childhood, a family and a Europe before the railway.",
-   plot="The narrative moves from the London house of his childhood and the sherry business of his father to the Continental tours of 1833-1845, his mother and father, his first love and his marriage, his work on Modern Painters and the Stones of Venice, and the death of his parents; the last chapters are fragmentary and haunted.",
+   plot="The narrative moves from the London house of his childhood and the sherry business of his father to the Continental tours of 1833-1845, his mother and father, his boyish passion for Adèle Domecq (his marriage to Effie Gray is passed over in silence), his work on Modern Painters and the Stones of Venice, and the death of his parents; the last chapters are fragmentary and haunted.",
    context="The 1880s, Ruskin's failing mind and the death of his parents, and the Victorian vogue for autobiography (Mill, Darwin, Trollope, Newman).",
    sig="Praeterita is the finest Victorian autobiography after Mill's and the model for the twentieth-century literary memoir; its reconstruction of childhood perception and its refusal of the conventional pieties made it a central text for Pater, Proust and the modern autobiography, and its unfinished condition is itself a document of the age.",
    canon="Major canon",
    status="partial",
-   attrib="Unfinished: Ruskin wrote twenty-four chapters of a projected longer work and abandoned it in 1889 as his mental health failed; the published text is what he left."),
+   attrib="Unfinished: Ruskin wrote twenty-four chapters of a projected longer work and abandoned it in 1889 as his mental health failed; the published text is what he left.",
+   chars="John Ruskin, the narrator; John James Ruskin, his father; Margaret Ruskin, his mother; Adèle Domecq; Rose La Touche; Joan Severn"),
 ])
 
 MILL = wks("John Stuart Mill", [
@@ -219,7 +221,8 @@ MILL = wks("John Stuart Mill", [
    plot="The chapters follow Mill's extraordinary education by his father, his work at the East India Company, the mental crisis of 1826-27 and his recovery through poetry (Wordsworth, particularly), his discovery of Harriet Taylor, his political and philosophical development, his parliamentary career, and his estimate of the age.",
    context="The 1820s-60s, the utilitarian circle, the Benthamites and the Edinburgh Review, and the Victorian crisis of faith and of the reformist confidence.",
    sig="The Autobiography is a central document of Victorian intellectual history and of the theory of education: its account of the 'crisis' in which a man educated only in analysis finds himself with no feeling left is the classic case of the dangers of a purely rational education, and its portrait of Harriet Taylor made her a figure in the history of English feminism.",
-   canon="Major canon"),
+   canon="Major canon",
+   chars="John Stuart Mill; James Mill; Harriet Taylor; Helen Taylor; Jeremy Bentham; John Sterling; Thomas Carlyle; John Roebuck"),
 ])
 
 NEWMAN = wks("John Henry Newman", [
@@ -232,7 +235,8 @@ NEWMAN = wks("John Henry Newman", [
    context="The 1864 controversy with Kingsley and the pages of Macmillan's and the Birmingham Oratory's pamphlet, the Oxford Movement's memory, and the position of Catholics in Victorian England after the restoration of the hierarchy in 1850.",
    sig="The Apologia created the modern spiritual autobiography and is the most persuasive account in English of the grounds of religious belief; it is also the central historical document of the Oxford Movement, and its prose is the standard against which Victorian religious writing is measured.",
    canon="Major canon",
-   status="complete"),
+   status="complete",
+   chars="John Henry Newman; Charles Kingsley, his accuser; John Keble; Richard Hurrell Froude; Edward Pusey; Richard Whately"),
  dict(title="The Idea of a University", year="1852",
    gb="Lecture and Popular Address, Review Essay and Quarterly Argument", tb=EDU+", " + DOUBT + ", " + ART,
    mb="Tractarian Prose and the Oxford Movement, Arnold and the Criticism of Culture", comp=["1852", "1858"],
@@ -258,7 +262,8 @@ NEWMAN = wks("John Henry Newman", [
    plot="Gerontius dies, his soul is borne by the guardian angel through the regions of the air, hears the demons and the angelic choirs, is presented to God and, judged, passes to the cleansing fire of purgatory with the angel's song in his ears.",
    context="The 1860s, the Catholic doctrine of purgatory, the Victorian literature of death and the deathbed, and Newman's own old age.",
    sig="The Dream of Gerontius is the finest Victorian poem on death and the basis of Elgar's oratorio (1900), the greatest English choral work of the century; its imagery shaped the English imagination of the afterlife and its verse carries Newman's prose cadence into poetry.",
-   canon="Major canon"),
+   canon="Major canon",
+   chars="Gerontius (the Soul); the Guardian Angel; the Priest and the assistants; the demons; the Angel of the Agony; the souls in Purgatory; the choirs of Angelicals"),
  dict(title="An Essay on the Development of Christian Doctrine", year="1845",
    gb="Review Essay and Quarterly Argument, Lecture and Popular Address", tb=DOUBT+", " + DESIGN,
    mb="Tractarian Prose and the Oxford Movement", comp=["1844", "1845"],
@@ -311,7 +316,8 @@ FITZ = wks("Edward FitzGerald", [
    plot="Cyprian, a pagan student, sells his soul to the devil for knowledge of Justina; he is converted by her faith and both die as martyrs, and the play enacts the triumph of grace over the magical will.",
    context="The 1840s-50s, the Victorian interest in Spanish drama (Lope de Vega, Calderón), and the Tractarian and Catholic revival of the period.",
    sig="The Mighty Magician is the most important Victorian translation of Calderón and a significant document of the English revival of the Spanish Golden Age; its theme of the magician's bargain links it to Marlowe's Faustus, which FitzGerald and his circle saw as a native counterpart.",
-   status="complete"),
+   status="complete",
+   chars="Cyprian; Justina; the Demon; Lelio and Floro"),
  dict(title="Euphranor: A Dialogue on Youth", year="1851",
    gb="Review Essay and Quarterly Argument, Lecture and Popular Address", tb=EDU+", " + DOUBT,
    mb="Arnold and the Criticism of Culture", form="Dialogue in prose",
@@ -395,11 +401,12 @@ BUTLER = wks("Samuel Butler (1835-1902)", [
    gb="Early Scientific Romance and Utopian Speculation, Nonsense Verse and the Parody of Rule", tb=DESIGN+", " + DOUBT + ", " + EMPIRE,
    mb="Aestheticism and the Decadent Decade", comp=["1897", "1901"],
    form="Satirical utopian novel",
-   desc="Published in 1901, the year before Butler's death, and his own sequel to Erewhon: the return of Higgs's son to the country where his father's visit has become a religion.",
-   plot="John Higgs returns to Erewhon and discovers that his father's arrival and departure have become the basis of a new religion, 'Sunchildism', complete with a fraudulent priesthood, a 'Mahaina' goddess and a new set of musical banks; his attempt to explain the truth is suppressed by the professors.",
+   desc="Published in 1901, the year before Butler's death, and his own sequel to Erewhon: Higgs's own return, twenty years on, to the country where his escape by balloon has become a religion, told by his English son.",
+   plot="Higgs, the original discoverer, returns to Erewhon twenty years after his escape by balloon and finds that his ascent has become the basis of a new religion, 'Sunchildism', administered by the scheming Professors Hanky and Panky; he meets his Erewhonian son George, the child of Yram, his attempt to tell the truth is suppressed by the professors, and the story is told by his English son John.",
    context="The 1890s, the comparative study of religion and the 'higher criticism' of the Bible, the growth of the Victorian imperial cult, and Butler's interest in the 'historical Jesus' controversy.",
    sig="Erewhon Revisited is the classic English satire on the origin of religions and on the priestcraft that preserves them: it anticipates the modern sociology of religion and the fictional treatment of the historical Jesus, and its portrait of a belief system founded on a misunderstanding is among the most sophisticated in Victorian satire.",
-   canon="Secondary canon"),
+   canon="Secondary canon",
+   chars="Higgs, the original discoverer ('the Sunchild'); John Higgs, his English son and the narrator; George, his Erewhonian son; Yram, George's mother; Professors Hanky and Panky; Dr Downie"),
 ])
 
 WORKS = []

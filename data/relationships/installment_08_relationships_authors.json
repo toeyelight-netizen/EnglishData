@@ -27,6 +27,13 @@
    ]
   },
   {
+   "author": "Alfred Austin",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
    "author": "Alfred Tennyson",
    "genres": [
     "Dialect Poem and Vernacular Performance",
@@ -114,6 +121,13 @@
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
     "Realist Novel of Common Life",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Anne Marsh",
+   "genres": [
+    "Novel of Development and the Growth Story",
     "Sensation Novel"
    ]
   },
@@ -209,6 +223,13 @@
    ]
   },
   {
+   "author": "Augustin Daly",
+   "genres": [
+    "Problem Play and Well-Made Drama",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
    "author": "Beatrix Potter",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
@@ -256,6 +277,19 @@
    ]
   },
   {
+   "author": "Catherine Gore",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Celia Thaxter",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
    "author": "Charles Dickens",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
@@ -279,6 +313,13 @@
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey",
     "Tall Tale and South-Western Humour Sketch"
+   ]
+  },
+  {
+   "author": "Charles Kean",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Review Essay and Quarterly Argument"
    ]
   },
   {
@@ -347,12 +388,29 @@
    ]
   },
   {
+   "author": "Charlotte Riddell",
+   "genres": [
+    "Ghost Story and Scientific Supernatural Tale",
+    "Industrial and Condition-of-England Novel",
+    "Realist Novel of Common Life",
+    "Sensation Novel"
+   ]
+  },
+  {
    "author": "Christina Rossetti",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
     "Nonsense Verse and the Parody of Rule",
     "Pastoral Elegy and the Mourning Sequence",
     "Sonnet Revival and Sequenced Sonnet"
+   ]
+  },
+  {
+   "author": "Constance Fenimore Woolson",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "New Woman and Marriage-Question Novel",
+    "War Narrative of the Common Soldier"
    ]
   },
   {
@@ -386,6 +444,28 @@
    ]
   },
   {
+   "author": "Dion Boucicault",
+   "genres": [
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "author": "E. W. Hornung",
+   "genres": [
+    "Detective Story and the Tale of Detection",
+    "Local-Colour Sketch and the Regional Portrait",
+    "New Woman and Marriage-Question Novel",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Ebenezer Elliott",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Lecture and Popular Address"
+   ]
+  },
+  {
    "author": "Edith Nesbit",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
@@ -411,6 +491,20 @@
     "Lecture and Popular Address",
     "Novel of Development and the Growth Story",
     "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "author": "Edna Lyall",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "author": "Edward Bellamy",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "Social Inquiry and the Documented Survey"
    ]
   },
   {
@@ -474,7 +568,6 @@
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
-    "Review Essay and Quarterly Argument",
     "Sonnet Revival and Sequenced Sonnet",
     "Victorian Verse Drama and Revived Tragedy"
    ]
@@ -490,6 +583,20 @@
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Elizabeth Robins",
+   "genres": [
+    "Problem Play and Well-Made Drama",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "author": "Elizabeth Stoddard",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
    ]
   },
   {
@@ -522,12 +629,34 @@
    ]
   },
   {
+   "author": "Emily Eden",
+   "genres": [
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "author": "Emily Lawless",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Lecture and Popular Address",
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
    "author": "Emma Lazarus",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
     "Lecture and Popular Address",
     "Sonnet Revival and Sequenced Sonnet",
     "Victorian Verse Drama and Revived Tragedy"
+   ]
+  },
+  {
+   "author": "Emma Marshall",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
    ]
   },
   {
@@ -550,6 +679,29 @@
    ]
   },
   {
+   "author": "Evelyn Whitaker",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "author": "F. Anstey",
+   "genres": [
+    "Children's Fantasy and the Dream-Region Tale",
+    "Novel of Development and the Growth Story",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Fanny Fern",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
    "author": "Frances E. W. Harper",
    "genres": [
     "Dialect Poem and Vernacular Performance",
@@ -559,6 +711,13 @@
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
     "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Frances Hodgson Burnett",
+   "genres": [
+    "Children's Fantasy and the Dream-Region Tale",
+    "Novel of Development and the Growth Story"
    ]
   },
   {
@@ -599,6 +758,20 @@
    ]
   },
   {
+   "author": "Frederick Goddard Tuckerman",
+   "genres": [
+    "Pastoral Elegy and the Mourning Sequence",
+    "Sonnet Revival and Sequenced Sonnet"
+   ]
+  },
+  {
+   "author": "G. A. Henty",
+   "genres": [
+    "Imperial Adventure Romance",
+    "Sensation Novel"
+   ]
+  },
+  {
    "author": "George Bernard Shaw",
    "genres": [
     "Early Scientific Romance and Utopian Speculation",
@@ -614,6 +787,20 @@
     "Local-Colour Sketch and the Regional Portrait",
     "Realist Novel of Common Life",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "George Douglas Brown",
+   "genres": [
+    "Naturalist and Determinist Novel",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "author": "George Egerton",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Sensation Novel"
    ]
   },
   {
@@ -635,6 +822,13 @@
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "George Grossmith",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
    ]
   },
   {
@@ -676,6 +870,13 @@
    ]
   },
   {
+   "author": "George Saintsbury",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
    "author": "George Washington Cable",
    "genres": [
     "Local-Colour Sketch and the Regional Portrait",
@@ -694,11 +895,39 @@
    ]
   },
   {
+   "author": "Gerald Massey",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Lecture and Popular Address"
+   ]
+  },
+  {
+   "author": "Geraldine Jewsbury",
+   "genres": [
+    "Industrial and Condition-of-England Novel",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
    "author": "Gerard Manley Hopkins",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
     "Pastoral Elegy and the Mourning Sequence",
     "Sonnet Revival and Sequenced Sonnet"
+   ]
+  },
+  {
+   "author": "Gertrude Dix",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
+   "author": "Grace King",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Sensation Novel"
    ]
   },
   {
@@ -723,6 +952,14 @@
    ]
   },
   {
+   "author": "Hall Caine",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Realist Novel of Common Life",
+    "Sensation Novel"
+   ]
+  },
+  {
    "author": "Hamlin Garland",
    "genres": [
     "Lecture and Popular Address",
@@ -732,6 +969,13 @@
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "Harold Frederic",
+   "genres": [
+    "Naturalist and Determinist Novel",
+    "Realist Novel of Common Life"
    ]
   },
   {
@@ -773,10 +1017,33 @@
    ]
   },
   {
+   "author": "Harriet Prescott Spofford",
+   "genres": [
+    "Ghost Story and Scientific Supernatural Tale",
+    "Sensation Novel"
+   ]
+  },
+  {
    "author": "Harriet Taylor Mill",
    "genres": [
     "Lecture and Popular Address",
     "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "author": "Helen Hunt Jackson",
+   "genres": [
+    "Lecture and Popular Address",
+    "Local-Colour Sketch and the Regional Portrait",
+    "Sensation Novel",
+    "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "Helen Mathers",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Sensation Novel"
    ]
   },
   {
@@ -808,6 +1075,13 @@
    ]
   },
   {
+   "author": "Henry George",
+   "genres": [
+    "Lecture and Popular Address",
+    "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
    "author": "Henry James",
    "genres": [
     "New Woman and Marriage-Question Novel",
@@ -831,6 +1105,21 @@
    "genres": [
     "Dramatic Monologue and Masked Lyric",
     "Lecture and Popular Address"
+   ]
+  },
+  {
+   "author": "Henry Sidgwick",
+   "genres": [
+    "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "author": "Henry Wadsworth Longfellow",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem",
+    "Lecture and Popular Address",
+    "Pastoral Elegy and the Mourning Sequence"
    ]
   },
   {
@@ -859,10 +1148,24 @@
    ]
   },
   {
+   "author": "Ian Maclaren",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
    "author": "Ida B. Wells",
    "genres": [
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "Ignatius L. Donnelly",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "Naturalist and Determinist Novel"
    ]
   },
   {
@@ -900,12 +1203,26 @@
    ]
   },
   {
+   "author": "James Russell Lowell",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Nonsense Verse and the Parody of Rule"
+   ]
+  },
+  {
    "author": "James Whitcomb Riley",
    "genres": [
     "Dialect Poem and Vernacular Performance",
     "Idyll and Domestic Narrative Poem",
     "Novel of Development and the Growth Story",
     "Tall Tale and South-Western Humour Sketch"
+   ]
+  },
+  {
+   "author": "Jean Ingelow",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem"
    ]
   },
   {
@@ -943,6 +1260,15 @@
    ]
   },
   {
+   "author": "John Greenleaf Whittier",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem",
+    "Lecture and Popular Address",
+    "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
    "author": "John Henry Newman",
    "genres": [
     "Lecture and Popular Address",
@@ -974,6 +1300,13 @@
     "Lecture and Popular Address",
     "Novel of Development and the Growth Story",
     "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "author": "Jones Very",
+   "genres": [
+    "Pastoral Elegy and the Mourning Sequence",
+    "Sonnet Revival and Sequenced Sonnet"
    ]
   },
   {
@@ -1098,6 +1431,21 @@
    ]
   },
   {
+   "author": "Marguerite Gardiner, Countess of Blessington",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "author": "Marie Corelli",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story",
+    "Sensation Novel"
+   ]
+  },
+  {
    "author": "Mark Twain",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
@@ -1118,6 +1466,13 @@
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "Mary Cecil Hay",
+   "genres": [
+    "Detective Story and the Tale of Detection",
+    "Sensation Novel"
    ]
   },
   {
@@ -1148,6 +1503,14 @@
     "Local-Colour Sketch and the Regional Portrait",
     "Nonsense Verse and the Parody of Rule",
     "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "author": "Mary Noailles Murfree",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Sensation Novel",
+    "Tall Tale and South-Western Humour Sketch"
    ]
   },
   {
@@ -1227,6 +1590,20 @@
    ]
   },
   {
+   "author": "Nathaniel Parker Willis",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "author": "Netta Syrett",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
    "author": "Olive Schreiner",
    "genres": [
     "Imperial Adventure Romance",
@@ -1235,6 +1612,15 @@
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "Oliver Wendell Holmes Sr.",
+   "genres": [
+    "Naturalist and Determinist Novel",
+    "Review Essay and Quarterly Argument",
+    "Sensation Novel",
+    "Serial and Monthly-Part Novel"
    ]
   },
   {
@@ -1276,6 +1662,14 @@
    ]
   },
   {
+   "author": "R. M. Ballantyne",
+   "genres": [
+    "Children's Fantasy and the Dream-Region Tale",
+    "Imperial Adventure Romance",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
    "author": "Ralph Waldo Emerson",
    "genres": [
     "Lecture and Popular Address",
@@ -1301,6 +1695,20 @@
    ]
   },
   {
+   "author": "Richard Doddridge Blackmore",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Richard Garnett",
+   "genres": [
+    "Ghost Story and Scientific Supernatural Tale",
+    "Nonsense Verse and the Parody of Rule"
+   ]
+  },
+  {
    "author": "Richard Hurrell Froude",
    "genres": [
     "Pastoral Elegy and the Mourning Sequence",
@@ -1316,6 +1724,13 @@
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "Richard Watson Dixon",
+   "genres": [
+    "Pastoral Elegy and the Mourning Sequence",
+    "Sonnet Revival and Sequenced Sonnet"
    ]
   },
   {
@@ -1342,6 +1757,14 @@
    ]
   },
   {
+   "author": "Robert Buchanan",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Lecture and Popular Address",
+    "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
    "author": "Robert Louis Stevenson",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
@@ -1351,6 +1774,20 @@
     "Naturalist and Determinist Novel",
     "Nonsense Verse and the Parody of Rule",
     "War Narrative of the Common Soldier"
+   ]
+  },
+  {
+   "author": "Rosa Nouchette Carey",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "author": "Rose Terry Cooke",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
    ]
   },
   {
@@ -1375,6 +1812,14 @@
     "Novel of Development and the Growth Story",
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "author": "Samuel Rutherford Crockett",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life",
+    "Sensation Novel"
    ]
   },
   {
@@ -1409,6 +1854,20 @@
    ]
   },
   {
+   "author": "Silas K. Hocking",
+   "genres": [
+    "Industrial and Condition-of-England Novel",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "author": "Standish James O'Grady",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Serial and Monthly-Part Novel"
+   ]
+  },
+  {
    "author": "Stephen Crane",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
@@ -1437,6 +1896,15 @@
     "Review Essay and Quarterly Argument",
     "Sensation Novel",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "Sydney Dobell",
+   "genres": [
+    "Dramatic Monologue and Masked Lyric",
+    "Idyll and Domestic Narrative Poem",
+    "Pastoral Elegy and the Mourning Sequence",
+    "War Narrative of the Common Soldier"
    ]
   },
   {
@@ -1471,6 +1939,13 @@
    ]
   },
   {
+   "author": "Thomas Wentworth Higginson",
+   "genres": [
+    "Social Inquiry and the Documented Survey",
+    "War Narrative of the Common Soldier"
+   ]
+  },
+  {
    "author": "Toru Dutt",
    "genres": [
     "Idyll and Domestic Narrative Poem",
@@ -1499,6 +1974,13 @@
     "Idyll and Domestic Narrative Poem",
     "Lecture and Popular Address",
     "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
+   "author": "W. H. G. Kingston",
+   "genres": [
+    "Imperial Adventure Romance",
+    "War Narrative of the Common Soldier"
    ]
   },
   {
@@ -1569,6 +2051,31 @@
    ]
   },
   {
+   "author": "William Allingham",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem",
+    "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "William Barnes",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem",
+    "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
+   "author": "William Black",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Novel of Development and the Growth Story",
+    "Realist Novel of Common Life",
+    "Serial and Monthly-Part Novel"
+   ]
+  },
+  {
    "author": "William Dean Howells",
    "genres": [
     "Lecture and Popular Address",
@@ -1577,6 +2084,22 @@
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "author": "William Edmondstoune Aytoun",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem",
+    "Nonsense Verse and the Parody of Rule",
+    "Victorian Verse Drama and Revived Tragedy"
+   ]
+  },
+  {
+   "author": "William Lecky",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Review Essay and Quarterly Argument"
    ]
   },
   {
@@ -1649,6 +2172,13 @@
    ]
   },
   {
+   "author": "Alfred Austin",
+   "movements": [
+    "Arnold and the Criticism of Culture",
+    "Ruskin and the Political Economy of Art"
+   ]
+  },
+  {
    "author": "Alfred Tennyson",
    "movements": [
     "Pre-Raphaelitism and the Truth to Nature",
@@ -1726,6 +2256,13 @@
    ]
   },
   {
+   "author": "Anne Marsh",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Tractarian Prose and the Oxford Movement"
+   ]
+  },
+  {
    "author": "Annie Besant",
    "movements": [
     "Arnold and the Criticism of Culture",
@@ -1798,6 +2335,12 @@
    ]
   },
   {
+   "author": "Augustin Daly",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
    "author": "Beatrix Potter",
    "movements": [
     "Aestheticism and the Decadent Decade",
@@ -1835,6 +2378,19 @@
    ]
   },
   {
+   "author": "Catherine Gore",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Celia Thaxter",
+   "movements": [
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
    "author": "Charles Dickens",
    "movements": [
     "Carlyle and the Hero-Worship Lecture",
@@ -1849,6 +2405,12 @@
     "American Realism and the Howells Program",
     "Local Colour and the Regionalist School",
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Charles Kean",
+   "movements": [
+    "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
@@ -1904,10 +2466,23 @@
    ]
   },
   {
+   "author": "Charlotte Riddell",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
    "author": "Christina Rossetti",
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Pre-Raphaelitism and the Truth to Nature"
+   ]
+  },
+  {
+   "author": "Constance Fenimore Woolson",
+   "movements": [
+    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -1929,6 +2504,28 @@
    "movements": [
     "Carlyle and the Hero-Worship Lecture",
     "Sensation Fiction and the Serial Plot",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Dion Boucicault",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "E. W. Hornung",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "Sensation Fiction and the Serial Plot",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Ebenezer Elliott",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -1955,6 +2552,20 @@
     "Pre-Raphaelitism and the Truth to Nature",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement"
+   ]
+  },
+  {
+   "author": "Edna Lyall",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Tractarian Prose and the Oxford Movement"
+   ]
+  },
+  {
+   "author": "Edward Bellamy",
+   "movements": [
+    "American Realism and the Howells Program",
+    "Chartism and the Condition-of-England Novel"
    ]
   },
   {
@@ -2017,6 +2628,19 @@
    ]
   },
   {
+   "author": "Elizabeth Robins",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Elizabeth Stoddard",
+   "movements": [
+    "Dark Romance and the Puritan Inheritance",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
    "author": "Elizabeth Stuart Phelps",
    "movements": [
     "American Realism and the Howells Program",
@@ -2040,11 +2664,33 @@
    ]
   },
   {
+   "author": "Emily Eden",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Emily Lawless",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Local Colour and the Regionalist School",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
    "author": "Emma Lazarus",
    "movements": [
     "American Realism and the Howells Program",
     "The Aesthetic Turn in 1890s America",
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Emma Marshall",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
@@ -2060,6 +2706,26 @@
    ]
   },
   {
+   "author": "Evelyn Whitaker",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "author": "F. Anstey",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "author": "Fanny Fern",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
    "author": "Frances E. W. Harper",
    "movements": [
     "American Realism and the Howells Program",
@@ -2068,6 +2734,13 @@
     "Local Colour and the Regionalist School",
     "Mark Twain and the Vernacular Performance",
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Frances Hodgson Burnett",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Mark Twain and the Vernacular Performance"
    ]
   },
   {
@@ -2101,6 +2774,18 @@
    ]
   },
   {
+   "author": "Frederick Goddard Tuckerman",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "author": "G. A. Henty",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
    "author": "George Bernard Shaw",
    "movements": [
     "Aestheticism and the Decadent Decade",
@@ -2114,6 +2799,20 @@
    "movements": [
     "Local Colour and the Regionalist School",
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "George Douglas Brown",
+   "movements": [
+    "American Naturalism and the Determinist Tragedy",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "author": "George Egerton",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -2134,6 +2833,13 @@
     "Chartism and the Condition-of-England Novel",
     "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "George Grossmith",
+   "movements": [
+    "Mark Twain and the Vernacular Performance",
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -2169,6 +2875,13 @@
    ]
   },
   {
+   "author": "George Saintsbury",
+   "movements": [
+    "Arnold and the Criticism of Culture",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
    "author": "George Washington Cable",
    "movements": [
     "American Realism and the Howells Program",
@@ -2183,9 +2896,37 @@
    ]
   },
   {
+   "author": "Gerald Massey",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Geraldine Jewsbury",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
    "author": "Gerard Manley Hopkins",
    "movements": [
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Gertrude Dix",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Grace King",
+   "movements": [
+    "Dark Romance and the Puritan Inheritance",
+    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -2206,12 +2947,27 @@
    ]
   },
   {
+   "author": "Hall Caine",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Sensation Fiction and the Serial Plot",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
    "author": "Hamlin Garland",
    "movements": [
     "American Realism and the Howells Program",
     "Arnold and the Criticism of Culture",
     "Local Colour and the Regionalist School",
     "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Harold Frederic",
+   "movements": [
+    "American Naturalism and the Determinist Tragedy",
+    "American Realism and the Howells Program"
    ]
   },
   {
@@ -2247,10 +3003,32 @@
    ]
   },
   {
+   "author": "Harriet Prescott Spofford",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "Dark Romance and the Puritan Inheritance"
+   ]
+  },
+  {
    "author": "Harriet Taylor Mill",
    "movements": [
     "Arnold and the Criticism of Culture",
     "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Helen Hunt Jackson",
+   "movements": [
+    "Dark Romance and the Puritan Inheritance",
+    "Local Colour and the Regionalist School",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "author": "Helen Mathers",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -2277,6 +3055,12 @@
    ]
   },
   {
+   "author": "Henry George",
+   "movements": [
+    "Chartism and the Condition-of-England Novel"
+   ]
+  },
+  {
    "author": "Henry James",
    "movements": [
     "Aestheticism and the Decadent Decade",
@@ -2299,6 +3083,19 @@
    ]
   },
   {
+   "author": "Henry Sidgwick",
+   "movements": [
+    "Arnold and the Criticism of Culture"
+   ]
+  },
+  {
+   "author": "Henry Wadsworth Longfellow",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
    "author": "Herbert George Wells",
    "movements": [
     "Aestheticism and the Decadent Decade",
@@ -2318,10 +3115,23 @@
    ]
   },
   {
+   "author": "Ian Maclaren",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
    "author": "Ida B. Wells",
    "movements": [
     "American Realism and the Howells Program",
     "Dark Romance and the Puritan Inheritance"
+   ]
+  },
+  {
+   "author": "Ignatius L. Donnelly",
+   "movements": [
+    "American Naturalism and the Determinist Tragedy",
+    "Chartism and the Condition-of-England Novel"
    ]
   },
   {
@@ -2349,10 +3159,24 @@
    ]
   },
   {
+   "author": "James Russell Lowell",
+   "movements": [
+    "Mark Twain and the Vernacular Performance",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
    "author": "James Whitcomb Riley",
    "movements": [
     "Local Colour and the Regionalist School",
     "Mark Twain and the Vernacular Performance"
+   ]
+  },
+  {
+   "author": "Jean Ingelow",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -2387,6 +3211,12 @@
    ]
   },
   {
+   "author": "John Greenleaf Whittier",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
    "author": "John Henry Newman",
    "movements": [
     "Arnold and the Criticism of Culture",
@@ -2416,6 +3246,12 @@
     "Carlyle and the Hero-Worship Lecture",
     "Chartism and the Condition-of-England Novel",
     "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Jones Very",
+   "movements": [
+    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
@@ -2519,6 +3355,19 @@
    ]
   },
   {
+   "author": "Marguerite Gardiner, Countess of Blessington",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Marie Corelli",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
    "author": "Mark Twain",
    "movements": [
     "Local Colour and the Regionalist School",
@@ -2534,6 +3383,12 @@
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement",
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Mary Cecil Hay",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -2553,6 +3408,14 @@
    "author": "Mary Louisa Molesworth",
    "movements": [
     "Aestheticism and the Decadent Decade"
+   ]
+  },
+  {
+   "author": "Mary Noailles Murfree",
+   "movements": [
+    "Dark Romance and the Puritan Inheritance",
+    "Local Colour and the Regionalist School",
+    "South-Western Humour and the Tall-Tale Sketch"
    ]
   },
   {
@@ -2614,6 +3477,18 @@
    ]
   },
   {
+   "author": "Nathaniel Parker Willis",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "author": "Netta Syrett",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
    "author": "Olive Schreiner",
    "movements": [
     "Aestheticism and the Decadent Decade",
@@ -2622,6 +3497,15 @@
     "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire",
     "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Oliver Wendell Holmes Sr.",
+   "movements": [
+    "American Naturalism and the Determinist Tragedy",
+    "Dark Romance and the Puritan Inheritance",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Transcendentalism and the Concord Lyceum"
    ]
   },
   {
@@ -2652,6 +3536,12 @@
    ]
   },
   {
+   "author": "R. M. Ballantyne",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
    "author": "Ralph Waldo Emerson",
    "movements": [
     "Arnold and the Criticism of Culture",
@@ -2674,6 +3564,20 @@
    ]
   },
   {
+   "author": "Richard Doddridge Blackmore",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "author": "Richard Garnett",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "Pre-Raphaelitism and the Truth to Nature"
+   ]
+  },
+  {
    "author": "Richard Hurrell Froude",
    "movements": [
     "Tractarian Prose and the Oxford Movement"
@@ -2685,6 +3589,13 @@
     "Local Colour and the Regionalist School",
     "Pre-Raphaelitism and the Truth to Nature",
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "Richard Watson Dixon",
+   "movements": [
+    "Pre-Raphaelitism and the Truth to Nature",
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
@@ -2704,11 +3615,32 @@
    ]
   },
   {
+   "author": "Robert Buchanan",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "Chartism and the Condition-of-England Novel",
+    "Pre-Raphaelitism and the Truth to Nature",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
    "author": "Robert Louis Stevenson",
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "author": "Rosa Nouchette Carey",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "author": "Rose Terry Cooke",
+   "movements": [
+    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -2726,6 +3658,12 @@
     "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
     "Carlyle and the Hero-Worship Lecture"
+   ]
+  },
+  {
+   "author": "Samuel Rutherford Crockett",
+   "movements": [
+    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -2751,6 +3689,20 @@
    ]
   },
   {
+   "author": "Silas K. Hocking",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "author": "Standish James O'Grady",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
    "author": "Stephen Crane",
    "movements": [
     "American Naturalism and the Determinist Tragedy",
@@ -2771,6 +3723,13 @@
     "Chartism and the Condition-of-England Novel",
     "Local Colour and the Regionalist School",
     "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "author": "Sydney Dobell",
+   "movements": [
+    "The Dramatic Monologue and the Masked Voice",
+    "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
@@ -2800,6 +3759,12 @@
    ]
   },
   {
+   "author": "Thomas Wentworth Higginson",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
    "author": "Toru Dutt",
    "movements": [
     "Pre-Raphaelitism and the Truth to Nature",
@@ -2821,6 +3786,12 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "W. H. G. Kingston",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
    ]
   },
   {
@@ -2880,11 +3851,47 @@
    ]
   },
   {
+   "author": "William Allingham",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Local Colour and the Regionalist School",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "William Barnes",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "William Black",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
    "author": "William Dean Howells",
    "movements": [
     "American Realism and the Howells Program",
     "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel"
+   ]
+  },
+  {
+   "author": "William Edmondstoune Aytoun",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "The Dramatic Monologue and the Masked Voice",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "author": "William Lecky",
+   "movements": [
+    "Arnold and the Criticism of Culture",
+    "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
@@ -2955,6 +3962,15 @@
     "Regional identity and the American sectional character",
     "The metropolis, the crowd, and the imperial capital",
     "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Alfred Austin",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Bereavement, immortality, and the argument from grief",
+    "The closing of the American frontier",
+    "The metropolis, the crowd, and the imperial capital"
    ]
   },
   {
@@ -3062,6 +4078,14 @@
     "Madness, the asylum, and the diagnosis of the will",
     "Self-destruction, melancholy, and the coroner's verdict",
     "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Anne Marsh",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Sexuality, the double standard, and the literature of the social evil"
    ]
   },
   {
@@ -3176,6 +4200,14 @@
    ]
   },
   {
+   "author": "Augustin Daly",
+   "themes": [
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The metropolis, the crowd, and the imperial capital",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
    "author": "Beatrix Potter",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3235,6 +4267,23 @@
    ]
   },
   {
+   "author": "Catherine Gore",
+   "themes": [
+    "Leisure class, the idle rich, and the unearned income",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "author": "Celia Thaxter",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Innocence, experience, and the lost American Eden",
+    "The American wilderness and the myth of the forest",
+    "The closing of the American frontier"
+   ]
+  },
+  {
    "author": "Charles Dickens",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3265,6 +4314,13 @@
     "Science, religion, and the question of design",
     "Self-destruction, melancholy, and the coroner's verdict",
     "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
+   "author": "Charles Kean",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Education, the schools, and the cultivation of the self"
    ]
   },
   {
@@ -3343,12 +4399,31 @@
    ]
   },
   {
+   "author": "Charlotte Riddell",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
    "author": "Christina Rossetti",
    "themes": [
     "Art versus life, and the romance of the artist",
     "Bereavement, immortality, and the argument from grief",
     "Childhood, the child labourer, and the sentimental child",
     "Doubt, agnosticism, and the Broad Church conscience",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Constance Fenimore Woolson",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Innocence, experience, and the lost American Eden",
+    "Regional identity and the American sectional character",
+    "Slavery, emancipation, and the unfinished Reconstruction",
     "The woman question, married disability, and the New Woman"
    ]
   },
@@ -3390,6 +4465,33 @@
    ]
   },
   {
+   "author": "Dion Boucicault",
+   "themes": [
+    "Race, voice, and the dialect of freedom",
+    "Regional identity and the American sectional character",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Slavery, emancipation, and the unfinished Reconstruction"
+   ]
+  },
+  {
+   "author": "E. W. Hornung",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Leisure class, the idle rich, and the unearned income",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Self-destruction, melancholy, and the coroner's verdict",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Ebenezer Elliott",
+   "themes": [
+    "The closing of the American frontier",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
    "author": "Edith Nesbit",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3422,6 +4524,23 @@
     "Sexuality, the double standard, and the literature of the social evil",
     "The metropolis, the crowd, and the imperial capital",
     "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Edna Lyall",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Edward Bellamy",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Science, religion, and the question of design",
+    "Wage labour, the strike, and the two nations"
    ]
   },
   {
@@ -3514,6 +4633,23 @@
    ]
   },
   {
+   "author": "Elizabeth Robins",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The metropolis, the crowd, and the imperial capital",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Elizabeth Stoddard",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
    "author": "Elizabeth Stuart Phelps",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3546,6 +4682,24 @@
    ]
   },
   {
+   "author": "Emily Eden",
+   "themes": [
+    "Leisure class, the idle rich, and the unearned income",
+    "The metropolis, the crowd, and the imperial capital",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Emily Lawless",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "The woman question, married disability, and the New Woman",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
    "author": "Emma Lazarus",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3555,6 +4709,14 @@
     "Sexuality, the double standard, and the literature of the social evil",
     "Slavery, emancipation, and the unfinished Reconstruction",
     "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Emma Marshall",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "The metropolis, the crowd, and the imperial capital"
    ]
   },
   {
@@ -3579,6 +4741,33 @@
    ]
   },
   {
+   "author": "Evelyn Whitaker",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "F. Anstey",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Childhood, the child labourer, and the sentimental child",
+    "Education, the schools, and the cultivation of the self",
+    "Leisure class, the idle rich, and the unearned income",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "author": "Fanny Fern",
+   "themes": [
+    "The machinery of print: the serial, the magazine, and the book trade",
+    "The metropolis, the crowd, and the imperial capital",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
    "author": "Frances E. W. Harper",
    "themes": [
     "Bereavement, immortality, and the argument from grief",
@@ -3586,6 +4775,18 @@
     "Race, voice, and the dialect of freedom",
     "Slavery, emancipation, and the unfinished Reconstruction",
     "The woman question, married disability, and the New Woman",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Frances Hodgson Burnett",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Democracy, individualism, and the American experiment",
+    "Education, the schools, and the cultivation of the self",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Regional identity and the American sectional character",
+    "Science, religion, and the question of design",
     "Wage labour, the strike, and the two nations"
    ]
   },
@@ -3634,6 +4835,25 @@
    ]
   },
   {
+   "author": "Frederick Goddard Tuckerman",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Self-destruction, melancholy, and the coroner's verdict",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
+   "author": "G. A. Henty",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Empire, jingoism, and the literature of the metropole",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Race, voice, and the dialect of freedom",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
    "author": "George Bernard Shaw",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3659,6 +4879,22 @@
     "Self-destruction, melancholy, and the coroner's verdict",
     "Sexuality, the double standard, and the literature of the social evil",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "George Douglas Brown",
+   "themes": [
+    "Industrial wealth, accumulation, and the gospel of accumulation",
+    "Regional identity and the American sectional character",
+    "Self-destruction, melancholy, and the coroner's verdict"
+   ]
+  },
+  {
+   "author": "George Egerton",
+   "themes": [
+    "Self-destruction, melancholy, and the coroner's verdict",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The woman question, married disability, and the New Woman"
    ]
   },
   {
@@ -3692,6 +4928,14 @@
     "The metropolis, the crowd, and the imperial capital",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "George Grossmith",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Leisure class, the idle rich, and the unearned income",
+    "The metropolis, the crowd, and the imperial capital"
    ]
   },
   {
@@ -3735,6 +4979,14 @@
    ]
   },
   {
+   "author": "George Saintsbury",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Education, the schools, and the cultivation of the self",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
    "author": "George Washington Cable",
    "themes": [
     "Democracy, individualism, and the American experiment",
@@ -3755,6 +5007,22 @@
    ]
   },
   {
+   "author": "Gerald Massey",
+   "themes": [
+    "Democracy, individualism, and the American experiment",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Geraldine Jewsbury",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "The woman question, married disability, and the New Woman",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
    "author": "Gerard Manley Hopkins",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3763,6 +5031,23 @@
     "Madness, the asylum, and the diagnosis of the will",
     "Regional identity and the American sectional character",
     "Science, religion, and the question of design"
+   ]
+  },
+  {
+   "author": "Gertrude Dix",
+   "themes": [
+    "Democracy, individualism, and the American experiment",
+    "The woman question, married disability, and the New Woman",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Grace King",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Race, voice, and the dialect of freedom",
+    "Regional identity and the American sectional character",
+    "Slavery, emancipation, and the unfinished Reconstruction"
    ]
   },
   {
@@ -3793,6 +5078,17 @@
    ]
   },
   {
+   "author": "Hall Caine",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Regional identity and the American sectional character",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The metropolis, the crowd, and the imperial capital",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
    "author": "Hamlin Garland",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3803,6 +5099,14 @@
     "The closing of the American frontier",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Harold Frederic",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Sexuality, the double standard, and the literature of the social evil"
    ]
   },
   {
@@ -3850,10 +5154,35 @@
    ]
   },
   {
+   "author": "Harriet Prescott Spofford",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
    "author": "Harriet Taylor Mill",
    "themes": [
     "Doubt, agnosticism, and the Broad Church conscience",
     "Education, the schools, and the cultivation of the self",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Helen Hunt Jackson",
+   "themes": [
+    "Race, voice, and the dialect of freedom",
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "The American wilderness and the myth of the forest",
+    "The closing of the American frontier"
+   ]
+  },
+  {
+   "author": "Helen Mathers",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The machinery of print: the serial, the magazine, and the book trade",
     "The woman question, married disability, and the New Woman"
    ]
   },
@@ -3901,6 +5230,14 @@
    ]
   },
   {
+   "author": "Henry George",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
    "author": "Henry James",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -3936,6 +5273,25 @@
    ]
   },
   {
+   "author": "Henry Sidgwick",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Science, religion, and the question of design"
+   ]
+  },
+  {
+   "author": "Henry Wadsworth Longfellow",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Innocence, experience, and the lost American Eden",
+    "Race, voice, and the dialect of freedom",
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
    "author": "Herbert George Wells",
    "themes": [
     "Doubt, agnosticism, and the Broad Church conscience",
@@ -3967,13 +5323,28 @@
    ]
   },
   {
+   "author": "Ian Maclaren",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Regional identity and the American sectional character"
+   ]
+  },
+  {
    "author": "Ida B. Wells",
    "themes": [
     "Democracy, individualism, and the American experiment",
     "Race, voice, and the dialect of freedom",
     "Self-destruction, melancholy, and the coroner's verdict",
     "Sexuality, the double standard, and the literature of the social evil",
-    "The woman question, married disability, and the New Woman",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Ignatius L. Donnelly",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital",
     "Wage labour, the strike, and the two nations"
    ]
   },
@@ -4022,6 +5393,16 @@
    ]
   },
   {
+   "author": "James Russell Lowell",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Democracy, individualism, and the American experiment",
+    "Race, voice, and the dialect of freedom",
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
    "author": "James Whitcomb Riley",
    "themes": [
     "Childhood, the child labourer, and the sentimental child",
@@ -4029,6 +5410,14 @@
     "Leisure class, the idle rich, and the unearned income",
     "Regional identity and the American sectional character",
     "Self-destruction, melancholy, and the coroner's verdict"
+   ]
+  },
+  {
+   "author": "Jean Ingelow",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "The closing of the American frontier",
+    "The woman question, married disability, and the New Woman"
    ]
   },
   {
@@ -4070,6 +5459,17 @@
     "Sexuality, the double standard, and the literature of the social evil",
     "The metropolis, the crowd, and the imperial capital",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "John Greenleaf Whittier",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Innocence, experience, and the lost American Eden",
+    "Race, voice, and the dialect of freedom",
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "The American wilderness and the myth of the forest"
    ]
   },
   {
@@ -4117,6 +5517,14 @@
     "Science, religion, and the question of design",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Jones Very",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self"
    ]
   },
   {
@@ -4271,6 +5679,28 @@
    ]
   },
   {
+   "author": "Marguerite Gardiner, Countess of Blessington",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Bereavement, immortality, and the argument from grief",
+    "Leisure class, the idle rich, and the unearned income",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "author": "Marie Corelli",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Bereavement, immortality, and the argument from grief",
+    "Childhood, the child labourer, and the sentimental child",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Science, religion, and the question of design",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
    "author": "Mark Twain",
    "themes": [
     "Childhood, the child labourer, and the sentimental child",
@@ -4296,6 +5726,14 @@
     "The machinery of print: the serial, the magazine, and the book trade",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Mary Cecil Hay",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The woman question, married disability, and the New Woman"
    ]
   },
   {
@@ -4329,6 +5767,16 @@
     "Education, the schools, and the cultivation of the self",
     "Regional identity and the American sectional character",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Mary Noailles Murfree",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Innocence, experience, and the lost American Eden",
+    "Regional identity and the American sectional character",
+    "The American wilderness and the myth of the forest",
+    "The closing of the American frontier"
    ]
   },
   {
@@ -4414,6 +5862,22 @@
    ]
   },
   {
+   "author": "Nathaniel Parker Willis",
+   "themes": [
+    "Leisure class, the idle rich, and the unearned income",
+    "The machinery of print: the serial, the magazine, and the book trade",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "author": "Netta Syrett",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Education, the schools, and the cultivation of the self",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
    "author": "Olive Schreiner",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -4424,6 +5888,16 @@
     "Regional identity and the American sectional character",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Oliver Wendell Holmes Sr.",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Madness, the asylum, and the diagnosis of the will",
+    "Science, religion, and the question of design",
+    "Sexuality, the double standard, and the literature of the social evil"
    ]
   },
   {
@@ -4468,6 +5942,15 @@
    ]
   },
   {
+   "author": "R. M. Ballantyne",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Empire, jingoism, and the literature of the metropole",
+    "Race, voice, and the dialect of freedom",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
    "author": "Ralph Waldo Emerson",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -4503,6 +5986,24 @@
    ]
   },
   {
+   "author": "Richard Doddridge Blackmore",
+   "themes": [
+    "Innocence, experience, and the lost American Eden",
+    "Regional identity and the American sectional character",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The closing of the American frontier",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Richard Garnett",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Bereavement, immortality, and the argument from grief",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
    "author": "Richard Hurrell Froude",
    "themes": [
     "Bereavement, immortality, and the argument from grief",
@@ -4521,6 +6022,14 @@
     "Science, religion, and the question of design",
     "Self-destruction, melancholy, and the coroner's verdict",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Richard Watson Dixon",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "The metropolis, the crowd, and the imperial capital"
    ]
   },
   {
@@ -4547,6 +6056,16 @@
    ]
   },
   {
+   "author": "Robert Buchanan",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The machinery of print: the serial, the magazine, and the book trade",
+    "The metropolis, the crowd, and the imperial capital",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
    "author": "Robert Louis Stevenson",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -4560,6 +6079,22 @@
     "Science, religion, and the question of design",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Rosa Nouchette Carey",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Education, the schools, and the cultivation of the self",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Rose Terry Cooke",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "The woman question, married disability, and the New Woman"
    ]
   },
   {
@@ -4584,6 +6119,16 @@
     "Money, credit, speculation, and the joint-stock imagination",
     "Science, religion, and the question of design",
     "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "author": "Samuel Rutherford Crockett",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier"
    ]
   },
   {
@@ -4623,6 +6168,23 @@
    ]
   },
   {
+   "author": "Silas K. Hocking",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Childhood, the child labourer, and the sentimental child",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Standish James O'Grady",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Empire, jingoism, and the literature of the metropole",
+    "Regional identity and the American sectional character",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
    "author": "Stephen Crane",
    "themes": [
     "Bereavement, immortality, and the argument from grief",
@@ -4658,6 +6220,15 @@
     "Regional identity and the American sectional character",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "Sydney Dobell",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Empire, jingoism, and the literature of the metropole",
+    "Madness, the asylum, and the diagnosis of the will"
    ]
   },
   {
@@ -4702,6 +6273,14 @@
    ]
   },
   {
+   "author": "Thomas Wentworth Higginson",
+   "themes": [
+    "Democracy, individualism, and the American experiment",
+    "Race, voice, and the dialect of freedom",
+    "Slavery, emancipation, and the unfinished Reconstruction"
+   ]
+  },
+  {
    "author": "Toru Dutt",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -4734,6 +6313,16 @@
     "Madness, the asylum, and the diagnosis of the will",
     "Self-destruction, melancholy, and the coroner's verdict",
     "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "author": "W. H. G. Kingston",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Education, the schools, and the cultivation of the self",
+    "Empire, jingoism, and the literature of the metropole",
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "The American wilderness and the myth of the forest"
    ]
   },
   {
@@ -4817,6 +6406,35 @@
    ]
   },
   {
+   "author": "William Allingham",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The American wilderness and the myth of the forest",
+    "The closing of the American frontier",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "William Barnes",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Childhood, the child labourer, and the sentimental child",
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "author": "William Black",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "The machinery of print: the serial, the magazine, and the book trade",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
    "author": "William Dean Howells",
    "themes": [
     "Art versus life, and the romance of the artist",
@@ -4827,6 +6445,25 @@
     "The American city, the machine, and the moneyed metropolis",
     "The woman question, married disability, and the New Woman",
     "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "author": "William Edmondstoune Aytoun",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Bereavement, immortality, and the argument from grief",
+    "Empire, jingoism, and the literature of the metropole",
+    "Regional identity and the American sectional character",
+    "Self-destruction, melancholy, and the coroner's verdict",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "author": "William Lecky",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Science, religion, and the question of design",
+    "The woman question, married disability, and the New Woman"
    ]
   },
   {
@@ -4995,6 +6632,7 @@
    "author": "Charlotte Perkins Gilman",
    "influenced_by": [
     "Harriet Beecher Stowe",
+    "Edward Bellamy",
     "John Stuart Mill",
     "Mary Wollstonecraft"
    ]
@@ -5145,7 +6783,8 @@
     "Walter Pater",
     "John Henry Newman",
     "William Shakespeare",
-    "Sir Thomas Wyatt"
+    "Sir Thomas Wyatt",
+    "W. B. Yeats"
    ]
   },
   {
@@ -5229,7 +6868,8 @@
    "influenced_by": [
     "Robert Louis Stevenson",
     "Daniel Defoe",
-    "James Fenimore Cooper"
+    "James Fenimore Cooper",
+    "R. M. Ballantyne"
    ]
   },
   {
@@ -5366,7 +7006,8 @@
   {
    "author": "Hamlin Garland",
    "influenced_by": [
-    "William Dean Howells"
+    "William Dean Howells",
+    "Edward Bellamy"
    ]
   },
   {
@@ -5405,7 +7046,8 @@
     "Charles Dickens",
     "Harriet Beecher Stowe",
     "Sarah Orne Jewett",
-    "William Dean Howells"
+    "William Dean Howells",
+    "Jessie Redmon Fauset"
    ]
   },
   {
@@ -5433,6 +7075,7 @@
    "author": "Zitkala-Sa",
    "influenced_by": [
     "Harriet Beecher Stowe",
+    "Helen Hunt Jackson",
     "Charles Eastman"
    ]
   },
@@ -5649,6 +7292,7 @@
    "author": "Emma Lazarus",
    "influenced_by": [
     "Ralph Waldo Emerson",
+    "Henry Wadsworth Longfellow",
     "John Keats",
     "Percy Bysshe Shelley",
     "George Eliot"
@@ -5667,7 +7311,9 @@
   {
    "author": "James Whitcomb Riley",
    "influenced_by": [
+    "John Greenleaf Whittier",
     "Robert Burns",
+    "Henry Wadsworth Longfellow",
     "William Shakespeare",
     "Bret Harte"
    ]
@@ -5687,7 +7333,606 @@
    "influenced_by": [
     "Henry David Thoreau",
     "Ralph Waldo Emerson",
+    "Harriet Beecher Stowe",
+    "Henry Wadsworth Longfellow"
+   ]
+  },
+  {
+   "author": "Hall Caine",
+   "influenced_by": [
+    "Charles Dickens",
+    "Thomas Carlyle",
+    "George Eliot",
+    "Dante Gabriel Rossetti"
+   ]
+  },
+  {
+   "author": "Marie Corelli",
+   "influenced_by": [
+    "Edward Bulwer-Lytton",
+    "Charles Dickens",
+    "George Eliot",
+    "Wilkie Collins"
+   ]
+  },
+  {
+   "author": "Frances Hodgson Burnett",
+   "influenced_by": [
+    "Charles Dickens",
+    "Louisa May Alcott",
+    "George Eliot"
+   ]
+  },
+  {
+   "author": "Richard Doddridge Blackmore",
+   "influenced_by": [
+    "Charles Dickens",
+    "William Wordsworth"
+   ]
+  },
+  {
+   "author": "William Black",
+   "influenced_by": [
+    "Charles Dickens",
+    "William Wordsworth",
+    "Robert Louis Stevenson"
+   ]
+  },
+  {
+   "author": "Samuel Rutherford Crockett",
+   "influenced_by": [
+    "Robert Burns",
+    "John Galt",
+    "Robert Louis Stevenson",
+    "James Hogg"
+   ]
+  },
+  {
+   "author": "Ian Maclaren",
+   "influenced_by": [
+    "Robert Burns",
+    "John Galt",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "George Douglas Brown",
+   "influenced_by": [
+    "George Eliot",
+    "Thomas Hardy"
+   ]
+  },
+  {
+   "author": "Silas K. Hocking",
+   "influenced_by": [
+    "Charles Dickens",
+    "George Eliot",
+    "John Bunyan",
+    "Mrs Henry Wood"
+   ]
+  },
+  {
+   "author": "E. W. Hornung",
+   "influenced_by": [
+    "Robert Louis Stevenson",
+    "Arthur Conan Doyle",
+    "Rudyard Kipling",
+    "Oscar Wilde"
+   ]
+  },
+  {
+   "author": "R. M. Ballantyne",
+   "influenced_by": [
+    "Daniel Defoe",
+    "James Fenimore Cooper",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "W. H. G. Kingston",
+   "influenced_by": [
+    "Daniel Defoe",
+    "James Fenimore Cooper",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "G. A. Henty",
+   "influenced_by": [
+    "R. M. Ballantyne",
+    "Charles Kingsley"
+   ]
+  },
+  {
+   "author": "F. Anstey",
+   "influenced_by": [
+    "Charles Dickens",
+    "William Makepeace Thackeray",
+    "Lewis Carroll",
+    "Jerome K. Jerome",
+    "W. S. Gilbert"
+   ]
+  },
+  {
+   "author": "George Grossmith",
+   "influenced_by": [
+    "Charles Dickens",
+    "Jerome K. Jerome",
+    "William Makepeace Thackeray",
+    "W. S. Gilbert"
+   ]
+  },
+  {
+   "author": "Henry Wadsworth Longfellow",
+   "influenced_by": [
+    "Washington Irving",
+    "William Cullen Bryant",
+    "Thomas Moore"
+   ]
+  },
+  {
+   "author": "John Greenleaf Whittier",
+   "influenced_by": [
+    "Robert Burns",
+    "William Wordsworth",
+    "William Lloyd Garrison",
+    "Lydia Maria Child"
+   ]
+  },
+  {
+   "author": "Oliver Wendell Holmes Sr.",
+   "influenced_by": [
+    "Laurence Sterne",
+    "Charles Lamb",
+    "Samuel Taylor Coleridge",
+    "Washington Irving"
+   ]
+  },
+  {
+   "author": "James Russell Lowell",
+   "influenced_by": [
+    "John Milton",
+    "William Wordsworth",
+    "Samuel Taylor Coleridge"
+   ]
+  },
+  {
+   "author": "Nathaniel Parker Willis",
+   "influenced_by": [
+    "Washington Irving",
+    "Thomas Moore",
+    "Charles Lamb",
+    "Samuel Rogers"
+   ]
+  },
+  {
+   "author": "Jones Very",
+   "influenced_by": [
+    "William Wordsworth",
+    "Samuel Taylor Coleridge",
+    "Ralph Waldo Emerson",
+    "John Milton"
+   ]
+  },
+  {
+   "author": "Frederick Goddard Tuckerman",
+   "influenced_by": [
+    "William Shakespeare",
+    "John Milton",
+    "William Wordsworth",
+    "Ralph Waldo Emerson",
+    "George Herbert"
+   ]
+  },
+  {
+   "author": "Celia Thaxter",
+   "influenced_by": [
+    "John Greenleaf Whittier",
+    "William Wordsworth",
+    "Henry Wadsworth Longfellow",
+    "John Ruskin",
+    "Ralph Waldo Emerson"
+   ]
+  },
+  {
+   "author": "Fanny Fern",
+   "influenced_by": [
+    "Laurence Sterne",
+    "Charles Dickens",
+    "Washington Irving",
+    "Charles Lamb"
+   ]
+  },
+  {
+   "author": "Harriet Prescott Spofford",
+   "influenced_by": [
+    "Nathaniel Hawthorne",
+    "Edgar Allan Poe",
+    "John Ruskin",
+    "Algernon Charles Swinburne"
+   ]
+  },
+  {
+   "author": "Rose Terry Cooke",
+   "influenced_by": [
+    "Harriet Beecher Stowe",
+    "Nathaniel Hawthorne",
+    "William Wordsworth",
+    "Elizabeth Gaskell"
+   ]
+  },
+  {
+   "author": "Mary Noailles Murfree",
+   "influenced_by": [
+    "Nathaniel Hawthorne",
+    "Bret Harte",
+    "George Washington Cable",
+    "Harriet Beecher Stowe",
+    "Joel Chandler Harris"
+   ]
+  },
+  {
+   "author": "Grace King",
+   "influenced_by": [
+    "George Washington Cable",
+    "Kate Chopin",
+    "Nathaniel Hawthorne",
+    "William Makepeace Thackeray",
     "Harriet Beecher Stowe"
+   ]
+  },
+  {
+   "author": "Elizabeth Stoddard",
+   "influenced_by": [
+    "Nathaniel Hawthorne",
+    "Laurence Sterne"
+   ]
+  },
+  {
+   "author": "Constance Fenimore Woolson",
+   "influenced_by": [
+    "Henry James",
+    "George Eliot",
+    "Nathaniel Hawthorne",
+    "James Fenimore Cooper"
+   ]
+  },
+  {
+   "author": "Helen Hunt Jackson",
+   "influenced_by": [
+    "Harriet Beecher Stowe",
+    "Henry Wadsworth Longfellow",
+    "John Greenleaf Whittier",
+    "William Wordsworth"
+   ]
+  },
+  {
+   "author": "Thomas Wentworth Higginson",
+   "influenced_by": [
+    "Ralph Waldo Emerson",
+    "William Lloyd Garrison",
+    "Thomas Carlyle"
+   ]
+  },
+  {
+   "author": "Edward Bellamy",
+   "influenced_by": [
+    "Henry George",
+    "John Ruskin"
+   ]
+  },
+  {
+   "author": "Ignatius L. Donnelly",
+   "influenced_by": [
+    "Edward Bellamy",
+    "Henry George",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "Henry George",
+   "influenced_by": [
+    "John Stuart Mill",
+    "Adam Smith",
+    "Thomas Paine"
+   ]
+  },
+  {
+   "author": "Harold Frederic",
+   "influenced_by": [
+    "George Eliot",
+    "William Dean Howells",
+    "Thomas Hardy"
+   ]
+  },
+  {
+   "author": "Standish James O'Grady",
+   "influenced_by": [
+    "Thomas Carlyle",
+    "James Macpherson"
+   ]
+  },
+  {
+   "author": "Emily Lawless",
+   "influenced_by": [
+    "George Eliot",
+    "Thomas Hardy",
+    "William Wordsworth",
+    "John Ruskin",
+    "Standish James O'Grady"
+   ]
+  },
+  {
+   "author": "William Allingham",
+   "influenced_by": [
+    "Robert Burns",
+    "William Wordsworth",
+    "Percy Bysshe Shelley",
+    "John Keats"
+   ]
+  },
+  {
+   "author": "Geraldine Jewsbury",
+   "influenced_by": [
+    "Thomas Carlyle",
+    "William Makepeace Thackeray"
+   ]
+  },
+  {
+   "author": "William Barnes",
+   "influenced_by": [
+    "Robert Burns",
+    "William Wordsworth",
+    "John Clare"
+   ]
+  },
+  {
+   "author": "Jean Ingelow",
+   "influenced_by": [
+    "Alfred Tennyson",
+    "William Wordsworth",
+    "John Keats",
+    "Elizabeth Barrett Browning",
+    "Charles Kingsley"
+   ]
+  },
+  {
+   "author": "Alfred Austin",
+   "influenced_by": [
+    "Alfred Tennyson",
+    "William Wordsworth",
+    "John Ruskin",
+    "Matthew Arnold"
+   ]
+  },
+  {
+   "author": "Richard Watson Dixon",
+   "influenced_by": [
+    "John Keats",
+    "Robert Browning",
+    "John Henry Newman",
+    "William Morris",
+    "Dante Gabriel Rossetti"
+   ]
+  },
+  {
+   "author": "Robert Buchanan",
+   "influenced_by": [
+    "Robert Burns",
+    "William Wordsworth",
+    "Percy Bysshe Shelley",
+    "Thomas Carlyle",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "Sydney Dobell",
+   "influenced_by": [
+    "Percy Bysshe Shelley",
+    "Robert Browning",
+    "Thomas Carlyle",
+    "John Keats"
+   ]
+  },
+  {
+   "author": "William Edmondstoune Aytoun",
+   "influenced_by": [
+    "Robert Burns",
+    "Thomas Babington Macaulay",
+    "James Hogg"
+   ]
+  },
+  {
+   "author": "Gerald Massey",
+   "influenced_by": [
+    "Percy Bysshe Shelley",
+    "Robert Burns",
+    "Ebenezer Elliott",
+    "Thomas Carlyle",
+    "William Blake"
+   ]
+  },
+  {
+   "author": "Ebenezer Elliott",
+   "influenced_by": [
+    "Robert Burns",
+    "William Wordsworth",
+    "Percy Bysshe Shelley",
+    "William Cobbett",
+    "Thomas Paine"
+   ]
+  },
+  {
+   "author": "Richard Garnett",
+   "influenced_by": [
+    "Jonathan Swift",
+    "Walter Savage Landor",
+    "Thomas De Quincey"
+   ]
+  },
+  {
+   "author": "Charlotte Riddell",
+   "influenced_by": [
+    "Charles Dickens",
+    "Wilkie Collins",
+    "Anthony Trollope",
+    "George Eliot",
+    "Elizabeth Gaskell"
+   ]
+  },
+  {
+   "author": "Mary Cecil Hay",
+   "influenced_by": [
+    "Wilkie Collins",
+    "Mary Elizabeth Braddon",
+    "Charles Dickens",
+    "Mrs Henry Wood"
+   ]
+  },
+  {
+   "author": "Helen Mathers",
+   "influenced_by": [
+    "Dinah Mulock Craik",
+    "Mary Elizabeth Braddon",
+    "George Eliot",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "author": "Edna Lyall",
+   "influenced_by": [
+    "George Eliot",
+    "Dinah Mulock Craik",
+    "Charles Kingsley"
+   ]
+  },
+  {
+   "author": "Rosa Nouchette Carey",
+   "influenced_by": [
+    "Dinah Mulock Craik",
+    "Louisa May Alcott",
+    "Jane Austen",
+    "Elizabeth Gaskell"
+   ]
+  },
+  {
+   "author": "Emma Marshall",
+   "influenced_by": [
+    "John Ruskin",
+    "Charles Kingsley",
+    "Dinah Mulock Craik"
+   ]
+  },
+  {
+   "author": "Evelyn Whitaker",
+   "influenced_by": [
+    "Dinah Mulock Craik",
+    "Charles Dickens",
+    "George Eliot"
+   ]
+  },
+  {
+   "author": "Catherine Gore",
+   "influenced_by": [
+    "Maria Edgeworth",
+    "Jane Austen",
+    "William Makepeace Thackeray"
+   ]
+  },
+  {
+   "author": "Marguerite Gardiner, Countess of Blessington",
+   "influenced_by": [
+    "Horace Walpole",
+    "William Beckford"
+   ]
+  },
+  {
+   "author": "Anne Marsh",
+   "influenced_by": [
+    "Hannah More",
+    "Jane Austen",
+    "Maria Edgeworth"
+   ]
+  },
+  {
+   "author": "Emily Eden",
+   "influenced_by": [
+    "Jane Austen",
+    "Maria Edgeworth",
+    "William Makepeace Thackeray"
+   ]
+  },
+  {
+   "author": "George Egerton",
+   "influenced_by": [
+    "Kate Chopin"
+   ]
+  },
+  {
+   "author": "Netta Syrett",
+   "influenced_by": [
+    "George Egerton",
+    "George Gissing",
+    "Olive Schreiner",
+    "Sarah Grand"
+   ]
+  },
+  {
+   "author": "Elizabeth Robins",
+   "influenced_by": [
+    "George Bernard Shaw",
+    "Olive Schreiner",
+    "Mona Caird",
+    "John Stuart Mill"
+   ]
+  },
+  {
+   "author": "Gertrude Dix",
+   "influenced_by": [
+    "Olive Schreiner",
+    "William Morris",
+    "Edward Bellamy",
+    "George Bernard Shaw"
+   ]
+  },
+  {
+   "author": "Dion Boucicault",
+   "influenced_by": [
+    "Edward Bulwer-Lytton",
+    "Charles Reade"
+   ]
+  },
+  {
+   "author": "Augustin Daly",
+   "influenced_by": [
+    "William Shakespeare",
+    "Dion Boucicault",
+    "Charles Reade"
+   ]
+  },
+  {
+   "author": "George Saintsbury",
+   "influenced_by": [
+    "William Hazlitt",
+    "Thomas Babington Macaulay",
+    "Matthew Arnold",
+    "John Dryden",
+    "Samuel Johnson"
+   ]
+  },
+  {
+   "author": "Henry Sidgwick",
+   "influenced_by": [
+    "John Stuart Mill",
+    "Jeremy Bentham"
+   ]
+  },
+  {
+   "author": "William Lecky",
+   "influenced_by": [
+    "John Stuart Mill",
+    "Edward Gibbon",
+    "Thomas Carlyle"
    ]
   },
   {
@@ -6260,6 +8505,7 @@
    "author": "George Eliot",
    "sources": [
     "The Cambridge Companion to the Victorian Novel",
+    "The Letters of T. S. Eliot, Volume 1: 1898–1922",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
@@ -6599,6 +8845,7 @@
     "The Cambridge Companion to the Victorian Novel",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
+    "The Poems of Edward Thomas",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
    ]
   },
@@ -6718,6 +8965,7 @@
    "sources": [
     "American Literature: A Journal of Literary History, Criticism, and Bibliography",
     "The Columbia Literary History of the United States",
+    "The Complete Poems of Hart Crane",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "The Works of Stephen Crane, 10 vols (University of Virginia Edition)"
@@ -7113,6 +9361,665 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Hall Caine",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Marie Corelli",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Frances Hodgson Burnett",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Richard Doddridge Blackmore",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "William Black",
+   "sources": [
+    "Blackwood's Edinburgh Magazine",
+    "Maria W. Stewart, America's First Black Woman Political Writer: Essays and Speeches",
+    "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition",
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Samuel Rutherford Crockett",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Ian Maclaren",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "George Douglas Brown",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Collected Writings of Charles Brockden Brown",
+    "The Major Works of Sir Thomas Browne",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Novels and Related Works of Charles Brockden Brown: Bicentennial Edition",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Poems of Robert Browning (Longman Annotated English Poets)",
+    "The Struggles of John Brown Russwurm: The Life and Writings of a Pan-Africanist Pioneer, 1799-1851",
+    "The Works of Elizabeth Barrett Browning, 5 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Silas K. Hocking",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "E. W. Hornung",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "R. M. Ballantyne",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "W. H. G. Kingston",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "G. A. Henty",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "F. Anstey",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "George Grossmith",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Henry Wadsworth Longfellow",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "John Greenleaf Whittier",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Oliver Wendell Holmes Sr.",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "James Russell Lowell",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Nathaniel Parker Willis",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Jones Very",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "An Essay on the Slavery and Commerce of the Human Species, Particularly the African, Translated from a Latin Dissertation, Which Was Honoured with the First Prize in the University of Cambridge, for the Year 1785",
+    "Pamphlets on West Indian Slavery",
+    "Rural Rides (Everyman's Library, 2 volumes)",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Frederick Goddard Tuckerman",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Celia Thaxter",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Fanny Fern",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Harriet Prescott Spofford",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Rose Terry Cooke",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Mary Noailles Murfree",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Grace King",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "An Essay on the Principle of Population: The 1803 Edition (Rethinking the Western Tradition)",
+    "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
+    "The Columbia Literary History of the United States",
+    "The King's Reformation: Henry VIII and the Remaking of the English Church",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Elizabeth Stoddard",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Constance Fenimore Woolson",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Helen Hunt Jackson",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Thomas Wentworth Higginson",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Edward Bellamy",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Ignatius L. Donnelly",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Henry George",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Cambridge Companion to George Bernard Shaw",
+    "The Collected Letters of George Gissing",
+    "The Columbia Literary History of the United States",
+    "The English Poems of George Herbert",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Harold Frederic",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Standish James O'Grady",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Emily Lawless",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "William Allingham",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Geraldine Jewsbury",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "William Barnes",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Jean Ingelow",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Alfred Austin",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Richard Watson Dixon",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Robert Buchanan",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Sydney Dobell",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "William Edmondstoune Aytoun",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Gerald Massey",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Ebenezer Elliott",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Richard Garnett",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Charlotte Riddell",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Mary Cecil Hay",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Helen Mathers",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Edna Lyall",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Rosa Nouchette Carey",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Emma Marshall",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Evelyn Whitaker",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Catherine Gore",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Marguerite Gardiner, Countess of Blessington",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Anne Marsh",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Emily Eden",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "George Egerton",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Netta Syrett",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Elizabeth Robins",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "Perdita: The Life of Mary Robinson",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Works of Mary Robinson (8 volumes)"
+   ]
+  },
+  {
+   "author": "Gertrude Dix",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Dion Boucicault",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "Charles Kean",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Augustin Daly",
+   "sources": [
+    "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+    "The Columbia Literary History of the United States",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "author": "George Saintsbury",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Henry Sidgwick",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "William Lecky",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
    ]
   },
   {
@@ -7536,6 +10443,7 @@
    "sources": [
     "An American Dictionary of the English Language (2 volumes)",
     "The Cambridge Companion to the Victorian Novel",
+    "The Collected Poems of Langston Hughes",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
@@ -7685,6 +10593,7 @@
     "Nightmare Abbey (The Cambridge Edition of the Novels of Thomas Love Peacock, volume 7)",
     "The Cambridge Companion to Alexander Pope",
     "The Cambridge Companion to Ben Jonson",
+    "The Cambridge Companion to British Literature of the 1930s",
     "The Cambridge Companion to British Romanticism",
     "The Cambridge Companion to Christopher Marlowe",
     "The Cambridge Companion to Eighteenth-Century Poetry",
@@ -7695,16 +10604,25 @@
     "The Cambridge Companion to John Donne",
     "The Cambridge Companion to Medieval English Literature 1100–1500",
     "The Cambridge Companion to Milton, 2nd edition",
+    "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to Old English Literature, 2nd edition",
     "The Cambridge Companion to Restoration Drama",
     "The Cambridge Companion to Samuel Johnson",
+    "The Cambridge Companion to Scottish Literature",
     "The Cambridge Companion to Shakespeare",
     "The Cambridge Companion to Spenser",
     "The Cambridge Companion to the Eighteenth-Century Novel",
+    "The Cambridge Companion to the Harlem Renaissance",
+    "The Cambridge Companion to the Irish Novel",
+    "The Cambridge Companion to the Literature of the First World War",
+    "The Cambridge Companion to the Literature of the First World War (poetry and memoir chapters)",
+    "The Cambridge Companion to the Modernist Novel",
     "The Cambridge Companion to the Victorian Novel",
     "The Cambridge Edition of the Works of Jane Austen",
     "The Cambridge History of Early Modern English Literature",
     "The Cambridge History of Medieval English Literature",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Complete Poems of D. H. Lawrence (Cambridge edition)",
     "The Literature of Political Economy: A Classified Catalogue of Select Publications in the Different Departments of That Science, with Historical, Critical and Biographical Notices (Cambridge Library Collection)",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",

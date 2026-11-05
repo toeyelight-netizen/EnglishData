@@ -25,7 +25,7 @@
    "Walter Scott",
    "William Shakespeare"
   ],
-  "biographical_uncertainty": null,
+  "biographical_uncertainty": "1 of the 18 works catalogued here carry a research status of 'partial' - The Mystery of Edwin Drood - and are reported only so far as the evidence allows.",
   "research_status": "complete",
   "significance_tier": "Major / canonical"
  },
@@ -56,7 +56,7 @@
    "William Makepeace Thackeray (as essayist)",
    "Horace Walpole"
   ],
-  "biographical_uncertainty": null,
+  "biographical_uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1848 and 1861.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary"
  },
@@ -148,7 +148,7 @@
    "Walter Scott",
    "Jane Austen"
   ],
-  "biographical_uncertainty": null,
+  "biographical_uncertainty": "The name Acton Bell is a pseudonym, and the works published under it are attributed to Anne Brontë on the evidence of the publisher's records, the correspondence and the contemporary attribution. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1847 and 1848.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary"
  },
@@ -184,7 +184,7 @@
    "Auguste Comte",
    "Baruch Spinoza"
   ],
-  "biographical_uncertainty": null,
+  "biographical_uncertainty": "The name George Eliot is a pseudonym, and the works published under it are attributed to George Eliot on the evidence of the publisher's records, the correspondence and the contemporary attribution. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1858 and 1879.",
   "research_status": "complete",
   "significance_tier": "Major / canonical"
  },
@@ -215,7 +215,7 @@
    "William Wordsworth",
    "Thomas Carlyle"
   ],
-  "biographical_uncertainty": null,
+  "biographical_uncertainty": "1 of the 6 works catalogued here carry a research status of 'partial' - Wives and Daughters: An Every-Day Story - and are reported only so far as the evidence allows. The attribution of Mary Barton: A Tale of Manchester Life rests on the publisher's records, the correspondence and the internal evidence rather than on a title page.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary"
  },
@@ -244,7 +244,7 @@
    "Walter Scott",
    "Maria Edgeworth"
   ],
-  "biographical_uncertainty": null,
+  "biographical_uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1855 and 1880.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary"
  }

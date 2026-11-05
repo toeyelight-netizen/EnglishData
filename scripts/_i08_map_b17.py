@@ -57,7 +57,7 @@ MAP_B17 = {
         ['The woman question, married disability, and the New Woman', 'The woman question, married disability, and the New Woman', 'The woman question, married disability, and the New Woman', 'Art versus life, and the romance of the artist', 'Art versus life, and the romance of the artist', 'Education, the schools, and the cultivation of the self', 'Education, the schools, and the cultivation of the self', 'Education, the schools, and the cultivation of the self'],
         ['The New Woman and the Fin-de-Siècle Problem Novel', 'Pre-Raphaelitism and the Truth to Nature']),
     'Poems before Congress': (['Elizabeth Barrett Browning'],
-        ['Lecture and Popular Address', 'Review Essay and Quarterly Argument'],
+        ['Dramatic Monologue and Masked Lyric', 'Idyll and Domestic Narrative Poem'],
         ['Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole', 'Doubt, agnosticism, and the Broad Church conscience', 'Doubt, agnosticism, and the Broad Church conscience', 'Doubt, agnosticism, and the Broad Church conscience', 'The metropolis, the crowd, and the imperial capital', 'The metropolis, the crowd, and the imperial capital', 'The metropolis, the crowd, and the imperial capital'],
         ['Victorian High Seriousness and the Public Poet']),
     'The Battle of Marathon: A Poem': (['Elizabeth Barrett Browning'],

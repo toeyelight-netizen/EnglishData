@@ -686,7 +686,7 @@
    "contribution_type": "author"
   },
   {
-   "work": "Crusade for Justice: The Autobiography of Ida B. Wells",
+   "work": "The Reason Why the Colored American Is Not in the World's Columbian Exposition",
    "author": "Ida B. Wells",
    "contribution_type": "author"
   },
@@ -2326,6 +2326,576 @@
    "contribution_type": "author"
   },
   {
+   "work": "The Deemster",
+   "author": "Hall Caine",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Manxman",
+   "author": "Hall Caine",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Christian",
+   "author": "Hall Caine",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Romance of Two Worlds",
+   "author": "Marie Corelli",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Sorrows of Satan",
+   "author": "Marie Corelli",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Mighty Atom",
+   "author": "Marie Corelli",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Little Lord Fauntleroy",
+   "author": "Frances Hodgson Burnett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Little Princess",
+   "author": "Frances Hodgson Burnett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Secret Garden",
+   "author": "Frances Hodgson Burnett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lorna Doone: A Romance of Exmoor",
+   "author": "Richard Doddridge Blackmore",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Maid of Sker",
+   "author": "Richard Doddridge Blackmore",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Daughter of Heth",
+   "author": "William Black",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Strange Adventures of a Phaeton",
+   "author": "William Black",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Stickit Minister",
+   "author": "Samuel Rutherford Crockett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Raiders",
+   "author": "Samuel Rutherford Crockett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Beside the Bonnie Brier Bush",
+   "author": "Ian Maclaren",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The House with the Green Shutters",
+   "author": "George Douglas Brown",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Her Benny",
+   "author": "Silas K. Hocking",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Amateur Cracksman",
+   "author": "E. W. Hornung",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Shadow of the Rope",
+   "author": "E. W. Hornung",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Coral Island: A Tale of the Pacific Ocean",
+   "author": "R. M. Ballantyne",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Martin Rattler; or, A Boy's Adventures in the Forests of Brazil",
+   "author": "R. M. Ballantyne",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Three Midshipmen",
+   "author": "W. H. G. Kingston",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Peter the Whaler",
+   "author": "W. H. G. Kingston",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Under Drake's Flag: A Tale of the Spanish Main",
+   "author": "G. A. Henty",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Dragon and the Raven; or, The Days of King Alfred",
+   "author": "G. A. Henty",
+   "contribution_type": "author"
+  },
+  {
+   "work": "With Clive in India; or, The Beginnings of an Empire",
+   "author": "G. A. Henty",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vice Versa; or, A Lesson to Fathers",
+   "author": "F. Anstey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Brass Bottle",
+   "author": "F. Anstey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Diary of a Nobody",
+   "author": "George Grossmith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Tinted Venus: A Farcical Romance",
+   "author": "F. Anstey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Song of Hiawatha",
+   "author": "Henry Wadsworth Longfellow",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Evangeline: A Tale of Acadie",
+   "author": "Henry Wadsworth Longfellow",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Courtship of Miles Standish",
+   "author": "Henry Wadsworth Longfellow",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems on Slavery",
+   "author": "Henry Wadsworth Longfellow",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Voices of Freedom",
+   "author": "John Greenleaf Whittier",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Snow-Bound: A Winter Idyl",
+   "author": "John Greenleaf Whittier",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Autocrat of the Breakfast-Table",
+   "author": "Oliver Wendell Holmes Sr.",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Elsie Venner: A Romance of Destiny",
+   "author": "Oliver Wendell Holmes Sr.",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Biglow Papers",
+   "author": "James Russell Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Fable for Critics",
+   "author": "James Russell Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sketches",
+   "author": "Nathaniel Parker Willis",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Essays and Poems",
+   "author": "Jones Very",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems (Tuckerman, 1860)",
+   "author": "Frederick Goddard Tuckerman",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Among the Isles of Shoals",
+   "author": "Celia Thaxter",
+   "contribution_type": "author"
+  },
+  {
+   "work": "An Island Garden",
+   "author": "Celia Thaxter",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ruth Hall",
+   "author": "Fanny Fern",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Fern Leaves from Fanny's Portfolio",
+   "author": "Fanny Fern",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Amber Gods and Other Stories",
+   "author": "Harriet Prescott Spofford",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Somebody's Neighbors",
+   "author": "Rose Terry Cooke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In the Tennessee Mountains",
+   "author": "Mary Noailles Murfree",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Prophet of the Great Smoky Mountains",
+   "author": "Mary Noailles Murfree",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Balcony Stories",
+   "author": "Grace King",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Monsieur Motte",
+   "author": "Grace King",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Morgesons",
+   "author": "Elizabeth Stoddard",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Anne",
+   "author": "Constance Fenimore Woolson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Rodman the Keeper: Southern Sketches",
+   "author": "Constance Fenimore Woolson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Century of Dishonor",
+   "author": "Helen Hunt Jackson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ramona",
+   "author": "Helen Hunt Jackson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Army Life in a Black Regiment",
+   "author": "Thomas Wentworth Higginson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Looking Backward: 2000-1887",
+   "author": "Edward Bellamy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Caesar's Column: A Story of the Twentieth Century",
+   "author": "Ignatius L. Donnelly",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Progress and Poverty",
+   "author": "Henry George",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Damnation of Theron Ware",
+   "author": "Harold Frederic",
+   "contribution_type": "author"
+  },
+  {
+   "work": "History of Ireland: Heroic Period",
+   "author": "Standish James O'Grady",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cuculain and His Contemporaries",
+   "author": "Standish James O'Grady",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hurrish",
+   "author": "Emily Lawless",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Grania: The Story of an Island",
+   "author": "Emily Lawless",
+   "contribution_type": "author"
+  },
+  {
+   "work": "With the Wild Geese",
+   "author": "Emily Lawless",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Laurence Bloomfield in Ireland",
+   "author": "William Allingham",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems (Allingham, 1850)",
+   "author": "William Allingham",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Half Sisters",
+   "author": "Geraldine Jewsbury",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems of Rural Life in the Dorset Dialect",
+   "author": "William Barnes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hwomely Rhymes",
+   "author": "William Barnes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poems (Ingelow, 1863)",
+   "author": "Jean Ingelow",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Garden That I Love",
+   "author": "Alfred Austin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Veronica's Garden",
+   "author": "Alfred Austin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Historical Odes and Other Poems",
+   "author": "Richard Watson Dixon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Fleshly School of Poetry",
+   "author": "Robert Buchanan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "London Poems",
+   "author": "Robert Buchanan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Balder",
+   "author": "Sydney Dobell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "England in Time of War",
+   "author": "Sydney Dobell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lays of the Scottish Cavaliers",
+   "author": "William Edmondstoune Aytoun",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Firmilian: A Spasmodic Tragedy",
+   "author": "William Edmondstoune Aytoun",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Voices of Freedom (Massey, 1850)",
+   "author": "Gerald Massey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Corn Law Rhymes",
+   "author": "Ebenezer Elliott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Twilight of the Gods and Other Tales",
+   "author": "Richard Garnett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "George Geith of Fen Court",
+   "author": "Charlotte Riddell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Weird Stories",
+   "author": "Charlotte Riddell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Old Myddelton's Money",
+   "author": "Mary Cecil Hay",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Comin' thro' the Rye",
+   "author": "Helen Mathers",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Donovan",
+   "author": "Edna Lyall",
+   "contribution_type": "author"
+  },
+  {
+   "work": "We Two",
+   "author": "Edna Lyall",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Nellie's Memories",
+   "author": "Rosa Nouchette Carey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Under Salisbury Spire",
+   "author": "Emma Marshall",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Miss Toosey's Mission",
+   "author": "Evelyn Whitaker",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cecil",
+   "author": "Catherine Gore",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Conversations with Lord Byron",
+   "author": "Marguerite Gardiner, Countess of Blessington",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Idler in Italy",
+   "author": "Marguerite Gardiner, Countess of Blessington",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Two Old Men's Tales",
+   "author": "Anne Marsh",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Semi-Detached House",
+   "author": "Emily Eden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Keynotes",
+   "author": "George Egerton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Story of a Modern Woman",
+   "author": "Netta Syrett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Votes for Women",
+   "author": "Elizabeth Robins",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The New Woman",
+   "author": "Elizabeth Robins",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Image Breakers",
+   "author": "Gertrude Dix",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Colleen Bawn; or, The Brides of Garryowen",
+   "author": "Dion Boucicault",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Octoroon; or, Life in Louisiana",
+   "author": "Dion Boucicault",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Shaughraun",
+   "author": "Dion Boucicault",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Shakespeare's Plays: The Princess's Theatre Productions",
+   "author": "Charles Kean",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Divorce",
+   "author": "Augustin Daly",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A History of Nineteenth Century Literature",
+   "author": "George Saintsbury",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Methods of Ethics",
+   "author": "Henry Sidgwick",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A History of European Morals from Augustus to Charlemagne",
+   "author": "William Lecky",
+   "contribution_type": "author"
+  },
+  {
    "work": "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
    "author": "Thomas Carlyle",
    "contribution_type": "author"
@@ -3046,7 +3616,7 @@
    "contribution_type": "author"
   },
   {
-   "work": "The Poems of Emily Dickinson (Johnson edition)",
+   "work": "Poems: Third Series",
    "author": "Emily Dickinson",
    "contribution_type": "author"
   },
@@ -4841,10 +5411,10 @@
    ]
   },
   {
-   "work": "Crusade for Justice: The Autobiography of Ida B. Wells",
+   "work": "The Reason Why the Colored American Is Not in the World's Columbian Exposition",
    "genres": [
-    "Review Essay and Quarterly Argument",
-    "Social Inquiry and the Documented Survey"
+    "Social Inquiry and the Documented Survey",
+    "Review Essay and Quarterly Argument"
    ]
   },
   {
@@ -6776,8 +7346,8 @@
   {
    "work": "Poems before Congress",
    "genres": [
-    "Lecture and Popular Address",
-    "Review Essay and Quarterly Argument"
+    "Dramatic Monologue and Masked Lyric",
+    "Idyll and Domestic Narrative Poem"
    ]
   },
   {
@@ -7135,6 +7705,803 @@
    "genres": [
     "Local-Colour Sketch and the Regional Portrait",
     "Tall Tale and South-Western Humour Sketch"
+   ]
+  },
+  {
+   "work": "The Deemster",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "The Manxman",
+   "genres": [
+    "Realist Novel of Common Life",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
+   "work": "The Christian",
+   "genres": [
+    "Realist Novel of Common Life",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
+   "work": "A Romance of Two Worlds",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "The Sorrows of Satan",
+   "genres": [
+    "Sensation Novel",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
+   "work": "The Mighty Atom",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "Little Lord Fauntleroy",
+   "genres": [
+    "Children's Fantasy and the Dream-Region Tale",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "A Little Princess",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Children's Fantasy and the Dream-Region Tale"
+   ]
+  },
+  {
+   "work": "The Secret Garden",
+   "genres": [
+    "Children's Fantasy and the Dream-Region Tale",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Lorna Doone: A Romance of Exmoor",
+   "genres": [
+    "Sensation Novel",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "The Maid of Sker",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "A Daughter of Heth",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "The Strange Adventures of a Phaeton",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Serial and Monthly-Part Novel"
+   ]
+  },
+  {
+   "work": "The Stickit Minister",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "The Raiders",
+   "genres": [
+    "Sensation Novel",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Beside the Bonnie Brier Bush",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "The House with the Green Shutters",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Naturalist and Determinist Novel"
+   ]
+  },
+  {
+   "work": "Her Benny",
+   "genres": [
+    "Industrial and Condition-of-England Novel",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "The Amateur Cracksman",
+   "genres": [
+    "Detective Story and the Tale of Detection",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "The Shadow of the Rope",
+   "genres": [
+    "Sensation Novel",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
+   "work": "The Coral Island: A Tale of the Pacific Ocean",
+   "genres": [
+    "Imperial Adventure Romance",
+    "Children's Fantasy and the Dream-Region Tale"
+   ]
+  },
+  {
+   "work": "Martin Rattler; or, A Boy's Adventures in the Forests of Brazil",
+   "genres": [
+    "Imperial Adventure Romance",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "The Three Midshipmen",
+   "genres": [
+    "Imperial Adventure Romance",
+    "War Narrative of the Common Soldier"
+   ]
+  },
+  {
+   "work": "Peter the Whaler",
+   "genres": [
+    "Imperial Adventure Romance",
+    "War Narrative of the Common Soldier"
+   ]
+  },
+  {
+   "work": "Under Drake's Flag: A Tale of the Spanish Main",
+   "genres": [
+    "Imperial Adventure Romance",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "The Dragon and the Raven; or, The Days of King Alfred",
+   "genres": [
+    "Imperial Adventure Romance",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "With Clive in India; or, The Beginnings of an Empire",
+   "genres": [
+    "Imperial Adventure Romance",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "Vice Versa; or, A Lesson to Fathers",
+   "genres": [
+    "Sensation Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "The Brass Bottle",
+   "genres": [
+    "Sensation Novel",
+    "Children's Fantasy and the Dream-Region Tale"
+   ]
+  },
+  {
+   "work": "The Diary of a Nobody",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "The Tinted Venus: A Farcical Romance",
+   "genres": [
+    "Sensation Novel",
+    "Children's Fantasy and the Dream-Region Tale"
+   ]
+  },
+  {
+   "work": "The Song of Hiawatha",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "Evangeline: A Tale of Acadie",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
+   "work": "The Courtship of Miles Standish",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "Poems on Slavery",
+   "genres": [
+    "Lecture and Popular Address",
+    "Dialect Poem and Vernacular Performance"
+   ]
+  },
+  {
+   "work": "Voices of Freedom",
+   "genres": [
+    "Lecture and Popular Address",
+    "Dialect Poem and Vernacular Performance"
+   ]
+  },
+  {
+   "work": "Snow-Bound: A Winter Idyl",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
+   "work": "The Autocrat of the Breakfast-Table",
+   "genres": [
+    "Review Essay and Quarterly Argument",
+    "Serial and Monthly-Part Novel"
+   ]
+  },
+  {
+   "work": "Elsie Venner: A Romance of Destiny",
+   "genres": [
+    "Sensation Novel",
+    "Naturalist and Determinist Novel"
+   ]
+  },
+  {
+   "work": "The Biglow Papers",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Nonsense Verse and the Parody of Rule"
+   ]
+  },
+  {
+   "work": "A Fable for Critics",
+   "genres": [
+    "Nonsense Verse and the Parody of Rule",
+    "Nonsense Verse and the Parody of Rule"
+   ]
+  },
+  {
+   "work": "Sketches",
+   "genres": [
+    "Review Essay and Quarterly Argument",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Essays and Poems",
+   "genres": [
+    "Sonnet Revival and Sequenced Sonnet",
+    "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
+   "work": "Poems (Tuckerman, 1860)",
+   "genres": [
+    "Sonnet Revival and Sequenced Sonnet",
+    "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
+   "work": "Among the Isles of Shoals",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "An Island Garden",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Ruth Hall",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Fern Leaves from Fanny's Portfolio",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "The Amber Gods and Other Stories",
+   "genres": [
+    "Sensation Novel",
+    "Ghost Story and Scientific Supernatural Tale"
+   ]
+  },
+  {
+   "work": "Somebody's Neighbors",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "In the Tennessee Mountains",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Tall Tale and South-Western Humour Sketch"
+   ]
+  },
+  {
+   "work": "The Prophet of the Great Smoky Mountains",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "Balcony Stories",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Monsieur Motte",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "The Morgesons",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Anne",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
+   "work": "Rodman the Keeper: Southern Sketches",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "War Narrative of the Common Soldier"
+   ]
+  },
+  {
+   "work": "A Century of Dishonor",
+   "genres": [
+    "Social Inquiry and the Documented Survey",
+    "Lecture and Popular Address"
+   ]
+  },
+  {
+   "work": "Ramona",
+   "genres": [
+    "Sensation Novel",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Army Life in a Black Regiment",
+   "genres": [
+    "War Narrative of the Common Soldier",
+    "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "work": "Looking Backward: 2000-1887",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "work": "Caesar's Column: A Story of the Twentieth Century",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "Naturalist and Determinist Novel"
+   ]
+  },
+  {
+   "work": "Progress and Poverty",
+   "genres": [
+    "Social Inquiry and the Documented Survey",
+    "Lecture and Popular Address"
+   ]
+  },
+  {
+   "work": "The Damnation of Theron Ware",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Naturalist and Determinist Novel"
+   ]
+  },
+  {
+   "work": "History of Ireland: Heroic Period",
+   "genres": [
+    "Serial and Monthly-Part Novel",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "Cuculain and His Contemporaries",
+   "genres": [
+    "Serial and Monthly-Part Novel",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "Hurrish",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Grania: The Story of an Island",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "With the Wild Geese",
+   "genres": [
+    "Lecture and Popular Address",
+    "Dialect Poem and Vernacular Performance"
+   ]
+  },
+  {
+   "work": "Laurence Bloomfield in Ireland",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Social Inquiry and the Documented Survey"
+   ]
+  },
+  {
+   "work": "Poems (Allingham, 1850)",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Dialect Poem and Vernacular Performance"
+   ]
+  },
+  {
+   "work": "The Half Sisters",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Industrial and Condition-of-England Novel"
+   ]
+  },
+  {
+   "work": "Poems of Rural Life in the Dorset Dialect",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "Hwomely Rhymes",
+   "genres": [
+    "Pastoral Elegy and the Mourning Sequence",
+    "Dialect Poem and Vernacular Performance"
+   ]
+  },
+  {
+   "work": "Poems (Ingelow, 1863)",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "The Garden That I Love",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "work": "In Veronica's Garden",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Historical Odes and Other Poems",
+   "genres": [
+    "Pastoral Elegy and the Mourning Sequence",
+    "Sonnet Revival and Sequenced Sonnet"
+   ]
+  },
+  {
+   "work": "The Fleshly School of Poetry",
+   "genres": [
+    "Review Essay and Quarterly Argument",
+    "Lecture and Popular Address"
+   ]
+  },
+  {
+   "work": "London Poems",
+   "genres": [
+    "Idyll and Domestic Narrative Poem",
+    "Lecture and Popular Address"
+   ]
+  },
+  {
+   "work": "Balder",
+   "genres": [
+    "Dramatic Monologue and Masked Lyric",
+    "Pastoral Elegy and the Mourning Sequence"
+   ]
+  },
+  {
+   "work": "England in Time of War",
+   "genres": [
+    "War Narrative of the Common Soldier",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "Lays of the Scottish Cavaliers",
+   "genres": [
+    "Dialect Poem and Vernacular Performance",
+    "Idyll and Domestic Narrative Poem"
+   ]
+  },
+  {
+   "work": "Firmilian: A Spasmodic Tragedy",
+   "genres": [
+    "Nonsense Verse and the Parody of Rule",
+    "Victorian Verse Drama and Revived Tragedy"
+   ]
+  },
+  {
+   "work": "Voices of Freedom (Massey, 1850)",
+   "genres": [
+    "Lecture and Popular Address",
+    "Dialect Poem and Vernacular Performance"
+   ]
+  },
+  {
+   "work": "Corn Law Rhymes",
+   "genres": [
+    "Lecture and Popular Address",
+    "Dialect Poem and Vernacular Performance"
+   ]
+  },
+  {
+   "work": "The Twilight of the Gods and Other Tales",
+   "genres": [
+    "Ghost Story and Scientific Supernatural Tale",
+    "Nonsense Verse and the Parody of Rule"
+   ]
+  },
+  {
+   "work": "George Geith of Fen Court",
+   "genres": [
+    "Industrial and Condition-of-England Novel",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "Weird Stories",
+   "genres": [
+    "Ghost Story and Scientific Supernatural Tale",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "Old Myddelton's Money",
+   "genres": [
+    "Sensation Novel",
+    "Detective Story and the Tale of Detection"
+   ]
+  },
+  {
+   "work": "Comin' thro' the Rye",
+   "genres": [
+    "Sensation Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Donovan",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
+   "work": "We Two",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Nellie's Memories",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "Under Salisbury Spire",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "Miss Toosey's Mission",
+   "genres": [
+    "Novel of Development and the Growth Story",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "Cecil",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "Conversations with Lord Byron",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "The Idler in Italy",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Two Old Men's Tales",
+   "genres": [
+    "Sensation Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "The Semi-Detached House",
+   "genres": [
+    "Realist Novel of Common Life",
+    "Realist Novel of Common Life"
+   ]
+  },
+  {
+   "work": "Keynotes",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Sensation Novel"
+   ]
+  },
+  {
+   "work": "The Story of a Modern Woman",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Novel of Development and the Growth Story"
+   ]
+  },
+  {
+   "work": "Votes for Women",
+   "genres": [
+    "Problem Play and Well-Made Drama",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "work": "The New Woman",
+   "genres": [
+    "Problem Play and Well-Made Drama",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "work": "The Image Breakers",
+   "genres": [
+    "New Woman and Marriage-Question Novel",
+    "Early Scientific Romance and Utopian Speculation"
+   ]
+  },
+  {
+   "work": "The Colleen Bawn; or, The Brides of Garryowen",
+   "genres": [
+    "Sensation Drama and the Domestic Stage",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "work": "The Octoroon; or, Life in Louisiana",
+   "genres": [
+    "Sensation Drama and the Domestic Stage",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "work": "The Shaughraun",
+   "genres": [
+    "Sensation Drama and the Domestic Stage",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "work": "Shakespeare's Plays: The Princess's Theatre Productions",
+   "genres": [
+    "Review Essay and Quarterly Argument",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Divorce",
+   "genres": [
+    "Problem Play and Well-Made Drama",
+    "Sensation Drama and the Domestic Stage"
+   ]
+  },
+  {
+   "work": "A History of Nineteenth Century Literature",
+   "genres": [
+    "Review Essay and Quarterly Argument",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "The Methods of Ethics",
+   "genres": [
+    "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "work": "A History of European Morals from Augustus to Charlemagne",
+   "genres": [
+    "Local-Colour Sketch and the Regional Portrait",
+    "Review Essay and Quarterly Argument"
    ]
   },
   {
@@ -8119,7 +9486,7 @@
    ]
   },
   {
-   "work": "The Poems of Emily Dickinson (Johnson edition)",
+   "work": "Poems: Third Series",
    "genres": [
     "Sonnet Revival and Sequenced Sonnet",
     "Pastoral Elegy and the Mourning Sequence"
@@ -11078,17 +12445,17 @@
    ]
   },
   {
-   "work": "Crusade for Justice: The Autobiography of Ida B. Wells",
+   "work": "The Reason Why the Colored American Is Not in the World's Columbian Exposition",
    "themes": [
     "Race, voice, and the dialect of freedom",
     "Race, voice, and the dialect of freedom",
     "Race, voice, and the dialect of freedom",
-    "The woman question, married disability, and the New Woman",
-    "The woman question, married disability, and the New Woman",
-    "The woman question, married disability, and the New Woman",
     "Democracy, individualism, and the American experiment",
     "Democracy, individualism, and the American experiment",
-    "Democracy, individualism, and the American experiment"
+    "Democracy, individualism, and the American experiment",
+    "Wage labour, the strike, and the two nations",
+    "Wage labour, the strike, and the two nations",
+    "Wage labour, the strike, and the two nations"
    ]
   },
   {
@@ -15284,6 +16651,918 @@
    ]
   },
   {
+   "work": "The Deemster",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Regional identity and the American sectional character"
+   ]
+  },
+  {
+   "work": "The Manxman",
+   "themes": [
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Regional identity and the American sectional character",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "The Christian",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "The woman question, married disability, and the New Woman",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "A Romance of Two Worlds",
+   "themes": [
+    "Science, religion, and the question of design",
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "The Sorrows of Satan",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "The Mighty Atom",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Science, religion, and the question of design",
+    "Childhood, the child labourer, and the sentimental child"
+   ]
+  },
+  {
+   "work": "Little Lord Fauntleroy",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Democracy, individualism, and the American experiment",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "work": "A Little Princess",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Education, the schools, and the cultivation of the self",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "work": "The Secret Garden",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Science, religion, and the question of design",
+    "Regional identity and the American sectional character"
+   ]
+  },
+  {
+   "work": "Lorna Doone: A Romance of Exmoor",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "The Maid of Sker",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Innocence, experience, and the lost American Eden",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "work": "A Daughter of Heth",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The woman question, married disability, and the New Woman",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "The Strange Adventures of a Phaeton",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "The Stickit Minister",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self"
+   ]
+  },
+  {
+   "work": "The Raiders",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The closing of the American frontier"
+   ]
+  },
+  {
+   "work": "Beside the Bonnie Brier Bush",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Bereavement, immortality, and the argument from grief",
+    "Regional identity and the American sectional character"
+   ]
+  },
+  {
+   "work": "The House with the Green Shutters",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Self-destruction, melancholy, and the coroner's verdict",
+    "Industrial wealth, accumulation, and the gospel of accumulation"
+   ]
+  },
+  {
+   "work": "Her Benny",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Wage labour, the strike, and the two nations",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "The Amateur Cracksman",
+   "themes": [
+    "Leisure class, the idle rich, and the unearned income",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "The Shadow of the Rope",
+   "themes": [
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Self-destruction, melancholy, and the coroner's verdict",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "work": "The Coral Island: A Tale of the Pacific Ocean",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "Childhood, the child labourer, and the sentimental child",
+    "Race, voice, and the dialect of freedom"
+   ]
+  },
+  {
+   "work": "Martin Rattler; or, A Boy's Adventures in the Forests of Brazil",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "The American wilderness and the myth of the forest",
+    "Childhood, the child labourer, and the sentimental child"
+   ]
+  },
+  {
+   "work": "The Three Midshipmen",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "Education, the schools, and the cultivation of the self",
+    "Slavery, emancipation, and the unfinished Reconstruction"
+   ]
+  },
+  {
+   "work": "Peter the Whaler",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "The American wilderness and the myth of the forest",
+    "Childhood, the child labourer, and the sentimental child"
+   ]
+  },
+  {
+   "work": "Under Drake's Flag: A Tale of the Spanish Main",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "The American wilderness and the myth of the forest",
+    "Race, voice, and the dialect of freedom"
+   ]
+  },
+  {
+   "work": "The Dragon and the Raven; or, The Days of King Alfred",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "Education, the schools, and the cultivation of the self",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "With Clive in India; or, The Beginnings of an Empire",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Race, voice, and the dialect of freedom"
+   ]
+  },
+  {
+   "work": "Vice Versa; or, A Lesson to Fathers",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Childhood, the child labourer, and the sentimental child",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "work": "The Brass Bottle",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Leisure class, the idle rich, and the unearned income"
+   ]
+  },
+  {
+   "work": "The Diary of a Nobody",
+   "themes": [
+    "The metropolis, the crowd, and the imperial capital",
+    "Leisure class, the idle rich, and the unearned income",
+    "Education, the schools, and the cultivation of the self"
+   ]
+  },
+  {
+   "work": "The Tinted Venus: A Farcical Romance",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Leisure class, the idle rich, and the unearned income",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "The Song of Hiawatha",
+   "themes": [
+    "The American wilderness and the myth of the forest",
+    "Innocence, experience, and the lost American Eden",
+    "Slavery, emancipation, and the unfinished Reconstruction"
+   ]
+  },
+  {
+   "work": "Evangeline: A Tale of Acadie",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "The American wilderness and the myth of the forest",
+    "Innocence, experience, and the lost American Eden"
+   ]
+  },
+  {
+   "work": "The Courtship of Miles Standish",
+   "themes": [
+    "Innocence, experience, and the lost American Eden",
+    "The American wilderness and the myth of the forest",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "Poems on Slavery",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Race, voice, and the dialect of freedom",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "Voices of Freedom",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Race, voice, and the dialect of freedom",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "Snow-Bound: A Winter Idyl",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "The American wilderness and the myth of the forest",
+    "Innocence, experience, and the lost American Eden"
+   ]
+  },
+  {
+   "work": "The Autocrat of the Breakfast-Table",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Science, religion, and the question of design",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "Elsie Venner: A Romance of Destiny",
+   "themes": [
+    "Science, religion, and the question of design",
+    "Madness, the asylum, and the diagnosis of the will",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "The Biglow Papers",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Democracy, individualism, and the American experiment",
+    "Race, voice, and the dialect of freedom"
+   ]
+  },
+  {
+   "work": "A Fable for Critics",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Democracy, individualism, and the American experiment",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "Sketches",
+   "themes": [
+    "The metropolis, the crowd, and the imperial capital",
+    "Leisure class, the idle rich, and the unearned income",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "Essays and Poems",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Bereavement, immortality, and the argument from grief",
+    "Education, the schools, and the cultivation of the self"
+   ]
+  },
+  {
+   "work": "Poems (Tuckerman, 1860)",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "The American wilderness and the myth of the forest",
+    "Self-destruction, melancholy, and the coroner's verdict"
+   ]
+  },
+  {
+   "work": "Among the Isles of Shoals",
+   "themes": [
+    "The American wilderness and the myth of the forest",
+    "Innocence, experience, and the lost American Eden",
+    "The closing of the American frontier"
+   ]
+  },
+  {
+   "work": "An Island Garden",
+   "themes": [
+    "The American wilderness and the myth of the forest",
+    "Bereavement, immortality, and the argument from grief",
+    "Innocence, experience, and the lost American Eden"
+   ]
+  },
+  {
+   "work": "Ruth Hall",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "The machinery of print: the serial, the magazine, and the book trade",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "Fern Leaves from Fanny's Portfolio",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "The metropolis, the crowd, and the imperial capital",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "The Amber Gods and Other Stories",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
+   "work": "Somebody's Neighbors",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "work": "In the Tennessee Mountains",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "Innocence, experience, and the lost American Eden"
+   ]
+  },
+  {
+   "work": "The Prophet of the Great Smoky Mountains",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
+   "work": "Balcony Stories",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "Monsieur Motte",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Race, voice, and the dialect of freedom",
+    "Regional identity and the American sectional character"
+   ]
+  },
+  {
+   "work": "The Morgesons",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Money, credit, speculation, and the joint-stock imagination"
+   ]
+  },
+  {
+   "work": "Anne",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The woman question, married disability, and the New Woman",
+    "Innocence, experience, and the lost American Eden"
+   ]
+  },
+  {
+   "work": "Rodman the Keeper: Southern Sketches",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Regional identity and the American sectional character",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "A Century of Dishonor",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Race, voice, and the dialect of freedom",
+    "The closing of the American frontier"
+   ]
+  },
+  {
+   "work": "Ramona",
+   "themes": [
+    "Race, voice, and the dialect of freedom",
+    "The closing of the American frontier",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
+   "work": "Army Life in a Black Regiment",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Race, voice, and the dialect of freedom",
+    "Democracy, individualism, and the American experiment"
+   ]
+  },
+  {
+   "work": "Looking Backward: 2000-1887",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Wage labour, the strike, and the two nations",
+    "Science, religion, and the question of design"
+   ]
+  },
+  {
+   "work": "Caesar's Column: A Story of the Twentieth Century",
+   "themes": [
+    "Wage labour, the strike, and the two nations",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "Progress and Poverty",
+   "themes": [
+    "Wage labour, the strike, and the two nations",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "The Damnation of Theron Ware",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "History of Ireland: Heroic Period",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Bereavement, immortality, and the argument from grief",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
+   "work": "Cuculain and His Contemporaries",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Bereavement, immortality, and the argument from grief",
+    "Empire, jingoism, and the literature of the metropole"
+   ]
+  },
+  {
+   "work": "Hurrish",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "work": "Grania: The Story of an Island",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The woman question, married disability, and the New Woman",
+    "The closing of the American frontier"
+   ]
+  },
+  {
+   "work": "With the Wild Geese",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Bereavement, immortality, and the argument from grief",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "Laurence Bloomfield in Ireland",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Wage labour, the strike, and the two nations",
+    "The closing of the American frontier"
+   ]
+  },
+  {
+   "work": "Poems (Allingham, 1850)",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "The closing of the American frontier",
+    "The American wilderness and the myth of the forest"
+   ]
+  },
+  {
+   "work": "The Half Sisters",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Wage labour, the strike, and the two nations",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "Poems of Rural Life in the Dorset Dialect",
+   "themes": [
+    "The closing of the American frontier",
+    "Regional identity and the American sectional character",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "Hwomely Rhymes",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "The closing of the American frontier",
+    "Childhood, the child labourer, and the sentimental child"
+   ]
+  },
+  {
+   "work": "Poems (Ingelow, 1863)",
+   "themes": [
+    "Bereavement, immortality, and the argument from grief",
+    "The closing of the American frontier",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "work": "The Garden That I Love",
+   "themes": [
+    "The closing of the American frontier",
+    "Bereavement, immortality, and the argument from grief",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "In Veronica's Garden",
+   "themes": [
+    "The closing of the American frontier",
+    "Bereavement, immortality, and the argument from grief",
+    "Art versus life, and the romance of the artist"
+   ]
+  },
+  {
+   "work": "Historical Odes and Other Poems",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Bereavement, immortality, and the argument from grief",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "The Fleshly School of Poetry",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "London Poems",
+   "themes": [
+    "Wage labour, the strike, and the two nations",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "Balder",
+   "themes": [
+    "Madness, the asylum, and the diagnosis of the will",
+    "Bereavement, immortality, and the argument from grief",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "England in Time of War",
+   "themes": [
+    "Empire, jingoism, and the literature of the metropole",
+    "Bereavement, immortality, and the argument from grief",
+    "Madness, the asylum, and the diagnosis of the will"
+   ]
+  },
+  {
+   "work": "Lays of the Scottish Cavaliers",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Bereavement, immortality, and the argument from grief",
+    "Empire, jingoism, and the literature of the metropole"
+   ]
+  },
+  {
+   "work": "Firmilian: A Spasmodic Tragedy",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Self-destruction, melancholy, and the coroner's verdict",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "Voices of Freedom (Massey, 1850)",
+   "themes": [
+    "Wage labour, the strike, and the two nations",
+    "Democracy, individualism, and the American experiment",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "Corn Law Rhymes",
+   "themes": [
+    "Wage labour, the strike, and the two nations",
+    "Wage labour, the strike, and the two nations",
+    "The closing of the American frontier"
+   ]
+  },
+  {
+   "work": "The Twilight of the Gods and Other Tales",
+   "themes": [
+    "The American wilderness and the myth of the forest",
+    "Art versus life, and the romance of the artist",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "George Geith of Fen Court",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "work": "Weird Stories",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Bereavement, immortality, and the argument from grief",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "Old Myddelton's Money",
+   "themes": [
+    "Money, credit, speculation, and the joint-stock imagination",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "work": "Comin' thro' the Rye",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Regional identity and the American sectional character",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "Donovan",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Bereavement, immortality, and the argument from grief",
+    "Education, the schools, and the cultivation of the self"
+   ]
+  },
+  {
+   "work": "We Two",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Education, the schools, and the cultivation of the self",
+    "Doubt, agnosticism, and the Broad Church conscience"
+   ]
+  },
+  {
+   "work": "Nellie's Memories",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "The woman question, married disability, and the New Woman",
+    "Childhood, the child labourer, and the sentimental child"
+   ]
+  },
+  {
+   "work": "Under Salisbury Spire",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "The metropolis, the crowd, and the imperial capital",
+    "Education, the schools, and the cultivation of the self"
+   ]
+  },
+  {
+   "work": "Miss Toosey's Mission",
+   "themes": [
+    "Childhood, the child labourer, and the sentimental child",
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "work": "Cecil",
+   "themes": [
+    "Leisure class, the idle rich, and the unearned income",
+    "Money, credit, speculation, and the joint-stock imagination",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "Conversations with Lord Byron",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Leisure class, the idle rich, and the unearned income",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "The Idler in Italy",
+   "themes": [
+    "Leisure class, the idle rich, and the unearned income",
+    "Art versus life, and the romance of the artist",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "Two Old Men's Tales",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Bereavement, immortality, and the argument from grief"
+   ]
+  },
+  {
+   "work": "The Semi-Detached House",
+   "themes": [
+    "Leisure class, the idle rich, and the unearned income",
+    "The metropolis, the crowd, and the imperial capital",
+    "The woman question, married disability, and the New Woman"
+   ]
+  },
+  {
+   "work": "Keynotes",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Self-destruction, melancholy, and the coroner's verdict"
+   ]
+  },
+  {
+   "work": "The Story of a Modern Woman",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Art versus life, and the romance of the artist",
+    "Education, the schools, and the cultivation of the self"
+   ]
+  },
+  {
+   "work": "Votes for Women",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "The metropolis, the crowd, and the imperial capital",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "The New Woman",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Education, the schools, and the cultivation of the self",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "The Image Breakers",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Wage labour, the strike, and the two nations",
+    "Democracy, individualism, and the American experiment"
+   ]
+  },
+  {
+   "work": "The Colleen Bawn; or, The Brides of Garryowen",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "Regional identity and the American sectional character"
+   ]
+  },
+  {
+   "work": "The Octoroon; or, Life in Louisiana",
+   "themes": [
+    "Slavery, emancipation, and the unfinished Reconstruction",
+    "Race, voice, and the dialect of freedom",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "The Shaughraun",
+   "themes": [
+    "Regional identity and the American sectional character",
+    "Regional identity and the American sectional character",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
+   "work": "Shakespeare's Plays: The Princess's Theatre Productions",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Education, the schools, and the cultivation of the self",
+    "Education, the schools, and the cultivation of the self"
+   ]
+  },
+  {
+   "work": "Divorce",
+   "themes": [
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The woman question, married disability, and the New Woman",
+    "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "work": "A History of Nineteenth Century Literature",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Education, the schools, and the cultivation of the self",
+    "The machinery of print: the serial, the magazine, and the book trade"
+   ]
+  },
+  {
+   "work": "The Methods of Ethics",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "Education, the schools, and the cultivation of the self",
+    "Science, religion, and the question of design"
+   ]
+  },
+  {
+   "work": "A History of European Morals from Augustus to Charlemagne",
+   "themes": [
+    "Doubt, agnosticism, and the Broad Church conscience",
+    "The woman question, married disability, and the New Woman",
+    "Science, religion, and the question of design"
+   ]
+  },
+  {
    "work": "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
    "themes": [
     "Doubt, agnosticism, and the Broad Church conscience",
@@ -17067,7 +19346,7 @@
    ]
   },
   {
-   "work": "The Poems of Emily Dickinson (Johnson edition)",
+   "work": "Poems: Third Series",
    "themes": [
     "Bereavement, immortality, and the argument from grief",
     "Bereavement, immortality, and the argument from grief",
@@ -20163,7 +22442,7 @@
    ]
   },
   {
-   "work": "Crusade for Justice: The Autobiography of Ida B. Wells",
+   "work": "The Reason Why the Colored American Is Not in the World's Columbian Exposition",
    "movements": [
     "American Realism and the Howells Program"
    ]
@@ -22321,6 +24600,749 @@
    ]
   },
   {
+   "work": "The Deemster",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "The Manxman",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "The Christian",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "A Romance of Two Worlds",
+   "movements": [
+    "Aestheticism and the Decadent Decade"
+   ]
+  },
+  {
+   "work": "The Sorrows of Satan",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "The Mighty Atom",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "Little Lord Fauntleroy",
+   "movements": [
+    "Mark Twain and the Vernacular Performance",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "A Little Princess",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "The Secret Garden",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Lorna Doone: A Romance of Exmoor",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "The Maid of Sker",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "A Daughter of Heth",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "The Strange Adventures of a Phaeton",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "The Stickit Minister",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "The Raiders",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Beside the Bonnie Brier Bush",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "The House with the Green Shutters",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "American Naturalism and the Determinist Tragedy"
+   ]
+  },
+  {
+   "work": "Her Benny",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "The Amateur Cracksman",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Aestheticism and the Decadent Decade"
+   ]
+  },
+  {
+   "work": "The Shadow of the Rope",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "The Coral Island: A Tale of the Pacific Ocean",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "work": "Martin Rattler; or, A Boy's Adventures in the Forests of Brazil",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "work": "The Three Midshipmen",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "work": "Peter the Whaler",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "work": "Under Drake's Flag: A Tale of the Spanish Main",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "work": "The Dragon and the Raven; or, The Days of King Alfred",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "work": "With Clive in India; or, The Beginnings of an Empire",
+   "movements": [
+    "Muscular Christianity and the Schoolboy Tale of Empire"
+   ]
+  },
+  {
+   "work": "Vice Versa; or, A Lesson to Fathers",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "The Brass Bottle",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "The Diary of a Nobody",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Mark Twain and the Vernacular Performance"
+   ]
+  },
+  {
+   "work": "The Tinted Venus: A Farcical Romance",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Aestheticism and the Decadent Decade"
+   ]
+  },
+  {
+   "work": "The Song of Hiawatha",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "Evangeline: A Tale of Acadie",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "The Courtship of Miles Standish",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
+   "work": "Poems on Slavery",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "Voices of Freedom",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "Snow-Bound: A Winter Idyl",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "The Autocrat of the Breakfast-Table",
+   "movements": [
+    "Transcendentalism and the Concord Lyceum",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "Elsie Venner: A Romance of Destiny",
+   "movements": [
+    "Dark Romance and the Puritan Inheritance",
+    "American Naturalism and the Determinist Tragedy"
+   ]
+  },
+  {
+   "work": "The Biglow Papers",
+   "movements": [
+    "Mark Twain and the Vernacular Performance",
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "A Fable for Critics",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
+   "work": "Sketches",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Essays and Poems",
+   "movements": [
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
+   "work": "Poems (Tuckerman, 1860)",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "Among the Isles of Shoals",
+   "movements": [
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
+   "work": "An Island Garden",
+   "movements": [
+    "Transcendentalism and the Concord Lyceum"
+   ]
+  },
+  {
+   "work": "Ruth Hall",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "Fern Leaves from Fanny's Portfolio",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "The Amber Gods and Other Stories",
+   "movements": [
+    "Dark Romance and the Puritan Inheritance",
+    "Aestheticism and the Decadent Decade"
+   ]
+  },
+  {
+   "work": "Somebody's Neighbors",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "In the Tennessee Mountains",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "South-Western Humour and the Tall-Tale Sketch"
+   ]
+  },
+  {
+   "work": "The Prophet of the Great Smoky Mountains",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Dark Romance and the Puritan Inheritance"
+   ]
+  },
+  {
+   "work": "Balcony Stories",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Monsieur Motte",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Dark Romance and the Puritan Inheritance"
+   ]
+  },
+  {
+   "work": "The Morgesons",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Dark Romance and the Puritan Inheritance"
+   ]
+  },
+  {
+   "work": "Anne",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Rodman the Keeper: Southern Sketches",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "A Century of Dishonor",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Ramona",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Dark Romance and the Puritan Inheritance"
+   ]
+  },
+  {
+   "work": "Army Life in a Black Regiment",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "Looking Backward: 2000-1887",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "American Realism and the Howells Program"
+   ]
+  },
+  {
+   "work": "Caesar's Column: A Story of the Twentieth Century",
+   "movements": [
+    "American Naturalism and the Determinist Tragedy",
+    "Chartism and the Condition-of-England Novel"
+   ]
+  },
+  {
+   "work": "Progress and Poverty",
+   "movements": [
+    "Chartism and the Condition-of-England Novel"
+   ]
+  },
+  {
+   "work": "The Damnation of Theron Ware",
+   "movements": [
+    "American Realism and the Howells Program",
+    "American Naturalism and the Determinist Tragedy"
+   ]
+  },
+  {
+   "work": "History of Ireland: Heroic Period",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Cuculain and His Contemporaries",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Hurrish",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Chartism and the Condition-of-England Novel"
+   ]
+  },
+  {
+   "work": "Grania: The Story of an Island",
+   "movements": [
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "With the Wild Geese",
+   "movements": [
+    "The Second American Renaissance and the Whitman-Dickinson Lyric"
+   ]
+  },
+  {
+   "work": "Laurence Bloomfield in Ireland",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Poems (Allingham, 1850)",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "The Half Sisters",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Chartism and the Condition-of-England Novel"
+   ]
+  },
+  {
+   "work": "Poems of Rural Life in the Dorset Dialect",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Hwomely Rhymes",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Poems (Ingelow, 1863)",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "The Garden That I Love",
+   "movements": [
+    "Arnold and the Criticism of Culture",
+    "Ruskin and the Political Economy of Art"
+   ]
+  },
+  {
+   "work": "In Veronica's Garden",
+   "movements": [
+    "Arnold and the Criticism of Culture",
+    "Ruskin and the Political Economy of Art"
+   ]
+  },
+  {
+   "work": "Historical Odes and Other Poems",
+   "movements": [
+    "Tractarian Prose and the Oxford Movement",
+    "Pre-Raphaelitism and the Truth to Nature"
+   ]
+  },
+  {
+   "work": "The Fleshly School of Poetry",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "Pre-Raphaelitism and the Truth to Nature"
+   ]
+  },
+  {
+   "work": "London Poems",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Balder",
+   "movements": [
+    "The Dramatic Monologue and the Masked Voice",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "England in Time of War",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Lays of the Scottish Cavaliers",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Firmilian: A Spasmodic Tragedy",
+   "movements": [
+    "The Dramatic Monologue and the Masked Voice"
+   ]
+  },
+  {
+   "work": "Voices of Freedom (Massey, 1850)",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Corn Law Rhymes",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "The Twilight of the Gods and Other Tales",
+   "movements": [
+    "Aestheticism and the Decadent Decade",
+    "Pre-Raphaelitism and the Truth to Nature"
+   ]
+  },
+  {
+   "work": "George Geith of Fen Court",
+   "movements": [
+    "Chartism and the Condition-of-England Novel",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "Weird Stories",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "Old Myddelton's Money",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "Comin' thro' the Rye",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Local Colour and the Regionalist School"
+   ]
+  },
+  {
+   "work": "Donovan",
+   "movements": [
+    "Tractarian Prose and the Oxford Movement",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "We Two",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "Nellie's Memories",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "Under Salisbury Spire",
+   "movements": [
+    "Local Colour and the Regionalist School",
+    "Tractarian Prose and the Oxford Movement"
+   ]
+  },
+  {
+   "work": "Miss Toosey's Mission",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "Cecil",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Conversations with Lord Byron",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "The Idler in Italy",
+   "movements": [
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Two Old Men's Tales",
+   "movements": [
+    "Tractarian Prose and the Oxford Movement",
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "The Semi-Detached House",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "Keynotes",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Aestheticism and the Decadent Decade"
+   ]
+  },
+  {
+   "work": "The Story of a Modern Woman",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "Votes for Women",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "The New Woman",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "The Image Breakers",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel",
+    "Chartism and the Condition-of-England Novel"
+   ]
+  },
+  {
+   "work": "The Colleen Bawn; or, The Brides of Garryowen",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "The Octoroon; or, Life in Louisiana",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "The Shaughraun",
+   "movements": [
+    "Sensation Fiction and the Serial Plot",
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
+   "work": "Shakespeare's Plays: The Princess's Theatre Productions",
+   "movements": [
+    "Pre-Raphaelitism and the Truth to Nature"
+   ]
+  },
+  {
+   "work": "Divorce",
+   "movements": [
+    "Sensation Fiction and the Serial Plot"
+   ]
+  },
+  {
+   "work": "A History of Nineteenth Century Literature",
+   "movements": [
+    "Arnold and the Criticism of Culture",
+    "Victorian High Seriousness and the Public Poet"
+   ]
+  },
+  {
+   "work": "The Methods of Ethics",
+   "movements": [
+    "Arnold and the Criticism of Culture"
+   ]
+  },
+  {
+   "work": "A History of European Morals from Augustus to Charlemagne",
+   "movements": [
+    "Arnold and the Criticism of Culture",
+    "Tractarian Prose and the Oxford Movement"
+   ]
+  },
+  {
    "work": "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
    "movements": [
     "Carlyle and the Hero-Worship Lecture",
@@ -23223,7 +26245,7 @@
    ]
   },
   {
-   "work": "The Poems of Emily Dickinson (Johnson edition)",
+   "work": "Poems: Third Series",
    "movements": [
     "The Second American Renaissance and the Whitman-Dickinson Lyric"
    ]
@@ -24412,7 +27434,7 @@
     "Southern Horrors: Lynch Law in All Its Phases",
     "A Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States",
     "Mob Rule in New Orleans",
-    "Crusade for Justice: The Autobiography of Ida B. Wells",
+    "The Reason Why the Colored American Is Not in the World's Columbian Exposition",
     "'The Luck of Roaring Camp'",
     "'The Outcasts of Poker Flat'",
     "The Luck of Roaring Camp and Other Sketches",
@@ -24740,6 +27762,120 @@
     "The Soul of the Indian",
     "From the Deep Woods to Civilization",
     "Old Indian Days",
+    "The Deemster",
+    "The Manxman",
+    "The Christian",
+    "A Romance of Two Worlds",
+    "The Sorrows of Satan",
+    "The Mighty Atom",
+    "Little Lord Fauntleroy",
+    "A Little Princess",
+    "The Secret Garden",
+    "Lorna Doone: A Romance of Exmoor",
+    "The Maid of Sker",
+    "A Daughter of Heth",
+    "The Strange Adventures of a Phaeton",
+    "The Stickit Minister",
+    "The Raiders",
+    "Beside the Bonnie Brier Bush",
+    "The House with the Green Shutters",
+    "Her Benny",
+    "The Amateur Cracksman",
+    "The Shadow of the Rope",
+    "The Coral Island: A Tale of the Pacific Ocean",
+    "Martin Rattler; or, A Boy's Adventures in the Forests of Brazil",
+    "The Three Midshipmen",
+    "Peter the Whaler",
+    "Under Drake's Flag: A Tale of the Spanish Main",
+    "The Dragon and the Raven; or, The Days of King Alfred",
+    "With Clive in India; or, The Beginnings of an Empire",
+    "Vice Versa; or, A Lesson to Fathers",
+    "The Brass Bottle",
+    "The Diary of a Nobody",
+    "The Tinted Venus: A Farcical Romance",
+    "The Song of Hiawatha",
+    "Evangeline: A Tale of Acadie",
+    "The Courtship of Miles Standish",
+    "Poems on Slavery",
+    "Voices of Freedom",
+    "Snow-Bound: A Winter Idyl",
+    "The Autocrat of the Breakfast-Table",
+    "Elsie Venner: A Romance of Destiny",
+    "The Biglow Papers",
+    "A Fable for Critics",
+    "Sketches",
+    "Essays and Poems",
+    "Poems (Tuckerman, 1860)",
+    "Among the Isles of Shoals",
+    "An Island Garden",
+    "Ruth Hall",
+    "Fern Leaves from Fanny's Portfolio",
+    "The Amber Gods and Other Stories",
+    "Somebody's Neighbors",
+    "In the Tennessee Mountains",
+    "The Prophet of the Great Smoky Mountains",
+    "Balcony Stories",
+    "Monsieur Motte",
+    "The Morgesons",
+    "Anne",
+    "Rodman the Keeper: Southern Sketches",
+    "A Century of Dishonor",
+    "Ramona",
+    "Army Life in a Black Regiment",
+    "Looking Backward: 2000-1887",
+    "Caesar's Column: A Story of the Twentieth Century",
+    "Progress and Poverty",
+    "The Damnation of Theron Ware",
+    "History of Ireland: Heroic Period",
+    "Cuculain and His Contemporaries",
+    "Hurrish",
+    "Grania: The Story of an Island",
+    "With the Wild Geese",
+    "Laurence Bloomfield in Ireland",
+    "Poems (Allingham, 1850)",
+    "The Half Sisters",
+    "Poems of Rural Life in the Dorset Dialect",
+    "Hwomely Rhymes",
+    "Poems (Ingelow, 1863)",
+    "The Garden That I Love",
+    "In Veronica's Garden",
+    "Historical Odes and Other Poems",
+    "The Fleshly School of Poetry",
+    "London Poems",
+    "Balder",
+    "England in Time of War",
+    "Lays of the Scottish Cavaliers",
+    "Firmilian: A Spasmodic Tragedy",
+    "Voices of Freedom (Massey, 1850)",
+    "Corn Law Rhymes",
+    "The Twilight of the Gods and Other Tales",
+    "George Geith of Fen Court",
+    "Weird Stories",
+    "Old Myddelton's Money",
+    "Comin' thro' the Rye",
+    "Donovan",
+    "We Two",
+    "Nellie's Memories",
+    "Under Salisbury Spire",
+    "Miss Toosey's Mission",
+    "Cecil",
+    "Conversations with Lord Byron",
+    "The Idler in Italy",
+    "Two Old Men's Tales",
+    "The Semi-Detached House",
+    "Keynotes",
+    "The Story of a Modern Woman",
+    "Votes for Women",
+    "The New Woman",
+    "The Image Breakers",
+    "The Colleen Bawn; or, The Brides of Garryowen",
+    "The Octoroon; or, Life in Louisiana",
+    "The Shaughraun",
+    "Shakespeare's Plays: The Princess's Theatre Productions",
+    "Divorce",
+    "A History of Nineteenth Century Literature",
+    "The Methods of Ethics",
+    "A History of European Morals from Augustus to Charlemagne",
     "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
     "The French Revolution: A History",
     "On Heroes, Hero-Worship, and the Heroic in History",
@@ -24880,7 +28016,7 @@
     "'I heard a Fly buzz — when I died —'",
     "Poems by Emily Dickinson",
     "Poems, Second Series",
-    "The Poems of Emily Dickinson (Johnson edition)",
+    "Poems: Third Series",
     "Uncle Tom's Cabin; or, Life among the Lowly",
     "Dred: A Tale of the Great Dismal Swamp",
     "The Minister's Wooing",

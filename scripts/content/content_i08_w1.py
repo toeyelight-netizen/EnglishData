@@ -254,9 +254,10 @@ THACK = wks("William Makepeace Thackeray", [
    mb="Sensation Fiction and the Serial Plot", comp=["1857", "1859"],
    form="Historical novel in monthly parts (24 numbers)",
    desc="Published in twenty-four monthly parts from November 1857 to October 1859, the sequel to Henry Esmond and the first English novel to treat the American Revolution from the perspective of a Virginian family divided by it.",
-   plot="Henry and George Warrington, grandsons of Henry Esmond, grow up in Virginia; the novel follows them to London, into the army, through the American War of Independence, the death of George at the hands of a British officer, and the ruin and restoration of the family estate at Castlewood. The novel's history is deliberately digressive and its plot subordinate to the panorama of the 1750s-70s.",
+   plot="Henry and George Warrington, grandsons of Henry Esmond, grow up in Virginia; the novel follows Harry's extravagant progress through London society while George is believed killed in Braddock's defeat, George's return from a French prison, the brothers' marriages, and the War of Independence, which divides the brothers between the colonial cause and the Crown. The novel's history is deliberately digressive and its plot subordinate to the panorama of the 1750s-70s.",
    context="The Seven Years' War, the American Revolution, the London of the 1750s and the literary world of Fielding and Johnson, and the Virginia plantation economy of the eighteenth century.",
-   sig="The Virginians is the most substantial English novel of the American Revolution and the fullest picture in Victorian fiction of the transatlantic family; its treatment of the colonial gentleman's divided loyalty is a significant document in the nineteenth-century English imagination of America."),
+   sig="The Virginians is the most substantial English novel of the American Revolution and the fullest picture in Victorian fiction of the transatlantic family; its treatment of the colonial gentleman's divided loyalty is a significant document in the nineteenth-century English imagination of America.",
+   chars="George Warrington; Harry Warrington; Rachel Esmond Warrington (Madam Esmond), their mother; Baroness Bernstein (the former Beatrix Esmond); Lady Maria Esmond; General Lambert; Theo Lambert; Hetty Lambert; Fanny Mountain; George Washington"),
  dict(title="The Book of Snobs", year="1848",
    gb="Review Essay and Quarterly Argument, Lecture and Popular Address", tb="Leisure class, the idle rich, and the unearned income, The metropolis, the crowd, and the imperial capital",
    mb="Arnold and the Criticism of Culture", form="Collected periodical essays (Punch, 1846-47)",
@@ -285,7 +286,8 @@ THACK = wks("William Makepeace Thackeray", [
    desc="Published in December 1854 (title page 1855), written for the Christmas pantomime and for the children of the household: a burlesque fairy tale of two rival kingdoms, the magic rose and ring that make their bearers irresistible, and a cast of comic courtiers.",
    plot="Prince Giglio of Paflagonia and Prince Bulbo of Crim Tartary are both endowed with supernatural charms by the fairy Blackstick; their rivalry for the Princess Angelica, the interference of the wicked Countess Gruffanuff, and the eventual pairing of the true lovers produce a plot of transformations and reversals in which nobody is quite what they seem.",
    context="The Victorian pantomime and the Christmas gift book, the chapbook and fairy-tale revival of the 1840s-50s, and the new market for children's illustrated books that Thackeray, Dickens and Ruskin all entered.",
-   sig="The Rose and the Ring is one of the two or three founding texts of Victorian children's fantasy and the direct precursor of the comic fairy tale from Thackeray to Nesbit and beyond; its subversive treatment of royal and parental authority is unusual for its decade and it remains one of the funniest children's books of the century."),
+   sig="The Rose and the Ring is one of the two or three founding texts of Victorian children's fantasy and the direct precursor of the comic fairy tale from Thackeray to Nesbit and beyond; its subversive treatment of royal and parental authority is unusual for its decade and it remains one of the funniest children's books of the century.",
+   chars="Prince Giglio of Paflagonia; Prince Bulbo of Crim Tartary; Princess Angelica; Rosalba, the lost Queen of Crim Tartary (Betsinda); the Fairy Blackstick; Countess Gruffanuff; King Valoroso XXIV; King Padella; Glumboso; Captain Hedzoff"),
 ])
 
 from _lib import wk, wks
@@ -310,9 +312,10 @@ BRONTE_C = wks("Charlotte Brontë", [
    mb="Chartism and the Condition-of-England Novel", comp=["1848", "1849"],
    form="Novel in three volumes",
    desc="Published in October 1849, written during the illness and deaths of Emily and Anne, and set in the Luddite Yorkshire of 1811-12: the first English novel to make an industrial dispute its central public subject, and the one in which Brontë tried to write a social novel on the scale of her contemporaries.",
-   plot="Robert Gérard Moore, a mill-owner of Belgian descent, attempts to introduce machinery into his mill during the Napoleonic blockade and is attacked by the Luddite frame-breakers; his mill is defended by troops. His cousin Caroline Helstone, neglected by her family, falls ill, and Shirley Keeldar, the heiress who gives the novel its name, takes up Caroline's cause. Moore marries Shirley's cousin Louis, and Caroline is united with Robert after the ending of the war restores the mill's prosperity.",
+   plot="Robert Gérard Moore, a mill-owner of Belgian descent, attempts to introduce machinery into his mill during the Napoleonic blockade and is attacked by the Luddite frame-breakers; his mill is defended by troops. His cousin Caroline Helstone, neglected by her family, falls ill, and Shirley Keeldar, the heiress who gives the novel its name, takes up Caroline's cause. Shirley at last accepts Robert's brother Louis Moore, the tutor who has loved her in silence, and Caroline, who discovers that the quiet Mrs Pryor is her own mother, is united with Robert when the repeal of the Orders in Council restores the mill's prosperity.",
    context="The Luddite risings of 1811-12 and the Yorkshire frame-breaking, the Napoleonic Orders in Council and the blockade, and the Chartist and 1848 revolutionary year in which Brontë was writing.",
-   sig="Shirley is one of the earliest English novels to give the industrial conflict serious fictional treatment, and its two heroines — the heiress who owns the mill property and the penniless relation who must work — set out the 'woman question' of the 1840s in terms that the 1850s debate over 'surplus women' took up. It is also the only Brontë novel with a sustained comic and social panorama."),
+   sig="Shirley is one of the earliest English novels to give the industrial conflict serious fictional treatment, and its two heroines — the heiress who owns the mill property and the penniless relation who must work — set out the 'woman question' of the 1840s in terms that the 1850s debate over 'surplus women' took up. It is also the only Brontë novel with a sustained comic and social panorama.",
+   chars="Shirley Keeldar; Caroline Helstone; Robert Gérard Moore; Louis Moore; the Reverend Matthewson Helstone; Mrs Pryor, Caroline's mother; Hortense Moore; Hiram Yorke; Joe Scott; William Farren; the curates Malone, Donne and Sweeting"),
  dict(title="Villette", year="1853",
    gb="Novel of Development and the Growth Story, Realist Novel of Common Life", tb=WOM+", Education, the schools, and the cultivation of the self, Self-destruction, melancholy, and the coroner's verdict",
    mb="The New Woman and the Fin-de-Siècle Problem Novel", comp=["1850", "1853"],
@@ -320,7 +323,8 @@ BRONTE_C = wks("Charlotte Brontë", [
    desc="Published in three volumes in January 1853, and the most inward and formally controlled of Charlotte Brontë's novels: the story of Lucy Snowe in a French-speaking girls' school in the invented city of Villette, drawn from the Pensionnat Heger in Brussels.",
    plot="Lucy Snowe, without family or money, goes to Villette as a teacher and then as a schoolmistress, loves the autocratic Paul Emanuel, and is separated from him by his voyage to the West Indies; the novel also contains the ghostly visit of the nun and the subplot of the heiress Polly Home and Dr John Bretton. The ending leaves Paul's fate uncertain, with a report of a storm and a shipwreck.",
    context="The Brussels pensionnat, the English governess abroad, the Catholic-Protestant antagonism of continental and English manners, and the debate over women's employment that followed the 1851 census.",
-   sig="Villette is now generally read as Brontë's finest novel and one of the great novels of interiority in English; its refusal of a closed happy ending and its study of repression and vocation made it central to twentieth-century feminist criticism, and its analysis of a woman's professional identity anticipates the New Woman fiction of the 1890s."),
+   sig="Villette is now generally read as Brontë's finest novel and one of the great novels of interiority in English; its refusal of a closed happy ending and its study of repression and vocation made it central to twentieth-century feminist criticism, and its analysis of a woman's professional identity anticipates the New Woman fiction of the 1890s.",
+   chars="Lucy Snowe (the narrator); M. Paul Emanuel; Dr John Graham Bretton; Paulina Mary Home de Bassompierre (Polly); Ginevra Fanshawe; Madame Beck; Mrs Bretton; Count de Hamal; Miss Marchmont"),
  dict(title="The Professor", year="1857",
    gb="Novel of Development and the Growth Story, Realist Novel of Common Life", tb="Education, the schools, and the cultivation of the self, The woman question, married disability, and the New Woman",
    mb="Victorian High Seriousness and the Public Poet", comp=["1845", "1846"],
@@ -328,7 +332,8 @@ BRONTE_C = wks("Charlotte Brontë", [
    desc="Charlotte Brontë's first novel, written in 1846 and rejected by every publisher to whom it was offered; it was published posthumously in 1857 with a preface by her widower, Arthur Bell Nicholls.",
    plot="William Crimsworth, an orphan without connections, rejects the patronage of his Yorkshire brother and goes to Brussels, where he teaches at a boys' school and then at Mademoiselle Reuter's girls' school; he falls in love with Frances Henri, a Swiss-English pupil-teacher, marries her, and returns to England to run a school of their own.",
    context="The Brussels of the 1840s, the position of the English master abroad, and the professional ambition of a self-made man of letters — the novel's subject is the one that Brontë knew from Heger.",
-   sig="The Professor anticipates Villette and is a key document for the study of Brontë's development: its plain, unromantic hero, its refusal of the love-plot's conventional hierarchy and its insistence on work as the basis of self-respect make it the first Brontë statement of the themes she later transformed."),
+   sig="The Professor anticipates Villette and is a key document for the study of Brontë's development: its plain, unromantic hero, its refusal of the love-plot's conventional hierarchy and its insistence on work as the basis of self-respect make it the first Brontë statement of the themes she later transformed.",
+   chars="William Crimsworth (the narrator); Frances Evans Henri; Zoraïde Reuter; M. Pelet; Edward Crimsworth; Yorke Hunsden; Victor Crimsworth"),
 ])
 
 from _lib import wk, wks
@@ -503,7 +508,8 @@ ELIOT = wks("George Eliot", [
    context="The 1870s, the periodical culture of the Fortnightly and the Nineteenth Century, the debate on Jewish emancipation, and the late-Victorian taste for the essayistic persona.",
    sig="Impressions of Theophrastus Such is Eliot's most formally experimental book and an important document in the Victorian essay tradition; it is now read as a significant contribution to the debate on Jewish identity and to the history of the fictional essayist, and it is the last word of the century's most intellectually ambitious novelist.",
    canon="Secondary canon",
-   status="complete"),
+   status="complete",
+   chars="Theophrastus Such, the essayist-narrator; the contemporaries he anatomises — Merman, Lentulus, Hinze, Touchwood, Spike, Mordax, Mixtus, Euphorion and Vorticella"),
 ])
 
 from _lib import wk, wks
@@ -580,7 +586,8 @@ GASKELL = wks("Elizabeth Gaskell", [
    context="The 1850s, the Brontë legend, and the controversies the book provoked: the attack on the Cowan Bridge school, the libel action threatened over the Carus Wilson account, the treatment of Branwell's dissipation, and the second edition of 1857 with corrections.",
    sig="The Life of Charlotte Brontë established the modern literary biography in England and created the Brontë myth that later scholarship has had to dismantle; its use of letters and domestic detail founded a method that Gaskell's successors, from Forster's Dickens to the modern biographer, have followed.",
    canon="Major canon",
-   attrib="Commissioned by Patrick Brontë; the first edition was withdrawn and revised in 1857 after objections from the family and from the Cowley school, and the standard text is the third edition of 1857 with Gaskell's corrections."),
+   attrib="Commissioned by Patrick Brontë; the first edition was withdrawn and revised in 1857 after objections from the family and from the Cowley school, and the standard text is the third edition of 1857 with Gaskell's corrections.",
+   chars="Charlotte Brontë; Patrick Brontë, her father; Branwell Brontë; Emily Brontë; Anne Brontë; Ellen Nussey; Constantin Héger; Arthur Bell Nicholls"),
 ])
 
 from _lib import wk, wks
