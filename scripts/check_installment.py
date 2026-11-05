@@ -84,6 +84,15 @@ def main():
                 problems.append("date field %s of %r is not a string" % (f, w["title"]))
         if isinstance(w["principal_characters"], list):
             problems.append("principal_characters of %r is a list" % w["title"])
+        # A filled field can still be empty of content. Both of these phrasings
+        # are generated, never authored: the first means the authored context
+        # was replaced rather than extended (the revision-12 regression), the
+        # second is the retired name-extraction fallback, which put composers,
+        # dedicatees and book titles into the character lists.
+        if (w["historical_context"] or "").startswith("The record dates the work"):
+            problems.append("historical_context of %r is generated boilerplate only" % w["title"])
+        if "named in the account above" in (w["principal_characters"] or ""):
+            problems.append("principal_characters of %r is generated boilerplate" % w["title"])
         c, p = year_num(w["composition_date_start"]), year_num(w["publication_date"])
         if c and p and p < c:
             problems.append("publication %s before composition %s in %r"

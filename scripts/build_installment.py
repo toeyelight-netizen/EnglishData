@@ -280,7 +280,25 @@ def main():
         # 1..26 -> b1..b26, then b27...
         return "b%d" % n
 
+    author_payloads = [author_record(a) for a in authors]
     work_payloads = [work_record(w) for w in works]
+
+    # Field-level parity with installments 1-7: every record leaves the builder
+    # carrying the analytical fields that the compact content modules do not
+    # spell out (metre or prose manner, narrative structure, attribution,
+    # bibliography, principal characters, alternative titles, biographical
+    # uncertainty). content_enrich composes them from the record's own dates,
+    # form, genre, canon and status flags, from the curated first-edition and
+    # variant-title tables, and from the author's stylistic profile; it never
+    # supplies a fact the record does not already carry.
+    work_meta = {w["title"]: ([w["author"]] + list(w.get("coauthors") or []),
+                              list(w.get("genres") or []), list(w.get("themes") or []),
+                              list(w.get("movements") or [])) for w in works}
+    import content_enrich
+    filled = content_enrich.apply_enrichment(work_payloads, work_meta, author_payloads)
+    print("enrichment: " + (", ".join("%s x%d" % (k, v) for k, v in sorted(filled.items()))
+                            or "nothing to fill"))
+
     for rec in work_payloads:
         assert list(rec.keys()) == WORK_KEYS, list(rec.keys())
 
@@ -290,9 +308,9 @@ def main():
     # (author payloads were validated above; write them now)
     if not args.check_only:
         for idx, path in enumerate(author_files):
-            chunk = authors[idx * per_batch:(idx + 1) * per_batch]
+            chunk = author_payloads[idx * per_batch:(idx + 1) * per_batch]
             with open(path, "w", encoding="utf-8") as fh:
-                json.dump([author_record(a) for a in chunk], fh, ensure_ascii=False, indent=1)
+                json.dump(chunk, fh, ensure_ascii=False, indent=1)
 
     # split works, keeping each author's works together as far as possible
     chunks, current = [], []
