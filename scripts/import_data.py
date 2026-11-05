@@ -9,6 +9,13 @@ periods/movements/genres/themes/sources) and updated if present, inserted if
 absent. Re-running an import never duplicates records. Relationship rows use
 composite primary keys and are inserted with OR IGNORE semantics.
 
+The relationships JSON is authoritative for every owner it names (the work,
+author, period or movement on the left of a link). Before any link is
+inserted, the existing rows of those owners are deleted, so a genre, theme,
+movement, source, influence, attribution or edition removed from the data is
+also removed from the database instead of surviving as a stale row. Owners
+that no relationships file names are left untouched.
+
 Usage:
     python scripts/import_data.py [--dry-run]
 
@@ -23,7 +30,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from sqlalchemy import text  # noqa: E402
+from sqlalchemy import Table, func, select, text  # noqa: E402
 
 from models import (  # noqa: E402
     Author,
@@ -208,6 +215,87 @@ def resolve_author(session, name):
 
 def resolve_work(session, title):
     return session.query(Work).filter_by(title=title).first()
+
+
+LINK_TABLES = (
+    work_genres, work_themes, work_movements, work_sources, work_periods,
+    author_genres, author_movements, author_themes, author_sources,
+    author_influences, period_movements, movement_sources,
+)
+
+
+def count_link_rows(session) -> int:
+    """Total rows in every table that the relationships JSON populates."""
+    tables = LINK_TABLES + (WorkAuthor.__table__, WorkEdition.__table__)
+    return sum(
+        session.execute(select(func.count()).select_from(table)).scalar()
+        for table in tables
+    )
+
+
+def clear_owned_links(session, payloads) -> int:
+    """Delete the existing link rows of every owner named in ``payloads``.
+
+    Owners are resolved exactly as ``import_relationships`` resolves them
+    (``resolve_work`` takes the first work with a title, the lookup dicts
+    the last), so cleared rows are always the ones that are re-inserted.
+    Returns the number of rows deleted.
+    """
+    session.flush()
+    first_work, last_work = {}, {}
+    for work in session.query(Work).all():
+        first_work.setdefault(work.title, work.work_id)
+        last_work[work.title] = work.work_id
+    authors = {a.full_name: a.author_id for a in session.query(Author).all()}
+    periods = {p.name: p.period_id for p in session.query(Period).all()}
+    movements = {m.name: m.movement_id for m in session.query(Movement).all()}
+
+    def by_work(lookup):
+        return lambda item: [lookup.get(item["work"])]
+
+    def by_author(item):
+        return [authors.get(item["author"])]
+
+    owners = {
+        "work_authors": (WorkAuthor, "work_id", by_work(first_work)),
+        "work_editions": (WorkEdition, "work_id", by_work(last_work)),
+        "work_genres": (work_genres, "work_id", by_work(last_work)),
+        "work_themes": (work_themes, "work_id", by_work(last_work)),
+        "work_movements": (work_movements, "work_id", by_work(last_work)),
+        "work_sources": (work_sources, "work_id", by_work(last_work)),
+        "work_periods": (work_periods, "work_id",
+                         lambda item: [last_work.get(t) for t in item["works"]]),
+        "author_genres": (author_genres, "author_id", by_author),
+        "author_movements": (author_movements, "author_id", by_author),
+        "author_themes": (author_themes, "author_id", by_author),
+        "author_sources": (author_sources, "author_id", by_author),
+        "author_influences": (author_influences, "author_id", by_author),
+        "period_movements": (period_movements, "period_id",
+                             lambda item: [periods.get(item["period"])]),
+        "movement_sources": (movement_sources, "movement_id",
+                             lambda item: [movements.get(item["movement"])]),
+    }
+    removed = 0
+    for key, (target, column, owners_of) in owners.items():
+        ids = sorted({
+            owner_id
+            for payload in payloads
+            for item in payload.get(key, [])
+            for owner_id in owners_of(item)
+            if owner_id is not None
+        })
+        for start in range(0, len(ids), 500):  # stay under SQLite's variable limit
+            chunk = ids[start:start + 500]
+            if isinstance(target, Table):
+                result = session.execute(target.delete().where(target.c[column].in_(chunk)))
+                removed += result.rowcount
+            else:
+                removed += (
+                    session.query(target)
+                    .filter(getattr(target, column).in_(chunk))
+                    .delete(synchronize_session="fetch")
+                )
+    return removed
 
 
 def import_relationships(session, payload: dict) -> None:
@@ -455,9 +543,14 @@ def main() -> int:
         for record in load_json_files("works"):
             upsert_work(session, record)
             counts["works"] += 1
-        for payload in load_json_files("relationships"):
+        payloads = load_json_files("relationships")
+        rows_before = count_link_rows(session)
+        cleared = clear_owned_links(session, payloads)
+        for payload in payloads:
             import_relationships(session, payload)
             counts["relationships"] += 1
+        session.flush()
+        rows_after = count_link_rows(session)
 
         if args.dry_run:
             session.rollback()
@@ -471,6 +564,8 @@ def main() -> int:
         print("Import summary:")
         for key, value in counts.items():
             print(f"  {key}: {value}")
+        print(f"  link rows: {rows_before} before, {rows_after} after "
+              f"({cleared} owner rows replaced from the JSON)")
     finally:
         session.close()
 
