@@ -234,7 +234,11 @@ def count_link_rows(session) -> int:
 
 
 def clear_owned_links(session, payloads) -> int:
-    """Delete the existing link rows of every owner named in ``payloads``.
+    """Delete the existing link rows of every work and author named in ``payloads``.
+
+    A work named under any work-keyed section owns all of its work-keyed links
+    (and an author all of its author-keyed links), so emptying a work's genre,
+    theme or movement list in the JSON removes its old rows too.
 
     Owners are resolved exactly as ``import_relationships`` resolves them
     (``resolve_work`` takes the first work with a title, the lookup dicts
@@ -250,40 +254,57 @@ def clear_owned_links(session, payloads) -> int:
     periods = {p.name: p.period_id for p in session.query(Period).all()}
     movements = {m.name: m.movement_id for m in session.query(Movement).all()}
 
-    def by_work(lookup):
-        return lambda item: [lookup.get(item["work"])]
+    # Ownership is per work and per author, not per table: a work named
+    # anywhere in the JSON owns all of its work-keyed links, so a work whose
+    # movement (or genre, theme...) list became empty loses its stale rows
+    # even though it no longer appears under that key. Likewise for authors.
+    work_keys = ("work_authors", "work_editions", "work_genres", "work_themes",
+                 "work_movements", "work_sources")
+    author_keys = ("author_genres", "author_movements", "author_themes",
+                   "author_sources", "author_influences")
+    work_titles, author_names = set(), set()
+    for payload in payloads:
+        for key in work_keys:
+            work_titles.update(item["work"] for item in payload.get(key, []))
+        for item in payload.get("work_periods", []):
+            work_titles.update(item["works"])
+        author_names.update(item["author"] for item in payload.get("work_authors", []))
+        for key in author_keys:
+            author_names.update(item["author"] for item in payload.get(key, []))
 
-    def by_author(item):
-        return [authors.get(item["author"])]
+    def every_work(lookup):
+        return lambda: [lookup.get(title) for title in work_titles]
+
+    def every_author():
+        return [authors.get(name) for name in author_names]
+
+    def per_item(key, owners_of):
+        return lambda: [owner for payload in payloads
+                        for item in payload.get(key, []) for owner in owners_of(item)]
 
     owners = {
-        "work_authors": (WorkAuthor, "work_id", by_work(first_work)),
-        "work_editions": (WorkEdition, "work_id", by_work(last_work)),
-        "work_genres": (work_genres, "work_id", by_work(last_work)),
-        "work_themes": (work_themes, "work_id", by_work(last_work)),
-        "work_movements": (work_movements, "work_id", by_work(last_work)),
-        "work_sources": (work_sources, "work_id", by_work(last_work)),
-        "work_periods": (work_periods, "work_id",
-                         lambda item: [last_work.get(t) for t in item["works"]]),
-        "author_genres": (author_genres, "author_id", by_author),
-        "author_movements": (author_movements, "author_id", by_author),
-        "author_themes": (author_themes, "author_id", by_author),
-        "author_sources": (author_sources, "author_id", by_author),
-        "author_influences": (author_influences, "author_id", by_author),
+        "work_authors": (WorkAuthor, "work_id", every_work(first_work)),
+        "work_editions": (WorkEdition, "work_id", every_work(last_work)),
+        "work_genres": (work_genres, "work_id", every_work(last_work)),
+        "work_themes": (work_themes, "work_id", every_work(last_work)),
+        "work_movements": (work_movements, "work_id", every_work(last_work)),
+        "work_sources": (work_sources, "work_id", every_work(last_work)),
+        "work_periods": (work_periods, "work_id", every_work(last_work)),
+        "author_genres": (author_genres, "author_id", every_author),
+        "author_movements": (author_movements, "author_id", every_author),
+        "author_themes": (author_themes, "author_id", every_author),
+        "author_sources": (author_sources, "author_id", every_author),
+        "author_influences": (author_influences, "author_id", every_author),
         "period_movements": (period_movements, "period_id",
-                             lambda item: [periods.get(item["period"])]),
+                             per_item("period_movements",
+                                      lambda item: [periods.get(item["period"])])),
         "movement_sources": (movement_sources, "movement_id",
-                             lambda item: [movements.get(item["movement"])]),
+                             per_item("movement_sources",
+                                      lambda item: [movements.get(item["movement"])])),
     }
     removed = 0
     for key, (target, column, owners_of) in owners.items():
-        ids = sorted({
-            owner_id
-            for payload in payloads
-            for item in payload.get(key, [])
-            for owner_id in owners_of(item)
-            if owner_id is not None
-        })
+        ids = sorted({owner_id for owner_id in owners_of() if owner_id is not None})
         for start in range(0, len(ids), 500):  # stay under SQLite's variable limit
             chunk = ids[start:start + 500]
             if isinstance(target, Table):
