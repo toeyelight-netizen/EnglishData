@@ -7,7 +7,7 @@ MAP_B13 = {
     'The Solitary Man': (['Richard Church'],
         ['Georgian Anthology Lyric'],
         ['The First World War and the myth of sacrifice', 'Shell shock, mourning, and the unquiet dead', 'The countryside, the vanishing rural world, and the motor road'],
-        ['Georgian Poetry and the English Lyric']),
+        []),
     "Oliver's Daughter": (['Richard Church'],
         ['Novel of Development and the Growth Story', 'Realist Novel of Common Life'],
         ['The countryside, the vanishing rural world, and the motor road', 'Religion, doubt, and the post-war faith', 'Childhood, the nursery, and the Edwardian idyll'],

@@ -21,6 +21,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   period and movement it names. Links removed from the data are therefore
   removed from the database too, instead of surviving as stale rows; before
   this fix, re-categorised genres and themes kept their old links.
+- 2026-11-06: ownership is now per work and per author rather than per table.
+  A work named anywhere in the relationships JSON owns all of its work-keyed
+  links, so a work whose movement (or genre or theme) list becomes empty loses
+  its old rows too. Previously such a work was simply absent from that section
+  and its stale rows survived.
 - Installment snapshots: `database/English_Literature_Master_installment_07.db`
   (last snapshot kept on disk), with `database/backups/pre_import_07.db` as the
   pre-import recoverable backup. Installment 8 was imported into the master
@@ -1305,7 +1310,7 @@ be extended backwards to installments 1–7, which are still ungraded.
 ## Installment 9 — Edwardian and Interwar, British and American (1901–1945)
 
 **Status: content complete; close-out pending.** **197 authors and 498
-works** under 31 genres. None of the 210 names in the canon list is absent from
+works** under 33 genres. None of the 210 names in the canon list is absent from
 the database (`documentation/COVERAGE_AUDIT_08_09.md`, waves J–V). The works
 are written in `scripts/content/content_i09_*.py` through the `w()` factory in
 `scripts/content/i09_taxonomy.py`. That factory resolves every genre, theme and
@@ -1323,6 +1328,10 @@ Political Lyric and the Auden Generation** and **Irish Revival Lyric and the
 Celtic Twilight**. 54 works were re-genred. Georgian now holds 28 works (Brooke,
 de la Mare, Davies, Squire, Sassoon, Masefield and their circle). Imagist holds
 10 (Pound, H.D., Flint, Aldington, Read, Joyce's *Chamber Music* and Williams).
+
+Two more genres were added in the 2026-11-06 quality pass (31 → 33): **Comic
+Novel and the Satire of Manners** and **Provincial Novel and the British Rural
+Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installments 8–9: enrichment and quality pass
 
@@ -1344,7 +1353,49 @@ de la Mare, Davies, Squire, Sassoon, Masefield and their circle). Imagist holds
   100%. The authored contexts were restored, and `check_installment.py` gained
   two boilerplate gates. They fail the build if generic text reaches
   `historical_context` or `principal_characters`.
-- **Stale links.** See the 2026-11-05 note under *Protocol state*.
+- **Stale links.** See the 2026-11-05 and 2026-11-06 notes under *Protocol
+  state*.
+- **Medium classifier** (`family()` in `scripts/content_enrich.py`). It decides
+  whether a work is verse, drama, prose fiction or non-fiction, and so which
+  label, metre and structure text it gets. It used to substring-match the form
+  and every genre name, so a war memoir tagged with a fiction genre became "a
+  prose fiction work", and poems tagged "Lecture" got prose-argument text.
+  - It now reads the form first, by whole words, taking the head noun of each
+    segment ("collection of stories" is fiction, "verse novel" is verse).
+    Compound terms come first (slave narrative, verse drama, novel in verse).
+    Parenthetical asides only count when nothing else names a medium.
+  - Weak words ("narrative", "sketch") only set a prose fallback, and genres
+    are consulted only when the form is weak or silent.
+  - Metre and structure text may only come from a genre of the work's own
+    medium. A single poem is no longer described as "a collection of separate
+    poems". Genre names keep their capitals in the label sentence.
+- **Genre misfits.** 180 records were re-genred, and the number of works
+  carrying a genre of another medium fell from 216 to 84. The remaining 84 are
+  deliberate thematic tags, such as Nonsense Verse on *Alice* or Children's
+  Fantasy on *Peter Pan*.
+  - Five genres were added. Installment 8 (27 → 30): **Comic Novel and the New
+    Humour**, **Political Verse and the Poem of Public Cause** and **Epic and
+    the Long Philosophical Poem**. Installment 9 (31 → 33): **Comic Novel and
+    the Satire of Manners** and **Provincial Novel and the British Rural
+    Chronicle**.
+  - Installment 9 had been filing comic novels under the stage genre Comedy of
+    Manners. It had also been filing British rural novels (Mary Webb, Neil
+    Gunn, Grassic Gibbon) under the *American* regional-novel genre.
+- **Movement dates.** Every installment 8–9 movement link more than ten years
+  outside the movement's own span was removed: 222 links in installment 8 and
+  54 in installment 9. Works are dated by composition where it is recorded,
+  otherwise by publication.
+  - Examples: *Pelham* (1828) in the 1883–99 New Woman movement, *The
+    Importance of Being Earnest* in Sensation Fiction (1859–68), *My Man
+    Jeeves* in the Auden Generation.
+  - Two late works by core members keep their link: Collins's *Heart and
+    Science* (Sensation Fiction) and Melville's *Billy Budd* (Dark Romance).
+  - Victorian High Seriousness was also removed from Lear's nonsense books,
+    Gilbert's ballads and operas, and Jerome.
+  - Coverage is now installment 8 **799/885** and installment 9 **359/498**.
+    A work with no movement is preferred to a wrong one.
+- **Relationship lists** in the built JSON are de-duplicated (a theme name
+  split at its own commas had been listed once per fragment).
 
 ### Close-out still to do (installments 8–9)
 
@@ -1357,11 +1408,14 @@ de la Mare, Davies, Squire, Sassoon, Masefield and their circle). Imagist holds
      coverage wave H but never added. She is the one ledger row still marked
      TODO; the other 209 rows were checked against the database and marked
      DONE.
-   - Movements cover only 383 of installment 9's 498 works.
-   - A few genre oddities remain: Frost's poems are tagged Regional Novel, and
-     *The Listeners* is tagged Ghost Story.
-   - Some installment-9 boilerplate descriptions call prose criticism "a verse
-     work".
+   - Movement audit, continued. Installment 8 has no movement for Victorian
+     realism, so Eliot, Gaskell, Trollope and the Brontës carry poetry or
+     sensation movements. American movements are linked to British works
+     (Hardy under "Local Colour and the Regionalist School", *Tess* under
+     American Naturalism). Poetry movements are linked to prose works
+     (installment 9's Auden Generation on Waugh, Coward and Wodehouse).
+   - Out-of-span movement links in installments 1–7 (219 more than ten years
+     out) have not been reviewed.
 
 ## Installment 10 — Postwar and Late Twentieth Century, British and American (1945–2000)
 

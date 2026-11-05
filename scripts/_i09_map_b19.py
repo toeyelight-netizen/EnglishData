@@ -81,7 +81,7 @@ MAP_B19 = {
         ['The absurd, the void, and the failure of meaning', 'Class, the servant problem, and the new democracy'],
         []),
     'Winter in Moscow': (['Malcolm Muggeridge'],
-        ['Documentary Prose and the Reportage Book'],
+        ['Comic Novel and the Satire of Manners', 'Documentary Prose and the Reportage Book'],
         ['Totalitarianism, propaganda, and the political novel', 'Exile, expatriation, and the lost generation'],
         []),
 }

@@ -13,7 +13,7 @@ MAP_B36 = {
         ['The woman question, married disability, and the New Woman', 'The woman question, married disability, and the New Woman', 'The woman question, married disability, and the New Woman', 'Regional identity and the American sectional character', 'Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations'],
         ['Local Colour and the Regionalist School']),
     "'The Song of the Lower Classes'": (['Ernest Jones'],
-        ['Dialect Poem and Vernacular Performance', 'Lecture and Popular Address'],
+        ['Political Verse and the Poem of Public Cause'],
         ['Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations', 'Wage labour, the strike, and the two nations', 'Money, credit, speculation, and the joint-stock imagination', 'Money, credit, speculation, and the joint-stock imagination', 'Money, credit, speculation, and the joint-stock imagination', 'Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole', 'Empire, jingoism, and the literature of the metropole'],
         ['Chartism and the Condition-of-England Novel']),
     'The Gold Harp': (['Ernest Jones'],

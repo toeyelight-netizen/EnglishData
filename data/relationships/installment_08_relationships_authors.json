@@ -52,6 +52,7 @@
     "Idyll and Domestic Narrative Poem",
     "Lecture and Popular Address",
     "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause",
     "Review Essay and Quarterly Argument",
     "Victorian Verse Drama and Revived Tragedy"
    ]
@@ -79,9 +80,9 @@
   {
    "author": "Ambrose Bierce",
    "genres": [
+    "Fable and Apologue",
     "Ghost Story and Scientific Supernatural Tale",
     "Lecture and Popular Address",
-    "Nonsense Verse and the Parody of Rule",
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Sensation Novel",
@@ -155,9 +156,7 @@
     "Industrial and Condition-of-England Novel",
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
-    "Problem Play and Well-Made Drama",
     "Realist Novel of Common Life",
-    "Review Essay and Quarterly Argument",
     "Sensation Novel",
     "Serial and Monthly-Part Novel"
    ]
@@ -179,7 +178,6 @@
     "Dramatic Monologue and Masked Lyric",
     "Idyll and Domestic Narrative Poem",
     "Nonsense Verse and the Parody of Rule",
-    "Review Essay and Quarterly Argument",
     "Victorian Verse Drama and Revived Tragedy"
    ]
   },
@@ -217,7 +215,6 @@
    "genres": [
     "Dramatic Monologue and Masked Lyric",
     "Pastoral Elegy and the Mourning Sequence",
-    "Sensation Drama and the Domestic Stage",
     "Sonnet Revival and Sequenced Sonnet",
     "Victorian Verse Drama and Revived Tragedy"
    ]
@@ -234,7 +231,6 @@
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
     "Ghost Story and Scientific Supernatural Tale",
-    "Idyll and Domestic Narrative Poem",
     "Nonsense Verse and the Parody of Rule"
    ]
   },
@@ -272,7 +268,6 @@
    "author": "Bret Harte",
    "genres": [
     "Local-Colour Sketch and the Regional Portrait",
-    "Pastoral Elegy and the Mourning Sequence",
     "Tall Tale and South-Western Humour Sketch"
    ]
   },
@@ -302,8 +297,7 @@
     "Review Essay and Quarterly Argument",
     "Sensation Drama and the Domestic Stage",
     "Sensation Novel",
-    "Serial and Monthly-Part Novel",
-    "Victorian Verse Drama and Revived Tragedy"
+    "Serial and Monthly-Part Novel"
    ]
   },
   {
@@ -370,7 +364,6 @@
   {
    "author": "Charlotte M. Yonge",
    "genres": [
-    "Idyll and Domestic Narrative Poem",
     "Novel of Development and the Growth Story",
     "Realist Novel of Common Life"
    ]
@@ -428,7 +421,6 @@
     "Dramatic Monologue and Masked Lyric",
     "New Woman and Marriage-Question Novel",
     "Pastoral Elegy and the Mourning Sequence",
-    "Review Essay and Quarterly Argument",
     "Sonnet Revival and Sequenced Sonnet"
    ]
   },
@@ -461,8 +453,7 @@
   {
    "author": "Ebenezer Elliott",
    "genres": [
-    "Dialect Poem and Vernacular Performance",
-    "Lecture and Popular Address"
+    "Political Verse and the Poem of Public Cause"
    ]
   },
   {
@@ -470,7 +461,6 @@
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
     "Ghost Story and Scientific Supernatural Tale",
-    "Idyll and Domestic Narrative Poem",
     "Imperial Adventure Romance",
     "Nonsense Verse and the Parody of Rule",
     "Novel of Development and the Growth Story"
@@ -481,7 +471,6 @@
    "genres": [
     "Ghost Story and Scientific Supernatural Tale",
     "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence",
     "Realist Novel of Common Life"
    ]
   },
@@ -534,7 +523,6 @@
    "author": "Edward Lear",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
-    "Lecture and Popular Address",
     "Nonsense Verse and the Parody of Rule"
    ]
   },
@@ -542,10 +530,9 @@
    "author": "Edwin Arlington Robinson",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
+    "Epic and the Long Philosophical Poem",
     "Idyll and Domestic Narrative Poem",
-    "Lecture and Popular Address",
-    "Local-Colour Sketch and the Regional Portrait",
-    "Victorian Verse Drama and Revived Tragedy"
+    "Local-Colour Sketch and the Regional Portrait"
    ]
   },
   {
@@ -563,11 +550,12 @@
    "author": "Elizabeth Barrett Browning",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
+    "Epic and the Long Philosophical Poem",
     "Idyll and Domestic Narrative Poem",
-    "Lecture and Popular Address",
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause",
     "Sonnet Revival and Sequenced Sonnet",
     "Victorian Verse Drama and Revived Tragedy"
    ]
@@ -605,9 +593,8 @@
     "Industrial and Condition-of-England Novel",
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence",
     "Realist Novel of Common Life",
-    "Review Essay and Quarterly Argument"
+    "Sentimental and Domestic Novel"
    ]
   },
   {
@@ -637,9 +624,8 @@
   {
    "author": "Emily Lawless",
    "genres": [
-    "Dialect Poem and Vernacular Performance",
-    "Lecture and Popular Address",
     "Local-Colour Sketch and the Regional Portrait",
+    "Political Verse and the Poem of Public Cause",
     "Realist Novel of Common Life"
    ]
   },
@@ -647,7 +633,7 @@
    "author": "Emma Lazarus",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
-    "Lecture and Popular Address",
+    "Political Verse and the Poem of Public Cause",
     "Sonnet Revival and Sequenced Sonnet",
     "Victorian Verse Drama and Revived Tragedy"
    ]
@@ -663,8 +649,8 @@
    "author": "Ernest Dowson",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
-    "Pastoral Elegy and the Mourning Sequence",
-    "Review Essay and Quarterly Argument"
+    "Modern Short Story and the Magazine Tale",
+    "Pastoral Elegy and the Mourning Sequence"
    ]
   },
   {
@@ -675,6 +661,7 @@
     "Industrial and Condition-of-England Novel",
     "Lecture and Popular Address",
     "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause",
     "Review Essay and Quarterly Argument"
    ]
   },
@@ -689,8 +676,7 @@
    "author": "F. Anstey",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
-    "Novel of Development and the Growth Story",
-    "Sensation Novel"
+    "Comic Novel and the New Humour"
    ]
   },
   {
@@ -706,10 +692,10 @@
    "genres": [
     "Dialect Poem and Vernacular Performance",
     "Idyll and Domestic Narrative Poem",
-    "Lecture and Popular Address",
     "Local-Colour Sketch and the Regional Portrait",
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause",
     "Sensation Novel"
    ]
   },
@@ -733,8 +719,7 @@
    "genres": [
     "Dramatic Monologue and Masked Lyric",
     "Idyll and Domestic Narrative Poem",
-    "Pastoral Elegy and the Mourning Sequence",
-    "Review Essay and Quarterly Argument"
+    "Pastoral Elegy and the Mourning Sequence"
    ]
   },
   {
@@ -827,7 +812,7 @@
   {
    "author": "George Grossmith",
    "genres": [
-    "Local-Colour Sketch and the Regional Portrait",
+    "Comic Novel and the New Humour",
     "Realist Novel of Common Life"
    ]
   },
@@ -840,7 +825,6 @@
     "Local-Colour Sketch and the Regional Portrait",
     "Nonsense Verse and the Parody of Rule",
     "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence",
     "Review Essay and Quarterly Argument"
    ]
   },
@@ -852,7 +836,6 @@
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
-    "Problem Play and Well-Made Drama",
     "Realist Novel of Common Life",
     "Sonnet Revival and Sequenced Sonnet"
    ]
@@ -897,8 +880,7 @@
   {
    "author": "Gerald Massey",
    "genres": [
-    "Dialect Poem and Vernacular Performance",
-    "Lecture and Popular Address"
+    "Political Verse and the Poem of Public Cause"
    ]
   },
   {
@@ -1069,7 +1051,7 @@
    "genres": [
     "Lecture and Popular Address",
     "Local-Colour Sketch and the Regional Portrait",
-    "Pastoral Elegy and the Mourning Sequence",
+    "Nature Essay and the Rural Observation",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
    ]
@@ -1104,7 +1086,7 @@
    "author": "Henry Newbolt",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
-    "Lecture and Popular Address"
+    "Political Verse and the Poem of Public Cause"
    ]
   },
   {
@@ -1116,10 +1098,9 @@
   {
    "author": "Henry Wadsworth Longfellow",
    "genres": [
-    "Dialect Poem and Vernacular Performance",
     "Idyll and Domestic Narrative Poem",
-    "Lecture and Popular Address",
-    "Pastoral Elegy and the Mourning Sequence"
+    "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause"
    ]
   },
   {
@@ -1137,13 +1118,13 @@
   {
    "author": "Herman Melville",
    "genres": [
+    "Epic and the Long Philosophical Poem",
     "Ghost Story and Scientific Supernatural Tale",
     "Imperial Adventure Romance",
     "Local-Colour Sketch and the Regional Portrait",
     "Naturalist and Determinist Novel",
     "Pastoral Elegy and the Mourning Sequence",
     "Realist Novel of Common Life",
-    "Victorian Verse Drama and Revived Tragedy",
     "War Narrative of the Common Soldier"
    ]
   },
@@ -1228,7 +1209,7 @@
   {
    "author": "Jerome K. Jerome",
    "genres": [
-    "Nonsense Verse and the Parody of Rule",
+    "Comic Novel and the New Humour",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
    ]
@@ -1255,17 +1236,15 @@
    "genres": [
     "Dialect Poem and Vernacular Performance",
     "Dramatic Monologue and Masked Lyric",
-    "Pastoral Elegy and the Mourning Sequence",
-    "Review Essay and Quarterly Argument"
+    "Pastoral Elegy and the Mourning Sequence"
    ]
   },
   {
    "author": "John Greenleaf Whittier",
    "genres": [
-    "Dialect Poem and Vernacular Performance",
     "Idyll and Domestic Narrative Poem",
-    "Lecture and Popular Address",
-    "Pastoral Elegy and the Mourning Sequence"
+    "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause"
    ]
   },
   {
@@ -1337,10 +1316,8 @@
    "author": "Juliana Horatia Ewing",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
-    "Idyll and Domestic Narrative Poem",
     "Local-Colour Sketch and the Regional Portrait",
-    "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence"
+    "Novel of Development and the Growth Story"
    ]
   },
   {
@@ -1349,7 +1326,6 @@
     "Local-Colour Sketch and the Regional Portrait",
     "Naturalist and Determinist Novel",
     "New Woman and Marriage-Question Novel",
-    "Pastoral Elegy and the Mourning Sequence",
     "Realist Novel of Common Life"
    ]
   },
@@ -1357,7 +1333,6 @@
    "author": "Kenneth Grahame",
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
-    "Idyll and Domestic Narrative Poem",
     "Review Essay and Quarterly Argument"
    ]
   },
@@ -1384,6 +1359,7 @@
     "Dramatic Monologue and Masked Lyric",
     "Lecture and Popular Address",
     "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause",
     "Review Essay and Quarterly Argument"
    ]
   },
@@ -1393,7 +1369,6 @@
     "Children's Fantasy and the Dream-Region Tale",
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
-    "Problem Play and Well-Made Drama",
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Sensation Novel",
@@ -1405,7 +1380,6 @@
    "genres": [
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence",
     "Realist Novel of Common Life",
     "Social Inquiry and the Documented Survey"
    ]
@@ -1499,7 +1473,6 @@
    "genres": [
     "Children's Fantasy and the Dream-Region Tale",
     "Ghost Story and Scientific Supernatural Tale",
-    "Idyll and Domestic Narrative Poem",
     "Local-Colour Sketch and the Regional Portrait",
     "Nonsense Verse and the Parody of Rule",
     "Novel of Development and the Growth Story"
@@ -1525,18 +1498,17 @@
    "author": "Mathilde Blind",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
-    "Idyll and Domestic Narrative Poem",
+    "Epic and the Long Philosophical Poem",
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
-    "Review Essay and Quarterly Argument",
-    "Victorian Verse Drama and Revived Tragedy"
+    "Review Essay and Quarterly Argument"
    ]
   },
   {
    "author": "Matthew Arnold",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
-    "Idyll and Domestic Narrative Poem",
+    "Epic and the Long Philosophical Poem",
     "Lecture and Popular Address",
     "Pastoral Elegy and the Mourning Sequence",
     "Review Essay and Quarterly Argument",
@@ -1606,9 +1578,9 @@
   {
    "author": "Olive Schreiner",
    "genres": [
+    "Fable and Apologue",
     "Imperial Adventure Romance",
     "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence",
     "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
@@ -1632,8 +1604,8 @@
     "New Woman and Marriage-Question Novel",
     "Nonsense Verse and the Parody of Rule",
     "Pastoral Elegy and the Mourning Sequence",
+    "Political Verse and the Poem of Public Cause",
     "Problem Play and Well-Made Drama",
-    "Realist Novel of Common Life",
     "Review Essay and Quarterly Argument",
     "Sensation Novel",
     "Social Inquiry and the Documented Survey",
@@ -1721,8 +1693,8 @@
     "Children's Fantasy and the Dream-Region Tale",
     "Early Scientific Romance and Utopian Speculation",
     "Local-Colour Sketch and the Regional Portrait",
+    "Nature Essay and the Rural Observation",
     "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence",
     "Social Inquiry and the Documented Survey"
    ]
   },
@@ -1737,7 +1709,7 @@
    "author": "Robert Bridges",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
-    "Social Inquiry and the Documented Survey",
+    "Epic and the Long Philosophical Poem",
     "Sonnet Revival and Sequenced Sonnet"
    ]
   },
@@ -1750,7 +1722,6 @@
     "Nonsense Verse and the Parody of Rule",
     "Novel of Development and the Growth Story",
     "Pastoral Elegy and the Mourning Sequence",
-    "Problem Play and Well-Made Drama",
     "Sensation Novel",
     "Sonnet Revival and Sequenced Sonnet",
     "Victorian Verse Drama and Revived Tragedy"
@@ -1759,6 +1730,7 @@
   {
    "author": "Robert Buchanan",
    "genres": [
+    "Dramatic Monologue and Masked Lyric",
     "Idyll and Domestic Narrative Poem",
     "Lecture and Popular Address",
     "Review Essay and Quarterly Argument"
@@ -1838,7 +1810,6 @@
     "Local-Colour Sketch and the Regional Portrait",
     "New Woman and Marriage-Question Novel",
     "Novel of Development and the Growth Story",
-    "Pastoral Elegy and the Mourning Sequence",
     "Realist Novel of Common Life"
    ]
   },
@@ -1871,7 +1842,6 @@
    "author": "Stephen Crane",
    "genres": [
     "Dramatic Monologue and Masked Lyric",
-    "Lecture and Popular Address",
     "Naturalist and Determinist Novel",
     "Novel of Development and the Growth Story",
     "Realist Novel of Common Life",
@@ -1972,7 +1942,6 @@
    "genres": [
     "Dramatic Monologue and Masked Lyric",
     "Idyll and Domestic Narrative Poem",
-    "Lecture and Popular Address",
     "Pastoral Elegy and the Mourning Sequence"
    ]
   },
@@ -1988,7 +1957,7 @@
    "genres": [
     "Imperial Adventure Romance",
     "Local-Colour Sketch and the Regional Portrait",
-    "Pastoral Elegy and the Mourning Sequence",
+    "Nature Essay and the Rural Observation",
     "Social Inquiry and the Documented Survey"
    ]
   },
@@ -2006,7 +1975,6 @@
    "genres": [
     "Ghost Story and Scientific Supernatural Tale",
     "Realist Novel of Common Life",
-    "Sensation Drama and the Domestic Stage",
     "Tall Tale and South-Western Humour Sketch"
    ]
   },
@@ -2055,7 +2023,7 @@
    "genres": [
     "Dialect Poem and Vernacular Performance",
     "Idyll and Domestic Narrative Poem",
-    "Social Inquiry and the Documented Survey"
+    "Political Verse and the Poem of Public Cause"
    ]
   },
   {
@@ -2098,7 +2066,6 @@
   {
    "author": "William Lecky",
    "genres": [
-    "Local-Colour Sketch and the Regional Portrait",
     "Review Essay and Quarterly Argument"
    ]
   },
@@ -2120,11 +2087,10 @@
    "genres": [
     "Dramatic Monologue and Masked Lyric",
     "Early Scientific Romance and Utopian Speculation",
+    "Epic and the Long Philosophical Poem",
     "Idyll and Domestic Narrative Poem",
     "Lecture and Popular Address",
-    "Pastoral Elegy and the Mourning Sequence",
-    "Review Essay and Quarterly Argument",
-    "Victorian Verse Drama and Revived Tragedy"
+    "Pastoral Elegy and the Mourning Sequence"
    ]
   },
   {
@@ -2142,7 +2108,7 @@
   {
    "author": "Zitkala-Sa",
    "genres": [
-    "Idyll and Domestic Narrative Poem",
+    "Children's Fantasy and the Dream-Region Tale",
     "Local-Colour Sketch and the Regional Portrait",
     "Review Essay and Quarterly Argument",
     "Social Inquiry and the Documented Survey"
@@ -2153,7 +2119,6 @@
   {
    "author": "A. E. Housman",
    "movements": [
-    "Pre-Raphaelitism and the Truth to Nature",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -2167,8 +2132,7 @@
   {
    "author": "Ada Cambridge",
    "movements": [
-    "Local Colour and the Regionalist School",
-    "Sensation Fiction and the Serial Plot"
+    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -2181,9 +2145,7 @@
   {
    "author": "Alfred Tennyson",
    "movements": [
-    "Pre-Raphaelitism and the Truth to Nature",
     "The Dramatic Monologue and the Masked Voice",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -2199,7 +2161,6 @@
   {
    "author": "Alice Dunbar-Nelson",
    "movements": [
-    "American Realism and the Howells Program",
     "Local Colour and the Regionalist School",
     "The Aesthetic Turn in 1890s America"
    ]
@@ -2225,7 +2186,6 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
-    "Sensation Fiction and the Serial Plot",
     "The Dramatic Monologue and the Masked Voice",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
@@ -2243,37 +2203,31 @@
    "author": "Anna Julia Cooper",
    "movements": [
     "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture",
-    "Dark Romance and the Puritan Inheritance"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
    "author": "Anne Brontë",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
    "author": "Anne Marsh",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
     "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
    "author": "Annie Besant",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
    "author": "Anthony Hope",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Chartism and the Condition-of-England Novel",
     "Muscular Christianity and the Schoolboy Tale of Empire",
     "Victorian High Seriousness and the Public Poet"
    ]
@@ -2304,10 +2258,7 @@
   },
   {
    "author": "Arthur Morrison",
-   "movements": [
-    "Chartism and the Condition-of-England Novel",
-    "Sensation Fiction and the Serial Plot"
-   ]
+   "movements": []
   },
   {
    "author": "Arthur Symons",
@@ -2321,7 +2272,6 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
-    "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
@@ -2343,8 +2293,7 @@
   {
    "author": "Beatrix Potter",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Pre-Raphaelitism and the Truth to Nature"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
@@ -2359,8 +2308,7 @@
   {
    "author": "Booker T. Washington",
    "movements": [
-    "American Realism and the Howells Program",
-    "Dark Romance and the Puritan Inheritance"
+    "American Realism and the Howells Program"
    ]
   },
   {
@@ -2380,22 +2328,18 @@
   {
    "author": "Catherine Gore",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
   {
    "author": "Celia Thaxter",
-   "movements": [
-    "Transcendentalism and the Concord Lyceum"
-   ]
+   "movements": []
   },
   {
    "author": "Charles Dickens",
    "movements": [
     "Carlyle and the Hero-Worship Lecture",
     "Chartism and the Condition-of-England Novel",
-    "Mark Twain and the Vernacular Performance",
     "Sensation Fiction and the Serial Plot"
    ]
   },
@@ -2403,8 +2347,7 @@
    "author": "Charles Eastman",
    "movements": [
     "American Realism and the Howells Program",
-    "Local Colour and the Regionalist School",
-    "Victorian High Seriousness and the Public Poet"
+    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -2434,8 +2377,6 @@
    "author": "Charles W. Chesnutt",
    "movements": [
     "American Realism and the Howells Program",
-    "Chartism and the Condition-of-England Novel",
-    "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School"
    ]
   },
@@ -2443,8 +2384,6 @@
    "author": "Charlotte Brontë",
    "movements": [
     "Chartism and the Condition-of-England Novel",
-    "Sensation Fiction and the Serial Plot",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -2460,7 +2399,6 @@
   {
    "author": "Charlotte Perkins Gilman",
    "movements": [
-    "American Naturalism and the Determinist Tragedy",
     "American Realism and the Howells Program",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
@@ -2518,7 +2456,6 @@
    "author": "E. W. Hornung",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
@@ -2539,7 +2476,6 @@
    "author": "Edith Wharton",
    "movements": [
     "American Realism and the Howells Program",
-    "Local Colour and the Regionalist School",
     "The Aesthetic Turn in 1890s America",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
@@ -2549,9 +2485,7 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
-    "Pre-Raphaelitism and the Truth to Nature",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Tractarian Prose and the Oxford Movement"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -2564,16 +2498,13 @@
   {
    "author": "Edward Bellamy",
    "movements": [
-    "American Realism and the Howells Program",
-    "Chartism and the Condition-of-England Novel"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "author": "Edward Bulwer-Lytton",
    "movements": [
     "Carlyle and the Hero-Worship Lecture",
-    "Sensation Fiction and the Serial Plot",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -2586,16 +2517,13 @@
   },
   {
    "author": "Edward Lear",
-   "movements": [
-    "Victorian High Seriousness and the Public Poet"
-   ]
+   "movements": []
   },
   {
    "author": "Edwin Arlington Robinson",
    "movements": [
     "Local Colour and the Regionalist School",
-    "The Aesthetic Turn in 1890s America",
-    "Victorian High Seriousness and the Public Poet"
+    "The Aesthetic Turn in 1890s America"
    ]
   },
   {
@@ -2603,8 +2531,6 @@
    "movements": [
     "Arnold and the Criticism of Culture",
     "Carlyle and the Hero-Worship Lecture",
-    "Chartism and the Condition-of-England Novel",
-    "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement"
    ]
@@ -2613,7 +2539,6 @@
    "author": "Elizabeth Barrett Browning",
    "movements": [
     "Pre-Raphaelitism and the Truth to Nature",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -2622,7 +2547,6 @@
    "movements": [
     "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement",
     "Victorian High Seriousness and the Public Poet"
    ]
@@ -2636,8 +2560,7 @@
   {
    "author": "Elizabeth Stoddard",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "Dark Romance and the Puritan Inheritance"
    ]
   },
   {
@@ -2653,7 +2576,6 @@
    "author": "Emily Brontë",
    "movements": [
     "Pre-Raphaelitism and the Truth to Nature",
-    "Sensation Fiction and the Serial Plot",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -2673,7 +2595,6 @@
   {
    "author": "Emily Lawless",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
     "Local Colour and the Regionalist School",
     "The Second American Renaissance and the Whitman-Dickinson Lyric"
    ]
@@ -2714,15 +2635,13 @@
   {
    "author": "F. Anstey",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Sensation Fiction and the Serial Plot"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
    "author": "Fanny Fern",
    "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -2747,7 +2666,6 @@
    "author": "Frances Power Cobbe",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel",
     "Tractarian Prose and the Oxford Movement"
    ]
   },
@@ -2775,9 +2693,7 @@
   },
   {
    "author": "Frederick Goddard Tuckerman",
-   "movements": [
-    "The Second American Renaissance and the Whitman-Dickinson Lyric"
-   ]
+   "movements": []
   },
   {
    "author": "G. A. Henty",
@@ -2789,7 +2705,6 @@
    "author": "George Bernard Shaw",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Chartism and the Condition-of-England Novel",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
    ]
@@ -2830,16 +2745,13 @@
    "author": "George Gissing",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel",
-    "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "author": "George Grossmith",
    "movements": [
-    "Mark Twain and the Vernacular Performance",
-    "Sensation Fiction and the Serial Plot"
+    "Mark Twain and the Vernacular Performance"
    ]
   },
   {
@@ -2854,7 +2766,6 @@
   {
    "author": "George Meredith",
    "movements": [
-    "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
     "Pre-Raphaelitism and the Truth to Nature",
     "Sensation Fiction and the Serial Plot",
@@ -2869,7 +2780,6 @@
     "Aestheticism and the Decadent Decade",
     "American Naturalism and the Determinist Tragedy",
     "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel",
     "Local Colour and the Regionalist School",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
@@ -2891,8 +2801,7 @@
   {
    "author": "George du Maurier",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Sensation Fiction and the Serial Plot"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
@@ -2905,8 +2814,7 @@
   {
    "author": "Geraldine Jewsbury",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "Chartism and the Condition-of-England Novel"
    ]
   },
   {
@@ -2918,14 +2826,12 @@
   {
    "author": "Gertrude Dix",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
    "author": "Grace King",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School"
    ]
   },
@@ -2950,7 +2856,6 @@
    "author": "Hall Caine",
    "movements": [
     "Local Colour and the Regionalist School",
-    "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
@@ -2981,7 +2886,6 @@
   {
    "author": "Harriet E. Wilson",
    "movements": [
-    "American Realism and the Howells Program",
     "Dark Romance and the Puritan Inheritance"
    ]
   },
@@ -3012,14 +2916,12 @@
   {
    "author": "Harriet Taylor Mill",
    "movements": [
-    "Arnold and the Criticism of Culture",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
    "author": "Helen Hunt Jackson",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School",
     "The Second American Renaissance and the Whitman-Dickinson Lyric"
    ]
@@ -3035,15 +2937,12 @@
    "author": "Henry Adams",
    "movements": [
     "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture",
     "Tractarian Prose and the Oxford Movement"
    ]
   },
   {
    "author": "Henry Arthur Jones",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
-    "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement"
    ]
@@ -3056,9 +2955,7 @@
   },
   {
    "author": "Henry George",
-   "movements": [
-    "Chartism and the Condition-of-England Novel"
-   ]
+   "movements": []
   },
   {
    "author": "Henry James",
@@ -3123,15 +3020,13 @@
   {
    "author": "Ida B. Wells",
    "movements": [
-    "American Realism and the Howells Program",
-    "Dark Romance and the Puritan Inheritance"
+    "American Realism and the Howells Program"
    ]
   },
   {
    "author": "Ignatius L. Donnelly",
    "movements": [
-    "American Naturalism and the Determinist Tragedy",
-    "Chartism and the Condition-of-England Novel"
+    "American Naturalism and the Determinist Tragedy"
    ]
   },
   {
@@ -3154,14 +3049,12 @@
    "author": "Jack London",
    "movements": [
     "American Naturalism and the Determinist Tragedy",
-    "American Realism and the Howells Program",
     "The Aesthetic Turn in 1890s America"
    ]
   },
   {
    "author": "James Russell Lowell",
    "movements": [
-    "Mark Twain and the Vernacular Performance",
     "The Second American Renaissance and the Whitman-Dickinson Lyric",
     "Transcendentalism and the Concord Lyceum"
    ]
@@ -3181,10 +3074,7 @@
   },
   {
    "author": "Jerome K. Jerome",
-   "movements": [
-    "Sensation Fiction and the Serial Plot",
-    "Victorian High Seriousness and the Public Poet"
-   ]
+   "movements": []
   },
   {
    "author": "Joel Chandler Harris",
@@ -3199,15 +3089,13 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Pre-Raphaelitism and the Truth to Nature",
-    "Ruskin and the Political Economy of Art",
-    "Transcendentalism and the Concord Lyceum"
+    "Ruskin and the Political Economy of Art"
    ]
   },
   {
    "author": "John Davidson",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Victorian High Seriousness and the Public Poet"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
@@ -3244,8 +3132,7 @@
    "movements": [
     "Arnold and the Criticism of Culture",
     "Carlyle and the Hero-Worship Lecture",
-    "Chartism and the Condition-of-England Novel",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "Chartism and the Condition-of-England Novel"
    ]
   },
   {
@@ -3270,8 +3157,6 @@
   {
    "author": "Josephine Butler",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
-    "Muscular Christianity and the Schoolboy Tale of Empire",
     "Tractarian Prose and the Oxford Movement"
    ]
   },
@@ -3295,8 +3180,7 @@
   {
    "author": "Kenneth Grahame",
    "movements": [
-    "Aestheticism and the Decadent Decade",
-    "Pre-Raphaelitism and the Truth to Nature"
+    "Aestheticism and the Decadent Decade"
    ]
   },
   {
@@ -3316,8 +3200,7 @@
    "author": "Lionel Johnson",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Arnold and the Criticism of Culture",
-    "Victorian High Seriousness and the Public Poet"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
@@ -3325,17 +3208,14 @@
    "movements": [
     "American Realism and the Howells Program",
     "Local Colour and the Regionalist School",
-    "Sensation Fiction and the Serial Plot",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
    "author": "Lucas Malet",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Sensation Fiction and the Serial Plot",
-    "The New Woman and the Fin-de-Siècle Problem Novel",
-    "Tractarian Prose and the Oxford Movement"
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -3379,7 +3259,6 @@
    "author": "Mary Augusta Ward",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Tractarian Prose and the Oxford Movement",
     "Victorian High Seriousness and the Public Poet"
@@ -3413,7 +3292,6 @@
   {
    "author": "Mary Noailles Murfree",
    "movements": [
-    "Dark Romance and the Puritan Inheritance",
     "Local Colour and the Regionalist School",
     "South-Western Humour and the Tall-Tale Sketch"
    ]
@@ -3455,7 +3333,6 @@
    "author": "Mona Caird",
    "movements": [
     "Arnold and the Criticism of Culture",
-    "Sensation Fiction and the Serial Plot",
     "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
@@ -3463,8 +3340,7 @@
    "author": "Mrs Henry Wood",
    "movements": [
     "Local Colour and the Regionalist School",
-    "Sensation Fiction and the Serial Plot",
-    "The New Woman and the Fin-de-Siècle Problem Novel"
+    "Sensation Fiction and the Serial Plot"
    ]
   },
   {
@@ -3478,9 +3354,7 @@
   },
   {
    "author": "Nathaniel Parker Willis",
-   "movements": [
-    "Local Colour and the Regionalist School"
-   ]
+   "movements": []
   },
   {
    "author": "Netta Syrett",
@@ -3492,8 +3366,6 @@
    "author": "Olive Schreiner",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "American Naturalism and the Determinist Tragedy",
-    "Chartism and the Condition-of-England Novel",
     "Local Colour and the Regionalist School",
     "Muscular Christianity and the Schoolboy Tale of Empire",
     "The New Woman and the Fin-de-Siècle Problem Novel"
@@ -3502,7 +3374,6 @@
   {
    "author": "Oliver Wendell Holmes Sr.",
    "movements": [
-    "American Naturalism and the Determinist Tragedy",
     "Dark Romance and the Puritan Inheritance",
     "The Second American Renaissance and the Whitman-Dickinson Lyric",
     "Transcendentalism and the Concord Lyceum"
@@ -3512,16 +3383,14 @@
    "author": "Oscar Wilde",
    "movements": [
     "Aestheticism and the Decadent Decade",
-    "Arnold and the Criticism of Culture",
-    "Sensation Fiction and the Serial Plot"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
    "author": "Ouida",
    "movements": [
     "Muscular Christianity and the Schoolboy Tale of Empire",
-    "Pre-Raphaelitism and the Truth to Nature",
-    "Sensation Fiction and the Serial Plot"
+    "Pre-Raphaelitism and the Truth to Nature"
    ]
   },
   {
@@ -3601,7 +3470,6 @@
   {
    "author": "Robert Bridges",
    "movements": [
-    "Arnold and the Criticism of Culture",
     "Pre-Raphaelitism and the Truth to Nature",
     "Victorian High Seriousness and the Public Poet"
    ]
@@ -3633,9 +3501,7 @@
   },
   {
    "author": "Rosa Nouchette Carey",
-   "movements": [
-    "The New Woman and the Fin-de-Siècle Problem Novel"
-   ]
+   "movements": []
   },
   {
    "author": "Rose Terry Cooke",
@@ -3691,7 +3557,6 @@
   {
    "author": "Silas K. Hocking",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
     "Sensation Fiction and the Serial Plot"
    ]
   },
@@ -3752,7 +3617,6 @@
    "movements": [
     "American Naturalism and the Determinist Tragedy",
     "Local Colour and the Regionalist School",
-    "Sensation Fiction and the Serial Plot",
     "The Dramatic Monologue and the Masked Voice",
     "The New Woman and the Fin-de-Siècle Problem Novel",
     "Victorian High Seriousness and the Public Poet"
@@ -3799,7 +3663,6 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Local Colour and the Regionalist School",
-    "Pre-Raphaelitism and the Truth to Nature",
     "Victorian High Seriousness and the Public Poet"
    ]
   },
@@ -3808,16 +3671,13 @@
    "movements": [
     "Aestheticism and the Decadent Decade",
     "Pre-Raphaelitism and the Truth to Nature",
-    "The Aesthetic Turn in 1890s America",
-    "Victorian High Seriousness and the Public Poet"
+    "The Aesthetic Turn in 1890s America"
    ]
   },
   {
    "author": "W. W. Jacobs",
    "movements": [
-    "Local Colour and the Regionalist School",
-    "Sensation Fiction and the Serial Plot",
-    "Victorian High Seriousness and the Public Poet"
+    "Local Colour and the Regionalist School"
    ]
   },
   {
@@ -3875,8 +3735,7 @@
    "author": "William Dean Howells",
    "movements": [
     "American Realism and the Howells Program",
-    "Arnold and the Criticism of Culture",
-    "Chartism and the Condition-of-England Novel"
+    "Arnold and the Criticism of Culture"
    ]
   },
   {
@@ -3897,7 +3756,6 @@
   {
    "author": "William Makepeace Thackeray",
    "movements": [
-    "Aestheticism and the Decadent Decade",
     "Arnold and the Criticism of Culture",
     "Chartism and the Condition-of-England Novel",
     "Sensation Fiction and the Serial Plot"
@@ -3906,7 +3764,6 @@
   {
    "author": "William Morris",
    "movements": [
-    "Chartism and the Condition-of-England Novel",
     "Pre-Raphaelitism and the Truth to Nature",
     "The Dramatic Monologue and the Masked Voice",
     "Victorian High Seriousness and the Public Poet"

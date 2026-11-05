@@ -11,11 +11,25 @@ GENRES = [g["name"] for g in load_json("data/genres/installment_08_genres.json")
 THEMES = [t["name"] for t in load_json("data/themes/installment_08_themes.json")]
 MOVEMENTS = [m["name"] for m in load_json("data/movements/installment_08_movements.json")]
 
+def _all_genres():
+    import glob
+    out = []
+    for path in sorted(glob.glob(os.path.join(ROOT, "data", "genres", "installment_*_genres.json"))):
+        with open(path, encoding="utf-8") as fh:
+            out += [x["name"] for x in json.load(fh)]
+    return out
+
+ALL_GENRES = _all_genres()
+
 def g(*bits):
-    """Resolve genre names from disambiguating substrings."""
+    """Resolve genre names from disambiguating substrings of this installment's
+    genres; a bit matching none of them may name another installment's genre
+    in full (e.g. "Fable and Apologue")."""
     out = []
     for b in bits:
         hits = [x for x in GENRES if b.lower() in x.lower()]
+        if not hits:
+            hits = [x for x in ALL_GENRES if b.lower() == x.lower()]
         if len(hits) != 1:
             raise SystemExit("genre %r -> %r" % (b, hits))
         out.append(hits[0])
