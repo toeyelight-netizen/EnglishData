@@ -1,5 +1,55 @@
 [
  {
+  "title": "The Time Machine",
+  "alternative_titles": [
+   "Time Machine"
+  ],
+  "authorship_status": "single",
+  "composition_date_start": "1894",
+  "composition_date_end": "1895",
+  "publication_date": "1895",
+  "first_performance_date": null,
+  "manuscript_date": null,
+  "original_language": "English",
+  "description": "Published in 1895 and the founding work of the modern scientific romance: the journey of an inventor to the year 802,701, where he finds the Eloi and the Morlocks, and to the last days of the earth. It is a prose fiction work of 1895 by Herbert George Wells; it belongs to Aestheticism and the Decadent Decade and it is catalogued here under Early Scientific Romance and Utopian Speculation; Naturalist and Determinist Novel and the record grades it as major canon.",
+  "plot_or_argument": "The Time Traveller demonstrates his machine, travels to the far future, discovers a pastoral people served by a subterranean race, loses his machine to the Morlocks, escapes to the year thirty million, and returns to tell the tale before vanishing on a second journey.",
+  "narrative_structure": "Framed narrative: the Time Traveller's account to a dinner party, with an epilogue by the narrator.",
+  "principal_characters": "The Time Traveller; the Eloi; the Morlocks; Weena; the Medical Man; the Psychologist; the Editor",
+  "literary_form": "Scientific romance (New Review, 1895)",
+  "meter_and_prosody": "Prose. Prose of the scientific romance: the frame narrative of the witness, the set-piece description of the machine, the society or the world, and the dialogue of exposition in which the inventor explains his discovery. The author's characteristic manner is the single scientific premise developed to its consequences.",
+  "historical_context": "The 1890s, the second law of thermodynamics and the 'heat death' of the universe, the Darwinian and socialist thought of the period, and the class divisions of Victorian London. The record dates the work as composed between 1894 and 1895 and first published in 1895 and the corpus places it within Aestheticism and the Decadent Decade, it is catalogued under early scientific romance and utopian speculation; naturalist and determinist novel.",
+  "literary_significance": "The Time Machine invented the time-travel story and gave the scientific romance its method: the extrapolation of a social and biological idea into a narrative. Its vision of class division becoming speciation is the most powerful single image in Victorian science fiction.",
+  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as H. G. Wells. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
+  "bibliographical_notes": "Serialised in The New Review from January to May 1895 and in the National Observer in a variant text, and published by William Heinemann in May 1895; it is the author's first novel. The record grades the work as major canon.",
+  "canonical_status": "Major canon",
+  "research_status": "complete"
+ },
+ {
+  "title": "The War of the Worlds",
+  "alternative_titles": [
+   "War of the Worlds"
+  ],
+  "authorship_status": "single",
+  "composition_date_start": "1897",
+  "composition_date_end": "1898",
+  "publication_date": "1898",
+  "first_performance_date": null,
+  "manuscript_date": null,
+  "original_language": "English",
+  "description": "Published in 1898 and the most famous of all invasion narratives: the Martian landing in Surrey, the destruction of the Home Counties, and the defeat of the invaders by the bacteria of earth. It is a prose fiction work of 1898 by Herbert George Wells; it belongs to Muscular Christianity and the Schoolboy Tale of Empire and it is catalogued here under Early Scientific Romance and Utopian Speculation; Imperial Adventure Romance and the record grades it as major canon.",
+  "plot_or_argument": "Cylinders fall on Horsell Common and the Martians emerge with heat-rays and tripods; the narrator flees through London and Surrey, witnesses the rout of the army, is trapped with the curate, and emerges to find the Martians dead of a bacterial infection.",
+  "narrative_structure": "A frame narrative in which the witness reports the machine, the society or the world, and the inventor explains his discovery in dialogue. A novel of pursuit and escape in chapters, each carrying a set piece of travel, combat or discovery.",
+  "principal_characters": "The narrator; the curate; the artilleryman; the Martian fighting-machines; Ogilvy the astronomer; Henderson",
+  "literary_form": "Scientific romance (Pearson's Magazine, 1897)",
+  "meter_and_prosody": "Prose. Prose of the scientific romance: the frame narrative of the witness, the set-piece description of the machine, the society or the world, and the dialogue of exposition in which the inventor explains his discovery. The author's characteristic manner is the single scientific premise developed to its consequences.",
+  "historical_context": "The 1890s, the imperial rivalry of the European powers, the British conquest of Tasmania as a model for extermination, and the new bacteriology of Koch and Pasteur. The record dates the work as composed between 1897 and 1898 and first published in 1898 and the corpus places it within Muscular Christianity and the Schoolboy Tale of Empire, it is catalogued under early scientific romance and utopian speculation; imperial adventure romance.",
+  "literary_significance": "The War of the Worlds is the founding text of the alien-invasion narrative and the great English fable of reverse colonisation; its Darwinian ending is a permanent rebuke to the imperial assumption of moral superiority.",
+  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as H. G. Wells. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
+  "bibliographical_notes": "Serialised in Pearson's Magazine from April to December 1897, and in the United States in Cosmopolitan and the Boston Post, and published by William Heinemann in February 1898. The record grades the work as major canon.",
+  "canonical_status": "Major canon",
+  "research_status": "complete"
+ },
+ {
   "title": "The Invisible Man: A Grotesque Romance",
   "alternative_titles": [
    "The Invisible Man"
@@ -548,56 +598,6 @@
   "literary_significance": "The House of the Seven Gables is the great American novel of the ancestral house and of the burden of the past on the present; its combination of Gothic romance and comic realism is unique in American fiction, and its treatment of photography and mesmerism makes it a key text of the nineteenth-century American imagination.",
   "attribution_notes": "Attribution is secure: the work was published under the author's name. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
   "bibliographical_notes": "First published in 1851, as novel (romance), by Nathaniel Hawthorne. Composed between 1850 and 1851. The record grades the work as secondary canon.",
-  "canonical_status": "Secondary canon",
-  "research_status": "complete"
- },
- {
-  "title": "The Blithedale Romance",
-  "alternative_titles": [
-   "Blithedale Romance"
-  ],
-  "authorship_status": "single",
-  "composition_date_start": "1851",
-  "composition_date_end": "1852",
-  "publication_date": "1852",
-  "first_performance_date": null,
-  "manuscript_date": null,
-  "original_language": "English",
-  "description": "Published in 1852 and Hawthorne's most directly contemporary novel: a fictional account of the Brook Farm experiment and of the failure of a utopian community. It is a prose fiction work of 1852 by Nathaniel Hawthorne; it belongs to Transcendentalism and the Concord Lyceum and it is catalogued here under Novel of Development and the Growth Story; Sensation Novel and its author standing in the first rank of this corpus.",
-  "plot_or_argument": "Miles Coverdale narrates the life of Blithedale, a socialist community, and the fates of the philanthropist Hollingsworth, the beautiful Zenobia and the mysterious Priscilla; the community fails, Zenobia drowns, and Coverdale confesses at the end that he loved her.",
-  "narrative_structure": "A novel in chapters grouped by the stages of a life, from childhood through the education and the first disappointments to the settlement of the adult. A novel of sensation in chapters, the secret withheld and revealed by stages, testimony and documents inserted into the narrative, each part closing on a cliff.",
-  "principal_characters": "Miles Coverdale (the narrator); Zenobia; Hollingsworth; Priscilla; Old Moodie; Westervelt; Silas Foster",
-  "literary_form": "Novel (romance); novel of development",
-  "meter_and_prosody": "Prose. Prose fiction of formation: the narrative follows one consciousness from childhood or youth to settlement, in chapters grouped by the stages of the life, with the earlier manner recalled and judged by the later. The author's characteristic manner is allegory with psychological depth.",
-  "historical_context": "The 1841-47, the Brook Farm community and American Fourierism, and the women's rights movement and the woman question. The record dates the work as composed between 1851 and 1852 and first published in 1852 and the corpus places it within Transcendentalism and the Concord Lyceum; Dark Romance and the Puritan Inheritance, it is catalogued under novel of development and the growth story; sensation novel.",
-  "literary_significance": "The Blithedale Romance is the central American fictional treatment of the utopian community and one of the first American novels about the position of women: Zenobia is the finest portrait of the woman reformer in American fiction, and the novel's analysis of the failure of the Transcendentalist experiment is the most searching of its time.",
-  "attribution_notes": "Attribution is secure: the work was published under the author's name. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
-  "bibliographical_notes": "First published in 1852, as novel (romance), by Nathaniel Hawthorne. Composed between 1851 and 1852. The record grades the work as secondary canon.",
-  "canonical_status": "Secondary canon",
-  "research_status": "complete"
- },
- {
-  "title": "The Marble Faun",
-  "alternative_titles": [
-   "Marble Faun"
-  ],
-  "authorship_status": "single",
-  "composition_date_start": "1858",
-  "composition_date_end": "1859",
-  "publication_date": "1860",
-  "first_performance_date": null,
-  "manuscript_date": null,
-  "original_language": "English",
-  "description": "Published in 1860 and the last of Hawthorne's completed romances: the story of four artists in Rome and of a murder that brings the knowledge of evil into paradise. It is a prose fiction work of 1860 by Nathaniel Hawthorne; it belongs to Dark Romance and the Puritan Inheritance and it is catalogued here under Imperial Adventure Romance; Naturalist and Determinist Novel and its author standing in the first rank of this corpus.",
-  "plot_or_argument": "Miriam, the mysterious painter, is pursued by a shadowy monk; Donatello, the Italian count who resembles the Faun of Praxiteles, kills the monk for her; the guilt of the pair, and the conversion of Donatello into a moral being through remorse, is the novel's central argument.",
-  "narrative_structure": "A novel of pursuit and escape in chapters, each carrying a set piece of travel, combat or discovery. A novel in chapters driven by heredity, appetite and environment, the accumulation of physiological and economic detail carrying the action to its determined end.",
-  "principal_characters": "Miriam; Donatello, Count of Monte Beni; Kenyon, the sculptor; Hilda; the model, Brother Antonio",
-  "literary_form": "Novel (romance, set in Italy)",
-  "meter_and_prosody": "Prose. Prose of adventure: the first-person or closely focalised narrative of pursuit and escape, the set-piece chapter, the exact vocabulary of weapons, ships, terrain and travel, and the rapid unreflective sentence. The author's characteristic manner is allegory with psychological depth.",
-  "historical_context": "The 1858-59, the American artists' colony in Rome, the Italian independence movement, and the American expatriate world of the 1850s. The record dates the work as composed between 1858 and 1859 and first published in 1860 and the corpus places it within Dark Romance and the Puritan Inheritance, it is catalogued under imperial adventure romance; naturalist and determinist novel.",
-  "literary_significance": "The Marble Faun is the first American novel of the expatriate artist in Europe and the founding text of the American literature of Italy: its meditation on the fall of man, art and experience makes it the most philosophical of Hawthorne's books and a direct influence on Henry James.",
-  "attribution_notes": "Attribution is secure: the work was published under the author's name. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
-  "bibliographical_notes": "First published in 1860, as novel (romance, set in italy), by Nathaniel Hawthorne. Composed between 1858 and 1859. The record grades the work as secondary canon.",
   "canonical_status": "Secondary canon",
   "research_status": "complete"
  }

@@ -2896,6 +2896,16 @@
    "contribution_type": "author"
   },
   {
+   "work": "Across Patagonia",
+   "author": "Lady Florence Dixie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Gloriana; or, The Revolution of 1900",
+   "author": "Lady Florence Dixie",
+   "contribution_type": "author"
+  },
+  {
    "work": "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
    "author": "Thomas Carlyle",
    "contribution_type": "author"
@@ -8441,6 +8451,20 @@
    "work": "A History of European Morals from Augustus to Charlemagne",
    "genres": [
     "Review Essay and Quarterly Argument"
+   ]
+  },
+  {
+   "work": "Across Patagonia",
+   "genres": [
+    "Imperial Adventure Romance",
+    "Local-Colour Sketch and the Regional Portrait"
+   ]
+  },
+  {
+   "work": "Gloriana; or, The Revolution of 1900",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "New Woman and Marriage-Question Novel"
    ]
   },
   {
@@ -15169,6 +15193,21 @@
    ]
   },
   {
+   "work": "Across Patagonia",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Leisure class, the idle rich, and the unearned income"
+   ]
+  },
+  {
+   "work": "Gloriana; or, The Revolution of 1900",
+   "themes": [
+    "The woman question, married disability, and the New Woman",
+    "Education, the schools, and the cultivation of the self",
+    "Sexuality, the double standard, and the literature of the social evil"
+   ]
+  },
+  {
    "work": "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
    "themes": [
     "Doubt, agnosticism, and the Broad Church conscience",
@@ -20565,6 +20604,12 @@
    ]
   },
   {
+   "work": "Gloriana; or, The Revolution of 1900",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
+   ]
+  },
+  {
    "work": "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
    "movements": [
     "Carlyle and the Hero-Worship Lecture",
@@ -22769,6 +22814,8 @@
     "A History of Nineteenth Century Literature",
     "The Methods of Ethics",
     "A History of European Morals from Augustus to Charlemagne",
+    "Across Patagonia",
+    "Gloriana; or, The Revolution of 1900",
     "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
     "The French Revolution: A History",
     "On Heroes, Hero-Worship, and the Heroic in History",

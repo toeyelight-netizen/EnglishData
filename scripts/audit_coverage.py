@@ -34,7 +34,7 @@ Frances E. W. Harper|Harriet E. Wilson|William Wells Brown|Anna Julia Cooper|Ida
 Bret Harte|Joel Chandler Harris|Algernon Charles Swinburne|William Morris|Arthur Symons
 Ernest Dowson|Lionel Johnson|John Davidson|Francis Thompson|Michael Field|Margaret Oliphant
 Charlotte M. Yonge|Dinah Mulock Craik|Eliza Lynn Linton|Mary Augusta Ward|H. Rider Haggard
-George Moore|Israel Zangwill|Sarah Grand|Mona Caird|Edward Bulwer-Lytton|Benjamin Disraeli
+George Moore|Israel Zangwill|Sarah Grand|Mona Caird|Lady Florence Dixie|Edward Bulwer-Lytton|Benjamin Disraeli
 George Bernard Shaw|Edward Lear|A. E. Housman|J. M. Barrie|Jerome K. Jerome|Stephen Crane
 Frank Norris|Jack London|Edith Wharton|Ambrose Bierce|Hamlin Garland|George Washington Cable
 Mary E. Wilkins Freeman|Alice Dunbar-Nelson|Sui Sin Far|Abraham Cahan|Theodore Dreiser

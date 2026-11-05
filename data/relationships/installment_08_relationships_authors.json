@@ -1337,6 +1337,15 @@
    ]
   },
   {
+   "author": "Lady Florence Dixie",
+   "genres": [
+    "Early Scientific Romance and Utopian Speculation",
+    "Imperial Adventure Romance",
+    "Local-Colour Sketch and the Regional Portrait",
+    "New Woman and Marriage-Question Novel"
+   ]
+  },
+  {
    "author": "Leslie Stephen",
    "genres": [
     "Lecture and Popular Address",
@@ -3110,6 +3119,12 @@
    "author": "Kenneth Grahame",
    "movements": [
     "Aestheticism and the Decadent Decade"
+   ]
+  },
+  {
+   "author": "Lady Florence Dixie",
+   "movements": [
+    "The New Woman and the Fin-de-Siècle Problem Novel"
    ]
   },
   {
@@ -5331,6 +5346,15 @@
     "Doubt, agnosticism, and the Broad Church conscience",
     "Education, the schools, and the cultivation of the self",
     "The metropolis, the crowd, and the imperial capital"
+   ]
+  },
+  {
+   "author": "Lady Florence Dixie",
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Leisure class, the idle rich, and the unearned income",
+    "Sexuality, the double standard, and the literature of the social evil",
+    "The woman question, married disability, and the New Woman"
    ]
   },
   {
@@ -7677,6 +7701,12 @@
    ]
   },
   {
+   "author": "Lady Florence Dixie",
+   "influenced_by": [
+    "William Wordsworth"
+   ]
+  },
+  {
    "author": "Thomas Carlyle",
    "influenced_by": [
     "William Shakespeare"
@@ -9756,6 +9786,15 @@
   },
   {
    "author": "William Lecky",
+   "sources": [
+    "The Cambridge Companion to the Victorian Novel",
+    "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "author": "Lady Florence Dixie",
    "sources": [
     "The Cambridge Companion to the Victorian Novel",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",

@@ -8,7 +8,7 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 - Current schema revision (Alembic): `e4f5a6b7c8d9` (initial schema + FTS5 +
   work detail columns + author `significance_tier` + author
   `bibliographical_notes`).
-- Current position: installments 1–9 imported; **846 authors / 2838 works**
+- Current position: installments 1–9 imported; **847 authors / 2840 works**
   across nine periods (c. 450–1945). Installments 8 and 9 have all their
   content and pass validation; their close-out (statistics, exports, Android
   asset) is still to do. See *Installments 8–9: enrichment and quality pass*
@@ -1149,8 +1149,8 @@ careers).
 ## Installment 8 — Victorian Period, British and American (1832–1901)
 
 **Status: content complete; close-out pending.** After the coverage audit
-(`documentation/COVERAGE_AUDIT_08_09.md`, waves A–I) installment 8 holds **232
-authors and 885 works**, and none of the 237 names in its canon list is absent
+(`documentation/COVERAGE_AUDIT_08_09.md`, waves A–I) installment 8 holds **233
+authors and 887 works**, and none of the 238 names in its canon list is absent
 from the database. Field enrichment and the quality pass are described under
 *Installments 8–9: enrichment and quality pass* at the end of this file.
 
@@ -1335,7 +1335,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installments 8–9: enrichment and quality pass
 
-- **principal_characters**, all hand-authored. Installment 8: **644 of 885**
+- **principal_characters**, all hand-authored. Installment 8: **646 of 887**
   works (72.8%; installments 5–7 stand at 73%, 70% and 68%). Installment 9:
   **434 of 498** (87%). Uncertain names were checked by web search, and
   anything that could not be verified stays null.
@@ -1432,6 +1432,15 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
   - The Lost Generation keeps only the expatriates.
   - In all, 64 links were removed. Installment 8 coverage stays **723/885**;
     installment 9 is now **297/498**.
+- **Lady Florence Dixie**, the last TODO row in the coverage ledger, is
+  added: an author record, *Across Patagonia* (1880) and *Gloriana; or, The
+  Revolution of 1900* (1890). The facts were checked against Wikipedia, the SF
+  Encyclopedia and the Project Gutenberg text of *Gloriana*. Every ledger row
+  is now DONE; installment 8 holds 233 authors and 887 works, and all 238
+  canon names are present.
+- **Bibliographical notes.** A composition date with an empty start printed
+  "Composed in None" in 41 records (33 in installment 8, 8 in installment 9).
+  `compose_bibliography` now uses the end date or leaves the clause out.
 - **Relationship lists** in the built JSON are de-duplicated (a theme name
   split at its own commas had been listed once per fragment).
 
@@ -1439,13 +1448,9 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 1. Run `scripts/generate_statistics.py`, `scripts/export_data.py`,
    `scripts/export_app_data.py` and `android/build.py`. Then re-check the
-   Phase-5 tier ladder, since 428 of the 846 authors are now graded.
+   Phase-5 tier ladder, since 429 of the 847 authors are now graded.
 2. Update `documentation/DATABASE_SCHEMA.md` and the validation reports.
 3. Follow-ups:
-   - Lady Florence Dixie (*Gloriana*, *Across Patagonia*) was planned in
-     coverage wave H but never added. She is the one ledger row still marked
-     TODO; the other 209 rows were checked against the database and marked
-     DONE.
    - Installment 9 has no movement for writers outside the named schools
      (Maugham, Wodehouse, Buchan, Sabatini). Candidate additions are the
      Bright Young Things (Waugh, Powell, Henry Green) and the Inklings.
@@ -1467,6 +1472,6 @@ Anglophone and postcolonial writing out of scope.
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
-| 8 | Victorian and American nineteenth century (1832–1901) | Content complete (232 authors, 885 works); close-out pending |
+| 8 | Victorian and American nineteenth century (1832–1901) | Content complete (233 authors, 887 works); close-out pending |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Content complete (197 authors, 498 works); close-out pending |
 | 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |

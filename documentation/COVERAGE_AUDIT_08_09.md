@@ -123,7 +123,7 @@ Baseline: 161 authors / 779 works.
 | Gertrude Dix | DONE | The Image Breakers |
 | Evelyn Sharp | DONE | (suffrage stories) |
 | Florence Bell | DONE | At the Works |
-| Lady Florence Dixie | TODO | Gloriana; Across Patagonia |
+| Lady Florence Dixie | DONE | Gloriana; Across Patagonia |
 
 ### Wave I — the stage and the journalists (7)
 

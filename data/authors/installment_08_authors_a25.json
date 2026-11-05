@@ -1,5 +1,36 @@
 [
  {
+  "full_name": "Emily Dickinson",
+  "alternative_names": [
+   "Emily Elizabeth Dickinson"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1830",
+  "birth_date_approximate": false,
+  "death_date": "1886",
+  "death_date_approximate": false,
+  "birthplace": "Amherst, Massachusetts, United States",
+  "nationality_or_literary_tradition": "American; the lyric, the riddle and the poetry of the inner life",
+  "literary_identity": "Poet; one of the two or three greatest lyric poets in English, and the central woman poet of the nineteenth century.",
+  "biography": "Born in Amherst, Massachusetts, on 10 December 1830, the daughter of a lawyer and congressman; she was educated at Amherst Academy and Mount Holyoke Female Seminary, which she left after a year. She lived almost entirely in her father's house, increasingly withdrawn after 1861, dressed in white, and conducted her closest relationships by letter. She wrote nearly 1,800 poems, sewn into fascicles, and published fewer than a dozen in her lifetime. She died in Amherst on 15 May 1886; the first collection appeared in 1890.",
+  "literary_profile": "Dickinson wrote the lyric of extreme compression: her poems are short, usually rhymed in ballad or hymn stanzas, and organised around a single image or a riddle that the reader must solve. She writes about death, immortality, the mind, nature, love and fame with a wit and a metaphysical daring unmatched in American poetry, and her dashes, capitals and slant rhymes create a syntax of hesitation that is entirely her own.",
+  "stylistic_characteristics": "Hymn and ballad measures broken by slant rhyme and irregular stress; dashes in place of punctuation; capitalised nouns; riddling circumlocution for the central subject; paradox and irony; the poem as a single compressed argument.",
+  "intellectual_concerns": "Death and immortality; the mind and its power; nature and the seasons; love, renunciation and absence; religious doubt and the Calvinist inheritance; fame, publication and the woman artist.",
+  "historical_significance": "Dickinson is one of the greatest poets in English and the founder of a distinctively American lyric of the inward life: her influence on twentieth-century poetry is as large as Whitman's, and the recovery of her manuscripts has made her a central figure in the criticism of gender, religion and American poetics.",
+  "major_influences": [
+   "Ralph Waldo Emerson",
+   "Isaac Watts",
+   "William Shakespeare",
+   "John Keats",
+   "Elizabeth Barrett Browning",
+   "Charlotte Brontë"
+  ],
+  "biographical_uncertainty": "3 of the 5 works catalogued here carry a research status of 'partial' - Poems by Emily Dickinson; Poems, Second Series; Poems: Third Series - and are reported only so far as the evidence allows. 10 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems by Emily Dickinson (1890, posthumous, ed. Higginson and Todd); Poems, Second Series (1891, posthumous); Poems, Third Series (1896, posthumous); The Single Hound (1914, posthumous); Further Poems (1929, posthumous); Bolts of Melody (1945, posthumous); The Poems of Emily Dickinson, 3 vols (1955, ed. Johnson); The Manuscript Books of Emily Dickinson (1981); The Letters (1958, 3 vols); The Gorgeous Nothings (facsimile fascicles, 2013)."
+ },
+ {
   "full_name": "Harriet Beecher Stowe",
   "alternative_names": [
    "Harriet Elizabeth Beecher Stowe"
@@ -205,37 +236,5 @@
   "research_status": "complete",
   "significance_tier": "Minor / lesser-known",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Cometh Up as a Flower (1867); Not Wisely, but Too Well (1867); Red as a Rose Is She (1870); Good-bye, Sweetheart! (1872); Nancy (1873); Joan (1876); Second Thoughts (1880); Belinda. A Novel (1883); Doctor Cupid (1886); Alas! (1890); Mrs Bligh (1892); A Beginner (1894); Scylla or Charybdis? (1895); Dear Faustina (1897); The Game and the Candle (1899); Foes in Law (1900); A Waif's Progress (1905); Mamma (1908); The Devil and the Deep Sea (1910); Between Two Stools (1912); Concerning a Vow (1915); A Thorn in the Flesh (1917); In a Glass Darkly? (story, 1870s)."
- },
- {
-  "full_name": "Ouida",
-  "alternative_names": [
-   "Marie Louise Ramé",
-   "Marie Louise de la Ramée",
-   "Louise de la Ramée"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1839",
-  "birth_date_approximate": false,
-  "death_date": "1908",
-  "death_date_approximate": false,
-  "birthplace": "Bury St Edmunds, Suffolk, England",
-  "nationality_or_literary_tradition": "English; the three-decker romance and the novel of high life",
-  "literary_identity": "Novelist; the most extravagant and widely read romance writer of the 1870s-80s, and a genuine critic of Victorian smugness.",
-  "biography": "Born Marie Louise Ramé at Bury St Edmunds on 1 January 1839, the daughter of a French father and an English mother; she adopted the pen name Ouida from her childish pronunciation of 'Louisa'. She lived from the 1860s in London and after 1874 mostly in Italy, at Florence and Lucca, surrounding herself with dogs and writing in bed. Under Two Flags (1867) made her the highest-paid novelist of her day; her later books attacked vivisection, the English treatment of Italy, and the vanity of the aristocratic world, and she died poor at Viareggio on 25 January 1908.",
-  "literary_profile": "Ouida wrote the romance of excess: guardsmen, Italian patriots, aristocratic women, horses and dogs, all rendered in a shimmering, extravagant prose that her admirers called poetry and her critics called nonsense. But the extravagance is a critique as well as an indulgence: her novels attack the marriage market, the cruelty of the English ruling class and (in the animal books) vivisection, and she was one of the very few popular novelists of the period to write seriously about animals as moral subjects.",
-  "stylistic_characteristics": "Highly coloured, rhythmic prose; the gorgeous inventory of dress, furniture and landscape; heroic and often doomed heroes; the glamour of the foreign and the aristocratic; interpolated moral tirades; sentiment about animals, especially dogs.",
-  "intellectual_concerns": "Love against social convention; aristocratic honour and its decay; Italy and the English abroad; the position of women in the marriage market; animal suffering and vivisection; the morality of the beautiful.",
-  "historical_significance": "Ouida was the most popular English novelist of the 1870s and one of the most influential stylists of the romance for the next generation; her animal novels were a real force in the anti-vivisection movement, and her Italian stories shaped the English image of the Risorgimento. Her reputation collapsed in the twentieth century, but she is now read again as a writer about gender, nationality and animal ethics.",
-  "major_influences": [
-   "Edward Bulwer-Lytton",
-   "Benjamin Disraeli",
-   "George Sand",
-   "Walter Scott",
-   "Victor Hugo"
-  ],
-  "biographical_uncertainty": "35 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1867 and 1880.",
-  "research_status": "complete",
-  "significance_tier": "Minor / lesser-known",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Held in Bondage (1863); Strathmore (1865); Chandos (1866); Cecil Castlemaine's Gage (1867); Under Two Flags (1867); Tricotrin (1869); Puck (1870); Folle-Farine (1871); A Dog of Flanders (1872); Pascarèl (1873); Two Little Wooden Shoes (1874); Signa (1875); In a Winter City (1876); Ariadne (1877); Friendship (1878); Moths (1880); Pipistrello (1880); A Village Commune (1881); In Maremma (1882); Wanda (1883); Princess Napraxine (1884); Othmar (1885); A House Party (1887); Guilderoy (1889); Syrlin (1890); Santa Barbara (1891); The Tower of Taddeo (1892); The Silver Christ (1894); The Nürnberg Stove (1895); Le Selve (1896); La Strega (1899); The Massarenes (1897); Street Dust (1901); Critical Studies (1900); Helianthus (1908, posthumous)."
  }
 ]

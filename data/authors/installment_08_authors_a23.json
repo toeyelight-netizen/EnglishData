@@ -1,5 +1,32 @@
 [
  {
+  "full_name": "Richard Hurrell Froude",
+  "alternative_names": [],
+  "pseudonyms": [],
+  "birth_date": "1803",
+  "birth_date_approximate": false,
+  "death_date": "1836",
+  "death_date_approximate": false,
+  "birthplace": "Dartington, Devon, England",
+  "nationality_or_literary_tradition": "English; the Oxford Movement and Victorian religious prose",
+  "literary_identity": "Priest, fellow of Oriel and Tractarian controversialist; the ascetic and fiery early influence of the Oxford Movement, whose Remains became the scandal and the manifesto of the Tracts.",
+  "biography": "Born at Dartington on 25 March 1803, son of the archdeacon of Totnes; educated at Eton and Oriel College, Oxford, where he became a fellow in 1826 and met Newman and Keble. He wrote some of the first Tracts for the Times, travelled with Newman in the Mediterranean in 1832-33 (where the poems of Lyra Apostolica were written), and was perpetually ill; he was ordained in 1829 and appointed archdeacon of Totnes in 1830. He died of tuberculosis at Dartington on 28 February 1836, aged thirty-two. Newman published his Remains in 1838-39, and their extreme opinions on the Reformation caused a controversy that helped both to define and to divide the Oxford Movement.",
+  "literary_profile": "Froude supplied the Oxford Movement with its ascetic ideal and its historical theory: he was a High Churchman who believed the Church of England had been corrupted at the Reformation, and his biography of Becket set the martyr and the king in the pattern that his successors repeated. The Remains, with their journals and letters, present a personality of radical earnestness and self-mortification, and their publication was the moment at which the movement's extreme wing became visible.",
+  "stylistic_characteristics": "Personal journals and letters as devotional documents; unqualified assertion and the polemical aside; a historical argument that treats the Reformation as a national apostasy; the aphorism and the ascetic self-examination.",
+  "intellectual_concerns": "The authority of the Church against the state; apostolic succession and the eucharistic sacrifice; asceticism, fasting and celibacy; the corruption of the sixteenth-century settlement; the relation of the Anglican Church to Rome.",
+  "historical_significance": "Froude's Remains made the Oxford Movement visible as a party and provoked the critical reaction that produced the 1841 Tract 90 crisis and, finally, Newman's secession. He is the movement's intimate historian, and his influence on Newman, Keble and Pusey was the decisive personal influence of its first decade.",
+  "major_influences": [
+   "John Keble",
+   "John Henry Newman",
+   "Bishop Ken",
+   "Thomas Scott"
+  ],
+  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "research_status": "complete",
+  "significance_tier": "Minor / lesser-known",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Lyra Apostolica (contributor, 1836); Tracts for the Times, no. 4 and no. 9 (1833); Remains of the Late Reverend Richard Hurrell Froude (posthumous, 2 vols, 1838-39); The Life of the Blessed St Thomas Becket (in the Remains); Sermons and correspondence (in the Remains)."
+ },
+ {
   "full_name": "Wilkie Collins",
   "alternative_names": [
    "William Wilkie Collins"
@@ -212,36 +239,5 @@
   "research_status": "complete",
   "significance_tier": "Major / canonical",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Duties of Clerks of Petty Sessions in Ireland (1879); Under the Sunset (stories, 1881); The Snake's Pass (1890); The Shoulder of Shasta (1895); Dracula (1897); Miss Betty (1898); The Mystery of the Sea (1902); The Jewel of Seven Stars (1903); The Man (1905); Personal Reminiscences of Henry Irving (1906); The Lady of the Shroud (1909); Famous Impostors (1910); The Lair of the White Worm (1911); Dracula's Guest and Other Weird Stories (posthumous, 1914)."
- },
- {
-  "full_name": "Arthur Conan Doyle",
-  "alternative_names": [
-   "Sir Arthur Conan Doyle",
-   "A. Conan Doyle"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1859",
-  "birth_date_approximate": false,
-  "death_date": "1930",
-  "death_date_approximate": false,
-  "birthplace": "Edinburgh, Scotland",
-  "nationality_or_literary_tradition": "Scottish; the Victorian detective story and historical romance",
-  "literary_identity": "Physician and writer; the creator of Sherlock Holmes and the founder of the modern detective story.",
-  "biography": "Born in Edinburgh on 22 May 1859 into an Irish Catholic family of artists; educated at Stonyhurst and the University of Edinburgh, where he qualified in medicine in 1881. He practised as a ship's surgeon and then in Southsea, and published A Study in Scarlet in Beeton's Christmas Annual in 1887; the Holmes stories were commissioned by the Strand Magazine from 1891, and the character became a national institution, which Doyle attempted to kill off in 1893 and was forced to revive in 1903. The historical novels Micah Clarke (1889), The White Company (1891), Rodney Stone (1896) and Sir Nigel (1906), the Brigadier Gerard stories and The Lost World (1912) show the range he claimed for himself. He served as a volunteer physician in the Boer War, wrote The Great Boer War (1900) and The War in South Africa (1902), and campaigned for spiritualism for the last twenty years of his life. He died at Crowborough, Sussex, on 7 July 1930.",
-  "literary_profile": "Doyle invented the detective story as a modern genre: the Holmes stories are constructed as a problem and a solution, with a narrator who is intelligent but not deductive, and a detective whose method is observation combined with an encyclopedia of specialised knowledge. The stories are also a document of late-Victorian London — the hansom, the gaslight, the chemical laboratory, the colonial return, the country house and the bank — and their form (the short story sequence with a stable pair of characters) became the template of the modern series.",
-  "stylistic_characteristics": "The clue and the deduction; the Watson narrator as the reader's stand-in; the opening problem and the explanatory retrospect; the adventure story's energy and the historical novel's scholarship; the plain, lucid narrative prose; the repertory of characters and the mythical London.",
-  "intellectual_concerns": "Rationality and method against mystery; crime, class and the colonial fortune; the imperial frontier and the war; honour, courage and the gentleman; the supernatural (in his later work) against the scientific; the professional man and his expertise.",
-  "historical_significance": "Doyle created the most famous character in English fiction and the form of the modern detective story: Holmes and Watson are the origin of the mystery series, and the Holmes canon is a central document of Victorian London. His historical novels were considered by their author his best work, and The Lost World founded the modern science-fiction adventure.",
-  "major_influences": [
-   "Edgar Allan Poe",
-   "Walter Scott",
-   "Wilkie Collins",
-   "Robert Louis Stevenson",
-   "Émile Gaboriau"
-  ],
-  "biographical_uncertainty": "23 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1887 and 1912.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Study in Scarlet (1887); Micah Clarke (1889); The Sign of Four (1890); The White Company (1891); The Adventures of Sherlock Holmes (1892); The Memoirs of Sherlock Holmes (1894); The Stark Munro Letters (1895); Rodney Stone (1896); The Exploits of Brigadier Gerard (1896); Uncle Bernac (1897); The Tragedy of the Korosko (1898); The Hound of the Baskervilles (1902); The Return of Sherlock Holmes (1905); Sir Nigel (1906); The Lost World (1912); The Poison Belt (1913); The Valley of Fear (1915); His Last Bow (1917); The Case-Book of Sherlock Holmes (1927); The History of Spiritualism (1926); The Great Boer War (1900); Through the Magic Door (1907); Memories and Adventures (autobiography, 1924)."
  }
 ]

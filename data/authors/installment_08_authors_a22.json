@@ -1,5 +1,34 @@
 [
  {
+  "full_name": "John Ruskin",
+  "alternative_names": [],
+  "pseudonyms": [],
+  "birth_date": "1819",
+  "birth_date_approximate": false,
+  "death_date": "1900",
+  "death_date_approximate": false,
+  "birthplace": "London, England",
+  "nationality_or_literary_tradition": "English; Victorian art criticism and political economy",
+  "literary_identity": "Art critic, draughtsman, and social critic; the greatest English writer on art and the Victorian critic who turned from pictures to the political economy of labour.",
+  "biography": "Born in London on 8 February 1819, the only child of a wealthy sherry merchant; educated privately and at Christ Church, Oxford, where he won the Newdigate prize in 1839. His mother moved with him to Oxford and read the Bible with him daily; his father financed the publication of Modern Painters I (1843), which defended Turner against the critics. He married Euphemia Gray in 1848; the marriage was annulled in 1854 after a famous and unhappy failure. The Stones of Venice (1851-53) established his reputation for architectural history, and from Unto This Last (1860, in the Cornhill) he turned to political economy and to the critique of Victorian capitalism. He was Slade Professor of Fine Art at Oxford from 1869 to 1879 and again in 1883-85, founded the Guild of St George (1871), published Fors Clavigera as letters to working men from 1871 to 1884, and suffered repeated mental breakdowns. He died at Brantwood, Coniston, on 20 January 1900.",
+  "literary_profile": "Ruskin changed the way the Victorian age looked at art. His criticism begins with the truth to nature of the Pre-Raphaelites and Turner, passes to the moral and social analysis of architecture (the Stones of Venice's chapter 'The Nature of Gothic' makes the labour of the craftsman the test of art), and ends in a complete indictment of industrial capitalism as a system of slavery and ugliness. His prose is the most magnificent of Victorian descriptive writing — simple declarative sentences in the early work, and a wilder, evangelical, exclamatory manner in the late letters — and his method is always the accumulation of observed detail followed by a moral judgement that is both aesthetic and economic.",
+  "stylistic_characteristics": "Precise, patient description of natural fact; the moral interpretation of ornament and building; direct address and personal confession; an apparently artless simplicity that carries a religious intensity; the letter form and the aphorism; the coined phrase ('the pathetic fallacy', 'the illth', 'There is no wealth but life').",
+  "intellectual_concerns": "Truth to nature and the moral meaning of art; the relation of the artist's society to the art he makes; labour, craft and the dignity of the hand; the political economy of wealth and 'illth'; education and the reading of pictures; the destruction of the landscape by industry and tourism; the preservation of the past; the education of the working man.",
+  "historical_significance": "Ruskin is the central English art critic and the origin of the idea that a society can be judged by its buildings. 'The Nature of Gothic' taught Morris and the Arts and Crafts movement that art was labour; Unto This Last gave the Labour movement and the founders of the British welfare state (Attlee and the Webbs) their moral vocabulary; the Pre-Raphaelites took their programme from him, and Pater, Wilde and the Aesthetic movement defined themselves by turning his moral criticism into an aesthetic one.",
+  "major_influences": [
+   "William Wordsworth",
+   "J. M. W. Turner",
+   "Thomas Carlyle",
+   "John Constable",
+   "John James Ruskin (his father)",
+   "Dante Alighieri"
+  ],
+  "biographical_uncertainty": "1 of the 6 works catalogued here carry a research status of 'partial' - Praeterita: Outlines of Scenes and Thoughts Perhaps Worthy of Memory in My Past Life - and are reported only so far as the evidence allows. 37 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems (privately printed 1835); The Poetry of Architecture (1837-38); Modern Painters I (1843); II (1846); III (1856); IV (1856); V (1860); The Seven Lamps of Architecture (1849); The Stones of Venice (3 vols, 1851-53); Notes on the Construction of Sheepfolds (1851); Lectures on Architecture and Painting (1854); The Elements of Drawing (1857); Political Economy of Art (1857); The Two Paths (1859); Unto This Last (Cornhill 1860; book 1862); Munera Pulveris (1862-63); Sesame and Lilies (1865); The Ethics of the Dust (1866); The Crown of Wild Olive (1866); Time and Tide (1867); The Queen of the Air (1869); Lectures on Art (1870); Fors Clavigera: Letters to the Workmen and Labourers of Great Britain (8 vols, 1871-84); Munera Pulveris (1872); Ariadne Florentina (1872-76); Mornings in Florence (1875-77); Proserpina (1875-86); Deucalion (1875-83); St Mark's Rest (1877-84); The Laws of Fesole (1877-79); Fiction, Fair and Foul (1880); The Bible of Amiens (1880-85); The Storm-Cloud of the Nineteenth Century (1884); Praeterita (1885-89, unfinished autobiography); Hortus Inclusus (1887); The Art of England (1883)."
+ },
+ {
   "full_name": "John Stuart Mill",
   "alternative_names": [
    "J. S. Mill"
@@ -202,32 +231,5 @@
   "biographical_uncertainty": "Her authorship and her influence on Mill have been much disputed since the nineteenth century. The attribution of The Enfranchisement of Women is established by Mill's papers and by the Westminster Review's records; the extent of her share in On Liberty and The Subjection of Women is argued by Hayek, Rossi and Jacobs, and the honest position is that the exact division of labour cannot be documented.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary"
- },
- {
-  "full_name": "Richard Hurrell Froude",
-  "alternative_names": [],
-  "pseudonyms": [],
-  "birth_date": "1803",
-  "birth_date_approximate": false,
-  "death_date": "1836",
-  "death_date_approximate": false,
-  "birthplace": "Dartington, Devon, England",
-  "nationality_or_literary_tradition": "English; the Oxford Movement and Victorian religious prose",
-  "literary_identity": "Priest, fellow of Oriel and Tractarian controversialist; the ascetic and fiery early influence of the Oxford Movement, whose Remains became the scandal and the manifesto of the Tracts.",
-  "biography": "Born at Dartington on 25 March 1803, son of the archdeacon of Totnes; educated at Eton and Oriel College, Oxford, where he became a fellow in 1826 and met Newman and Keble. He wrote some of the first Tracts for the Times, travelled with Newman in the Mediterranean in 1832-33 (where the poems of Lyra Apostolica were written), and was perpetually ill; he was ordained in 1829 and appointed archdeacon of Totnes in 1830. He died of tuberculosis at Dartington on 28 February 1836, aged thirty-two. Newman published his Remains in 1838-39, and their extreme opinions on the Reformation caused a controversy that helped both to define and to divide the Oxford Movement.",
-  "literary_profile": "Froude supplied the Oxford Movement with its ascetic ideal and its historical theory: he was a High Churchman who believed the Church of England had been corrupted at the Reformation, and his biography of Becket set the martyr and the king in the pattern that his successors repeated. The Remains, with their journals and letters, present a personality of radical earnestness and self-mortification, and their publication was the moment at which the movement's extreme wing became visible.",
-  "stylistic_characteristics": "Personal journals and letters as devotional documents; unqualified assertion and the polemical aside; a historical argument that treats the Reformation as a national apostasy; the aphorism and the ascetic self-examination.",
-  "intellectual_concerns": "The authority of the Church against the state; apostolic succession and the eucharistic sacrifice; asceticism, fasting and celibacy; the corruption of the sixteenth-century settlement; the relation of the Anglican Church to Rome.",
-  "historical_significance": "Froude's Remains made the Oxford Movement visible as a party and provoked the critical reaction that produced the 1841 Tract 90 crisis and, finally, Newman's secession. He is the movement's intimate historian, and his influence on Newman, Keble and Pusey was the decisive personal influence of its first decade.",
-  "major_influences": [
-   "John Keble",
-   "John Henry Newman",
-   "Bishop Ken",
-   "Thomas Scott"
-  ],
-  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
-  "research_status": "complete",
-  "significance_tier": "Minor / lesser-known",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Lyra Apostolica (contributor, 1836); Tracts for the Times, no. 4 and no. 9 (1833); Remains of the Late Reverend Richard Hurrell Froude (posthumous, 2 vols, 1838-39); The Life of the Blessed St Thomas Becket (in the Remains); Sermons and correspondence (in the Remains)."
  }
 ]

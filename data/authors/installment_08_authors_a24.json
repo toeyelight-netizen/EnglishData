@@ -1,5 +1,36 @@
 [
  {
+  "full_name": "Arthur Conan Doyle",
+  "alternative_names": [
+   "Sir Arthur Conan Doyle",
+   "A. Conan Doyle"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1859",
+  "birth_date_approximate": false,
+  "death_date": "1930",
+  "death_date_approximate": false,
+  "birthplace": "Edinburgh, Scotland",
+  "nationality_or_literary_tradition": "Scottish; the Victorian detective story and historical romance",
+  "literary_identity": "Physician and writer; the creator of Sherlock Holmes and the founder of the modern detective story.",
+  "biography": "Born in Edinburgh on 22 May 1859 into an Irish Catholic family of artists; educated at Stonyhurst and the University of Edinburgh, where he qualified in medicine in 1881. He practised as a ship's surgeon and then in Southsea, and published A Study in Scarlet in Beeton's Christmas Annual in 1887; the Holmes stories were commissioned by the Strand Magazine from 1891, and the character became a national institution, which Doyle attempted to kill off in 1893 and was forced to revive in 1903. The historical novels Micah Clarke (1889), The White Company (1891), Rodney Stone (1896) and Sir Nigel (1906), the Brigadier Gerard stories and The Lost World (1912) show the range he claimed for himself. He served as a volunteer physician in the Boer War, wrote The Great Boer War (1900) and The War in South Africa (1902), and campaigned for spiritualism for the last twenty years of his life. He died at Crowborough, Sussex, on 7 July 1930.",
+  "literary_profile": "Doyle invented the detective story as a modern genre: the Holmes stories are constructed as a problem and a solution, with a narrator who is intelligent but not deductive, and a detective whose method is observation combined with an encyclopedia of specialised knowledge. The stories are also a document of late-Victorian London — the hansom, the gaslight, the chemical laboratory, the colonial return, the country house and the bank — and their form (the short story sequence with a stable pair of characters) became the template of the modern series.",
+  "stylistic_characteristics": "The clue and the deduction; the Watson narrator as the reader's stand-in; the opening problem and the explanatory retrospect; the adventure story's energy and the historical novel's scholarship; the plain, lucid narrative prose; the repertory of characters and the mythical London.",
+  "intellectual_concerns": "Rationality and method against mystery; crime, class and the colonial fortune; the imperial frontier and the war; honour, courage and the gentleman; the supernatural (in his later work) against the scientific; the professional man and his expertise.",
+  "historical_significance": "Doyle created the most famous character in English fiction and the form of the modern detective story: Holmes and Watson are the origin of the mystery series, and the Holmes canon is a central document of Victorian London. His historical novels were considered by their author his best work, and The Lost World founded the modern science-fiction adventure.",
+  "major_influences": [
+   "Edgar Allan Poe",
+   "Walter Scott",
+   "Wilkie Collins",
+   "Robert Louis Stevenson",
+   "Émile Gaboriau"
+  ],
+  "biographical_uncertainty": "23 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1887 and 1912.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Study in Scarlet (1887); Micah Clarke (1889); The Sign of Four (1890); The White Company (1891); The Adventures of Sherlock Holmes (1892); The Memoirs of Sherlock Holmes (1894); The Stark Munro Letters (1895); Rodney Stone (1896); The Exploits of Brigadier Gerard (1896); Uncle Bernac (1897); The Tragedy of the Korosko (1898); The Hound of the Baskervilles (1902); The Return of Sherlock Holmes (1905); Sir Nigel (1906); The Lost World (1912); The Poison Belt (1913); The Valley of Fear (1915); His Last Bow (1917); The Case-Book of Sherlock Holmes (1927); The History of Spiritualism (1926); The Great Boer War (1900); Through the Magic Door (1907); Memories and Adventures (autobiography, 1924)."
+ },
+ {
   "full_name": "Herbert George Wells",
   "alternative_names": [
    "H. G. Wells"
@@ -208,36 +239,5 @@
   "research_status": "complete",
   "significance_tier": "Major / canonical",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Franklin Evans; or, The Inebriate (novel, 1842); Leaves of Grass (1855; nine editions to 1891-92); Drum-Taps (1865); Sequel to Drum-Taps (1865-66, including 'When Lilacs Last in the Dooryard Bloom'd'); Democratic Vistas (1871); Passage to India (1871); As a Strong Bird on Pinions Free (1872); Memoranda During the War (1875-76); Two Rivulets (1876); Specimen Days (1882); November Boughs (1888); Good-Bye My Fancy (1891); The Complete Prose Works (1892); The Collected Writings (1961-, posthumous)."
- },
- {
-  "full_name": "Emily Dickinson",
-  "alternative_names": [
-   "Emily Elizabeth Dickinson"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1830",
-  "birth_date_approximate": false,
-  "death_date": "1886",
-  "death_date_approximate": false,
-  "birthplace": "Amherst, Massachusetts, United States",
-  "nationality_or_literary_tradition": "American; the lyric, the riddle and the poetry of the inner life",
-  "literary_identity": "Poet; one of the two or three greatest lyric poets in English, and the central woman poet of the nineteenth century.",
-  "biography": "Born in Amherst, Massachusetts, on 10 December 1830, the daughter of a lawyer and congressman; she was educated at Amherst Academy and Mount Holyoke Female Seminary, which she left after a year. She lived almost entirely in her father's house, increasingly withdrawn after 1861, dressed in white, and conducted her closest relationships by letter. She wrote nearly 1,800 poems, sewn into fascicles, and published fewer than a dozen in her lifetime. She died in Amherst on 15 May 1886; the first collection appeared in 1890.",
-  "literary_profile": "Dickinson wrote the lyric of extreme compression: her poems are short, usually rhymed in ballad or hymn stanzas, and organised around a single image or a riddle that the reader must solve. She writes about death, immortality, the mind, nature, love and fame with a wit and a metaphysical daring unmatched in American poetry, and her dashes, capitals and slant rhymes create a syntax of hesitation that is entirely her own.",
-  "stylistic_characteristics": "Hymn and ballad measures broken by slant rhyme and irregular stress; dashes in place of punctuation; capitalised nouns; riddling circumlocution for the central subject; paradox and irony; the poem as a single compressed argument.",
-  "intellectual_concerns": "Death and immortality; the mind and its power; nature and the seasons; love, renunciation and absence; religious doubt and the Calvinist inheritance; fame, publication and the woman artist.",
-  "historical_significance": "Dickinson is one of the greatest poets in English and the founder of a distinctively American lyric of the inward life: her influence on twentieth-century poetry is as large as Whitman's, and the recovery of her manuscripts has made her a central figure in the criticism of gender, religion and American poetics.",
-  "major_influences": [
-   "Ralph Waldo Emerson",
-   "Isaac Watts",
-   "William Shakespeare",
-   "John Keats",
-   "Elizabeth Barrett Browning",
-   "Charlotte Brontë"
-  ],
-  "biographical_uncertainty": "3 of the 5 works catalogued here carry a research status of 'partial' - Poems by Emily Dickinson; Poems, Second Series; Poems: Third Series - and are reported only so far as the evidence allows. 10 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems by Emily Dickinson (1890, posthumous, ed. Higginson and Todd); Poems, Second Series (1891, posthumous); Poems, Third Series (1896, posthumous); The Single Hound (1914, posthumous); Further Poems (1929, posthumous); Bolts of Melody (1945, posthumous); The Poems of Emily Dickinson, 3 vols (1955, ed. Johnson); The Manuscript Books of Emily Dickinson (1981); The Letters (1958, 3 vols); The Gorgeous Nothings (facsimile fascicles, 2013)."
  }
 ]

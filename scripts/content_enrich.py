@@ -2213,8 +2213,11 @@ def compose_bibliography(w, author):
         if comp:
             lo = comp[0] if isinstance(comp, (list, tuple)) else comp
             hi = comp[1] if isinstance(comp, (list, tuple)) and len(comp) > 1 else None
-            parts.append(("Composed between %s and %s" % (lo, hi)) if hi and hi != lo
-                         else ("Composed in %s" % lo))
+            if not lo:
+                lo, hi = hi, None
+            if lo:
+                parts.append(("Composed between %s and %s" % (lo, hi)) if hi and hi != lo
+                             else ("Composed in %s" % lo))
         if perf and pub:
             parts.append("first performed in %s" % perf)
         if not parts:
