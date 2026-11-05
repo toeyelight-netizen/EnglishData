@@ -637,6 +637,7 @@ def year_of(w):
 # of the sentence. Anything not listed falls back to its family.
 GENRE_REGISTER = {
     # --- verse
+    "Epic and the Long Philosophical Poem": "Verse of the long poem: blank verse or a sustained narrative measure, the extended simile and the long verse paragraph, carried across books or parts.",
     "Pastoral Elegy and the Mourning Sequence": "Verse in the elegiac mode: the mourning stanzas run in a repeated stanzaic pattern, the line is long enough to carry the lament and the apostrophe, and the movement is from grief to the consolation or the refusal of consolation that closes the sequence.",
     "Dramatic Monologue and Masked Lyric": "Verse in the monologue: a single speaker, not the poet, addresses a silent listener, and the metre is loose enough to carry colloquial interruption, self-betrayal and the aside, while the rhyme scheme holds the argument together.",
     "Idyll and Domestic Narrative Poem": "Verse narrative in the idyll: blank verse or a regular stanza carries a domestic or rural action told at length, with set-piece description, reported dialogue and a closing reflective passage.",
@@ -764,7 +765,8 @@ _FAMILY_WORDS = (
                    r"recollections|surveys?|tracts?|chronicles?|accounts?|guides?|"
                    r"handbooks?|dictionar(?:y|ies)|translations?|commentar(?:y|ies)"),
     ("fiction", r"novels?|novellas?|novelettes?|stor(?:y|ies)|tales?|romances?|"
-                r"sketch(?:es)?|fiction|fables?|fantas(?:y|ies)|narratives?"),
+                r"sketch(?:es)?|fiction|fables?|fantas(?:y|ies)|narratives?|legends?|"
+                r"sagas?|parables?|allegor(?:y|ies)"),
 )
 _FAMILY_RX = [(fam, re.compile(r"\b(?:%s)\b" % words)) for fam, words in _FAMILY_WORDS]
 # Compounds whose family differs from their head noun, checked first.
@@ -785,7 +787,7 @@ _FAMILY_COMPOUNDS = (
                               r"narratives?\b|\btravel (?:book|writing|sketch(?:es)?)\b"
                               r"|\bhistorical (?:prose )?narratives?\b")),
 )
-_FAMILY_SPLIT = re.compile(r"\b(?:of|in|with|for|by|from|on|about|after|to)\b|[,:;]| and ")
+_FAMILY_SPLIT = re.compile(r"\b(?:of|in|with|for|by|from|on|about|after|to)\b|[,:;/]| and ")
 
 
 # "narrative" and "sketch" name prose without settling fiction against
@@ -795,8 +797,19 @@ _WEAK_FICTION = re.compile(r"\b(?:narratives?|sketch(?:es)?)\b")
 
 
 def _form_family_detail(text):
-    """(family, weak) named by one form or genre string; family may be None."""
-    s = re.sub(r"\([^)]*\)|'[^']*'|\"[^\"]*\"", " ", (text or "").lower())
+    """(family, weak) named by one form or genre string; family may be None.
+
+    Parenthetical and quoted matter is ignored unless the rest names no family:
+    "Novel (first of 'The Epic of the Wheat')" is a novel, but "Prose (regimental
+    memoir)" is decided by its parenthesis."""
+    low = (text or "").lower()
+    fam, weak = _family_of(re.sub(r"\([^)]*\)|'[^']*'|\"[^\"]*\"", " ", low))
+    if fam is None:
+        fam, weak = _family_of(re.sub(r"[()]", " ", low))
+    return fam, weak
+
+
+def _family_of(s):
     for fam, rx in _FAMILY_COMPOUNDS:
         if rx.search(s):
             return fam, False
@@ -808,9 +821,17 @@ def _form_family_detail(text):
     for part in rest:
         hits = [(m.start(), m.group(), fam) for fam, rx in _FAMILY_RX for m in rx.finditer(part)]
         if hits:
-            _, word, fam = min(hits)  # first family word of the qualifier: "collection of stories"
+            _, word, fam = max(hits)  # "collection of stories", "expressionist and epic drama"
             return fam, bool(_WEAK_FICTION.fullmatch(word))
     return None, False
+
+
+PROSE = ("fiction", "nonfiction")
+# A verse form naming several pieces is a collection; otherwise a single poem,
+# narrative when the form says so.
+_COLLECTION_FORM = re.compile(r"\b(?:collections?|collected|selected|poems|verses|lyrics|songs|sonnets|"
+                              r"ballads|hymns|odes|sequence|anthology|rhymes|book of)\b", re.I)
+_NARRATIVE_FORM = re.compile(r"\b(?:narrative|epic|books?|cantos?|idylls?|romance|tale|ballad|story|fits?)\b", re.I)
 
 
 def _form_family(text):
@@ -819,16 +840,28 @@ def _form_family(text):
 
 
 def family(form, genres):
+    """verse / drama / fiction / nonfiction for a work.
+
+    The form decides when it names a family by a definite word. Otherwise the
+    genres are read in order (primary first): a genre named only by "sketch" or
+    "narrative" marks the work as prose without settling which kind, so it does
+    not stop a later definite genre, and a later verse or drama genre cannot
+    overrule it."""
     fam, weak = _form_family_detail(form)
     if fam and not weak:
         return fam
+    prose = fam
     for gname in genres or []:
-        gfam = _form_family(gname)
-        if gfam:
-            if not fam or gfam == "nonfiction":
-                return gfam
-            break
-    return fam or "nonfiction"
+        gfam, gweak = _form_family_detail(gname)
+        if not gfam:
+            continue
+        if gweak:
+            prose = prose or gfam
+            continue
+        if prose and gfam in ("verse", "drama"):
+            continue
+        return gfam
+    return prose or "nonfiction"
 
 
 def _style_clause(author):
@@ -866,7 +899,8 @@ def compose_meter(w, author):
         # A genre of another family would describe the wrong medium (a comic
         # novel tagged "Nonsense Verse" must not get "Verse of regular comic
         # metre"); genres that name no family are usable for any work.
-        if gname in GENRE_REGISTER and _form_family(gname) in (None, fam):
+        gfam, gweak = _form_family_detail(gname)
+        if gname in GENRE_REGISTER and (gfam in (None, fam) or (gweak and fam in PROSE)):
             reg = GENRE_REGISTER[gname]
             break
     if reg is None:
@@ -1153,6 +1187,7 @@ def enrich_authors(authors, works_by_author):
 # and 10, and they no longer claim facts the record does not carry.
 
 STRUCT_BY_GENRE = (
+    ("Epic and the Long Philosophical Poem", "A long poem in books or parts, its narrative or its argument carried continuously from the statement of its subject to its close."),
     ("Idyll and Domestic Narrative Poem", "A sequence of narrative idylls, each a self-contained story in verse, bound into one continuous argument by the recurring figures and the closing book."),
     ("Sonnet Revival and Sequenced Sonnet", "A sequence of sonnets, each complete in fourteen lines, reading as a continuous argument or a continuous story of feeling when taken in order."),
     ("Pastoral Elegy and the Mourning Sequence", "An elegiac sequence: the stanzas repeat the mourning pattern, and the poem moves from the news of the death, through the lament and the questioning, to the consolation or the refusal of consolation."),
@@ -1566,7 +1601,7 @@ def compose_structure(w):
         # A genre whose own family contradicts the work's form (a poetry
         # collection also tagged as a lecture, a novel tagged as a survey) may
         # not dictate the structure sentence.
-        if _genre_family(gname) != fam:
+        if _genre_family(gname) != fam and not (_form_family_detail(gname)[1] and fam in PROSE):
             continue
         for key, sent in STRUCT_BY_GENRE:
             if key.lower() in gname.lower() and sent not in parts:
@@ -1574,6 +1609,10 @@ def compose_structure(w):
                 break
         if len(parts) >= 2:
             break
+    if not parts and fam == "verse" and not _COLLECTION_FORM.search(form):
+        parts.append("A single continuous narrative poem, its action carried from the opening situation to the close."
+                     if _NARRATIVE_FORM.search(form) else
+                     "A single poem, read as one continuous whole from its opening to its close.")
     if not parts:
         parts.append({"verse": "A collection of separate poems rather than a continuous narrative; the pieces stand alone and are commonly read individually.",
                       "drama": "The play is divided into acts and scenes, the dialogue carrying the whole of the action.",
@@ -1638,7 +1677,7 @@ def compose_description_extra(w, author):
         tail.append("it belongs to %s" % movs[0])
     gs = w.get("genres") or []
     if gs:
-        tail.append("it is catalogued here under %s" % "; ".join(g.lower() for g in gs[:2]))
+        tail.append("it is catalogued here under %s" % "; ".join(gs[:2]))
     canon = w.get("canon")
     if canon and canon != "Secondary canon":
         tail.append("the record grades it as %s" % canon.lower())

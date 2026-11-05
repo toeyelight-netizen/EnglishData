@@ -390,12 +390,14 @@ def main():
                 "contribution_type": w.get("contribution_type", "author") if i == 0
                 else w.get("coauthor_type", "author"),
             })
+        # dict.fromkeys: an order-keeping de-duplication (a theme name split
+        # at its own commas resolves once per fragment in the source helpers)
         if w.get("genres"):
-            work_genres.append({"work": w["title"], "genres": list(w["genres"])})
+            work_genres.append({"work": w["title"], "genres": list(dict.fromkeys(w["genres"]))})
         if w.get("themes"):
-            work_themes.append({"work": w["title"], "themes": list(w["themes"])})
+            work_themes.append({"work": w["title"], "themes": list(dict.fromkeys(w["themes"]))})
         if w.get("movements"):
-            work_movements.append({"work": w["title"], "movements": list(w["movements"])})
+            work_movements.append({"work": w["title"], "movements": list(dict.fromkeys(w["movements"]))})
         for name in aus:
             a = all_authors.get(name)
             if a is None:
