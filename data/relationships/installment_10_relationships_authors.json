@@ -53,6 +53,16 @@
    ]
   },
   {
+   "author": "Dorothy West",
+   "genres": [
+    "Domestic Fiction",
+    "Family Saga",
+    "Personal Essay",
+    "Short-Story Collection",
+    "Social Novel"
+   ]
+  },
+  {
    "author": "Gabriel Okara",
    "genres": [
     "Adventure Fiction",
@@ -95,6 +105,14 @@
     "Political Novel",
     "Satirical Fiction",
     "Social Criticism"
+   ]
+  },
+  {
+   "author": "John Horne Burns",
+   "genres": [
+    "Literary Novel",
+    "Satirical Fiction",
+    "War Novel"
    ]
   },
   {
@@ -158,6 +176,12 @@
    ]
   },
   {
+   "author": "Ross Lockridge Jr.",
+   "genres": [
+    "Historical Novel"
+   ]
+  },
+  {
    "author": "Samuel Selvon",
    "genres": [
     "Bildungsroman",
@@ -171,6 +195,19 @@
     "Short-Story Collection",
     "Social Novel",
     "Television Drama"
+   ]
+  },
+  {
+   "author": "Thomas Heggen",
+   "genres": [
+    "War Novel"
+   ]
+  },
+  {
+   "author": "William Gardner Smith",
+   "genres": [
+    "Political Novel",
+    "Social Novel"
    ]
   }
  ],
@@ -194,6 +231,10 @@
    ]
   },
   {
+   "author": "Dorothy West",
+   "movements": []
+  },
+  {
    "author": "Gabriel Okara",
    "movements": [
     "African Literature in English"
@@ -208,6 +249,10 @@
   },
   {
    "author": "George Orwell",
+   "movements": []
+  },
+  {
+   "author": "John Horne Burns",
    "movements": []
   },
   {
@@ -235,10 +280,24 @@
    ]
   },
   {
+   "author": "Ross Lockridge Jr.",
+   "movements": []
+  },
+  {
    "author": "Samuel Selvon",
    "movements": [
     "Black British Writing and the Windrush Generation",
     "Caribbean Literature in English"
+   ]
+  },
+  {
+   "author": "Thomas Heggen",
+   "movements": []
+  },
+  {
+   "author": "William Gardner Smith",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   }
  ],
@@ -287,6 +346,17 @@
     "The city, the suburb and modern space",
     "Violence, crime and justice",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Dorothy West",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -340,6 +410,17 @@
     "Power, the state and surveillance",
     "Technology, media and consumer society",
     "Utopia, dystopia and imagined futures",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "John Horne Burns",
+   "themes": [
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss",
+    "Power, the state and surveillance",
+    "Sexuality, desire and the closet",
     "War, combat and its aftermath"
    ]
   },
@@ -420,6 +501,15 @@
    ]
   },
   {
+   "author": "Ross Lockridge Jr.",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
    "author": "Samuel Selvon",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -435,6 +525,25 @@
     "Race, racism and the struggle for civil rights",
     "Technology, media and consumer society",
     "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Thomas Heggen",
+   "themes": [
+    "Power, the state and surveillance",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "William Gardner Smith",
+   "themes": [
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The Holocaust, atrocity and historical memory",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
    ]
   }
  ],
@@ -617,6 +726,68 @@
     "R. K. Narayan criticism: extracts (eNotes; Contemporary Literary Criticism vols. 7 and 28, including V. S. Naipaul, 'An Old Equilibrium')",
     "Singh et al., 'Subdued Voices and Marginalized Lives: Reading R. K. Narayan's Waiting for the Mahatma ...' (Journal of International Women's Studies, Bridgewater State University)",
     "Subarna Mondal, 'R.K. Narayan' (Indian Writing in English, University of Hyderabad)"
+   ]
+  },
+  {
+   "author": "Ross Lockridge Jr.",
+   "sources": [
+    "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
+    "Raintree County (novel) (Wikipedia)",
+    "Ross Lockridge Jr. (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Thomas Heggen",
+   "sources": [
+    "Mister Roberts (novel) (Wikipedia)",
+    "Mister Roberts (play) (Wikipedia)",
+    "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
+    "Pulitzer Prize for Drama (Wikipedia)",
+    "Thomas Heggen (Wikipedia)"
+   ]
+  },
+  {
+   "author": "John Horne Burns",
+   "sources": [
+    "John Horne Burns (Wikipedia)",
+    "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
+    "Review of A Cry of Children (Kirkus Reviews, 1 September 1952)",
+    "Review of Lucifer with a Book (Kirkus Reviews, 1 March 1949)",
+    "Review of Lucifer with a Book (The Atlantic, April 1949)",
+    "The Poems of Robert Burns, 3 volumes"
+   ]
+  },
+  {
+   "author": "Dorothy West",
+   "sources": [
+    "An Essay on the Principle of Population: The 1803 Edition (Rethinking the Western Tradition)",
+    "Dorothy West (Gale biographical entries, via Encyclopedia.com)",
+    "Dorothy West (Wikipedia)",
+    "Eldorado West One (Peepal Tree Press)",
+    "Journal of West Indian Literature 24.2 (November 2016), Caribbean Ecocriticism special issue",
+    "Moby-Dick; or, The Whale, vol. 6 of the Northwestern-Newberry Edition of the Writings of Herman Melville",
+    "Pamphlets on West Indian Slavery",
+    "Review of The Living Is Easy (Kirkus Reviews, 1 May 1948)",
+    "Review of The Richer, the Poorer (Kirkus Reviews, 15 May 1995)",
+    "Review of The Wedding (Kirkus Reviews, 1 November 1994)",
+    "The History of Mary Prince, a West Indian Slave, Related by Herself",
+    "Washington Irving: Three Western Narratives (Library of America)"
+   ]
+  },
+  {
+   "author": "William Gardner Smith",
+   "sources": [
+    "Arthur E. E. Smith, \"Social Consciousness in the Writings of Cyprian Ekwensi\" (ChickenBones: A Journal, 2007)",
+    "Charlotte Smith in British Romanticism",
+    "Last of the Conquerors (Wikipedia)",
+    "Review of South Street (Kirkus Reviews, 1 October 1954)",
+    "Review of The Stone Face (Kirkus Reviews, 1 November 1963)",
+    "The Collected Letters of Charlotte Smith",
+    "The Poems of Charlotte Smith",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith",
+    "The Stone Face, publisher's description (New York Review Books / Penguin Random House, 2021)",
+    "William Gardner Smith (Wikipedia)",
+    "William Gardner Smith: significant Black author in exile (New York Amsterdam News, 2019)"
    ]
   }
  ]

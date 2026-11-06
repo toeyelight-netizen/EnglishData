@@ -11,7 +11,7 @@ This wave records twelve works: the ten novels from Mr. Sampath (1949) to The Wo
 Astrologer's Day and Other Stories (1947) and A Horse and Two Goats and Other Stories (1970).
 The later story collections, the retellings of Indian myth and epic (Gods, Demons, and Others;
 The Ramayana; The Mahabharata), the memoir My Days and the travel books and essays are listed
-in the bibliography note and are the next wave's work. None of the books was read.
+in the bibliography note and are left for a later wave. None of the books was read.
 
 The novel plots follow Wikipedia's articles (two of them flagged, The Painter of Signs as
 unreferenced and The Vendor of Sweets as needing citations), checked where possible against
@@ -129,7 +129,7 @@ A10(RKN, MAJ, "1906", "2001", "Madras, Madras Presidency, British India",
   "and Other Stories (1947); Mr. Sampath (1949); The Financial Expert (1952); Waiting for the Mahatma (1955); "
   "The Guide (1958); The Man-Eater of Malgudi (1961); The Vendor of Sweets (1967); A Horse and Two Goats and "
   "Other Stories (1970); The Painter of Signs (1976); A Tiger for Malgudi (1983); Talkative Man (1986); The "
-  "World of Nagaraj (1990). Listed and still to be recorded (wave 12): Lawley Road (stories, Indian Thought, "
+  "World of Nagaraj (1990). Listed and still to be recorded (a later wave): Lawley Road (stories, Indian Thought, "
   "Mysore, 1956); Next Sunday: Sketches and Essays (Indian Thought, 1956; Pearl, Bombay, 1960); My Dateless "
   "Diary: A Journal of a Trip to the United States in October 1956 (Indian Thought, 1960; Penguin, 1965); "
   "Gods, Demons, and Others (Viking, 1964; illustrated by R. K. Laxman, University of Chicago Press, 1993); The "

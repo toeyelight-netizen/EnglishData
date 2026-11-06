@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–11, giving **857 authors / 2954 works** across ten periods (c. 450–2000).
+  waves 01–12, giving **862 authors / 2965 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Eleven research waves are built; see
+  **Installment 10 is in progress.** Twelve research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1511,7 +1511,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–11 are built (110 works by 11 authors). Not complete.**
+**Status: in progress. Waves 01–12 are built (121 works by 16 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1716,10 +1716,38 @@ with broader Anglophone writing out of scope.
     partially verified; none of the books was read. His other eighteen books
     of 1946–2000 (later stories, the retellings of myth and epic, travel
     writing, essays, the memoir *My Days*) are listed in the bibliography note
-    and are the work of wave 12. Gale's summary of *The Guide* contradicts the
+    and are left for a later wave. Gale's summary of *The Guide* contradicts the
     fuller plot and is not followed; this and seven other discrepancies or gaps
     are recorded in limitation 21 of the audit report, including the absence of
     his 1935–1945 books from installment 9.
+- **Scope narrowed (second decision of 2026-11-06):** British, Irish and
+  American authors are covered, major and minor; authors of other
+  English-language traditions only if they are major. The six already
+  recorded are kept. The audit now classes every discovery candidate by the
+  lists that name it (British, Irish or American evidence 3,566; nationality
+  to be checked 2,298; other traditions 505, of them 108 P1), and the coverage
+  matrix has a `scope` column. Major authors get single-author waves; minor
+  authors come in batches of about five.
+- **Wave 12:** the first batch of minor authors, five American novelists who
+  began publishing in 1946–1948: Ross Lockridge Jr. (*Raintree County*, 1948),
+  Thomas Heggen (*Mister Roberts*, 1946), John Horne Burns (*The Gallery*,
+  *Lucifer with a Book*, *A Cry of Children*), Dorothy West (*The Living Is
+  Easy*, *The Wedding*, *The Richer, the Poorer*) and William Gardner Smith
+  (*Last of the Conquerors*, *South Street*, *The Stone Face*): eleven works.
+  The audit's American count moves from 3 to 8, minor and lesser-known authors
+  from 0 to 5, and genre-checklist coverage from 59 to 60 of 161.
+  - **Sources:** Wikipedia's articles on the five authors and six of the
+    books; contemporary Kirkus reviews of seven books (one read directly, six
+    seen as the full review text in search results); and labelled extracts
+    (the Atlantic, Gale entries on West, the 2021 publisher's description of
+    *The Stone Face*, the New York Amsterdam News) (sources 153–173).
+  - **Verification:** all five author records and the 11 works are partially
+    verified; none of the books was read. The play *Mister Roberts*, written
+    with Joshua Logan, waits for a Logan record so that both authors are
+    credited; two of Smith's books are listed only, because no source describes
+    them. West's *The Wedding* is recorded as *The Wedding (Dorothy West)*,
+    since James Shirley's play holds the bare title. Six discrepancies are
+    recorded in limitation 22 of the audit report.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1827,4 +1855,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–11: 110 works by 11 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–12: 121 works by 16 authors) |

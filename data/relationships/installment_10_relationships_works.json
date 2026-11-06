@@ -554,6 +554,61 @@
    "work": "The World of Nagaraj",
    "author": "R. K. Narayan",
    "contribution_type": "author"
+  },
+  {
+   "work": "Raintree County",
+   "author": "Ross Lockridge Jr.",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mister Roberts",
+   "author": "Thomas Heggen",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Gallery",
+   "author": "John Horne Burns",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lucifer with a Book",
+   "author": "John Horne Burns",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Cry of Children",
+   "author": "John Horne Burns",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Living Is Easy",
+   "author": "Dorothy West",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Wedding (Dorothy West)",
+   "author": "Dorothy West",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Richer, the Poorer: Stories, Sketches, and Reminiscences",
+   "author": "Dorothy West",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Last of the Conquerors",
+   "author": "William Gardner Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "South Street",
+   "author": "William Gardner Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Stone Face",
+   "author": "William Gardner Smith",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1327,6 +1382,76 @@
    "genres": [
     "Comic Novel",
     "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Raintree County",
+   "genres": [
+    "Historical Novel"
+   ]
+  },
+  {
+   "work": "Mister Roberts",
+   "genres": [
+    "War Novel"
+   ]
+  },
+  {
+   "work": "The Gallery",
+   "genres": [
+    "War Novel"
+   ]
+  },
+  {
+   "work": "Lucifer with a Book",
+   "genres": [
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "A Cry of Children",
+   "genres": [
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "The Living Is Easy",
+   "genres": [
+    "Social Novel",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "The Wedding (Dorothy West)",
+   "genres": [
+    "Family Saga",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "The Richer, the Poorer: Stories, Sketches, and Reminiscences",
+   "genres": [
+    "Short-Story Collection",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "Last of the Conquerors",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "South Street",
+   "genres": [
+    "Social Novel",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "The Stone Face",
+   "genres": [
+    "Political Novel"
    ]
   }
  ],
@@ -2205,6 +2330,97 @@
     "Language, writing and the limits of representation",
     "Myth, folklore and the supernatural"
    ]
+  },
+  {
+   "work": "Raintree County",
+   "themes": [
+    "History, truth and the uses of the past",
+    "War, combat and its aftermath",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Mister Roberts",
+   "themes": [
+    "War, combat and its aftermath",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "The Gallery",
+   "themes": [
+    "War, combat and its aftermath",
+    "Sexuality, desire and the closet",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Lucifer with a Book",
+   "themes": [
+    "Education, institutions and the academy",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "A Cry of Children",
+   "themes": [
+    "Love, intimacy and loss",
+    "Family, marriage and domestic life",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "The Living Is Easy",
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "The Wedding (Dorothy West)",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "The Richer, the Poorer: Stories, Sketches, and Reminiscences",
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Last of the Conquerors",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "War, combat and its aftermath",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "South Street",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "Love, intimacy and loss",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "The Stone Face",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora",
+    "Violence, crime and justice",
+    "The Holocaust, atrocity and historical memory"
+   ]
   }
  ],
  "work_movements": [
@@ -2666,6 +2882,18 @@
    "movements": [
     "South Asian Literature in English"
    ]
+  },
+  {
+   "work": "Last of the Conquerors",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "South Street",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
   }
  ],
  "work_periods": [
@@ -2781,7 +3009,18 @@
     "The Painter of Signs",
     "A Tiger for Malgudi",
     "Talkative Man",
-    "The World of Nagaraj"
+    "The World of Nagaraj",
+    "Raintree County",
+    "Mister Roberts",
+    "The Gallery",
+    "Lucifer with a Book",
+    "A Cry of Children",
+    "The Living Is Easy",
+    "The Wedding (Dorothy West)",
+    "The Richer, the Poorer: Stories, Sketches, and Reminiscences",
+    "Last of the Conquerors",
+    "South Street",
+    "The Stone Face"
    ]
   }
  ]

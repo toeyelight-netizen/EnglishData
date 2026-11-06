@@ -200,6 +200,40 @@ def tradition(nat):
     return "Non-English-language (theory in translation) / unclassified"
 
 
+# Scope decision of 2026-11-06 (second): British, Irish and American authors are
+# covered, major and minor; authors of other English-language traditions are
+# included only if they are major. Candidate rows are classed by the tradition
+# hints of the lists that name them. National prizes and fellowships restricted
+# to Americans (and the British and Irish entries of other lists) count as
+# British, Irish or American evidence; mixed lists (bestsellers, magazines,
+# genre data, the Booker and other Commonwealth-wide prizes, London theatre
+# awards) leave nationality to be checked; the other national lists and series
+# put a candidate in another tradition, to be included only if major.
+SCOPE_UKUS = {"US", "US/Asian American", "US (Pulitzer Prize for Drama)", "UK (Commonwealth Writers' Prize)",
+              "Ireland (Iowa Writers' Workshop)"}
+SCOPE_CHECK = {"US/popular", "SF/fantasy/horror", "periodical", "UK/Commonwealth", "UK/Commonwealth/Irish",
+               "UK/Commonwealth (Queen's Gold Medal for Poetry)", "London stage (Evening Standard Theatre Award)"}
+SCOPE_CLASSES = ["British, Irish or American evidence", "nationality to be checked",
+                 "other tradition: included only if major"]
+
+
+def scope_class(hint):
+    parts = {p.strip() for p in (hint or "").split(";") if p.strip()}
+    if parts & SCOPE_UKUS:
+        return SCOPE_CLASSES[0]
+    if parts & SCOPE_CHECK or not parts:
+        return SCOPE_CLASSES[1]
+    return SCOPE_CLASSES[2]
+
+
+def work_scope(trads):
+    if any(t in ("British", "Irish", "American") for t in trads):
+        return "British, Irish or American"
+    if any(t == "Other English-language" for t in trads):
+        return "other tradition (major author)"
+    return "unclassified"
+
+
 def main():
     con = sqlite3.connect(DB)
     con.row_factory = sqlite3.Row
@@ -258,6 +292,7 @@ def main():
         c["db_name"] = name or ""
         c["status"] = ("in installment 10" if name in i10_author_names else
                        ("in database (earlier installment), no 1946-2000 works yet" if name else "missing"))
+        c["scope"] = scope_class(c["tradition_hint"])
 
     # ---------------------------------------------------------------- matrix
     os.makedirs(os.path.dirname(MATRIX), exist_ok=True)
@@ -265,7 +300,7 @@ def main():
         out = csv.writer(fh)
         out.writerow(["record_type", "decade", "country_or_tradition", "genre", "subgenre", "literary_movement",
                       "author", "work", "publication_year", "depth_tier", "bibliographical_verification_status",
-                      "description_completeness_status", "evidence_or_source"])
+                      "description_completeness_status", "evidence_or_source", "scope"])
         for w in sorted(works, key=lambda w: (wstat[w["work_id"]]["year"] or 0, w["title"])):
             s = wstat[w["work_id"]]
             names = (w["authors"] or "").split("; ")
@@ -274,13 +309,14 @@ def main():
             out.writerow(["work", decade(s["year"]), trad, "; ".join(fams), "; ".join(s["genres"]), "; ".join(s["movements"]),
                           "; ".join(names), w["title"], s["year"] or "", s["depth"], w["verification_status"] or "not assessed",
                           "complete" if not s["short"] else "incomplete: " + ", ".join(s["short"]),
-                          "; ".join(r[0] for r in q("select s.title from work_sources ws join sources s using(source_id) where ws.work_id=?", w["work_id"]))])
+                          "; ".join(r[0] for r in q("select s.title from work_sources ws join sources s using(source_id) where ws.work_id=?", w["work_id"])),
+                          work_scope({tradition(author_rows[n]["nationality_or_literary_tradition"]) for n in names if n in author_rows})])
         for c in inv:
             if c["status"] == "in installment 10":
                 continue
             out.writerow(["candidate author (discovery inventory)", c["decades"], c["tradition_hint"], c["datasets"], "", "",
                           c["author"], "", "%s-%s" % (c["first_year"], c["last_year"]), c["priority"],
-                          c["status"], "no records yet", c["evidence"][:300]])
+                          c["status"], "no records yet", c["evidence"][:300], c["scope"]])
 
     # ---------------------------------------------------------------- audits
     lines = []
@@ -347,8 +383,23 @@ def main():
     for t in sorted(prim):
         L("| %s | %s |" % (t, " | ".join(str(prim[t][c]) for c in cols)))
     L("")
-    p1_missing = sorted([c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10"], key=lambda c: -int(c["evidence_count"]))
-    L("Top P1 candidates not yet in installment 10 (by amount of evidence): " + "; ".join("%s (%s)" % (c["author"], c["evidence_count"]) for c in p1_missing[:60]) + ".\n")
+    L("Scope (decision of 2026-11-06): British, Irish and American authors, major and minor; authors of other "
+      "English-language traditions only if major. Candidates by the scope class of the lists that name them "
+      "(see `scope_class` in this script):\n")
+    L("| Scope class | Candidates | P1 | P2 | P3 | In installment 10 | In database, no 1946–2000 works yet | Missing |\n|---|---|---|---|---|---|---|---|")
+    for sc in SCOPE_CLASSES:
+        cs = [c for c in inv if c["scope"] == sc]
+        st = Counter(c["status"] for c in cs)
+        pr = Counter(c["priority"] for c in cs)
+        L("| %s | %d | %d | %d | %d | %d | %d | %d |" % (sc, len(cs), pr["P1"], pr["P2"], pr["P3"], st["in installment 10"],
+                                                       st["in database (earlier installment), no 1946-2000 works yet"], st["missing"]))
+    L("")
+    p1_missing = sorted([c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10"
+                         and c["scope"] != SCOPE_CLASSES[2]], key=lambda c: -int(c["evidence_count"]))
+    p1_other = [c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10" and c["scope"] == SCOPE_CLASSES[2]]
+    L("Top P1 candidates not yet in installment 10, British, Irish or American or still to be checked (by amount of "
+      "evidence): " + "; ".join("%s (%s)" % (c["author"], c["evidence_count"]) for c in p1_missing[:60]) + ". "
+      "P1 candidates of other traditions, to be included only if major: %d.\n" % len(p1_other))
     L("Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered by the Booker Prize record "
       "(winners and shortlists 1969–2000), the Post45 British prize data (1990–2000), the Commonwealth Writers' Prize "
       "(regional and overall winners, Best Book 1987–2000 and Best First Book 1989–2000, with the Commonwealth Short Story "
