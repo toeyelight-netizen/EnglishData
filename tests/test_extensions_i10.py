@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.join(ROOT, "scripts", "content"))
 
 import build_installment as bi  # noqa: E402  (changes into the project root)
 import check_duplicates as cd  # noqa: E402
-import content_i10_wave05 as wave05  # noqa: E402
+import importlib  # noqa: E402
 import i09_taxonomy  # noqa: E402
 from installment_toolkit import author_owners  # noqa: E402
 
@@ -81,29 +81,41 @@ class OwnershipTest(unittest.TestCase):
         self.assertEqual(len(titles), 10)
 
 
+def all_i10_works():
+    """Every installment-10 work, gathered as build_installment.main() gathers them."""
+    content = os.path.join(bi.PROJECT_ROOT, "scripts", "content")
+    works = []
+    for name in sorted(f[:-3] for f in os.listdir(content) if f.startswith("content_i10_") and f.endswith(".py")):
+        works.extend(getattr(importlib.import_module(name), "WORKS", []))
+    return works
+
+
 class ExtensionTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.extensions = bi.load_extensions()
         cls.owners = author_owners(ROOT)
         cls.known = source_titles()
+        cls.works = all_i10_works()
 
     def problems(self, extensions=None, works=None, names=()):
         return bi.extension_problems(
             copy.deepcopy(self.extensions) if extensions is None else extensions, "10", set(names),
-            copy.deepcopy(wave05.WORKS) if works is None else works, self.owners, self.known)
+            copy.deepcopy(self.works) if works is None else works, self.owners, self.known)
 
-    def test_the_orwell_extension_is_valid_and_already_merged(self):
-        self.assertIn("George Orwell", self.extensions)
+    def test_every_extension_is_valid_and_already_merged(self):
+        self.assertTrue({"George Orwell", "Jean Rhys", "Samuel Beckett", "W. H. Auden",
+                         "Gwendolyn Brooks"} <= set(self.extensions))
         self.assertEqual(self.problems(), [])
 
-    def test_the_merged_installment_9_record_carries_the_statement(self):
-        ext = self.extensions["George Orwell"]
-        rec = [r for r in built("authors", "09") if r["full_name"] == "George Orwell"][0]
-        self.assertEqual(rec["bibliographical_notes"], ext["biblio_note"])
-        self.assertEqual(rec["bibliography_status"], ext["bibliography_status"])
-        self.assertEqual(rec["verification_status"], ext["verification_status"])
-        self.assertFalse([r for r in built("authors", "10") if r["full_name"] == "George Orwell"])
+    def test_the_merged_installment_9_records_carry_the_statements(self):
+        for name, ext in self.extensions.items():
+            with self.subTest(author=name):
+                rec = [r for r in built("authors", "09") if r["full_name"] == name][0]
+                self.assertEqual(rec["bibliographical_notes"], ext["biblio_note"])
+                self.assertEqual(rec["bibliography_status"], ext["bibliography_status"])
+                self.assertEqual(rec["verification_status"], ext["verification_status"])
+                self.assertFalse([r for r in built("authors", "10") if r["full_name"] == name])
 
     def test_merge_sets_statement_and_status_and_unions_sources(self):
         author = {"name": "X", "sources": ["S1"]}
@@ -114,7 +126,7 @@ class ExtensionTest(unittest.TestCase):
         self.assertEqual(author["sources"], ["S1", "S2"])
 
     def test_an_author_without_an_installment_10_work_is_rejected(self):
-        works = [w for w in wave05.WORKS if w["author"] != "George Orwell"]
+        works = [w for w in self.works if w["author"] != "George Orwell"]
         self.assertTrue(any("has no installment-10 work" in p for p in self.problems(works=works)))
 
     def test_a_short_unsourced_or_unmerged_statement_is_rejected(self):
