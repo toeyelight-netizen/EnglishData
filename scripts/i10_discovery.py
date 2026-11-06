@@ -29,20 +29,35 @@ Curated lists transcribed from cited sources (research/installment_10/lists/):
       from the author's other marked entries or a documented non-English writing
       language), reprints of earlier texts, unassigned numbers, collectives and
       pre-modern authors are transcribed but are not used as evidence.
+  commonwealth_writers_prize_1987_2000.csv   Commonwealth Writers' Prize Best Book
+      (1987-2000) and Best First Book (1989-2000), overall and regional winners,
+      and the Commonwealth Short Story Competition winners (1997-2000), from
+      Wikipedia's "Commonwealth Foundation prizes"; the country is the table's.
+  heinemann_caribbean_writers_series.csv   the titles Wikipedia's article on the
+      Heinemann Caribbean Writers Series lists (a selection, with years of first
+      publication, not of the series edition); translations are transcribed but
+      not used as evidence, and Witchbroom, which a grouped cell gives to Vanessa
+      Spence, is credited to Lawrence Scott.
 
 A row is evidence of activity, not an inclusion decision. Priority tiers:
 
   P1  winner of a major prize (Pulitzer, National Book Award, Bollingen, US Poet
       Laureate/Consultant, Booker, Whitbread Book of the Year, T. S. Eliot,
-      Orange, James Tait Black, PEN/Faulkner, Wallace Stevens, Lannan Lifetime);
+      Orange, James Tait Black, PEN/Faulkner, Wallace Stevens, Lannan Lifetime;
+      Commonwealth Writers' Prize Best Book, overall or regional, and overall
+      Best First Book);
       an Asian American text with 10+ instances of scholarly study; an author
       with 3+ NYT bestsellers 1946-2000
-  P2  other prize winners, British shortlists, one or two bestsellers, Asian
-      American texts with 3+ instances of study
+  P2  other prize winners (including regional Commonwealth Best First Book
+      winners), British shortlists, one or two bestsellers, Asian American texts
+      with 3+ instances of study; an original title in the Heinemann Caribbean
+      Writers Series
   P3  NEA fellows, Playboy fiction contributors, speculative-fiction authors with
       10+ novels dated 1946-2000, published Iowa Writers' Workshop graduates and
       authors; African Writers Series editors, contributors, self-translations and
-      non-fiction (an original English-language title in the series is P2)
+      non-fiction (an original English-language title in the series is P2);
+      winners of the Commonwealth Short Story Competition; the editor of the
+      Caribbean series' poetry anthology
 
 Names given surname-first in a dataset ('Walsh, Jill Paton') are turned round before
 matching, so that one author is one candidate whatever the dataset's name order.
@@ -100,6 +115,20 @@ def aws_evidence(r):
     return "African Writers Series %s%s: %s" % (where, role, r["title"])
 
 
+def cwp_evidence(r):
+    prize = {"best_book": "Best Book", "best_first_book": "Best First Book", "short_story": "Short Story Competition"}
+    kind = r["role"].rsplit("_", 1)[0]
+    result = r["role"].rsplit("_", 1)[1]
+    where = ", %s" % r["region"] if r["region"] else ""
+    what = {"overall": " (overall winner)", "regional": " (regional winner)", "winner": " (winner)"}.get(result, "")
+    title = r["title"] or "title not given"
+    return "Commonwealth Writers' Prize, %s%s%s: %s" % (prize.get(kind, kind), where, what, title)
+
+
+def cwp_hint(r):
+    return "%s (Commonwealth Writers' Prize)" % (r["country"] or "country not given")
+
+
 CURATED = {
     "booker_prize_1969_2000.csv": {
         "label": "Booker Prize", "dataset": "booker", "hint": "UK/Commonwealth/Irish",
@@ -113,6 +142,18 @@ CURATED = {
         "skip": {"translation", "translation_inferred", "contributor_translation", "reprint",
                  "never_assigned", "never_published", "collective", "premodern"},
         "evidence": aws_evidence,
+    },
+    "commonwealth_writers_prize_1987_2000.csv": {
+        "label": "Commonwealth Writers' Prize", "dataset": "cwp", "hint": cwp_hint,
+        "priority": {"best_book_overall": 1, "best_book_regional": 1, "best_first_book_overall": 1,
+                     "best_first_book_regional": 2, "short_story_winner": 3},
+        "skip": {"no_selection"},
+        "evidence": cwp_evidence,
+    },
+    "heinemann_caribbean_writers_series.csv": {
+        "label": "Heinemann Caribbean Writers Series", "dataset": "cws", "hint": "Caribbean (CWS)",
+        "priority": {"original": 2, "editor": 3},
+        "skip": {"translation"},
     },
 }
 
@@ -322,7 +363,8 @@ def main():
                 continue
             ev = spec["evidence"](r) if "evidence" in spec else \
                 "%s %s: %s" % (spec["label"], r["role"].replace("_", " "), r["title"])
-            add(r["author"], year(r["year"]), ev, spec["dataset"], spec["priority"].get(r["role"], 2), spec["hint"])
+            hint = spec["hint"](r) if callable(spec["hint"]) else spec["hint"]
+            add(r["author"], year(r["year"]), ev, spec["dataset"], spec["priority"].get(r["role"], 2), hint)
 
     # 'Joe W. Haldeman' and 'Joe Haldeman' are one candidate when either form comes from
     # the Iowa records, whose legal names and authority headings carry middle initials.

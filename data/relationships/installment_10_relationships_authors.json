@@ -111,6 +111,22 @@
     "Satirical Fiction",
     "Short-Story Collection"
    ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "genres": [
+    "Bildungsroman",
+    "Comic Novel",
+    "Literary Journalism",
+    "Literary Novel",
+    "One-Act Play",
+    "Radio Drama",
+    "Satirical Fiction",
+    "Short Story",
+    "Short-Story Collection",
+    "Social Novel",
+    "Television Drama"
+   ]
   }
  ],
  "author_movements": [
@@ -153,6 +169,13 @@
    "author": "Ralph Ellison",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
    ]
   }
  ],
@@ -275,6 +298,24 @@
     "The city, the suburb and modern space",
     "Violence, crime and justice"
    ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Myth, folklore and the supernatural",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ]
   }
  ],
  "author_influences": [
@@ -304,6 +345,12 @@
    "author": "Amos Tutuola",
    "influenced_by": [
     "John Bunyan"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "influenced_by": [
+    "T. S. Eliot"
    ]
   }
  ],
@@ -378,6 +425,21 @@
     "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
     "Season of Adventure by George Lamming (EBSCO Research Starters)",
     "The Emigrants (Lamming novel) (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "sources": [
+    "Highway in the Sun (Peepal Tree Press)",
+    "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
+    "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
+    "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)"
    ]
   }
  ]

@@ -1,5 +1,6 @@
 """The installment-10 discovery inventory: name normalisation, the curated
-African Writers Series list and the reproducibility of the generated CSV.
+lists (African Writers Series, Commonwealth Writers' Prize, Caribbean Writers
+Series) and the reproducibility of the generated CSV.
 
 The name helpers are pinned on the cases that produced duplicate candidates
 (surname-first names from the British prize, Asian American and Iowa datasets)
@@ -92,6 +93,56 @@ class AfricanWritersSeriesListTest(unittest.TestCase):
                     missing.add(name)
         # Every counted author in the period has a candidate row.
         self.assertEqual(missing, set(), sorted(missing)[:10])
+
+
+class CuratedListsTest(unittest.TestCase):
+    def test_every_role_is_counted_or_skipped(self):
+        for fname, spec in d.CURATED.items():
+            with open(os.path.join(ROOT, "research", "installment_10", "lists", fname), encoding="utf-8") as fh:
+                roles = {r["role"] for r in csv.DictReader(fh)}
+            self.assertEqual(roles - set(spec["priority"]) - set(spec.get("skip", ())), set(), fname)
+
+    def test_commonwealth_prize_list(self):
+        with open(os.path.join(ROOT, "research", "installment_10", "lists",
+                               "commonwealth_writers_prize_1987_2000.csv"), encoding="utf-8") as fh:
+            rows = list(csv.DictReader(fh))
+        overall = [r["year"] for r in rows if r["role"] == "best_book_overall"]
+        first = [r["year"] for r in rows if r["role"] == "best_first_book_overall"]
+        # One overall Best Book winner a year from 1987, one overall Best First Book from 1989.
+        self.assertEqual(sorted(overall), [str(y) for y in range(1987, 2001)])
+        self.assertEqual(sorted(first), [str(y) for y in range(1989, 2001)])
+        spec = d.CURATED["commonwealth_writers_prize_1987_2000.csv"]
+        sample = next(r for r in rows if r["author"] == "Erna Brodber")
+        self.assertEqual(spec["hint"](sample), "Jamaica (Commonwealth Writers' Prize)")
+        self.assertEqual(spec["evidence"](sample),
+                         "Commonwealth Writers' Prize, Best Book, Canada and the Caribbean (regional winner): Myal")
+
+
+    def test_commonwealth_and_caribbean_authors_are_in_the_inventory(self):
+        with open(INVENTORY, encoding="utf-8") as fh:
+            datasets = {r["key"]: set(r["datasets"].split("; ")) for r in csv.DictReader(fh)}
+        for fname in ("commonwealth_writers_prize_1987_2000.csv", "heinemann_caribbean_writers_series.csv"):
+            spec = d.CURATED[fname]
+            with open(os.path.join(ROOT, "research", "installment_10", "lists", fname), encoding="utf-8") as fh:
+                rows = list(csv.DictReader(fh))
+            missing, outside = set(), set()
+            for r in rows:
+                year = d.year(r["year"])
+                names = d.split_credit(r["author"]) if r["author"] else []
+                if r["role"] in spec.get("skip", ()) or year is None or not 1946 <= year <= 2000:
+                    outside.update(d.fold(n) for n in names)
+                    continue
+                for name in names:
+                    if spec["dataset"] not in datasets.get(d.fold(name), set()):
+                        missing.add(name)
+            # Every counted author in the period carries the list's dataset label ...
+            self.assertEqual(missing, set(), (fname, sorted(missing)[:10]))
+            # ... and an author with no counted entry does not (Paulette Ramsay's
+            # Aunt Jen is of 2002, not of 1970 as the source table says).
+            counted = {d.fold(n) for r in rows for n in (d.split_credit(r["author"]) if r["author"] else [])
+                       if r["role"] not in spec.get("skip", ()) and d.year(r["year"]) and 1946 <= d.year(r["year"]) <= 2000}
+            for key in outside - counted:
+                self.assertNotIn(spec["dataset"], datasets.get(key, set()), (fname, key))
 
 
 class InventoryTest(unittest.TestCase):

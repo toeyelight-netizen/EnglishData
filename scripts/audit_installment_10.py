@@ -179,7 +179,11 @@ def decade(y):
 
 
 def tradition(nat):
-    low = (nat or "").lower()
+    """Classify a nationality_or_literary_tradition string by its first ';' segment.
+
+    Ancestry clauses ("of Indian and Scottish-Indian descent") describe descent, not
+    tradition, so they are removed before the segment is matched."""
+    low = re.sub(r"\bof [^;]*?\bdescent\b", "", (nat or "").lower())
     first = low.split(";")[0]
     if "american" in first and not any(b in first for b in BRITISH):
         return "American"
@@ -346,12 +350,16 @@ def main():
     p1_missing = sorted([c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10"], key=lambda c: -int(c["evidence_count"]))
     L("Top P1 candidates not yet in installment 10 (by amount of evidence): " + "; ".join("%s (%s)" % (c["author"], c["evidence_count"]) for c in p1_missing[:60]) + ".\n")
     L("Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered only by the Booker Prize record "
-      "(winners and shortlists 1969–2000), the Post45 British prize data (1990–2000) and, for African writing in English, the "
-      "Heinemann African Writers Series list (1962–2000; it carries no Faber, Longman, Oxford or local-press authors, so Tutuola, "
-      "for one, appears only as an anthology contributor). American writing outside the prize, bestseller, NEA and Iowa Writers' "
-      "Workshop records is not covered. British and Commonwealth poetry, drama, genre and children's writing, Caribbean and "
-      "South Asian writing, and all Commonwealth writing before 1962 still need inventories from other sources (see limitations). "
-      "Matching is by folded name, so two writers with the same name share one candidate row.\n")
+      "(winners and shortlists 1969–2000), the Post45 British prize data (1990–2000), the Commonwealth Writers' Prize "
+      "(regional and overall winners, Best Book 1987–2000 and Best First Book 1989–2000, with the Commonwealth Short Story "
+      "Competition 1997–2000) and two publishers' series: the Heinemann African Writers Series (1962–2000; it carries no Faber, "
+      "Longman, Oxford or local-press authors, so Tutuola, for one, appears only as an anthology contributor) and the 33 titles "
+      "of the Heinemann Caribbean Writers Series that Wikipedia lists (a selection, not the series' bibliography; Lamming and "
+      "Selvon, published by Michael Joseph, Allan Wingate and MacGibbon & Kee, are absent). American writing outside the prize, "
+      "bestseller, NEA and Iowa Writers' Workshop records is not covered. British and Commonwealth poetry, drama, genre and "
+      "children's writing, South Asian writing, Caribbean writing beyond the two Heinemann and Commonwealth lists, and all "
+      "Commonwealth writing before 1962 still need inventories from other sources (see limitations). Matching is by folded "
+      "name, so two writers with the same name share one candidate row.\n")
     crit_present = [c for c in CRITICS if fold(c) in db_names]
     L("Part VII critics checklist: %d of %d named critics and theorists have author records (%s); missing: %s.\n"
       % (len(crit_present), len(CRITICS), ", ".join(crit_present) or "none", ", ".join(c for c in CRITICS if c not in crit_present)))

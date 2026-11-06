@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 853,
-  "works": 2907
+  "authors": 854,
+  "works": 2921
  },
  "periods": [
   {
@@ -828,6 +828,7 @@
  "sources": [
   "'Lyrical Ballads,' and Other Poems, 1797-1800",
   "A Book of Middle English, 4th edition",
+  "A Brighter Sun Summary (eNotes)",
   "A Clergyman's Daughter (Wikipedia)",
   "A Common Heritage: Noah Webster's Blue-Back Speller",
   "A Guide to Old English, 8th edition",
@@ -857,6 +858,7 @@
   "An Essay on the Principle of Population: The 1803 Edition (Rethinking the Western Tradition)",
   "An Essay on the Slavery and Commerce of the Human Species, Particularly the African, Translated from a Latin Dissertation, Which Was Honoured with the First Prize in the University of Cambridge, for the Year 1785",
   "An Inquiry into the Nature and Causes of the Wealth of Nations, 2 volumes",
+  "An Island Is a World (Mawenzi House)",
   "Anglo-Saxon Poetry",
   "Animal Farm (Wikipedia)",
   "Annals of the Parish (The Edinburgh Edition of the Works of John Galt)",
@@ -870,6 +872,7 @@
   "British Library Digitised Manuscripts",
   "Byron's Letters and Journals (12 volumes with index and supplement)",
   "Charlotte Smith in British Romanticism",
+  "Commonwealth Foundation prizes (Wikipedia), sections on the Commonwealth Writers' Prize and the Commonwealth Short Story Competition",
   "Confessions of an English Opium-Eater and Other Writings (Oxford World's Classics)",
   "Conversations: George Lamming: Essays, Addresses and Interviews, 1953-1990 (Google Books record)",
   "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
@@ -883,6 +886,7 @@
   "Down and Out in Paris and London (Wikipedia)",
   "Early American Drama",
   "Early American Drama (Penguin Classics)",
+  "Eldorado West One (Peepal Tree Press)",
   "Encyclopedia of the Enlightenment",
   "England, Your England and Other Essays, 1953 (orwell.ru library record)",
   "English Historical Documents, Volume I: c. 500–1042",
@@ -912,6 +916,8 @@
   "Hansberry, Lorraine: Introduction (Encyclopedia.com, Gale literary criticism entry)",
   "Heart of Darkness: A Norton Critical Edition, 3rd edn",
   "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
+  "Heinemann Caribbean Writers Series (Wikipedia)",
+  "Highway in the Sun (Peepal Tree Press)",
   "Hobomok: A Tale of Early Times (Broadview Edition)",
   "Hope Leslie: Or, Early Times in the Massachusetts (American Women Writers series)",
   "In the Castle of My Skin (Encyclopedia.com, compiling Gale's Novels for Students)",
@@ -928,6 +934,7 @@
   "Joel Barlow's Columbiad: A Bicentennial Reading",
   "John Keats: The Complete Poems (Penguin Classics)",
   "Jonathan Swift: Critical, Scholastic, and Variorum Edition",
+  "Journal of West Indian Literature 24.2 (November 2016), Caribbean Ecocriticism special issue",
   "Journal of a Residence in Chile During the Year 1822, and a Voyage from Chile to Brazil in 1823",
   "Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse",
   "Lady Caroline Lamb: A Biography",
@@ -969,6 +976,7 @@
   "Modern Chivalry: Containing the Adventures of Captain John Farrago, and Teague O'Regan, His Servant",
   "Modernism: A Guide to European Literature 1890–1930",
   "Monk Lewis: A Critical Biography",
+  "Moses Ascending (Penguin Modern Classics description, as reproduced by booksellers)",
   "Mrs. Sherwood and Her Books for Children",
   "Murray, Albert (Alabama Authors database)",
   "Murray, Albert 1916- (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)",
@@ -980,6 +988,7 @@
   "Nightmare Abbey (The Cambridge Edition of the Novels of Thomas Love Peacock, volume 7)",
   "Nineteen Eighty-Four (Wikipedia)",
   "Observations on American Art: Selections from the Writings of John Neal (1793-1876)",
+  "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
   "Orwell's Proposed Preface to Animal Farm (Marxists Internet Archive)",
   "Oxford Dictionary of National Biography",
   "Pamphlets on West Indian Slavery",
@@ -996,6 +1005,7 @@
   "Poetry and Politics in the English Renaissance, revised edition",
   "Publication: The Village Witch Doctor & Other Stories (ISFDB record 409845)",
   "Publication: Yoruba Folktales (ISFDB record 411186)",
+  "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
   "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)",
   "Ralph Ellison (New World Encyclopedia)",
   "Ralph Ellison (Wikipedia)",
@@ -1005,6 +1015,13 @@
   "Robert Bloomfield: Selected Poems (revised and enlarged edition)",
   "Rural Rides (Everyman's Library, 2 volumes)",
   "Rural Rides (Penguin English Library)",
+  "Sam Selvon (South Asian Britain: Connecting Histories)",
+  "Sam Selvon (Wikipedia)",
+  "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+  "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+  "Samuel Selvon (Encyclopaedia Britannica)",
+  "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
+  "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)",
   "Season of Adventure (University of Michigan Press)",
   "Season of Adventure by George Lamming (EBSCO Research Starters)",
   "Second Thoughts on James Burnham (Wikipedia)",
@@ -1144,6 +1161,8 @@
   "The Life, Travels, and Opinions of Benjamin Lundy: Including His Journeys to Texas and Mexico; with a Sketch of Contemporary Events, and a Notice of the Revolution in Hayti",
   "The Lion and the Unicorn: Socialism and the English Genius (Wikipedia)",
   "The Literature of Political Economy: A Classified Catalogue of Select Publications in the Different Departments of That Science, with Historical, Critical and Biographical Notices (Cambridge Library Collection)",
+  "The Lonely Londoners (Wikipedia)",
+  "The Lonely Londoners Full Plot Summary (GradeSaver)",
   "The Major Works of Sir Thomas Browne",
   "The Monk (Oxford World's Classics)",
   "The Nebuly Coat (Wikipedia)",
@@ -1157,6 +1176,7 @@
   "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period",
   "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
   "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+  "The Novel since 1970 (ResearchGate PDF)",
   "The Novel: An Anthology of Criticism and Practice, 1700-1800",
   "The Novels and Related Works of Charles Brockden Brown: Bicentennial Edition",
   "The Novels and Tales of Henry James, New York Edition, 24 vols",
@@ -42408,6 +42428,130 @@
    ]
   },
   {
+   "id": 854,
+   "name": "Samuel Selvon",
+   "altNames": [
+    "Sam Selvon",
+    "Samuel Dickson Selvon"
+   ],
+   "dates": "1923 – 1994",
+   "birthplace": "San Fernando, Trinidad",
+   "nationality": "Trinidadian; Indo-Trinidadian Caribbean (West Indian) novelist, short-story writer and playwright writing in English, of Indian and Scottish-Indian descent, in England from 1950 to 1978 and in Canada from 1978",
+   "identity": "Trinidad-born novelist whose The Lonely Londoners (1956), narrated as well as spoken in Trinidadian creole, founded the fiction of Caribbean migrant London, and whose novels of Indo-Trinidadian village life, from A Brighter Sun (1952) to The Plains of Caroni (1970), trace the meeting of Indian and Creole Trinidad.",
+   "biography": "Samuel Dickson Selvon was born on 20 May 1923 in San Fernando, in the south of Trinidad, the sixth of seven children. His father, Bertwyn Fraser Selvon, was a Christian of Madrasi Indian descent who managed a dry-goods store; his mother, Daisy Irene Dickson, was the daughter of a Scotsman and of Keasoo, a woman of South Asian origin. Peepal Tree Press, drawing on his own accounts, describes a creolised household with little part in Hindu ritual, and a boy formed by the American films at the local cinemas. He left Naparima College at fifteen and from 1940 to 1945 was a wireless operator with the Trinidad branch of the Royal Naval Reserve (Dawes calls him a telegraph operator), the post that brought him into contact with the wartime American presence. From 1945 (1946 in Britannica) to 1950 he worked for the Trinidad Guardian as a reporter and on its literary page, South Asian Britain says as literary editor of the Sunday Guardian, publishing stories and sketches under the names Michael Wentworth, Esses, Ack-Ack and Big Buffer. He married Draupadi Persaud in 1947. In 1950 he moved to London, where he lived first in a hostel near Earl's Court, took menial jobs and became a clerk at the Indian Embassy, while reading for the BBC's Caribbean Voices and placing stories and poems in the London Magazine, the New Statesman and The Nation. Guggenheim Fellowships (1955 and 1968 in Wikipedia; 1954 and 1968 in Dawes), a Society of Authors travelling scholarship (1958) and Arts Council grants (1960) supported his work, and in 1969 Trinidad and Tobago awarded him the Hummingbird Medal (Gold). He wrote more than twenty radio plays and several television scripts for the BBC, scripted Horace Ové's Pressure (1976), the first full-length Black British feature film, and in the late 1960s took part in the Caribbean Artists Movement. In 1963 he married Althea Daroux. After a creative writing fellowship at the University of Dundee (1975-77) he moved in 1978 to Canada and settled in Calgary, Alberta; he taught creative writing as a visiting professor at the University of Victoria, worked for some months as a janitor at the University of Calgary and then became its writer-in-residence, and Dawes adds residencies at Alberta and Winnipeg. The University of the West Indies (1985) and Warwick (1989) gave him honorary doctorates. He died of respiratory failure on 16 April 1994 during a visit to Trinidad, at Piarco International Airport according to Wikipedia (Britannica says Port of Spain), and received the Chaconia Medal (Gold) posthumously that year.",
+   "profile": "Selvon published ten novels between 1952 and 1983 (Peepal Tree and Dawes count eleven), one collection of stories, two books of plays and a selection of prose. Six of the novels are set in Trinidad, mostly among Indo-Trinidadians: A Brighter Sun (1952) and its sequel Turn Again Tiger (1958), An Island Is a World (1955), I Hear Thunder (1963), The Plains of Caroni (1970) and Those Who Eat the Cascadura (1972). The others follow West Indians in London: The Lonely Londoners (1956), The Housing Lark (1965) and the two later Moses novels, Moses Ascending (1975) and Moses Migrating (1983); the stories of Ways of Sunlight (1957) move between the two settings. Much of his drama was written for the BBC, and two collections, Eldorado West One (1988) and Highway in the Sun (1991), preserve some of it; Foreday Morning (1989) gathers prose from 1946 onwards.",
+   "style": "In The Lonely Londoners Selvon used creolised English, or 'nation language', for narration as well as dialogue, an innovation Wikipedia calls groundbreaking; he explained that the novel 'just shot along' once he wrote both in dialect. Dawes praises folk idioms of 'sophistication and sheer virtuosity', a rare union of empathy and humour, and a Lonely Londoners told like a 'ballad' or calypso. Schwarz finds in Selvon's London an exact geography and an echo of Eliot's 'unreal' city, and Britannica singles out the 'extensive and striking use of dialect' in Turn Again Tiger.",
+   "concerns": "Creolisation and the relations of Indian and African Trinidadians; the peasant culture of the cane fields and its passing under mechanisation; manhood, marriage and domestic violence; migration to Britain, racism, poverty and the improvised community of 'the boys'; return, Anglophilia and the divided loyalties of the migrant; Carnival as a fleeting image of a society beyond race.",
+   "significance": "Selvon came to attention in the 1950s with other Caribbean writers, Naipaul among them (Britannica), and is a founder of Caribbean migrant fiction in Britain. The Lonely Londoners, his most widely known book, is read as a forerunner of Zadie Smith's White Teeth and Hanif Kureishi's The Buddha of Suburbia, and Dawes finds his influence 'consistently apparent' in the many fiction writers who followed him. Britannica judged A Brighter Sun the first book in which an East Indian author wrote 'with such quiet authority and simple charm' about Indo-Trinidadian life, and it was long a set text on the Caribbean Examinations Council syllabus.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Bildungsroman",
+    "Comic Novel",
+    "Literary Journalism",
+    "Literary Novel",
+    "One-Act Play",
+    "Radio Drama",
+    "Satirical Fiction",
+    "Short Story",
+    "Short-Story Collection",
+    "Social Novel",
+    "Television Drama"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Myth, folklore and the supernatural",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ],
+   "influencedBy": [
+    "T. S. Eliot"
+   ],
+   "works": [
+    {
+     "id": 2908,
+     "title": "A Brighter Sun"
+    },
+    {
+     "id": 2909,
+     "title": "An Island Is a World"
+    },
+    {
+     "id": 2919,
+     "title": "Eldorado West One"
+    },
+    {
+     "id": 2920,
+     "title": "Foreday Morning: Selected Prose 1946-1986"
+    },
+    {
+     "id": 2921,
+     "title": "Highway in the Sun and Other Plays"
+    },
+    {
+     "id": 2913,
+     "title": "I Hear Thunder"
+    },
+    {
+     "id": 2917,
+     "title": "Moses Ascending"
+    },
+    {
+     "id": 2918,
+     "title": "Moses Migrating"
+    },
+    {
+     "id": 2914,
+     "title": "The Housing Lark"
+    },
+    {
+     "id": 2910,
+     "title": "The Lonely Londoners"
+    },
+    {
+     "id": 2915,
+     "title": "The Plains of Caroni"
+    },
+    {
+     "id": 2916,
+     "title": "Those Who Eat the Cascadura"
+    },
+    {
+     "id": 2912,
+     "title": "Turn Again Tiger"
+    },
+    {
+     "id": 2911,
+     "title": "Ways of Sunlight"
+    }
+   ],
+   "sources": [
+    "Highway in the Sun (Peepal Tree Press)",
+    "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
+    "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
+    "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)"
+   ]
+  },
+  {
    "id": 314,
    "name": "Samuel Taylor Coleridge",
    "altNames": [
@@ -56091,6 +56235,60 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 2908,
+   "title": "A Brighter Sun",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1952",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Selvon's first novel, published in London by Allan Wingate in 1952, follows Tiger, a sixteen-year-old Indo-Trinidadian married off to the still younger Urmilla, through his first years of adult life in the suburban village of Barataria during the Second World War. Britannica summarises its subject as East Indians and Creoles in Trinidad, their prejudices and mutual distrust, and the effect of that animosity on a young man; Wikipedia notes that the building of the Churchill-Roosevelt Highway is seen through Tiger's eyes.",
+   "summary": "Tiger's first years of marriage, set against the war and the American presence in Trinidad: the move from the cane district of Chaguanas to Barataria, friendship with Creole neighbours, work on the highway the Americans build, a crisis in Urmilla's pregnancy and Tiger's resolve to build a better house.",
+   "plot": "At sixteen Tiger is married by his family to Urmilla and sent from the sugar-cane district of Chaguanas to Barataria, where the couple begin life in a mud hut and Tiger farms. Away from their parents' influence they make friends with their Afro-Creole neighbours, Joe and Rita, whose brick house, with electricity and running water, Tiger envies. The couple have a daughter, and Tiger longs for a son. When the American military arrives to build a highway through the farmland, Tiger does not protest but takes work on the construction, and he tries to learn better English in order to rise. Anxious to prove himself a man, he invites his American bosses to dinner, gets drunk and beats the pregnant Urmilla. She falls ill; an Indian doctor and a Creole doctor both refuse to treat her, and an English doctor agrees to. The son Tiger wanted is stillborn. Chastened and more mature, Tiger begins to build a new house with the help of friends and neighbours.",
+   "significance": "Wikipedia notes that it was a popular choice on the Caribbean Examinations Council's English literature syllabus for many years. It began Selvon's fiction of Indo-Trinidadian life, which Turn Again Tiger (1958) continues, and Selvon later adapted its story of Tiger and Urmilla's first year of marriage as the play Highway in the Sun (published 1991).",
+   "meter": "Britannica found in it, for the first time, an East Indian author writing 'with such quiet authority and simple charm' about Indo-Trinidadian life; Dawes credits Selvon's work in general with an innovative use of folk idiom.",
+   "context": "Selvon wrote it in London after 1950, looking back to the years when he served as a wireless operator and, as Peepal Tree's author profile puts it, was closely involved with the wartime American presence that provides the novel's backdrop: American bases and the highway built to serve them.",
+   "characters": "Tiger, a young Indo-Trinidadian; Urmilla, his wife; Joe and Rita, their Afro-Creole neighbours; American supervisors on the highway; an English doctor",
+   "structure": "A chronological narrative that follows Tiger from his wedding through the war years to the start of the new house; Dawes describes it as a novel of maturation set in a rural Indian community.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Bildungsroman",
+    "Social Novel"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "A Brighter Sun Summary (eNotes)",
+    "Highway in the Sun (Peepal Tree Press)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
    ]
   },
   {
@@ -70063,6 +70261,56 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2909,
+   "title": "An Island Is a World",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1955",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Selvon's second novel, published by Allan Wingate in London in 1955, is set in Trinidad after the Second World War. Its present publisher calls it a novel of personal and intellectual quest; the Anthurium special issue on Selvon (2025) reports Ramabai Espinet's case for reconsidering its place in his work.",
+   "summary": "Two brothers leave post-war Trinidad, one for England and one for the United States, while their elders think of returning to India.",
+   "plot": "In the post-war colony, as an earlier generation thinks of returning to India, the young Foster goes to England and his brother Rufus leaves for the United States, each in search of himself and his world. Mawenzi House's description, the only account of the plot consulted, presents the book as a moving story of personal and intellectual quest told with Selvon's humour and vivid sense of place.",
+   "significance": "One of Selvon's least discussed novels, though Espinet argues for its importance; it was reissued in Toronto by TSAR (1993) and Mawenzi House (2019).",
+   "meter": "The Globe and Mail, quoted by the publisher, praised Selvon's evocative description, affectionate humour and subtle use of folklore.",
+   "context": "Published between A Brighter Sun and The Lonely Londoners; Nalini Mohabir, in the Anthurium issue, reads it with Selvon's 1955 essay 'The West Indian Patchwork' and his BBC play Home Sweet India as part of his thinking about return.",
+   "characters": "",
+   "structure": "Built, in the publisher's account, on the parallel quests of two brothers; the arrangement of the narrative was not examined.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Literary Novel"
+   ],
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "An Island Is a World (Mawenzi House)",
+    "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
    ]
   },
   {
@@ -87939,6 +88187,57 @@
    ]
   },
   {
+   "id": 2919,
+   "title": "Eldorado West One",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1988",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Plays (seven one-act radio plays, edited by Susheila Nasta)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Seven one-act plays, published by Peepal Tree Press in Leeds in 1988 and edited with an introduction and notes by Susheila Nasta. Selvon turned several of his novels and stories into scripts for the BBC, and these plays bring to dramatic life characters first seen in The Lonely Londoners and Moses Ascending.",
+   "summary": "Seven one-act radio plays about Moses Aloetta and his friends Sir Galahad, Cap and Harris in London.",
+   "plot": "The publisher's description asks whether Moses Aloetta, after long hard years in 'the Old Brit'n', will ever save enough money to go home to Trinidad, and answers that he will not if 'those damn vagabonds and reprobates', Sir Galahad, Cap and Harris, his so-called friends, have anything to do with it. The plays stage dreams and schemes, summer gaiety and winter disappointments, the experience of the parents and grandparents of today's Black British children, with Selvon's humour and poignancy.",
+   "significance": "One of two books that preserve some of Selvon's work for radio, of which South Asian Britain counts more than twenty plays.",
+   "meter": "Louis James, reviewing the book in Wasafiri, called them vivid radio plays that teachers wishing to dramatise Selvon's colourful stories would welcome.",
+   "context": "Wikipedia dates Selvon's conversion of novels and stories into BBC radio scripts to the 1960s and 1970s; the collection appeared in 1988, ten years after he left Britain.",
+   "characters": "",
+   "structure": "Seven separate one-act plays for radio; their titles and order were not checked.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "One-Act Play",
+    "Radio Drama"
+   ],
+   "themes": [
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Eldorado West One (Peepal Tree Press)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
+   ]
+  },
+  {
    "id": 2325,
    "title": "Eleanor",
    "altTitles": [],
@@ -93577,6 +93876,54 @@
    ]
   },
   {
+   "id": 2920,
+   "title": "Foreday Morning: Selected Prose 1946-1986",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1989",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Selected prose (edited by Kenneth Ramchand and Susheila Nasta)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A selection of Selvon's prose from 1946 to 1986, edited by Kenneth Ramchand and Susheila Nasta and published by Longman in London in 1989. Wikipedia notes that much of the writing he did in Trinidad between 1945 and 1950 is found in it.",
+   "summary": "Stories, sketches and other prose from forty years, beginning with Selvon's newspaper writing in Trinidad.",
+   "plot": "The book gathers prose from four decades of Selvon's career. Its earliest pieces belong to his years on the Trinidad Guardian, when he wrote stories and descriptive pieces under the names Michael Wentworth, Esses, Ack-Ack and Big Buffer; Dawes classes the book as nonfiction. The individual contents were not examined.",
+   "significance": "The principal printed source for Selvon's early Trinidad writing, according to Wikipedia.",
+   "meter": "Not examined; the earliest pieces were journalism and short fiction written for a Trinidad newspaper.",
+   "context": "Published in 1989, a year after Susheila Nasta's Critical Perspectives on Sam Selvon (1988) and in the year Warwick gave Selvon an honorary doctorate.",
+   "characters": "",
+   "structure": "A selection covering 1946-1986, made by two editors; its arrangement was not examined.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Literary Journalism",
+    "Short Story"
+   ],
+   "themes": [
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
+   ]
+  },
+  {
    "id": 2599,
    "title": "Four Quartets",
    "altTitles": [
@@ -99093,6 +99440,58 @@
    ]
   },
   {
+   "id": 2921,
+   "title": "Highway in the Sun and Other Plays",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1991",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Plays (four plays first broadcast by the BBC)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Four plays that Selvon wrote for BBC broadcast in the 1970s, published by Peepal Tree Press in Leeds in December 1991. The publisher presents them as his most focused treatment of the choice Indians in the Caribbean must make between tradition and creolisation; three adapt his Trinidad novels.",
+   "summary": "Highway in the Sun, Home Sweet India, Turn Again Tiger and Harvest in Wilderness.",
+   "plot": "Highway in the Sun tells of Tiger and Urmilla's first year of marriage away from their extended family and of their dealings with Joe and Rita, their Afro-Creole neighbours, the matter of A Brighter Sun. In Home Sweet India Johnny, dismayed by his family's loss of culture, plans to return to India. In Turn Again Tiger, Tiger learns that he cannot turn his back on the Indian past if he is to lay its ghosts to rest and face the future whole. In Harvest in Wilderness the traditional cane-cutting world of Balgobin confronts the new technology of his creolised nephew Romesh, the conflict of The Plains of Caroni, 'but the past continues to spring surprises'.",
+   "significance": "It gathers Selvon's drama of Indo-Trinidadian life as Eldorado West One gathers his London plays; Dawes cites it as the compilation of his dramatic works.",
+   "meter": "Written for broadcast by the BBC, according to the publisher; their language and dramatic form were not examined.",
+   "context": "The Anthurium special issue dates the BBC production of Home Sweet India to 1970, and Wikipedia and South Asian Britain list it among Selvon's television scripts; the book appeared in 1991, when he lived in Calgary.",
+   "characters": "",
+   "structure": "Four separate plays; three adapt the novels A Brighter Sun, Turn Again Tiger and The Plains of Caroni, while Home Sweet India has no novel behind it in the sources consulted.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Radio Drama",
+    "Television Drama"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Highway in the Sun (Peepal Tree Press)",
+    "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
+   ]
+  },
+  {
    "id": 1581,
    "title": "Hilda Wade",
    "altTitles": [],
@@ -101375,6 +101774,57 @@
     "The Principles of Political Economy: With a Sketch of the Rise and Progress of the Science (Cambridge Library Collection)",
     "The Quarterly Review",
     "The Struggles of John Brown Russwurm: The Life and Writings of a Pan-Africanist Pioneer, 1799-1851"
+   ]
+  },
+  {
+   "id": 2913,
+   "title": "I Hear Thunder",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1963",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A novel of the Trinidadian middle class, published by MacGibbon & Kee in London in 1963 (1962 in Britannica), built on one young man's vow of chastity, in which Carnival stands for a society without racial barriers.",
+   "summary": "Adrian's year-long vow of celibacy, his temptation by his best friend's white wife, and Carnival.",
+   "plot": "Adrian, a middle-class Indo-Trinidadian 'fete-boy' disgusted by the sexual looseness around him, vows to remain chaste for a year, and is tempted by the white wife of his best friend, Mark (Caribbean Beat; Northern Arizona University essay). Carnival, in the essay's reading, is Selvon's image of a society without racial barriers, 'Black, white, brown and yellow, rich and poor ... all were out on the streets jumping up in the bands', but one that cannot last: an exhausted Mark is determined to carry on to the 'Last Lap'.",
+   "significance": "One of the least discussed of Selvon's novels; Britannica lists it among his later works.",
+   "meter": "Caribbean Beat calls it a story of middle-class foibles; the Northern Arizona University essay finds it more cynical than compassionate.",
+   "context": "Published in 1963, the year after Trinidad and Tobago's independence; with Those Who Eat the Cascadura it brings Selvon's concern with race back to Trinidad, in the essay's account.",
+   "characters": "Adrian; Mark, his best friend; Mark's white wife",
+   "structure": "Built around the year of Adrian's vow, with an episode of Carnival.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Social Novel"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
    ]
   },
   {
@@ -118283,6 +118733,110 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2917,
+   "title": "Moses Ascending",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1975",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The second novel of the Moses trilogy, published in London by Davis Poynter in 1975, returns to Moses Aloetta of The Lonely Londoners, now the owner of a ramshackle house in Shepherd's Bush who means to write his memoirs while his handyman does the work. Wikipedia names it, with The Lonely Londoners, as the book for which Selvon is best known.",
+   "summary": "A comedy of Moses' rise from tenant to landlord and would-be memoirist, set in a house that fills with the politics and people of 1970s black London.",
+   "plot": "Moses, once a poor Caribbean immigrant, has become the proud landlord of a ramshackle house in Shepherd's Bush. He sees himself as master of his own domain, writing his memoirs while his trusty sidekick and handyman, Bob, does all the work. His troubles are far from over. A Black Power group takes over the basement, headed by the indomitable Brenda; an illegal people-smuggling ring is discovered upstairs (an AbeBooks description of the first edition says Moses shelters Pakistani immigrants); and there is harassment by racist police, sheep-slaughtering in the back yard and a Black Panther on the loose. The publisher's description asks whether Moses' 'elaborately constructed castle in the air' will be demolished by these unruly forces, and presents the book as following the fortunes of characters from The Lonely Londoners.",
+   "significance": "After The Lonely Londoners the best known of Selvon's books (Wikipedia). It continues the Moses saga, which Dawes takes as Selvon's most telling treatment of identity and belonging, and its characters reappear in the radio plays of Eldorado West One (1988). It has been reissued by Heinemann (1984) and Penguin (2008, and in Penguin Modern Classics).",
+   "meter": "Dawes counts the three Moses novels as a comic trilogy, and the publisher calls the book a hilarious and telling depiction of 1970s Britain.",
+   "context": "Its Black Power group, people-smuggling and police harassment place it in the London of the early 1970s. It appeared in 1975, the year Selvon took up his fellowship at Dundee, three years before he left Britain for Canada.",
+   "characters": "Moses Aloetta, landlord and would-be memoirist; Bob, his handyman; Brenda, leader of the Black Power group",
+   "structure": "Set largely in Moses' house, from the basement taken by the Black Power group to the upper floor where the smuggled immigrants are found; the episodes arise from its tenants and visitors.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Comic Novel",
+    "Satirical Fiction"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Eldorado West One (Peepal Tree Press)",
+    "Moses Ascending (Penguin Modern Classics description, as reproduced by booksellers)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
+   ]
+  },
+  {
+   "id": 2918,
+   "title": "Moses Migrating",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1983",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The last of the Moses novels, published by Longman in Harlow in 1983, five years after Selvon moved to Canada. It won the Georges Bugnet Award for the novel at the Alberta Literary Awards in 1984.",
+   "summary": "Moses, more than twenty-five years after The Lonely Londoners, goes back from London to Trinidad.",
+   "plot": "More than twenty-five years after he became one of the 'Lonely Londoners', Moses Aloetta, though an avowed Anglophile, hankers for Trinidad, for sunshine, Carnival and rum punch, and the novel tells of his re-encounter with his native land (Lynne Rienner synopsis). In Dawes's account he at last musters the courage to return and must cope with recognising that he has become thoroughly and yet peculiarly English in his values, his sense of the world and his perception of himself.",
+   "significance": "Georges Bugnet Award (1984). Reissued by Lynne Rienner, Boulder, in 2009 with an introduction by Susheila Nasta.",
+   "meter": "The publisher speaks of Selvon's characteristic irony and delicacy of touch; Dawes includes it in the comic trilogy.",
+   "context": "Published in 1983, after Selvon himself had left London for Calgary; the trilogy's homecoming came from a writer who had already left Britain for Canada.",
+   "characters": "Moses Aloetta",
+   "structure": "Framed by the return journey; the events in Trinidad are not described in the sources consulted.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Comic Novel"
+   ],
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
    ]
   },
   {
@@ -174981,6 +175535,58 @@
    ]
   },
   {
+   "id": 2914,
+   "title": "The Housing Lark",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A comic novel of West Indian London, published by MacGibbon & Kee in 1965, in which Battersby and his friends try to pool their savings to buy a house. The Lynne Rienner synopsis calls it Selvon's fifth novel; by the dates of the first editions it is his sixth.",
+   "summary": "A scheme to buy a house together, and the gatherings, outings and quarrels of the West Indians drawn into it.",
+   "plot": "Faced with unscrupulous and racist landlords, Battersby, a West Indian exile in London, and his rakish friends hatch a scheme to pool their money for a place of their own, but it does not go as planned (Caribbean Beat). The search for decent, affordable shelter brings hardships and comic situations and shows the exiles' dealings with English women, with the British in general and with one another (Lynne Rienner synopsis). The Northern Arizona University essay notes that the lark remains a lark to Battersby but becomes a grim commitment for Jean, and that at a community fete the Indo-Trinidadian Syl, asked why he does not go back to India, answers, 'Brit'n is my country'.",
+   "significance": "Selvon's second novel of West Indian London; reissued by Lynne Rienner, Boulder, in 1990.",
+   "meter": "Caribbean Beat calls it a cheeky comedy of a West Indian exile's search for shelter.",
+   "context": "Set in London in the early 1960s, when West Indian migrants met discrimination from landlords; published in 1965.",
+   "characters": "Battersby ('Bat'), who devises the scheme; Syl, an Indo-Trinidadian; Jean",
+   "structure": "An ensemble comedy organised around the house-buying scheme.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Comic Novel",
+    "Social Novel"
+   ],
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)"
+   ]
+  },
+  {
    "id": 1943,
    "title": "The Hunting of the Snark: An Agony in Eight Fits",
    "altTitles": [
@@ -180802,6 +181408,63 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2910,
+   "title": "The Lonely Londoners",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1956",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Selvon's third novel, published in London by Allan Wingate in 1956 and in New York by St Martin's Press (142 pages), follows a group of West Indian migrants, 'the boys', through about three years of their lives in post-war London. It has no plot in the usual sense: its episodes are held together by Moses Aloetta, a Trinidadian who has lived in London longer than the others and whose room the newcomers visit every Sunday morning. Its narrator speaks the same creolised English as its characters, a choice Wikipedia calls groundbreaking, and Wikipedia ranks it, with George Lamming's The Emigrants (1954), among the first novels about poor, working-class black migrants after the British Nationality Act of 1948. In 2022 it was one of the seventy books chosen for the BBC's Big Jubilee Read.",
+   "summary": "A sequence of episodes and character sketches rather than a continuous story. It opens on a foggy winter evening as Moses takes the number 46 bus from the corner of Chepstow Road and Westbourne Grove to Waterloo to meet a newcomer off the boat-train, and moves among the men he knows: Galahad, Cap, Bart, Lewis, Big City, Five Past Twelve, Harris and Tolroy's family, with the redoubtable Tanty. About two-thirds of the way through, a long passage without punctuation celebrates summer in the parks; winter and unemployment return, and the book ends with Moses on Chelsea Embankment, looking at the Thames and wondering whether he could write a book.",
+   "plot": "On a grim winter evening Moses Aloetta, a Trinidadian night worker to whom people at home keep sending newcomers, goes to Waterloo to meet Henry Oliver, just arrived on the boat-train. At the station he finds his Jamaican friend Tolroy waiting for his mother, who arrives with the whole family, including Tolroy's aunt, Tanty Bessy, although he had asked her to come alone; Tanty makes everyone pose for a reporter, and the next day the photograph appears under the headline 'Now Jamaican Families Come to Britain'. Henry steps off the train in light clothes, with no luggage or winter coat and so cheerfully confident that Moses calls him Sir Galahad. Moses feeds him in his room in Bayswater and offers advice; Galahad, an electrician at home, insists on finding work alone, loses his way and his nerve in the street, and is rescued by Moses, who takes him to the employment exchange, where there are no openings but he registers for an insurance card.\n\nThe narrative turns to Moses' acquaintances. Cap, a Nigerian sent to London to study law, has spent his parents' money on drink and women, lives on loans he never repays and marries a French woman only to abandon her. Bart, light-skinned, passes himself off as South American and avoids other immigrants; he loses his English girlfriend, Beatrice, and is left searching London for her. Lewis, who works nights in the same factory as Moses, takes Moses' teasing claim that wives receive other men while their husbands are on the night shift as proof against his wife, Agnes, and beats her until she leaves him. Tanty, who never strays from her district, becomes a regular at a local shop that stocks West Indian goods, and makes her first journey alone by train and bus so easily that no one would have guessed it was her first. In summer Galahad, newly dressed in fine clothes, is wounded when a white child remarks on his colour, and alone in his room he addresses his own blackness: 'Colour, is you that causing all this'. Big City, who grew up in an orphanage in Trinidad, flaunts money whose source no one knows, and Harris, who prides himself on English manners, holds a dance at which the boys embarrass him: Tanty sweeps him on to the floor, Five Past Twelve dances close with one of his guests, and the night gets out of hand, ending with a bottle broken over Five's head. A long unpunctuated passage celebrates London in summer, when the boys 'coast a lime' in the parks and the city's sexual traffic between black men and white women runs through the night, until Moses closes it with 'a long sigh like a man who live life and see nothing at all in it'.\n\nWinter brings lay-offs. Hungry and out of work, Galahad catches a pigeon in a park while an old woman threatens to report him, and he and Moses cook it and laugh over stories of home until the talk turns sombre. At one of the Sunday gatherings Moses looks round at the boys with affection, unreliable as some of them are. At the end he stands on Chelsea Embankment, feeling in the river 'a greatness and a vastness', 'like it was something solid after feeling everything else give way'. Remembering Daniel's talk of taxi-drivers, porters and road-sweepers in France who had written best-sellers, he watches a tugboat on the Thames, 'wondering if he could ever write a book like that, what everybody would buy'.",
+   "significance": "South Asian Britain calls it Selvon's most acclaimed and widely known novel. Susheila Nasta's introduction to the Penguin edition describes it as 'a major step forward in the process of linguistic and cultural decolonization', and Wikipedia, citing the British Library, presents it as a precursor of Zadie Smith's White Teeth (2000) and Hanif Kureishi's The Buddha of Suburbia (1990). For Dawes it confirmed that West Indian idiom could carry not only comic character but deep emotion and philosophical introspection. Its success led to two sequels, Moses Ascending (1975) and Moses Migrating (1983), and Selvon adapted its characters for radio in the plays of Eldorado West One (1988).",
+   "meter": "A third-person narrator speaks the creolised English of the characters. Selvon told Michel Fabre that he began with narrative in standard English and dialogue in dialect, could not 'really move', and then wrote both in dialect, after which 'the novel just shot along'. The idiom includes the boys' names for places ('the Water' for Bayswater, 'the Gate' for Notting Hill), 'liming' and 'oldtalk', 'spades' for themselves and a string of slang for white women. Wikipedia links the stream-of-consciousness summer passage to modernism, and Schwarz notes that Selvon confirmed T. S. Eliot's influence, visible in the shared 'unreal' London of The Waste Land; the geography of the city, down to the bus route, is exact.",
+   "context": "Selvon arrived from Trinidad in 1950 and, like his characters, stayed in a hostel near Earl's Court, did menial work and came to know the Bayswater and Harrow Road district, while reading for the BBC's Caribbean Voices. The novel belongs to the first decade of post-war Caribbean migration after the Windrush, when the run-down rooming houses of Notting Hill were packed with migrant tenants by landlords such as Peter Rachman. Two years after publication the area saw the white riots of 1958, and in 1959 the murder of the Antiguan Kelso Cochrane; the first Caribbean carnival in London, held in St Pancras Town Hall in January 1959, was one response (Schwarz).",
+   "characters": "Moses Aloetta, a Trinidadian long settled in London; Henry Oliver, called Sir Galahad, a newcomer from Trinidad; Tolroy, a Jamaican, his mother and his aunt Tanty Bessy; Lewis and his wife Agnes; Cap, a Nigerian who came to study law; Bart and his English girlfriend Beatrice; Big City; Harris; Five Past Twelve; Daniel",
+   "structure": "Episodic and loosely chronological across roughly three years and their seasons, held together by Moses as host, adviser and witness; minor characters receive self-contained sketches. The opening journey to Waterloo and the closing scene on the Embankment frame the book, and Schwarz argues that Moses grows more reflective until he emerges as the author of his own tale. Dawes describes the whole as told like a ballad or calypso, and the summer section is a single stream-of-consciousness passage (pp. 92-102 in the edition Wikipedia cites).",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Comic Novel",
+    "Social Novel"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
+    "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)",
+    "The Lonely Londoners (Wikipedia)",
+    "The Lonely Londoners Full Plot Summary (GradeSaver)"
    ]
   },
   {
@@ -189674,6 +190337,59 @@
     "The Cambridge Companion to English Renaissance Drama, 2nd edition",
     "The Cambridge Companion to Restoration Drama",
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century"
+   ]
+  },
+  {
+   "id": 2915,
+   "title": "The Plains of Caroni",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1970",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Published by MacGibbon & Kee in London in 1970, the novel grew out of research on Trinidad's sugar industry sponsored by Tate and Lyle, which financed Selvon's return visit in 1969 (Journal of West Indian Literature, citing Michel Fabre). It turns on the trial of a mechanical cane harvester on a sugar estate.",
+   "summary": "An Indo-Trinidadian cane-cutting family and the trial of a mechanical harvester on a fictionalised Caroni estate, ending with an old cutter's fight against the machine.",
+   "plot": "Romesh, a university-educated agricultural scientist working for the management of a fictionalised Caroni Ltd., oversees the testing of a new harvesting machine on the estate where his family cuts cane. The labourers fear, rightly, that it will cost them their jobs, and suspect it of being a 'metal Trojan horse'. The old cutter Balgobin, whose love for Seeta was thwarted by her arranged marriage to his brother, has given his life to the craft of cutting, and he resists the harvester with his cutlass. As he is dying, he is saved from arrest by the revelation that Romesh, raised as his nephew, is his son. Romesh leaves for London with his white girlfriend, while Balgobin is venerated as a hero.",
+   "significance": "Selvon turned it into the radio play Harvest in Wilderness (collected in Highway in the Sun, 1991). Its readers include a 1995 study of its idea of heroism, Supriya Agarwal's 'Conflict and Resolution' (2008), the ecocritical issue of the Journal of West Indian Literature (2016) and Kris Singh's essay on cane in Anthurium (2025).",
+   "meter": "The journal essay quotes the rhythm of Balgobin's cutting ('his arm arcing the air ... in a grace of movement') and the villagers' images for the harvester: 'magic machine', 'space machine', 'giant monster'.",
+   "context": "Tate and Lyle was preparing to leave Trinidad: in 1970 it sold a majority share in Caroni Ltd. to the PNM government, and it ended its involvement in 1976. Romesh cites the figures Selvon gathered, 1.94 man-days to produce a ton of sugar in Hawaii against 15.21 in Trinidad.",
+   "characters": "Balgobin, an old cane-cutter; Romesh, an agricultural scientist, raised as his nephew; Teeka, Romesh's brother, a cane-cutter; Seeta, whom Balgobin loved",
+   "structure": "Centred on the harvester trial and its consequences, ending with Balgobin's death and Romesh's departure.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Social Novel"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Land, place and regional belonging",
+    "Technology, media and consumer society"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Highway in the Sun (Peepal Tree Press)",
+    "Journal of West Indian Literature 24.2 (November 2016), Caribbean Ecocriticism special issue",
+    "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "The Novel since 1970 (ResearchGate PDF)"
    ]
   },
   {
@@ -209588,6 +210304,57 @@
    ]
   },
   {
+   "id": 2916,
+   "title": "Those Who Eat the Cascadura",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1972",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Published in London by Davis Poynter in 1972, a novel of interracial love on a Trinidad plantation, framed by an obeahman's prophecy.",
+   "summary": "An Englishman's stay on a friend's Trinidad estate, his love for a young Indian woman and the prophecy of the village obeahman.",
+   "plot": "Manko, the village obeahman, predicts trouble when an Englishman, Garry, comes to stay, and the prophecy is fulfilled when Garry falls in love with a local Indian woman, Sarojini (Caribbean Beat; Northern Arizona University essay). The essay reads the outcome as racism proving stronger than love, since Garry feels she cannot be transplanted from the world that made her, and notes the discovery that Roger Franklin, the plantation owner, secretly visits Indian women at night and is probably Sarojini's father.",
+   "significance": "At his death Selvon was negotiating a film adaptation (Dawes).",
+   "meter": "Caribbean Beat calls it a story of interracial romance and the chaos it creates in a village; the essay sees the distant thunder of I Hear Thunder grown into a hurricane threatening the whole society.",
+   "context": "Published in London in 1972, six years before Selvon left Britain; it was reissued in Toronto by TSAR in 1988.",
+   "characters": "Manko, the village obeahman; Garry, an Englishman; Sarojini, a young Indian woman; Roger Franklin, the plantation owner",
+   "structure": "Framed by Manko's prophecy and by its fulfilment in Garry's love affair.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Social Novel"
+   ],
+   "themes": [
+    "Love, intimacy and loss",
+    "Myth, folklore and the supernatural",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
+   ]
+  },
+  {
    "id": 1053,
    "title": "Thoughts and Sentiments on the Evil and Wicked Traffic of the Slavery and Commerce of the Human Species, Humbly Submitted to the Justice of Great Britain by the Africans",
    "altTitles": [
@@ -212324,6 +213091,61 @@
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2912,
+   "title": "Turn Again Tiger",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1958",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The sequel to A Brighter Sun, published by MacGibbon & Kee in London in 1958 (1959 in Wikipedia's list and Caribbean Beat), takes Tiger back to the sugar-cane country of his childhood for a year. Britannica calls it perhaps Selvon's best novel and singles out its extensive and striking use of dialect.",
+   "summary": "Tiger's year in the cane-growing village of Five Rivers, where his father lives, among the cane workers and the white overseer's household.",
+   "plot": "Tiger leaves Barataria to return for a year to the sugar-cane country of his childhood and help his father, and after several misadventures learns more about life and himself (Caribbean Beat). At Five Rivers he is ashamed of his sexual response to Mrs Robinson, a white woman of the estate, but is saved, in the reading of the Northern Arizona University essay, by his peasant values; after the Robinsons have left, a cane worker tells him, 'You is one of we, Tiger', though near the end another reproaches him for boasting that he could read and write while helping nobody. In the radio play Selvon made from the novel, Tiger learns that he cannot turn his back on his Indian past if he is to lay its ghosts to rest and face the future whole (Peepal Tree).",
+   "significance": "Britannica's 'perhaps his best'. Reissued by Heinemann in 1979 with an introduction and study questions by Sandra Pouchet Paquet, and adapted by Selvon for the BBC as one of the plays later collected in Highway in the Sun (1991).",
+   "meter": "Britannica singles out its extensive and striking use of dialect.",
+   "context": "Published two years after The Lonely Londoners, it returns to the Indo-Trinidadian countryside; South Asian Britain groups it with A Brighter Sun and The Plains of Caroni as Selvon's fiction of South Asian life in Trinidad.",
+   "characters": "Tiger; Urmilla; Tiger's father; Mr and Mrs Robinson, a white couple on the estate; cane workers of Five Rivers",
+   "structure": "Organised around a single year's stay in the cane country, continuing the protagonist of A Brighter Sun.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Literary Novel",
+    "Social Novel"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Highway in the Sun (Peepal Tree Press)",
+    "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
    ]
   },
   {
@@ -216588,6 +217410,57 @@
     "The Edinburgh Edition of Walter Scott's 'Minstrelsy of the Scottish Border' (3 volumes)",
     "The Letters of William Lloyd Garrison, Volume I: I Will Be Heard!, 1822-1835",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period"
+   ]
+  },
+  {
+   "id": 2911,
+   "title": "Ways of Sunlight",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1957",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short-story collection",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Selvon's only collection of short stories, published by MacGibbon & Kee in London in 1957 (1958 in Britannica), sets stories of rural Trinidad beside stories of hard times among West Indians in London.",
+   "summary": "Short stories of village life in Trinidad, with its washerwomen, cane-cutters and the superstitious Ma Procop, and of West Indians in the cold basements of London.",
+   "plot": "In the Trinidad stories, according to the publisher's synopsis, village washerwomen gossip and quarrel, cane-cutters toil for a meagre harvest, and old Ma Procop protects the fruit of her mango tree with magic. The London stories turn to the depression of hard times in the city, where people live in cold, damp basements and hustle for survival. Dawes finds in the collection Selvon's wit, his trickery as a writer and his poetic sensibility.",
+   "significance": "Reissued by Longman in 1987 with a critical introduction by Jane Grant; Britannica lists it among Selvon's later works.",
+   "meter": "Dawes stresses wit, trickery and poetic sensibility, and Selvon's complete immersion in telling a story for its entertainment.",
+   "context": "Published the year after The Lonely Londoners; South Asian Britain counts it, with The Housing Lark, as an extension of Selvon's writing on migrant life in Britain.",
+   "characters": "",
+   "structure": "Separate stories set in Trinidad and in London; the number and order of the stories were not checked.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Short-Story Collection"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
    ]
   },
   {

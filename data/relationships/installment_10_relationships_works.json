@@ -319,6 +319,76 @@
    "work": "Coming, Coming Home: Conversations II",
    "author": "George Lamming",
    "contribution_type": "author"
+  },
+  {
+   "work": "A Brighter Sun",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "An Island Is a World",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Lonely Londoners",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ways of Sunlight",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Turn Again Tiger",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "I Hear Thunder",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Housing Lark",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Plains of Caroni",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Moses Ascending",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Moses Migrating",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eldorado West One",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -776,6 +846,98 @@
    "genres": [
     "Political Essay",
     "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "A Brighter Sun",
+   "genres": [
+    "Bildungsroman",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "An Island Is a World",
+   "genres": [
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "The Lonely Londoners",
+   "genres": [
+    "Social Novel",
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "Ways of Sunlight",
+   "genres": [
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "work": "Turn Again Tiger",
+   "genres": [
+    "Social Novel",
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "I Hear Thunder",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "The Housing Lark",
+   "genres": [
+    "Comic Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "The Plains of Caroni",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Moses Ascending",
+   "genres": [
+    "Comic Novel",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Moses Migrating",
+   "genres": [
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "Eldorado West One",
+   "genres": [
+    "Radio Drama",
+    "One-Act Play"
+   ]
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "genres": [
+    "Short Story",
+    "Literary Journalism"
+   ]
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "genres": [
+    "Radio Drama",
+    "Television Drama"
    ]
   }
  ],
@@ -1268,6 +1430,121 @@
     "Education, institutions and the academy",
     "Decolonisation, the end of empire and the new nation"
    ]
+  },
+  {
+   "work": "A Brighter Sun",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "An Island Is a World",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Lonely Londoners",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Ways of Sunlight",
+   "themes": [
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Turn Again Tiger",
+   "themes": [
+    "Land, place and regional belonging",
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "I Hear Thunder",
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "The Housing Lark",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "The Plains of Caroni",
+   "themes": [
+    "Technology, media and consumer society",
+    "Class, labour and social mobility",
+    "Land, place and regional belonging",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Love, intimacy and loss",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Moses Ascending",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Moses Migrating",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Eldorado West One",
+   "themes": [
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "themes": [
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Family, marriage and domestic life",
+    "Migration, exile and diaspora"
+   ]
   }
  ],
  "work_movements": [
@@ -1441,6 +1718,96 @@
    "movements": [
     "Caribbean Literature in English"
    ]
+  },
+  {
+   "work": "A Brighter Sun",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "An Island Is a World",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "The Lonely Londoners",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Ways of Sunlight",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Turn Again Tiger",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "I Hear Thunder",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "The Housing Lark",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "The Plains of Caroni",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Moses Ascending",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Moses Migrating",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Eldorado West One",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
   }
  ],
  "work_periods": [
@@ -1509,7 +1876,21 @@
     "Water with Berries",
     "Natives of My Person",
     "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990",
-    "Coming, Coming Home: Conversations II"
+    "Coming, Coming Home: Conversations II",
+    "A Brighter Sun",
+    "An Island Is a World",
+    "The Lonely Londoners",
+    "Ways of Sunlight",
+    "Turn Again Tiger",
+    "I Hear Thunder",
+    "The Housing Lark",
+    "The Plains of Caroni",
+    "Those Who Eat the Cascadura",
+    "Moses Ascending",
+    "Moses Migrating",
+    "Eldorado West One",
+    "Foreday Morning: Selected Prose 1946-1986",
+    "Highway in the Sun and Other Plays"
    ]
   }
  ]

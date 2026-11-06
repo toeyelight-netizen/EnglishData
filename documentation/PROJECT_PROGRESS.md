@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–07, giving **853 authors / 2907 works** across ten periods (c. 450–2000).
+  waves 01–08, giving **854 authors / 2921 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Seven research waves are built; see
+  **Installment 10 is in progress.** Eight research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1511,7 +1511,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–07 are built (63 works by 7 authors). Not complete.**
+**Status: in progress. Waves 01–08 are built (77 works by 8 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1643,6 +1643,26 @@ with broader Anglophone writing out of scope.
   - **Not recorded as works:** five uncollected stories, the poems, the two
     anthologies he edited and two co-authored books whose contents were not
     examined. They are listed in his bibliography note.
+- **Wave 08:** Samuel Selvon (Trinidad; in England 1950–1978, then Canada),
+  the first Indo-Caribbean author: all ten novels, from *A Brighter Sun* (1952)
+  to *Moses Migrating* (1983), the stories of *Ways of Sunlight* (1957), the
+  plays of *Eldorado West One* (1988) and *Highway in the Sun* (1991), and the
+  prose selection *Foreday Morning* (1989). *The Lonely Londoners* (1956) has a
+  full major record. The audit's "other English-language" count moves from 2 to
+  3, and genre-checklist coverage from 45 to 47 of 161.
+  - **Sources:** Wikipedia (two articles), Britannica, Kwame Dawes's EBSCO
+    entry, Bill Schwarz's London Fictions essay, South Asian Britain, the
+    Toronto Metropolitan University guide, Peepal Tree Press and GradeSaver,
+    with search extracts from *Caribbean Beat*, a Northern Arizona University
+    essay, eNotes, the *Journal of West Indian Literature*, Penguin, Mawenzi
+    House and *Anthurium* (sources 94–111).
+  - **Verification:** *The Lonely Londoners* is verified and 13 records are
+    partially verified; none of the books was read. Eleven dating and
+    biographical discrepancies are recorded in limitation 17 of the audit report.
+  - **Not recorded as works:** *A Meap Story* (1954) and *A Drink of Water*
+    (1968), named by one source each and described by none, the uncollected
+    stories and poems, the radio and television scripts, the screenplay of
+    *Pressure* (1976) and three essays. They are listed in his bibliography note.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1658,6 +1678,18 @@ Tutuola appears only as a 1964 anthology contributor in the African Writers
 Series. This is evidence that the inventory under-represents poetry, drama,
 criticism and Commonwealth writing published outside that series, above all
 Caribbean and South Asian writing; see the limitations in the audit report.
+
+**Discovery inventory (2026-11-06, third pass).** Two Commonwealth lists were
+transcribed from Wikipedia: the Commonwealth Writers' Prize (112 rows: regional
+and overall Best Book winners 1987–2000, Best First Book winners 1989–2000 and
+the short-story winners) and the Heinemann Caribbean Writers Series (Wikipedia's
+33-title selection). Two entries in the series table were wrong and are
+corrected in the list: *Witchbroom* is Lawrence Scott's, not Vanessa Spence's,
+and *Aunt Jen* is of 2002, not 1970 (WorldCat). The inventory now holds 6,122
+candidates (P1 715, P2 1,756, P3 3,651); the prize added 99, 62 of them in no
+other source, and the series 16. The output is identical under three hash seeds.
+Neither list reaches the 1950s and 1960s, so Selvon, like Lamming, is in no
+inventory. `tests/test_discovery.py` checks both lists against the inventory.
 
 **Corrections to installments 8–9 (2026-11-06).** Found while building wave 05;
 each is listed with its source in section 13 of the audit report.
@@ -1719,4 +1751,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–07: 63 works by 7 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–08: 77 works by 8 authors) |
