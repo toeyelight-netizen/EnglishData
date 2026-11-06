@@ -1947,6 +1947,237 @@ with broader Anglophone writing out of scope.
   Ashbery's "How to Continue" 1992. 165 of the 255 selections now have records;
   90 American selections remain.
 
+- **Wave 27:** Sylvia Plath, the eight poems of the American anthology, and with
+  them the whole Plath block dated. "Morning Song" (1961), "Lady Lazarus"
+  (1965), "Ariel" (1965), "Daddy" (1965), "Words" (1965), "Blackberrying"
+  (1962), "The Applicant" (1963) and "Child" (1971): eight works and one author.
+  All eight rows had carried only "written 1961-1963" and no first-publication
+  date. The dates are now settled from first printings: "Blackberrying" in
+  *The New Yorker*, 15 September 1962 (the one selection printed in a periodical
+  in her lifetime); "The Applicant" in *The London Magazine*, January 1963; the
+  five *Ariel* poems in Faber's *Ariel* of 1965; "Child" not in *Ariel* at all
+  but in *Winter Trees* (Faber, 1971). Composition dates from the manuscripts at
+  Smith College and the appendix to *Ariel: The Restored Edition* are recorded
+  in each research note. Fifteen new sources. 173 of the 255 selections now have
+  records; 82 American selections remain.
+
+- **Wave 28:** Toni Morrison, John Updike, Philip Roth, Philip K. Dick, Ursula K.
+  Le Guin and Octavia E. Butler - the six-author block after Plath, six works and
+  six authors. Morrison's *Nobel Lecture in Literature* (delivered in Stockholm
+  on 7 December 1993, first published by Knopf in March 1994), Updike's "New York
+  Girl" (*The New Yorker*, 1 April 1996; collected in *Licks of Love*, 2000),
+  Roth's "The Conversion of the Jews" (*The Paris Review* no. 18, Spring 1958;
+  *Goodbye, Columbus*, 1959), Dick's "Precious Artifact" (*Galaxy Magazine*,
+  October 1964), Le Guin's "Schrödinger's Cat" (*Universe 5*, 1974, ed. Terry
+  Carr) and Butler's "Bloodchild" (*Isaac Asimov's Science Fiction Magazine*, June
+  1984 - the Hugo, Nebula and Locus novelette). The block carries the anthology's
+  science-fiction section: three of the six are speculative fiction, and Le Guin
+  and Butler are recorded in both the New Wave and the feminist science-fiction
+  movements. Sixteen new sources. All six Norton rows dated from their first
+  printings, which leaves 17 selections undated, all of them post-2000 prospects
+  or the eight remaining English rows named in the limitations. 223 works by 72
+  authors; 78 of the 254 in-scope selections have no record (the English
+  anthology's 89 are complete; the American is at 89 of 165), and the 17 undated
+  rows still decide whether a further five authors are covered.
+
+- **Wave 29:** Amiri Baraka, N. Scott Momaday, Mary Oliver and Lucille Clifton, with
+  two poems restored to Audre Lorde and Allen Ginsberg. Seventeen works and four
+  new authors. Baraka's four selections are dated from their first printings:
+  "An Agony. As Now." and "A Poem for Willie Best" in *The Dead Lecturer* (Grove,
+  1964), "Black Art" in *The Liberator* for January 1966 (it had already
+  circulated in 1965 as a recording on Sonny Murray's *Sonny's Time Now*), and
+  "Will They Cry When You're Gone, You Bet", whose first book collection is
+  *Black Magic* (Bobbs-Merrill, 1969) and for which no earlier periodical
+  printing was found - the record says so rather than guessing. Momaday's
+  "Headwaters" is the framing poem of *The Way to Rainy Mountain* (University of
+  New Mexico Press, 1969), recorded beside the book itself, whose three-voice
+  triptych structure in three typefaces is documented from the scholarship on
+  it. Oliver's "The Summer Day" is from *House of Light* (Beacon, 1990) and
+  Clifton's seven selections are dated to *Good Times* (1969), *Good News About
+  the Earth* (1972), *Two-Headed Woman* (1980) and *Quilting* (1991). Lorde's
+  "Poetry Is Not a Luxury" (*Chrysalis*, 1977; *Sister Outsider*, 1984) and
+  Ginsberg's "Footnote to Howl" and "A Supermarket in California" (*Howl and
+  Other Poems*, City Lights, 1956) were missing from waves 24 and 25 and are
+  added here. Sixteen new sources. 240 works by 81 authors; 195 of the 255
+  selections recorded, 61 still to record across 29 authors.
+
+- **Wave 30:** the American prose block - Don DeLillo, Thomas Pynchon, Raymond
+  Carver, Toni Cade Bambara, Maxine Hong Kingston, Leslie Marmon Silko, Ishmael
+  Reed and Richard Rodriguez. Eight authors, eight works, ten Norton rows (both
+  of Kingston's selections map to *The Woman Warrior*, as the coverage matrix
+  records). DeLillo's *White Noise* (Viking, 1985) is recorded as one work with
+  the Norton excerpt - Part II, "The Airborne Toxic Event" - named in the
+  bibliography statement; Pynchon's "Entropy" is from *The Kenyon Review* for
+  Spring 1960, written at Cornell before *V*; Carver's "Cathedral" is from *The
+  Atlantic Monthly* for September 1981 and *Cathedral* (Knopf, 1983), with a
+  note that some accounts give March 1981 and the record states the
+  discrepancy rather than resolving it. Bambara's "The Lesson" is from
+  *Gorilla, My Love* (1972); Silko's "Lullaby" from *Laguna Woman* (1974) and
+  "Language and Literature from a Pueblo Indian Perspective" from the 1981
+  Buffalo conference volume; Reed's "Neo-HooDoo Manifesto" opens *Conjure*
+  (1972); Rodriguez's *Hunger of Memory* is from Godine, 1982. Sixteen new
+  sources. 249 works by 89 authors; 204 of the 255 selections recorded, 51
+  still to record across 21 authors.
+
+**Tooling (2026-11-06).** Three scripts now do work that was being done by hand,
+and all three are described in `AGENT_HANDOVER.md` §2:
+
+- `scripts/i10_preflight.py` runs the build's own strict checker
+  (`strict_checks.check`) against a single wave file in about a second, plus the
+  collision checks that the build performs against the database and the other
+  waves. A wave is now proven before the build is run, instead of one failure at
+  a time.
+- `scripts/i10_gates.py` runs the whole verification chain - preflight, build,
+  database rebuild and import, then the gate scripts and the test suite in
+  parallel - with one exit status; the chain takes 35 seconds of machine time
+  instead of nine sequential commands, and the two 13-second steps now overlap.
+- `scripts/i10_state.py` computes the coverage figures from the audit's own
+  coverage matrix instead of from a hand count, prints the next selections in
+  Norton order, and lists every line in the documentation that still carries a
+  superseded figure. The state figures below are its output.
+
+- **Wave 31 (the dates).** All seventeen remaining undated Norton rows settled. Ten
+  of them left the period: Simon Armitage's "Horses, M62" (*Tyrannosaurus Rex
+  Versus the Corduroy Kid*, 2006), "The English Astronaut" (*Seeing Stars*, 2010)
+  and "Beck" (written 2010-2012 for the Stanza Stones project, first collected in
+  *Sandettie Light Vessel Automatic*, 2019); Rachel Cusk's "Freedom" (*The Paris
+  Review* 217, Summer 2016); Juan Felipe Herrera's "Half-Mexican" (*Notes on the
+  Assemblage*, 2015), "Borderbus" (Backwaters Press, 2018) and "Y si el hombre con
+  el choke-hold" (first in the *Los Angeles Review of Books*, 2014, collected
+  2015); Natasha Trethewey's "Photograph: Ice Storm, 1971" (*Native Guard*, 2006);
+  Geoffrey Hill's "Broken Hierarchies" (*Without Title*, 2006); and Kamau
+  Brathwaite's "[On Sycorax Video Style]" (below). Seven came into period: Stevie
+  Smith's "Pretty" (*Scorpion and Other Poems*, posthumous, 1972); Louise Bennett's
+  "Jamaica Language", "Dry-Foot Bwoy" and "Jamaica Oman" (all *Jamaica Labrish*,
+  Kingston: Sangster's, 1966); Armitage's "The Tyre" (*Cloudcuckooland*, 1997);
+  and two Herrera poems, "Exiles" and "Literary Asylums", both from *Exiles of
+  Desire* (Lalo Press, 1983).
+
+  Two of those seven were recovered only by rejecting an earlier reading. A first
+  pass had dated Herrera's poems from their appearance in *Half of the World in
+  Light* (University of Arizona Press, 2008) and dropped them as post-2000.
+  *Half of the World in Light* is a new-and-selected volume: "Exiles" opens
+  *Exiles of Desire* (1983), and the volume's own contents place "Literary
+  Asylums" in the same book. The reprint date was not the date of first
+  publication, and two in-period poems were nearly lost to that error.
+
+  Two rows also needed their reasoning corrected rather than just their verdict.
+  "Broken Hierarchies" is a real poem - the title poem of *Without Title* (2006) -
+  and not, as an earlier pass had it, merely the title of Hill's 2013 collected
+  edition; it is out of period for its 2006 date. Brathwaite's "[On Sycorax Video
+  Style]" had been marked post-2000 on the strength of *MR/1* (1998), which is
+  inside the period and so proves nothing of the kind. The practice itself dates
+  from 1990; the prose statement the NAEL prints was published in *conVERSations
+  with Nathaniel Mackey* (We Press, 1999) in the eleventh edition's own
+  "Born-Digital Literature" cluster, the source its editors cite. It is therefore
+  dated 1999 and is in period, taking the English anthology's in-scope count from
+  95 rows to 96.
+
+  Three rows were also malformed in the CSVs - two carrying a sixteenth cell
+  against a fifteen-field header, and one carrying fourteen, the last of them
+  predating this session. All three were repaired and both files now parse to a
+  uniform fifteen fields; the repair was done with the csv module and verified by
+  a byte-identical round trip, because the earlier attempt at text replacement was
+  what desynchronised the rows in the first place.
+
+  The measured position: **265 in-scope rows** in the two Norton lists (NAEL 96,
+  NAAL 169), **204 distinct works recorded** from them (NAEL 89, NAAL 115), and
+  **58 distinct works still to record** (NAEL 6, NAAL 52) - 59 rows, because
+  Anzaldua's *Borderlands/La Frontera* supplies two. **No row is undated.** Every
+  remaining record now rests on a checked date rather than a guess.
+
+- **Wave 32 (the seven).** The selections wave 31 brought into the period, all built:
+  Stevie Smith's "Pretty" (*Scorpion and Other Poems*, 1972); Louise Bennett's
+  "Dry-Foot Bwoy" and "Jamaica Oman" (*Jamaica Labrish*, 1966) and "Jamaica
+  Language"; Simon Armitage's "The Tyre" (*Cloudcuckooland*, 1997); and Juan
+  Felipe Herrera's "Exiles" and "Literary Asylums" (*Exiles of Desire*, 1983).
+  Two new authors (Armitage, Herrera), seven works, six new sources. The English
+  anthology is now complete but for Brathwaite's "[On Sycorax Video Style]".
+
+  The wave caught one more dating error of its own making. Wave 31 had dated all
+  four Bennett rows to *Jamaica Labrish* (1966). Three are poems in that book;
+  "Jamaica Language" is not. It is a monologue in the voice of Aunty Roachy from
+  *Miss Lou's Views*, the radio programme Bennett ran from 1965 to 1982, and it was
+  first printed in *Aunty Roachy Seh*, edited by Mervyn Morris (Kingston:
+  Sangster's, 1993), where it opens the book at page 1. The Norton list and the
+  record now both give 1993. The lesson is the one wave 31 had already taught:
+  a selection's anthology heading is not its first printing, and the book that
+  collects a poet's poems need not collect a poet's monologues.
+
+  Two of the seven records are honest about what was not read. The full texts of
+  Herrera's "Exiles" and "Literary Asylums" were not examined; their descriptions
+  rest on the Norton's own accounts of the two poems and on the contents of *Half
+  of the World in Light*, which places both in the *Exiles of Desire* sequence,
+  and both records say so. "Dry-Foot Bwoy" is the only one of the seven marked
+  *verified*, because its text and page reference were both confirmed.
+
+  The measured position: **256 works by 91 authors**, **211 recorded against 265
+  in-scope selections** (English 94 of 96, American 117 of 169), **52 remaining,
+  none undated** - 51 American and one English.
+
+- **Wave 33 (the English anthology's last row, and three American poets).** Kamau
+  Brathwaite's "[On Sycorax Video Style]" is recorded, which leaves the English
+  anthology one selection short of complete for the period - and that one is a
+  different thing from an unrecorded poem, because the NAEL prints the passage as
+  a statement of poetics in its "Born-Digital Literature" cluster rather than as a
+  literary work. Bob Dylan, Simon J. Ortiz and Louise Glück are new authors, with
+  two, three and three works.
+
+  The wave also closed the last two provisional dates in either list. Ortiz's
+  "Earth and Rain, the Plants & Sun" is from *Going for the Rain* (Harper & Row,
+  1976) and "Passing through Little Rock" from *A Good Journey* (Turtle Island
+  Foundation, 1977); both were fixed from the contents of *Woven Stone* (University
+  of Arizona Press, 1992), which reprints the three collections in full and lists
+  the second poem at page 98. **No selection in either anthology now carries an
+  unverified date.**
+
+  The records are honest about their limits. Glück's three poems are the only ones
+  in the wave whose collections were confirmed from a printed contents list, and
+  the Vespers record says plainly that the anthology prints ten poems of that title
+  and that the record identifies its one by first line. Ortiz's *From Sand Creek*
+  was not read in full; its record rests on the published accounts of its three-part
+  structure and its refrains. Dylan's two lyrics were not transcribed from a first
+  pressing, and the identity of the woman in "Like a Rolling Stone" is left
+  unasserted because it has never been established.
+
+  The measured position: **265 works by 94 authors**. **The English volume is
+  complete - 96 of 96 in-scope selections recorded.** The American volume stands
+  at **126 of 169**, with **43 remaining, none undated**.
+
+  *A correction to the previous figure.* Waves 29-32 reported the English volume
+  as "94 of 96" and wave 33 was written to close the last of those two rows. It
+  was never open. The 96 was a count of anthology **rows** and the 94 a count of
+  **works**, and the two differ legitimately: Rushdie's *Imaginary Homelands* is
+  printed twice in the volume (pp. 747 and 750) and Kingston's *The Woman Warrior*
+  twice in the American one, so one record answers two rows. `i10_state.py` now
+  counts rows, prints `NAEL 96 of 96`, and cannot repeat the error.
+
+- **Waves 34–36 (the American volume, finished).** Forty-three rows closed in
+  three passes, taking the American volume from 126 to 169 of 169 and the
+  installment to **310 works by 112 authors**, with **every in-scope selection in
+  both volumes recorded and none undated**.
+
+  The approach was to record authors' books rather than anthology pages. Wave 34
+  took the ten largest outstanding authors in one pass — Anzaldúa, Walker, Wilson,
+  O'Brien, Komunyakaa, Spiegelman, Alvarez, Harjo, Alexie and Dove — and wave 35 the
+  remaining nine, Tan, Cisneros, Erdrich, Lee, Moore, Trethewey, Lahiri and Díaz
+  with Dove's later poems. Because one record can answer several rows — *Thomas and
+  Beulah* answers six, *The Joy Luck Club* one — coverage moved faster than the
+  number of records suggests. Wave 36 closed the last eight, where the anthology
+  prints a single named poem from a book already recorded, and each of those got a
+  poem-level record pointing at its collection.
+
+  Four rows the Norton list carried undated are now dated from first editions:
+  Harjo's "White Bear" (*She Had Some Horses*, 1983), Alexie's "Pawn Shop" and "At
+  Navajo Monument Valley Tribal School" (*The Business of Fancydancing*, 1992), and
+  Komunyakaa's "Nude Study", which appeared in *Poetry* in the winter of 1992 and
+  was gathered in *Taboo* (2004) — dated 1992 as its first printing, with the later
+  book named separately rather than used to push the selection out of the period.
+
+  One date is recorded as unresolved: Dove's "Poem in Which I Refuse
+  Contemplation" is in *Museum* (1983) but the Norton list dates it 1989. The record
+  gives both and says the question is open, instead of choosing the convenient one.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2032,15 +2263,20 @@ lists that name no one, caught the fabricated record but would have missed
 the four bad plots, so it gives an order of work, not a filter.
 
 **Stopping point.** The ordered list of outstanding tasks is in
-`research/installment_10/report_notes.md`:
+`research/installment_10/report_notes.md`, kept current to wave 26:
 1. done in waves 13 and 14: the selections of the five recorded authors and
    of the installment-9 authors Rhys, Beckett, Auden and Brooks;
 2. (merged into 1);
-3. record the other Norton authors and their selections, in Norton's order
-   (wave 15 reached Salman Rushdie in the English anthology; next is Grace
-   Nichols);
-4. check every provisional date, including the 24 selections still to be
-   dated, and run the plot check of installments 8–9;
+3. record the remaining Norton authors and their selections, in Norton's order.
+   The English anthology is complete for the period: 90 of 90 in-scope
+   selections have records (waves 15–20, to Kiran Desai). The American
+   anthology is under way: waves 21–31 recorded 115 of its 169 in-scope rows as
+   115 works, the largest remaining block being Rita Dove's ten, then Li-Young
+   Lee's five and four each for Joy Harjo, Yusef Komunyakaa and Sherman Alexie;
+   58 works remain, with Jhumpa Lahiri and Junot Díaz at the end;
+4. check every provisional date as its record is built — wave 31 dated the last
+   seventeen undated rows, so none remains — and run the plot check of
+   installments 8–9;
 5. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
@@ -2054,4 +2290,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 209 works by 65 authors; 165 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | **Complete** for the period (310 works by 112 authors; all 265 in-scope Norton selections recorded - English 96 of 96, American 169 of 169; none undated) |

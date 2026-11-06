@@ -28,11 +28,45 @@
    ]
   },
   {
+   "author": "Alice Walker",
+   "genres": [
+    "Cultural Criticism",
+    "Domestic Fiction",
+    "Literary Essay",
+    "Personal Essay",
+    "Regional Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Allen Ginsberg",
    "genres": [
+    "Beat Poetry",
     "Confessional Poetry",
+    "Elegiac Poetry",
     "Free Verse",
+    "Political Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Amiri Baraka",
+   "genres": [
+    "Black Arts Poetry",
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "author": "Amy Tan",
+   "genres": [
+    "Bildungsroman",
+    "Domestic Fiction",
+    "Literary Novel"
    ]
   },
   {
@@ -52,6 +86,15 @@
     "Free Verse",
     "Love Poetry",
     "Lyric Poetry"
+   ]
+  },
+  {
+   "author": "Art Spiegelman",
+   "genres": [
+    "Autobiography",
+    "Biography",
+    "Graphic Novel",
+    "Historical Writing"
    ]
   },
   {
@@ -83,6 +126,15 @@
    ]
   },
   {
+   "author": "August Wilson",
+   "genres": [
+    "Domestic Drama",
+    "Drama and Performance (1946–2000)",
+    "Full-Length Play",
+    "Modern Tragedy"
+   ]
+  },
+  {
    "author": "Ben Okri",
    "genres": [
     "Experimental Fiction",
@@ -95,6 +147,15 @@
    "genres": [
     "Regional Fiction",
     "Short Story"
+   ]
+  },
+  {
+   "author": "Bob Dylan",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry",
+    "Political Poetry"
    ]
   },
   {
@@ -133,6 +194,14 @@
     "Narrative Poetry",
     "Political Poetry",
     "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Don DeLillo",
+   "genres": [
+    "Campus Novel",
+    "Postmodern Fiction",
+    "Satirical Fiction"
    ]
   },
   {
@@ -234,6 +303,15 @@
    ]
   },
   {
+   "author": "Gloria Anzaldúa",
+   "genres": [
+    "Autobiography",
+    "Cultural Criticism",
+    "Literary Essay",
+    "Prose Poetry"
+   ]
+  },
+  {
    "author": "Grace Nichols",
    "genres": [
     "Dramatic Poetry",
@@ -268,6 +346,14 @@
     "Domestic Fiction",
     "Short Story",
     "Social Novel"
+   ]
+  },
+  {
+   "author": "Ishmael Reed",
+   "genres": [
+    "Literary Manifesto",
+    "Postmodern Poetry",
+    "Satirical Fiction"
    ]
   },
   {
@@ -321,6 +407,13 @@
    ]
   },
   {
+   "author": "Jhumpa Lahiri",
+   "genres": [
+    "Domestic Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Joan Didion",
    "genres": [
     "Cultural Criticism",
@@ -355,13 +448,58 @@
    ]
   },
   {
-   "author": "Kamau Brathwaite",
+   "author": "John Updike",
+   "genres": [
+    "Domestic Fiction",
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Joy Harjo",
+   "genres": [
+    "Confessional Poetry",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "author": "Juan Felipe Herrera",
    "genres": [
     "Experimental Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "genres": [
+    "Bildungsroman",
+    "Domestic Fiction",
+    "Literary Novel"
+   ]
+  },
+  {
+   "author": "Junot Díaz",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Kamau Brathwaite",
+   "genres": [
+    "Cultural Criticism",
+    "Experimental Poetry",
     "Literary Essay",
+    "Literary Manifesto",
     "Lyric Poetry",
     "Political Poetry",
     "Postcolonial Criticism",
+    "Prose Poetry",
     "Visual Poetry"
    ]
   },
@@ -392,6 +530,25 @@
    ]
   },
   {
+   "author": "Leslie Marmon Silko",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Essay",
+    "Personal Essay",
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Li-Young Lee",
+   "genres": [
+    "Elegiac Poetry",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "genres": [
     "Dub Poetry",
@@ -417,11 +574,50 @@
    ]
   },
   {
+   "author": "Lorrie Moore",
+   "genres": [
+    "Domestic Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Louise Bennett",
    "genres": [
+    "Folklore Collection",
     "Light Verse",
+    "Narrative Poetry",
     "Performance Poetry",
-    "Political Poetry"
+    "Political Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "genres": [
+    "Literary Novel",
+    "Mythological Retelling",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Louise Glück",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Lucille Clifton",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Religious Poetry",
+    "Social Poetry"
    ]
   },
   {
@@ -451,10 +647,54 @@
    ]
   },
   {
+   "author": "Mary Oliver",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "author": "Maxine Hong Kingston",
+   "genres": [
+    "Autobiographical Novel",
+    "Memoir",
+    "Nonfiction Prose (1946–2000)"
+   ]
+  },
+  {
+   "author": "N. Scott Momaday",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Memoir",
+    "Mythological Retelling",
+    "Nature Poetry",
+    "Nonfiction Prose (1946–2000)"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "genres": [
+    "Historical Writing",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Visual Poetry"
+   ]
+  },
+  {
    "author": "Ngũgĩ wa Thiong'o",
    "genres": [
     "Political Essay",
     "Postcolonial Criticism"
+   ]
+  },
+  {
+   "author": "Octavia E. Butler",
+   "genres": [
+    "Science Fiction",
+    "Short Story",
+    "Soft Science Fiction"
    ]
   },
   {
@@ -468,6 +708,14 @@
     "Lyric Poetry",
     "Narrative Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "author": "Philip K. Dick",
+   "genres": [
+    "Science Fiction",
+    "Short Story",
+    "Soft Science Fiction"
    ]
   },
   {
@@ -495,6 +743,14 @@
    ]
   },
   {
+   "author": "Philip Roth",
+   "genres": [
+    "Domestic Fiction",
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Ralph Ellison",
    "genres": [
     "Bildungsroman",
@@ -506,6 +762,32 @@
     "Political Novel",
     "Satirical Fiction",
     "Short-Story Collection"
+   ]
+  },
+  {
+   "author": "Raymond Carver",
+   "genres": [
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "genres": [
+    "Memoir",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay"
+   ]
+  },
+  {
+   "author": "Rita Dove",
+   "genres": [
+    "Dramatic Monologue",
+    "Dramatic Poetry",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
    ]
   },
   {
@@ -565,6 +847,13 @@
    ]
   },
   {
+   "author": "Sandra Cisneros",
+   "genres": [
+    "Domestic Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Saul Bellow",
    "genres": [
     "Realist Fiction",
@@ -586,11 +875,45 @@
    ]
   },
   {
+   "author": "Sherman Alexie",
+   "genres": [
+    "Bildungsroman",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Prose Poetry",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Simon Armitage",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Regional Poetry"
+   ]
+  },
+  {
+   "author": "Simon J. Ortiz",
+   "genres": [
+    "Elegiac Poetry",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Nature Poetry",
+    "Political Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "genres": [
     "Elegiac Poetry",
     "Light Verse",
     "Lyric Poetry",
+    "Nature Poetry",
     "Religious Poetry"
    ]
   },
@@ -600,6 +923,18 @@
     "Cultural Criticism",
     "Literary Criticism and Theory (1946–2000)",
     "Literary Essay"
+   ]
+  },
+  {
+   "author": "Sylvia Plath",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Pastoral and Rural Poetry"
    ]
   },
   {
@@ -643,6 +978,47 @@
    ]
   },
   {
+   "author": "Thomas Pynchon",
+   "genres": [
+    "Postmodern Fiction",
+    "Science Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Tim O'Brien",
+   "genres": [
+    "Metafictional Novel",
+    "Short Story",
+    "War Novel"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "genres": [
+    "Realist Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Essay",
+    "Nonfiction Prose (1946–2000)",
+    "Political Essay"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "genres": [
+    "Science Fiction",
+    "Short Story",
+    "Speculative Fiction (1946–2000)"
+   ]
+  },
+  {
    "author": "V. S. Naipaul",
    "genres": [
     "Novella",
@@ -676,6 +1052,17 @@
    ]
   },
   {
+   "author": "Yusef Komunyakaa",
+   "genres": [
+    "Cultural Criticism",
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "bpNichol",
    "genres": [
     "Concrete Poetry",
@@ -706,9 +1093,30 @@
    ]
   },
   {
+   "author": "Alice Walker",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Allen Ginsberg",
    "movements": [
     "The Beat Generation"
+   ]
+  },
+  {
+   "author": "Amiri Baraka",
+   "movements": [
+    "Black Arts Movement",
+    "The Beat Generation"
+   ]
+  },
+  {
+   "author": "Amy Tan",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -722,6 +1130,12 @@
    "movements": [
     "Confessional Poetry",
     "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Art Spiegelman",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
    ]
   },
   {
@@ -742,7 +1156,15 @@
    "author": "Audre Lorde",
    "movements": [
     "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics",
     "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "August Wilson",
+   "movements": [
+    "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   },
   {
@@ -758,6 +1180,12 @@
    "movements": [
     "African Literature in English",
     "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "author": "Bob Dylan",
+   "movements": [
+    "The Beat Generation"
    ]
   },
   {
@@ -785,6 +1213,12 @@
    "movements": [
     "Caribbean Literature in English",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Don DeLillo",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
    ]
   },
   {
@@ -841,6 +1275,14 @@
    "movements": []
   },
   {
+   "author": "Gloria Anzaldúa",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Grace Nichols",
    "movements": [
     "Black British Writing and the Windrush Generation",
@@ -867,6 +1309,13 @@
    "movements": [
     "Black British Writing and the Windrush Generation",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Ishmael Reed",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   },
   {
@@ -910,6 +1359,13 @@
    ]
   },
   {
+   "author": "Jhumpa Lahiri",
+   "movements": [
+    "Asian American Literary Movement",
+    "Postcolonial Literature"
+   ]
+  },
+  {
    "author": "Joan Didion",
    "movements": [
     "Postmodernism and Postmodern Fiction"
@@ -933,6 +1389,40 @@
    "movements": [
     "Late Modernism",
     "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "John Updike",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "author": "Joy Harjo",
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Juan Felipe Herrera",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "movements": [
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Junot Díaz",
+   "movements": [
+    "Minimalism and Dirty Realism",
+    "Postcolonial Literature"
    ]
   },
   {
@@ -966,6 +1456,19 @@
    ]
   },
   {
+   "author": "Leslie Marmon Silko",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "author": "Li-Young Lee",
+   "movements": [
+    "Postcolonial Literature",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "movements": [
     "Black British Writing and the Windrush Generation",
@@ -980,10 +1483,37 @@
    ]
   },
   {
+   "author": "Lorrie Moore",
+   "movements": [
+    "Minimalism and Dirty Realism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Louise Bennett",
    "movements": [
     "Caribbean Literature in English",
-    "Postcolonial Literature"
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "author": "Louise Glück",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "author": "Lucille Clifton",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -1007,10 +1537,41 @@
    ]
   },
   {
+   "author": "Mary Oliver",
+   "movements": []
+  },
+  {
+   "author": "Maxine Hong Kingston",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "N. Scott Momaday",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
    "author": "Ngũgĩ wa Thiong'o",
    "movements": [
     "African Literature in English",
     "Postcolonial Theory"
+   ]
+  },
+  {
+   "author": "Octavia E. Butler",
+   "movements": [
+    "Feminist Science Fiction",
+    "New Wave Science Fiction"
    ]
   },
   {
@@ -1021,14 +1582,44 @@
    ]
   },
   {
+   "author": "Philip K. Dick",
+   "movements": [
+    "New Wave Science Fiction"
+   ]
+  },
+  {
    "author": "Philip Larkin",
    "movements": [
     "The Movement"
    ]
   },
   {
+   "author": "Philip Roth",
+   "movements": [
+    "Jewish American Fiction"
+   ]
+  },
+  {
    "author": "Ralph Ellison",
    "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Raymond Carver",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "movements": []
+  },
+  {
+   "author": "Rita Dove",
+   "movements": [
+    "Confessional Poetry",
+    "Postmodernism and Postmodern Fiction",
     "Postwar African American Writing: Protest and Its Critics"
    ]
   },
@@ -1067,6 +1658,13 @@
    ]
   },
   {
+   "author": "Sandra Cisneros",
+   "movements": [
+    "Chicano Movement Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Saul Bellow",
    "movements": [
     "Jewish American Fiction",
@@ -1080,6 +1678,24 @@
    ]
   },
   {
+   "author": "Sherman Alexie",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "author": "Simon Armitage",
+   "movements": [
+    "The British Poetry Revival"
+   ]
+  },
+  {
+   "author": "Simon J. Ortiz",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "movements": []
   },
@@ -1087,6 +1703,13 @@
    "author": "Susan Sontag",
    "movements": [
     "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Sylvia Plath",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -1116,6 +1739,37 @@
    ]
   },
   {
+   "author": "Thomas Pynchon",
+   "movements": [
+    "New Wave Science Fiction",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Tim O'Brien",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "movements": [
+    "New Wave Science Fiction"
+   ]
+  },
+  {
    "author": "V. S. Naipaul",
    "movements": [
     "Postcolonial Literature",
@@ -1138,6 +1792,12 @@
    "movements": [
     "African Literature in English",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Yusef Komunyakaa",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
    ]
   },
   {
@@ -1177,11 +1837,49 @@
    ]
   },
   {
+   "author": "Alice Walker",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "Allen Ginsberg",
    "themes": [
     "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Counterculture, drugs and rebellion",
+    "Faith, doubt and the sacred",
     "Madness, breakdown and confinement",
-    "Sexuality, desire and the closet"
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Amiri Baraka",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Amy Tan",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Migration, exile and diaspora"
    ]
   },
   {
@@ -1203,6 +1901,16 @@
     "Love, intimacy and loss",
     "Madness, breakdown and confinement",
     "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Art Spiegelman",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "The Holocaust, atrocity and historical memory"
    ]
   },
   {
@@ -1228,10 +1936,21 @@
     "Family, marriage and domestic life",
     "Gender, feminism and women's lives",
     "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
     "Power, the state and surveillance",
     "Race, racism and the struggle for civil rights",
     "Sexuality, desire and the closet",
     "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "August Wilson",
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -1248,6 +1967,16 @@
     "Faith, doubt and the sacred",
     "Family, marriage and domestic life",
     "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Bob Dylan",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self",
+    "Technology, media and consumer society",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -1290,6 +2019,14 @@
     "Nature, ecology and environmental crisis",
     "Race, racism and the struggle for civil rights",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Don DeLillo",
+   "themes": [
+    "Death, illness and mourning",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
    ]
   },
   {
@@ -1401,6 +2138,16 @@
    ]
   },
   {
+   "author": "Gloria Anzaldúa",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "Grace Nichols",
    "themes": [
     "Gender, feminism and women's lives",
@@ -1442,6 +2189,14 @@
    "themes": [
     "Faith, doubt and the sacred",
     "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Ishmael Reed",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Myth, folklore and the supernatural",
     "Race, racism and the struggle for civil rights"
    ]
   },
@@ -1500,6 +2255,16 @@
    ]
   },
   {
+   "author": "Jhumpa Lahiri",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
    "author": "Joan Didion",
    "themes": [
     "Language, writing and the limits of representation",
@@ -1536,8 +2301,63 @@
    ]
   },
   {
+   "author": "John Updike",
+   "themes": [
+    "Class, labour and social mobility",
+    "Love, intimacy and loss",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Joy Harjo",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Indigenous survival, land and sovereignty",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Myth, folklore and the supernatural",
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Juan Felipe Herrera",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "author": "Junot Díaz",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "themes": [
+    "Art, the artist and the creative life",
     "Class, labour and social mobility",
     "Decolonisation, the end of empire and the new nation",
     "History, truth and the uses of the past",
@@ -1578,6 +2398,29 @@
    ]
   },
   {
+   "author": "Leslie Marmon Silko",
+   "themes": [
+    "Death, illness and mourning",
+    "Indigenous survival, land and sovereignty",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "author": "Li-Young Lee",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "themes": [
     "Class, labour and social mobility",
@@ -1606,11 +2449,59 @@
    ]
   },
   {
+   "author": "Lorrie Moore",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
    "author": "Louise Bennett",
    "themes": [
+    "Class, labour and social mobility",
     "Decolonisation, the end of empire and the new nation",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
     "Migration, exile and diaspora",
-    "Nationhood and national identity"
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Indigenous survival, land and sovereignty",
+    "Myth, folklore and the supernatural",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Louise Glück",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Lucille Clifton",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
    ]
   },
   {
@@ -1641,11 +2532,55 @@
    ]
   },
   {
+   "author": "Mary Oliver",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Maxine Hong Kingston",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "author": "N. Scott Momaday",
+   "themes": [
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "Ngũgĩ wa Thiong'o",
    "themes": [
     "Decolonisation, the end of empire and the new nation",
     "Language, writing and the limits of representation",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Octavia E. Butler",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Power, the state and surveillance",
+    "Sexuality, desire and the closet"
    ]
   },
   {
@@ -1662,6 +2597,14 @@
     "Race, racism and the struggle for civil rights",
     "Violence, crime and justice",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Philip K. Dick",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures"
    ]
   },
   {
@@ -1691,6 +2634,14 @@
    ]
   },
   {
+   "author": "Philip Roth",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
    "author": "Ralph Ellison",
    "themes": [
     "Art, the artist and the creative life",
@@ -1701,6 +2652,41 @@
     "Power, the state and surveillance",
     "Race, racism and the struggle for civil rights",
     "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Raymond Carver",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "themes": [
+    "Class, labour and social mobility",
+    "Education, institutions and the academy",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "author": "Rita Dove",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
     "Violence, crime and justice"
    ]
   },
@@ -1772,6 +2758,15 @@
    ]
   },
   {
+   "author": "Sandra Cisneros",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora",
+    "Violence, crime and justice"
+   ]
+  },
+  {
    "author": "Saul Bellow",
    "themes": [
     "Class, labour and social mobility",
@@ -1796,6 +2791,43 @@
    ]
   },
   {
+   "author": "Sherman Alexie",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Memory, trauma and testimony",
+    "Myth, folklore and the supernatural",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Simon Armitage",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Land, place and regional belonging",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Simon J. Ortiz",
+   "themes": [
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "themes": [
     "Art, the artist and the creative life",
@@ -1804,6 +2836,7 @@
     "Faith, doubt and the sacred",
     "Identity, authenticity and the divided self",
     "Madness, breakdown and confinement",
+    "Nature, ecology and environmental crisis",
     "Power, the state and surveillance"
    ]
   },
@@ -1813,6 +2846,23 @@
     "Art, the artist and the creative life",
     "Language, writing and the limits of representation",
     "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Sylvia Plath",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Nature, ecology and environmental crisis",
+    "Technology, media and consumer society",
+    "The Holocaust, atrocity and historical memory"
    ]
   },
   {
@@ -1862,6 +2912,47 @@
    ]
   },
   {
+   "author": "Thomas Pynchon",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "author": "Tim O'Brien",
+   "themes": [
+    "Death, illness and mourning",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
    "author": "V. S. Naipaul",
    "themes": [
     "Identity, authenticity and the divided self",
@@ -1894,6 +2985,23 @@
     "Faith, doubt and the sacred",
     "History, truth and the uses of the past",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Yusef Komunyakaa",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -2025,7 +3133,9 @@
     "The Poetical Works of Thomas Lovell Beddoes (2 volumes)",
     "The Poetical Works of Thomas Moore",
     "The Works of Thomas De Quincey (21 volumes)",
-    "Thomas Chalmers and the Godly Commonwealth in Scotland"
+    "Thomas Chalmers and the Godly Commonwealth in Scotland",
+    "Thomas Pynchon (Wikipedia)",
+    "Thomas and Beulah"
    ]
   },
   {
@@ -2058,10 +3168,14 @@
     "M. NourbeSe Philip (Wikipedia)",
     "M. NourbeSe Philip's She Tries her Tongue, her Silence Softly Breaks and the Possibilities of Language (Revista Anglo Saxonica)",
     "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
+    "Philip K. Dick (Wikipedia)",
+    "Philip K. Dick bibliography (Wikipedia)",
     "Philip Larkin (EBSCO Research Starters)",
     "Philip Larkin (New World Encyclopedia)",
     "Philip Larkin (Wikipedia, via Wikiwand)",
+    "Philip Roth (Wikipedia)",
     "The Explosion by Philip Larkin (EBSCO Research Starters)",
+    "The FictionMags Index (Phil Stephenson-Payne), Philip K. Dick story entries",
     "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
    ]
   },
@@ -2213,7 +3327,8 @@
    "author": "Bessie Head",
    "sources": [
     "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
-    "Bessie Head (Wikipedia)"
+    "Bessie Head (Wikipedia)",
+    "Good Times (Random House, 1969) and Two-Headed Woman (University of Massachusetts Press, 1980), catalogue records"
    ]
   },
   {
@@ -2475,6 +3590,7 @@
   {
    "author": "Allen Ginsberg",
    "sources": [
+    "Allen Ginsberg (Wikipedia)",
     "Howl (poem) (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
@@ -2526,6 +3642,8 @@
     "Adrienne Rich (Wikipedia)",
     "Adrienne Rich's Poetry and Prose, Norton Critical Edition, contents (library catalogue record)",
     "Diving into the Wreck: Poems 1971-1972 (Wikipedia)",
+    "Louise Erdrich (Wikipedia; Poetry Foundation author page)",
+    "Richard Rodriguez (Wikipedia)",
     "The Dream of a Common Language (Wikipedia)",
     "The Long Awakening of Adrienne Rich (The New Yorker, 30 November 2020)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
@@ -2547,6 +3665,397 @@
     "Donald Barthelme (Wikipedia)",
     "Donald Barthelme bibliography (Wikipedia)",
     "The Balloon, The New Yorker, 16 April 1966 (newyorker.com archive)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Sylvia Plath",
+   "sources": [
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Morning Song (Poetry Foundation poem page)",
+    "Sylvia Plath (Wikipedia)",
+    "Sylvia Plath bibliography (Wikipedia)",
+    "The Colossus and Other Poems (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "sources": [
+    "The Nobel Lecture in Literature, 1993, first edition (Alfred A. Knopf, 1994)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Toni Morrison (Wikipedia)"
+   ]
+  },
+  {
+   "author": "John Updike",
+   "sources": [
+    "John Updike (Wikipedia)",
+    "Licks of Love: Short Stories and a Sequel, contents (library catalogue record)",
+    "New York Girl, The New Yorker, 1 April 1996 (newyorker.com archive)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Philip Roth",
+   "sources": [
+    "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
+    "Goodbye, Columbus (Wikipedia)",
+    "Philip Roth (Wikipedia)",
+    "The Conversion of the Jews (Poetry Foundation and Paris Review archive references)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Philip K. Dick",
+   "sources": [
+    "Moby-Dick; or, The Whale, vol. 6 of the Northwestern-Newberry Edition of the Writings of Herman Melville",
+    "Philip K. Dick (Wikipedia)",
+    "Philip K. Dick bibliography (Wikipedia)",
+    "The FictionMags Index (Phil Stephenson-Payne), Philip K. Dick story entries",
+    "The Letters of Charles Dickens, Pilgrim Edition, 12 vols",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Poems of Emily Dickinson, 3 vols",
+    "The Poems of Emily Dickinson: Variorum Edition, 3 vols"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "sources": [
+    "A New View of Society and Other Writings (Penguin Classics)",
+    "A New-England Tale (Penguin Classics)",
+    "An Essay on the Principle of Population and Other Writings (Penguin Classics)",
+    "Early American Drama (Penguin Classics)",
+    "John Keats: The Complete Poems (Penguin Classics)",
+    "Moses Ascending (Penguin Modern Classics description, as reproduced by booksellers)",
+    "Rural Rides (Penguin English Library)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Penguin Classics editions of the individual novels and poems cited",
+    "Universe 5 (1974), ed. Terry Carr, contents and copyright page",
+    "Ursula K. Le Guin (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Octavia E. Butler",
+   "sources": [
+    "Bloodchild and Other Stories, first edition (Seven Stories Press, 1995)",
+    "Metaphysical Lyrics and Poems of the Seventeenth Century: Donne to Butler",
+    "Octavia E. Butler (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Amiri Baraka",
+   "sources": [
+    "Amiri Baraka (Wikipedia)",
+    "Amiri Baraka, Poetry Foundation author page and poem notes",
+    "Black Art (poem) (Wikipedia), with the Liberator and Sonny's Time Now first appearances",
+    "The Dead Lecturer (Grove Press, 1964), library catalogue record with contents",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "N. Scott Momaday",
+   "sources": [
+    "N. Scott Momaday (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Way to Rainy Mountain (University of New Mexico Press, 1969), bibliographic and contents record"
+   ]
+  },
+  {
+   "author": "Mary Oliver",
+   "sources": [
+    "House of Light (Beacon Press, 1990), publisher's note on 'The Summer Day'",
+    "Mary Oliver (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith"
+   ]
+  },
+  {
+   "author": "Lucille Clifton",
+   "sources": [
+    "Good Times (Random House, 1969) and Two-Headed Woman (University of Massachusetts Press, 1980), catalogue records",
+    "Lucille Clifton (Wikipedia)",
+    "Lucille Clifton, EBSCO Research Starters and Poetry Foundation author page",
+    "Quilting: Poems 1987-1990 (BOA Editions, 1991), contents and the collected-poems table of contents",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Don DeLillo",
+   "sources": [
+    "Don DeLillo (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "White Noise (Viking Press, 1985), publication and National Book Award records"
+   ]
+  },
+  {
+   "author": "Thomas Pynchon",
+   "sources": [
+    "Entropy (short story) (Wikipedia) and The Kenyon Review, Spring 1960",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Thomas Pynchon (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Raymond Carver",
+   "sources": [
+    "Cathedral (Knopf, 1983) and the Atlantic Monthly printing of September 1981",
+    "Raymond Carver (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "sources": [
+    "Gorilla, My Love (Random House, 1972), catalogue and contents record",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Toni Cade Bambara (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Maxine Hong Kingston",
+   "sources": [
+    "Maxine Hong Kingston (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Woman Warrior (Alfred A. Knopf, 1976), copyright page and publication records"
+   ]
+  },
+  {
+   "author": "Leslie Marmon Silko",
+   "sources": [
+    "Laguna Woman (1974) and Storyteller (1981), bibliographic records",
+    "Leslie Marmon Silko (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Ishmael Reed",
+   "sources": [
+    "'Sing the Bones Home': Material Memory and the Project of Freedom in M. NourbeSe Philip's Zong! (Humanities, MDPI)",
+    "Conjure: Selected Poems 1963-1970 (University of Massachusetts Press, 1972), catalogue record",
+    "Freedom's Journal (New York, 1827-1829): Digitised Run, Chronicling America",
+    "Ishmael Reed (Wikipedia)",
+    "The Freedom of the Press (The Orwell Foundation)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "sources": [
+    "Hunger of Memory (David R. Godine, 1982), publication records",
+    "Richard Rodriguez (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Simon Armitage",
+   "sources": [
+    "Cloudcuckooland",
+    "Magnetic Field: The Marsden Poems, context and critical discussion",
+    "Simon Armitage",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "The Shout Heard across the Atlantic (Poetry Foundation profile of Simon Armitage)"
+   ]
+  },
+  {
+   "author": "Juan Felipe Herrera",
+   "sources": [
+    "Exiles of Desire",
+    "Guide to the Juan Felipe Herrera Papers, ca. 1970-2017 (M1043)",
+    "Half of the World in Light: New and Selected Poems",
+    "Juan Felipe Herrera",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Bob Dylan",
+   "sources": [
+    "Bob Dylan (Wikipedia)",
+    "Bringing It All Back Home",
+    "Dylan Thomas (Wikipedia)",
+    "Like a Rolling Stone (single)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Simon J. Ortiz",
+   "sources": [
+    "A Good Journey",
+    "Going for the Rain",
+    "Simon J. Ortiz (Wikipedia) and the Poetry Foundation author page",
+    "Simon J. Ortiz, Native American Poet and Storyteller (nativeamericanlit.com survey)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woven Stone"
+   ]
+  },
+  {
+   "author": "Louise Glück",
+   "sources": [
+    "Descending Figure",
+    "Louise Glück (Wikipedia) and the Nobel Prize citation",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Wild Iris"
+   ]
+  },
+  {
+   "author": "Gloria Anzaldúa",
+   "sources": [
+    "Borderlands/La Frontera: The New Mestiza",
+    "Gloria Anzaldúa (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Alice Walker",
+   "sources": [
+    "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
+    "Alice Walker (Wikipedia; Poetry Foundation author page)",
+    "David Walker's Appeal to the Coloured Citizens of the World",
+    "In Love & Trouble: Stories of Black Women",
+    "In Search of Our Mothers' Gardens: Womanist Prose",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "August Wilson",
+   "sources": [
+    "August Wilson (Wikipedia; Poetry Foundation author page)",
+    "Fences",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Tim O'Brien",
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Things They Carried",
+    "Tim O'Brien (Wikipedia; Poetry Foundation author page)"
+   ]
+  },
+  {
+   "author": "Yusef Komunyakaa",
+   "sources": [
+    "Dien Cai Dau",
+    "Magic City",
+    "Taboo: The Wishbone Trilogy, Part One",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)"
+   ]
+  },
+  {
+   "author": "Art Spiegelman",
+   "sources": [
+    "Art Spiegelman (Wikipedia; Poetry Foundation author page)",
+    "Maus",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "sources": [
+    "Julia Alvarez (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "¡Yo!"
+   ]
+  },
+  {
+   "author": "Joy Harjo",
+   "sources": [
+    "In Mad Love and War",
+    "Joy Harjo (Wikipedia; Poetry Foundation author page)",
+    "She Had Some Horses",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Woman Who Fell from the Sky"
+   ]
+  },
+  {
+   "author": "Sherman Alexie",
+   "sources": [
+    "Sherman Alexie (Wikipedia; Poetry Foundation author page)",
+    "The Business of Fancydancing",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Summer of Black Widows"
+   ]
+  },
+  {
+   "author": "Rita Dove",
+   "sources": [
+    "Grace Notes",
+    "Museum",
+    "Rita Dove (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Yellow House on the Corner",
+    "Thomas and Beulah"
+   ]
+  },
+  {
+   "author": "Amy Tan",
+   "sources": [
+    "Amy Tan (Wikipedia; Poetry Foundation author page)",
+    "The Joy Luck Club",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Sandra Cisneros",
+   "sources": [
+    "Sandra Cisneros (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woman Hollering Creek and Other Stories"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "sources": [
+    "Louise Erdrich (Wikipedia; Poetry Foundation author page)",
+    "Love Medicine",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Li-Young Lee",
+   "sources": [
+    "Li-Young Lee (Wikipedia; Poetry Foundation author page)",
+    "Rose",
+    "The City in Which I Love You",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Lorrie Moore",
+   "sources": [
+    "Birds of America",
+    "Darcy Moore, Orwell Collection (collector's list of first editions)",
+    "Lorrie Moore (Wikipedia; Poetry Foundation author page)",
+    "Sources and Style in Moore's Irish Melodies",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Poetical Works of Thomas Moore"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "sources": [
+    "Domestic Work",
+    "Natasha Trethewey (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Jhumpa Lahiri",
+   "sources": [
+    "Interpreter of Maladies",
+    "Jhumpa Lahiri (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Junot Díaz",
+   "sources": [
+    "Drown",
+    "Junot Díaz (Wikipedia; Poetry Foundation author page)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }

@@ -1044,6 +1044,511 @@
    "work": "The School",
    "author": "Donald Barthelme",
    "contribution_type": "author"
+  },
+  {
+   "work": "Morning Song",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Blackberrying",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Applicant",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lady Lazarus",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ariel",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Daddy",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Words",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Child",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "author": "Toni Morrison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "New York Girl",
+   "author": "John Updike",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "author": "Philip Roth",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Precious Artifact",
+   "author": "Philip K. Dick",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "author": "Ursula K. Le Guin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Bloodchild",
+   "author": "Octavia E. Butler",
+   "contribution_type": "author"
+  },
+  {
+   "work": "An Agony. As Now.",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Black Art",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Headwaters",
+   "author": "N. Scott Momaday",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "author": "N. Scott Momaday",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Summer Day",
+   "author": "Mary Oliver",
+   "contribution_type": "author"
+  },
+  {
+   "work": "miss rosie",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "the lost baby poem",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "homage to my hips",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "wishes for sons",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "blessing the boats",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "to my last period",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "wild blessings",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Footnote to Howl",
+   "author": "Allen Ginsberg",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Supermarket in California",
+   "author": "Allen Ginsberg",
+   "contribution_type": "author"
+  },
+  {
+   "work": "White Noise",
+   "author": "Don DeLillo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Entropy",
+   "author": "Thomas Pynchon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cathedral",
+   "author": "Raymond Carver",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Lesson",
+   "author": "Toni Cade Bambara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Woman Warrior",
+   "author": "Maxine Hong Kingston",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lullaby",
+   "author": "Leslie Marmon Silko",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "author": "Leslie Marmon Silko",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "author": "Ishmael Reed",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hunger of Memory",
+   "author": "Richard Rodriguez",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pretty",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Jamaica Oman",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Jamaica Language",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Tyre",
+   "author": "Simon Armitage",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Exiles",
+   "author": "Juan Felipe Herrera",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Literary Asylums",
+   "author": "Juan Felipe Herrera",
+   "contribution_type": "author"
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "author": "Bob Dylan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "author": "Bob Dylan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "author": "Simon J. Ortiz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Passing through Little Rock",
+   "author": "Simon J. Ortiz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "From Sand Creek",
+   "author": "Simon J. Ortiz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Drowned Children",
+   "author": "Louise Glück",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Descending Figure",
+   "author": "Louise Glück",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vespers",
+   "author": "Louise Glück",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "author": "Gloria Anzaldúa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Everyday Use",
+   "author": "Alice Walker",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens",
+   "author": "Alice Walker",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Fences",
+   "author": "August Wilson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "author": "Tim O'Brien",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Facing It",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "My Father's Love Letters",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Nude Study",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Maus",
+   "author": "Art Spiegelman",
+   "contribution_type": "author"
+  },
+  {
+   "work": "¡Yo!",
+   "author": "Julia Alvarez",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Call It Fear",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "White Bear",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Summer Night",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Flood",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Museum",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Thomas and Beulah",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Joy Luck Club",
+   "author": "Amy Tan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "author": "Sandra Cisneros",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Fleur",
+   "author": "Louise Erdrich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Gift",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Persimmons",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eating Alone",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eating Together",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "author": "Lorrie Moore",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Domestic Work",
+   "author": "Natasha Trethewey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "author": "Jhumpa Lahiri",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Drown",
+   "author": "Junot Díaz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Adolescence",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Parsley",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Rosa",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Geometry",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pawn Shop",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "White Lies",
+   "author": "Natasha Trethewey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vignette",
+   "author": "Natasha Trethewey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sexy",
+   "author": "Jhumpa Lahiri",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2620,6 +3125,785 @@
     "Short Story",
     "Postmodern Fiction",
     "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Morning Song",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Blackberrying",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry",
+    "Pastoral and Rural Poetry"
+   ]
+  },
+  {
+   "work": "The Applicant",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Lady Lazarus",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Ariel",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Daddy",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Words",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Child",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Literary Essay",
+    "Political Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "New York Girl",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Precious Artifact",
+   "genres": [
+    "Short Story",
+    "Science Fiction",
+    "Soft Science Fiction"
+   ]
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "genres": [
+    "Short Story",
+    "Science Fiction",
+    "Speculative Fiction (1946–2000)"
+   ]
+  },
+  {
+   "work": "Bloodchild",
+   "genres": [
+    "Short Story",
+    "Science Fiction",
+    "Soft Science Fiction"
+   ]
+  },
+  {
+   "work": "An Agony. As Now.",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "genres": [
+    "Narrative Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Black Art",
+   "genres": [
+    "Political Poetry",
+    "Free Verse",
+    "Black Arts Poetry"
+   ]
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Headwaters",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Memoir",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Summer Day",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "miss rosie",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "the lost baby poem",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "homage to my hips",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "wishes for sons",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "blessing the boats",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "to my last period",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "wild blessings",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Feminist Criticism"
+   ]
+  },
+  {
+   "work": "Footnote to Howl",
+   "genres": [
+    "Beat Poetry",
+    "Free Verse",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "A Supermarket in California",
+   "genres": [
+    "Beat Poetry",
+    "Free Verse",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "White Noise",
+   "genres": [
+    "Postmodern Fiction",
+    "Satirical Fiction",
+    "Campus Novel"
+   ]
+  },
+  {
+   "work": "Entropy",
+   "genres": [
+    "Short Story",
+    "Postmodern Fiction",
+    "Science Fiction"
+   ]
+  },
+  {
+   "work": "Cathedral",
+   "genres": [
+    "Short Story",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "The Lesson",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "The Woman Warrior",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Memoir",
+    "Autobiographical Novel"
+   ]
+  },
+  {
+   "work": "Lullaby",
+   "genres": [
+    "Short Story",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "genres": [
+    "Literary Manifesto",
+    "Postmodern Poetry",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Hunger of Memory",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Memoir",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "Pretty",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "genres": [
+    "Performance Poetry",
+    "Light Verse",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Jamaica Oman",
+   "genres": [
+    "Performance Poetry",
+    "Social Poetry",
+    "Light Verse"
+   ]
+  },
+  {
+   "work": "Jamaica Language",
+   "genres": [
+    "Performance Poetry",
+    "Political Poetry",
+    "Folklore Collection"
+   ]
+  },
+  {
+   "work": "The Tyre",
+   "genres": [
+    "Narrative Poetry",
+    "Regional Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Exiles",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "Literary Asylums",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "genres": [
+    "Literary Manifesto",
+    "Prose Poetry",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Passing through Little Rock",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "From Sand Creek",
+   "genres": [
+    "Elegiac Poetry",
+    "Political Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "The Drowned Children",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Descending Figure",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Vespers",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism",
+    "Prose Poetry",
+    "Autobiography"
+   ]
+  },
+  {
+   "work": "Everyday Use",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens",
+   "genres": [
+    "Personal Essay",
+    "Literary Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Fences",
+   "genres": [
+    "Drama and Performance (1946–2000)",
+    "Modern Tragedy",
+    "Full-Length Play",
+    "Domestic Drama"
+   ]
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "genres": [
+    "Short Story",
+    "War Novel",
+    "Metafictional Novel"
+   ]
+  },
+  {
+   "work": "Facing It",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "My Father's Love Letters",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Nude Study",
+   "genres": [
+    "Lyric Poetry",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Maus",
+   "genres": [
+    "Graphic Novel",
+    "Autobiography",
+    "Biography",
+    "Historical Writing"
+   ]
+  },
+  {
+   "work": "¡Yo!",
+   "genres": [
+    "Literary Novel",
+    "Domestic Fiction",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "Call It Fear",
+   "genres": [
+    "Lyric Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "White Bear",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "Summer Night",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "The Flood",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Museum",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "genres": [
+    "Lyric Poetry",
+    "Short Story",
+    "Prose Poetry"
+   ]
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Joy Luck Club",
+   "genres": [
+    "Literary Novel",
+    "Domestic Fiction",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Fleur",
+   "genres": [
+    "Short Story",
+    "Literary Novel",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Gift",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Persimmons",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Eating Alone",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Eating Together",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Domestic Work",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Historical Writing"
+   ]
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Drown",
+   "genres": [
+    "Short Story",
+    "Bildungsroman",
+    "Autobiographical Novel"
+   ]
+  },
+  {
+   "work": "Adolescence",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Parsley",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Rosa",
+   "genres": [
+    "Lyric Poetry",
+    "Dramatic Monologue",
+    "Dramatic Poetry"
+   ]
+  },
+  {
+   "work": "Geometry",
+   "genres": [
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Pawn Shop",
+   "genres": [
+    "Prose Poetry",
+    "Short Story"
+   ]
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "genres": [
+    "Short Story",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "White Lies",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Vignette",
+   "genres": [
+    "Lyric Poetry",
+    "Visual Poetry"
+   ]
+  },
+  {
+   "work": "Sexy",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction"
    ]
   }
  ],
@@ -4285,6 +5569,867 @@
     "Education, institutions and the academy",
     "Childhood, adolescence and coming of age"
    ]
+  },
+  {
+   "work": "Morning Song",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Blackberrying",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Death, illness and mourning",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "The Applicant",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Lady Lazarus",
+   "themes": [
+    "Death, illness and mourning",
+    "Madness, breakdown and confinement",
+    "The Holocaust, atrocity and historical memory"
+   ]
+  },
+  {
+   "work": "Ariel",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Nature, ecology and environmental crisis",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Daddy",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Death, illness and mourning",
+    "The Holocaust, atrocity and historical memory"
+   ]
+  },
+  {
+   "work": "Words",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Child",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "New York Girl",
+   "themes": [
+    "Love, intimacy and loss",
+    "The city, the suburb and modern space",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "Precious Artifact",
+   "themes": [
+    "Technology, media and consumer society",
+    "Alienation, absurdity and existential freedom",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Myth, folklore and the supernatural",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Bloodchild",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Power, the state and surveillance",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "An Agony. As Now.",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "Alienation, absurdity and existential freedom"
+   ]
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Black Art",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "themes": [
+    "Death, illness and mourning",
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Headwaters",
+   "themes": [
+    "Land, place and regional belonging",
+    "Myth, folklore and the supernatural",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "themes": [
+    "Land, place and regional belonging",
+    "Myth, folklore and the supernatural",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "The Summer Day",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "miss rosie",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "the lost baby poem",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "homage to my hips",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "wishes for sons",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "blessing the boats",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Love, intimacy and loss",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "to my last period",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "wild blessings",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Footnote to Howl",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Counterculture, drugs and rebellion",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "A Supermarket in California",
+   "themes": [
+    "Art, the artist and the creative life",
+    "The city, the suburb and modern space",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "White Noise",
+   "themes": [
+    "Technology, media and consumer society",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Entropy",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "Cathedral",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Lesson",
+   "themes": [
+    "Class, labour and social mobility",
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "The Woman Warrior",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Lullaby",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "Death, illness and mourning",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Hunger of Memory",
+   "themes": [
+    "Class, labour and social mobility",
+    "Migration, exile and diaspora",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "Pretty",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Jamaica Oman",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Class, labour and social mobility",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Jamaica Language",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights",
+    "Decolonisation, the end of empire and the new nation"
+   ]
+  },
+  {
+   "work": "The Tyre",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Land, place and regional belonging",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Exiles",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Literary Asylums",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Art, the artist and the creative life",
+    "Decolonisation, the end of empire and the new nation"
+   ]
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "themes": [
+    "Class, labour and social mobility",
+    "Alienation, absurdity and existential freedom",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "themes": [
+    "Land, place and regional belonging",
+    "Nature, ecology and environmental crisis",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Passing through Little Rock",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "From Sand Creek",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Violence, crime and justice",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "The Drowned Children",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Descending Figure",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Vespers",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights",
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Everyday Use",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Fences",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "themes": [
+    "War, combat and its aftermath",
+    "Memory, trauma and testimony",
+    "Language, writing and the limits of representation",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Facing It",
+   "themes": [
+    "War, combat and its aftermath",
+    "Death, illness and mourning",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "My Father's Love Letters",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Nude Study",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Maus",
+   "themes": [
+    "The Holocaust, atrocity and historical memory",
+    "Memory, trauma and testimony",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "¡Yo!",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Call It Fear",
+   "themes": [
+    "Memory, trauma and testimony",
+    "Violence, crime and justice",
+    "Gender, feminism and women's lives",
+    "Indigenous survival, land and sovereignty"
+   ]
+  },
+  {
+   "work": "White Bear",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Nature, ecology and environmental crisis",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty"
+   ]
+  },
+  {
+   "work": "Summer Night",
+   "themes": [
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Gender, feminism and women's lives",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "The Flood",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "History, truth and the uses of the past",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Museum",
+   "themes": [
+    "Art, the artist and the creative life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "Memory, trauma and testimony",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "Madness, breakdown and confinement",
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "themes": [
+    "Education, institutions and the academy",
+    "Indigenous survival, land and sovereignty",
+    "Race, racism and the struggle for civil rights",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "The Joy Luck Club",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Violence, crime and justice",
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Fleur",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Indigenous survival, land and sovereignty",
+    "Gender, feminism and women's lives",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "The Gift",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Love, intimacy and loss",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Persimmons",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Eating Alone",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Eating Together",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss",
+    "Death, illness and mourning",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Memory, trauma and testimony",
+    "Family, marriage and domestic life",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Domestic Work",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Drown",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Class, labour and social mobility",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Adolescence",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Parsley",
+   "themes": [
+    "Violence, crime and justice",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Rosa",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Gender, feminism and women's lives",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Geometry",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Violence, crime and justice",
+    "Memory, trauma and testimony",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Pawn Shop",
+   "themes": [
+    "Class, labour and social mobility",
+    "Indigenous survival, land and sovereignty",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Death, illness and mourning",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "White Lies",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Childhood, adolescence and coming of age",
+    "Identity, authenticity and the divided self",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Vignette",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Sexy",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Love, intimacy and loss",
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age"
+   ]
   }
  ],
  "work_movements": [
@@ -5404,6 +7549,630 @@
     "Postmodernism and Postmodern Fiction",
     "Black Humour and the Absurdist Novel"
    ]
+  },
+  {
+   "work": "Morning Song",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Blackberrying",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "The Applicant",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Lady Lazarus",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Ariel",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Daddy",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Words",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Child",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "New York Girl",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "movements": [
+    "Jewish American Fiction"
+   ]
+  },
+  {
+   "work": "Precious Artifact",
+   "movements": [
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "movements": [
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Bloodchild",
+   "movements": [
+    "Feminist Science Fiction",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "An Agony. As Now.",
+   "movements": [
+    "The Beat Generation",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "movements": [
+    "The Beat Generation",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Black Art",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Headwaters",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "miss rosie",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "the lost baby poem",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "homage to my hips",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "wishes for sons",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "blessing the boats",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "to my last period",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "wild blessings",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Footnote to Howl",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "A Supermarket in California",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "White Noise",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Entropy",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Cathedral",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "work": "The Lesson",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Woman Warrior",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Lullaby",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Jamaica Oman",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Jamaica Language",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Tyre",
+   "movements": [
+    "The British Poetry Revival"
+   ]
+  },
+  {
+   "work": "Exiles",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Literary Asylums",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Passing through Little Rock",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "From Sand Creek",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Drowned Children",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Descending Figure",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Vespers",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Everyday Use",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Fences",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Facing It",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "My Father's Love Letters",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Nude Study",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Maus",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "¡Yo!",
+   "movements": [
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Call It Fear",
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "White Bear",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Summer Night",
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Flood",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Museum",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Joy Luck Club",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "movements": [
+    "Chicano Movement Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Fleur",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Gift",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Persimmons",
+   "movements": [
+    "Postcolonial Literature",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Eating Alone",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Eating Together",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "movements": [
+    "Minimalism and Dirty Realism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Domestic Work",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "movements": [
+    "Postcolonial Literature",
+    "Asian American Literary Movement"
+   ]
+  },
+  {
+   "work": "Drown",
+   "movements": [
+    "Postcolonial Literature",
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "work": "Adolescence",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Parsley",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Rosa",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Geometry",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Pawn Shop",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "White Lies",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Vignette",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Sexy",
+   "movements": [
+    "Postcolonial Literature",
+    "Asian American Literary Movement"
+   ]
   }
  ],
  "work_periods": [
@@ -5618,7 +8387,108 @@
     "Transcendental Etude",
     "Letter from Birmingham Jail",
     "The Balloon",
-    "The School"
+    "The School",
+    "Morning Song",
+    "Blackberrying",
+    "The Applicant",
+    "Lady Lazarus",
+    "Ariel",
+    "Daddy",
+    "Words",
+    "Child",
+    "Nobel Lecture in Literature",
+    "New York Girl",
+    "The Conversion of the Jews",
+    "Precious Artifact",
+    "Schrödinger's Cat",
+    "Bloodchild",
+    "An Agony. As Now.",
+    "A Poem for Willie Best",
+    "Black Art",
+    "Will They Cry When You're Gone, You Bet",
+    "Headwaters",
+    "The Way to Rainy Mountain",
+    "The Summer Day",
+    "miss rosie",
+    "the lost baby poem",
+    "homage to my hips",
+    "wishes for sons",
+    "blessing the boats",
+    "to my last period",
+    "wild blessings",
+    "Poetry Is Not a Luxury",
+    "Footnote to Howl",
+    "A Supermarket in California",
+    "White Noise",
+    "Entropy",
+    "Cathedral",
+    "The Lesson",
+    "The Woman Warrior",
+    "Lullaby",
+    "Language and Literature from a Pueblo Indian Perspective",
+    "Neo-HooDoo Manifesto",
+    "Hunger of Memory",
+    "Pretty",
+    "Dry-Foot Bwoy",
+    "Jamaica Oman",
+    "Jamaica Language",
+    "The Tyre",
+    "Exiles",
+    "Literary Asylums",
+    "[On Sycorax Video Style]",
+    "It's Alright, Ma (I'm Only Bleeding)",
+    "Like a Rolling Stone",
+    "Earth and Rain, the Plants & Sun",
+    "Passing through Little Rock",
+    "From Sand Creek",
+    "The Drowned Children",
+    "Descending Figure",
+    "Vespers",
+    "Borderlands/La Frontera: The New Mestiza",
+    "Everyday Use",
+    "In Search of Our Mothers' Gardens",
+    "Fences",
+    "How to Tell a True War Story",
+    "Facing It",
+    "Slam, Dunk, & Hook",
+    "My Father's Love Letters",
+    "Nude Study",
+    "Maus",
+    "¡Yo!",
+    "Call It Fear",
+    "White Bear",
+    "Summer Night",
+    "The Flood",
+    "The Yellow House on the Corner",
+    "Museum",
+    "Thomas and Beulah",
+    "The Business of Fancydancing",
+    "The Summer of Black Widows",
+    "At Navajo Monument Valley Tribal School",
+    "The Joy Luck Club",
+    "Woman Hollering Creek",
+    "Fleur",
+    "The Gift",
+    "Persimmons",
+    "Eating Alone",
+    "Eating Together",
+    "I Ask My Mother to Sing",
+    "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+    "Domestic Work",
+    "Interpreter of Maladies",
+    "Drown",
+    "Adolescence",
+    "Parsley",
+    "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+    "Rosa",
+    "Geometry",
+    "Poem in Which I Refuse Contemplation",
+    "Pawn Shop",
+    "Sister Fire, Brother Smoke",
+    "This Is What It Means to Say Phoenix, Arizona",
+    "White Lies",
+    "Vignette",
+    "Sexy"
    ]
   }
  ]

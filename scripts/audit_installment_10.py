@@ -216,6 +216,15 @@ def load_norton():
     rows = []
     for path in NORTON:
         if os.path.exists(path):
+            # csv.DictReader silently pads or drops columns, so a row with a stray
+            # comma would corrupt the audit without raising. Check the field count.
+            with open(path, encoding="utf-8", newline="") as fh:
+                raw = list(csv.reader(fh))
+            header = raw[0]
+            for i, r in enumerate(raw[1:], 2):
+                if r and len(r) != len(header):
+                    raise SystemExit("%s line %d: %d fields, expected %d"
+                                     % (os.path.basename(path), i, len(r), len(header)))
             rows.extend(csv.DictReader(open(path, encoding="utf-8")))
     for r in rows:
         r["short"] = NORTON_SHORT.get(r["anthology"], r["anthology"])

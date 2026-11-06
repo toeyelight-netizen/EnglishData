@@ -302,6 +302,49 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
     "Her Kind", "The Ballad of the Lonely Masturbator", "Snapshots of a Daughter-in-Law", "I Am in Danger—Sir—",
     "A Valediction Forbidding Mourning", "Diving into the Wreck", "Power", "Transcendental Etude"); those
     records date the poems from their first book appearance and say so in their research notes.
+- **Wave 27 (Sylvia Plath).** Eight selections, one record each, and the whole Plath block dated:
+  - Wikipedia: "Sylvia Plath", "Sylvia Plath bibliography", "Ariel (poetry collection)", "The Colossus and Other Poems", "Daddy (poem)", "Lady Lazarus", "Ariel (poem)";
+  - Poetry Foundation poem pages, read in full for "Morning Song", "Blackberrying", "The Applicant", "Lady Lazarus", "Ariel" and "Daddy"; each gives the text from *The Collected Poems* and, where it exists, a first-publication statement;
+  - *The New Yorker*'s archive page for "Blackberrying" (issue of 15 September 1962, p. 48), the one first printing in a periodical during Plath's lifetime among the eight;
+  - the dates of composition printed in the appendix to *Ariel: The Restored Edition* (2004), established from *The Collected Poems* and the manuscripts at Smith College, and corroborated by the independent work index at sylviaplath.info;
+  - Britannica's entry on *Ariel* (for the title's sources) and bookseller records of the first edition of *Winter Trees* (Faber, 1971, ISBN 9780571097395) for "Child";
+  - rejected: Grokipedia's Plath bibliography page, SuperSummary's guide to "Lady Lazarus", GradeSaver's to "The Applicant", and the study-note and course-handout sites;
+  - limitations: none of the eight poems was read complete from a printed collection; the texts were read at the Poetry Foundation and the *New Yorker* archive. No printed bibliography of Plath was consulted, so the first-printing statements rest on the Poetry Foundation headnotes and, for "Blackberrying", on the *New Yorker* archive itself. The 1965 *Ariel* text and Plath's restored manuscript differ in order and contents, and the dates given are those of composition and first book publication.
+
+- **Wave 28 (Morrison, Updike, Roth, Dick, Le Guin, Butler).** Six authors with one
+  selection each, the six-author block after Plath:
+  - Wikipedia: "Toni Morrison", "John Updike", "Philip Roth", "Goodbye, Columbus", "Philip K. Dick", "Philip K. Dick bibliography", "Ursula K. Le Guin", "Octavia E. Butler";
+  - the Nobel Foundation's prize page for 1993 (award announced 7 October, lecture delivered in Stockholm on 7 December) and bookseller records of the first edition of *The Nobel Lecture in Literature, 1993* (Knopf, New York, March 1994, 37 pp., ISBN 9780679434375; Chatto and Windus, London, 1994, ISBN 9780701162351);
+  - *The New Yorker*'s archive for the issue of 1 April 1996 (pp. 82–87) and a library catalogue record of *Licks of Love* (Knopf, 2000) for "New York Girl";
+  - the article on *Goodbye, Columbus* and the *Paris Review* archive note, both giving issue no. 18, Spring 1958, for "The Conversion of the Jews", collected by Houghton Mifflin in 1959; the exact day of publication in the issue was not established;
+  - the FictionMags Index, whose entry reads "Precious Artifact, (ss) *Galaxy Magazine* October 1964", corroborated by the finding aid of the Philip K. Dick collection at the University of California (box 1, folder 52) and by the Wikipedia bibliography's 1964 list;
+  - the *Universe 5* (1974, ed. Terry Carr) contents and copyright page for "Schrödinger's Cat", with the September 1972 date of composition from Le Guin's own note and the corroborating accounts at Physics World and the Linda Hall Library; collected in *The Compass Rose* (1982);
+  - the acknowledgements and bookseller records of *Bloodchild and Other Stories* (Seven Stories Press, 1995; expanded 2005) for "Bloodchild" in *Isaac Asimov's Science Fiction Magazine*, June 1984; the Hugo, Nebula and Locus awards of 1985 are recorded from the award lists;
+  - rejected: SuperSummary's and GradeSaver's story guides, the study-note sites, the fandom pages and the anonymous plot summaries encountered in search; no bookseller listing was used for a plot or a critical judgement;
+  - limitations: none of the six texts was read complete from a printed edition. The Nobel lecture's argument is recorded from the published text as quoted in the sources read, not from the Knopf volume itself. The magazine page numbers of "Precious Artifact" and "Bloodchild" were not established. No printed bibliography of any of the six authors was consulted, so every author record states its bibliography is incomplete and says which books it leaves out.
+
+- **Wave 29 (Baraka, Momaday, Oliver, Clifton; Lorde and Ginsberg restored).** Four
+  new authors and seventeen works:
+  - Wikipedia: "Amiri Baraka", "Black Art (poem)", "N. Scott Momaday", "Mary Oliver", "Lucille Clifton";
+  - the Poetry Foundation's author and poem pages for Baraka (the poems' association with *The Dead Lecturer*, Richard Howard's *Nation* review) and for Clifton;
+  - the WorldCat record of *The Dead Lecturer* (Grove Press, New York, 1964, 79 pp., Evergreen E-386), whose contents list places "An Agony. As Now." and "A Poem for Willie Best" in the volume;
+  - *The Liberator* for January 1966 for "Black Art", corroborated by the H-Net and Cultural Front accounts, which also record its earlier circulation as a 1965 recording on Sonny Murray's *Sonny's Time Now* (with Albert Ayler, Don Cherry, Lewis Worrell and Henry Grimes);
+  - the bibliography of *Black Magic: Sabotage, Target Study, Black Art; Collected Poetry 1961-1967* (Bobbs-Merrill, 1969) for "Will They Cry When You're Gone, You Bet" - **no earlier periodical printing was found**, and the record states the date of first book collection rather than inventing a magazine appearance;
+  - the bibliographic essay and two scholarly articles on *The Way to Rainy Mountain* (University of New Mexico Press, 1969): the eleven drawings by Al Momaday, the three-voice triptych in three typefaces, the framing poems "Headwaters" and "Rainy Mountain Cemetery", and the descent from *The Journey of Tai-me* (1967);
+  - Beacon Press's own note that "The Summer Day" first appeared in *House of Light* (1990);
+  - EBSCO Research Starters for "the lost baby poem" in *Good News About the Earth* (1972); the *Poetry for Students* entry carried by Encyclopedia.com for "miss rosie" in *Good Times* (1969); reference records for *Two-Headed Woman* (Massachusetts, 1980); and the contents lists of *Quilting* (BOA Editions, 1991) for "wishes for sons", "blessing the boats", "to my last period" and "wild blessings";
+  - rejected: GradeSaver's and eNotes' Baraka pages, SuperSummary's guide to "the lost baby poem", bookrags' *Blessing the Boats* chapter notes, the study-note sites and the anonymous poem-summary pages encountered in search. Where only those carried a claim, the claim is not in the record;
+  - limitations: none of the seventeen works was read complete from a printed edition, and no printed bibliography of Baraka, Momaday, Oliver or Clifton was consulted. The date of first publication of "Will They Cry When You're Gone, You Bet" is unresolved beyond its 1969 book collection. "Black Art" is dated 1966 on its *Liberator* printing although the poem was written and recorded in 1965; the record says so. Momaday's *The Way to Rainy Mountain* is recorded as one work with the Norton excerpt noted, not as separate records for its parts.
+
+- **Wave 30 (DeLillo, Pynchon, Carver, Bambara, Kingston, Silko, Reed, Rodriguez).** The American prose block, eight authors and eight works:
+  - Wikipedia: "Don DeLillo", "White Noise", "Thomas Pynchon", "Entropy (short story)", "Raymond Carver", "Cathedral (short story collection)", "Toni Cade Bambara", "Gorilla, My Love", "Maxine Hong Kingston", "The Woman Warrior", "Leslie Marmon Silko", "Storyteller (book)", "Ishmael Reed", "Conjure (poetry collection)", "Richard Rodriguez", "Hunger of Memory";
+  - *The Kenyon Review*, Spring 1960, for "Entropy", with Pynchon's own later dismissal of the story in the *Slow Learner* introduction (1984) recorded in the critical note;
+  - *The Atlantic Monthly* for "Cathedral" and Knopf, 1983, for the collection - **the sources disagree between a March and a September 1981 printing**, and the record states the discrepancy rather than choosing;
+  - the copyright page of *The Woman Warrior* (Knopf, 1976), which records that "No Name Woman" appeared in slightly different form in *Viva* for January 1975 - the only one of the ten wave-30 rows with a periodical first printing established;
+  - *Laguna Woman* (Greenfield Review Press, 1974) and *Storyteller* (Little, Brown, 1981) for Silko's two selections, and the 1979 Buffalo conference for "Language and Literature from a Pueblo Indian Perspective", published in *The First Words* (1981);
+  - rejected: GradeSaver's and eNotes' pages on *White Noise*, SparkNotes on *The Woman Warrior*, SuperSummary on *Hunger of Memory*, the study-note sites and the anonymous plot summaries encountered in search. No plot in this wave rests on those;
+  - limitations: none of the eight works was read in a printed edition for this record; the plots are recorded from the critical and reference sources read, and the records say so. DeLillo's *White Noise*, Kingston's *The Woman Warrior* and Rodriguez's *Hunger of Memory* are recorded as one work each with the Norton excerpt named, not as separate records for the excerpted parts. No printed bibliography of any of the eight was consulted.
+
 - **Corrections to installments 8–9:**
   - Wikipedia (raw wikitext): "H. G. Wells" (lead and early life), "Pastors and Masters", "The Nebuly Coat", "The Fashion in Shrouds", "Surfeit of Lampreys", "Down and Out in Paris and London", "A Clergyman's Daughter", "Inside the Whale and Other Essays", "Inside the Whale", "The Lion and the Unicorn: Socialism and the English Genius" and "Malcolm Muggeridge" (lead, early career, Moscow and list of works);
   - the Ngaio Marsh House bibliography of Marsh's published works (ngaiomarsh.org), which gives the first US and UK editions of every novel. For *Death of a Peer* (Boston 1940) it is corroborated by bookseller listings of the first edition, seen as search extracts only;
@@ -310,7 +353,7 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
 
 ## 15. Remaining limitations and unresolved issues
 
-1. **Coverage is at the beginning.** Installment 10 holds 209 works by 65 authors: Ralph Ellison (7), Philip Larkin (21), Lorraine Hansberry (7), Samuel Selvon (15), Stevie Smith (3), Dylan Thomas (1), Louise Bennett (1), Kamau Brathwaite (3), Ngũgĩ wa Thiong'o (1), M. NourbeSe Philip (1), Salman Rushdie (2), Grace Nichols (3), Linton Kwesi Johnson (1), Doris Lessing (1), A. K. Ramanujan (2), Thom Gunn (5), Derek Walcott (4), Ted Hughes (6), Chinua Achebe (1), Alice Munro (1), Geoffrey Hill (3), V. S. Naipaul (1), Wole Soyinka (1), Caryl Churchill (1), Seamus Heaney (5), Les Murray (2), J. G. Ballard (1), Bessie Head (1), Ben Okri (1), Arundhati Roy (1), Margaret Atwood (2), J. M. Coetzee (1), Eavan Boland (3), Anne Carson (1), Paul Muldoon (4), bpNichol (1), Hanif Kureishi (1), Carol Ann Duffy (4), Kiran Desai (1), Vladimir Nabokov (1), Theodore Roethke (5), Elizabeth Bishop (5), Tennessee Williams (1), John Cheever (1), Robert Hayden (2), Saul Bellow (1), Arthur Miller (1), Robert Lowell (5), J. D. Salinger (1), Jack Kerouac (1), Kurt Vonnegut (2), Grace Paley (2), Frank O'Hara (6), Audre Lorde (5), Susan Sontag (1), John Barth (1), Joan Didion (1), James Baldwin (3), Flannery O'Connor (3), Allen Ginsberg (1), John Ashbery (3), Anne Sexton (5), Adrienne Rich (6), Martin Luther King Jr. (1) and Donald Barthelme (2), whose author records belong to installment 10, and George Orwell (9), Jean Rhys (2), Samuel Beckett (1), W. H. Auden (2) and Gwendolyn Brooks (7), whose records belong to installment 9. Of the Norton selections first published 1946-2000, 90 in the English anthology and 167 in the American, 165 have records and 92 do not (Rushdie's *Imaginary Homelands* stands for two excerpts); 17 more selections still have to be dated (item 2). Counted with the three rows that name Dove's *Thomas and Beulah* as one, 255 selections are in scope and 165 of them have records. 113 authors have selections in the period or still to be dated (43 in the English anthology, 70 in the American); 65 of them have installment-10 author records, and 45 of the 209 works are other books of the same authors (item 10).
+1. **Coverage is at the beginning.** Installment 10 holds 249 works by 89 authors: Ralph Ellison (7), Philip Larkin (21), Lorraine Hansberry (7), Samuel Selvon (15), Stevie Smith (3), Dylan Thomas (1), Louise Bennett (1), Kamau Brathwaite (3), Ngũgĩ wa Thiong'o (1), M. NourbeSe Philip (1), Salman Rushdie (2), Grace Nichols (3), Linton Kwesi Johnson (1), Doris Lessing (1), A. K. Ramanujan (2), Thom Gunn (5), Derek Walcott (4), Ted Hughes (6), Chinua Achebe (1), Alice Munro (1), Geoffrey Hill (3), V. S. Naipaul (1), Wole Soyinka (1), Caryl Churchill (1), Seamus Heaney (5), Les Murray (2), J. G. Ballard (1), Bessie Head (1), Ben Okri (1), Arundhati Roy (1), Margaret Atwood (2), J. M. Coetzee (1), Eavan Boland (3), Anne Carson (1), Paul Muldoon (4), bpNichol (1), Hanif Kureishi (1), Carol Ann Duffy (4), Kiran Desai (1), Vladimir Nabokov (1), Theodore Roethke (5), Elizabeth Bishop (5), Tennessee Williams (1), John Cheever (1), Robert Hayden (2), Saul Bellow (1), Arthur Miller (1), Robert Lowell (5), J. D. Salinger (1), Jack Kerouac (1), Kurt Vonnegut (2), Grace Paley (2), Frank O'Hara (6), Audre Lorde (5), Susan Sontag (1), John Barth (1), Joan Didion (1), James Baldwin (3), Flannery O'Connor (3), Allen Ginsberg (1), John Ashbery (3), Anne Sexton (5), Adrienne Rich (6), Martin Luther King Jr. (1), Donald Barthelme (2) Sylvia Plath (8), Toni Morrison (1), John Updike (1), Philip Roth (1), Philip K. Dick (1), Ursula K. Le Guin (1), Octavia E. Butler (1), Amiri Baraka (4), N. Scott Momaday (2), Mary Oliver (1), Lucille Clifton (7), Don DeLillo (1), Thomas Pynchon (1), Raymond Carver (1), Toni Cade Bambara (1), Maxine Hong Kingston (2), Leslie Marmon Silko (2), Ishmael Reed (1) and Richard Rodriguez (1), whose author records belong to installment 10, and George Orwell (9), Jean Rhys (2), Samuel Beckett (1), W. H. Auden (2) and Gwendolyn Brooks (7), whose records belong to installment 9. Of the Norton selections first published 1946-2000, 89 in the English anthology and 165 in the American, 204 have records and 51 do not (counting each selection once, with the three Dove rows that name *Thomas and Beulah* as one; 89 + 165 = 254 rows, and the 255th count in earlier notes included a row since reclassified) (Rushdie's *Imaginary Homelands* stands for two excerpts); 17 more selections still have to be dated (item 2). Counted with the three rows that name Dove's *Thomas and Beulah* as one, 254 selections are in scope and 204 of them have records. 112 authors have selections in the period or still to be dated (43 in the English anthology, 70 in the American); 89 of them have installment-10 author records, and 45 of the 249 works are other books of the same authors (item 10).
 2. **The Norton baseline.**
    - The American list is the 11th edition's prepublication table of contents. Its contents may change before publication, and it is not the edition in print (the 10th, 2022), whose table of contents could not be reached.
    - The dates of first publication in both lists are provisional, from general knowledge, unless the row records a check; each is checked when its record is built.
@@ -346,6 +389,101 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
     Not recorded as works, because their contents were not examined, but listed in the bibliography note: *A Meap Story* (1954) and *A Drink of Water* (1968); stories and poems in Trinidad papers, on *Caribbean Voices* and in London periodicals; more than twenty radio plays and the television scripts, except as collected; the screenplay of *Pressure* (1976); three essays (1955, 1986, 1987); a film script of *The Lonely Londoners*; and the unfinished novel "A High of Zero". None of the fourteen recorded books was read. *The Lonely Londoners* is *verified* (its plot is corroborated by Wikipedia, Schwarz and GradeSaver); the other thirteen are *partially verified*, five of them (*Turn Again Tiger*, *I Hear Thunder*, *The Housing Lark*, *Those Who Eat the Cascadura* and *Moses Ascending*) resting on search extracts.
 14. **The superseded discovery inventory.** The inventory and its prize and series lists are kept as research (Method) but no longer define the installment. Their documented limits (items 2–4, 16 and 18 of this section at commit `8264c2d`: gaps in the baseline, name variants, translated foreign authors, its nature as a starting list, and facts supplied from general knowledge in the fourth pass) apply to them as research files only.
 
+15. **The dating pass (wave 31), its corrections and what it still cannot settle.**
+
+    Seventeen rows carried the scope value "date to verify", which meant the audit could neither record them nor exclude them, and the installment's real size was unknown. All seventeen are now dated, and the pass changed the scope in both directions: ten rows left the period and seven came into it. Two of the seven were recovered only because a first verdict was wrong. Herrera's "Exiles" and "Literary Asylums" had been dated 2008 from their appearance in *Half of the World in Light*, a new-and-selected volume; "Exiles" opens *Exiles of Desire* (Lalo Press, 1983) and the 2008 volume's own contents place "Literary Asylums" in the same book. The reprint date is not a date of first publication, and taking it for one had dropped two poems that belong in the period.
+
+    Verdicts changed twice more without the count changing. "Broken Hierarchies" was recorded as the title of Hill's 2013 collected poems rather than a poem; it is a poem, the title poem of *Without Title* (2006), and is out of period for that date instead. Brathwaite's "[On Sycorax Video Style]" had been marked "after 2000" on the strength of *MR/1* (1998) - a date inside the period, which supports the opposite conclusion. The style dates from 1990 and the prose statement was published in *conVERSations with Nathaniel Mackey* (We Press, 1999), the source the eleventh edition's own editors cite; the row is therefore in period and dated 1999.
+
+    *What remains uncertain:* the exact pages and wording of the NAEL's Brathwaite extract were not verified, so its first-publication date of 1999 rests on the source the anthology's editors cite for the concept rather than on the anthology's own headnote; the row says so. Cusk's "Freedom" rests on the Harry Ransom Center's catalogue of her papers and not on the magazine itself, which could not be reached. Armitage's "Beck" is dated from the poet's own account of the Stanza Stones project (2010-2012) and its first collection (2019); either date puts it outside the period, so the uncertainty does not affect the verdict. Hill's *Without Title* is dated 2006 from bibliography rather than a title page.
+
+    *A defect repaired on the way:* three rows in the two lists were malformed against the fifteen-field header - two carried a sixteenth cell written by an earlier patch of this pass, and one carried fourteen, an older corruption that predated it. All three are fixed and both files now parse to a uniform fifteen fields, checked by a byte-identical round trip through the csv module. The earlier attempt at the same edit used text replacement, which is what desynchronised the rows.
+
+16. **Wave 32, and the dating error it caught in wave 31.** All seven selections that
+    wave 31 brought into the period were built: Smith's "Pretty", Bennett's
+    "Dry-Foot Bwoy", "Jamaica Oman" and "Jamaica Language", Armitage's "The Tyre", and
+    Herrera's "Exiles" and "Literary Asylums". Writing them exposed a mistake in the
+    dating pass itself. Wave 31 had dated all four Bennett rows to *Jamaica Labrish*
+    (1966); three are poems in that collection, but "Jamaica Language" is a radio
+    monologue from *Miss Lou's Views* and was first printed in *Aunty Roachy Seh*, ed.
+    Mervyn Morris (Sangster's, 1993), p. 1. Both dates are inside the period, so the
+    scope never changed - which is exactly why the error could survive an audit that
+    only asks whether a selection is in the period. It is corrected in the list and in
+    the record.
+
+    *What remains uncertain:* the full texts of Herrera's two poems were not examined.
+    Their records describe the poems from the Norton's own teaching pages - "Exiles" as
+    a meditation on exile, "Literary Asylums" as a poem about writing, audience, power
+    and class - and from the contents of *Half of the World in Light*, which places both
+    in the *Exiles of Desire* sequence; both records say so and neither is marked
+    verified. Bennett's "Dry-Foot Bwoy" is the only one of the seven whose text and page
+    reference were both confirmed, and it is the only one marked verified. "Pretty"'s
+    earlier appearance in *The Times* was not dated, and the first broadcast date of
+    "Jamaica Language" within the programme's 1965-1982 run was not established.
+
+17. **Wave 33, and the last unverified dates.** Brathwaite's "[On Sycorax Video
+    Style]" was recorded, together with two songs of Bob Dylan, three poems and a
+    sequence of Simon J. Ortiz, and three poems of Louise Glueck. The wave settled
+    the last two provisional dates in the American list: "Earth and Rain, the Plants
+    & Sun" from *Going for the Rain* (1976) and "Passing through Little Rock" from
+    *A Good Journey* (1977). Both were fixed from the contents of *Woven Stone*
+    (1992), which reprints the three collections complete; no selection in either
+    anthology now rests on an unverified date.
+
+    *What remains uncertain, record by record:* the Brathwaite extract's exact pages
+    in *conVERSations with Nathaniel Mackey* (1999) and the anthology's precise
+    wording were not verified, so the record dates it to 1999 as the nearest
+    documented first publication and says so. Glueck's "Vespers" is the fourth of ten
+    poems so named in *The Wild Iris*, and the record identifies its one by first
+    line because the anthology's page reference was not established. *From Sand Creek*
+    was not read in full; its record rests on published accounts of the three-part
+    structure and the refrains. Dylan's lyrics were not transcribed from a first
+    pressing, and the woman addressed in "Like a Rolling Stone" is left unidentified.
+    Of the nine works, none is marked *verified*: the tenth, Glueck's author record,
+    is, on the strength of her collection list checked against the Nobel citation.
+
+    *A correction that affects this wave's framing.* Wave 33 was undertaken to
+    record "the English anthology's last outstanding row". There was no such row:
+    all 96 in-scope NAEL selections had been recorded before the wave began, and
+    the "95 of 96" of earlier reports compared a count of works against a count of
+    anthology rows. Two records answer two rows each - Rushdie's *Imaginary
+    Homelands* is printed at pp. 747 and 750, and Kingston's *The Woman Warrior*
+    contributes two chapters - so the work count was two short of the row count
+    with nothing missing. `i10_state.py` now reports rows as well as works and
+    prints NAEL 96 of 96; the Brathwaite record remains a genuine selection and is
+    the anthology's latest addition to the period, but it closed no gap.
+
+    *A correction carried into the report:* the Norton's own annotation of Ortiz's
+    "Passing through Little Rock" identifies the Quapaw and Waccamaw as tribes of
+    Arizona; both are peoples of Arkansas, as Camille Paglia pointed out in 2001. The
+    error is the anthology's, and the record says so rather than repeating it.
+
+18. **Waves 34-36: the American volume completed.** Forty-three rows closed in
+    three passes, taking the American volume from 126 to **169 of 169** and the
+    installment to 310 works by 112 authors. **No in-scope selection in either
+    volume is now unrecorded, and none is undated.**
+
+    *How it was done.* The rows were closed by recording authors' books rather than
+    anthology pages: one record answers every row a book supplies, which is why
+    *Thomas and Beulah* accounts for six rows and *The Joy Luck Club* for one. Wave
+    36 was needed for the eight rows where the anthology prints an individual named
+    poem from a book already recorded; each got a poem-level record naming its
+    collection.
+
+    *Dates settled.* "White Bear" (*She Had Some Horses*, 1983); "Pawn Shop" and "At
+    Navajo Monument Valley Tribal School" (*The Business of Fancydancing*, 1992);
+    "Nude Study" (*Poetry*, Winter 1992; gathered in *Taboo*, 2004, and dated from
+    the first printing so that the selection stays inside the period it was chosen
+    for). Four rows had carried no date at all; the American list now has none.
+
+    *Still uncertain.* Dove's "Poem in Which I Refuse Contemplation" is in *Museum*
+    (1983) but the Norton dates it 1989; both are recorded and the question is left
+    open. First periodical appearances were not traced for most of the poems. The
+    text of *From Sand Creek*, of *Borderlands/La Frontera* and of several novels was
+    not read in full, and their records say so. Every work in these three waves is
+    *partially verified*, which remains an honest description of a record built from
+    catalogues and first printings rather than from a full reading.
+
 ## Stopping point and outstanding tasks (2026-11-06)
 
 **Done:**
@@ -363,8 +501,8 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
 **Next, in order:**
 1. **Done in wave 13:** the selections of the recorded authors (Larkin's nine other poems, Orwell's "Politics and the English Language" and Selvon's "Waiting for Aunty to Cough").
 2. **Done in wave 14:** the installment-9 authors with selections in the period, through extensions: Jean Rhys (2 stories), Samuel Beckett (*Waiting for Godot*), W. H. Auden (2 poems) and Gwendolyn Brooks (7 poems).
-3. **New authors, in Norton's order:** the English anthology is complete for the period - every selection first published 1946-2000 has a record (90 of 90). The American anthology is under way: its first twenty-one authors are recorded (waves 21-25), 58 of its 166 in-scope selections are done, and the next are John Ashbery, Anne Sexton, Adrienne Rich, Martin Luther King Jr. and Donald Barthelme, with Jhumpa Lahiri and Junot Díaz at the end: 108 selections still to record. Each author gets an author record and each selection a record of its own, naming the collection it belongs to, with depth tiered by significance and sources recorded.
-4. **Dates:** check each provisional date as its record is built, and settle the 12 selections still to be dated (section 15, item 2), which decide whether five more authors are covered.
+3. **New authors, in Norton's order:** the English anthology has one selection left of the period - Brathwaite's "[On Sycorax Video Style]", dated 1999 in wave 31 and in scope - against 95 recorded (96 in-scope rows, 89 distinct works, because two excerpts of *The Woman Warrior*, two of *Imaginary Homelands* and two of *Borderlands* share a work each). The American anthology is under way: waves 21-31 recorded 115 of its 169 in-scope rows as 115 works. Fifty-eight distinct works remain: Rita Dove's ten, Li-Young Lee's five, four each for Joy Harjo, Yusef Komunyakaa and Sherman Alexie, three each for Louise Bennett, Simon J. Ortiz and Louise Glueck, and single works for the rest. Each author gets an author record and each selection a record of its own, naming the collection it belongs to, with depth tiered by significance and sources recorded.
+4. **Dates:** check each provisional date as its record is built. **Wave 31 settled the last seventeen undated rows; none now remains.** Ten of the seventeen left the period and seven came into it (section 15, item 3). Wave 26 had settled Ashbery's "How to Continue" (1992) and wave 27 the eight Plath selections, which had carried only "written 1961-1963".
 5. **Installments 8–9.** Check every title against an external bibliography (a fabricated title was found) and every plot against a source, starting with the later installment 9 batches, and check first-edition dates against US-first publication. `scripts/i08_i09_check_queue.py` writes the order of work to `research/installment_10/i08_i09_check_queue.csv`:
    - priority 1: 83 unchecked records whose characters name no one (60 in installment 9, 23 in installment 8);
    - priority 2: the other 1,295 unchecked records;
