@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 936,
-  "works": 3109
+  "authors": 946,
+  "works": 3130
  },
  "periods": [
   {
@@ -865,6 +865,7 @@
   "Albert Murray obituary (The Guardian, 23 August 2013)",
   "Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)",
   "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
+  "Alice Walker (Wikipedia; Poetry Foundation author page)",
   "All What Jazz, first edition (Jonkers Rare Books catalogue record)",
   "Allen Ginsberg (Wikipedia)",
   "American Literature: A Journal of Literary History, Criticism, and Bibliography",
@@ -891,6 +892,7 @@
   "Ariel (Poetry Foundation poem page)",
   "Ariel, poetry collection (Wikipedia)",
   "Ariel: The Restored Edition, appendix of composition dates",
+  "Art Spiegelman (Wikipedia; Poetry Foundation author page)",
   "Arthur Miller (Wikipedia)",
   "Arundhati Roy (Wikipedia)",
   "Ashbery's Pastoral Art (The Yale Review)",
@@ -898,6 +900,7 @@
   "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
   "Aubade (The Philip Larkin Society, philiplarkin.com)",
   "Audre Lorde (Wikipedia)",
+  "August Wilson (Wikipedia; Poetry Foundation author page)",
   "Aunty Roachy Seh",
   "Bass Culture - Linton Kwesi Johnson (reggaelyrics.info)",
   "Ben Okri (Wikipedia)",
@@ -915,6 +918,7 @@
   "Blackwood's Edinburgh Magazine",
   "Bloodchild and Other Stories, first edition (Seven Stories Press, 1995)",
   "Bob Dylan (Wikipedia)",
+  "Borderlands/La Frontera: The New Mestiza",
   "BpNichol (Wikipedia)",
   "Bringing It All Back Home",
   "British Library Digitised Manuscripts",
@@ -951,6 +955,7 @@
   "Descending Figure",
   "Dictionary of Irish Biography: From the Earliest Times to the Year 2002 (9 volumes)",
   "Dictionary of Old English: A to I online",
+  "Dien Cai Dau",
   "Discipline: A Novel (Chawton House Library: Women's Novels)",
   "Displacing the Displacement Novel: V. S. Naipaul's In a Free State (Neel Mukherjee, The Paris Review)",
   "Diving into the Wreck: Poems 1971-1972 (Wikipedia)",
@@ -987,6 +992,7 @@
   "Felicia Hemans: Selected Poems, Letters, Reception Materials",
   "Felicia Hemans: Selected Poems, Prose and Letters",
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
+  "Fences",
   "Fight Back: For the Sake of the People, for the Sake of the Land",
   "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
   "Flannery O'Connor (Wikipedia)",
@@ -1004,6 +1010,7 @@
   "George Orwell bibliography (Wikipedia)",
   "George Orwell published: list of works (orwell.ru)",
   "Giles Foden, For me, Meeting the British blew away the very idea of certainty (The Guardian)",
+  "Gloria Anzaldúa (Wikipedia; Poetry Foundation author page)",
   "Going for the Rain",
   "Going to Meet the Man (Wikipedia)",
   "Going to Meet the Man, short story (Wikipedia)",
@@ -1016,6 +1023,7 @@
   "Grace Nichols, 'Epilogue', 'The Fat Black Woman Goes Shopping', 'Wherever I Hang' (readingnorton.wordpress.com)",
   "Grace Nichols, I Have Crossed an Ocean: Selected Poems (contents listing)",
   "Grace Nichols- born 1950 (greatbritishwriters blog)",
+  "Grace Notes",
   "Grace Paley (Wikipedia)",
   "Guide to the Juan Felipe Herrera Papers, ca. 1970-2017 (M1043)",
   "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
@@ -1041,7 +1049,10 @@
   "Howl and Other Poems (City Lights Books, 1956), publication and trial records",
   "Hunger of Memory (David R. Godine, 1982), publication records",
   "Imaginary Homelands (Wikipedia)",
+  "In Love & Trouble: Stories of Black Women",
+  "In Mad Love and War",
   "In Praise of Limestone (Wikipedia)",
+  "In Search of Our Mothers' Gardens: Womanist Prose",
   "In the Mecca: Poems (University of Pennsylvania Libraries, Franklin catalogue)",
   "Index of Works by Sylvia Plath (sylviaplath.info)",
   "Inside the Whale (Wikipedia)",
@@ -1070,7 +1081,9 @@
   "Jonathan Swift: Critical, Scholastic, and Variorum Edition",
   "Journal of West Indian Literature 24.2 (November 2016), Caribbean Ecocriticism special issue",
   "Journal of a Residence in Chile During the Year 1822, and a Voyage from Chile to Brazil in 1823",
+  "Joy Harjo (Wikipedia; Poetry Foundation author page)",
   "Juan Felipe Herrera",
+  "Julia Alvarez (Wikipedia; Poetry Foundation author page)",
   "Kamau Brathwaite (Wikipedia)",
   "King's Gold Medal for Poetry (Wikipedia; formerly Queen's Gold Medal for Poetry)",
   "Kiran Desai (Wikipedia)",
@@ -1120,6 +1133,7 @@
   "M. NourbeSe Philip's She Tries her Tongue, her Silence Softly Breaks and the Possibilities of Language (Revista Anglo Saxonica)",
   "MCMXIV (Wikipedia)",
   "Macaulay: Prose and Poetry",
+  "Magic City",
   "Magnetic Field: The Marsden Poems, context and critical discussion",
   "Maids Mild and Dark Villains, Sweet Magnolias and Seeping Blood: Gwendolyn Brooks's Poetic Response to the Lynching of Emmett Till (ResearchGate abstract)",
   "Major Literary Prizes (Post45 Data Collective)",
@@ -1133,6 +1147,7 @@
   "Martin Luther King Jr. (Wikipedia)",
   "Mary Oliver (Wikipedia)",
   "Mason Locke Weems, His Works and Ways (3 volumes)",
+  "Maus",
   "Maxine Hong Kingston (Wikipedia)",
   "McTeague: A Norton Critical Edition, 2nd edn",
   "Meditations in an Emergency (Wikipedia)",
@@ -1156,6 +1171,7 @@
   "Morning Song (Poetry Foundation poem page)",
   "Moses Ascending (Penguin Modern Classics description, as reproduced by booksellers)",
   "Mrs. Sherwood and Her Books for Children",
+  "Museum",
   "Myths of Identity in Derek Walcott's 'The Schooner Flight' (Mary C. Fuller, Connotations)",
   "N. Scott Momaday (Wikipedia)",
   "NEA Creative Writing Fellowships (Post45 Data Collective)",
@@ -1211,6 +1227,7 @@
   "Researches in the South of Ireland (CELT: Corpus of Electronic Texts)",
   "Review of These Sad But Glorious Days (Journal of American Studies)",
   "Richard Rodriguez (Wikipedia)",
+  "Rita Dove (Wikipedia; Poetry Foundation author page)",
   "Robert Bloomfield: Selected Poems (revised and enlarged edition)",
   "Robert Hayden (Wikipedia)",
   "Robert Lowell (Wikipedia)",
@@ -1241,7 +1258,9 @@
   "Selections from the Writings and Speeches of William Lloyd Garrison. With an Appendix",
   "Self-Control: A Novel (Chawton House Library: Women's Novels, No. 17)",
   "Self-Portrait in a Convex Mirror, poetry collection (Wikipedia)",
+  "She Had Some Horses",
   "Shelley's Poetry and Prose (Norton Critical Edition)",
+  "Sherman Alexie (Wikipedia; Poetry Foundation author page)",
   "Shooting an Elephant and Other Essays, 1950 (orwell.ru library record)",
   "Shooting an elephant, and other essays (WorldCat record, OCLC 2552523)",
   "Signs and Symbols (Wikipedia)",
@@ -1270,6 +1289,7 @@
   "Sylvia's Death (Wikipedia)",
   "Sylvia's Death, Poetry, January 1964 (Poetry Foundation archive)",
   "TEAMS Middle English Texts Series",
+  "Taboo: The Wishbone Trilogy, Part One",
   "Tales of Wonder (Broadview Editions)",
   "Ted Hughes (Wikipedia)",
   "Ted Hughes, 'Wind' (text, The Wondering Minstrels)",
@@ -1287,6 +1307,7 @@
   "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition",
   "The Book of Common Prayer: The Texts of 1549, 1559, and 1662",
   "The Boyne Water: A Tale (3 volumes)",
+  "The Business of Fancydancing",
   "The Cambridge Companion to Alexander Pope",
   "The Cambridge Companion to Ben Jonson",
   "The Cambridge Companion to British Literature of the 1930s",
@@ -1485,9 +1506,11 @@
   "The Spectator, 4 volumes",
   "The Stanza Stones project and In Memory of Water",
   "The Struggles of John Brown Russwurm: The Life and Writings of a Pan-Africanist Pioneer, 1799-1851",
+  "The Summer of Black Widows",
   "The Swimmer (short story) (Wikipedia)",
   "The Symbolist Movement in Literature",
   "The Theory of Moral Sentiments (Cambridge Texts in the History of Philosophy)",
+  "The Things They Carried",
   "The Time Machine: An Invention, first edition in book form",
   "The Walt Whitman Archive",
   "The Waste Land: A Facsimile and Transcript of the Original Drafts",
@@ -1499,6 +1522,7 @@
   "The Wild Iris",
   "The William Blake Archive",
   "The Woman Warrior (Alfred A. Knopf, 1976), copyright page and publication records",
+  "The Woman Who Fell from the Sky",
   "The Works of Aphra Behn",
   "The Works of Charles and Mary Lamb (7 volumes)",
   "The Works of Elizabeth Barrett Browning, 5 vols",
@@ -1511,6 +1535,7 @@
   "The Writings and Speeches of Edmund Burke",
   "The Writings of Henry D. Thoreau",
   "The Yale Edition of the Works of Samuel Johnson (21 volumes)",
+  "The Yellow House on the Corner",
   "Theodore Roethke (Wikipedia)",
   "These Sad But Glorious Days (Yale University Press)",
   "This Be the Verse (Wikipedia)",
@@ -1519,6 +1544,8 @@
   "Thom Gunn, Collected Poems (WorldCat contents listing)",
   "Thomas Chalmers and the Godly Commonwealth in Scotland",
   "Thomas Pynchon (Wikipedia)",
+  "Thomas and Beulah",
+  "Tim O'Brien (Wikipedia; Poetry Foundation author page)",
   "Timothy Dwight (Twayne's United States Authors Series, No. 145)",
   "Timothy Dwight, 1752-1817: A Biography",
   "Tina Burchette, 'The Split Self in Atwood's Miss July Grows Older' (Margaret Atwood Studies 8, 2014)",
@@ -1561,7 +1588,9 @@
   "Wole Soyinka (Wikipedia)",
   "Woman in the Nineteenth Century: A Norton Critical Edition",
   "Woven Stone",
-  "Zofloya: or, The Moor (Oxford World's Classics)"
+  "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)",
+  "Zofloya: or, The Moor (Oxford World's Classics)",
+  "¡Yo!"
  ],
  "authors": [
   {
@@ -1744,11 +1773,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3019,
+     "id": 3040,
      "title": "Elements of Composition"
     },
     {
-     "id": 3018,
+     "id": 3039,
      "title": "Self-Portrait"
     }
    ],
@@ -3252,13 +3281,68 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3039,
+     "id": 3060,
      "title": "Walker Brothers Cowboy"
     }
    ],
    "sources": [
     "Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)",
     "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)"
+   ]
+  },
+  {
+   "id": 938,
+   "name": "Alice Walker",
+   "altNames": [],
+   "dates": "1944",
+   "birthplace": "Eatonton, Georgia, United States",
+   "nationality": "African American; novelist, short-story writer, poet and essayist writing in English",
+   "identity": "African American novelist and essayist who reclaimed the Southern Black woman's inheritance in The Color Purple and coined 'womanist' as a term for Black feminist thought",
+   "biography": "Alice Malsenior Walker was born on 9 February 1944 in Eatonton, Georgia, the eighth child of sharecrop tenants, and lost the sight of her right eye at eight in an accident that shaped her account of self-consciousness. She attended Spelman College and Sarah Lawrence College, where she finished her first collection of poems, Once (1968). Her early novels and stories - The Third Life of Grange Copeland (1970), In Love & Trouble: Stories of Black Women (1973) and Meridian (1976) - established her as a writer of the civil rights and Black feminist movements, and she taught and worked as a civil rights activist in Mississippi. The Color Purple (1982) won the Pulitzer Prize and the National Book Award and was filmed by Steven Spielberg in 1985 and adapted for the musical stage in 2005. She published the essay collections In Search of Our Mothers' Gardens (1983) and Living by the Word (1988), the controversial The Temple of My Familiar (1989) and Possessing the Secret of Joy (1992), and a memoir, The Same River Twice (1996). She lives in Mendocino County, California.",
+   "profile": "Once (1968); The Third Life of Grange Copeland (1970); In Love & Trouble: Stories of Black Women (1973); Meridian (1976); You Can't Keep a Good Woman Down (1981); The Color Purple (1982); In Search of Our Mothers' Gardens: Womanist Prose (1983); The Temple of My Familiar (1989); Possessing the Secret of Joy (1992); and a body of poetry from Revolutionary Petunias (1973) to Taking the Arrow Out of the Heart (2018).",
+   "style": "Direct, idiomatic Southern Black speech; a first person that moves between the spoken and the essayistic; letters and diary forms; and a plainness of syntax used to carry violent and tender material in the same sentence.",
+   "concerns": "The survival and creativity of Black women under racism and poverty; the mother's garden as an inheritance; sexual and domestic violence; the African American South; and, in the essays, the definition of a 'womanist' tradition against white feminism.",
+   "significance": "'Everyday Use' is among the most anthologised short stories in American literature and is a standard text for teaching the conflict between a usable heritage and an ornamental one; 'In Search of Our Mothers' Gardens' gave the essay collection its title and made the phrase part of the vocabulary of Black feminist criticism. The Norton prints both.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Cultural Criticism",
+    "Domestic Fiction",
+    "Literary Essay",
+    "Personal Essay",
+    "Regional Fiction",
+    "Short Story"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2951,
+     "title": "Everyday Use"
+    },
+    {
+     "id": 2952,
+     "title": "In Search of Our Mothers' Gardens: Womanist Prose"
+    }
+   ],
+   "sources": [
+    "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
+    "Alice Walker (Wikipedia; Poetry Foundation author page)",
+    "David Walker's Appeal to the Coloured Citizens of the World",
+    "In Love & Trouble: Stories of Black Women",
+    "In Search of Our Mothers' Gardens: Womanist Prose",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -4289,7 +4373,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3061,
+     "id": 3082,
      "title": "The Glass Essay"
     }
    ],
@@ -5084,6 +5168,50 @@
    ]
   },
   {
+   "id": 942,
+   "name": "Art Spiegelman",
+   "altNames": [],
+   "dates": "1948",
+   "birthplace": "Stockholm, Sweden; raised in Queens, New York, United States",
+   "nationality": "American (born in Sweden to Polish Jewish Holocaust survivors); cartoonist and graphic novelist writing in English",
+   "identity": "Cartoonist whose Maus turned the Holocaust memoir into graphic narrative and won the Pulitzer Prize, establishing the graphic novel as a literary form",
+   "biography": "Art Spiegelman was born Itzhak Avraham ben Zeev Spiegelman on 15 February 1948 in Stockholm, where his Polish Jewish parents had gone after the war, and grew up in Rego Park, Queens, in New York. He began drawing professionally as a teenager and became part of the underground comix movement, drawing for East Village Other and co-founding Arcade with Bill Griffith in 1975. In 1980 he founded RAW with his wife Françoise Mouly, and in its pages he began Maus, a retelling of his father Vladek's survival of Auschwitz in which Jews are mice, Germans cats and Poles pigs. The first six chapters appeared as Maus I: A Survivor's Tale - My Father Bleeds History (Pantheon, 1986) and the rest as Maus II: A Survivor's Tale - And Here My Troubles Began (1991); the completed work was awarded a special Pulitzer Prize in 1992. He was the first cartoonist to be a regular contributor to The New Yorker, resigned over a pressure to tone down a Muhammad cartoon in 2003, and wrote Breakdowns: Portrait of the Artist as a Young %@&*! (2008) and the wordless MetaMaus (2011).",
+   "profile": "Maus I (1986) and Maus II (1991), collected as Maus: A Survivor's Tale (1992); Breakdowns (1977, expanded 2008); In the Shadow of No Towers (2004); MetaMaus (2011); and co-edited RAW (1980-91).",
+   "style": "Anthropomorphic cartoon animals drawn in black and white ink; a frame narrative in which the son interviews the father; documentary panels of the camps set against domestic scenes in Rego Park; and a deliberately rough, hand-drawn line that refuses the polish of the museum.",
+   "concerns": "The Holocaust and its transmission to the second generation; the guilt of the survivor and of the son; representation itself, since the animal masks are an argument about how the Shoah can be told; and history as something that happens in a family.",
+   "significance": "Maus won the special Pulitzer Prize in 1992, the first ever awarded to a comic, and is the work that established the graphic novel as a subject of literary study; it is taught in history courses as well as literature courses, and 'Mousetrap' - the sixth chapter, printed here - is the chapter in which the wartime narrative and the father's present-day household are most tightly interleaved. The Norton's inclusion of it is a statement about the form.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Autobiography",
+    "Biography",
+    "Graphic Novel",
+    "Historical Writing"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "The Holocaust, atrocity and historical memory"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2959,
+     "title": "Maus"
+    }
+   ],
+   "sources": [
+    "Art Spiegelman (Wikipedia; Poetry Foundation author page)",
+    "Maus",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 603,
    "name": "Arthur Conan Doyle",
    "altNames": [
@@ -5416,7 +5544,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3089,
+     "id": 3110,
      "title": "Death of a Salesman"
     }
    ],
@@ -5720,7 +5848,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3054,
+     "id": 3075,
      "title": "The God of Small Things"
     }
    ],
@@ -5808,11 +5936,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3109,
+     "id": 3130,
      "title": "Black Mother Woman"
     },
     {
-     "id": 3107,
+     "id": 3128,
      "title": "Coal"
     },
     {
@@ -5824,7 +5952,7 @@
      "title": "The Master's Tools Will Never Dismantle the Master's House"
     },
     {
-     "id": 3108,
+     "id": 3129,
      "title": "The Woman Thing"
     },
     {
@@ -5837,6 +5965,51 @@
     "Chrysalis and 'Poetry Is Not a Luxury' (Library of Congress blog)",
     "Sister Outsider (Wikipedia)",
     "The Collected Poems of Audre Lorde (library catalogue contents)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 939,
+   "name": "August Wilson",
+   "altNames": [],
+   "dates": "1945 – 2005",
+   "birthplace": "Pittsburgh, Pennsylvania, United States",
+   "nationality": "African American; playwright writing in English",
+   "identity": "African American playwright whose ten-play Century Cycle dramatised a century of Black Pittsburgh and restored tragedy to the American stage",
+   "biography": "August Wilson was born Frederick August Kittel Jr. on 27 April 1945 in the Hill District of Pittsburgh, the son of a German immigrant baker and an African American cleaning woman, and took his mother's name in 1965. He left school at fifteen and educated himself in the public library, then moved to St Paul, Minnesota, where he wrote plays for a theatre workshop. Ma Rainey's Black Bottom reached Broadway in 1984, and Fences, premiered at the Yale Repertory Theatre in 1985 and on Broadway in 1987 with James Earl Jones, won the Pulitzer Prize and the Tony Award. The ten plays that became the Pittsburgh Cycle or Century Cycle, one for each decade of the twentieth century, are Gem of the Ocean (2003), Joe Turner's Come and Gone (1988), Ma Rainey's Black Bottom (1984), The Piano Lesson (1990, Pulitzer), Two Trains Running (1992), Seven Guitars (1996), Fences (1987, Pulitzer), Jitney (1982), King Hedley II (2001) and Radio Golf (2005). He died of liver cancer in Seattle on 2 October 2005, a few months after Radio Golf opened.",
+   "profile": "The ten plays of the Pittsburgh/Century Cycle (1982-2005); Ma Rainey's Black Bottom (1984); Fences (1987); The Piano Lesson (1990); plus essays collected in The Ground on Which I Stand (1996), whose title piece attacks colour-blind casting.",
+   "style": "Naturalistic dialogue built on the cadences of Black Pittsburgh speech; long arias of monologue inside domestic and workplace settings; a single unit set per play; and a symbolic structure - the fence, the piano, the train - carried by the objects on stage.",
+   "concerns": "The legacy of slavery and migration in the twentieth-century Black North; fatherhood and inheritance; the economics of Black labour; the blues and the 'blood's memory'; and the demand that African American experience be granted tragic rather than sociological form.",
+   "significance": "Fences is the most produced American play of its generation and won both the Pulitzer Prize and the Tony Award; its 2010 Broadway revival with Denzel Washington and the 2016 film have kept it in continuous performance. The Century Cycle as a whole is commonly described as the most ambitious dramatic project in American theatre, and Fences is the play through which the Norton represents it.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Domestic Drama",
+    "Drama and Performance (1946–2000)",
+    "Full-Length Play",
+    "Modern Tragedy"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2953,
+     "title": "Fences"
+    }
+   ],
+   "sources": [
+    "August Wilson (Wikipedia; Poetry Foundation author page)",
+    "Fences",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
@@ -6267,7 +6440,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3053,
+     "id": 3074,
      "title": "What the Tapster Saw"
     }
    ],
@@ -6479,7 +6652,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3052,
+     "id": 3073,
      "title": "Looking for a Rain God"
     }
    ],
@@ -6727,7 +6900,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3066,
+     "id": 3087,
      "title": "First Screening"
     }
    ],
@@ -7199,19 +7372,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3070,
+     "id": 3091,
      "title": "Medusa"
     },
     {
-     "id": 3071,
+     "id": 3092,
      "title": "Mrs Lazarus"
     },
     {
-     "id": 3069,
+     "id": 3090,
      "title": "Valentine"
     },
     {
-     "id": 3068,
+     "id": 3089,
      "title": "Warming Her Pearls"
     }
    ],
@@ -7371,7 +7544,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3042,
+     "id": 3063,
      "title": "Top Girls"
     }
    ],
@@ -9025,7 +9198,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3035,
+     "id": 3056,
      "title": "Civil Peace"
     }
    ],
@@ -10739,19 +10912,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3025,
+     "id": 3046,
      "title": "A Far Cry from Africa"
     },
     {
-     "id": 3028,
+     "id": 3049,
      "title": "Omeros"
     },
     {
-     "id": 3026,
+     "id": 3047,
      "title": "The Schooner Flight"
     },
     {
-     "id": 3027,
+     "id": 3048,
      "title": "The Season of Phantasmal Peace"
     }
    ],
@@ -11075,7 +11248,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3017,
+     "id": 3038,
      "title": "To Room Nineteen"
     }
    ],
@@ -11487,7 +11660,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3004,
+     "id": 3025,
      "title": "Do Not Go Gentle into That Good Night"
     }
    ],
@@ -11511,7 +11684,8 @@
     "The Poetical Works of Thomas Moore",
     "The Works of Thomas De Quincey (21 volumes)",
     "Thomas Chalmers and the Godly Commonwealth in Scotland",
-    "Thomas Pynchon (Wikipedia)"
+    "Thomas Pynchon (Wikipedia)",
+    "Thomas and Beulah"
    ]
   },
   {
@@ -11888,15 +12062,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3058,
+     "id": 3079,
      "title": "Fond Memory"
     },
     {
-     "id": 3059,
+     "id": 3080,
      "title": "The Dolls Museum in Dublin"
     },
     {
-     "id": 3060,
+     "id": 3081,
      "title": "The Lost Land"
     }
    ],
@@ -13785,23 +13959,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3079,
+     "id": 3100,
      "title": "At the Fishhouses"
     },
     {
-     "id": 3082,
+     "id": 3103,
      "title": "In the Waiting Room"
     },
     {
-     "id": 3083,
+     "id": 3104,
      "title": "One Art"
     },
     {
-     "id": 3080,
+     "id": 3101,
      "title": "Questions of Travel"
     },
     {
-     "id": 3081,
+     "id": 3102,
      "title": "The Armadillo"
     }
    ],
@@ -16926,27 +17100,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3103,
+     "id": 3124,
      "title": "A Step Away from Them"
     },
     {
-     "id": 3105,
+     "id": 3126,
      "title": "Having a Coke with You"
     },
     {
-     "id": 3106,
+     "id": 3127,
      "title": "In Memory of My Feelings"
     },
     {
-     "id": 3101,
+     "id": 3122,
      "title": "Personism: A Manifesto"
     },
     {
-     "id": 3104,
+     "id": 3125,
      "title": "The Day Lady Died"
     },
     {
-     "id": 3102,
+     "id": 3123,
      "title": "Why I Am Not a Painter"
     }
    ],
@@ -17466,15 +17640,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3036,
+     "id": 3057,
      "title": "In Memory of Jane Fraser"
     },
     {
-     "id": 3037,
+     "id": 3058,
      "title": "Requiem for the Plantagenet Kings"
     },
     {
-     "id": 3038,
+     "id": 3059,
      "title": "September Song"
     }
    ],
@@ -18906,7 +19080,7 @@
      "title": "Coming Up for Air"
     },
     {
-     "id": 2956,
+     "id": 2977,
      "title": "Critical Essays"
     },
     {
@@ -18922,7 +19096,7 @@
      "title": "Inside the Whale and Other Essays"
     },
     {
-     "id": 2957,
+     "id": 2978,
      "title": "James Burnham and the Managerial Revolution"
     },
     {
@@ -18930,31 +19104,31 @@
      "title": "Keep the Aspidistra Flying"
     },
     {
-     "id": 2959,
+     "id": 2980,
      "title": "Nineteen Eighty-Four"
     },
     {
-     "id": 2987,
+     "id": 3008,
      "title": "Politics and the English Language"
     },
     {
-     "id": 2960,
+     "id": 2981,
      "title": "Shooting an Elephant and Other Essays"
     },
     {
-     "id": 2961,
+     "id": 2982,
      "title": "Such, Such Were the Joys"
     },
     {
-     "id": 2962,
+     "id": 2983,
      "title": "The Collected Essays, Journalism and Letters of George Orwell"
     },
     {
-     "id": 2958,
+     "id": 2979,
      "title": "The English People"
     },
     {
-     "id": 2963,
+     "id": 2984,
      "title": "The Freedom of the Press"
     },
     {
@@ -19804,6 +19978,52 @@
    ]
   },
   {
+   "id": 937,
+   "name": "Gloria Anzaldúa",
+   "altNames": [],
+   "dates": "1942 – 2004",
+   "birthplace": "Rio Grande Valley, Texas, United States",
+   "nationality": "Mexican American (Tejana); Chicana poet, essayist and theorist writing in English and Spanish",
+   "identity": "Chicana lesbian writer and theorist whose generically mixed Borderlands/La Frontera became a founding text of queer theory, Chicana feminism and US Third World feminism",
+   "biography": "Gloria Evangelina Anzaldúa was born on 26 September 1942 in the Rio Grande Valley of south Texas, the eldest of six children of sharecropping Mexican American parents, and grew up between her family's land and the migrant labour camps of Texas. She took a BA in English from Pan American University and an MA in English and education from the University of Texas at Austin, and taught in the public schools of Texas before moving to California. With Cherríe Moraga she edited This Bridge Called My Back: Writings by Radical Women of Color (Persephone Press, 1981), the anthology that put the term 'women of color' into circulation and that she called a survival handbook for the women it named. Her major book, Borderlands/La Frontera: The New Mestiza (Aunt Lute Books, 1987), mixes autobiography, history, myth, poetry and theory in English, Spanish and Nahuatl to describe the border as an open wound and the mestiza consciousness as the answer to it. She was co-editor of Making Face, Making Soul/Haciendo Caras (1990) and returned to fiction with a children's book, Prietita and the Ghost Woman (1995). She took a doctorate at the University of California, Santa Cruz in 2002 and died of diabetes-related complications in Santa Cruz on 15 May 2004.",
+   "profile": "Borderlands/La Frontera: The New Mestiza (1987); This Bridge Called My Back (co-edited with Cherríe Moraga, 1981); Making Face, Making Soul/Haciendo Caras (edited, 1990); Prietita and the Ghost Woman (1995); and posthumous edited volumes of her writing on spirituality.",
+   "style": "Genre-crossing and bilingual; chapters of autobiography, historical narrative, myth, poetry and theory set side by side without hierarchy; a first person that shifts between 'I' and 'we'; Spanish and Nahuatl left unglossed; and a style of sentence built to carry the emotions of fear, anger and survival together.",
+   "concerns": "The US-Mexico border as a lived wound rather than a line; mestizaje and hybrid identity; the taming of a wild tongue and the recovery of a mother tongue; the virgin of Guadalupe, Malintzin and Coatlicue as figures of female power; and the politics of writing as a queer Chicana.",
+   "significance": "Borderlands/La Frontera is the text through which Chicana feminism entered the American academy and is one of the founding documents of contemporary queer and postcolonial thought; its argument that identities are multiple and contradictory rather than singular is now a commonplace. The Norton Anthology of American Literature prints two chapters of it.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Autobiography",
+    "Cultural Criticism",
+    "Literary Essay",
+    "Prose Poetry"
+   ],
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2950,
+     "title": "Borderlands/La Frontera: The New Mestiza"
+    }
+   ],
+   "sources": [
+    "Borderlands/La Frontera: The New Mestiza",
+    "Gloria Anzaldúa (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 541,
    "name": "Grace King",
    "altNames": [
@@ -19899,15 +20119,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3013,
+     "id": 3034,
      "title": "Epilogue"
     },
     {
-     "id": 3014,
+     "id": 3035,
      "title": "The Fat Black Woman Goes Shopping"
     },
     {
-     "id": 3015,
+     "id": 3036,
      "title": "Wherever I Hang"
     }
    ],
@@ -19952,11 +20172,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3099,
+     "id": 3120,
      "title": "A Conversation with My Father"
     },
     {
-     "id": 3100,
+     "id": 3121,
      "title": "Zagrowsky Tells"
     }
    ],
@@ -20148,7 +20368,7 @@
    ],
    "works": [
     {
-     "id": 2997,
+     "id": 3018,
      "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon"
     },
     {
@@ -20156,27 +20376,27 @@
      "title": "A Street in Bronzeville"
     },
     {
-     "id": 2996,
+     "id": 3017,
      "title": "The Bean Eaters"
     },
     {
-     "id": 2999,
+     "id": 3020,
      "title": "The Blackstone Rangers"
     },
     {
-     "id": 2994,
+     "id": 3015,
      "title": "The Children of the Poor"
     },
     {
-     "id": 2998,
+     "id": 3019,
      "title": "The Last Quatrain of the Ballad of Emmett Till"
     },
     {
-     "id": 3000,
+     "id": 3021,
      "title": "To the Diaspora"
     },
     {
-     "id": 2995,
+     "id": 3016,
      "title": "We Real Cool"
     }
    ],
@@ -20624,7 +20844,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3067,
+     "id": 3088,
      "title": "My Son the Fanatic"
     }
    ],
@@ -24077,7 +24297,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3095,
+     "id": 3116,
      "title": "For Esmé—with Love and Squalor"
     }
    ],
@@ -24119,7 +24339,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3051,
+     "id": 3072,
      "title": "The Drowned World"
     }
    ],
@@ -24232,7 +24452,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3057,
+     "id": 3078,
      "title": "Waiting for the Barbarians"
     }
    ],
@@ -24465,7 +24685,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3096,
+     "id": 3117,
      "title": "On the Road"
     }
    ],
@@ -26258,7 +26478,7 @@
      "title": "Good Morning, Midnight"
     },
     {
-     "id": 2990,
+     "id": 3011,
      "title": "On Not Shooting Sitting Birds"
     },
     {
@@ -26266,7 +26486,7 @@
      "title": "Quartet"
     },
     {
-     "id": 2989,
+     "id": 3010,
      "title": "The Day They Burned the Books"
     },
     {
@@ -27596,7 +27816,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3085,
+     "id": 3106,
      "title": "The Swimmer"
     }
    ],
@@ -32134,6 +32354,71 @@
    ]
   },
   {
+   "id": 944,
+   "name": "Joy Harjo",
+   "altNames": [],
+   "dates": "1951",
+   "birthplace": "Tulsa, Oklahoma, United States",
+   "nationality": "Mvskoke (Muscogee) Nation; poet, musician and playwright writing in English",
+   "identity": "Mvskoke poet and saxophonist, US Poet Laureate 2019-22, whose work fused the Native American Renaissance with jazz and who was the first Native American to hold the laureateship",
+   "biography": "Joy Harjo was born on 9 May 1951 in Tulsa, Oklahoma, and is an enrolled member of the Mvskoke (Creek) Nation; her father was Muscogee and her mother of Cherokee, French and Irish descent. She studied at the Institute of American Indian Arts in Santa Fe, took a BA from the University of New Mexico and an MFA from the Iowa Writers' Workshop, and taught for many years at the University of New Mexico and the University of Illinois. The Last Song (1975) and What Moon Drove Me to This? (1979) preceded She Had Some Horses (Thunder's Mouth Press, 1983), the book that made her name. Secrets from the Center of the World (1989), In Mad Love and War (Wesleyan, 1990) - which won the American Book Award - The Woman Who Fell from the Sky (Norton, 1994) and A Map to the Next World (2000) followed, along with the memoir Crazy Brave (2012) and the poetry collections Conflict Resolution for Holy Beings (2015) and An American Sunrise (2019). She performs with her band the Arrow Dynamics, has released several albums of music with her saxophone and voice, and was named US Poet Laureate in 2019, serving three terms to 2022; she edited the Norton Anthology of Native Nations Poetry, When the Light of the World Was Subdued, Our Songs Came Through (2020).",
+   "profile": "The Last Song (1975); What Moon Drove Me to This? (1979); She Had Some Horses (1983); Secrets from the Center of the World (1989); In Mad Love and War (1990); The Woman Who Fell from the Sky (1994); A Map to the Next World (2000); How We Became Human: New and Selected Poems (2004); She Had Some Horses (reissued 2008); Crazy Brave (2012); Conflict Resolution for Holy Beings (2015); and An American Sunrise (2019).",
+   "style": "Free verse that moves by association and repetition rather than by argument; a syntax of invocation; the line broken where breath breaks; animals, weather and the Oklahoma landscape as agents rather than scenery; and the rhythm of blues and jazz carried into the poem.",
+   "concerns": "Indigenous survival, removal and return; the Mvskoke homeland and the Trail of Tears; women's lives and violence against women; the natural world as a network of persons; music and ceremony as forms of memory; and the crossing of the American present with a mythic one.",
+   "significance": "Harjo is the best-known Native American poet of her generation and the first Native American US Poet Laureate; She Had Some Horses is a central text of the Native American Renaissance and of the poetry of the 1980s, and the Norton's four selections are drawn from four different decades of her work, which makes her the anthology's fullest representation of a Native poet.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Nature Poetry"
+   ],
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Indigenous survival, land and sovereignty",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Myth, folklore and the supernatural",
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2961,
+     "title": "Call It Fear"
+    },
+    {
+     "id": 2963,
+     "title": "Summer Night"
+    },
+    {
+     "id": 2964,
+     "title": "The Flood"
+    },
+    {
+     "id": 2962,
+     "title": "White Bear"
+    }
+   ],
+   "sources": [
+    "In Mad Love and War",
+    "Joy Harjo (Wikipedia; Poetry Foundation author page)",
+    "She Had Some Horses",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Woman Who Fell from the Sky"
+   ]
+  },
+  {
    "id": 933,
    "name": "Juan Felipe Herrera",
    "altNames": [],
@@ -32182,6 +32467,50 @@
     "Half of the World in Light: New and Selected Poems",
     "Juan Felipe Herrera",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 943,
+   "name": "Julia Alvarez",
+   "altNames": [],
+   "dates": "1950",
+   "birthplace": "New York City, United States; raised in the Dominican Republic",
+   "nationality": "Dominican American; novelist, poet and essayist writing in English",
+   "identity": "Dominican American writer whose novels of immigration, bilingualism and the Trujillo dictatorship made her a central figure in Latina literature in the United States",
+   "biography": "Julia Alvarez was born on 27 March 1950 in New York and taken to the Dominican Republic as an infant, where her father ran a farm and was involved in a plot against the dictator Rafael Trujillo. The family fled back to New York in 1960, ten months before Trujillo's assassination, and Alvarez grew up in Queens, learning English at school while Spanish stayed the language of home. She took degrees at Middlebury College and Syracuse University and worked as a migrant-labour-camp teacher, then taught English at Middlebury from 1988. Homecoming: New and Collected Poems (1984) came first, then the novel How the García Girls Lost Their Accents (Algonquin, 1991), which tells the story of four sisters backwards from their American adulthood to their Dominican childhood and made her reputation. In the Time of the Butterflies (1994) fictionalised the Mirabal sisters murdered by Trujillo, and ¡Yo! (Algonquin, 1997) returned to the García family, telling the second sister's story through the voices of everyone around her. In the Name of Salomé (2000), Saving the World (2006) and Afterlife (2020) followed, with the nonfiction Something to Declare (1998) and the middle-grade Tía Lola series.",
+   "profile": "Homecoming (1984); How the García Girls Lost Their Accents (1991); In the Time of the Butterflies (1994); ¡Yo! (1997); Something to Declare (1998); In the Name of Salomé (2000); Saving the World (2006); and Afterlife (2020), plus poetry from The Other Side/El Otro Lado (1995) onward.",
+   "style": "Multiple first-person narrators, each with a distinct idiolect; non-chronological structures that run the immigrant story backwards; Spanish words left in the English text; and a comic voice that carries political material without solemnity.",
+   "concerns": "Immigration and the loss of a homeland; bilingualism and the taming of the tongue; the Trujillo dictatorship and the courage of ordinary women; sisterhood and family myth-making; and the position of the Latina writer inside the American academy.",
+   "significance": "'The Mother' - the chapter the Norton prints - is the section of ¡Yo! in which Yo's mother narrates in the first person, and it is the piece most often taught from the novel because it dramatises the mother-daughter language gap in a single voice. Alvarez is one of the writers through whom the Norton represents the 1990s boom in US Latina fiction.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Bildungsroman",
+    "Domestic Fiction",
+    "Literary Novel"
+   ],
+   "movements": [
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2960,
+     "title": "¡Yo!"
+    }
+   ],
+   "sources": [
+    "Julia Alvarez (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "¡Yo!"
    ]
   },
   {
@@ -32410,15 +32739,15 @@
      "title": "[On Sycorax Video Style]"
     },
     {
-     "id": 3007,
+     "id": 3028,
      "title": "Calypso"
     },
     {
-     "id": 3006,
+     "id": 3027,
      "title": "History of the Voice"
     },
     {
-     "id": 3008,
+     "id": 3029,
      "title": "Letter SycoraX"
     }
    ],
@@ -32826,7 +33155,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3072,
+     "id": 3093,
      "title": "Hullabaloo in the Guava Orchard"
     }
    ],
@@ -32875,11 +33204,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3097,
+     "id": 3118,
      "title": "Harrison Bergeron"
     },
     {
-     "id": 3098,
+     "id": 3119,
      "title": "Slaughterhouse-Five"
     }
    ],
@@ -33541,11 +33870,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3050,
+     "id": 3071,
      "title": "Corniche"
     },
     {
-     "id": 3049,
+     "id": 3070,
      "title": "Morse"
     }
    ],
@@ -33897,7 +34226,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3016,
+     "id": 3037,
      "title": "Inglan Is a Bitch"
     }
    ],
@@ -34041,27 +34370,27 @@
      "title": "A Raisin in the Sun"
     },
     {
-     "id": 2953,
+     "id": 2974,
      "title": "Les Blancs"
     },
     {
-     "id": 2954,
+     "id": 2975,
      "title": "The Drinking Gourd"
     },
     {
-     "id": 2951,
+     "id": 2972,
      "title": "The Movement: Documentary of a Struggle for Equality"
     },
     {
-     "id": 2950,
+     "id": 2971,
      "title": "The Sign in Sidney Brustein's Window"
     },
     {
-     "id": 2952,
+     "id": 2973,
      "title": "To Be Young, Gifted and Black"
     },
     {
-     "id": 2955,
+     "id": 2976,
      "title": "What Use Are Flowers?"
     }
    ],
@@ -34256,7 +34585,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3005,
+     "id": 3026,
      "title": "Colonization in Reverse"
     },
     {
@@ -34746,7 +35075,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3010,
+     "id": 3031,
      "title": "Discourse on the Logic of Language"
     }
    ],
@@ -34967,11 +35296,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3055,
+     "id": 3076,
      "title": "Death by Landscape"
     },
     {
-     "id": 3056,
+     "id": 3077,
      "title": "Miss July Grows Older"
     }
    ],
@@ -38743,7 +39072,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3009,
+     "id": 3030,
      "title": "Decolonising the Mind"
     }
    ],
@@ -40294,19 +40623,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3064,
+     "id": 3085,
      "title": "7, Middagh Street"
     },
     {
-     "id": 3062,
+     "id": 3083,
      "title": "Anseo"
     },
     {
-     "id": 3063,
+     "id": 3084,
      "title": "Meeting the British"
     },
     {
-     "id": 3065,
+     "id": 3086,
      "title": "Milkweed and Monarch"
     }
    ],
@@ -40629,7 +40958,7 @@
      "title": "Aubade"
     },
     {
-     "id": 2978,
+     "id": 2999,
      "title": "Church Going"
     },
     {
@@ -40637,7 +40966,7 @@
      "title": "Collected Poems"
     },
     {
-     "id": 2982,
+     "id": 3003,
      "title": "Going, Going"
     },
     {
@@ -40645,11 +40974,11 @@
      "title": "High Windows"
     },
     {
-     "id": 2981,
+     "id": 3002,
      "title": "High Windows (poem)"
     },
     {
-     "id": 2984,
+     "id": 3005,
      "title": "Homage to a Government"
     },
     {
@@ -40657,7 +40986,7 @@
      "title": "Jill"
     },
     {
-     "id": 2979,
+     "id": 3000,
      "title": "MCMXIV"
     },
     {
@@ -40665,7 +40994,7 @@
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
-     "id": 2983,
+     "id": 3004,
      "title": "Sad Steps"
     },
     {
@@ -40673,11 +41002,11 @@
      "title": "Selected Letters of Philip Larkin, 1940-1985"
     },
     {
-     "id": 2980,
+     "id": 3001,
      "title": "Talking in Bed"
     },
     {
-     "id": 2985,
+     "id": 3006,
      "title": "The Explosion"
     },
     {
@@ -40693,7 +41022,7 @@
      "title": "The Whitsun Weddings"
     },
     {
-     "id": 2986,
+     "id": 3007,
      "title": "This Be The Verse"
     },
     {
@@ -42957,6 +43286,65 @@
    ]
   },
   {
+   "id": 946,
+   "name": "Rita Dove",
+   "altNames": [],
+   "dates": "1952",
+   "birthplace": "Akron, Ohio, United States",
+   "nationality": "African American; poet and essayist writing in English",
+   "identity": "African American poet, US Poet Laureate 1993-95 and Pulitzer Prize winner 1987, whose sequence Thomas and Beulah recovered her grandparents' lives in a form both lyric and historical",
+   "biography": "Rita Frances Dove was born on 28 August 1952 in Akron, Ohio, and grew up there as the daughter of the first Black chemist at the Goodyear Tire & Rubber Company. She was a Presidential Scholar in 1970, graduated summa cum laude from Miami University of Ohio, studied at the Universität Tübingen on a Fulbright and took an MFA from the Iowa Writers' Workshop in 1977. The Yellow House on the Corner (Carnegie Mellon, 1980) and Museum (1983) came first, and Thomas and Beulah (1986) - a sequence about her maternal grandparents' migration from the South to Akron - won the Pulitzer Prize in 1987. She published Grace Notes (1989), the novel Through the Ivory Gate (1992), Mother Love (1995), a reworking of the Demeter-Persephone myth, and On the Bus with Rosa Parks (1999). She was US Poet Laureate from 1993 to 1995, the youngest ever appointed, and served as Poet Laureate of Virginia from 2004 to 2006; her later work includes American Smooth (2004), Sonata Mulattica (2009), a book-length sequence on the Black violinist George Bridgetower, and Playlist for the Apocalypse (2021). She has edited The Best American Poetry (2000) and The Penguin Anthology of Twentieth-Century American Poetry (2011), and teaches at the University of Virginia.",
+   "profile": "The Yellow House on the Corner (1980); Museum (1983); Thomas and Beulah (1986); Grace Notes (1989); Through the Ivory Gate (1992); Mother Love (1995); On the Bus with Rosa Parks (1999); American Smooth (2004); Sonata Mulattica (2009); and Playlist for the Apocalypse (2021).",
+   "style": "Formal control inside free verse; short lyrics arranged into sequences with a narrative arc; a diction that moves between the plain and the archaic without strain; persona poems in the voices of historical figures; and a strong sense of the poem as a shaped object with a turn and a close.",
+   "concerns": "The Great Migration and the lives of ordinary Black Americans in the industrial Midwest; family history and inheritance; music, dance and the performing body; the classical and mythological past in relation to Black experience; and the pressures of history on a private life.",
+   "significance": "Dove was the youngest US Poet Laureate and the second African American to hold the post, and Thomas and Beulah is one of the most admired American sequences of the 1980s, a model for the book-length historical lyric. The Norton prints ten of her selections - three Adolescence poems, three sections of Thomas and Beulah and four other lyrics - which is more than any other poet in the anthology's period.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2966,
+     "title": "Museum"
+    },
+    {
+     "id": 2965,
+     "title": "The Yellow House on the Corner"
+    },
+    {
+     "id": 2967,
+     "title": "Thomas and Beulah"
+    }
+   ],
+   "sources": [
+    "Grace Notes",
+    "Museum",
+    "Rita Dove (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Yellow House on the Corner",
+    "Thomas and Beulah"
+   ]
+  },
+  {
    "id": 257,
    "name": "Robert Blair",
    "altNames": [
@@ -43734,11 +44122,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3087,
+     "id": 3108,
      "title": "Summertime and the Living . . ."
     },
     {
-     "id": 3086,
+     "id": 3107,
      "title": "Those Winter Sundays"
     }
    ],
@@ -44023,23 +44411,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3094,
+     "id": 3115,
      "title": "For the Union Dead"
     },
     {
-     "id": 3092,
+     "id": 3113,
      "title": "Memories of West Street and Lepke"
     },
     {
-     "id": 3090,
+     "id": 3111,
      "title": "Mr. Edwards and the Spider"
     },
     {
-     "id": 3093,
+     "id": 3114,
      "title": "Night Sweat"
     },
     {
-     "id": 3091,
+     "id": 3112,
      "title": "Skunk Hour"
     }
    ],
@@ -45239,11 +45627,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3012,
+     "id": 3033,
      "title": "Imaginary Homelands"
     },
     {
-     "id": 3011,
+     "id": 3032,
      "title": "The Prophet's Hair"
     }
    ],
@@ -45318,7 +45706,7 @@
      "title": "Murphy"
     },
     {
-     "id": 2991,
+     "id": 3012,
      "title": "Waiting for Godot"
     }
    ],
@@ -46043,63 +46431,63 @@
    ],
    "works": [
     {
-     "id": 2964,
+     "id": 2985,
      "title": "A Brighter Sun"
     },
     {
-     "id": 2965,
+     "id": 2986,
      "title": "An Island Is a World"
     },
     {
-     "id": 2975,
+     "id": 2996,
      "title": "Eldorado West One"
     },
     {
-     "id": 2976,
+     "id": 2997,
      "title": "Foreday Morning: Selected Prose 1946-1986"
     },
     {
-     "id": 2977,
+     "id": 2998,
      "title": "Highway in the Sun and Other Plays"
     },
     {
-     "id": 2969,
+     "id": 2990,
      "title": "I Hear Thunder"
     },
     {
-     "id": 2973,
+     "id": 2994,
      "title": "Moses Ascending"
     },
     {
-     "id": 2974,
+     "id": 2995,
      "title": "Moses Migrating"
     },
     {
-     "id": 2970,
+     "id": 2991,
      "title": "The Housing Lark"
     },
     {
-     "id": 2966,
+     "id": 2987,
      "title": "The Lonely Londoners"
     },
     {
-     "id": 2971,
+     "id": 2992,
      "title": "The Plains of Caroni"
     },
     {
-     "id": 2972,
+     "id": 2993,
      "title": "Those Who Eat the Cascadura"
     },
     {
-     "id": 2968,
+     "id": 2989,
      "title": "Turn Again Tiger"
     },
     {
-     "id": 2988,
+     "id": 3009,
      "title": "Waiting for Aunty to Cough"
     },
     {
-     "id": 2967,
+     "id": 2988,
      "title": "Ways of Sunlight"
     }
    ],
@@ -46523,7 +46911,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3088,
+     "id": 3109,
      "title": "Looking for Mr. Green"
     }
    ],
@@ -46578,27 +46966,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3046,
+     "id": 3067,
      "title": "Casualty"
     },
     {
-     "id": 3048,
+     "id": 3069,
      "title": "Clearances"
     },
     {
-     "id": 3043,
+     "id": 3064,
      "title": "Digging"
     },
     {
-     "id": 3045,
+     "id": 3066,
      "title": "Punishment"
     },
     {
-     "id": 3047,
+     "id": 3068,
      "title": "Station Island"
     },
     {
-     "id": 3044,
+     "id": 3065,
      "title": "The Grauballe Man"
     }
    ],
@@ -46737,6 +47125,63 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 945,
+   "name": "Sherman Alexie",
+   "altNames": [],
+   "dates": "1966",
+   "birthplace": "Wellpinit, Spokane Indian Reservation, Washington, United States",
+   "nationality": "Spokane and Coeur d'Alene; poet, novelist and filmmaker writing in English",
+   "identity": "Spokane writer whose first books made him the most widely read Native American author of his generation and whose work moved between lyric, satire, film and young-adult fiction",
+   "biography": "Sherman Joseph Alexie Jr. was born on 7 October 1966 on the Spokane Indian Reservation at Wellpinit, Washington, the son of a Spokane father and a Coeur d'Alene mother, and grew up in poverty; he was hydrocephalic as an infant, suffered seizures, and read voraciously, leaving the reservation school for Reardan High School where he was the only Indian student. He took a BA from Washington State University, where he studied with Alex Kuo, and published The Business of Fancydancing (Hanging Loose Press, 1992) at twenty-five; it mixes poems and short stories and was followed by the story collection The Lone Ranger and Tonto Fistfight in Heaven (1993), which won the PEN/Hemingway Award, and the novel Reservation Blues (1995). Indian Killer (1996) was a thriller, and The Summer of Black Widows (1996) gathered his poems. He wrote the screenplay for Smoke Signals (1998), the first feature film written, directed and acted by Native Americans to reach wide release, and directed The Business of Fancydancing as a film in 2002. The Absolutely True Diary of a Part-Time Indian (2007) won the National Book Award for Young People's Literature; later books include Blasphemy: New and Selected Stories (2012) and You Don't Have to Say You Love Me (2017), a memoir about his mother. He has spoken publicly about depression and about having been sexually abused as a child, and in 2018 faced allegations of sexual harassment, which he has denied.",
+   "profile": "The Business of Fancydancing (1992); The Lone Ranger and Tonto Fistfight in Heaven (1993); Reservation Blues (1995); Indian Killer (1996); The Summer of Black Widows (1996); The Toughest Indian in the World (2000); Ten Little Indians (2003); The Absolutely True Diary of a Part-Time Indian (2007); Blasphemy (2012); and You Don't Have to Say You Love Me (2017).",
+   "style": "A demotic, joke-telling free verse and prose poem built on the one-liner; abrupt turns from comedy to grief; reservation speech with its own timing; and a habit of naming brands, basketball players and television shows as the common culture of his characters.",
+   "concerns": "Reservation life, poverty and endurance; basketball as an image of both escape and entrapment; alcoholism and its inheritance; the commodification of Indian identity for tourists and readers; and the grief of a family and a people, handled through comedy.",
+   "significance": "Alexie was for two decades the most widely taught Native American writer in American schools, and the Norton's four selections - three poems from the 1990s and a story - represent both the lyric and the fictional sides of his early work. 'This Is What It Means to Say Phoenix, Arizona' is the story from which Smoke Signals was developed. The harassment allegations of 2018 have changed how his work is taught without removing it from the anthologies.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Prose Poetry",
+    "Short Story"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Myth, folklore and the supernatural",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2970,
+     "title": "At Navajo Monument Valley Tribal School"
+    },
+    {
+     "id": 2968,
+     "title": "The Business of Fancydancing"
+    },
+    {
+     "id": 2969,
+     "title": "The Summer of Black Widows"
+    }
+   ],
+   "sources": [
+    "Sherman Alexie (Wikipedia; Poetry Foundation author page)",
+    "The Business of Fancydancing",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Summer of Black Widows"
    ]
   },
   {
@@ -48556,11 +49001,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3002,
+     "id": 3023,
      "title": "Not Waving but Drowning"
     },
     {
-     "id": 3001,
+     "id": 3022,
      "title": "Our Bog Is Dood"
     },
     {
@@ -48568,7 +49013,7 @@
      "title": "Pretty"
     },
     {
-     "id": 3003,
+     "id": 3024,
      "title": "Thoughts About the Person from Porlock"
     }
    ],
@@ -49499,27 +49944,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3034,
+     "id": 3055,
      "title": "Crow Tyrannosaurus"
     },
     {
-     "id": 3033,
+     "id": 3054,
      "title": "Crow's Last Stand"
     },
     {
-     "id": 3031,
+     "id": 3052,
      "title": "Out"
     },
     {
-     "id": 3030,
+     "id": 3051,
      "title": "Pike"
     },
     {
-     "id": 3032,
+     "id": 3053,
      "title": "Theology"
     },
     {
-     "id": 3029,
+     "id": 3050,
      "title": "Wind"
     }
    ],
@@ -49563,7 +50008,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3084,
+     "id": 3105,
      "title": "A Streetcar Named Desire"
     }
    ],
@@ -49843,23 +50288,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3074,
+     "id": 3095,
      "title": "Cuttings"
     },
     {
-     "id": 3075,
+     "id": 3096,
      "title": "Cuttings (later)"
     },
     {
-     "id": 3077,
+     "id": 3098,
      "title": "Elegy for Jane"
     },
     {
-     "id": 3078,
+     "id": 3099,
      "title": "I Knew a Woman"
     },
     {
-     "id": 3076,
+     "id": 3097,
      "title": "The Waking"
     }
    ],
@@ -49906,23 +50351,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3020,
+     "id": 3041,
      "title": "Black Jackets"
     },
     {
-     "id": 3022,
+     "id": 3043,
      "title": "From the Wave"
     },
     {
-     "id": 3021,
+     "id": 3042,
      "title": "My Sad Captains"
     },
     {
-     "id": 3023,
+     "id": 3044,
      "title": "Still Life"
     },
     {
-     "id": 3024,
+     "id": 3045,
      "title": "The Missing"
     }
    ],
@@ -52627,6 +53072,48 @@
    ]
   },
   {
+   "id": 940,
+   "name": "Tim O'Brien",
+   "altNames": [],
+   "dates": "1946",
+   "birthplace": "Austin, Minnesota, United States",
+   "nationality": "American; novelist and short-story writer writing in English",
+   "identity": "American writer of the Vietnam War whose books treat memory, testimony and the impossibility of a true war story as their subject",
+   "biography": "Timothy John O'Brien was born on 1 October 1946 in Austin, Minnesota, and graduated from Macalester College in 1968; he was drafted into the US Army that year and served in Vietnam in 1969-70 with the Third Platoon, Company A, Fifth Battalion, 46th Infantry, in Quang Ngai province. He began writing war stories on his return, and If I Die in a Combat Zone: Box Me Up and Ship Me Home appeared in 1973, followed by Northern Lights (1975) and Going After Cacciato (1978), which won the National Book Award and is built on a soldier's desertion and walk to Paris. The nuclear-war novel The Nuclear Age (1985) came before The Things They Carried (1990), his best-known book: a collection of linked stories whose narrator is named Tim O'Brien and which insists that its 'true' war stories are invented. In the Lake of the Woods (1994), Tomcat in Love (1998), July, July (2002) and Dad's Maybe Book (2019) followed. He holds a doctorate from the University of East Anglia and has taught at Texas State University.",
+   "profile": "If I Die in a Combat Zone (1973); Northern Lights (1975); Going After Cacciato (1978); The Nuclear Age (1985); The Things They Carried (1990); In the Lake of the Woods (1994); Tomcat in Love (1998); July, July (2002); and the memoir Dad's Maybe Book (2019).",
+   "style": "A plain, reportorial sentence that declares its own unreliability; stories nested inside stories and told again with different outcomes; lists and inventories as a structural device; and a narrator who shares the author's name and contradicts his own testimony.",
+   "concerns": "The burden of memory and the guilt of survival; the difference between happening-truth and story-truth; cowardice and courage as a problem rather than a virtue; the weight of what soldiers carry, literal and moral; and the way a story is retold to keep the dead alive.",
+   "significance": "'How to Tell a True War Story' is the metafictional centre of The Things They Carried and one of the most discussed short stories about Vietnam; its opening claim that a true war story is never moral is regularly quoted, and the book is a standard text in courses on American war writing and on historiography. The Norton prints the story on its own.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Metafictional Novel",
+    "Short Story",
+    "War Novel"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2954,
+     "title": "How to Tell a True War Story"
+    }
+   ],
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Things They Carried",
+    "Tim O'Brien (Wikipedia; Poetry Foundation author page)"
+   ]
+  },
+  {
    "id": 379,
    "name": "Timothy Dwight",
    "altNames": [
@@ -53059,7 +53546,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3040,
+     "id": 3061,
      "title": "One Out of Many"
     }
    ],
@@ -53358,7 +53845,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3073,
+     "id": 3094,
      "title": "Signs and Symbols"
     }
    ],
@@ -53623,7 +54110,7 @@
      "title": "Another Time"
     },
     {
-     "id": 2992,
+     "id": 3013,
      "title": "In Praise of Limestone"
     },
     {
@@ -53643,7 +54130,7 @@
      "title": "The Orators: An English Study"
     },
     {
-     "id": 2993,
+     "id": 3014,
      "title": "The Shield of Achilles"
     }
    ],
@@ -58033,7 +58520,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3041,
+     "id": 3062,
      "title": "Death and the King's Horseman"
     }
    ],
@@ -58136,6 +58623,73 @@
    ],
    "sources": [
     "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"
+   ]
+  },
+  {
+   "id": 941,
+   "name": "Yusef Komunyakaa",
+   "altNames": [],
+   "dates": "1947",
+   "birthplace": "Bogalusa, Louisiana, United States",
+   "nationality": "African American; poet writing in English",
+   "identity": "African American poet of the Vietnam War and of Black southern childhood, Pulitzer Prize 1994, whose music-inflected free verse made him one of the most influential American poets of his generation",
+   "biography": "Yusef Komunyakaa was born James William Brown Jr. on 29 April 1947 in Bogalusa, Louisiana, and took the name Komunyakaa from his grandfather's family name. He served in the US Army in Vietnam from 1969 to 1970 as a correspondent and editor of the Southern Cross newspaper and was awarded the Bronze Star; he has said he did not begin to write about the war for more than a decade afterwards. He took degrees at the University of Colorado and Colorado State University and an MFA from the University of California, Irvine, and taught for many years at Indiana University and then at Princeton. Dedications & Other Dark Horses (1977), Copacetic (1984) and I Apologize for the Eyes in My Head (1986) came before Dien Cai Dau (1988), his Vietnam book, and Magic City (1992), which returns to Bogalusa. Neon Vernacular: New and Selected Poems 1977-1989 (1993) won the Pulitzer Prize and the Kingsley Tufts Award in 1994. Thieves of Paradise (1998), Talking Dirty to the Gods (2000), Pleasure Dome: New and Collected Poems 1975-1999 (2001), Taboo: The Wishbone Trilogy, Part One (2004) and Warhorses (2008) followed, along with the essay collection Blue Notes (2000) and the libretto for Scott Wheeler's opera Democracy.",
+   "profile": "Dedications & Other Dark Horses (1977); Copacetic (1984); I Apologize for the Eyes in My Head (1986); Dien Cai Dau (1988); Magic City (1992); Neon Vernacular (1993); Thieves of Paradise (1998); Talking Dirty to the Gods (2000); Pleasure Dome (2001); Taboo (2004); Warhorses (2008); The Emperor of Water Clocks (2015); and Blue Notes: Essays, Interviews and Commentaries (2000).",
+   "style": "Free verse built on the cadence of blues, jazz and juke-joint speech; short lines with hard stops; concrete, often violent imagery; a syntax that withholds the subject; and long sequences that build single poems into a mythic anatomy.",
+   "concerns": "The Vietnam War and the survivor's memory of it, above all in 'Facing It'; Black southern childhood and labour; music as a mode of knowledge; the body, desire and violence; and the persistence of the mythological inside the everyday.",
+   "significance": "Komunyakaa is the most anthologised African American poet of his generation after the Black Arts writers, and 'Facing It' - his poem about the Vietnam Veterans Memorial - is one of the most widely taught poems about the war. The Pulitzer Prize for Neon Vernacular in 1994 confirmed a reputation built on Dien Cai Dau, and the Norton's four selections give him the largest block of any poet in the anthology's period.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Cultural Criticism",
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry",
+    "Political Poetry"
+   ],
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "War, combat and its aftermath"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2955,
+     "title": "Facing It"
+    },
+    {
+     "id": 2957,
+     "title": "My Father's Love Letters"
+    },
+    {
+     "id": 2958,
+     "title": "Nude Study"
+    },
+    {
+     "id": 2956,
+     "title": "Slam, Dunk, & Hook"
+    }
+   ],
+   "sources": [
+    "Dien Cai Dau",
+    "Magic City",
+    "Taboo: The Wishbone Trilogy, Part One",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)"
    ]
   },
   {
@@ -60564,7 +61118,7 @@
    ]
   },
   {
-   "id": 3064,
+   "id": 3085,
    "title": "7, Middagh Street",
    "altTitles": [],
    "authorship": "single",
@@ -60935,7 +61489,7 @@
    ]
   },
   {
-   "id": 2964,
+   "id": 2985,
    "title": "A Brighter Sun",
    "altTitles": [],
    "authorship": "single",
@@ -60989,7 +61543,7 @@
    ]
   },
   {
-   "id": 2997,
+   "id": 3018,
    "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
    "altTitles": [
     "A Bronzeville Mother Loiters in Mississippi"
@@ -61649,7 +62203,7 @@
    ]
   },
   {
-   "id": 3099,
+   "id": 3120,
    "title": "A Conversation with My Father",
    "altTitles": [],
    "authorship": "single",
@@ -62690,7 +63244,7 @@
    ]
   },
   {
-   "id": 3025,
+   "id": 3046,
    "title": "A Far Cry from Africa",
    "altTitles": [],
    "authorship": "single",
@@ -68147,7 +68701,7 @@
    ]
   },
   {
-   "id": 3103,
+   "id": 3124,
    "title": "A Step Away from Them",
    "altTitles": [],
    "authorship": "single",
@@ -68252,7 +68806,7 @@
    ]
   },
   {
-   "id": 3084,
+   "id": 3105,
    "title": "A Streetcar Named Desire",
    "altTitles": [],
    "authorship": "single",
@@ -75469,7 +76023,7 @@
    ]
   },
   {
-   "id": 2965,
+   "id": 2986,
    "title": "An Island Is a World",
    "altTitles": [],
    "authorship": "single",
@@ -76175,7 +76729,7 @@
    ]
   },
   {
-   "id": 3062,
+   "id": 3083,
    "title": "Anseo",
    "altTitles": [],
    "authorship": "single",
@@ -77568,6 +78122,56 @@
    ]
   },
   {
+   "id": 2970,
+   "title": "At Navajo Monument Valley Tribal School",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sherman Alexie"
+   ],
+   "authorIds": [
+    945
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, short lines)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'At Navajo Monument Valley Tribal School' is a poem from The Business of Fancydancing (Brooklyn: Hanging Loose Press, 1992), Alexie's first book. It is about a photograph of students at an Indian boarding school, and it is the most directly historical poem in his debut.",
+   "summary": "The poem describes a photograph of Navajo children lined up at a tribal school, and it reads the image for what it does not show: the children's names, the languages they were forbidden, the families they were taken from. It moves between the photograph's flat surface and the history the surface holds down, and its short lines keep the poem close to the picture rather than letting it escape into statement.",
+   "plot": "The poem's method is ekphrasis as indictment: the photograph is treated as a document and as a lie at the same time, since the order and cleanliness of the line-up are exactly what the school was for. Alexie's short lines let him place a fact beside an image without arguing, and the poem's power comes from the reader's knowledge of what the boarding schools did - the cutting of hair, the prohibition of Native languages, the separation of children from parents, the motto 'kill the Indian, save the man'. The poem does not supply that history, and its refusal to explain is a refusal to make the children into a lesson. It is also one of the earliest poems in which Alexie writes about photography, a subject he returns to throughout his work, and its treatment of the camera as an instrument of both record and violence is characteristic of the Native American writing of the period, which had begun to read the photographic archive against itself.",
+   "significance": "The poem is the historical centre of Alexie's debut and the one most often taught in courses on boarding-school literature; it is a Norton selection, and the list carried it as undated before this wave.",
+   "meter": "Short unpunctuated lines; present tense; a flat descriptive tone that refuses outrage; and an absence of simile, so that the photograph stays a photograph.",
+   "context": "The Business of Fancydancing appeared in 1992, and the poem belongs to the period of public reckoning with the boarding-school system that would produce the 2000s scholarship on it; Navajo Monument Valley Tribal School is a school on the Navajo Nation, and the poem's title names a specific institution rather than a generic one.",
+   "characters": "",
+   "structure": "A short free-verse poem in brief lines, organised as a reading of a single photograph with no stanza division and no narrative development.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Education, institutions and the academy",
+    "Indigenous survival, land and sovereignty",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "Sherman Alexie (Wikipedia; Poetry Foundation author page)",
+    "The Business of Fancydancing",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2496,
    "title": "At Swim-Two-Birds",
    "altTitles": [],
@@ -77670,7 +78274,7 @@
    ]
   },
   {
-   "id": 3079,
+   "id": 3100,
    "title": "At the Fishhouses",
    "altTitles": [],
    "authorship": "single",
@@ -80715,7 +81319,7 @@
    ]
   },
   {
-   "id": 3020,
+   "id": 3041,
    "title": "Black Jackets",
    "altTitles": [],
    "authorship": "single",
@@ -80764,7 +81368,7 @@
    ]
   },
   {
-   "id": 3109,
+   "id": 3130,
    "title": "Black Mother Woman",
    "altTitles": [],
    "authorship": "single",
@@ -81552,6 +82156,61 @@
    "editions": [],
    "sources": [
     "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"
+   ]
+  },
+  {
+   "id": 2950,
+   "title": "Borderlands/La Frontera: The New Mestiza",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gloria Anzaldúa"
+   ],
+   "authorIds": [
+    937
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1987",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Genre-crossing book of essays, autobiography, history and poetry",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Borderlands/La Frontera: The New Mestiza, published by Aunt Lute Books in 1987, is Gloria Anzaldúa's central work and one of the founding texts of Chicana feminism: a book in seven chapters that refuses to be one genre, moving between autobiography, revisionist history, myth, poetry and theory, and between English, Spanish and Nahuatl. The Norton Anthology of American Literature prints two of its chapters, 'La conciencia de la mestiza / Towards a New Consciousness' and 'How to Tame a Wild Tongue', which are its philosophical climax and its most quoted argument about language.",
+   "summary": "The book opens with the image of the US-Mexico border as an open wound - '1,950 mile-long open wound' - where the First World grinds against the Third, and it returns to that image throughout. Its early chapters describe the author's childhood in the Rio Grande Valley, the shamans and folk healers of her family, and the history of the Mexican American dispossession of land in Texas after 1848. The middle chapters turn to the figures of female power that patriarchal culture has split into good and evil - the Virgin of Guadalupe, Malintzin (La Malinche) and Coatlicue, the serpent goddess - and argue for taking them back together. 'How to Tame a Wild Tongue' describes the punishments Anzaldúa received as a child for speaking Spanish at school and the varieties of Chicano Spanish she grew up inside, and concludes that until she can write in her own tongues she will be 'serving time' in others'. 'La conciencia de la mestiza' argues that the answer to the border's contradictions is not purity but a new consciousness that can hold incompatible things at once.",
+   "plot": "The book's argument is cumulative and its method is collision: a passage of autobiography will be followed by a page of pre-Columbian history, then a poem, then a paragraph of theory, without transition, so that the reader is made to experience the border's simultaneity rather than be told about it. Anzaldúa's key moves recur. The first is to treat the border as an internal as well as a geographic fact, so that the queer Chicana who leaves home is both traitor and exile. The second is to identify language with identity: 'Ethnic identity is twin skin to linguistic identity - I am my language', and the taming of the wild tongue in school is therefore a form of violence that the book is written to undo. The third is the refusal of the binary: the mestiza does not choose between the Mexican and the American, the Spanish and the English, the Catholic and the indigenous, but inhabits the crossing and develops a tolerance for contradiction that Anzaldúa calls a new consciousness. The fourth is her insistence that theory is written from a body and a life - from a childhood of fieldwork and sunburn, from diabetes and from the experience of being a lesbian in a culture that condemned it. The prose is deliberately unacademic even when it is doing theory: it addresses the reader as 'you', it breaks into lists and poems, and it leaves Spanish untranslated, which was the point.",
+   "significance": "Borderlands/La Frontera is one of the books that changed the American academy's understanding of identity in the late twentieth century; the term 'mestiza consciousness' is now standard in feminist and postcolonial theory, and the book is credited, with Moraga's and Audre Lorde's work, with establishing the category of women of colour. The Norton's printing of two chapters is the anthology's principal representation of Chicana writing, and it takes a work of theory as literature, which is itself the book's argument.",
+   "meter": "Bilingual and unglossed; long anaphoric sentences broken by poems and lists; direct address to the reader; first person alternating with third; and a polemical register that keeps the idiom of the Valley in the theory.",
+   "context": "Aunt Lute Books, a San Francisco feminist press, published the book in 1987, and it appeared in the decade in which Chicano studies entered US universities and in which women of colour criticised both white feminism and nationalist Chicano politics. It was preceded by This Bridge Called My Back (1981), which Anzaldúa co-edited with Cherríe Moraga, and it became a set text in women's studies, ethnic studies and queer theory within a few years of publication.",
+   "characters": "",
+   "structure": "Seven chapters, each mixing prose, poetry and untranslated Spanish, moving from the history and myth of the borderland through the author's own life to the theoretical statement of the final chapters; the Norton prints chapters five and seven, which are the argument's hinge and its conclusion.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Autobiography",
+    "Cultural Criticism",
+    "Literary Essay",
+    "Prose Poetry"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Borderlands/La Frontera: The New Mestiza",
+    "Gloria Anzaldúa (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -82542,7 +83201,58 @@
    ]
   },
   {
-   "id": 3007,
+   "id": 2961,
+   "title": "Call It Fear",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Joy Harjo"
+   ],
+   "authorIds": [
+    944
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1983",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, short lines)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Call It Fear' opens She Had Some Horses (New York: Thunder's Mouth Press, 1983), the book that established Joy Harjo. It is a short poem spoken to the self about fear, and it sets the terms - a first person that is also a people, a past that will not stay past - for the whole collection.",
+   "summary": "The poem addresses someone, probably the speaker herself, and tells them to call the thing they have been running from by its name: fear. It places the fear in a landscape - a road, a house, a night - and in a history, and it refuses to separate the two. Its lines are short and its language is plain, and the poem turns at the end toward the possibility of putting the fear down.",
+   "plot": "'Call It Fear' is a poem of naming, and its method is the Mvskoke and broadly Native American practice of speaking to a condition in order to place it outside the person. The fear is not analysed and its origins are not narrated; the poem proceeds as if the act of naming were itself the work, and the reader is placed in the position of the one who is told to speak. Harjo's short lines carry a great deal of white space, and the effect is of a voice thinking aloud in a room rather than declaring from a platform. The poem's historical dimension is implicit but unmistakable in the book's context: this is a Native woman's fear, in a country whose history has given her reasons for it, and the poem's refusal to explain is a refusal to make the fear legible for an outsider. What makes it survive as a poem rather than a statement is its rhythm - the repetition of the imperative, the short breath of the lines, the sense that the speaker is talking herself into the naming.",
+   "significance": "The poem opens the collection that made Harjo's name and is the standard entry point to her early work; its imperative address and its short line are the features her later poetry developed. It is a Norton selection and, with 'White Bear', represents the 1983 book in the anthology.",
+   "meter": "Very short free-verse lines; plain diction; repetition and anaphora; direct address; and an absence of punctuation at the line ends, so that the poem moves by breath.",
+   "context": "She Had Some Horses appeared from Thunder's Mouth Press in 1983, the year of Harjo's MFA from Iowa and of the consolidation of the Native American Renaissance; the book's poems draw on Mvskoke ceremony, on the Oklahoma landscape and on the experience of a Native woman in the American West. Thunder's Mouth was the press that also published Ortiz's From Sand Creek and Harjo's own She Had Some Horses album material.",
+   "characters": "",
+   "structure": "A short free-verse poem in very short lines, built on an imperative address and repetition, with a turn toward release at the close rather than a narrative progression.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Indigenous survival, land and sovereignty",
+    "Memory, trauma and testimony",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Joy Harjo (Wikipedia; Poetry Foundation author page)",
+    "She Had Some Horses",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 3028,
    "title": "Calypso",
    "altTitles": [],
    "authorship": "single",
@@ -83398,7 +84108,7 @@
    ]
   },
   {
-   "id": 3046,
+   "id": 3067,
    "title": "Casualty",
    "altTitles": [],
    "authorship": "single",
@@ -85532,7 +86242,7 @@
    ]
   },
   {
-   "id": 2978,
+   "id": 2999,
    "title": "Church Going",
    "altTitles": [],
    "authorship": "single",
@@ -85582,7 +86292,7 @@
    ]
   },
   {
-   "id": 3035,
+   "id": 3056,
    "title": "Civil Peace",
    "altTitles": [],
    "authorship": "single",
@@ -85852,7 +86562,7 @@
    ]
   },
   {
-   "id": 3048,
+   "id": 3069,
    "title": "Clearances",
    "altTitles": [],
    "authorship": "single",
@@ -86053,7 +86763,7 @@
    ]
   },
   {
-   "id": 3107,
+   "id": 3128,
    "title": "Coal",
    "altTitles": [],
    "authorship": "single",
@@ -86738,7 +87448,7 @@
    ]
   },
   {
-   "id": 3005,
+   "id": 3026,
    "title": "Colonization in Reverse",
    "altTitles": [],
    "authorship": "single",
@@ -88295,7 +89005,7 @@
    ]
   },
   {
-   "id": 3050,
+   "id": 3071,
    "title": "Corniche",
    "altTitles": [],
    "authorship": "single",
@@ -88578,7 +89288,7 @@
    ]
   },
   {
-   "id": 2956,
+   "id": 2977,
    "title": "Critical Essays",
    "altTitles": [
     "Dickens, Dali and Others: Studies in Popular Culture"
@@ -88851,7 +89561,7 @@
    ]
   },
   {
-   "id": 3034,
+   "id": 3055,
    "title": "Crow Tyrannosaurus",
    "altTitles": [],
    "authorship": "single",
@@ -88900,7 +89610,7 @@
    ]
   },
   {
-   "id": 3033,
+   "id": 3054,
    "title": "Crow's Last Stand",
    "altTitles": [],
    "authorship": "single",
@@ -89294,7 +90004,7 @@
    ]
   },
   {
-   "id": 3074,
+   "id": 3095,
    "title": "Cuttings",
    "altTitles": [],
    "authorship": "single",
@@ -89343,7 +90053,7 @@
    ]
   },
   {
-   "id": 3075,
+   "id": 3096,
    "title": "Cuttings (later)",
    "altTitles": [],
    "authorship": "single",
@@ -90912,7 +91622,7 @@
    ]
   },
   {
-   "id": 3041,
+   "id": 3062,
    "title": "Death and the King's Horseman",
    "altTitles": [],
    "authorship": "single",
@@ -90963,7 +91673,7 @@
    ]
   },
   {
-   "id": 3055,
+   "id": 3076,
    "title": "Death by Landscape",
    "altTitles": [],
    "authorship": "single",
@@ -91176,7 +91886,7 @@
    ]
   },
   {
-   "id": 3089,
+   "id": 3110,
    "title": "Death of a Salesman",
    "altTitles": [],
    "authorship": "single",
@@ -91398,7 +92108,7 @@
    ]
   },
   {
-   "id": 3009,
+   "id": 3030,
    "title": "Decolonising the Mind",
    "altTitles": [
     "Decolonising the Mind: The Politics of Language in African Literature"
@@ -92511,7 +93221,7 @@
    ]
   },
   {
-   "id": 3043,
+   "id": 3064,
    "title": "Digging",
    "altTitles": [],
    "authorship": "single",
@@ -92725,7 +93435,7 @@
    ]
   },
   {
-   "id": 3010,
+   "id": 3031,
    "title": "Discourse on the Logic of Language",
    "altTitles": [],
    "authorship": "single",
@@ -93136,7 +93846,7 @@
    ]
   },
   {
-   "id": 3004,
+   "id": 3025,
    "title": "Do Not Go Gentle into That Good Night",
    "altTitles": [],
    "authorship": "single",
@@ -95051,7 +95761,7 @@
    ]
   },
   {
-   "id": 2975,
+   "id": 2996,
    "title": "Eldorado West One",
    "altTitles": [],
    "authorship": "single",
@@ -95291,7 +96001,7 @@
    ]
   },
   {
-   "id": 3077,
+   "id": 3098,
    "title": "Elegy for Jane",
    "altTitles": [],
    "authorship": "single",
@@ -95471,7 +96181,7 @@
    ]
   },
   {
-   "id": 3019,
+   "id": 3040,
    "title": "Elements of Composition",
    "altTitles": [],
    "authorship": "single",
@@ -97217,7 +97927,7 @@
    ]
   },
   {
-   "id": 3013,
+   "id": 3034,
    "title": "Epilogue",
    "altTitles": [],
    "authorship": "single",
@@ -98842,6 +99552,57 @@
    ]
   },
   {
+   "id": 2951,
+   "title": "Everyday Use",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Alice Walker"
+   ],
+   "authorIds": [
+    938
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1973",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Everyday Use' was first published in Alice Walker's collection In Love & Trouble: Stories of Black Women (New York: Harcourt Brace Jovanovich, 1973) and is the most anthologised of her stories. It is a first-person narrative spoken by a rural Georgia mother about a single afternoon's visit from her elder daughter, and it turns on the meaning of two quilts.",
+   "summary": "The narrator, Mrs Johnson, waits in the yard of the house she and her younger daughter Maggie live in for the visit of Dee, the elder daughter, who has been away at college and now calls herself Wangero Leewanika Kemanjo, saying that Dee is a name given by white people. Dee arrives with a male companion and photographs the house, the bench, the churn and the dasher as specimens of a folk past. At dinner she takes the butter dish and then the two quilts, made by her grandmother and aunt from scraps of dresses and Civil War uniforms, and announces that she will hang them. Her mother says that Maggie has been promised them and that Maggie can quilt more; Dee says Maggie would put them to 'everyday use' and that they are priceless. The mother takes the quilts out of Dee's hands and gives them to Maggie, and the story ends with the two of them sitting in the yard until it is time to go to bed.",
+   "plot": "The story is built as a test of three kinds of relation to the past, and its irony is that the one who has left is the one who cannot use it. Dee's return is a performance of heritage: she photographs the objects she would not have been seen dead beside as a child, she has changed her name to an invented African one without knowing its meaning, and she wants the quilts as objects to preserve rather than as things whose use is their meaning. Mrs Johnson is the story's moral centre and its narrator, and her narration is deliberately unliterary - she describes herself as a big-boned woman with hands like a man's, she is ironic about her education and her daughter's, and she judges without commenting. The story's most famous gesture is the mother's decision to give the quilts to Maggie, who will use them, rather than to Dee, who will hang them; and its most important technical feature is that the decision is made in the story rather than the story being told about it. Walker has said that the story came from watching Black students of the late 1960s reject their own families' culture while claiming an African one, and the story is careful to make Dee intelligent, brave and articulate rather than a fool: what she lacks is not politics but a relation to the people who made the things she wants.",
+   "significance": "'Everyday Use' is one of the two or three most widely taught stories in twentieth-century American literature and the standard text for the argument between a usable and an ornamental heritage. It is the story through which the Norton Anthology of American Literature represents Walker, and its title phrase has passed into the criticism as a term of value.",
+   "meter": "First-person vernacular narration, with an uneducated grammar that is consistent and unpatronised; free indirect speech for Dee; images drawn from the farm (the churn, the dasher, the yard, the bench); and an absence of metaphor, so that the quilts are simply quilts and carry the meaning by being described.",
+   "context": "The story appeared in 1973, in the years when Black Studies programmes and the Black Arts Movement had made 'heritage' a public question and when many African American writers were debating whether the rural southern past was a burden or a resource. Walker had worked in Mississippi in the civil rights movement and had written the story, she said, out of that experience; In Love & Trouble was her second book of fiction and her first collection of stories.",
+   "characters": "",
+   "structure": "A single continuous first-person narrative in a rural Southern idiom, with one scene and no flashback; the story's structure is the long wait, the arrival, the meal and the quarrel, with the climax placed in a single gesture near the end.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Domestic Fiction",
+    "Regional Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "Alice Walker (Wikipedia; Poetry Foundation author page)",
+    "In Love & Trouble: Stories of Black Women",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 172,
    "title": "Everyman",
    "altTitles": [
@@ -99495,6 +100256,57 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2955,
+   "title": "Facing It",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Yusef Komunyakaa"
+   ],
+   "authorIds": [
+    941
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1988",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, short lines)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Facing It' is the closing poem of Dien Cai Dau (Middletown: Wesleyan University Press, 1988), Yusef Komunyakaa's book about his service in Vietnam. It describes a visit to the Vietnam Veterans Memorial in Washington and is the most anthologised American poem about that war.",
+   "summary": "The poem begins 'My black face fades, / hiding inside the black granite', and its speaker stands at the wall reading names. The reflection in the polished stone keeps interfering with what he sees: his own face and the names are on the same surface, a woman is brushing a boy's hair in the reflection, and a white vet's image floats beside him. He touches a name and the poem's most quoted line follows - 'I'm stone. I'm flesh.' - and the poem moves between the two states for its remainder: he sees the dead in the wall, he watches a plane in the sky, and at the end he is 'inside the Vietnam Veterans Memorial' watching the reflection of a woman trying to erase names, and the poem closes 'No, she's brushing a boy's hair'.",
+   "plot": "The poem's subject is that seeing the memorial is not a single act, and its technique is the double exposure of reflection and inscription. Komunyakaa uses the wall's mirror surface to put the living and the dead in one plane, so that the poem's 'I' is simultaneously the viewer outside the wall and a name inside it. The line 'I'm stone. I'm flesh' is the whole argument in four words, and the poem does not resolve it: the speaker moves between identifying with the dead and being restored to his body by ordinary life - the woman and the boy. The poem's racial thinking is carried by 'my black face' in the first line and by the 'white vet's image' in the middle, so that the memorial's promise of a common sacrifice is placed against the difference the war also enforced. The ending is a correction of vision: what looks like a woman erasing names is a woman brushing a boy's hair, which means that the poem's grief is interrupted by the ordinary, and that the interruption is the poem's consolation without being its resolution. The form is short free-verse lines with abrupt enjambment, and the economy is extreme: the whole poem is under forty lines, and almost every line contains a verb of seeing. It is the one poem in Dien Cai Dau to make the memorial itself the subject, and that choice - to write about the wall rather than about the fighting - is what has kept it in circulation.",
+   "significance": "'Facing It' is the American poem about the Vietnam War most often taught and anthologised, and it is the poem by which Komunyakaa's generation of Vietnam veterans' writing is represented in the Norton; its lines are quoted in criticism on memorials, race and American memory. Its presence in the anthology's period gives the war a poem as well as a story, alongside O'Brien's.",
+   "meter": "Very short free-verse lines; present-tense perception; enjambment that forces the reader to hold two meanings at once; almost no adjectives of feeling; and a vocabulary drawn from light, stone and water rather than from combat.",
+   "context": "The Vietnam Veterans Memorial, designed by Maya Lin, was dedicated in 1982, and the poem was written in the mid-1980s and published in Dien Cai Dau in 1988, when public commemoration of Vietnam service had become a national argument. Komunyakaa served in Vietnam as an army correspondent in 1969-70 and has said he could not write about it for years; the book's title is the soldiers' slang phrase for a dead or crazy comrade.",
+   "characters": "",
+   "structure": "A single unbroken lyric of short lines, organised by the alternation of what is seen in the stone and what is seen in the world, ending on a correction of the poem's own image.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Dien Cai Dau",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)"
    ]
   },
   {
@@ -100194,6 +101006,60 @@
    ]
   },
   {
+   "id": 2953,
+   "title": "Fences",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "August Wilson"
+   ],
+   "authorIds": [
+    939
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1985",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Play in two acts (full-length tragedy)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Fences was first performed at the Yale Repertory Theatre in 1985 and opened on Broadway in 1987, where it won the Pulitzer Prize for Drama and the Tony Award for Best Play. It is the sixth play of August Wilson's ten-play Pittsburgh or Century Cycle, set in 1957 in the Hill District, and it is the work through which the Norton Anthology of American Literature represents him.",
+   "summary": "Troy Maxson, fifty-two, is a sanitation worker in Pittsburgh who collects garbage from the back of a truck and has spent years fighting the union's refusal to let Black men drive. He was a powerful baseball player in the Negro Leagues before the colour line kept him out of the majors, he served time in prison for a killing committed in a robbery, and he has built a life with his wife Rose and his sons Lyons, Cory and Gabriel. Over two acts he refuses to let Cory accept a college football scholarship, tells Rose that he has fathered a child with another woman, fights his son physically, and is left at the end of the play with a baby daughter, Raynell, whom Rose agrees to raise, standing in a yard where the fence he was building is at last finished; Cory returns from the Marines and refuses, at first, to go to his father's funeral.",
+   "plot": "The play's structure is domestic and its argument is historical, and Wilson's method is to let the history arrive through the ordinary speech of the yard. Troy is a man of great vitality and great damage: his stories of the Negro Leagues, of his father's brutality and of his own time in prison are the play's music, and his refusal of Cory's scholarship is both a jealous insistence that his son not have what he was denied and a genuinely protective fear that a Black athlete will be discarded again. The fence of the title is built across both acts and means different things to each character - Rose's enclosure of her family, Troy's unfinished defence, Cory's barrier - and Wilson uses it as the play's single stage symbol without forcing it into an allegory. The play's most important move is theological: Troy wrestles with Death as an actual presence throughout, in the manner of a blues singer's boast, and the ending, in which Gabriel's horn-trumpet at the funeral blows open the gates of heaven, gives that boast a ritual answer. Wilson's language is the play's achievement: long monologues in the cadences of 1950s Black Pittsburgh speech, with the blues, the union and baseball as a shared vocabulary, and an ear for the moment when a joke turns into a wound.",
+   "significance": "Fences is the most honoured American play of its decade and the one through which Wilson is known to readers who do not go to the theatre; the Century Cycle as a whole is generally described as the most sustained dramatic project in American literature, and Fences is its most performed play. The Norton's inclusion of it makes the anthology's American volume a record of drama as well as of poetry and fiction in the period.",
+   "meter": "Naturalistic dialogue in Black Pittsburgh speech, with long arias of monologue; the blues and the Negro Leagues as the play's shared cultural reference; a single symbolic object on stage; and a mixture of realistic detail with a mythic register in Troy's addresses to Death.",
+   "context": "Fences was written in the mid-1980s as the sixth of Wilson's cycle and premiered at Yale Rep in 1985 before its 1987 Broadway production with James Earl Jones, which made Wilson a national figure; the play's 1957 setting is the year the civil rights movement reached Little Rock and the year before the integration of major-league baseball's southern spring training. It was revived on Broadway in 2010 with Denzel Washington and filmed in 2016 with the same actor and Viola Davis.",
+   "characters": "",
+   "structure": "Two acts in a single unit set, the backyard of the Maxson house, with the fence under construction across both acts; the action moves through a series of conversations and confrontations rather than a plotted intrigue, and the climax is a domestic quarrel rather than a public event; a funeral and a child's birth enclose the end.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Domestic Drama",
+    "Drama and Performance (1946–2000)",
+    "Full-Length Play",
+    "Modern Tragedy"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "August Wilson (Wikipedia; Poetry Foundation author page)",
+    "Fences",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1793,
    "title": "Fern Leaves from Fanny's Portfolio",
    "altTitles": [],
@@ -100517,7 +101383,7 @@
    ]
   },
   {
-   "id": 3066,
+   "id": 3087,
    "title": "First Screening",
    "altTitles": [],
    "authorship": "single",
@@ -100990,7 +101856,7 @@
    ]
   },
   {
-   "id": 3058,
+   "id": 3079,
    "title": "Fond Memory",
    "altTitles": [],
    "authorship": "single",
@@ -101090,7 +101956,7 @@
    ]
   },
   {
-   "id": 3095,
+   "id": 3116,
    "title": "For Esmé—with Love and Squalor",
    "altTitles": [],
    "authorship": "single",
@@ -101140,7 +102006,7 @@
    ]
   },
   {
-   "id": 3094,
+   "id": 3115,
    "title": "For the Union Dead",
    "altTitles": [],
    "authorship": "single",
@@ -101242,7 +102108,7 @@
    ]
   },
   {
-   "id": 2976,
+   "id": 2997,
    "title": "Foreday Morning: Selected Prose 1946-1986",
    "altTitles": [],
    "authorship": "single",
@@ -102090,7 +102956,7 @@
    ]
   },
   {
-   "id": 3022,
+   "id": 3043,
    "title": "From the Wave",
    "altTitles": [],
    "authorship": "single",
@@ -103539,7 +104405,7 @@
    ]
   },
   {
-   "id": 2982,
+   "id": 3003,
    "title": "Going, Going",
    "altTitles": [],
    "authorship": "single",
@@ -105407,7 +106273,7 @@
    ]
   },
   {
-   "id": 3097,
+   "id": 3118,
    "title": "Harrison Bergeron",
    "altTitles": [],
    "authorship": "single",
@@ -105560,7 +106426,7 @@
    ]
   },
   {
-   "id": 3105,
+   "id": 3126,
    "title": "Having a Coke with You",
    "altTitles": [],
    "authorship": "single",
@@ -107165,7 +108031,7 @@
    ]
   },
   {
-   "id": 2981,
+   "id": 3002,
    "title": "High Windows (poem)",
    "altTitles": [],
    "authorship": "single",
@@ -107269,7 +108135,7 @@
    ]
   },
   {
-   "id": 2977,
+   "id": 2998,
    "title": "Highway in the Sun and Other Plays",
    "altTitles": [],
    "authorship": "single",
@@ -107950,7 +108816,7 @@
    ]
   },
   {
-   "id": 3006,
+   "id": 3027,
    "title": "History of the Voice",
    "altTitles": [
     "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry"
@@ -108068,7 +108934,7 @@
    ]
   },
   {
-   "id": 2984,
+   "id": 3005,
    "title": "Homage to a Government",
    "altTitles": [],
    "authorship": "single",
@@ -108650,6 +109516,57 @@
    ]
   },
   {
+   "id": 2954,
+   "title": "How to Tell a True War Story",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Tim O'Brien"
+   ],
+   "authorIds": [
+    940
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1987",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story (metafictional)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'How to Tell a True War Story' was first published in Esquire in October 1987 and collected in The Things They Carried (Boston: Houghton Mifflin, 1990), where it is the seventh of twenty-two linked stories. It is the most discussed American short story about the Vietnam War, and it is as much an essay on storytelling as a story.",
+   "summary": "The narrator, named Tim O'Brien, tells of the death of his friend Curt Lemon, killed by a booby-trapped 105-mm round while playing catch with Rat Kiley, and of Rat Kiley's letter to Lemon's sister, who never answers. He tells of a listening post in the mountains where the soldiers hear music and voices in the dark and call in artillery on a silence, and the company's CO orders them to keep listening. He tells the story of the water buffalo, which Rat Kiley tortures and shoots after Lemon's death. Between the stories he states rules: that a true war story is never moral, that it cannot be believed and cannot be doubted, that if it seems moral do not believe it, that in a true war story nothing much happens, and that the ending is not the point. He admits that he has told the story of Lemon's death differently at different times - the booby trap, the sunlight, the smoke - and says that the story he tells now is the one that is truest.",
+   "plot": "The story is a demonstration of its own thesis, which is that a war story's truth is not the accuracy of its events. The narrative is broken into short numbered sections that move between anecdote and aphorism, and the narrator repeatedly interrupts his own telling to comment on it, so that the reader is never allowed to settle into believing what is told. The famous sentences are the ones that state the paradox: 'A true war story is never moral', 'you can tell a true war story by the questions you ask', 'in a true war story nothing is ever absolutely true'. O'Brien's method is to make the reader feel the difference between happening-truth and story-truth, the first being what occurred and the second being what the telling makes real, and to argue that only the second can carry the war to someone who was not there. The water buffalo passage is the story's most disturbing sequence and its clearest example: the torture of the animal is not explained, and its absence of explanation is offered as the definition of a true war story. The ending, in which the narrator addresses the reader directly and tells her that she is the audience for a story she cannot hear, completes the argument by moving the problem of testimony into the act of reading.",
+   "significance": "The story is the central text in the American literature of the Vietnam War and one of the standard examples in discussions of metafiction and of testimony; its formulations are quoted in historiography and journalism as well as in literary criticism. The Norton prints it as a story in its own right, which treats a chapter of a linked collection as a discrete literary work.",
+   "meter": "A plain, declarative American sentence; direct address to the reader; aphorism used as structure; repetition of key statements with variation; and a refusal of figurative heightening at the moments of greatest violence.",
+   "context": "The story appeared in Esquire in 1987 and in book form in 1990, fifteen years after the end of the Vietnam War and in the year of the Gulf War's build-up; it belongs to a late phase of American Vietnam writing in which the war is treated as a problem of memory and representation rather than of combat. O'Brien served in Vietnam in 1969-70 and the collection's narrator shares his name and much of his biography, which has made the stories' status a continuing critical question.",
+   "characters": "",
+   "structure": "A sequence of short numbered sections alternating between anecdotes and rules, with the narrator interrupting his own narrative; no single plot, and an ending that addresses the reader rather than closing the story.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Metafictional Novel",
+    "Short Story",
+    "War Novel"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Things They Carried",
+    "Tim O'Brien (Wikipedia; Poetry Foundation author page)"
+   ]
+  },
+  {
    "id": 2355,
    "title": "Howards End",
    "altTitles": [],
@@ -108869,7 +109786,7 @@
    ]
   },
   {
-   "id": 3072,
+   "id": 3093,
    "title": "Hullabaloo in the Guava Orchard",
    "altTitles": [],
    "authorship": "single",
@@ -109963,7 +110880,7 @@
    ]
   },
   {
-   "id": 2969,
+   "id": 2990,
    "title": "I Hear Thunder",
    "altTitles": [],
    "authorship": "single",
@@ -110014,7 +110931,7 @@
    ]
   },
   {
-   "id": 3078,
+   "id": 3099,
    "title": "I Knew a Woman",
    "altTitles": [],
    "authorship": "single",
@@ -110575,7 +111492,7 @@
    ]
   },
   {
-   "id": 3012,
+   "id": 3033,
    "title": "Imaginary Homelands",
    "altTitles": [
     "Imaginary Homelands: Essays and Criticism 1981-1991"
@@ -111172,7 +112089,7 @@
    ]
   },
   {
-   "id": 3036,
+   "id": 3057,
    "title": "In Memory of Jane Fraser",
    "altTitles": [],
    "authorship": "single",
@@ -111221,7 +112138,7 @@
    ]
   },
   {
-   "id": 3106,
+   "id": 3127,
    "title": "In Memory of My Feelings",
    "altTitles": [],
    "authorship": "single",
@@ -111382,7 +112299,7 @@
    ]
   },
   {
-   "id": 2992,
+   "id": 3013,
    "title": "In Praise of Limestone",
    "altTitles": [],
    "authorship": "single",
@@ -111425,6 +112342,58 @@
    "sources": [
     "In Praise of Limestone (Wikipedia)",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 2952,
+   "title": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Alice Walker"
+   ],
+   "authorIds": [
+    938
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1974",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (title essay, collected in book of the same name, 1983)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'In Search of Our Mothers' Gardens' is the title essay of Alice Walker's collection of essays and journals, published by Harcourt Brace Jovanovich in 1983; the essay itself appeared in Ms. magazine in 1974, and the Norton dates the selection from that first periodical publication. It is the essay in which Walker's term 'womanist' is prepared, and its subject is the creative lives of Black women who were denied the chance to make art.",
+   "summary": "The essay begins with a quotation from Jean Toomer's Cane describing Black women in the 1920s as 'exquisite butterflies trapped in an evil honey', and asks what happened to the creative power of such women. Walker answers with the figure of her own mother, a sharecropper's wife who worked in the fields, bore eight children, sewed quilts and made a garden of flowers wherever the family stopped. She argues that the artist in such a woman was driven underground into the only forms allowed her - the garden, the quilt, the story told to a child - and that the 'anonymity' of those forms is not an absence of art but its condition. The essay moves through Phillis Wheatley, who had to write hymns; through Virginia Woolf's argument in A Room of One's Own and its blind spot about Black women; and through the example of the Black community's expectation that its artists be acceptable and respectable. It closes with Walker's sense that her own work is the continuation of her mother's gardens.",
+   "plot": "The essay's argument is that a tradition can exist without documents: if the forms in which Black women made things - gardens, quilts, songs, cooking - were not recognised as art, that is a fact about the recognition, not about the making. Walker's method is to read her mother's life as a text: the garden is a poem, the quilt is a composition, and the values of beauty, spirituality and self-respect that they embodied were the inheritance she received. The move is characteristically double. It is a recovery of the lives of Black women who left no books, and it is a rebuke to a feminist criticism that had defined creativity by the conditions of white middle-class authorship - Walker quotes Woolf's account of the woman who would have written Shakespeare's plays and observes that for the Black woman the obstacles were not a room and an income but slavery and forced labour. The essay is also where the word 'womanist', which Walker would define formally in the same collection, begins to do work: a Black feminism that includes the love of women, of music, of the folk, of herself. Its tone is essayistic and personal rather than polemical; the authority is in the family example.",
+   "significance": "The essay is one of the texts that established Black feminist criticism as a field, and its garden has become the governing image for a whole tradition of recovery scholarship; 'womanist' has entered the lexicon of theology and criticism. The Norton prints it beside 'Everyday Use', which is a recognition that Walker's fiction and her criticism make the same argument by different means.",
+   "meter": "Personal and essayistic; a plain declarative sentence with a strong rhythmic close; quotations from Toomer and Woolf used as countervoices; first person throughout; and an absence of theory vocabulary, so that the argument is carried by example.",
+   "context": "The essay appeared in Ms. in 1974, in the first years of the magazine's influence, and was collected in 1983, when Black feminist criticism was defining itself in books such as Barbara Smith's Toward a Black Feminist Criticism and bell hooks's Ain't I a Woman. Walker's term 'womanist' - defined in the collection's front matter - was taken up across the academy and in Black theology, and the essay's title has become a standard phrase for the recovery of women's unrecorded work.",
+   "characters": "",
+   "structure": "A single essay of roughly twenty pages, organised as a sequence of exempla - Toomer's butterflies, the author's mother, Wheatley, Woolf - each of which sharpens the argument, closing on the author's own inheritance rather than on a conclusion.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Essay",
+    "Personal Essay"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Alice Walker (Wikipedia; Poetry Foundation author page)",
+    "In Search of Our Mothers' Gardens: Womanist Prose",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -111579,7 +112548,7 @@
    ]
   },
   {
-   "id": 3082,
+   "id": 3103,
    "title": "In the Waiting Room",
    "altTitles": [],
    "authorship": "single",
@@ -111985,7 +112954,7 @@
    ]
   },
   {
-   "id": 3016,
+   "id": 3037,
    "title": "Inglan Is a Bitch",
    "altTitles": [],
    "authorship": "single",
@@ -113434,7 +114403,7 @@
    ]
   },
   {
-   "id": 2957,
+   "id": 2978,
    "title": "James Burnham and the Managerial Revolution",
    "altTitles": [
     "Second Thoughts on James Burnham"
@@ -117833,7 +118802,7 @@
    ]
   },
   {
-   "id": 2953,
+   "id": 2974,
    "title": "Les Blancs",
    "altTitles": [],
    "authorship": "single",
@@ -117990,7 +118959,7 @@
    ]
   },
   {
-   "id": 3008,
+   "id": 3029,
    "title": "Letter SycoraX",
    "altTitles": [],
    "authorship": "single",
@@ -120907,7 +121876,7 @@
    ]
   },
   {
-   "id": 3052,
+   "id": 3073,
    "title": "Looking for a Rain God",
    "altTitles": [],
    "authorship": "single",
@@ -120957,7 +121926,7 @@
    ]
   },
   {
-   "id": 3088,
+   "id": 3109,
    "title": "Looking for Mr. Green",
    "altTitles": [],
    "authorship": "single",
@@ -125387,6 +126356,59 @@
    ]
   },
   {
+   "id": 2959,
+   "title": "Maus",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Art Spiegelman"
+   ],
+   "authorIds": [
+    942
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1986",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Graphic novel / graphic memoir (two volumes, 1986 and 1991)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Maus is Art Spiegelman's two-volume graphic narrative of his father's survival of the Holocaust, in which Jews are drawn as mice, Germans as cats and Poles as pigs. Its first six chapters were serialised in RAW from 1980 and published as Maus I: A Survivor's Tale - My Father Bleeds History (New York: Pantheon, 1986); the remainder appeared as Maus II: A Survivor's Tale - And Here My Troubles Began (Pantheon, 1991). The Norton prints chapter six, 'Mousetrap', from the first volume.",
+   "summary": "The frame is the present: Artie, the cartoonist, visits his father Vladek in Rego Park, Queens, and coaxes from him the story of the war. Inside the frame, Vladek's narrative runs from the courtship of his wife Anja in Sosnowiec, through the ghetto, the hiding places, the betrayal and the transports, to Auschwitz and Dachau and the death marches at the end of the war. Chapter six, 'Mousetrap', moves between the present-day household - Vladek's second wife Mala, his miserliness, his heart condition, his need for Artie's attention - and the wartime story, in which Vladek and Anja are hidden by Polish families and finally betrayed by one of them. The volume ends with Vladek burning Anja's diaries and with the couple's arrival at Auschwitz.",
+   "plot": "The book's formal invention is the animal mask, and its effect is not allegory but estrangement: the reader is made to see that the categories of the Holocaust were themselves a way of sorting beings into species that could be killed without it counting as murder. Spiegelman complicates the scheme deliberately - there are Jewish mice who behave like cats, Poles in pig masks who save and betray, and in the second volume a German-Jewish couple, and Spiegelman himself in a mouse mask wearing a prisoner's uniform in 'Prisoner on the Hell Planet'. The second innovation is the doubling of time. Vladek's story is never given alone; it competes with the present-day errands and quarrels, and the reader sees that the father's survivor's habits - hoarding, penny-pinching, an inability to throw anything away - are the war continuing in a Queens apartment. The third is the book's admission of its own inadequacy: Artie is told by a survivor that Auschwitz has no place for cartoon mice, and the second volume includes 'Time Flies', in which the success of the first book is treated as a kind of fraud. The drawing is crude in the manner of the underground comix Spiegelman came from, and the crude mask is what allows the book to escape both the reverence and the kitsch of Holocaust representation.",
+   "significance": "Maus won the first Pulitzer Prize ever given to a comic and is the work through which the graphic novel became a subject of literary and historical study; it is taught in history departments as well as literature ones, and its animal masks are a standard example in discussions of representation and the Shoah. The Norton's selection of a single chapter places a comic - unmistakably a comic, with speech balloons - inside the American literary canon of the period, which is the anthology's largest single formal statement.",
+   "meter": "Black-and-white brush and ink; anthropomorphic masks that are never explained; a visual vocabulary borrowed from the newspaper strip and the underground comix; handwritten narration boxes; and a deliberate roughness that refuses the polish of the memorial book.",
+   "context": "The book grew out of a three-page strip, 'Maus', published in the underground magazine Funny Animals in 1972, and was serialised in RAW, the comics journal Spiegelman founded with Françoise Mouly, from 1980; the first collection appeared in 1986 and the second in 1991, and the completed work won a special Pulitzer Prize in 1992. Its publication coincided with the growth of Holocaust memory in the United States, the opening of the US Holocaust Memorial Museum (1993) and the academic legitimation of comics.",
+   "characters": "",
+   "structure": "Two volumes of serialised chapters, each alternating the present-day interview with the wartime narrative, with the frame itself becoming a subject in the second volume; page layouts of varying panel sizes rather than a rigid grid, and a long silent 'Prisoner on the Hell Planet' inset.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Autobiography",
+    "Biography",
+    "Graphic Novel",
+    "Historical Writing"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "The Holocaust, atrocity and historical memory"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "Art Spiegelman (Wikipedia; Poetry Foundation author page)",
+    "Maus",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 123,
    "title": "Maxims I and II",
    "altTitles": [
@@ -125503,7 +126525,7 @@
    ]
   },
   {
-   "id": 2979,
+   "id": 3000,
    "title": "MCMXIV",
    "altTitles": [],
    "authorship": "single",
@@ -125777,7 +126799,7 @@
    ]
   },
   {
-   "id": 3070,
+   "id": 3091,
    "title": "Medusa",
    "altTitles": [],
    "authorship": "single",
@@ -125828,7 +126850,7 @@
    ]
   },
   {
-   "id": 3063,
+   "id": 3084,
    "title": "Meeting the British",
    "altTitles": [],
    "authorship": "single",
@@ -126251,7 +127273,7 @@
    ]
   },
   {
-   "id": 3092,
+   "id": 3113,
    "title": "Memories of West Street and Lepke",
    "altTitles": [],
    "authorship": "single",
@@ -126807,7 +127829,7 @@
    ]
   },
   {
-   "id": 3065,
+   "id": 3086,
    "title": "Milkweed and Monarch",
    "altTitles": [],
    "authorship": "single",
@@ -127294,7 +128316,7 @@
    ]
   },
   {
-   "id": 3056,
+   "id": 3077,
    "title": "Miss July Grows Older",
    "altTitles": [],
    "authorship": "single",
@@ -128444,7 +129466,7 @@
    ]
   },
   {
-   "id": 3049,
+   "id": 3070,
    "title": "Morse",
    "altTitles": [],
    "authorship": "single",
@@ -128494,7 +129516,7 @@
    ]
   },
   {
-   "id": 2973,
+   "id": 2994,
    "title": "Moses Ascending",
    "altTitles": [],
    "authorship": "single",
@@ -128548,7 +129570,7 @@
    ]
   },
   {
-   "id": 2974,
+   "id": 2995,
    "title": "Moses Migrating",
    "altTitles": [],
    "authorship": "single",
@@ -129010,7 +130032,7 @@
    ]
   },
   {
-   "id": 3090,
+   "id": 3111,
    "title": "Mr. Edwards and the Spider",
    "altTitles": [],
    "authorship": "single",
@@ -129167,7 +130189,7 @@
    ]
   },
   {
-   "id": 3071,
+   "id": 3092,
    "title": "Mrs Lazarus",
    "altTitles": [],
    "authorship": "single",
@@ -129863,6 +130885,56 @@
    ]
   },
   {
+   "id": 2966,
+   "title": "Museum",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Rita Dove"
+   ],
+   "authorIds": [
+    946
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1983",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poetry collection",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Museum (Pittsburgh: Carnegie Mellon University Press, 1983) is Rita Dove's second collection, and it is the one in which she began to write about Europe, art and the position of the observer. The Norton prints 'Parsley' and 'Poem in Which I Refuse Contemplation' from it.",
+   "summary": "The collection moves between poems written out of travel in Europe - museums, paintings, cathedrals, the Mediterranean - and poems about American history and the body, and its central poem is 'Parsley', a long narrative lyric about the 1937 massacre of Haitian cane-cutters in the Dominican Republic on the orders of Rafael Trujillo. That poem's device is the dictator's inability to pronounce the Spanish word for parsley, 'perejil', which was used to identify Haitians by their accent, and Dove builds a four-part poem around the word and the killing. 'Poem in Which I Refuse Contemplation' is a short lyric about refusing the aesthetic distance that museums teach.",
+   "plot": "Museum is Dove's argument with the museum as a way of seeing, and its two selections state both sides of the argument. 'Parsley' takes a historical atrocity and refuses to let it be contemplated from a distance: the poem moves between the general's voice, the soldiers' and the victims', and its repetitions of 'perejil' make the massacre happen in language rather than behind it. The poem's form - four numbered sections, a chorus of cane-cutters, a dictator's aria - is operatic, and its ambition is to do in lyric what a documentary cannot, which is to show how a word becomes an instrument of murder. 'Poem in Which I Refuse Contemplation' is the counterweight: a short, first-person refusal of the position of the museum visitor, of the aesthetic appreciation that turns suffering into an exhibit. Read together, the two poems define the book's subject as the ethics of looking, which is the same subject Dove would return to in the persona poems of Mother Love and in Sonata Mulattica.",
+   "significance": "'Parsley' is Dove's most ambitious early poem and one of the most important American poems of the 1980s about state violence; it is a standard anthology piece and a Norton selection. With 'Poem in Which I Refuse Contemplation' it shows the anthology representing Dove's historical range as well as her domestic lyrics.",
+   "meter": "Controlled free verse with rhyme and repetition; multiple voices inside a single poem; a plain, declarative line for the historical passages; and an imagery of paintings, mirrors and windows throughout.",
+   "context": "Museum appeared in 1983, the year before Dove began teaching at Arizona State, and it was written in part during and after her Fulbright year in Germany; its European poems come from that period, and 'Parsley' was researched from accounts of the 1937 massacre, in which Trujillo's soldiers killed an estimated 20,000 Haitians along the border. The poem's attention to the shibboleth of 'perejil' comes from the historical record.",
+   "characters": "",
+   "structure": "A collection of short lyrics and one long four-part narrative poem, arranged so that the museum poems and the history poems alternate; 'Parsley' is the volume's structural centre.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "History, truth and the uses of the past",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "Museum",
+    "Rita Dove (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2779,
    "title": "My Antonia",
    "altTitles": [],
@@ -129962,6 +131034,56 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2957,
+   "title": "My Father's Love Letters",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Yusef Komunyakaa"
+   ],
+   "authorIds": [
+    941
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, narrative)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'My Father's Love Letters' is in Magic City (Middletown: Wesleyan University Press, 1992), Komunyakaa's second book of Bogalusa poems. It is a short narrative lyric about a boy writing letters for his illiterate father, and it is among his most personal poems.",
+   "summary": "The poem's speaker, as a boy, is asked to write love letters for his father, who cannot write them himself: the father dictates, the son writes, and the letters are sent to women. The poem describes the father's authority in the house, the mother's silence and labour, and the son's position as the instrument through which the father speaks to other women. Its images are domestic and exact - the table, the paper, the dictation - and the poem closes with the son grown, understanding what he was made to do and what it cost the household.",
+   "plot": "The poem's subject is not infidelity but power, and its technique is to keep the child's point of view while letting the reader see what the child does not. The father cannot write, so the son's literacy makes him both necessary and complicit: he is the hand of his father's desire and the witness of his mother's injury. Komunyakaa's short lines and his refusal to comment allow the scene to stand as an image rather than a judgement, and the poem's restraint is what makes it painful. The larger subject is the household of a Black working family in the segregated South, where the father's word is the only authority available to him in a world that gives him none, and where his son's education is at once his pride and the means of his exposure. The poem is also, quietly, about writing: the son's first literary act is a love letter dictated by someone else, and the poem records the origin of a writer's relation to language in service to another person's need.",
+   "significance": "The poem is one of the most frequently anthologised in Magic City and is regularly taught as an example of the narrative lyric in contemporary African American poetry; the Norton's selection of it with 'Slam, Dunk, & Hook' gives the anthology both the public and the domestic sides of the book.",
+   "meter": "Short unpunctuated lines; concrete domestic objects; the father's speech rendered in direct quotation against the son's silence; and a syntax that withholds judgement to the end.",
+   "context": "Magic City (1992) collects the Bogalusa material Komunyakaa had been writing since Copacetic (1984), and the book's Southern mill town is treated with the same historical attention he gave the war in Dien Cai Dau. The poem's illiterate father and literate son belong to the first generation of Black Southerners with access to schooling after segregation, and the poem's situation is a common one in African American memoir.",
+   "characters": "",
+   "structure": "A short free-verse narrative in a single remembered scene, with the dictation as its organising action and a closing movement into the speaker's adult understanding.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Magic City",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)"
    ]
   },
   {
@@ -130130,7 +131252,7 @@
    ]
   },
   {
-   "id": 3021,
+   "id": 3042,
    "title": "My Sad Captains",
    "altTitles": [],
    "authorship": "single",
@@ -130179,7 +131301,7 @@
    ]
   },
   {
-   "id": 3067,
+   "id": 3088,
    "title": "My Son the Fanatic",
    "altTitles": [],
    "authorship": "single",
@@ -131692,7 +132814,7 @@
    ]
   },
   {
-   "id": 3093,
+   "id": 3114,
    "title": "Night Sweat",
    "altTitles": [],
    "authorship": "single",
@@ -131967,7 +133089,7 @@
    ]
   },
   {
-   "id": 2959,
+   "id": 2980,
    "title": "Nineteen Eighty-Four",
    "altTitles": [
     "1984"
@@ -132495,7 +133617,7 @@
    ]
   },
   {
-   "id": 3002,
+   "id": 3023,
    "title": "Not Waving but Drowning",
    "altTitles": [],
    "authorship": "single",
@@ -132763,6 +133885,56 @@
    "sources": [
     "Oxford Dictionary of National Biography",
     "The Cambridge History of Early Modern English Literature"
+   ]
+  },
+  {
+   "id": 2958,
+   "title": "Nude Study",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Yusef Komunyakaa"
+   ],
+   "authorIds": [
+    941
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Nude Study' was first published in Poetry in the winter of 1992 and collected in Taboo: The Wishbone Trilogy, Part One (New York: Farrar, Straus and Giroux, 2004). It is a poem about a painting - John Singer Sargent's studies of the Black model Thomas Eugene McKeller - and it appeared in Poetry in 1992 and was collected twelve years later.",
+   "summary": "The poem looks at Sargent's nude studies of Thomas E. McKeller, the African American bellhop and elevator operator from Boston who modelled for the murals Sargent painted for the Museum of Fine Arts and Harvard's Widener Library, and whose body was used for the classical and mythological figures in those murals. The poem describes the drawings' beauty and the conditions of their making: a Black man's body made into the white classical ideal, a model paid for his pose and unnamed in the work, and a painter using him as a means. It holds admiration for the drawing against the knowledge of what the drawing does.",
+   "plot": "The poem is an ekphrasis that turns into an argument about appropriation, and its charge comes from the fact that Sargent's drawings are genuinely beautiful. Komunyakaa does not resolve the contradiction between the aesthetic value of the work and the erasure it performs; he lets both stand, and the poem's intelligence is in its refusal of an easy verdict. The figures are classical - the murals depict Greek myth and the figures of the library - so that McKeller's body is recruited into a European tradition that would not have admitted him as a person, and the poem's title names the problem: a 'study' is a painter's preparation, an exercise in seeing, and the poem is a study of that study. Komunyakaa's late style is much more discursive than the short lyric of Magic City, with long sentences and an essayistic movement, and 'Nude Study' is a characteristic example: it thinks in public about the ethics of looking, and the first person of the Black viewer is placed against the white painter's gaze.",
+   "significance": "The poem is the most discussed piece in Taboo and a standard text in the art-history and literature of the Black model. Its 1992 magazine publication puts it inside the anthology's period even though the book it is known from appeared in 2004 - a case of the anthology printing an old poem in a new book, which is exactly why the record dates the first printing and names the collection separately.",
+   "meter": "Discursive free verse with long sentences and Latinate vocabulary; ekphrastic description that keeps the painter's technique in view; a first-person viewer who is also a critic; and an absence of irony.",
+   "context": "Sargent painted the McKeller studies in 1917-20 for the murals of the Museum of Fine Arts, Boston and Harvard's Widener Library, and McKeller's identity as the model became a subject of art history and public discussion in the 1990s and after. Komunyakaa's poem appeared in Poetry in the winter of 1992 and was collected, with revisions and a trilogy's architecture around it, in Taboo (2004); the 1992 periodical publication is the first and is the date recorded here.",
+   "characters": "",
+   "structure": "An ekphrastic lyric that moves between description and commentary, with no stanza break marking a change of argument and no resolution at the close.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Cultural Criticism",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet"
+   ],
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Taboo: The Wishbone Trilogy, Part One",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)"
    ]
   },
   {
@@ -135818,7 +136990,7 @@
    ]
   },
   {
-   "id": 3028,
+   "id": 3049,
    "title": "Omeros",
    "altTitles": [],
    "authorship": "single",
@@ -136408,7 +137580,7 @@
    ]
   },
   {
-   "id": 2990,
+   "id": 3011,
    "title": "On Not Shooting Sitting Birds",
    "altTitles": [],
    "authorship": "single",
@@ -136640,7 +137812,7 @@
    ]
   },
   {
-   "id": 3096,
+   "id": 3117,
    "title": "On the Road",
    "altTitles": [],
    "authorship": "single",
@@ -136740,7 +137912,7 @@
    ]
   },
   {
-   "id": 3083,
+   "id": 3104,
    "title": "One Art",
    "altTitles": [],
    "authorship": "single",
@@ -136791,7 +137963,7 @@
    ]
   },
   {
-   "id": 3040,
+   "id": 3061,
    "title": "One Out of Many",
    "altTitles": [],
    "authorship": "single",
@@ -137637,7 +138809,7 @@
    ]
   },
   {
-   "id": 3001,
+   "id": 3022,
    "title": "Our Bog Is Dood",
    "altTitles": [],
    "authorship": "single",
@@ -137960,7 +139132,7 @@
    ]
   },
   {
-   "id": 3031,
+   "id": 3052,
    "title": "Out",
    "altTitles": [],
    "authorship": "single",
@@ -140142,7 +141314,7 @@
    ]
   },
   {
-   "id": 3101,
+   "id": 3122,
    "title": "Personism: A Manifesto",
    "altTitles": [],
    "authorship": "single",
@@ -141119,7 +142291,7 @@
    ]
   },
   {
-   "id": 3030,
+   "id": 3051,
    "title": "Pike",
    "altTitles": [],
    "authorship": "single",
@@ -144615,7 +145787,7 @@
    ]
   },
   {
-   "id": 2987,
+   "id": 3008,
    "title": "Politics and the English Language",
    "altTitles": [],
    "authorship": "single",
@@ -146378,7 +147550,7 @@
    ]
   },
   {
-   "id": 3045,
+   "id": 3066,
    "title": "Punishment",
    "altTitles": [],
    "authorship": "single",
@@ -146693,7 +147865,7 @@
    ]
   },
   {
-   "id": 3080,
+   "id": 3101,
    "title": "Questions of Travel",
    "altTitles": [],
    "authorship": "single",
@@ -147915,7 +149087,7 @@
    ]
   },
   {
-   "id": 3037,
+   "id": 3058,
    "title": "Requiem for the Plantagenet Kings",
    "altTitles": [],
    "authorship": "single",
@@ -150200,7 +151372,7 @@
    ]
   },
   {
-   "id": 2983,
+   "id": 3004,
    "title": "Sad Steps",
    "altTitles": [],
    "authorship": "single",
@@ -151823,7 +152995,7 @@
    ]
   },
   {
-   "id": 3018,
+   "id": 3039,
    "title": "Self-Portrait",
    "altTitles": [],
    "authorship": "single",
@@ -152107,7 +153279,7 @@
    ]
   },
   {
-   "id": 3038,
+   "id": 3059,
    "title": "September Song",
    "altTitles": [],
    "authorship": "single",
@@ -153354,7 +154526,7 @@
    ]
   },
   {
-   "id": 2960,
+   "id": 2981,
    "title": "Shooting an Elephant and Other Essays",
    "altTitles": [],
    "authorship": "single",
@@ -153454,7 +154626,7 @@
    ]
   },
   {
-   "id": 3073,
+   "id": 3094,
    "title": "Signs and Symbols",
    "altTitles": [],
    "authorship": "single",
@@ -154529,7 +155701,7 @@
    ]
   },
   {
-   "id": 3091,
+   "id": 3112,
    "title": "Skunk Hour",
    "altTitles": [],
    "authorship": "single",
@@ -154581,7 +155753,58 @@
    ]
   },
   {
-   "id": 3098,
+   "id": 2956,
+   "title": "Slam, Dunk, & Hook",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Yusef Komunyakaa"
+   ],
+   "authorIds": [
+    941
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, basketball poem)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Slam, Dunk, & Hook' was first published in Callaloo in the summer of 1991 and collected in Magic City (Middletown: Wesleyan University Press, 1992), Komunyakaa's book of Bogalusa childhood. It is a poem about boys playing basketball, and it is the best-known example of his use of sport as a form of lyric knowledge.",
+   "summary": "The poem opens with 'Fast breaks. Lay ups. With Mercury's / Insignia on our sneakers', and it calls the players 'the sons of angels, / gone dazzling in mid-air'. Its boys play on a court and in a game that is half myth - 'we were dangerous', they wore 'our secret stories' like sweat - and the poem's images are of flight, of the body outwitting gravity, and of the game as an escape from the town as well as a spell held inside it. It ends with the speakers 'glistening like a glazed donut' and back on the ground, the court returning to its ordinary place.",
+   "plot": "The poem is about the beauty of a game played by boys who have nothing else, and it refuses the obvious irony that would point out the limits of basketball as a way out of poverty. Komunyakaa's method is to write the game as if it were a mythology, with Mercury's winged sneakers and angels in mid-air, and then to bring it back to the ordinary world without deflating it: the boys are sons of angels who also eat glazed doughnuts. The poem's politics are implicit in the myth's materials. The gods are named through their commercial logos, the flight is the flight of Black boys in a small Southern town in the segregation years, and the 'secret stories' the players carry are connected to the rest of Magic City, whose poems record the terror and the beauty of Bogalusa together. The rhythm is the poem's real argument: short lines with heavy stresses that mimic the stops and breaks of the game, so that reading it is closer to performing it than to describing it. The close is a deliberate return - the players come down to the ground, the poem ends, the game is over - and it is that return that keeps the poem from being sentimental about sport.",
+   "significance": "The poem is one of the most anthologised American poems about sport and the standard example of Komunyakaa's early style; it is a Norton selection, and its pairing with 'Facing It' shows the two poles of the anthology's representation of him - the war and the boyhood that preceded it.",
+   "meter": "Short lines with hard stresses; present tense and first-person plural; proper names and brand names used as mythic material; a jazz-like syntax that drops subjects; and an early rhyme of the sacred with the commercial.",
+   "context": "Magic City appeared in 1992, the year after Callaloo printed the poem, and belongs to the period in which Komunyakaa was writing two books at once - Dien Cai Dau about the war and Magic City about the South. Its Bogalusa is the mill town of his childhood, and the poem's publication in Callaloo places it in the leading journal of African American literary criticism and writing.",
+   "characters": "",
+   "structure": "A single free-verse lyric in short lines, organised by the movement of a game from fast break to final return, with no stanza division beyond the poem's own turns.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Land, place and regional belonging",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Magic City",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)"
+   ]
+  },
+  {
+   "id": 3119,
    "title": "Slaughterhouse-Five",
    "altTitles": [],
    "authorship": "single",
@@ -157588,7 +158811,7 @@
    ]
   },
   {
-   "id": 3047,
+   "id": 3068,
    "title": "Station Island",
    "altTitles": [],
    "authorship": "single",
@@ -157702,7 +158925,7 @@
    ]
   },
   {
-   "id": 3023,
+   "id": 3044,
    "title": "Still Life",
    "altTitles": [],
    "authorship": "single",
@@ -158161,7 +159384,7 @@
    ]
   },
   {
-   "id": 2961,
+   "id": 2982,
    "title": "Such, Such Were the Joys",
    "altTitles": [],
    "authorship": "single",
@@ -158324,6 +159547,57 @@
    ]
   },
   {
+   "id": 2963,
+   "title": "Summer Night",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Joy Harjo"
+   ],
+   "authorIds": [
+    944
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1990",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Summer Night' is in In Mad Love and War (Middletown: Wesleyan University Press, 1990), Harjo's fourth collection and the one that won the American Book Award. It is a short love poem that holds desire and the memory of violence in the same night.",
+   "summary": "The poem places two people together on a summer night, in a landscape of heat and insects, and it moves between the immediacy of touch and the knowledge that the past is still present in the body. Its images are of the natural world at night - the sound of insects, the dark, the warmth - and its address is intimate. It closes on a statement of the present as the only place love can happen, held against what has happened before.",
+   "plot": "The poem's subject is the difficulty of being present with another person when the body remembers injury, and its technique is to keep the two registers in the same sentence. Harjo does not separate the love poem from the history of violence against women; the summer night's heat is both erotic and oppressive, and the insects' noise is both the sound of the world and a kind of vigilance. The poem's tenderness is not naive - it is a decision made in full knowledge - and that is what distinguishes In Mad Love and War, whose title announces the book's two subjects. The line is longer here than in She Had Some Horses, and the poem's rhythm is more conversational, which belongs to the widening of Harjo's style in the late 1980s, when she began writing poems that could carry political statement without losing their lyric intensity.",
+   "significance": "The poem is a standard selection from In Mad Love and War and represents the erotic and conversational side of Harjo's work in the anthology, which otherwise draws on her visionary and political poems. It is a Norton selection.",
+   "meter": "Conversational free verse with longer lines than the earlier books; sensory and nocturnal imagery; direct address to a lover; and a refusal of rhetorical closure.",
+   "context": "In Mad Love and War was published by Wesleyan in 1990 and won the American Book Award; it belongs to the years in which Harjo was teaching in New Mexico and Arizona and performing with her band, and its poems move between the Southwest, Oklahoma and the wider world. It is the middle book between She Had Some Horses (1983) and The Woman Who Fell from the Sky (1994).",
+   "characters": "",
+   "structure": "A short free-verse lyric in a single movement, built on the alternation of sensory description and intimate address, ending on a turn toward the present.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Love Poetry",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony"
+   ],
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "In Mad Love and War",
+    "Joy Harjo (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1975,
    "title": "Summer on the Lakes, in 1843",
    "altTitles": [],
@@ -158429,7 +159703,7 @@
    ]
   },
   {
-   "id": 3087,
+   "id": 3108,
    "title": "Summertime and the Living . . .",
    "altTitles": [],
    "authorship": "single",
@@ -159492,7 +160766,7 @@
    ]
   },
   {
-   "id": 2980,
+   "id": 3001,
    "title": "Talking in Bed",
    "altTitles": [],
    "authorship": "single",
@@ -162697,7 +163971,7 @@
    ]
   },
   {
-   "id": 3081,
+   "id": 3102,
    "title": "The Armadillo",
    "altTitles": [],
    "authorship": "single",
@@ -164404,7 +165678,7 @@
    ]
   },
   {
-   "id": 2996,
+   "id": 3017,
    "title": "The Bean Eaters",
    "altTitles": [],
    "authorship": "single",
@@ -165149,7 +166423,7 @@
    ]
   },
   {
-   "id": 2999,
+   "id": 3020,
    "title": "The Blackstone Rangers",
    "altTitles": [],
    "authorship": "single",
@@ -167284,6 +168558,57 @@
    ]
   },
   {
+   "id": 2968,
+   "title": "The Business of Fancydancing",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sherman Alexie"
+   ],
+   "authorIds": [
+    945
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Collection of poems and short stories (debut volume)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The Business of Fancydancing: Stories and Poems (Brooklyn: Hanging Loose Press, 1992) is Sherman Alexie's first book, published when he was twenty-five. It mixes short stories and poems without marking the boundary, and the Norton prints 'Pawn Shop' from it.",
+   "summary": "The book's seventy-odd pieces are set on and around the Spokane reservation and move between first-person lyrics, prose poems and very short stories. Its subjects are drinking, basketball, family violence, the deaths of friends and the business of being an Indian in front of white readers - the title's 'fancydancing' is both the powwow dance and the performance of identity for an audience. 'Pawn Shop' is one of its prose pieces, a single-paragraph narrative about the commerce of the reservation town.",
+   "plot": "The book's formal oddity is its refusal to separate poetry from prose, and that refusal is its argument: on the reservation, a story and a poem are the same act, and the distinction belongs to the publisher. Alexie's early voice is direct, funny and wounded, and it uses the materials of late-twentieth-century American popular culture - basketball, television, beer, cars - as if they were a literary inheritance, which for his characters they are. 'Pawn Shop' shows the method in miniature: a flat, reportorial prose that lists what is being exchanged and what it costs, and a refusal to explain the transaction's meaning. The book's politics are inseparable from its comedy, since the jokes are about the conditions the poems are also mourning, and the title's irony - that Indian identity is a business - is the collection's central insight. Its publication by Hanging Loose, a small Brooklyn press, placed Alexie outside the university and the Native American studies circuit, and its success made him the most visible Native writer of his generation while he was still in his twenties.",
+   "significance": "The book is the debut of the most widely read Native American writer of his generation and the source of one of the Norton's four Alexie selections; it establishes the mixed-genre form he would keep, and 'Pawn Shop' is a standard example of his prose poem. The Norton list carried 'Pawn Shop' as undated before this wave; this record fixes it at 1992.",
+   "meter": "Short lines and very short paragraphs; a demotic, joke-timed voice; brand names and basketball as common reference; repetition and a deliberate flatness at moments of grief; and no figurative heightening.",
+   "context": "Hanging Loose Press published the book in 1992, the year Alexie graduated from Washington State University, and it appeared in the same season as The Lone Ranger and Tonto Fistfight in Heaven (1993), which followed within a year. The early 1990s were the years of the Native American literary boom created by the successes of Momaday, Silko, Erdrich and Welch, and Alexie's debut was read as the arrival of an urban, pop-culture Indian voice.",
+   "characters": "",
+   "structure": "A collection of short lyrics, prose poems and short stories in roughly chronological arrangement by the age of the speaker, with no section headings separating the genres.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Prose Poetry",
+    "Short Story"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Madness, breakdown and confinement",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "Sherman Alexie (Wikipedia; Poetry Foundation author page)",
+    "The Business of Fancydancing",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1368,
    "title": "The Butterfly's Ball, and the Grasshopper's Feast",
    "altTitles": [
@@ -168532,7 +169857,7 @@
    ]
   },
   {
-   "id": 2994,
+   "id": 3015,
    "title": "The Children of the Poor",
    "altTitles": [],
    "authorship": "single",
@@ -169493,7 +170818,7 @@
    ]
   },
   {
-   "id": 2962,
+   "id": 2983,
    "title": "The Collected Essays, Journalism and Letters of George Orwell",
    "altTitles": [],
    "authorship": "single",
@@ -172500,7 +173825,7 @@
    ]
   },
   {
-   "id": 3104,
+   "id": 3125,
    "title": "The Day Lady Died",
    "altTitles": [],
    "authorship": "single",
@@ -172607,7 +173932,7 @@
    ]
   },
   {
-   "id": 2989,
+   "id": 3010,
    "title": "The Day They Burned the Books",
    "altTitles": [],
    "authorship": "single",
@@ -174107,7 +175432,7 @@
    ]
   },
   {
-   "id": 3059,
+   "id": 3080,
    "title": "The Dolls Museum in Dublin",
    "altTitles": [],
    "authorship": "single",
@@ -174824,7 +176149,7 @@
    ]
   },
   {
-   "id": 2954,
+   "id": 2975,
    "title": "The Drinking Gourd",
    "altTitles": [],
    "authorship": "single",
@@ -174920,7 +176245,7 @@
    ]
   },
   {
-   "id": 3051,
+   "id": 3072,
    "title": "The Drowned World",
    "altTitles": [],
    "authorship": "single",
@@ -176717,7 +178042,7 @@
    ]
   },
   {
-   "id": 2958,
+   "id": 2979,
    "title": "The English People",
    "altTitles": [],
    "authorship": "single",
@@ -177853,7 +179178,7 @@
    ]
   },
   {
-   "id": 2985,
+   "id": 3006,
    "title": "The Explosion",
    "altTitles": [],
    "authorship": "single",
@@ -178969,7 +180294,7 @@
    ]
   },
   {
-   "id": 3014,
+   "id": 3035,
    "title": "The Fat Black Woman Goes Shopping",
    "altTitles": [],
    "authorship": "single",
@@ -180001,6 +181326,56 @@
    ]
   },
   {
+   "id": 2964,
+   "title": "The Flood",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Joy Harjo"
+   ],
+   "authorIds": [
+    944
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1994",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, narrative)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'The Flood' is in The Woman Who Fell from the Sky (New York: W. W. Norton, 1994), the collection Harjo published the year after she began teaching at the University of Tucson. It is a narrative poem about water, loss and the return of what has been buried.",
+   "summary": "The poem tells of a flood that rises and takes what is in its path, and it moves between the physical event and the memories the water releases. Its images are of water carrying possessions, animals and the dead, and of survivors afterwards in the mud. The poem's voice is a witness's, and its movement is from catastrophe through loss to a settled knowledge of what has been changed.",
+   "plot": "'The Flood' is characteristic of the collection in which Harjo turned from the short visionary lyric to poems with more narrative reach; its subject is not only a weather event but the way catastrophe rearranges a life and exposes what a community has been carrying. Water in Harjo's work is never only literal: it is the element that crosses boundaries, carries the dead and refuses to respect the divisions between past and present. The poem's narrative is episodic and its syntax is closer to speech than in the earlier books, and its power comes from the flatness with which terrible things are reported - the tone is not hysterical, and that calm is what makes it frightening. The collection's title, the Seneca story of the woman who fell from the sky onto the back of a turtle, is the mythic frame behind the poem, and 'The Flood' is one of the pieces in which the frame becomes visible: the world is remade after the water, and what survives is carried by the women who remember.",
+   "significance": "The poem is a selected example of Harjo's narrative mode and represents the 1994 collection in the Norton; with the three earlier poems it gives the anthology a twenty-year span of her work, which is unusual for any poet in the period.",
+   "meter": "Conversational free verse with narrative momentum; concrete images of water, mud and damaged objects; a flat, unhurried report tone; and a refusal of metaphor at the moments of greatest loss.",
+   "context": "The Woman Who Fell from the Sky appeared from Norton in 1994; it was Harjo's first book with a major New York publisher and followed her move to teaching in Arizona and her work with the Native American poetry community. The collection's title myth is Iroquoian, and its use by a Muscogee poet is part of the pan-tribal character of the Native American Renaissance.",
+   "characters": "",
+   "structure": "A free-verse narrative in stanzas of varying length, moving chronologically through the flood and its aftermath, with interruptions of remembered speech and no formal climax.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "History, truth and the uses of the past",
+    "Indigenous survival, land and sovereignty",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "Joy Harjo (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Woman Who Fell from the Sky"
+   ]
+  },
+  {
    "id": 618,
    "title": "The Forc'd Marriage; or, A Night's Intrigue",
    "altTitles": [],
@@ -180876,7 +182251,7 @@
    ]
   },
   {
-   "id": 2963,
+   "id": 2984,
    "title": "The Freedom of the Press",
    "altTitles": [],
    "authorship": "single",
@@ -182485,7 +183860,7 @@
    ]
   },
   {
-   "id": 3061,
+   "id": 3082,
    "title": "The Glass Essay",
    "altTitles": [],
    "authorship": "single",
@@ -182585,7 +183960,7 @@
    ]
   },
   {
-   "id": 3054,
+   "id": 3075,
    "title": "The God of Small Things",
    "altTitles": [],
    "authorship": "single",
@@ -183412,7 +184787,7 @@
    ]
   },
   {
-   "id": 3044,
+   "id": 3065,
    "title": "The Grauballe Man",
    "altTitles": [],
    "authorship": "single",
@@ -187690,7 +189065,7 @@
    ]
   },
   {
-   "id": 2970,
+   "id": 2991,
    "title": "The Housing Lark",
    "altTitles": [],
    "authorship": "single",
@@ -191083,7 +192458,7 @@
    ]
   },
   {
-   "id": 2998,
+   "id": 3019,
    "title": "The Last Quatrain of the Ballad of Emmett Till",
    "altTitles": [],
    "authorship": "single",
@@ -193665,7 +195040,7 @@
    ]
   },
   {
-   "id": 2966,
+   "id": 2987,
    "title": "The Lonely Londoners",
    "altTitles": [],
    "authorship": "single",
@@ -193923,7 +195298,7 @@
    ]
   },
   {
-   "id": 3060,
+   "id": 3081,
    "title": "The Lost Land",
    "altTitles": [],
    "authorship": "single",
@@ -197139,7 +198514,7 @@
    ]
   },
   {
-   "id": 3024,
+   "id": 3045,
    "title": "The Missing",
    "altTitles": [],
    "authorship": "single",
@@ -197774,7 +199149,7 @@
    ]
   },
   {
-   "id": 2951,
+   "id": 2972,
    "title": "The Movement: Documentary of a Struggle for Equality",
    "altTitles": [],
    "authorship": "single",
@@ -202688,7 +204063,7 @@
    ]
   },
   {
-   "id": 2971,
+   "id": 2992,
    "title": "The Plains of Caroni",
    "altTitles": [],
    "authorship": "single",
@@ -205181,7 +206556,7 @@
    ]
   },
   {
-   "id": 3011,
+   "id": 3032,
    "title": "The Prophet's Hair",
    "altTitles": [],
    "authorship": "single",
@@ -209619,7 +210994,7 @@
    ]
   },
   {
-   "id": 3026,
+   "id": 3047,
    "title": "The Schooner Flight",
    "altTitles": [],
    "authorship": "single",
@@ -209974,7 +211349,7 @@
    ]
   },
   {
-   "id": 3027,
+   "id": 3048,
    "title": "The Season of Phantasmal Peace",
    "altTitles": [],
    "authorship": "single",
@@ -211098,7 +212473,7 @@
    ]
   },
   {
-   "id": 2993,
+   "id": 3014,
    "title": "The Shield of Achilles",
    "altTitles": [],
    "authorship": "single",
@@ -211525,7 +212900,7 @@
    ]
   },
   {
-   "id": 2950,
+   "id": 2971,
    "title": "The Sign in Sidney Brustein's Window",
    "altTitles": [],
    "authorship": "single",
@@ -214466,6 +215841,56 @@
    ]
   },
   {
+   "id": 2969,
+   "title": "The Summer of Black Widows",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sherman Alexie"
+   ],
+   "authorIds": [
+    945
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1996",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poetry collection",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The Summer of Black Widows (Brooklyn: Hanging Loose Press, 1996) is Sherman Alexie's second collection of poems, published in the year of his novel Indian Killer. The Norton prints 'Sister Fire, Brother Smoke' from its third sequence, a group of poems about the death of his sister in a house fire.",
+   "summary": "The book is in several sequences and mixes love poems, political poems, poems about basketball and a long central sequence about the death of Alexie's sister. 'Sister Fire, Brother Smoke' is a villanelle, the last poem of that sequence, in which the brother mourns the sister and confronts his own survival; the poem's repeated lines carry both the fire and the smoke that is left of the person.",
+   "plot": "The collection shows Alexie working in received forms - the villanelle, the sestina - while keeping his demotic voice, and 'Sister Fire, Brother Smoke' is the clearest example: a villanelle's two refrains are made to do the work of grief, so that the form's repetition becomes the obsessive return of the mourner. The sequence it closes moves from the fire itself through the family's aftermath to the brother's guilt at having survived and at having made art from the death, and the last poem's formal control is the point - the discipline is what the grief is being held in. Alexie's habit of undercutting solemnity with a joke is present even here, which makes the poem harder rather than easier. The collection as a whole is more various than the debut: it includes love poems, a long poem about basketball and a sequence on the Spokane world, and its range is what the Norton's selection represents, a poet who can write a villanelle about his sister and a joke about Crazy Horse in the same book.",
+   "significance": "The collection contains Alexie's most formally accomplished poem and is the source of the Norton's third poem selection; 'Sister Fire, Brother Smoke' is regularly cited in discussions of the villanelle in contemporary American poetry, which is a surprising place to find a Spokane writer and exactly the point. The Norton list carried the poem as undated before this wave; this record fixes it at 1996.",
+   "meter": "Demotic free verse with formal poems set among it; a villanelle with two refrains; jokes inside elegies; and a line that is closer to speech than to song.",
+   "context": "The collection appeared in 1996, the year of Indian Killer, and belongs to the period in which Alexie was publishing a book a year; Hanging Loose had published his debut and remained his publisher for poetry. His sister's death in a house fire is the biographical ground of the sequence, and the poems are unusual among his work for their directness about family loss.",
+   "characters": "",
+   "structure": "A collection of sequences, with the sister poems forming the third and the villanelle placed last in it; the poems are short and the sequences are held together by recurring images rather than narrative.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "Sherman Alexie (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Summer of Black Widows"
+   ]
+  },
+  {
    "id": 2667,
    "title": "The Sun Also Rises",
    "altTitles": [
@@ -214625,7 +216050,7 @@
    ]
   },
   {
-   "id": 3085,
+   "id": 3106,
    "title": "The Swimmer",
    "altTitles": [],
    "authorship": "single",
@@ -219147,7 +220572,7 @@
    ]
   },
   {
-   "id": 3076,
+   "id": 3097,
    "title": "The Waking",
    "altTitles": [],
    "authorship": "single",
@@ -221650,7 +223075,7 @@
    ]
   },
   {
-   "id": 3108,
+   "id": 3129,
    "title": "The Woman Thing",
    "altTitles": [],
    "authorship": "single",
@@ -222536,6 +223961,57 @@
    ]
   },
   {
+   "id": 2965,
+   "title": "The Yellow House on the Corner",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Rita Dove"
+   ],
+   "authorIds": [
+    946
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1980",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poetry collection (debut volume)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The Yellow House on the Corner (Pittsburgh: Carnegie Mellon University Press, 1980) is Rita Dove's first collection, published when she was twenty-seven. The Norton prints 'Geometry' from it, dated 1980, and the record covers the volume rather than the single poem because the anthology's selections are drawn from across its sections.",
+   "summary": "The book is in three sections and moves between the domestic and the historical. Its poems include portraits of family members in Akron, poems about childhood and the body, and a sequence, 'This Life', in which Dove speaks in the voices of historical and mythological figures. 'Geometry' - the poem the Norton prints - is a short lyric about order, measurement and the shapes a life is fitted into, and it shows the formal preoccupations that run through the volume.",
+   "plot": "Dove's first book is unusually accomplished, and its distinguishing feature is the range of voices it takes on. The Akron poems are precise about place and class - a family in the industrial Midwest, a father's work, a house with a chimney - while 'This Life' lets Dove write in the first person of people she is not, from a nineteenth-century doctor to mythological women. 'Geometry' states the collection's aesthetic in miniature: the poem is interested in the forms that contain experience, in symmetry and the breaking of it, and in the moment when a pattern becomes visible. The book's title image, a yellow house on a corner, holds the two sides together, since a house is both a particular family's dwelling and a figure for the order the poems are making. Dove has said that the collection was written in the workshop years and that she was learning to use form to control feeling; what is striking on rereading is how little of it reads as apprentice work, and how much of her later manner - the sequence, the persona, the formal turn - is already present.",
+   "significance": "The volume is Dove's debut and the source of the earliest poem the Norton prints; 'Geometry' is among the most anthologised of her short lyrics and is often used to introduce her formal control. The record is one of the two that answer the anthology's three Adolescence rows, since those poems come from the same period of her work.",
+   "meter": "Metrically controlled free verse with frequent rhyme and near-rhyme; short lines and short poems; a diction that moves between the colloquial and the formal; and an image-based logic that prefers the shaped object to the statement.",
+   "context": "The book was published by Carnegie Mellon University Press in 1980, when Dove was teaching at Arizona State University after her Iowa MFA; it appeared in the same year as her second collection was in preparation, which is why the two are often discussed together. The late 1970s were the years in which a generation of Black poets born after the war - Dove, Komunyakaa, Yusef and others - began publishing first books that were neither Black Arts nor confessional.",
+   "characters": "",
+   "structure": "Three sections of short lyrics and one sequence of persona poems; the volume moves from domestic and autobiographical poems to historical voices and back, and 'Geometry' is a single short lyric rather than a sequence.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "Rita Dove (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Yellow House on the Corner"
+   ]
+  },
+  {
    "id": 1613,
    "title": "The Yeomen of the Guard; or, The Merryman and His Maid",
    "altTitles": [
@@ -222769,7 +224245,7 @@
    ]
   },
   {
-   "id": 3032,
+   "id": 3053,
    "title": "Theology",
    "altTitles": [],
    "authorship": "single",
@@ -223099,7 +224575,7 @@
    ]
   },
   {
-   "id": 2986,
+   "id": 3007,
    "title": "This Be The Verse",
    "altTitles": [
     "This Be the Verse"
@@ -223151,7 +224627,59 @@
    ]
   },
   {
-   "id": 2972,
+   "id": 2967,
+   "title": "Thomas and Beulah",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Rita Dove"
+   ],
+   "authorIds": [
+    946
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1986",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poetry sequence (book-length, in two parts)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Thomas and Beulah (Pittsburgh: Carnegie Mellon University Press, 1986) won the Pulitzer Prize for Poetry in 1987. It is a book-length sequence in two halves, telling the lives of Dove's maternal grandparents - Thomas, who came north from Tennessee to work in Akron, and Beulah, who married him - and the Norton prints three of its poems: 'The Event', 'The Zeppelin Factory' and 'Dusting'.",
+   "summary": "The first half, 'Mandolin', follows Thomas from his arrival in Akron and the death of his friend Lem, through courtship, marriage, the birth of four daughters and his work at the Goodyear factory, to the lemons he grows in old age. The second half, 'Canary in Bloom', follows Beulah from her marriage through the household, her illness, her widowhood and her death. 'The Event' is one of the poems of Thomas's early life, 'The Zeppelin Factory' recalls the airship works in Akron and the men who worked in it, and 'Dusting' is a short poem of Beulah's domestic life.",
+   "plot": "The book's achievement is to give two ordinary lives the scale of history without inflating them. Dove works in short lyrics arranged in sequence, and the sequence does the work that prose would do: the reader assembles a marriage out of moments, and the gaps between poems are as significant as the poems. Thomas's half is full of the world - the Great Migration, the war, the zeppelin works, the race riot of 1919 in Akron and the labour organising of the 1930s - while Beulah's half is full of the house, and the asymmetry is the book's argument about the different freedoms of men and women in the same life. The poems are in the third person and refuse the poet's commentary; Dove does not tell the reader what her grandparents' lives mean, and the sequence's last poems, in which Beulah is dying among her daughters, are remarkable for their calm. The title's two names give the book its form: it is a double portrait, and the two halves are not equal in the amount of the world they can reach. The Pulitzer made Dove, at thirty-four, the second African American poet to win it, and the book has become the standard model for the American book-length family sequence. Its most important technical decision is that neither half narrates its own meaning: the reader is given the objects - a mandolin, a lemon tree, a zeppelin, a dust cloth - and left to assemble the lives from them, which is why the sequence rewards reading in order rather than in excerpts.",
+   "significance": "Thomas and Beulah is one of the most honoured American poetry books of the 1980s and is the work for which Dove is best known; its model of the documentary family sequence has been widely imitated, and the Norton's three selections from it give the anthology the book's scale as well as its individual lyrics. With the three Adolescence poems and four other lyrics, Dove has ten selections in the period, more than any other poet.",
+   "meter": "Third-person lyrics in controlled free verse with rhyme; plain diction and domestic objects; the historical world admitted through names, machines and dates rather than through statement; and an absence of the poet's 'I'.",
+   "context": "The book appeared in 1986 from Carnegie Mellon and won the Pulitzer in 1987, the year of Toni Morrison's Beloved and of a wider public argument about African American family history; Dove's grandparents had migrated from Tennessee to Akron, and the Goodyear Tire & Rubber Company, where Thomas worked and where Dove's father became the company's first Black chemist, is the book's industrial ground.",
+   "characters": "",
+   "structure": "Two halves of about twenty-five short poems each, in chronological order within each half, with the two lives running in parallel rather than interleaved; the poems are short lyrics, many of a single stanza, and no poem comments on another.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "Rita Dove (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Thomas and Beulah"
+   ]
+  },
+  {
+   "id": 2993,
    "title": "Those Who Eat the Cascadura",
    "altTitles": [],
    "authorship": "single",
@@ -223202,7 +224730,7 @@
    ]
   },
   {
-   "id": 3086,
+   "id": 3107,
    "title": "Those Winter Sundays",
    "altTitles": [],
    "authorship": "single",
@@ -223251,7 +224779,7 @@
    ]
   },
   {
-   "id": 3003,
+   "id": 3024,
    "title": "Thoughts About the Person from Porlock",
    "altTitles": [],
    "authorship": "single",
@@ -224489,7 +226017,7 @@
    ]
   },
   {
-   "id": 2952,
+   "id": 2973,
    "title": "To Be Young, Gifted and Black",
    "altTitles": [],
    "authorship": "single",
@@ -224717,7 +226245,7 @@
    ]
   },
   {
-   "id": 3017,
+   "id": 3038,
    "title": "To Room Nineteen",
    "altTitles": [],
    "authorship": "single",
@@ -224767,7 +226295,7 @@
    ]
   },
   {
-   "id": 3000,
+   "id": 3021,
    "title": "To the Diaspora",
    "altTitles": [],
    "authorship": "single",
@@ -225047,7 +226575,7 @@
    ]
   },
   {
-   "id": 3042,
+   "id": 3063,
    "title": "Top Girls",
    "altTitles": [],
    "authorship": "single",
@@ -226236,7 +227764,7 @@
    ]
   },
   {
-   "id": 2968,
+   "id": 2989,
    "title": "Turn Again Tiger",
    "altTitles": [],
    "authorship": "single",
@@ -227887,7 +229415,7 @@
    ]
   },
   {
-   "id": 3069,
+   "id": 3090,
    "title": "Valentine",
    "altTitles": [],
    "authorship": "single",
@@ -229958,7 +231486,7 @@
    ]
   },
   {
-   "id": 2988,
+   "id": 3009,
    "title": "Waiting for Aunty to Cough",
    "altTitles": [],
    "authorship": "single",
@@ -230007,7 +231535,7 @@
    ]
   },
   {
-   "id": 2991,
+   "id": 3012,
    "title": "Waiting for Godot",
    "altTitles": [
     "En attendant Godot"
@@ -230058,7 +231586,7 @@
    ]
   },
   {
-   "id": 3057,
+   "id": 3078,
    "title": "Waiting for the Barbarians",
    "altTitles": [],
    "authorship": "single",
@@ -230254,7 +231782,7 @@
    ]
   },
   {
-   "id": 3039,
+   "id": 3060,
    "title": "Walker Brothers Cowboy",
    "altTitles": [],
    "authorship": "single",
@@ -230636,7 +232164,7 @@
    ]
   },
   {
-   "id": 3068,
+   "id": 3089,
    "title": "Warming Her Pearls",
    "altTitles": [],
    "authorship": "single",
@@ -230904,7 +232432,7 @@
    ]
   },
   {
-   "id": 2967,
+   "id": 2988,
    "title": "Ways of Sunlight",
    "altTitles": [],
    "authorship": "single",
@@ -231009,7 +232537,7 @@
    ]
   },
   {
-   "id": 2995,
+   "id": 3016,
    "title": "We Real Cool",
    "altTitles": [],
    "authorship": "single",
@@ -231370,7 +232898,7 @@
    ]
   },
   {
-   "id": 3053,
+   "id": 3074,
    "title": "What the Tapster Saw",
    "altTitles": [],
    "authorship": "single",
@@ -231423,7 +232951,7 @@
    ]
   },
   {
-   "id": 2955,
+   "id": 2976,
    "title": "What Use Are Flowers?",
    "altTitles": [],
    "authorship": "single",
@@ -231470,7 +232998,7 @@
    ]
   },
   {
-   "id": 3015,
+   "id": 3036,
    "title": "Wherever I Hang",
    "altTitles": [],
    "authorship": "single",
@@ -231678,6 +233206,56 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2962,
+   "title": "White Bear",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Joy Harjo"
+   ],
+   "authorIds": [
+    944
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1983",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, visionary lyric)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'White Bear' is in She Had Some Horses (New York: Thunder's Mouth Press, 1983). Harjo has said she wrote it in 1983, on the point of boarding a plane out of a city, and it is a visionary poem in which a white bear appears as a figure of balance and of the northern cold.",
+   "summary": "The poem begins 'Somewhere, she dreamed, there is the white bear / moving down from the north' and describes the bear motioning its paws 'like a long arctic night'. It holds images of balance - 'the whole world balanced in between', carved of ebony and ice - and of the speaker's daughter's eyes, black nights, and the white bear moon like an ivory cradle. Its closing movement turns on the tipping of that cradle: 'it could go either way', and the poem ends with the assertion that 'all darkness is open to light'.",
+   "plot": "The poem is a dream narrative in which the dreaming mind is given the authority of a vision. The white bear is not explained and not identified with a particular tribal figure; it is a creature of the north, a moon and a cradle, and the poem's images accumulate rather than argue. That accumulation is Harjo's method in the early books: a sequence of luminous objects arranged so that the reader feels their relation before understanding it. The daughter's eyes in the middle of the poem make the vision domestic as well as cosmic, and the cradle image ties the movement of the northern sky to the rocking of a child. The ending is the poem's argument: the balance could tip either way, and the speaker chooses to say that darkness is open to light, which is a statement of survival made in the grammar of a blessing. The poem's landscape is not named as Oklahoma or Alaska but as a dream's north, and its power comes from the refusal to localise the myth.",
+   "significance": "'White Bear' is one of the most anthologised poems in She Had Some Horses and a standard example of the visionary mode in Native American poetry; it is a Norton selection, and with 'Call It Fear' it represents the collection. The Norton list carried it as undated before this wave.",
+   "meter": "Unpunctuated free verse in a single long sentence; repetition of 'the white bear'; images of ice, ebony, moon and cradle; and an incantatory syntax that holds the poem together without argument.",
+   "context": "The poem was written in 1983, the year Harjo published She Had Some Horses and finished her MFA, and it belongs to the period in which Native American writers were making ceremonial and mythic material central to their poetics. The bear as a figure of power and of the north is widespread in Native North American traditions, and Harjo uses it without assigning it to a particular nation or story.",
+   "characters": "",
+   "structure": "A single unbroken free-verse lyric of visionary images, with no stanza divisions and a closing assertion that turns the description into a blessing.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Myth, folklore and the supernatural",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "Joy Harjo (Wikipedia; Poetry Foundation author page)",
+    "She Had Some Horses",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -231927,7 +233505,7 @@
    ]
   },
   {
-   "id": 3102,
+   "id": 3123,
    "title": "Why I Am Not a Painter",
    "altTitles": [],
    "authorship": "single",
@@ -232416,7 +233994,7 @@
    ]
   },
   {
-   "id": 3029,
+   "id": 3050,
    "title": "Wind",
    "altTitles": [],
    "authorship": "single",
@@ -234469,7 +236047,7 @@
    ]
   },
   {
-   "id": 3100,
+   "id": 3121,
    "title": "Zagrowsky Tells",
    "altTitles": [],
    "authorship": "single",
@@ -234674,6 +236252,59 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2960,
+   "title": "¡Yo!",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Julia Alvarez"
+   ],
+   "authorIds": [
+    943
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1997",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel (multi-voice, told by a chorus of narrators)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "¡Yo! (Chapel Hill: Algonquin Books, 1997) is Julia Alvarez's second novel about the García family of How the García Girls Lost Their Accents (1991). It tells the story of the second sister, Yolanda, entirely through the voices of the people around her, and the Norton prints its chapter 'The Mother'.",
+   "summary": "The novel's premise is that everyone has a version of Yolanda except Yolanda, who is writing a novel in the third person and appearing only in other people's chapters. Her sisters, her cousins, her lovers, her teachers, her Dominican family's servants, her American landlords and her psychiatrist each narrate a section, and the composite portrait that emerges is of a woman divided by languages, loyalties and versions of herself. 'The Mother' is narrated by Yolanda's mother, Laura García, in the first person: she describes her daughter's return from college changed, her English, her refusal of the family's expectations, and her own bewilderment at a child who has become a stranger, and she measures the distance between the life she imagined for her daughter and the American one she has.",
+   "plot": "The novel's structure is its argument. By refusing Yolanda a first-person chapter, Alvarez makes the immigrant writer's identity a composite of other people's descriptions, which is the condition the book is about: Yolanda is an American writer to her Dominican family and a Dominican daughter to her American friends, and neither account is complete. The mother's chapter is the emotional centre of the novel because it is told by the person with the strongest claim to know her, and because Laura's account is loving and uncomprehending at the same time. Alvarez handles the mother's voice with great care: Laura is not a villain and not a saint, she is a woman of a certain class and generation whose daughter's freedoms - sexual, literary, linguistic - are real gains and real losses at once. The novel's comedy comes from the chorus of narrators, each convinced that Yolanda is the problem and that they are the solution; its sorrow comes from the recognition that no single narrator, including the mother, can hold her. The book's bilingual title and its untranslated Spanish are part of the same argument about a life lived in two languages, and 'The Mother' is the chapter in which the gap between the languages is most painfully marked.",
+   "significance": "The novel is a standard example of the polyphonic immigrant novel and is regularly taught alongside García Girls, which it revises; 'The Mother' is the chapter most often anthologised because it gives the mother's voice that the earlier novel does not. The Norton's selection of it registers the 1990s as a decade of US Latina writing and Alvarez as one of its central practitioners.",
+   "meter": "Each chapter in a distinct idiolect - Dominican Spanish-inflected English, academic English, child's English - with Spanish left unglossed; direct address and conversational framing; and a comic timing learnt from the family anecdote.",
+   "context": "¡Yo! appeared in 1997, three years after In the Time of the Butterflies and six after How the García Girls Lost Their Accents, at a point when US Latina fiction had a mass readership; Algonquin Books was a small Southern press that had become a significant publisher of American fiction. The novel's multi-voice form belongs to the 1990s interest in polyphonic and testimonial narrative, and its Dominican material reflects the growth of the Dominican American community in New York after 1965.",
+   "characters": "",
+   "structure": "A sequence of first-person chapters each spoken by a different character, with Yolanda herself withheld; no single plotline, and a chronology that returns to the same events from different angles; the mother's chapter is one of the longest.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Bildungsroman",
+    "Domestic Fiction",
+    "Literary Novel"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora"
+   ],
+   "movements": [
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Julia Alvarez (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "¡Yo!"
    ]
   }
  ]

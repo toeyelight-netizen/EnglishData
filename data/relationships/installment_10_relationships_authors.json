@@ -28,6 +28,17 @@
    ]
   },
   {
+   "author": "Alice Walker",
+   "genres": [
+    "Cultural Criticism",
+    "Domestic Fiction",
+    "Literary Essay",
+    "Personal Essay",
+    "Regional Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Allen Ginsberg",
    "genres": [
     "Beat Poetry",
@@ -70,6 +81,15 @@
    ]
   },
   {
+   "author": "Art Spiegelman",
+   "genres": [
+    "Autobiography",
+    "Biography",
+    "Graphic Novel",
+    "Historical Writing"
+   ]
+  },
+  {
    "author": "Arthur Miller",
    "genres": [
     "Domestic Drama",
@@ -95,6 +115,15 @@
     "Lyric Poetry",
     "Political Essay",
     "Political Poetry"
+   ]
+  },
+  {
+   "author": "August Wilson",
+   "genres": [
+    "Domestic Drama",
+    "Drama and Performance (1946–2000)",
+    "Full-Length Play",
+    "Modern Tragedy"
    ]
   },
   {
@@ -266,6 +295,15 @@
    ]
   },
   {
+   "author": "Gloria Anzaldúa",
+   "genres": [
+    "Autobiography",
+    "Cultural Criticism",
+    "Literary Essay",
+    "Prose Poetry"
+   ]
+  },
+  {
    "author": "Grace Nichols",
    "genres": [
     "Dramatic Poetry",
@@ -403,11 +441,29 @@
    ]
   },
   {
+   "author": "Joy Harjo",
+   "genres": [
+    "Confessional Poetry",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
    "author": "Juan Felipe Herrera",
    "genres": [
     "Experimental Poetry",
     "Lyric Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "genres": [
+    "Bildungsroman",
+    "Domestic Fiction",
+    "Literary Novel"
    ]
   },
   {
@@ -667,6 +723,14 @@
    ]
   },
   {
+   "author": "Rita Dove",
+   "genres": [
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
    "author": "Robert Hayden",
    "genres": [
     "Elegiac Poetry",
@@ -741,6 +805,16 @@
     "Political Poetry",
     "Regional Poetry",
     "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Sherman Alexie",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Prose Poetry",
+    "Short Story"
    ]
   },
   {
@@ -842,6 +916,14 @@
    ]
   },
   {
+   "author": "Tim O'Brien",
+   "genres": [
+    "Metafictional Novel",
+    "Short Story",
+    "War Novel"
+   ]
+  },
+  {
    "author": "Toni Cade Bambara",
    "genres": [
     "Realist Fiction",
@@ -900,6 +982,17 @@
    ]
   },
   {
+   "author": "Yusef Komunyakaa",
+   "genres": [
+    "Cultural Criticism",
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "bpNichol",
    "genres": [
     "Concrete Poetry",
@@ -930,6 +1023,13 @@
    ]
   },
   {
+   "author": "Alice Walker",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Allen Ginsberg",
    "movements": [
     "The Beat Generation"
@@ -956,6 +1056,12 @@
    ]
   },
   {
+   "author": "Art Spiegelman",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Arthur Miller",
    "movements": [
     "Late Modernism"
@@ -975,6 +1081,13 @@
     "Black Arts Movement",
     "Postwar African American Writing: Protest and Its Critics",
     "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "August Wilson",
+   "movements": [
+    "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   },
   {
@@ -1085,6 +1198,14 @@
    "movements": []
   },
   {
+   "author": "Gloria Anzaldúa",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Grace Nichols",
    "movements": [
     "Black British Writing and the Windrush Generation",
@@ -1193,10 +1314,24 @@
    ]
   },
   {
+   "author": "Joy Harjo",
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Juan Felipe Herrera",
    "movements": [
     "Chicano Movement Literature",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "movements": [
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -1363,6 +1498,13 @@
    "movements": []
   },
   {
+   "author": "Rita Dove",
+   "movements": [
+    "Confessional Poetry",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
    "author": "Robert Hayden",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
@@ -1407,6 +1549,12 @@
    "author": "Seamus Heaney",
    "movements": [
     "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "author": "Sherman Alexie",
+   "movements": [
+    "Native American Renaissance"
    ]
   },
   {
@@ -1472,6 +1620,12 @@
    ]
   },
   {
+   "author": "Tim O'Brien",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Toni Cade Bambara",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
@@ -1515,6 +1669,12 @@
    ]
   },
   {
+   "author": "Yusef Komunyakaa",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
    "author": "bpNichol",
    "movements": [
     "Concrete Poetry"
@@ -1548,6 +1708,17 @@
     "Childhood, adolescence and coming of age",
     "Class, labour and social mobility",
     "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Alice Walker",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -1597,6 +1768,16 @@
    ]
   },
   {
+   "author": "Art Spiegelman",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "The Holocaust, atrocity and historical memory"
+   ]
+  },
+  {
    "author": "Arthur Miller",
    "themes": [
     "Class, labour and social mobility",
@@ -1624,6 +1805,16 @@
     "Race, racism and the struggle for civil rights",
     "Sexuality, desire and the closet",
     "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "August Wilson",
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -1811,6 +2002,16 @@
    ]
   },
   {
+   "author": "Gloria Anzaldúa",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "Grace Nichols",
    "themes": [
     "Gender, feminism and women's lives",
@@ -1962,6 +2163,21 @@
    ]
   },
   {
+   "author": "Joy Harjo",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Indigenous survival, land and sovereignty",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Myth, folklore and the supernatural",
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice"
+   ]
+  },
+  {
    "author": "Juan Felipe Herrera",
    "themes": [
     "Art, the artist and the creative life",
@@ -1970,6 +2186,16 @@
     "Language, writing and the limits of representation",
     "Migration, exile and diaspora",
     "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora"
    ]
   },
   {
@@ -2247,6 +2473,20 @@
    ]
   },
   {
+   "author": "Rita Dove",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "Robert Hayden",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -2335,6 +2575,19 @@
     "The Holocaust, atrocity and historical memory",
     "Violence, crime and justice",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Sherman Alexie",
+   "themes": [
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Myth, folklore and the supernatural",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -2451,6 +2704,15 @@
    ]
   },
   {
+   "author": "Tim O'Brien",
+   "themes": [
+    "Death, illness and mourning",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
    "author": "Toni Cade Bambara",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -2507,6 +2769,23 @@
     "Faith, doubt and the sacred",
     "History, truth and the uses of the past",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Yusef Komunyakaa",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -2639,7 +2918,8 @@
     "The Poetical Works of Thomas Moore",
     "The Works of Thomas De Quincey (21 volumes)",
     "Thomas Chalmers and the Godly Commonwealth in Scotland",
-    "Thomas Pynchon (Wikipedia)"
+    "Thomas Pynchon (Wikipedia)",
+    "Thomas and Beulah"
    ]
   },
   {
@@ -3401,6 +3681,97 @@
     "Louise Glück (Wikipedia) and the Nobel Prize citation",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
     "The Wild Iris"
+   ]
+  },
+  {
+   "author": "Gloria Anzaldúa",
+   "sources": [
+    "Borderlands/La Frontera: The New Mestiza",
+    "Gloria Anzaldúa (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Alice Walker",
+   "sources": [
+    "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
+    "Alice Walker (Wikipedia; Poetry Foundation author page)",
+    "David Walker's Appeal to the Coloured Citizens of the World",
+    "In Love & Trouble: Stories of Black Women",
+    "In Search of Our Mothers' Gardens: Womanist Prose",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "August Wilson",
+   "sources": [
+    "August Wilson (Wikipedia; Poetry Foundation author page)",
+    "Fences",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Tim O'Brien",
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Things They Carried",
+    "Tim O'Brien (Wikipedia; Poetry Foundation author page)"
+   ]
+  },
+  {
+   "author": "Yusef Komunyakaa",
+   "sources": [
+    "Dien Cai Dau",
+    "Magic City",
+    "Taboo: The Wishbone Trilogy, Part One",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Yusef Komunyakaa (Wikipedia; Poetry Foundation author page)"
+   ]
+  },
+  {
+   "author": "Art Spiegelman",
+   "sources": [
+    "Art Spiegelman (Wikipedia; Poetry Foundation author page)",
+    "Maus",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Julia Alvarez",
+   "sources": [
+    "Julia Alvarez (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "¡Yo!"
+   ]
+  },
+  {
+   "author": "Joy Harjo",
+   "sources": [
+    "In Mad Love and War",
+    "Joy Harjo (Wikipedia; Poetry Foundation author page)",
+    "She Had Some Horses",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Woman Who Fell from the Sky"
+   ]
+  },
+  {
+   "author": "Sherman Alexie",
+   "sources": [
+    "Sherman Alexie (Wikipedia; Poetry Foundation author page)",
+    "The Business of Fancydancing",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Summer of Black Widows"
+   ]
+  },
+  {
+   "author": "Rita Dove",
+   "sources": [
+    "Grace Notes",
+    "Museum",
+    "Rita Dove (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Yellow House on the Corner",
+    "Thomas and Beulah"
    ]
   }
  ]

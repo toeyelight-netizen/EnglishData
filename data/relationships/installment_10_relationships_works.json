@@ -1324,6 +1324,111 @@
    "work": "Vespers",
    "author": "Louise Glück",
    "contribution_type": "author"
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "author": "Gloria Anzaldúa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Everyday Use",
+   "author": "Alice Walker",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "author": "Alice Walker",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Fences",
+   "author": "August Wilson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "author": "Tim O'Brien",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Facing It",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "My Father's Love Letters",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Nude Study",
+   "author": "Yusef Komunyakaa",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Maus",
+   "author": "Art Spiegelman",
+   "contribution_type": "author"
+  },
+  {
+   "work": "¡Yo!",
+   "author": "Julia Alvarez",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Call It Fear",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "White Bear",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Summer Night",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Flood",
+   "author": "Joy Harjo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Museum",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Thomas and Beulah",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -3343,6 +3448,167 @@
    "genres": [
     "Lyric Poetry",
     "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism",
+    "Prose Poetry",
+    "Autobiography"
+   ]
+  },
+  {
+   "work": "Everyday Use",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "genres": [
+    "Personal Essay",
+    "Literary Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Fences",
+   "genres": [
+    "Drama and Performance (1946–2000)",
+    "Modern Tragedy",
+    "Full-Length Play",
+    "Domestic Drama"
+   ]
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "genres": [
+    "Short Story",
+    "War Novel",
+    "Metafictional Novel"
+   ]
+  },
+  {
+   "work": "Facing It",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "My Father's Love Letters",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Nude Study",
+   "genres": [
+    "Lyric Poetry",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Maus",
+   "genres": [
+    "Graphic Novel",
+    "Autobiography",
+    "Biography",
+    "Historical Writing"
+   ]
+  },
+  {
+   "work": "¡Yo!",
+   "genres": [
+    "Literary Novel",
+    "Domestic Fiction",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "Call It Fear",
+   "genres": [
+    "Lyric Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "White Bear",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "Summer Night",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "The Flood",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Museum",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "genres": [
+    "Lyric Poetry",
+    "Short Story",
+    "Prose Poetry"
+   ]
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
    ]
   }
  ],
@@ -5457,6 +5723,200 @@
     "Nature, ecology and environmental crisis",
     "Family, marriage and domestic life"
    ]
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights",
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Everyday Use",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Fences",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "themes": [
+    "War, combat and its aftermath",
+    "Memory, trauma and testimony",
+    "Language, writing and the limits of representation",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Facing It",
+   "themes": [
+    "War, combat and its aftermath",
+    "Death, illness and mourning",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "My Father's Love Letters",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Nude Study",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Maus",
+   "themes": [
+    "The Holocaust, atrocity and historical memory",
+    "Memory, trauma and testimony",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "¡Yo!",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Call It Fear",
+   "themes": [
+    "Memory, trauma and testimony",
+    "Violence, crime and justice",
+    "Gender, feminism and women's lives",
+    "Indigenous survival, land and sovereignty"
+   ]
+  },
+  {
+   "work": "White Bear",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Nature, ecology and environmental crisis",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty"
+   ]
+  },
+  {
+   "work": "Summer Night",
+   "themes": [
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Gender, feminism and women's lives",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "The Flood",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "History, truth and the uses of the past",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Museum",
+   "themes": [
+    "Art, the artist and the creative life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "Memory, trauma and testimony",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "Madness, breakdown and confinement",
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "themes": [
+    "Education, institutions and the academy",
+    "Indigenous survival, land and sovereignty",
+    "Race, racism and the struggle for civil rights",
+    "Language, writing and the limits of representation"
+   ]
   }
  ],
  "work_movements": [
@@ -6912,6 +7372,140 @@
    "movements": [
     "Confessional Poetry"
    ]
+  },
+  {
+   "work": "Borderlands/La Frontera: The New Mestiza",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Everyday Use",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Fences",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "How to Tell a True War Story",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Facing It",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Slam, Dunk, & Hook",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "My Father's Love Letters",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Nude Study",
+   "movements": [
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Maus",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "¡Yo!",
+   "movements": [
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Call It Fear",
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "White Bear",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Summer Night",
+   "movements": [
+    "Native American Renaissance",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Flood",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Yellow House on the Corner",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Museum",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Business of Fancydancing",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Summer of Black Widows",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "At Navajo Monument Valley Tribal School",
+   "movements": [
+    "Native American Renaissance"
+   ]
   }
  ],
  "work_periods": [
@@ -7182,7 +7776,28 @@
     "From Sand Creek",
     "The Drowned Children",
     "Descending Figure",
-    "Vespers"
+    "Vespers",
+    "Borderlands/La Frontera: The New Mestiza",
+    "Everyday Use",
+    "In Search of Our Mothers' Gardens: Womanist Prose",
+    "Fences",
+    "How to Tell a True War Story",
+    "Facing It",
+    "Slam, Dunk, & Hook",
+    "My Father's Love Letters",
+    "Nude Study",
+    "Maus",
+    "¡Yo!",
+    "Call It Fear",
+    "White Bear",
+    "Summer Night",
+    "The Flood",
+    "The Yellow House on the Corner",
+    "Museum",
+    "Thomas and Beulah",
+    "The Business of Fancydancing",
+    "The Summer of Black Widows",
+    "At Navajo Monument Valley Tribal School"
    ]
   }
  ]
