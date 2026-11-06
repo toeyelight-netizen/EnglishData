@@ -2152,6 +2152,32 @@ and all three are described in `AGENT_HANDOVER.md` §2:
   twice in the American one, so one record answers two rows. `i10_state.py` now
   counts rows, prints `NAEL 96 of 96`, and cannot repeat the error.
 
+- **Waves 34–36 (the American volume, finished).** Forty-three rows closed in
+  three passes, taking the American volume from 126 to 169 of 169 and the
+  installment to **310 works by 112 authors**, with **every in-scope selection in
+  both volumes recorded and none undated**.
+
+  The approach was to record authors' books rather than anthology pages. Wave 34
+  took the ten largest outstanding authors in one pass — Anzaldúa, Walker, Wilson,
+  O'Brien, Komunyakaa, Spiegelman, Alvarez, Harjo, Alexie and Dove — and wave 35 the
+  remaining nine, Tan, Cisneros, Erdrich, Lee, Moore, Trethewey, Lahiri and Díaz
+  with Dove's later poems. Because one record can answer several rows — *Thomas and
+  Beulah* answers six, *The Joy Luck Club* one — coverage moved faster than the
+  number of records suggests. Wave 36 closed the last eight, where the anthology
+  prints a single named poem from a book already recorded, and each of those got a
+  poem-level record pointing at its collection.
+
+  Four rows the Norton list carried undated are now dated from first editions:
+  Harjo's "White Bear" (*She Had Some Horses*, 1983), Alexie's "Pawn Shop" and "At
+  Navajo Monument Valley Tribal School" (*The Business of Fancydancing*, 1992), and
+  Komunyakaa's "Nude Study", which appeared in *Poetry* in the winter of 1992 and
+  was gathered in *Taboo* (2004) — dated 1992 as its first printing, with the later
+  book named separately rather than used to push the selection out of the period.
+
+  One date is recorded as unresolved: Dove's "Poem in Which I Refuse
+  Contemplation" is in *Museum* (1983) but the Norton list dates it 1989. The record
+  gives both and says the question is open, instead of choosing the convenient one.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2264,4 +2290,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 265 works by 94 authors; **the English volume is complete, 96 of 96 selections**; American 126 of 169; 43 American selections remain, none undated) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | **Complete** for the period (310 works by 112 authors; all 265 in-scope Norton selections recorded - English 96 of 96, American 169 of 169; none undated) |

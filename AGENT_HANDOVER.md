@@ -7,15 +7,19 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 33):** installments 1–9 are
-complete; installment 10 (1946–2000) is in progress at **265 works by 94
-authors**. **The Norton Anthology of English Literature volume is complete: all
-96 in-scope selections are recorded.** The American volume has **126 of its 169
-in-scope selections**, leaving **43, none of them undated**. The 220 figure is
-*works* matched to the anthologies and is not a row count: two records answer two
-rows each (Rushdie's *Imaginary Homelands*, printed twice; Kingston's *The Woman
-Warrior*, two chapters). The database holds **936
-authors, 3,109 works, 736 sources, 2,432 editions**. `python3
+**State at this handover (2026-11-06, waves 33–36):** installments 1–9 are
+complete; installment 10 (1946–2000) now has **every in-scope Norton selection
+recorded** — **NAEL 96 of 96** and **NAAL 169 of 169**, zero pending, zero
+undated — in **310 works by 112 authors**. Wave 33 finished the English volume,
+wave 34 took the American volume's large authors in one pass, wave 35 its
+remaining nine, and wave 36 the last eight rows with poem-level records where the
+anthology prints a single selection from a book already recorded.
+
+Note the row/work distinction, which caused a real error in waves 29–32: count
+**rows**. Two records answer two rows each (Rushdie's *Imaginary Homelands*,
+printed twice; Kingston's *The Woman Warrior*, two chapters), and the anthology
+also prints three numbered *Adolescence* poems as three rows. `i10_state.py`
+now counts rows and prints both totals. `python3
 scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
 so they cannot drift from it.
 
@@ -163,26 +167,28 @@ Next in Norton's order (American anthology), from
 | Simon J. Ortiz | 3 | |
 | Louise Glück | 3 | |
 
-43 selections remain across 18 authors, of whom 10 have a single selection - 42
-American and one English. Wave 33 recorded Brathwaite's "[On Sycorax Video Style]"
-(the English anthology's last outstanding row, dated 1999) and added Bob Dylan,
-Simon J. Ortiz and Louise Glueck with eight works between them. It also settled the
-last two provisional dates: Ortiz's "Passing through Little Rock" (A Good Journey,
-1977) and "Earth and Rain, the Plants & Sun" (Going for the Rain, 1976), both fixed
-from the contents of Woven Stone (1992). **No selection in either list now carries
-an unverified date.**
+**No selection remains to record.** Both volumes of the period are complete as of
+wave 36 — NAEL 96 of 96 in-scope rows, NAAL 169 of 169 — with every row dated and
+every author recorded. What remains is not coverage but depth: the record's
+`verification_status` is *partially verified* for most works, because the first
+printing was established from catalogues and secondary sources while the text was
+only read in part. A later pass that read the texts and upgraded records to
+*verified* would be the natural next stage, and it is a different kind of work from
+the coverage runs that built the installment.
 
-The largest remaining block is Rita Dove's ten, then Li-Young Lee's five and four
-each for Joy Harjo, Yusef Komunyakaa and Sherman Alexie.
+**What the coverage runs taught.** Waves 34–36 closed 43 rows in three passes by
+grouping authors, not selections: one record for *The Joy Luck Club* answers its
+row, and one record for *Thomas and Beulah* answers six, so counting authors' books
+rather than anthology pages is what made the last third of the installment fast.
+Wave 36 was needed only because the audit matches by title and the anthology names
+individual poems; those eight rows each got a poem record pointing at the
+collection already recorded.
 
-**Batch the small authors.** Waves 21-28 averaged about nine minutes of wall clock
-each, and almost all of it was research and prose, not machinery. The fastest
-structure is 6-8 single-selection authors per wave, researched with two parallel
-searches per author (one for the first printing, one for biography), which is what
-wave 28 did in a single pass. The slow waves (25, 26) were the ones that mixed a
-large author's block with new taxonomy; wave 33 took one long file split into nine
-appended parts to get round the shell's 64 KB command limit, which is a mechanical
-constraint worth remembering rather than a research one.
+**The 64 KB shell limit is real and mechanical.** A nine-work content module
+overruns a single heredoc; write the module in parts under `/tmp` and `cat` them
+together. Both wave 34 and wave 35 were built this way, and wave 35 needed the
+constants from wave 34 restated locally because each content module is evaluated
+independently.
 
 ## 8. Source policy
 
