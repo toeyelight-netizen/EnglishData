@@ -355,6 +355,14 @@
    ]
   },
   {
+   "author": "John Updike",
+   "genres": [
+    "Domestic Fiction",
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "genres": [
     "Experimental Poetry",
@@ -458,6 +466,14 @@
    ]
   },
   {
+   "author": "Octavia E. Butler",
+   "genres": [
+    "Science Fiction",
+    "Short Story",
+    "Soft Science Fiction"
+   ]
+  },
+  {
    "author": "Paul Muldoon",
    "genres": [
     "Confessional Poetry",
@@ -468,6 +484,14 @@
     "Lyric Poetry",
     "Narrative Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "author": "Philip K. Dick",
+   "genres": [
+    "Science Fiction",
+    "Short Story",
+    "Soft Science Fiction"
    ]
   },
   {
@@ -492,6 +516,14 @@
     "Psychological Novel",
     "Religious Poetry",
     "Social Poetry"
+   ]
+  },
+  {
+   "author": "Philip Roth",
+   "genres": [
+    "Domestic Fiction",
+    "Realist Fiction",
+    "Short Story"
    ]
   },
   {
@@ -652,6 +684,23 @@
     "Lyric Poetry",
     "Nature Poetry",
     "Social Poetry"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Essay",
+    "Nonfiction Prose (1946–2000)",
+    "Political Essay"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "genres": [
+    "Science Fiction",
+    "Short Story",
+    "Speculative Fiction (1946–2000)"
    ]
   },
   {
@@ -948,6 +997,12 @@
    ]
   },
   {
+   "author": "John Updike",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "movements": [
     "Caribbean Literature in English",
@@ -1026,6 +1081,13 @@
    ]
   },
   {
+   "author": "Octavia E. Butler",
+   "movements": [
+    "Feminist Science Fiction",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
    "author": "Paul Muldoon",
    "movements": [
     "Northern Irish Poetry and the Belfast Group",
@@ -1033,9 +1095,21 @@
    ]
   },
   {
+   "author": "Philip K. Dick",
+   "movements": [
+    "New Wave Science Fiction"
+   ]
+  },
+  {
    "author": "Philip Larkin",
    "movements": [
     "The Movement"
+   ]
+  },
+  {
+   "author": "Philip Roth",
+   "movements": [
+    "Jewish American Fiction"
    ]
   },
   {
@@ -1132,6 +1206,18 @@
    "movements": [
     "Gay and Lesbian Literature after Stonewall",
     "The Movement"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "movements": [
+    "New Wave Science Fiction"
    ]
   },
   {
@@ -1555,6 +1641,14 @@
    ]
   },
   {
+   "author": "John Updike",
+   "themes": [
+    "Class, labour and social mobility",
+    "Love, intimacy and loss",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "themes": [
     "Class, labour and social mobility",
@@ -1668,6 +1762,14 @@
    ]
   },
   {
+   "author": "Octavia E. Butler",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Power, the state and surveillance",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
    "author": "Paul Muldoon",
    "themes": [
     "Art, the artist and the creative life",
@@ -1681,6 +1783,14 @@
     "Race, racism and the struggle for civil rights",
     "Violence, crime and justice",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Philip K. Dick",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures"
    ]
   },
   {
@@ -1707,6 +1817,14 @@
     "Technology, media and consumer society",
     "The city, the suburb and modern space",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Philip Roth",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy",
+    "Faith, doubt and the sacred"
    ]
   },
   {
@@ -1895,6 +2013,22 @@
     "Love, intimacy and loss",
     "Nature, ecology and environmental crisis",
     "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural"
    ]
   },
   {
@@ -2094,10 +2228,14 @@
     "M. NourbeSe Philip (Wikipedia)",
     "M. NourbeSe Philip's She Tries her Tongue, her Silence Softly Breaks and the Possibilities of Language (Revista Anglo Saxonica)",
     "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
+    "Philip K. Dick (Wikipedia)",
+    "Philip K. Dick bibliography (Wikipedia)",
     "Philip Larkin (EBSCO Research Starters)",
     "Philip Larkin (New World Encyclopedia)",
     "Philip Larkin (Wikipedia, via Wikiwand)",
+    "Philip Roth (Wikipedia)",
     "The Explosion by Philip Larkin (EBSCO Research Starters)",
+    "The FictionMags Index (Phil Stephenson-Payne), Philip K. Dick story entries",
     "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
    ]
   },
@@ -2596,6 +2734,71 @@
     "Sylvia Plath (Wikipedia)",
     "Sylvia Plath bibliography (Wikipedia)",
     "The Colossus and Other Poems (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Toni Morrison",
+   "sources": [
+    "The Nobel Lecture in Literature, 1993, first edition (Alfred A. Knopf, 1994)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Toni Morrison (Wikipedia)"
+   ]
+  },
+  {
+   "author": "John Updike",
+   "sources": [
+    "John Updike (Wikipedia)",
+    "Licks of Love: Short Stories and a Sequel, contents (library catalogue record)",
+    "New York Girl, The New Yorker, 1 April 1996 (newyorker.com archive)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Philip Roth",
+   "sources": [
+    "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
+    "Goodbye, Columbus (Wikipedia)",
+    "Philip Roth (Wikipedia)",
+    "The Conversion of the Jews (Poetry Foundation and Paris Review archive references)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Philip K. Dick",
+   "sources": [
+    "Moby-Dick; or, The Whale, vol. 6 of the Northwestern-Newberry Edition of the Writings of Herman Melville",
+    "Philip K. Dick (Wikipedia)",
+    "Philip K. Dick bibliography (Wikipedia)",
+    "The FictionMags Index (Phil Stephenson-Payne), Philip K. Dick story entries",
+    "The Letters of Charles Dickens, Pilgrim Edition, 12 vols",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Poems of Emily Dickinson, 3 vols",
+    "The Poems of Emily Dickinson: Variorum Edition, 3 vols"
+   ]
+  },
+  {
+   "author": "Ursula K. Le Guin",
+   "sources": [
+    "A New View of Society and Other Writings (Penguin Classics)",
+    "A New-England Tale (Penguin Classics)",
+    "An Essay on the Principle of Population and Other Writings (Penguin Classics)",
+    "Early American Drama (Penguin Classics)",
+    "John Keats: The Complete Poems (Penguin Classics)",
+    "Moses Ascending (Penguin Modern Classics description, as reproduced by booksellers)",
+    "Rural Rides (Penguin English Library)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Penguin Classics editions of the individual novels and poems cited",
+    "Universe 5 (1974), ed. Terry Carr, contents and copyright page",
+    "Ursula K. Le Guin (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Octavia E. Butler",
+   "sources": [
+    "Bloodchild and Other Stories, first edition (Seven Stories Press, 1995)",
+    "Metaphysical Lyrics and Poems of the Seventeenth Century: Donne to Butler",
+    "Octavia E. Butler (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }

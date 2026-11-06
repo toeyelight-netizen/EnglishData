@@ -1961,6 +1961,42 @@ with broader Anglophone writing out of scope.
   in each research note. Fifteen new sources. 173 of the 255 selections now have
   records; 82 American selections remain.
 
+- **Wave 28:** Toni Morrison, John Updike, Philip Roth, Philip K. Dick, Ursula K.
+  Le Guin and Octavia E. Butler - the six-author block after Plath, six works and
+  six authors. Morrison's *Nobel Lecture in Literature* (delivered in Stockholm
+  on 7 December 1993, first published by Knopf in March 1994), Updike's "New York
+  Girl" (*The New Yorker*, 1 April 1996; collected in *Licks of Love*, 2000),
+  Roth's "The Conversion of the Jews" (*The Paris Review* no. 18, Spring 1958;
+  *Goodbye, Columbus*, 1959), Dick's "Precious Artifact" (*Galaxy Magazine*,
+  October 1964), Le Guin's "Schrödinger's Cat" (*Universe 5*, 1974, ed. Terry
+  Carr) and Butler's "Bloodchild" (*Isaac Asimov's Science Fiction Magazine*, June
+  1984 - the Hugo, Nebula and Locus novelette). The block carries the anthology's
+  science-fiction section: three of the six are speculative fiction, and Le Guin
+  and Butler are recorded in both the New Wave and the feminist science-fiction
+  movements. Sixteen new sources. All six Norton rows dated from their first
+  printings, which leaves 17 selections undated, all of them post-2000 prospects
+  or the eight remaining English rows named in the limitations. 223 works by 72
+  authors; 78 of the 254 in-scope selections have no record (the English
+  anthology's 89 are complete; the American is at 89 of 165), and the 17 undated
+  rows still decide whether a further five authors are covered.
+
+**Tooling (2026-11-06).** Three scripts now do work that was being done by hand,
+and all three are described in `AGENT_HANDOVER.md` §2:
+
+- `scripts/i10_preflight.py` runs the build's own strict checker
+  (`strict_checks.check`) against a single wave file in about a second, plus the
+  collision checks that the build performs against the database and the other
+  waves. A wave is now proven before the build is run, instead of one failure at
+  a time.
+- `scripts/i10_gates.py` runs the whole verification chain - preflight, build,
+  database rebuild and import, then the gate scripts and the test suite in
+  parallel - with one exit status; the chain takes 35 seconds of machine time
+  instead of nine sequential commands, and the two 13-second steps now overlap.
+- `scripts/i10_state.py` computes the coverage figures from the audit's own
+  coverage matrix instead of from a hand count, prints the next selections in
+  Norton order, and lists every line in the documentation that still carries a
+  superseded figure. The state figures below are its output.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2072,4 +2108,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 217 works by 66 authors; 173 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 223 works by 72 authors; 178 of 255 selections recorded - the English anthology complete, the American at 89 of 165) |

@@ -1084,6 +1084,36 @@
    "work": "Child",
    "author": "Sylvia Plath",
    "contribution_type": "author"
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "author": "Toni Morrison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "New York Girl",
+   "author": "John Updike",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "author": "Philip Roth",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Precious Artifact",
+   "author": "Philip K. Dick",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "author": "Ursula K. Le Guin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Bloodchild",
+   "author": "Octavia E. Butler",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2725,6 +2755,55 @@
     "Confessional Poetry",
     "Lyric Poetry",
     "Free Verse"
+   ]
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Literary Essay",
+    "Political Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "New York Girl",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Precious Artifact",
+   "genres": [
+    "Short Story",
+    "Science Fiction",
+    "Soft Science Fiction"
+   ]
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "genres": [
+    "Short Story",
+    "Science Fiction",
+    "Speculative Fiction (1946–2000)"
+   ]
+  },
+  {
+   "work": "Bloodchild",
+   "genres": [
+    "Short Story",
+    "Science Fiction",
+    "Soft Science Fiction"
    ]
   }
  ],
@@ -4454,6 +4533,54 @@
     "Childhood, adolescence and coming of age",
     "Art, the artist and the creative life"
    ]
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "New York Girl",
+   "themes": [
+    "Love, intimacy and loss",
+    "The city, the suburb and modern space",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "Precious Artifact",
+   "themes": [
+    "Technology, media and consumer society",
+    "Alienation, absurdity and existential freedom",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Myth, folklore and the supernatural",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Bloodchild",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Power, the state and surveillance",
+    "Family, marriage and domestic life"
+   ]
   }
  ],
  "work_movements": [
@@ -5623,6 +5750,43 @@
    "movements": [
     "Confessional Poetry"
    ]
+  },
+  {
+   "work": "Nobel Lecture in Literature",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "New York Girl",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "work": "The Conversion of the Jews",
+   "movements": [
+    "Jewish American Fiction"
+   ]
+  },
+  {
+   "work": "Precious Artifact",
+   "movements": [
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Schrödinger's Cat",
+   "movements": [
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Bloodchild",
+   "movements": [
+    "Feminist Science Fiction",
+    "New Wave Science Fiction"
+   ]
   }
  ],
  "work_periods": [
@@ -5845,7 +6009,13 @@
     "Ariel",
     "Daddy",
     "Words",
-    "Child"
+    "Child",
+    "Nobel Lecture in Literature",
+    "New York Girl",
+    "The Conversion of the Jews",
+    "Precious Artifact",
+    "Schrödinger's Cat",
+    "Bloodchild"
    ]
   }
  ]

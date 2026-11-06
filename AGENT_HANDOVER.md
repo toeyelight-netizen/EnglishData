@@ -7,10 +7,13 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 27):** installments 1–9 are
-complete; installment 10 (1946–2000) is in progress at **217 works by 66
-authors**, with **173 of 255** in-scope Norton selections recorded. The
-database holds **913 authors, 3,061 works, 656 sources, 2,432 editions**.
+**State at this handover (2026-11-06, wave 28):** installments 1–9 are
+complete; installment 10 (1946–2000) is in progress at **223 works by 72
+authors**, with **178 of 255** in-scope Norton selections recorded (the English
+anthology complete at 89, the American at 89 of 165). The database holds **919
+authors, 3,067 works, 674 sources, 2,432 editions**. `python3
+scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
+so they cannot drift from it.
 
 ---
 
@@ -27,7 +30,7 @@ alembic upgrade head
 python scripts/import_data.py
 ```
 
-This reproduces 912 / 3,053 / 641 / 2,432 exactly from a clean clone.
+This reproduces 919 / 3,067 / 674 / 2,432 exactly from a clean clone.
 
 ## 2. First run
 
@@ -45,27 +48,38 @@ The JSON is generated. Editing `data/works/*.json` by hand is erased by the
 next build.
 
 ```bash
-# 0. write or edit scripts/content/content_i10_waveNN.py
-python scripts/build_installment.py 10 --check-only   # report only, writes nothing
-python scripts/build_installment.py 10                # writes data/{works,authors}/...
+# 0. write the wave, then prove it before building anything
+python scripts/i10_preflight.py scripts/content/content_i10_waveNN.py
 
-# 1. rebuild the database (the importer never deletes; see §5)
-rm -f database/English_Literature_Master.db && mkdir -p database
-alembic upgrade head && python scripts/import_data.py
+# 1. everything else, in one command: build, rebuild the database, and run
+#    every gate in parallel (~35 s of machine time). Exit status 0 = green.
+python scripts/i10_gates.py
 
-# 2. gates
-python scripts/check_installment.py 08   # 08, 09, 10 must all print CLEAN
-python scripts/check_installment.py 09
-python scripts/check_installment.py 10
+# 2. the figures for the docs, and the files that carry an old figure
+python scripts/i10_state.py            # works, selections, authors, what is left
+python scripts/i10_state.py --next 12  # the next selections in Norton order
+python scripts/i10_state.py --stale    # doc lines still carrying a stale number
+
+# 3. docs, then commit
+```
+
+`scripts/i10_gates.py` runs, in order: `i10_preflight.py --all`;
+`build_installment.py 10`; a fresh database (`alembic upgrade head` +
+`import_data.py`); then `export_app_data.py` (the ~14.6 MB Android asset, which
+**is** committed) and, in parallel, `check_installment.py` 08/09/10,
+`check_duplicates.py`, `validate_database.py --installment 10`,
+`audit_installment_10.py` and `generate_statistics.py`, with
+`unittest discover -s tests -q` overlapping them. `--fast` drops the test suite
+and `--no-db` runs the content gates only. Nothing is skipped: `--fast` and
+`--no-db` are for the middle of a wave, not for the commit.
+
+Run it before every commit. The individual commands remain usable on their own
+when a gate fails and its output needs reading:
+
+```bash
+python scripts/build_installment.py 10 --check-only    # the build's own report
+python scripts/check_installment.py 08                 # 08, 09, 10 must print CLEAN
 python scripts/validate_database.py --installment 10   # expect "Total issues: 0"
-python scripts/check_duplicates.py                    # expect 0 groups, 0 stale rows
-python scripts/audit_installment_10.py                # regenerates audit + coverage matrix
-
-# 3. export and test
-python scripts/export_app_data.py        # android asset, ~14.5 MB, DO commit it
-python3 -m unittest discover -s tests -q
-
-# 4. docs, then commit
 ```
 
 `scripts/i08_i09_check_queue.py` is a work-ordering report, not a gate.
@@ -136,16 +150,22 @@ Next in Norton's order (American anthology), from
 
 | Author | in-scope rows | note |
 |---|---|---|
-| Toni Morrison | 1 | the Nobel lecture, 1993 — next in order |
-| John Updike | 1 | |
-| Philip Roth | 1 | |
-| Philip K. Dick | 1 | |
-| Ursula K. Le Guin | 1 | |
-| Octavia E. Butler | 1 | |
-| Amiri Baraka | 4 | 2 undated |
+| Amiri Baraka | 4 | 2 undated — next in order |
+| N. Scott Momaday | 2 | |
+| Lucille Clifton | 7 | largest block after Dove |
+| Rita Dove | 10 | *Thomas and Beulah* counts once for three rows |
 
-82 American selections remain; 17 selections are undated overall (11 English,
-6 American). The English anthology is complete for the period (90 of 90).
+78 selections remain: 35 authors, of whom 18 have a single selection. 17
+selections are still undated (11 English, 6 American) and decide whether five
+more authors are in the period at all. The English anthology is complete for
+the period (89 of 89 unique selections).
+
+**Batch the small authors.** Waves 21–28 averaged about nine minutes of wall
+clock each, and almost all of it was research and prose, not machinery. The
+fastest structure is 6–8 single-selection authors per wave, researched with two
+parallel searches per author (one for the first printing, one for biography),
+which is what wave 28 did in a single pass. The slow waves (25, 26) were the
+ones that mixed a large author's block with new taxonomy.
 
 ## 8. Source policy
 
