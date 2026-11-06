@@ -1018,6 +1018,32 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
     Arizona; both are peoples of Arkansas, as Camille Paglia pointed out in 2001. The
     error is the anthology's, and the record says so rather than repeating it.
 
+18. **Waves 34-36: the American volume completed.** Forty-three rows closed in
+    three passes, taking the American volume from 126 to **169 of 169** and the
+    installment to 310 works by 112 authors. **No in-scope selection in either
+    volume is now unrecorded, and none is undated.**
+
+    *How it was done.* The rows were closed by recording authors' books rather than
+    anthology pages: one record answers every row a book supplies, which is why
+    *Thomas and Beulah* accounts for six rows and *The Joy Luck Club* for one. Wave
+    36 was needed for the eight rows where the anthology prints an individual named
+    poem from a book already recorded; each got a poem-level record naming its
+    collection.
+
+    *Dates settled.* "White Bear" (*She Had Some Horses*, 1983); "Pawn Shop" and "At
+    Navajo Monument Valley Tribal School" (*The Business of Fancydancing*, 1992);
+    "Nude Study" (*Poetry*, Winter 1992; gathered in *Taboo*, 2004, and dated from
+    the first printing so that the selection stays inside the period it was chosen
+    for). Four rows had carried no date at all; the American list now has none.
+
+    *Still uncertain.* Dove's "Poem in Which I Refuse Contemplation" is in *Museum*
+    (1983) but the Norton dates it 1989; both are recorded and the question is left
+    open. First periodical appearances were not traced for most of the poems. The
+    text of *From Sand Creek*, of *Borderlands/La Frontera* and of several novels was
+    not read in full, and their records say so. Every work in these three waves is
+    *partially verified*, which remains an honest description of a record built from
+    catalogues and first printings rather than from a full reading.
+
 ## Stopping point and outstanding tasks (2026-11-06)
 
 **Done:**
