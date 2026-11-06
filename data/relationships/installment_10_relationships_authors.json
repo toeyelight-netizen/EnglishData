@@ -114,6 +114,18 @@
    ]
   },
   {
+   "author": "Elizabeth Bishop",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Travel Writing"
+   ]
+  },
+  {
    "author": "Geoffrey Hill",
    "genres": [
     "Elegiac Poetry",
@@ -188,6 +200,14 @@
   {
    "author": "Jean Rhys",
    "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "genres": [
+    "Modernist Fiction",
+    "Satirical Fiction",
     "Short Story"
    ]
   },
@@ -328,6 +348,15 @@
    ]
   },
   {
+   "author": "Robert Hayden",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
    "author": "Salman Rushdie",
    "genres": [
     "Literary Essay",
@@ -395,6 +424,26 @@
    ]
   },
   {
+   "author": "Tennessee Williams",
+   "genres": [
+    "Full-Length Play",
+    "Gothic Fiction",
+    "Modern Tragedy"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
    "author": "Thom Gunn",
    "genres": [
     "Elegiac Poetry",
@@ -409,6 +458,14 @@
     "Novella",
     "Political Novel",
     "Psychological Novel"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "genres": [
+    "Modernist Fiction",
+    "Philosophical Fiction",
+    "Short Story"
    ]
   },
   {
@@ -524,6 +581,13 @@
    ]
   },
   {
+   "author": "Elizabeth Bishop",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
    "author": "Geoffrey Hill",
    "movements": [
     "The Movement"
@@ -574,6 +638,13 @@
    "movements": [
     "Caribbean Literature in English",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "movements": [
+    "Late Modernism",
+    "Postmodernism and Postmodern Fiction"
    ]
   },
   {
@@ -660,6 +731,12 @@
    ]
   },
   {
+   "author": "Robert Hayden",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
    "author": "Salman Rushdie",
    "movements": [
     "Magical Realism in English",
@@ -697,6 +774,19 @@
    ]
   },
   {
+   "author": "Tennessee Williams",
+   "movements": [
+    "Late Modernism",
+    "Southern Gothic"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
    "author": "Thom Gunn",
    "movements": [
     "Gay and Lesbian Literature after Stonewall",
@@ -708,6 +798,13 @@
    "movements": [
     "Postcolonial Literature",
     "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "movements": [
+    "Late Modernism",
+    "Postmodernism and Postmodern Fiction"
    ]
   },
   {
@@ -848,6 +945,22 @@
    ]
   },
   {
+   "author": "Elizabeth Bishop",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice"
+   ]
+  },
+  {
    "author": "Geoffrey Hill",
    "themes": [
     "Death, illness and mourning",
@@ -938,6 +1051,14 @@
     "Love, intimacy and loss",
     "Migration, exile and diaspora",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
    ]
   },
   {
@@ -1091,6 +1212,17 @@
    ]
   },
   {
+   "author": "Robert Hayden",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "Salman Rushdie",
    "themes": [
     "Faith, doubt and the sacred",
@@ -1167,6 +1299,28 @@
    ]
   },
   {
+   "author": "Tennessee Williams",
+   "themes": [
+    "Class, labour and social mobility",
+    "Memory, trauma and testimony",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Faith, doubt and the sacred",
+    "Love, intimacy and loss",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
    "author": "Thom Gunn",
    "themes": [
     "Art, the artist and the creative life",
@@ -1185,6 +1339,14 @@
     "Identity, authenticity and the divided self",
     "Migration, exile and diaspora",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Madness, breakdown and confinement",
+    "Migration, exile and diaspora"
    ]
   },
   {
@@ -1620,6 +1782,52 @@
     "Kiran Desai (Wikipedia)",
     "Kiran Desai, 'The Sermon in the Guava Tree' (extract, The New Yorker, 23 June 1997)",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "sources": [
+    "Signs and Symbols (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Vladimir Nabokov (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Theodore Roethke (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Elizabeth Bishop",
+   "sources": [
+    "Elizabeth Bishop (Wikipedia)",
+    "One Art (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Tennessee Williams",
+   "sources": [
+    "A Streetcar Named Desire (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "sources": [
+    "John Cheever (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Swimmer (short story) (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Robert Hayden",
+   "sources": [
+    "Middle Passage (poem) (Wikipedia)",
+    "Robert Hayden (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }
  ]

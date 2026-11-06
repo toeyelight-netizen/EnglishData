@@ -714,6 +714,81 @@
    "work": "Hullabaloo in the Guava Orchard",
    "author": "Kiran Desai",
    "contribution_type": "author"
+  },
+  {
+   "work": "Signs and Symbols",
+   "author": "Vladimir Nabokov",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cuttings",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cuttings (later)",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Waking",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Elegy for Jane",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "I Knew a Woman",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "At the Fishhouses",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Questions of Travel",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Armadillo",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In the Waiting Room",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "One Art",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "author": "Tennessee Williams",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Swimmer",
+   "author": "John Cheever",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Those Winter Sundays",
+   "author": "Robert Hayden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "author": "Robert Hayden",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1757,6 +1832,126 @@
     "Comic Novel",
     "Satirical Fiction",
     "Regional Fiction"
+   ]
+  },
+  {
+   "work": "Signs and Symbols",
+   "genres": [
+    "Short Story",
+    "Modernist Fiction",
+    "Philosophical Fiction"
+   ]
+  },
+  {
+   "work": "Cuttings",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Cuttings (later)",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "The Waking",
+   "genres": [
+    "Formal Verse",
+    "Religious Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Elegy for Jane",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "I Knew a Woman",
+   "genres": [
+    "Love Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "At the Fishhouses",
+   "genres": [
+    "Nature Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Questions of Travel",
+   "genres": [
+    "Travel Writing",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Armadillo",
+   "genres": [
+    "Nature Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "In the Waiting Room",
+   "genres": [
+    "Free Verse",
+    "Confessional Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "One Art",
+   "genres": [
+    "Formal Verse",
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "genres": [
+    "Modern Tragedy",
+    "Gothic Fiction",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Swimmer",
+   "genres": [
+    "Short Story",
+    "Satirical Fiction",
+    "Modernist Fiction"
+   ]
+  },
+  {
+   "work": "Those Winter Sundays",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "genres": [
+    "Free Verse",
+    "Narrative Poetry",
+    "Lyric Poetry"
    ]
   }
  ],
@@ -2896,6 +3091,126 @@
     "Nature, ecology and environmental crisis",
     "Power, the state and surveillance"
    ]
+  },
+  {
+   "work": "Signs and Symbols",
+   "themes": [
+    "Madness, breakdown and confinement",
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Cuttings",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Cuttings (later)",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Death, illness and mourning",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Waking",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Elegy for Jane",
+   "themes": [
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "I Knew a Woman",
+   "themes": [
+    "Love, intimacy and loss",
+    "Sexuality, desire and the closet",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "At the Fishhouses",
+   "themes": [
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Questions of Travel",
+   "themes": [
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Armadillo",
+   "themes": [
+    "Violence, crime and justice",
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "In the Waiting Room",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "One Art",
+   "themes": [
+    "Love, intimacy and loss",
+    "Death, illness and mourning",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Class, labour and social mobility",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "The Swimmer",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Death, illness and mourning",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Those Winter Sundays",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "Land, place and regional belonging"
+   ]
   }
  ],
  "work_movements": [
@@ -3593,6 +3908,101 @@
     "South Asian Literature in English",
     "Postcolonial Literature"
    ]
+  },
+  {
+   "work": "Signs and Symbols",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Cuttings",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Cuttings (later)",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "The Waking",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Elegy for Jane",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "I Knew a Woman",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "At the Fishhouses",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Questions of Travel",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "The Armadillo",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "In the Waiting Room",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "One Art",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "movements": [
+    "Southern Gothic",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "The Swimmer",
+   "movements": [
+    "Late Modernism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Those Winter Sundays",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
   }
  ],
  "work_periods": [
@@ -3741,7 +4151,22 @@
     "Valentine",
     "Medusa",
     "Mrs Lazarus",
-    "Hullabaloo in the Guava Orchard"
+    "Hullabaloo in the Guava Orchard",
+    "Signs and Symbols",
+    "Cuttings",
+    "Cuttings (later)",
+    "The Waking",
+    "Elegy for Jane",
+    "I Knew a Woman",
+    "At the Fishhouses",
+    "Questions of Travel",
+    "The Armadillo",
+    "In the Waiting Room",
+    "One Art",
+    "A Streetcar Named Desire",
+    "The Swimmer",
+    "Those Winter Sundays",
+    "Summertime and the Living . . ."
    ]
   }
  ]

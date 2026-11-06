@@ -1864,6 +1864,25 @@ with broader Anglophone writing out of scope.
   Latitudes* (2006) and is out of the period. The American anthology - 156
   selections - is what remains.
 
+- **Wave 21:** the American anthology begins, with the first six of its
+  authors and one record per selection: Vladimir Nabokov ("Signs and Symbols",
+  *The New Yorker*, 15 May 1948, printed there as "Symbols and Signs"),
+  Theodore Roethke (the paired "Cuttings" and "Cuttings (later)",
+  *The Lost Son*, 1948; "The Waking" and "Elegy for Jane", *The Waking*, 1953;
+  "I Knew a Woman", *Words for the Wind*, 1958), Elizabeth Bishop ("At the
+  Fishhouses", 1947; "Questions of Travel", 1956; "The Armadillo", 1957; "In
+  the Waiting Room", 1971; "One Art", 1976), Tennessee Williams
+  (*A Streetcar Named Desire*, 1947, major record), John Cheever
+  ("The Swimmer", 1964, major record) and Robert Hayden ("Those Winter
+  Sundays" and "Summertime and the Living . . .", both *A Ballad of
+  Remembrance*, 1962). Fifteen works and six authors, all partially verified,
+  with ten new sources. Two dates were settled in the list: Hayden's "Middle
+  Passage" was first published in *Phylon* in 1945, before the period, so the
+  Norton row now reads "before 1946" and the poem is not recorded; Lowell's
+  "The Quaker Graveyard in Nantucket" and "Mr. Edwards and the Spider" are
+  both in *Lord Weary's Castle* (1946) and are therefore in period. 114 of the
+  255 selections now have records; 144 American selections remain.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -1971,4 +1990,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 143 works by 39 authors; 99 of 255 selections recorded; the English anthology's in-scope list complete) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 158 works by 45 authors; 114 of 255 selections recorded; the English anthology's in-scope list complete, the American begun) |
