@@ -1821,6 +1821,14 @@ with broader Anglophone writing out of scope.
   recorded). Twenty-seven works and ten authors, all partially verified
   except Hughes's "Out", which is unverified; 67 of the 255 selections now
   have records.
+- **Wave 17:** four more authors in Norton's order, with one record per
+  selection: V. S. Naipaul ("One Out of Many"), Wole Soyinka (*Death and the
+  King's Horseman*, major record), Caryl Churchill (*Top Girls*, major
+  record) and Seamus Heaney ("Digging", "The Grauballe Man", "Punishment",
+  "Casualty", *Station Island* and "Clearances"). Nine works and four
+  authors, all partially verified; 75 of the 255 selections now have
+  records. Les Murray's and J. G. Ballard's selections are the next in
+  Norton's order, and Heaney's two undated late poems are out of the period.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1929,4 +1937,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 110 works by 21 authors; 67 of 255 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 119 works by 25 authors; 75 of 255 selections recorded) |

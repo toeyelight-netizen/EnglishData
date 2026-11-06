@@ -1918,3 +1918,520 @@ W10("Walker Brothers Cowboy", MU, "1968", "Short story", "significant",
         "complete.",
   ver="partially verified", sources=["Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)", MUNRO_READ, NAEL]),
 ]
+
+WORKS += [
+W10("One Out of Many", VSN, "1971", "Novelette (one of the two 'supporting narratives' of In a Free State)", "significant",
+  genres=G("Novella", "Psychological Novel", "Political Novel"),
+  themes=T("Migration, exile and diaspora", "Identity, authenticity and the divided self", "Race, racism and the struggle for civil rights"),
+  movements=M(POSTCOL, SAS),
+  overview="The second of the two 'supporting narratives' in V. S. Naipaul's In a Free State (1971): Santosh, a Bombay "
+           "servant, follows his employer to Washington and discovers that freedom in America is a condition he has "
+           "no equipment to live in.",
+  content="A first-person narrative spoken by Santosh, an Indian servant who comes to Washington with a diplomat, "
+          "loses his place in the household, moves into a basement room, and finds himself alone in a country whose "
+          "codes he cannot read; his encounter with a black American woman who runs a restaurant becomes his only "
+          "means of belonging.",
+  summary="Santosh opens his story at the end, or near it: he is in Washington, and he explains how he came there as "
+          "the servant of a government man posted to the embassy, a man who had chosen him because he was "
+          "unobtrusive. In Bombay Santosh had a place, a hut, a routine and a sense of himself; on the aeroplane he "
+          "is terrified, and he hopes the plane will crash. Washington overwhelms him: the abundance of the "
+          "supermarket, the size of the buildings, the strangeness of the people he calls 'hubshi', and the "
+          "humiliation of being told he must not cook or dress as he did at home, because he now represents his "
+          "country. When his employer takes a flat in a distant suburb, Santosh is left in the city with a little "
+          "money and a basement room, and he learns to live alone: he cooks, he cleans, he walks the streets, and "
+          "he discovers that his invisibility as a servant was also his protection. He meets a black woman who "
+          "runs a restaurant and who takes him in; he is bewildered by her, by her body and by the American "
+          "openness of her manner, and he marries her, in part because marriage is the way to become legal in a "
+          "country where he otherwise does not exist. At the end he looks in a mirror and decides to be free: he "
+          "leaves his employer's service and his wife, and the story closes with him in the street, at night, one "
+          "part of the flow, and free in a way that the story has taught the reader to hear as desolation.",
+  themes_text="Naipaul's subject is the immigrant who gains the forms of freedom and loses the structure that gave him "
+              "a self: Santosh's place in Bombay was a servitude, but it was also a home, and America offers him "
+              "rights without a role. The story's racial vocabulary is deliberately uncomfortable - the narrator's "
+              "'hubshi' is the word of an Indian who has his own hierarchy of colour - and the marriage at its "
+              "centre is a transaction on both sides, a green card for the man and a servant for the woman. The "
+              "closing claim to freedom is the most ironised sentence in the book, and the story's first-person "
+              "voice, with its broken syntax and its dignity, keeps the reader inside a consciousness that cannot "
+              "see what has happened to it.",
+  structure="A first-person narrative spoken in Santosh's own idiom, beginning with the end and circling back; the "
+            "story moves by scenes - the flight, the embassy flat, the basement room, the restaurant, the "
+            "marriage, the mirror - rather than by plot, and its chronology is deliberately broken so that the "
+            "reader knows the outcome before the causes.",
+  style="A careful, slightly off-key English, with Indian idiom and a servant's deference in its phrasing; short "
+        "sentences and simple clauses; the descriptive passages are flat and exact, and the absence of metaphor is "
+        "itself the effect; the voice is dignified, observant and uncomprehending at once.",
+  ctx="In a Free State (1971) consists of a prologue and epilogue from Naipaul's journals, two 'supporting "
+      "narratives' - 'One Out of Many' and 'Tell Me Who to Kill' - and the title novella; it won the Booker Prize "
+      "in 1971. The story draws on Naipaul's own first years in London and on the Indian diaspora he had "
+      "described in An Area of Darkness (1964), and it belongs to the literature of postwar migration that "
+      "includes Selvon's London stories and Rushdie's later fiction.",
+  sig="One of Naipaul's most anthologised stories and the text by which his treatment of the immigrant's freedom is "
+      "usually introduced; it is his selection in the Norton Anthology and, with 'Tell Me Who to Kill', the "
+      "narrative that frames the Booker Prize-winning novel.",
+  canon="Secondary canon",
+  biblio="Published in In a Free State (London: André Deutsch, 1971). A selection of The Norton Anthology of English "
+         "Literature, 11th edition, vol. F, beginning on page 837.",
+  notes="The plot follows Neel Mukherjee's account of the book for The Paris Review and the character study read as "
+        "a search extract; the closing scene and the mirror are described from those sources and general "
+        "knowledge. The text was not read complete, so the record makes no quotation except the reported phrases.",
+  ver="partially verified", sources=[NAIP_PR, W_VSN, NAEL]),
+W10("Death and the King's Horseman", WS, "1975", "Play (five acts, with a prologue-like opening scene)", "major",
+  genres=G("Modern Tragedy", "Historical Drama", "Political Theatre"),
+  themes=T("History, truth and the uses of the past", "Faith, doubt and the sacred", "Power, the state and surveillance"),
+  movements=M(AFR, POSTCOL),
+  overview="Wole Soyinka's tragedy of 1975, based on an event in colonial Oyo in 1946: Elesin, the king's horseman, "
+           "must follow his dead king into the afterlife, and the intervention of a British district officer, "
+           "determined to stop what he takes for barbarism, destroys him and his family and leaves the community "
+           "unable to complete the rite on which its order depends.",
+  content="A play in five acts set in the Yoruba city of Oyo during the Second World War: Elesin prepares for his "
+          "ritual suicide, the colonial officer Simon Pilkings tries to stop it, the market women resist the "
+          "police, and Elesin's son Olunde, returned from medical studies in England, takes his father's place.",
+  summary="The play opens in a market in Oyo, where Elesin Oba, the king's horseman, moves through the crowd in a "
+          "trance of celebration: the king has died a month earlier and Elesin, who has lived a life of privilege "
+          "in expectation of this duty, is to follow him into the afterlife, and his final hours are given to "
+          "dancing, poetry and the taking of a young bride. The news reaches the house of Simon Pilkings, the "
+          "district officer, who is dressed for a masquerade ball; his subordinate Amusa, a Yoruba policeman, "
+          "reports that the ritual is about to take place, and Pilkings, confident that the customs of the "
+          "colonised are barbarous, has Elesin arrested to prevent it. The market women block Amusa's way and mock "
+          "him; the ball goes ahead at the Residency with the carved egungun mask that Pilkings' wife Jane has "
+          "turned into a costume, while Elesin waits in a cell and the ritual remains uncompleted, a rupture in "
+          "the order of the world. Olunde, Elesin's eldest son, who has been studying medicine in England, "
+          "returns on the same ship as the governor's aide and confronts Pilkings with the colonial platitude that "
+          "a father's ritual suicide is worse than the mass deaths of the war in Europe. In the last act Elesin, "
+          "broken and ashamed, is brought before Iyaloja, the mother of the market, who tells him that he has "
+          "failed; the women bring in a body wrapped in cloth - Olunde, who has killed himself to restore the "
+          "order his father failed to restore. At the sight of his son, Elesin strangles himself with his chains, "
+          "and the play ends with Iyaloja's final words over the two bodies.",
+  themes_text="The play's central subject is what Soyinka called the metaphysical dimension of the ritual: the "
+              "king's horseman must die not from superstition but because the survival of the community depends on "
+              "the passage of the king's spirit, and the colonial intervention, however humane its intention, "
+              "destroys a structure on which the world depends. The British are given their own arguments and "
+              "their own dancing bodies - the ball, the masks, the ceremonial - so that the play stages two "
+              "rituals rather than one, and refuses the comfortable opposition of superstition and reason. "
+              "Elesin's failure is also his own: the play shows him delayed by appetite and vanity before the "
+              "arrest, so that guilt is distributed. Olunde's suicide and Iyaloja's contempt close the circle, "
+              "and the ending is a tragedy of the family as much as of the state.",
+  structure="Five acts, moving between the market and the Residency, the Yoruba world and the colonial one, with a "
+            "chorus of market women and a shifting focus from Elesin to Pilkings and Olunde; the movement is "
+            "spatial and ritual rather than linear, and the final act's revelation of Olunde's body provides the "
+            "classic reversal and recognition that Soyinka has compared to Sophoclean tragedy.",
+  style="A flexible verse-like prose, rising into poetry in Elesin's speeches and the market women's exchanges; "
+        "Yoruba songs, proverbs, drum rhythms and calls and responses built into the dialogue; the colonial "
+        "speech rendered in the flat idiom of the English officer class and in a comic English-accented "
+        "pastiche by the women; the whole play assumes a performance of music, dance and masquerade.",
+  ctx="The play is based on the death in 1946 of the horseman of the Alafin of Oyo, who was prevented by the "
+      "British colonial administration from committing ritual suicide and whose son took his place; Soyinka "
+      "wrote it while in exile at the University of Cambridge, where it was first performed by the Oxford "
+      "University Dramatic Society in 1975 and published in the same year. It was written in the aftermath of "
+      "the Nigerian Civil War and of the decade in which African writers were reasserting the cultural "
+      "sovereignty of their own traditions.",
+  sig="The central play of modern African theatre in English and the work by which Soyinka's drama is usually "
+      "represented; it is his selection in the Norton Anthology and is staged across the world, and its "
+      "argument about the colonial destruction of a metaphysical world has been central to the criticism of "
+      "African drama.",
+  canon="Major canon",
+  biblio="Published by Eyre Methuen (London) in 1975, first performed in 1975. A selection of The Norton Anthology of "
+         "English Literature, 11th edition, vol. F, beginning on page 860.",
+  crit="The play has been the centre of the long debate about how African drama should be read: Soyinka's own "
+       "preface insists that the play is not about the colonial clash of cultures but about the metaphysical "
+       "order and its violation, an argument taken up by critics who read Elesin's death as a ritual necessity "
+       "rather than a defeat, while others have emphasised the play's staging of colonial complicity, its "
+       "treatment of women and its relation to Greek tragedy. Its first production at Cambridge in 1975 and its "
+       "revival at the National Theatre in 1990 established it as a modern classic, and it remains the most "
+       "widely studied African play in English.",
+  notes="The plot and the historical basis follow David Damrosch's essay on the play for Literary Hub, which quotes "
+        "Iyaloja's 'burden' and Olunde's 'Is that worse than mass suicide?'; the reading is the record's own. The "
+        "play's first performance and publication dates were not checked beyond that source and general "
+        "knowledge.",
+  ver="partially verified", sources=[SOY_LH, W_WS, NAEL]),
+]
+
+WORKS += [
+W10("Top Girls", CC, "1982", "Play (three acts)", "major",
+  genres=G("Stage Comedy", "Modern Tragicomedy", "Political Theatre"),
+  themes=T("Gender, feminism and women's lives", "Class, labour and social mobility", "History, truth and the uses of the past"),
+  movements=M("Second-Wave Feminist Writing", "Political Theatre and the Fringe"),
+  overview="Caryl Churchill's play of 1982, first staged at the Royal Court: Marlene, a newly promoted manager at a "
+           "London employment agency, gives a dinner party for five women out of history and legend, and the play's "
+           "other two acts show the office she has conquered and the sister and daughter she has left behind.",
+  content="A play in three acts: a surreal dinner party at which Marlene entertains Pope Joan, the explorer Isabella "
+          "Bird, Dull Gret from Bruegel, Chaucer's Patient Griselda and the Japanese courtesan Lady Nijo; a week "
+          "in the 'Top Girls' employment agency, where women compete for jobs and Marlene's ruthlessness is on "
+          "show; and a visit to Marlene's sister Joyce and her daughter Angie, in a Suffolk backwater, which "
+          "reveals the cost of Marlene's success.",
+  summary="Act One is the dinner party: Marlene, celebrating her promotion, is joined by five guests drawn from "
+          "history, art and literature, each of whom tells the story of her life. Pope Joan, who was stoned after "
+          "giving birth during a papal procession; Isabella Bird, the Victorian traveller; Dull Gret, who led an "
+          "army of women into hell; Patient Griselda, whose husband tested her by taking her children; and Lady "
+          "Nijo, the courtesan of a thirteenth-century emperor, all speak of the sacrifices and cruelties their "
+          "worlds demanded of women, and the conversation slides from celebration into confession, complaint and "
+          "sudden violence. Act Two is the office: Marlene's agency, where women are interviewed, humiliated and "
+          "selected, and where Marlene's toughness - she has beaten a male colleague to the promotion - is shown "
+          "to be inseparable from the system she has entered. Act Three is set a year earlier, at Christmas in "
+          "Suffolk, in the kitchen of Marlene's sister Joyce: Angie, a sullen teenager, and Kit, the child she "
+          "looks after, are there, and the sisters' quarrel reveals that Marlene's rise was paid for by Joyce, who "
+          "stayed and brought up Angie - Marlene's daughter, passed off as her niece. The play closes with Angie's "
+          "hallucinated cry of 'frightening' and Marlene's refusal to hear it.",
+  themes_text="The play asks what a woman has to become in order to succeed, and answers with a structure rather "
+              "than a moral: Marlene's career is real and her toughness is real, and the price is paid by Joyce and "
+              "Angie, whose lives are the unseen condition of the office's glamour. The historical guests widen the "
+              "question, since every one of them was praised or punished for the same bargain, and the "
+              "cross-cutting of acts makes the play an argument about class as well as gender: Marlene's feminism "
+              "is a middle-class individualism, and the working-class woman who stays at home is the one who "
+              "subsidises it. Churchill's refusal to provide a sympathetic heroine is the play's most radical "
+              "gesture, and its political target is Thatcherism as much as patriarchy.",
+  structure="Three acts in reverse chronology, the dinner party, the office week and the Suffolk Christmas of the "
+            "previous year; the acts are linked by doubling (the actresses who play the historical women play the "
+            "modern characters) and by overlapping dialogue, and the play's final image belongs to the child "
+            "rather than the protagonist.",
+  style="Overlapping dialogue, with two or three conversations crossing at once; short scenes cut without "
+        "transition; the historical women speak in pastiche registers - medieval chronicle, Victorian travel "
+        "writing, Chaucer's rhyme royal - while the office scenes use the clipped idiom of the employment "
+        "interview; the play's language is plain and its structure is the argument.",
+  ctx="Written in 1982, the third year of Margaret Thatcher's government, and premiered at the Royal Court on 28 "
+      "August 1982 in a production by Max Stafford-Clark; it was the play in which Churchill's feminism and her "
+      "analysis of the market met, and it has been revived repeatedly (the National Theatre, 2019) as a document "
+      "of the Thatcher years.",
+  sig="Churchill's best-known play and one of the defining British plays of the 1980s; its all-female cast, its "
+      "overlapping dialogue and its refusal of a heroine changed the possibilities of political theatre, and it is "
+      "her selection in the Norton Anthology.",
+  canon="Major canon",
+  biblio="First performed at the Royal Court Theatre, London, on 28 August 1982; published by Methuen in 1982. A "
+         "selection of The Norton Anthology of English Literature, 11th edition, vol. F, beginning on page 911.",
+  crit="Criticism of Top Girls has centred on three questions: whether the play endorses or exposes Marlene's "
+       "Thatcherite feminism, whether its historical women illuminate or displace the modern story, and whether "
+       "the Suffolk act, with its realism and its child, offers the play's judgement or merely its context. "
+       "Feminist critics have debated the play's treatment of class and race, and later productions have "
+       "emphasised the office scenes' satire of the recruitment industry. It is the play by which Churchill's "
+       "political theatre is most widely taught, and it has been set beside Cloud 9 and Serious Money as the "
+       "central trilogy of her critique of power.",
+  notes="The premiere, cast and subject follow Wikipedia's article on the play; the plot account uses that article's "
+        "acts and characters and general knowledge of the text. The full play was not read, so the record makes no "
+        "quotation and its reading of the ending is stated as the play's reported action.",
+  ver="partially verified", sources=[W_TG_PLAY, W_CC, NAEL]),
+]
+
+WORKS += [
+W10("Digging", SH, "1966", "Poem (eight stanzas)", "major",
+  genres=G("Lyric Poetry", "Regional Poetry"),
+  themes=T("Class, labour and social mobility", "Family, marriage and domestic life", "Art, the artist and the creative life"),
+  movements=M("Northern Irish Poetry and the Belfast Group",),
+  overview="The poem that opens Seamus Heaney's first collection, Death of a Naturalist (1966): the poet at his desk "
+           "watches his father digging potatoes below the window, remembers his grandfather cutting turf on the bog, "
+           "and resolves, in the poem's last line, to take up the pen as his own spade and dig with it.",
+  content="Eight stanzas of memory and observation: the father's spade sinking into the potato drills under the "
+          "window, his rhythm and the sounds and smells of the work, the grandfather cutting turf on Toners bog "
+          "thirty years before, and the poet's decision, with the pen between his finger and thumb, that he will "
+          "dig with it.",
+  summary="'Between my finger and my thumb / The squat pen rests; snug as a gun.' Under the window the father's "
+          "spade is 'sinking' into the gravelly ground, and the poet looks down at him through the pane: he has no "
+          "spade like the men of the family, and the poem's opening places the pen in the hand as an awkward, "
+          "unearned instrument. The father, who dug potatoes on the family farm for forty years, has a rhythm the "
+          "poet remembers - the 'coarse boot' on the spade, the 'clean rasping sound' of the blade among the "
+          "'cold smell of potato mould' - and the grandfather cut more turf in a day than any other man on "
+          "Toners bog, the last time the poet saw him. Both men dug for a living, and their labour produced the "
+          "potatoes and the turf that fed and warmed the family; the poet's work produces nothing but the poem. "
+          "The last stanza resolves the difficulty by an act of analogy rather than of claim: 'Between my finger "
+          "and my thumb / The squat pen rests. / I'll dig with it.' The pen is not a spade, but the poem makes "
+          "digging the image of both, and the word 'dig' carries the whole argument about inheritance, work and "
+          "the poet's right to his own tool. The father's spade and the grandfather's turf-slane are both "
+          "instruments of a skill the poet does not possess, and the poem's exactness about that skill - the "
+          "boot, the handle, the 'nicking and slicing' of the turf - is how it pays its respects; the closing "
+          "claim is therefore modest as well as bold, since it asks only that the pen be allowed to count as "
+          "work. Heaney's later poems return to the same ground, and 'Digging' sets the terms for a career in "
+          "which the farm at Mossbawn is the measure of everything the poetry does.",
+  themes_text="The poem is about inheritance and vocation: the poet comes from a family of diggers and has no spade "
+              "of his own, and the poem's task is to find a way of claiming the labour he did not do. The father's "
+              "expertise, rendered with an exactness that is itself a form of respect, is set against the poet's "
+              "sedentary work, and the closing analogy refuses both the sentimental claim that poetry is the same "
+              "as digging and the resigned claim that it has nothing to do with it. Class and the move from farm "
+              "to university are present throughout, and the poem's 'snug as a gun' is a deliberate shock: the pen "
+              "is both comfort and weapon, and its power is not innocent.",
+  structure="Eight stanzas of variable length, opening with the pen and closing with the pen, with the father's "
+            "digging and the grandfather's turf in between; the poem's frame is the window through which the poet "
+            "looks, and its movement is from observation to memory to decision.",
+  style="A four-beat line with loose rhyme and half-rhyme, heavy with consonantal sound ('the squelch and slap / "
+        "Of soggy peat'); the vocabulary is drawn from farm work and is exact ('gravelly', 'rasping', 'sod', "
+        "'mould'); the poem's music is in its stresses rather than its metre, and the opening simile and the "
+        "closing line are deliberately plain.",
+  ctx="Death of a Naturalist (Faber, 1966) was Heaney's first collection, published when he was twenty-seven and "
+      "living in Belfast, and it made him the leading poet of the Northern Irish generation that also included "
+      "Michael Longley and Derek Mahon. The poem draws on the family farm at Mossbawn and on Heaney's own passage "
+      "from the farm to Queen's University, and it has become the standard poem about the poet's relation to a "
+      "manual-labour inheritance in English.",
+  sig="The poem that opens Heaney's first book and the one by which his whole career is usually introduced; it is "
+      "his first selection in the Norton Anthology, and its closing analogy has entered the common language of "
+      "writing about poetry and work. It is the poem most often taught as an introduction to Heaney, and the one "
+      "in which his themes of inheritance, labour and vocation are first set out.",
+  canon="Major canon",
+  biblio="Published as the opening poem of Death of a Naturalist (London: Faber and Faber, 1966) and collected in "
+         "Opened Ground: Selected Poems 1966-1996 (1998). A selection of The Norton Anthology of English "
+         "Literature, 11th edition, vol. F, beginning on page 969.",
+  crit="'Digging' has been read as the founding poem of Heaney's career and as the clearest statement of the "
+       "postwar poet's relation to a manual-labour inheritance; critics have traced its analogy of spade and pen "
+       "through his later work, and have debated whether the closing line claims too much for poetry or "
+       "dignifies it. Its place at the head of Death of a Naturalist has made it the standard point of entry to "
+       "the collection, and it is among the most frequently anthologised poems in English of the second half of "
+       "the century.",
+  notes="The opening and closing lines and the phrases 'squelch and slap / Of soggy peat' and 'cold smell of potato "
+        "mould' are quoted from the text as printed in the reading list and in general knowledge; the poem's "
+        "stanza count follows the standard printing and was not collated with the 1966 edition.",
+  ver="partially verified", sources=[SH_WORKS, W_SH, NAEL]),
+W10("The Grauballe Man", SH, "1975", "Poem (eight stanzas)", "significant",
+  genres=G("Elegiac Poetry", "Historical Writing"),
+  themes=T("The Holocaust, atrocity and historical memory", "Violence, crime and justice", "History, truth and the uses of the past"),
+  movements=M("Northern Irish Poetry and the Belfast Group",),
+  overview="One of the bog-body poems of North (1975): Heaney looks at the preserved body of the Grauballe Man, "
+           "killed in the Iron Age and dug from a Danish bog, and asks what it means to make a poem out of a "
+           "murder.",
+  content="Eight stanzas describing the exhumed body - the throat cut, the hands, the leathery skin, the 'slashed "
+          "and festering' wound - and turning from the corpse to the question of the poet's own art and of the "
+          "violence of the present.",
+  summary="The poem begins with the body itself, 'taken in the bog', and describes it with the exactness of an "
+          "archaeological report: the head, the 'perished' face, the 'slashed and festering' throat, the hands "
+          "that seem to be 'bruised like a mollusc', the 'leathery' skin. Heaney compares the corpse to a work of "
+          "art, a 'Dying Gaul' and a 'reclining figure', and then turns the comparison against himself: 'Who will "
+          "say 'vigour' to the face, / 'beauty' to the wound?' The poem's last stanzas move outward to the "
+          "present, to the 'tribal, intimate revenge' that the body records, and to the poet's own position as "
+          "one who has looked at the corpse and made a poem of it. The Grauballe Man was found in a Danish bog in "
+          "1952, and Heaney's poem belongs with 'The Tollund Man', 'Bog Queen' and 'Punishment' in the sequence of "
+          "bog poems that makes the prehistoric past a mirror for the sectarian violence of Northern Ireland.",
+  themes_text="The poem's central question is the ethics of art: to describe the murdered body beautifully is to "
+              "repeat, in aesthetic form, the violence that killed it, and Heaney's adjectives are chosen to make "
+              "the reader complicit in that repetition. The bog body is also a political image, since the "
+              "'tribal, intimate revenge' of the Iron Age is offered as a parallel to the killings of the "
+              "Troubles, and the poem refuses to let the parallel become an excuse. The writing's tenderness "
+              "towards the corpse and its suspicion of its own tenderness are held together, and the poem's "
+              "unresolved ending is its argument.",
+  structure="Eight stanzas of varying length, moving from the body's parts to the poet's reflection and then to the "
+            "tribal past and the present; the poem is organised as a description that becomes a judgement, and its "
+            "last stanza turns from the body to the poet's own consciousness.",
+  style="A dense, consonantal line with archaeological and anatomical vocabulary; the similes are deliberately "
+        "incongruous ('bruised like a mollusc', 'a Dying Gaul'), and the poem's tension lies between the "
+        "precision of the description and the moral discomfort it produces; the rhyme is intermittent and the "
+        "stanza forms are irregular.",
+  ctx="North (Faber, 1975) was written after Heaney's move south to County Wicklow and in the worst years of the "
+      "Troubles; the bog poems draw on P. V. Glob's The Bog People (1965), which Heaney read in the late 1960s, and "
+      "on the archaeological discoveries of Tollund, Grauballe and other Danish and Irish bodies. The collection "
+      "was controversial for its use of myth and prehistory as a way of writing about contemporary political "
+      "violence.",
+  sig="One of the central bog poems of North and the poem in which Heaney's treatment of art and atrocity is most "
+      "directly posed; it is his second selection in the Norton Anthology and a standard text in the criticism of "
+      "Northern Irish poetry.",
+  canon="Secondary canon",
+  biblio="Published in North (London: Faber and Faber, 1975) and collected in Opened Ground (1998). A selection of "
+         "The Norton Anthology of English Literature, 11th edition, vol. F, beginning on page 970.",
+  notes="The poem's subject and the phrases quoted ('slashed and festering', 'tribal, intimate revenge') follow the "
+        "reading list and the Harvard Review's account of the bog poems; the stanza count and the description of "
+        "the opening were checked there and in general knowledge, and the text was not read complete.",
+  ver="partially verified", sources=[SH_WORKS, SH_HR, SH_READ, NAEL]),
+]
+
+WORKS += [
+W10("Punishment", SH, "1975", "Poem (eleven quatrains)", "significant",
+  genres=G("Political Poetry", "Elegiac Poetry"),
+  themes=T("Violence, crime and justice", "Gender, feminism and women's lives", "History, truth and the uses of the past"),
+  movements=M("Northern Irish Poetry and the Belfast Group",),
+  overview="The most controversial of the bog poems of North (1975): Heaney addresses the body of a young woman "
+           "executed in the Iron Age for adultery, and connects her punishment with the tarring and feathering of "
+           "young Catholic women in Belfast, admitting that he would have stood by and watched.",
+  content="Eleven quatrains: the exhumed body of the 'Windeby girl' in her noose, the poet's intimate address to her "
+          "as 'my poor scapegoat', and his recognition that he has looked on, and would look on, at the same "
+          "punishment in the streets of his own time.",
+  summary="The poem begins with the body: 'I can feel the tug / of the halter at the nape / of her neck, the wind / "
+          "on her naked front.' Heaney addresses the dead woman with a terrible intimacy, naming her body part by "
+          "part - the 'frail rigging of ribs', the 'drowned' breasts, the 'stone of the tribe' at her ankles - and "
+          "imagining her shaved head and her 'blinded' face. He reads her as an adulteress punished by her "
+          "community, and then makes the connection that has made the poem famous and notorious: to the young "
+          "Catholic women of Belfast who were tarred and feathered for keeping company with British soldiers, "
+          "'cauled in tar' and 'caged' on the railings. The poem's last quatrains are the confession: he "
+          "understands the 'exact and mutual' moment of the punishment, and he admits that he would have cast "
+          "stones with the tribe, and would have stood by, 'artfully' - the word is the poem's self-indictment - "
+          "while the punishment was "
+          "carried out. The poem ends with his identification with both the victim and the executioners, and the "
+          "admission is not resolved.",
+  themes_text="'Punishment' is an examination of complicity: the poet's empathy for the murdered woman is turned "
+              "against him, since the same tribal logic that killed her operates in his own community, and he "
+              "confesses that he would have been part of it. The poem's sexual politics are inseparable from its "
+              "politics of violence: the woman is punished for her sexuality, and the 'tribal, intimate revenge' "
+              "of the Iron Age is offered as the pattern of the sectarian punishment of women in Belfast. The "
+              "address to the body gives the victim a voice that the poem also takes from her, and the "
+              "self-accusation is Heaney's way of refusing the consolations of the historical parallel.",
+  structure="Eleven quatrains, mostly unrhymed, moving from the intimate description of the body to the modern "
+            "parallel and then to the poet's confession; the poem's turn comes at the moment of connection "
+            "between past and present, and its last stanza returns to the 'artful' position of the watcher.",
+  style="Heaney's dense consonantal line at its most physical, with anatomical and archaeological terms "
+        "('halter', 'rigging of ribs', 'stone of the tribe'); the direct address ('my poor scapegoat') gives the "
+        "poem its intimacy, and the switch into the language of contemporary Belfast ('cauled in tar', "
+        "'tar-black face') breaks the archaeological frame.",
+  ctx="North (1975) was written in the worst years of the Troubles, and 'Punishment' was read by some critics as "
+      "an apology for Republican violence and by others as the strongest example of Heaney's refusal of easy "
+      "positions; the tarring and feathering of women in Belfast was a documented practice of the early 1970s. "
+      "The poem has been central to the critical debate about Heaney's politics ever since.",
+  sig="The most discussed and most controversial poem in North and the one on which the argument about Heaney's "
+      "politics has principally turned; it is his third selection in the Norton Anthology and a standard text in "
+      "courses on poetry and the Troubles.",
+  canon="Major canon",
+  biblio="Published in North (London: Faber and Faber, 1975) and collected in Opened Ground (1998). A selection of "
+         "The Norton Anthology of English Literature, 11th edition, vol. F, beginning on page 971.",
+  notes="The opening lines and the phrases 'my poor scapegoat', 'cauled in tar' and 'artfully' are quoted from the "
+        "reading list and general knowledge of the poem; the paraphrase of the last stanza follows the poem's "
+        "reported admission and does not claim to reproduce its exact words.",
+  ver="partially verified", sources=[SH_READ, SH_WORKS, NAEL]),
+]
+
+WORKS += [
+W10("Casualty", SH, "1979", "Poem (six sections)", "significant",
+  genres=G("Elegiac Poetry", "Political Poetry"),
+  themes=T("War, combat and its aftermath", "Death, illness and mourning", "Faith, doubt and the sacred"),
+  movements=M("Northern Irish Poetry and the Belfast Group",),
+  overview="The elegy at the centre of Field Work (1979) for Louis O'Neill, a Belfast fisherman and drinking companion "
+           "killed in a pub bombing after breaking the curfew that followed Bloody Sunday, and a poem about the "
+           "cost of Heaney's own refusal to take sides.",
+  content="Six sections of memory and elegy: the dead man's dignity and independence, his refusal to be told where he "
+          "could drink, the bombing that killed him, and the poet's visit to the morgue and to the funeral, with "
+          "the 'richt' of the requiem mass and the guilt of the survivor.",
+  summary="The poem begins with the fisherman's world - the boats, the water, the 'promising' morning - and with the "
+          "dead man's character: he was a man of 'dignity' and stubborn independence, who would not be ordered "
+          "about, and who on the night of the bombing went out to drink despite the curfew, because to stay in "
+          "would have been to accept the conditions the violence imposed. Heaney remembers his own meetings with "
+          "him, the drink and the talk, and then the killing: a bomb in a pub, the body brought in, the "
+          "'armless' and 'blinded' corpse, the morgue, the funeral and the burial. The poem's later sections turn "
+          "to the poet's own position, to the guilt of the man who did not go out that night, and to the "
+          "'omissions' and 'substitutions' of a life that has been spared; the ending invokes the ritual language "
+          "of the requiem - 'the richt' - and the poem's closing image is of the dead man as a kind of "
+          "sacramental figure, a casualty of a war whose terms he refused. The poem is an elegy for a friend and a "
+          "meditation on the poet's relation to the violence around him, and it is the most personal of Heaney's "
+          "Troubles poems.",
+  themes_text="'Casualty' is about a death that is also a judgement: the fisherman's refusal to observe the curfew "
+              "is an assertion of freedom, and the bomb that kills him is the violence of a community that will "
+              "not leave its members alone. Heaney's guilt is that he stayed in, and the poem refuses to "
+              "congratulate him: the elegy measures his own caution against his friend's recklessness. The "
+              "religious language of the requiem and the 'richt' gives the death a ritual frame, but the poem's "
+              "consolation is incomplete, and its last image holds the dead man at a distance the poem cannot "
+              "close.",
+  structure="Six numbered sections, moving from the fisherman's world and character to the killing, the morgue, the "
+            "funeral and the poet's reflection; the sections alternate between narrative and meditation, and the "
+            "poem's last movement is a prayer-like address.",
+  style="A plain, moving, largely unrhymed verse that allows the narrative to carry the emotion; the diction is "
+        "colloquial and Ulster-inflected, with liturgical phrases used sparingly; the elegy's power comes from "
+        "its restraint, and the poem is among the least 'poetic' in Field Work.",
+  ctx="Field Work (Faber, 1979) was written in Glanmore, County Wicklow, where Heaney had moved in 1972, and it "
+      "marks his turn from the mythic method of North to a more personal and local poetry. Louis O'Neill was "
+      "killed in a bomb attack on a pub in Belfast in 1973, after the curfew imposed on the Falls Road following "
+      "Bloody Sunday (30 January 1972).",
+  sig="Heaney's most direct and most personal poem about the Troubles and the central elegy of Field Work; it is "
+      "his fourth selection in the Norton Anthology and a standard text in the criticism of his politics.",
+  canon="Major canon",
+  biblio="Published in Field Work (London: Faber and Faber, 1979) and collected in Opened Ground (1998). A "
+         "selection of The Norton Anthology of English Literature, 11th edition, vol. F, beginning on page 972.",
+  crit="Critics have treated 'Casualty' as Heaney's most candid poem about the Troubles, reading the fisherman's "
+       "defiance as a rebuke to the poet's caution and the elegy as an act of expiation; it has also been "
+       "discussed for its use of the Catholic requiem, which gives the poem a communal frame that Heaney's own "
+       "position in the sectarian conflict could not supply. Along with 'The Strand at Lough Beg' and the bog "
+       "poems, it is central to the debate about whether Heaney's poetry rises to the political crisis of his "
+       "time.",
+  notes="The plot follows the account in the reading list and the Harvard Review review, which agree on the "
+        "fisherman friend killed in a pub bombing after the curfew; the sections and the requiem language are "
+        "described from general knowledge of the poem, and the text was not read complete.",
+  ver="partially verified", sources=[SH_READ, SH_HR, SH_WORKS, NAEL]),
+]
+
+WORKS += [
+W10("Station Island", SH, "1984", "Poem (a twelve-section sequence)", "significant",
+  genres=G("Narrative Poetry", "Long Poem", "Religious Poetry"),
+  themes=T("Faith, doubt and the sacred", "Death, illness and mourning", "History, truth and the uses of the past"),
+  movements=M("Northern Irish Poetry and the Belfast Group",),
+  overview="The title sequence of Heaney's 1984 collection: a poet makes the three-day pilgrimage to Lough Derg, the "
+           "station island of Saint Patrick's Purgatory in County Donegal, and is visited by the dead of his own "
+           "life and of Irish history, Norton printing the twelfth and last section.",
+  content="Twelve sections, spoken by a pilgrim who circles the island's penitential beds and fasts and prays with the "
+          "barefoot pilgrims, and who is met in turn by a schoolteacher, a murdered cousin, a victim of the "
+          "Troubles and a series of Irish writers, most memorably James Joyce, each of whom demands an account of "
+          "him.",
+  summary="The sequence takes the poet to Lough Derg, the island in County Donegal where, since the middle ages, "
+          "pilgrims have kept a three-day vigil of fasting, barefoot circling of the penitential beds and "
+          "all-night prayer. The pilgrim is at first an observer, self-conscious about his own scepticism and his "
+          "reluctance to join in; then the dead begin to appear to him. In section VI he meets the ghost of a "
+          "cousin murdered during the Troubles, whom he had avoided in life; in section VII a victim of sectarian "
+          "violence asks him to remember; in section VIII his schoolteacher, who had told him to write, reappears "
+          "as a demanding 'Master'; in section IX he is visited by the ghost of James Joyce, who mocks his "
+          "pieties, tells him to write for the joy of it and, in the celebrated exchange, taunts him about the "
+          "Irish corpse road and the 'soul' he is carrying. The twelfth section, printed in the Norton Anthology, "
+          "is the last of the sequence and the most intimate: the pilgrim, watching a child in the church, takes "
+          "the hand of a woman beside him and remembers his own childhood, and the sequence ends with a vision of "
+          "a train carrying the dead away and the poet's sense of a peace that is 'utterly empty'.",
+  themes_text="The sequence is an examination of conscience in the traditional sense, and its subject is the poet's "
+              "responsibility: to the dead of his family and of the Troubles, to the writers who made his "
+              "language, and to the community whose violence he has written about but not suffered. Lough Derg "
+              "provides the pattern - a pilgrimage in which the penitent is confronted with what he has "
+              "suppressed - and the appearance of Joyce turns the religious exercise into a literary one, since "
+              "the dead make their demands in the name of art as well as of faith. The last section's vision "
+              "offers no consolation, only a clearing in which the poet is left alone with the ordinary.",
+  structure="Twelve sections of different lengths and forms, some in quatrains and some in longer stanzas, moving "
+            "from the outer world of the pilgrimage to the inner world of the visitations; the sequence has the "
+            "shape of the three-day vigil itself, and the final section is the quietest and the most personal.",
+  style="A flexible stanzaic verse, moving between the descriptive and the conversational; the ghostly dialogues "
+        "are in a plain, spoken idiom, and Joyce's speech is given a bristling Dublin cadence; the last section "
+        "modulates into a slower, more lyrical movement, with a repeated image of the empty peace.",
+  ctx="Station Island (Faber, 1984) followed Heaney's move south and the public controversy over North; the Lough "
+      "Derg pilgrimage, which he had made as a young man, gave him a structure for a poem about the claims of the "
+      "dead. The sequence's meeting with Joyce is one of the most discussed moments in postwar Irish poetry.",
+  sig="The central sequence of Heaney's mid-career and the poem in which his argument with his own inheritance is "
+      "most fully dramatised; the Norton Anthology prints the twelfth section, and the record covers the whole "
+      "sequence as the source of that selection.",
+  canon="Major canon",
+  biblio="Published in Station Island (London: Faber and Faber, 1984) and collected in Opened Ground (1998). The "
+         "Norton Anthology prints section 12, beginning on page 975; this record covers the whole sequence.",
+  notes="The account follows the description of the sequence in the literary reference entry and general knowledge "
+        "of the poem, including the meetings with the murdered cousin, the schoolmaster and Joyce; the final "
+        "section is described from the Norton list's bracketed first line and from general knowledge, and the "
+        "text was not read complete.",
+  ver="partially verified", sources=[SH_WORKS, W_SH, NAEL]),
+W10("Clearances", SH, "1987", "Poem (a sequence of eight sonnets)", "significant",
+  genres=G("Elegiac Poetry", "Lyric Poetry"),
+  themes=T("Death, illness and mourning", "Family, marriage and domestic life", "Memory, trauma and testimony"),
+  movements=M("Northern Irish Poetry and the Belfast Group",),
+  overview="The eight-sonnet sequence at the centre of The Haw Lantern (1987), written after the death of Heaney's "
+           "mother in 1984, which remembers her through a handful of domestic scenes and ends at her deathbed.",
+  content="Eight sonnets, most of them recalling a single moment of family life - peeling potatoes with his mother, "
+          "folding sheets, the words of a Protestant great-grandmother - and the last of them describing her "
+          "death and the 'clearance' her absence leaves.",
+  summary="The sequence is composed of eight sonnets, each a separate memory, and their accumulated force is the "
+          "poem. The first recalls a cobblestone thrown at the young poet, aimed, as he now understands, at his "
+          "great-grandmother, a Protestant who married a Catholic and was derided for it; the third remembers "
+          "peeling potatoes alone in the kitchen with his mother while the rest of the household was away at "
+          "Mass, an intimacy the poem sets against the priest's prayers at her deathbed; the fifth has mother and "
+          "son unpinning and folding sheets together, the linen becoming sails and, though the word is not used, a "
+          "shroud. The sixth remembers her teaching him to split a coal block by finding the grain. The last "
+          "sonnet describes her death: the family round the bed, the 'pulsebeat' failing at the wrist, the "
+          "breath, and the 'clearance' that opens where she was, an emptiness the survivors inherit. The title "
+          "carries both senses: the political 'clearances' of Irish history and the cleared space of grief, and "
+          "the sequence is Heaney's most sustained poem of family love.",
+  themes_text="The sequence's subject is the ordinary intimacy of a mother and son, rendered through domestic work "
+              "rather than statement, and the grief that follows its loss. The religious frame is present but "
+              "displaced: the priest's prayers for the dying are set against the memory of peeling potatoes, and "
+              "the poem prefers the sacrament of shared work. 'Clearance' also implicates Irish history, since the "
+              "word names the dispossession of the Catholic population, and the sequence's private loss is set "
+              "within a longer history of the land and of the family's mixed inheritance.",
+  structure="Eight sonnets, each a discrete memory, with the sequence moving from childhood and the "
+            "great-grandmother's story, through the domestic scenes, to the deathbed and its aftermath; the "
+            "sonnet form gives each memory its completeness, and the sequence's order is emotional rather than "
+            "chronological.",
+  style="The sonnet used with great freedom: lines of nine to twelve syllables, rhyme schemes varied or "
+        "abandoned, heavy enjambment, and a diction that moves between the domestic and the liturgical; the "
+        "sequence's music is quiet and its images are drawn from kitchen, linen and coal.",
+  ctx="The Haw Lantern (Faber, 1987) was written after the death of Heaney's mother, Margaret Kathleen Heaney, in "
+      "1984, and the sonnet sequence at its centre is the collection's acknowledged heart; Heaney had used the "
+      "sonnet sequence before in 'Glanmore Sonnets', and here he turned it to elegy.",
+  sig="Heaney's most admired elegiac sequence and the central poem of The Haw Lantern; it is his sixth selection in "
+      "the Norton Anthology and one of the most frequently anthologised sequences in postwar English poetry.",
+  canon="Major canon",
+  biblio="Published in The Haw Lantern (London: Faber and Faber, 1987) and collected in Opened Ground (1998). A "
+         "selection of The Norton Anthology of English Literature, 11th edition, vol. F, beginning on page 977.",
+  notes="The sequence's form and several of its scenes - the potato peeling, the folded sheets, the coal block and "
+        "the deathbed - are described from the line-by-line notes read as a search extract and from the New York "
+        "Review of Books review, which agree on the eight sonnets and the mother's death in 1984; the text was not "
+        "read complete.",
+  ver="partially verified", sources=[CLEAR_READ, NYRB_HAW, SH_WORKS, NAEL]),
+]

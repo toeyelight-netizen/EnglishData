@@ -17,6 +17,14 @@
    ]
   },
   {
+   "author": "Caryl Churchill",
+   "genres": [
+    "Modern Tragicomedy",
+    "Political Theatre",
+    "Stage Comedy"
+   ]
+  },
+  {
    "author": "Chinua Achebe",
    "genres": [
     "Realist Fiction",
@@ -236,6 +244,19 @@
    ]
   },
   {
+   "author": "Seamus Heaney",
+   "genres": [
+    "Elegiac Poetry",
+    "Historical Writing",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Regional Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "genres": [
     "Elegiac Poetry",
@@ -265,12 +286,28 @@
    ]
   },
   {
+   "author": "V. S. Naipaul",
+   "genres": [
+    "Novella",
+    "Political Novel",
+    "Psychological Novel"
+   ]
+  },
+  {
    "author": "W. H. Auden",
    "genres": [
     "Formal Verse",
     "Lyric Poetry",
     "Pastoral and Rural Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "author": "Wole Soyinka",
+   "genres": [
+    "Historical Drama",
+    "Modern Tragedy",
+    "Political Theatre"
    ]
   }
  ],
@@ -286,6 +323,13 @@
    "author": "Alice Munro",
    "movements": [
     "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "author": "Caryl Churchill",
+   "movements": [
+    "Political Theatre and the Fringe",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -420,6 +464,12 @@
    ]
   },
   {
+   "author": "Seamus Heaney",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "movements": []
   },
@@ -437,8 +487,22 @@
    ]
   },
   {
+   "author": "V. S. Naipaul",
+   "movements": [
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
    "author": "W. H. Auden",
    "movements": []
+  },
+  {
+   "author": "Wole Soyinka",
+   "movements": [
+    "African Literature in English",
+    "Postcolonial Literature"
+   ]
   }
  ],
  "author_themes": [
@@ -457,6 +521,14 @@
     "Childhood, adolescence and coming of age",
     "Class, labour and social mobility",
     "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Caryl Churchill",
+   "themes": [
+    "Class, labour and social mobility",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past"
    ]
   },
   {
@@ -707,6 +779,22 @@
    ]
   },
   {
+   "author": "Seamus Heaney",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Memory, trauma and testimony",
+    "The Holocaust, atrocity and historical memory",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "themes": [
     "Art, the artist and the creative life",
@@ -743,6 +831,14 @@
    ]
   },
   {
+   "author": "V. S. Naipaul",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "W. H. Auden",
    "themes": [
     "Faith, doubt and the sacred",
@@ -751,6 +847,14 @@
     "Power, the state and surveillance",
     "Violence, crime and justice",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Wole Soyinka",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past",
+    "Power, the state and surveillance"
    ]
   }
  ],
@@ -993,6 +1097,38 @@
    ]
   },
   {
+   "author": "V. S. Naipaul",
+   "sources": [
+    "Displacing the Displacement Novel: V. S. Naipaul's In a Free State (Neel Mukherjee, The Paris Review)",
+    "V. S. Naipaul (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Wole Soyinka",
+   "sources": [
+    "On Wole Soyinka's Death and the King's Horseman (David Damrosch, Literary Hub)",
+    "Wole Soyinka (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Caryl Churchill",
+   "sources": [
+    "Caryl Churchill (Wikipedia)",
+    "Top Girls (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Seamus Heaney",
+   "sources": [
+    "100 Poems by Seamus Heaney (Harvard Review)",
+    "Seamus Heaney (Wikipedia)",
+    "Seamus Heaney's principal poems (reading site, irisharoundtheworld)",
+    "Seamus Heaney, 'Clearances' (reading site, fawbie.info)",
+    "Seamus Heaney: Works (Ricorso bibliography)",
+    "Second Thoughts (New York Review of Books, on Heaney's The Haw Lantern)"
+   ]
+  },
+  {
    "author": "Alice Munro",
    "sources": [
     "Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)",
@@ -1002,6 +1138,7 @@
   {
    "author": "Geoffrey Hill",
    "sources": [
+    "Caryl Churchill (Wikipedia)",
     "Geoffrey Hill, 'Requiem for the Plantagenet Kings' (poeticous text)",
     "Geoffrey Hill, Broken Hierarchies: Poems 1952-2012 (Oxford University Press contents)",
     "The Life of Samuel Johnson, 6 volumes (Birkbeck Hill edition)",
