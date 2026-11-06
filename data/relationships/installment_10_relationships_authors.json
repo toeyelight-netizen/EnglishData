@@ -1,6 +1,14 @@
 {
  "author_genres": [
   {
+   "author": "Dylan Thomas",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
    "author": "George Orwell",
    "genres": [
     "Collected Letters",
@@ -37,6 +45,17 @@
    ]
   },
   {
+   "author": "Kamau Brathwaite",
+   "genres": [
+    "Experimental Poetry",
+    "Literary Essay",
+    "Lyric Poetry",
+    "Political Poetry",
+    "Postcolonial Criticism",
+    "Visual Poetry"
+   ]
+  },
+  {
    "author": "Lorraine Hansberry",
    "genres": [
     "Domestic Drama",
@@ -51,6 +70,28 @@
     "Political Theatre",
     "Social Realist Drama",
     "Television Drama"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "genres": [
+    "Light Verse",
+    "Performance Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "genres": [
+    "Experimental Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "genres": [
+    "Political Essay",
+    "Postcolonial Criticism"
    ]
   },
   {
@@ -92,6 +133,16 @@
    ]
   },
   {
+   "author": "Salman Rushdie",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Postcolonial Criticism",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Samuel Beckett",
    "genres": [
     "Absurdist Drama",
@@ -116,6 +167,15 @@
    ]
   },
   {
+   "author": "Stevie Smith",
+   "genres": [
+    "Elegiac Poetry",
+    "Light Verse",
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
    "author": "W. H. Auden",
    "genres": [
     "Formal Verse",
@@ -126,6 +186,10 @@
   }
  ],
  "author_movements": [
+  {
+   "author": "Dylan Thomas",
+   "movements": []
+  },
   {
    "author": "George Orwell",
    "movements": []
@@ -145,9 +209,38 @@
    ]
   },
   {
+   "author": "Kamau Brathwaite",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature",
+    "Postcolonial Theory"
+   ]
+  },
+  {
    "author": "Lorraine Hansberry",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "movements": [
+    "African Literature in English",
+    "Postcolonial Theory"
    ]
   },
   {
@@ -160,6 +253,14 @@
    "author": "Ralph Ellison",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Salman Rushdie",
+   "movements": [
+    "Magical Realism in English",
+    "Postcolonial Literature",
+    "South Asian Literature in English"
    ]
   },
   {
@@ -176,11 +277,22 @@
    ]
   },
   {
+   "author": "Stevie Smith",
+   "movements": []
+  },
+  {
    "author": "W. H. Auden",
    "movements": []
   }
  ],
  "author_themes": [
+  {
+   "author": "Dylan Thomas",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
   {
    "author": "George Orwell",
    "themes": [
@@ -227,6 +339,18 @@
    ]
   },
   {
+   "author": "Kamau Brathwaite",
+   "themes": [
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Nationhood and national identity",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
    "author": "Lorraine Hansberry",
    "themes": [
     "Alienation, absurdity and existential freedom",
@@ -244,6 +368,30 @@
     "The Cold War, nuclear threat and the bomb",
     "Utopia, dystopia and imagined futures",
     "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance"
    ]
   },
   {
@@ -287,6 +435,17 @@
    ]
   },
   {
+   "author": "Salman Rushdie",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Violence, crime and justice"
+   ]
+  },
+  {
    "author": "Samuel Beckett",
    "themes": [
     "Alienation, absurdity and existential freedom",
@@ -310,6 +469,18 @@
     "Race, racism and the struggle for civil rights",
     "Technology, media and consumer society",
     "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Stevie Smith",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Madness, breakdown and confinement",
+    "Power, the state and surveillance"
    ]
   },
   {
@@ -408,6 +579,88 @@
     "Samuel Selvon (Encyclopaedia Britannica)",
     "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
     "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)"
+   ]
+  },
+  {
+   "author": "Stevie Smith",
+   "sources": [
+    "Charlotte Smith in British Romanticism",
+    "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
+    "Not Waving but Drowning (Wikipedia)",
+    "Stevie Smith (Wikipedia)",
+    "The Collected Letters of Charlotte Smith",
+    "The Poems of Charlotte Smith",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith",
+    "The Religious Poetry of Stevie Smith and Emily Brontë (RepositoriUM, University of Minho)"
+   ]
+  },
+  {
+   "author": "Dylan Thomas",
+   "sources": [
+    "Do not go gentle into that good night (Wikipedia)",
+    "Dylan Thomas (Wikipedia)",
+    "Memoirs of the Life and Writings of Thomas Chalmers, D.D., LL.D. (4 volumes)",
+    "Nightmare Abbey (The Cambridge Edition of the Novels of Thomas Love Peacock, volume 7)",
+    "Selected Poems of Thomas Hood",
+    "Sir Thomas Wyatt: The Complete Poems",
+    "The Ashgate Research Companion to Thomas Lovell Beddoes (The Nineteenth Century Series)",
+    "The Collected Letters of Thomas Hardy, 7 vols",
+    "The Correspondence of Thomas Carlyle and Ralph Waldo Emerson, 1834–1872, 2 vols",
+    "The Journals of Thomas Babington Macaulay (5 volumes)",
+    "The Letters of Thomas Babington Macaulay: Volume 2, March 1831-December 1833",
+    "The Major Works of Sir Thomas Browne",
+    "The Papers of Thomas Jefferson",
+    "The Poems of Edward Thomas",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith",
+    "The Poetical Works of Thomas Lovell Beddoes (2 volumes)",
+    "The Poetical Works of Thomas Moore",
+    "The Works of Thomas De Quincey (21 volumes)",
+    "Thomas Chalmers and the Godly Commonwealth in Scotland"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "sources": [
+    "Louise Bennett and the Mento Tradition (Eric Doumerc, via CORE)",
+    "Louise Bennett-Coverley (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Kamau Brathwaite",
+   "sources": [
+    "Kamau Brathwaite (Wikipedia)",
+    "Versions of X/Self: Kamau Brathwaite's Caribbean Discourse (Semantic Scholar)"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "sources": [
+    "Decolonising the Mind (Wikipedia)",
+    "Ngũgĩ wa Thiong'o (Wikipedia)"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "sources": [
+    "'Sing the Bones Home': Material Memory and the Project of Freedom in M. NourbeSe Philip's Zong! (Humanities, MDPI)",
+    "Aubade (The Philip Larkin Society, philiplarkin.com)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "M. NourbeSe Philip (Wikipedia)",
+    "M. NourbeSe Philip's She Tries her Tongue, her Silence Softly Breaks and the Possibilities of Language (Revista Anglo Saxonica)",
+    "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
+    "Philip Larkin (EBSCO Research Starters)",
+    "Philip Larkin (New World Encyclopedia)",
+    "Philip Larkin (Wikipedia, via Wikiwand)",
+    "The Explosion by Philip Larkin (EBSCO Research Starters)",
+    "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
+   ]
+  },
+  {
+   "author": "Salman Rushdie",
+   "sources": [
+    "Imaginary Homelands (Wikipedia)",
+    "Salman Rushdie (Wikipedia)",
+    "The Prophet's Hair, by Salman Rushdie (London Review of Books, vol. 3, no. 7)"
    ]
   }
  ]

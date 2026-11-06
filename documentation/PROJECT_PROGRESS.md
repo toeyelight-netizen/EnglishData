@@ -12,7 +12,7 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 - Current position: installments 1–9 are imported, plus installment 10
   (the five authors kept from waves 01–12 under the third scope decision and
   the Norton selections of waves 13–14, by nine authors in all), giving
-  **851 authors / 2915 works** across ten periods (c. 450–2000).
+  **858 authors / 2927 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
@@ -1762,10 +1762,10 @@ with broader Anglophone writing out of scope.
   per poem, story, essay or play; an excerpt is recorded as its book.
   - **Lists:** both tables of contents are transcribed selection by selection
     in `research/installment_10/lists/norton_nael_11e_vol_f.csv` (288
-    selections: 89 in the period, 17 still to be dated, 147 before 1946, 32
-    after 2000, 3 written before 1946 and published later, excluded) and
+    selections, after the date checks of wave 15: 90 in the period, 14 still
+    to be dated, 149 before 1946, 32 after 2000, 3 written before 1946 and published later, excluded) and
     `norton_naal_11e_vol_e.csv` (218: 165 in the period, 10 to be dated, 8
-    before 1946, 35 after 2000). 116 authors have selections in the period or
+    before 1946, 35 after 2000). 115 authors have selections in the period or
     still to be dated. `tests/test_norton_lists.py` checks the lists'
     consistency.
   - **Removed:** the eleven authors Norton does not anthologise (Murray,
@@ -1793,6 +1793,18 @@ with broader Anglophone writing out of scope.
   Bronzeville Mother Loiters in Mississippi", "The Last Quatrain of the
   Ballad of Emmett Till", "The Blackstone Rangers" and "To the Diaspora".
   Twelve works; 26 of the 254 selections now have records.
+- **Wave 15:** the first new authors in the English anthology's order,
+  with author records of their own: Stevie Smith ("Our Bog Is Dood", "Not
+  Waving but Drowning", "Thoughts About the Person from Porlock"), Dylan
+  Thomas ("Do Not Go Gentle into That Good Night"; his other four
+  selections are earlier), Louise Bennett ("Colonization in Reverse"),
+  Kamau Brathwaite (*History of the Voice*, "Calypso", "Letter SycoraX"),
+  Ngũgĩ wa Thiong'o (*Decolonising the Mind*), M. NourbeSe Philip
+  ("Discourse on the Logic of Language") and Salman Rushdie ("The Prophet's
+  Hair" and *Imaginary Homelands*, the book of Norton's two excerpts). Una
+  Marson's two poems were dated before 1946 (1933 and 1937), so she is
+  outside the period. Twelve works and seven authors, all partially
+  verified; 39 of the 255 selections now have records.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1883,8 +1895,10 @@ the four bad plots, so it gives an order of work, not a filter.
 1. done in waves 13 and 14: the selections of the five recorded authors and
    of the installment-9 authors Rhys, Beckett, Auden and Brooks;
 2. (merged into 1);
-3. record the other Norton authors and their selections, in Norton's order;
-4. check every provisional date, including the 27 selections still to be
+3. record the other Norton authors and their selections, in Norton's order
+   (wave 15 reached Salman Rushdie in the English anthology; next is Grace
+   Nichols);
+4. check every provisional date, including the 24 selections still to be
    dated, and run the plot check of installments 8–9;
 5. run Audits 3 and 8 and regenerate the report.
 
@@ -1899,4 +1913,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 71 works by 9 authors; 26 of 254 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 83 works by 16 authors; 39 of 255 selections recorded) |

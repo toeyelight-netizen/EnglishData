@@ -354,6 +354,66 @@
    "work": "To the Diaspora",
    "author": "Gwendolyn Brooks",
    "contribution_type": "author"
+  },
+  {
+   "work": "Our Bog Is Dood",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Not Waving but Drowning",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Thoughts About the Person from Porlock",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Do Not Go Gentle into That Good Night",
+   "author": "Dylan Thomas",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Colonization in Reverse",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "History of the Voice",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Calypso",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Letter SycoraX",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Decolonising the Mind",
+   "author": "Ngũgĩ wa Thiong'o",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "author": "M. NourbeSe Philip",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Prophet's Hair",
+   "author": "Salman Rushdie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Imaginary Homelands",
+   "author": "Salman Rushdie",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -858,6 +918,93 @@
    "genres": [
     "Lyric Poetry",
     "Black Arts Poetry"
+   ]
+  },
+  {
+   "work": "Our Bog Is Dood",
+   "genres": [
+    "Light Verse",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Not Waving but Drowning",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Thoughts About the Person from Porlock",
+   "genres": [
+    "Light Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Do Not Go Gentle into That Good Night",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Colonization in Reverse",
+   "genres": [
+    "Performance Poetry",
+    "Light Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "History of the Voice",
+   "genres": [
+    "Postcolonial Criticism",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "Calypso",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Letter SycoraX",
+   "genres": [
+    "Experimental Poetry",
+    "Visual Poetry"
+   ]
+  },
+  {
+   "work": "Decolonising the Mind",
+   "genres": [
+    "Postcolonial Criticism",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "genres": [
+    "Experimental Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Prophet's Hair",
+   "genres": [
+    "Short Story",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Imaginary Homelands",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Postcolonial Criticism"
    ]
   }
  ],
@@ -1428,6 +1575,101 @@
     "Identity, authenticity and the divided self",
     "Race, racism and the struggle for civil rights"
    ]
+  },
+  {
+   "work": "Our Bog Is Dood",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Childhood, adolescence and coming of age",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Not Waving but Drowning",
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Madness, breakdown and confinement"
+   ]
+  },
+  {
+   "work": "Thoughts About the Person from Porlock",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Do Not Go Gentle into That Good Night",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Colonization in Reverse",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "History of the Voice",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Nationhood and national identity",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Calypso",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Class, labour and social mobility",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Letter SycoraX",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "Decolonisation, the end of empire and the new nation"
+   ]
+  },
+  {
+   "work": "Decolonising the Mind",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "The Prophet's Hair",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Imaginary Homelands",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation",
+    "Nationhood and national identity"
+   ]
   }
  ],
  "work_movements": [
@@ -1678,6 +1920,61 @@
    "movements": [
     "Black Arts Movement"
    ]
+  },
+  {
+   "work": "Colonization in Reverse",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "History of the Voice",
+   "movements": [
+    "Postcolonial Theory",
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Calypso",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Letter SycoraX",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Decolonising the Mind",
+   "movements": [
+    "Postcolonial Theory",
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Prophet's Hair",
+   "movements": [
+    "South Asian Literature in English",
+    "Magical Realism in English"
+   ]
+  },
+  {
+   "work": "Imaginary Homelands",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
   }
  ],
  "work_periods": [
@@ -1754,7 +2051,19 @@
     "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
     "The Last Quatrain of the Ballad of Emmett Till",
     "The Blackstone Rangers",
-    "To the Diaspora"
+    "To the Diaspora",
+    "Our Bog Is Dood",
+    "Not Waving but Drowning",
+    "Thoughts About the Person from Porlock",
+    "Do Not Go Gentle into That Good Night",
+    "Colonization in Reverse",
+    "History of the Voice",
+    "Calypso",
+    "Letter SycoraX",
+    "Decolonising the Mind",
+    "Discourse on the Logic of Language",
+    "The Prophet's Hair",
+    "Imaginary Homelands"
    ]
   }
  ]
