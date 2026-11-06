@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 899,
-  "works": 3015
+  "authors": 902,
+  "works": 3027
  },
  "periods": [
   {
@@ -855,6 +855,7 @@
   "A.K. Ramanujan (Guillermo Rodríguez Martín, Indian Writing in English, University of Hyderabad)",
   "Adeline Mowbray: or, The Mother and Daughter (Broadview Editions)",
   "Adventures of Huckleberry Finn (Mark Twain Library edition)",
+  "Against Interpretation (Wikipedia)",
   "Albert Murray obituary (The Guardian, 23 August 2013)",
   "Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)",
   "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
@@ -881,6 +882,7 @@
   "Asian American Literary Canon (Post45 Data Collective)",
   "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
   "Aubade (The Philip Larkin Society, philiplarkin.com)",
+  "Audre Lorde (Wikipedia)",
   "Bass Culture - Linton Kwesi Johnson (reggaelyrics.info)",
   "Ben Okri (Wikipedia)",
   "Ben Okri's 'What the Tapster Saw' (Niger Delta Black Gold Blues, University of Southern California)",
@@ -903,6 +905,7 @@
   "Chapter 7, The Annals of Chile, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
   "Charlotte Smith in British Romanticism",
   "Chinua Achebe (Wikipedia)",
+  "Chrysalis and 'Poetry Is Not a Luxury' (Library of Congress blog)",
   "Church Going (Wikipedia)",
   "Civil Peace (Wikipedia)",
   "Commonwealth Foundation prizes (Wikipedia), sections on the Commonwealth Writers' Prize and the Commonwealth Short Story Competition",
@@ -942,6 +945,7 @@
   "Essays in the History of Ideas",
   "Esther Waters, first book edition",
   "Evening Standard Theatre Award for Best Play (Wikipedia)",
+  "Evergreen Review, index 1957-1967",
   "Fairy Legends and Traditions of the South of Ireland, with a Short Memoir of the Author by His Son",
   "Felicia Hemans: Selected Poems, Letters, Reception Materials",
   "Felicia Hemans: Selected Poems, Prose and Letters",
@@ -949,6 +953,8 @@
   "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
   "For Esmé—with Love and Squalor (Wikipedia)",
   "For the Union Dead (Wikipedia)",
+  "Frank O'Hara (Poetry Foundation)",
+  "Frank O'Hara (Wikipedia)",
   "Frankenstein; or, The Modern Prometheus: The 1818 Text",
   "Freedom's Journal (New York, 1827-1829): Digitised Run, Chronicling America",
   "Geoffrey Hill, 'Requiem for the Plantagenet Kings' (poeticous text)",
@@ -970,6 +976,7 @@
   "Hansberry, Lorraine 1930-1965 (Encyclopedia.com, Gale entry with Leonard R. N. Ashley's 1990 essay)",
   "Hansberry, Lorraine: Introduction (Encyclopedia.com, Gale literary criticism entry)",
   "Harrison Bergeron (Wikipedia)",
+  "Having a Coke with You (Encyclopedia.com, Poetry for Students)",
   "Heart of Darkness: A Norton Critical Edition, 3rd edn",
   "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
   "Heinemann Caribbean Writers Series (Wikipedia)",
@@ -1032,6 +1039,7 @@
   "Lorraine Hansberry Biography (Chicago Public Library)",
   "Louise Bennett and the Mento Tradition (Eric Doumerc, via CORE)",
   "Louise Bennett-Coverley (Wikipedia)",
+  "Lunch Poems (Wikipedia)",
   "Lydia Sigourney: Selected Poetry and Prose (Broadview Editions)",
   "M. NourbeSe Philip (Wikipedia)",
   "M. NourbeSe Philip's She Tries her Tongue, her Silence Softly Breaks and the Possibilities of Language (Revista Anglo Saxonica)",
@@ -1048,6 +1056,7 @@
   "Marriage: A Novel",
   "Mason Locke Weems, His Works and Ways (3 volumes)",
   "McTeague: A Norton Critical Edition, 2nd edn",
+  "Meditations in an Emergency (Wikipedia)",
   "Meeting the British (poem guide, Encyclopedia.com)",
   "Melmoth the Wanderer (Oxford World's Classics)",
   "Memoirs of Modern Philosophers (Broadview Editions)",
@@ -1141,6 +1150,7 @@
   "Shooting an elephant, and other essays (WorldCat record, OCLC 2552523)",
   "Signs and Symbols (Wikipedia)",
   "Sir Thomas Wyatt: The Complete Poems",
+  "Sister Outsider (Wikipedia)",
   "Sketches of American Character",
   "Skunk Hour (Wikipedia)",
   "Slaughterhouse-Five (Wikipedia)",
@@ -1151,6 +1161,7 @@
   "Stevie Smith (Wikipedia)",
   "Such, Such Were the Joys (Wikipedia)",
   "Surfeit of Lampreys (Wikipedia)",
+  "Susan Sontag (Wikipedia)",
   "TEAMS Middle English Texts Series",
   "Tales of Wonder (Broadview Editions)",
   "Ted Hughes (Wikipedia)",
@@ -1205,6 +1216,7 @@
   "The Collected Letters of Samuel Taylor Coleridge (6 volumes)",
   "The Collected Letters of Sir Humphry Davy (4 volumes)",
   "The Collected Letters of Thomas Hardy, 7 vols",
+  "The Collected Poems of Audre Lorde (library catalogue contents)",
   "The Collected Poems of Isaac Rosenberg",
   "The Collected Poems of Langston Hughes",
   "The Collected Poems of Rupert Brooke",
@@ -1598,11 +1610,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2934,
+     "id": 2937,
      "title": "Elements of Composition"
     },
     {
-     "id": 2933,
+     "id": 2936,
      "title": "Self-Portrait"
     }
    ],
@@ -3033,7 +3045,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2954,
+     "id": 2957,
      "title": "Walker Brothers Cowboy"
     }
    ],
@@ -3949,7 +3961,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2976,
+     "id": 2979,
      "title": "The Glass Essay"
     }
    ],
@@ -5006,7 +5018,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3004,
+     "id": 3007,
      "title": "Death of a Salesman"
     }
    ],
@@ -5310,7 +5322,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2969,
+     "id": 2972,
      "title": "The God of Small Things"
     }
    ],
@@ -5353,6 +5365,75 @@
    ],
    "sources": [
     "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"
+   ]
+  },
+  {
+   "id": 901,
+   "name": "Audre Lorde",
+   "altNames": [],
+   "dates": "1934 – 1992",
+   "birthplace": "New York City, New York, United States",
+   "nationality": "American; poet, essayist and activist writing in English",
+   "identity": "American poet, essayist and self-described 'Black, lesbian, feminist, socialist, mother, warrior, poet', whose poems and essays on race, sexuality and the uses of anger and of the erotic made her a founding voice of Black feminist thought",
+   "biography": "Audrey Geraldine Lorde was born in Harlem, New York, on 18 February 1934, the youngest of three daughters of immigrants from Barbados and Carriacou; she dropped the 'y' from her name as a child, learned to read at four and wrote her first poems at school, published a poem in Seventeen while still at Hunter High School, and took her BA at Hunter College and her MLS at Columbia. She worked as a librarian in New York and as a teacher, married the lawyer Edwin Rollins in 1962 and divorced in 1970, and had two children; she was active in the civil rights, anti-war, lesbian and feminist movements and was a founding member of Kitchen Table: Women of Color Press. The First Cities (1968), Cables to Rage (1970), From a Land Where Other People Live (1973, National Book Award finalist), New York Head Shop and Museum (1974), Coal (1976), The Black Unicorn (1978), Chosen Poems - Old and New (1982), Our Dead Behind Us (1986) and The Marvelous Arithmetics of Distance (1993) are the poetry; The Cancer Journals (1980), Zami: A New Spelling of My Name (1982), Sister Outsider (1984) and A Burst of Light (1988) the prose. She was Poet Laureate of New York State in 1991 and died at St Croix in the US Virgin Islands on 17 November 1992.",
+   "profile": "Poetry: The First Cities (1968), Cables to Rage (1970), From a Land Where Other People Live (1973), New York Head Shop and Museum (1974), Coal (1976), The Black Unicorn (1978), Chosen Poems - Old and New (1982), Our Dead Behind Us (1986) and The Marvelous Arithmetics of Distance (1993), gathered in The Collected Poems of Audre Lorde (1997). Prose: The Cancer Journals (1980), Zami: A New Spelling of My Name (1982), Sister Outsider: Essays and Speeches (1984), A Burst of Light (1988) and I Am Your Sister (2009).",
+   "style": "A poetry of plain statement and long breath, often in loose free verse with biblical and incantatory repetition; anger and tenderness held in the same sentence; the first person used as a public voice; in the essays, a prose of direct address, short declarative paragraphs and aphorism ('the master's tools will never dismantle the master's house') that is meant to be spoken aloud.",
+   "concerns": "Race, racism and the struggle for civil rights, and the difference between them; sexuality, desire and the closet; gender, feminism and women's lives, above all the lives of Black women; the erotic as knowledge and power; illness, cancer and mortality; the uses of anger; poetry itself as a necessity rather than a luxury; the refusal of any hierarchy of oppressions.",
+   "significance": "Lorde is the central theoretician of intersectionality in Black feminist writing and one of the most widely quoted American essayists of the century; 'The Master's Tools Will Never Dismantle the Master's House' and 'Uses of the Erotic' are standard texts in women's, gender and Black studies, her Collected Poems is a landmark of American poetry, and her name is attached to institutions, prizes and reading rooms on several continents.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Feminist Criticism",
+    "Free Verse",
+    "Literary Essay",
+    "Lyric Poetry",
+    "Political Essay",
+    "Political Poetry"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3027,
+     "title": "Black Mother Woman"
+    },
+    {
+     "id": 3025,
+     "title": "Coal"
+    },
+    {
+     "id": 2866,
+     "title": "The Master's Tools Will Never Dismantle the Master's House"
+    },
+    {
+     "id": 3026,
+     "title": "The Woman Thing"
+    },
+    {
+     "id": 2865,
+     "title": "Uses of the Erotic: The Erotic as Power"
+    }
+   ],
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "Chrysalis and 'Poetry Is Not a Luxury' (Library of Congress blog)",
+    "Sister Outsider (Wikipedia)",
+    "The Collected Poems of Audre Lorde (library catalogue contents)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -5782,7 +5863,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2968,
+     "id": 2971,
      "title": "What the Tapster Saw"
     }
    ],
@@ -5994,7 +6075,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2967,
+     "id": 2970,
      "title": "Looking for a Rain God"
     }
    ],
@@ -6191,7 +6272,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2981,
+     "id": 2984,
      "title": "First Screening"
     }
    ],
@@ -6663,19 +6744,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2985,
+     "id": 2988,
      "title": "Medusa"
     },
     {
-     "id": 2986,
+     "id": 2989,
      "title": "Mrs Lazarus"
     },
     {
-     "id": 2984,
+     "id": 2987,
      "title": "Valentine"
     },
     {
-     "id": 2983,
+     "id": 2986,
      "title": "Warming Her Pearls"
     }
    ],
@@ -6835,7 +6916,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2957,
+     "id": 2960,
      "title": "Top Girls"
     }
    ],
@@ -8489,7 +8570,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2950,
+     "id": 2953,
      "title": "Civil Peace"
     }
    ],
@@ -10203,19 +10284,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2940,
+     "id": 2943,
      "title": "A Far Cry from Africa"
     },
     {
-     "id": 2943,
+     "id": 2946,
      "title": "Omeros"
     },
     {
-     "id": 2941,
+     "id": 2944,
      "title": "The Schooner Flight"
     },
     {
-     "id": 2942,
+     "id": 2945,
      "title": "The Season of Phantasmal Peace"
     }
    ],
@@ -10445,7 +10526,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2932,
+     "id": 2935,
      "title": "To Room Nineteen"
     }
    ],
@@ -10857,7 +10938,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2919,
+     "id": 2922,
      "title": "Do Not Go Gentle into That Good Night"
     }
    ],
@@ -11257,15 +11338,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2973,
+     "id": 2976,
      "title": "Fond Memory"
     },
     {
-     "id": 2974,
+     "id": 2977,
      "title": "The Dolls Museum in Dublin"
     },
     {
-     "id": 2975,
+     "id": 2978,
      "title": "The Lost Land"
     }
    ],
@@ -13154,23 +13235,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2994,
+     "id": 2997,
      "title": "At the Fishhouses"
     },
     {
-     "id": 2997,
+     "id": 3000,
      "title": "In the Waiting Room"
     },
     {
-     "id": 2998,
+     "id": 3001,
      "title": "One Art"
     },
     {
-     "id": 2995,
+     "id": 2998,
      "title": "Questions of Travel"
     },
     {
-     "id": 2996,
+     "id": 2999,
      "title": "The Armadillo"
     }
    ],
@@ -16201,6 +16282,77 @@
    ]
   },
   {
+   "id": 900,
+   "name": "Frank O'Hara",
+   "altNames": [],
+   "dates": "1926 – 1966",
+   "birthplace": "Baltimore, Maryland, United States",
+   "nationality": "American; poet, art curator and critic writing in English",
+   "identity": "American poet and Museum of Modern Art curator, the liveliest of the New York School poets, whose 'I do this, I do that' lunch poems made the ordinary afternoon the subject of American lyric verse",
+   "biography": "Francis Russell O'Hara was born in Baltimore on 27 March 1926 and grew up in Grafton, Massachusetts; he studied piano at the New England Conservatory, served as a sonarman in the US Navy in the Pacific, and took his degree at Harvard in 1950, where he met John Ashbery and began publishing in the Harvard Advocate. He took an MA at the University of Michigan, where he won a Hopwood Award, moved to New York in 1951, worked at the front desk of the Museum of Modern Art and rose there to associate curator of painting and sculpture, writing the catalogues of Jackson Pollock and Robert Motherwell and reviews for ArtNews. His books in his lifetime were small gallery and press editions - A City Winter and Other Poems (1952), Oranges: 12 pastorals (1953), Meditations in an Emergency (1957), Odes (1960), Lunch Poems (1964) and Love Poems (Tentative Title) (1965) - and his poetry was assembled after his death in The Collected Poems, edited by Donald Allen (1971), which shared the National Book Award in 1972. He was struck by a jeep on the beach at Fire Island on 24 July 1966 and died the next day at Mastic Beach, Long Island.",
+   "profile": "Poetry: A City Winter and Other Poems (1952), Oranges: 12 pastorals (1953), Meditations in an Emergency (1957), Odes (1960), Lunch Poems (1964) and Love Poems (Tentative Title) (1965), collected in The Collected Poems of Frank O'Hara, ed. Donald Allen (1971), and in the posthumous selection In Memory of My Feelings (1967). Prose: Jackson Pollock (1959), Art Chronicles 1954-1966 (1975) and the mock manifesto 'Personism' (written 1959, published in Yugen, 1961).",
+   "style": "Free verse that keeps the cadences of talk: the poem as a record of the afternoon that produced it, with street names, shop windows, film stars and friends' names left in; the 'I do this, I do that' structure; surreal turns, camp jokes and sudden tenderness; an insistence that the poem is 'between two persons instead of two pages'.",
+   "concerns": "The city, the lunch hour and the ordinary day; friendship, love and gay desire; painting, music and the other arts, with painters as recurring heroes; the death of friends and of the famous, faced without ceremony; the belief that immediacy and speed are themselves values.",
+   "significance": "O'Hara is the central poet of the New York School and the model for the conversational, city-written American poem of the last half-century; the posthumous Collected Poems won the National Book Award, 'The Day Lady Died' and 'Why I Am Not a Painter' are among the most anthologised American poems of the period, and his manner - casual, fast, intimate, funny - is one of the dominant idioms of American poetry since 1960.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Experimental Fiction",
+    "Free Verse",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Manifesto",
+    "Lyric Poetry"
+   ],
+   "movements": [
+    "The New York School"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3021,
+     "title": "A Step Away from Them"
+    },
+    {
+     "id": 3023,
+     "title": "Having a Coke with You"
+    },
+    {
+     "id": 3024,
+     "title": "In Memory of My Feelings"
+    },
+    {
+     "id": 3019,
+     "title": "Personism: A Manifesto"
+    },
+    {
+     "id": 3022,
+     "title": "The Day Lady Died"
+    },
+    {
+     "id": 3020,
+     "title": "Why I Am Not a Painter"
+    }
+   ],
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "Lunch Poems (Wikipedia)",
+    "Meditations in an Emergency (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 676,
    "name": "Frederic Manning",
    "altNames": [
@@ -16708,15 +16860,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2951,
+     "id": 2954,
      "title": "In Memory of Jane Fraser"
     },
     {
-     "id": 2952,
+     "id": 2955,
      "title": "Requiem for the Plantagenet Kings"
     },
     {
-     "id": 2953,
+     "id": 2956,
      "title": "September Song"
     }
    ],
@@ -18148,7 +18300,7 @@
      "title": "Coming Up for Air"
     },
     {
-     "id": 2871,
+     "id": 2874,
      "title": "Critical Essays"
     },
     {
@@ -18164,7 +18316,7 @@
      "title": "Inside the Whale and Other Essays"
     },
     {
-     "id": 2872,
+     "id": 2875,
      "title": "James Burnham and the Managerial Revolution"
     },
     {
@@ -18172,31 +18324,31 @@
      "title": "Keep the Aspidistra Flying"
     },
     {
-     "id": 2874,
+     "id": 2877,
      "title": "Nineteen Eighty-Four"
     },
     {
-     "id": 2902,
+     "id": 2905,
      "title": "Politics and the English Language"
     },
     {
-     "id": 2875,
+     "id": 2878,
      "title": "Shooting an Elephant and Other Essays"
     },
     {
-     "id": 2876,
+     "id": 2879,
      "title": "Such, Such Were the Joys"
     },
     {
-     "id": 2877,
+     "id": 2880,
      "title": "The Collected Essays, Journalism and Letters of George Orwell"
     },
     {
-     "id": 2873,
+     "id": 2876,
      "title": "The English People"
     },
     {
-     "id": 2878,
+     "id": 2881,
      "title": "The Freedom of the Press"
     },
     {
@@ -19141,15 +19293,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2928,
+     "id": 2931,
      "title": "Epilogue"
     },
     {
-     "id": 2929,
+     "id": 2932,
      "title": "The Fat Black Woman Goes Shopping"
     },
     {
-     "id": 2930,
+     "id": 2933,
      "title": "Wherever I Hang"
     }
    ],
@@ -19194,11 +19346,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3014,
+     "id": 3017,
      "title": "A Conversation with My Father"
     },
     {
-     "id": 3015,
+     "id": 3018,
      "title": "Zagrowsky Tells"
     }
    ],
@@ -19390,7 +19542,7 @@
    ],
    "works": [
     {
-     "id": 2912,
+     "id": 2915,
      "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon"
     },
     {
@@ -19398,27 +19550,27 @@
      "title": "A Street in Bronzeville"
     },
     {
-     "id": 2911,
+     "id": 2914,
      "title": "The Bean Eaters"
     },
     {
-     "id": 2914,
+     "id": 2917,
      "title": "The Blackstone Rangers"
     },
     {
-     "id": 2909,
+     "id": 2912,
      "title": "The Children of the Poor"
     },
     {
-     "id": 2913,
+     "id": 2916,
      "title": "The Last Quatrain of the Ballad of Emmett Till"
     },
     {
-     "id": 2915,
+     "id": 2918,
      "title": "To the Diaspora"
     },
     {
-     "id": 2910,
+     "id": 2913,
      "title": "We Real Cool"
     }
    ],
@@ -19866,7 +20018,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2982,
+     "id": 2985,
      "title": "My Son the Fanatic"
     }
    ],
@@ -23274,7 +23426,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3010,
+     "id": 3013,
      "title": "For Esmé—with Love and Squalor"
     }
    ],
@@ -23316,7 +23468,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2966,
+     "id": 2969,
      "title": "The Drowned World"
     }
    ],
@@ -23429,7 +23581,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2972,
+     "id": 2975,
      "title": "Waiting for the Barbarians"
     }
    ],
@@ -23662,7 +23814,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3011,
+     "id": 3014,
      "title": "On the Road"
     }
    ],
@@ -25395,7 +25547,7 @@
      "title": "Good Morning, Midnight"
     },
     {
-     "id": 2905,
+     "id": 2908,
      "title": "On Not Shooting Sitting Birds"
     },
     {
@@ -25403,7 +25555,7 @@
      "title": "Quartet"
     },
     {
-     "id": 2904,
+     "id": 2907,
      "title": "The Day They Burned the Books"
     },
     {
@@ -26590,7 +26742,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3000,
+     "id": 3003,
      "title": "The Swimmer"
     }
    ],
@@ -31303,15 +31455,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2922,
+     "id": 2925,
      "title": "Calypso"
     },
     {
-     "id": 2921,
+     "id": 2924,
      "title": "History of the Voice"
     },
     {
-     "id": 2923,
+     "id": 2926,
      "title": "Letter SycoraX"
     }
    ],
@@ -31719,7 +31871,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2987,
+     "id": 2990,
      "title": "Hullabaloo in the Guava Orchard"
     }
    ],
@@ -31768,11 +31920,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3012,
+     "id": 3015,
      "title": "Harrison Bergeron"
     },
     {
-     "id": 3013,
+     "id": 3016,
      "title": "Slaughterhouse-Five"
     }
    ],
@@ -32434,11 +32586,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2965,
+     "id": 2968,
      "title": "Corniche"
     },
     {
-     "id": 2964,
+     "id": 2967,
      "title": "Morse"
     }
    ],
@@ -32741,7 +32893,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2931,
+     "id": 2934,
      "title": "Inglan Is a Bitch"
     }
    ],
@@ -32885,27 +33037,27 @@
      "title": "A Raisin in the Sun"
     },
     {
-     "id": 2868,
+     "id": 2871,
      "title": "Les Blancs"
     },
     {
-     "id": 2869,
+     "id": 2872,
      "title": "The Drinking Gourd"
     },
     {
-     "id": 2866,
+     "id": 2869,
      "title": "The Movement: Documentary of a Struggle for Equality"
     },
     {
-     "id": 2865,
+     "id": 2868,
      "title": "The Sign in Sidney Brustein's Window"
     },
     {
-     "id": 2867,
+     "id": 2870,
      "title": "To Be Young, Gifted and Black"
     },
     {
-     "id": 2870,
+     "id": 2873,
      "title": "What Use Are Flowers?"
     }
    ],
@@ -33092,7 +33244,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2920,
+     "id": 2923,
      "title": "Colonization in Reverse"
     }
    ],
@@ -33438,7 +33590,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2925,
+     "id": 2928,
      "title": "Discourse on the Logic of Language"
     }
    ],
@@ -33655,11 +33807,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2970,
+     "id": 2973,
      "title": "Death by Landscape"
     },
     {
-     "id": 2971,
+     "id": 2974,
      "title": "Miss July Grows Older"
     }
    ],
@@ -37260,7 +37412,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2924,
+     "id": 2927,
      "title": "Decolonising the Mind"
     }
    ],
@@ -38768,19 +38920,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2979,
+     "id": 2982,
      "title": "7, Middagh Street"
     },
     {
-     "id": 2977,
+     "id": 2980,
      "title": "Anseo"
     },
     {
-     "id": 2978,
+     "id": 2981,
      "title": "Meeting the British"
     },
     {
-     "id": 2980,
+     "id": 2983,
      "title": "Milkweed and Monarch"
     }
    ],
@@ -39057,7 +39209,7 @@
      "title": "Aubade"
     },
     {
-     "id": 2893,
+     "id": 2896,
      "title": "Church Going"
     },
     {
@@ -39065,7 +39217,7 @@
      "title": "Collected Poems"
     },
     {
-     "id": 2897,
+     "id": 2900,
      "title": "Going, Going"
     },
     {
@@ -39073,11 +39225,11 @@
      "title": "High Windows"
     },
     {
-     "id": 2896,
+     "id": 2899,
      "title": "High Windows (poem)"
     },
     {
-     "id": 2899,
+     "id": 2902,
      "title": "Homage to a Government"
     },
     {
@@ -39085,7 +39237,7 @@
      "title": "Jill"
     },
     {
-     "id": 2894,
+     "id": 2897,
      "title": "MCMXIV"
     },
     {
@@ -39093,7 +39245,7 @@
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
-     "id": 2898,
+     "id": 2901,
      "title": "Sad Steps"
     },
     {
@@ -39101,11 +39253,11 @@
      "title": "Selected Letters of Philip Larkin, 1940-1985"
     },
     {
-     "id": 2895,
+     "id": 2898,
      "title": "Talking in Bed"
     },
     {
-     "id": 2900,
+     "id": 2903,
      "title": "The Explosion"
     },
     {
@@ -39121,7 +39273,7 @@
      "title": "The Whitsun Weddings"
     },
     {
-     "id": 2901,
+     "id": 2904,
      "title": "This Be The Verse"
     },
     {
@@ -42040,11 +42192,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3002,
+     "id": 3005,
      "title": "Summertime and the Living . . ."
     },
     {
-     "id": 3001,
+     "id": 3004,
      "title": "Those Winter Sundays"
     }
    ],
@@ -42329,23 +42481,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3009,
+     "id": 3012,
      "title": "For the Union Dead"
     },
     {
-     "id": 3007,
+     "id": 3010,
      "title": "Memories of West Street and Lepke"
     },
     {
-     "id": 3005,
+     "id": 3008,
      "title": "Mr. Edwards and the Spider"
     },
     {
-     "id": 3008,
+     "id": 3011,
      "title": "Night Sweat"
     },
     {
-     "id": 3006,
+     "id": 3009,
      "title": "Skunk Hour"
     }
    ],
@@ -43545,11 +43697,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2927,
+     "id": 2930,
      "title": "Imaginary Homelands"
     },
     {
-     "id": 2926,
+     "id": 2929,
      "title": "The Prophet's Hair"
     }
    ],
@@ -43624,7 +43776,7 @@
      "title": "Murphy"
     },
     {
-     "id": 2906,
+     "id": 2909,
      "title": "Waiting for Godot"
     }
    ],
@@ -44349,63 +44501,63 @@
    ],
    "works": [
     {
-     "id": 2879,
+     "id": 2882,
      "title": "A Brighter Sun"
     },
     {
-     "id": 2880,
+     "id": 2883,
      "title": "An Island Is a World"
     },
     {
-     "id": 2890,
+     "id": 2893,
      "title": "Eldorado West One"
     },
     {
-     "id": 2891,
+     "id": 2894,
      "title": "Foreday Morning: Selected Prose 1946-1986"
     },
     {
-     "id": 2892,
+     "id": 2895,
      "title": "Highway in the Sun and Other Plays"
     },
     {
-     "id": 2884,
+     "id": 2887,
      "title": "I Hear Thunder"
     },
     {
-     "id": 2888,
+     "id": 2891,
      "title": "Moses Ascending"
     },
     {
-     "id": 2889,
+     "id": 2892,
      "title": "Moses Migrating"
     },
     {
-     "id": 2885,
+     "id": 2888,
      "title": "The Housing Lark"
     },
     {
-     "id": 2881,
+     "id": 2884,
      "title": "The Lonely Londoners"
     },
     {
-     "id": 2886,
+     "id": 2889,
      "title": "The Plains of Caroni"
     },
     {
-     "id": 2887,
+     "id": 2890,
      "title": "Those Who Eat the Cascadura"
     },
     {
-     "id": 2883,
+     "id": 2886,
      "title": "Turn Again Tiger"
     },
     {
-     "id": 2903,
+     "id": 2906,
      "title": "Waiting for Aunty to Cough"
     },
     {
-     "id": 2882,
+     "id": 2885,
      "title": "Ways of Sunlight"
     }
    ],
@@ -44829,7 +44981,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3003,
+     "id": 3006,
      "title": "Looking for Mr. Green"
     }
    ],
@@ -44884,27 +45036,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2961,
+     "id": 2964,
      "title": "Casualty"
     },
     {
-     "id": 2963,
+     "id": 2966,
      "title": "Clearances"
     },
     {
-     "id": 2958,
+     "id": 2961,
      "title": "Digging"
     },
     {
-     "id": 2960,
+     "id": 2963,
      "title": "Punishment"
     },
     {
-     "id": 2962,
+     "id": 2965,
      "title": "Station Island"
     },
     {
-     "id": 2959,
+     "id": 2962,
      "title": "The Grauballe Man"
     }
    ],
@@ -46756,15 +46908,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2917,
+     "id": 2920,
      "title": "Not Waving but Drowning"
     },
     {
-     "id": 2916,
+     "id": 2919,
      "title": "Our Bog Is Dood"
     },
     {
-     "id": 2918,
+     "id": 2921,
      "title": "Thoughts About the Person from Porlock"
     }
    ],
@@ -46943,6 +47095,47 @@
     "Oxford Dictionary of National Biography",
     "The Cambridge Companion to British Romanticism",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period"
+   ]
+  },
+  {
+   "id": 902,
+   "name": "Susan Sontag",
+   "altNames": [],
+   "dates": "1933 – 2004",
+   "birthplace": "New York City, New York, United States",
+   "nationality": "American; essayist, novelist, playwright and film-maker writing in English",
+   "identity": "American essayist and public intellectual whose essays on interpretation, photography, illness and war - beginning with 'Against Interpretation' - made criticism itself a literary form and the critic a public figure",
+   "biography": "Susan Sontag was born in New York on 16 January 1933, grew up on Long Island, in Tucson and in the San Fernando Valley, graduated from North Hollywood High School at fifteen, studied at Berkeley and at the University of Chicago and took an MA in philosophy at Harvard; she taught at Columbia and at City College, and her marriage to the sociologist Philip Rieff ended in 1959. 'Notes on \"Camp\"' in 1964 and the collection Against Interpretation (1966) made her famous as the critic who argued for the sensuous surface of art against the hunt for hidden meaning; Styles of Radical Will (1969), On Photography (1977), Illness as Metaphor (1978), Under the Sign of Saturn (1980), AIDS and Its Metaphors (1989), Regarding the Pain of Others (2003) and At the Same Time (2007) followed, with the novels The Benefactor (1963), Death Kit (1967), The Volcano Lover (1992) and In America (1999), the stories of I, etcetera (1978), the play Alice in Bed (1993) and the films Duet for Cannibals (1969) and Brother Carl (1971). She directed stage productions in besieged Sarajevo in 1993 and was awarded the Jerusalem Prize in 2001; she died in New York on 28 December 2004.",
+   "profile": "Non-fiction: Against Interpretation (1966), Styles of Radical Will (1969), On Photography (1977), Illness as Metaphor (1978), Under the Sign of Saturn (1980), AIDS and Its Metaphors (1989), Where the Stress Falls (2001) and Regarding the Pain of Others (2003), with the journals Reborn (2008) and As Consciousness Is Harnessed to Flesh (2012). Fiction: The Benefactor (1963), Death Kit (1967), I, etcetera (1978), The Volcano Lover (1992) and In America (1999). Plays and films: A Parsifal (1991), Alice in Bed (1993), Duet for Cannibals (1969) and Brother Carl (1971).",
+   "style": "Aphoristic, declarative sentences in short numbered paragraphs; the essay built as a series of propositions rather than an argument with footnotes; a taste for lists, definitions and the imperative ('In place of a hermeneutics we need an erotics of art'); high and popular culture discussed in the same vocabulary; an authoritative first-person plural that speaks for the age.",
+   "concerns": "Interpretation and the critic's task; form against content; photography, images and the modern world; illness as metaphor and the metaphors we think with; war, atrocity and the ethics of looking at other people's suffering; camp, style and sensibility; the intellectual as a public figure.",
+   "significance": "Sontag is the most widely read American critic of the second half of the century and the writer who made the essay a public form; 'Against Interpretation' and 'Notes on \"Camp\"' are standard texts in criticism and cultural studies, On Photography and Illness as Metaphor shaped whole fields, and her name is a byword for the intellectual life of postwar New York.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Essay"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2867,
+     "title": "Against Interpretation"
+    }
+   ],
+   "sources": [
+    "Against Interpretation (Wikipedia)",
+    "Susan Sontag (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -47566,27 +47759,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2949,
+     "id": 2952,
      "title": "Crow Tyrannosaurus"
     },
     {
-     "id": 2948,
+     "id": 2951,
      "title": "Crow's Last Stand"
     },
     {
-     "id": 2946,
+     "id": 2949,
      "title": "Out"
     },
     {
-     "id": 2945,
+     "id": 2948,
      "title": "Pike"
     },
     {
-     "id": 2947,
+     "id": 2950,
      "title": "Theology"
     },
     {
-     "id": 2944,
+     "id": 2947,
      "title": "Wind"
     }
    ],
@@ -47630,7 +47823,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2999,
+     "id": 3002,
      "title": "A Streetcar Named Desire"
     }
    ],
@@ -47910,23 +48103,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2989,
+     "id": 2992,
      "title": "Cuttings"
     },
     {
-     "id": 2990,
+     "id": 2993,
      "title": "Cuttings (later)"
     },
     {
-     "id": 2992,
+     "id": 2995,
      "title": "Elegy for Jane"
     },
     {
-     "id": 2993,
+     "id": 2996,
      "title": "I Knew a Woman"
     },
     {
-     "id": 2991,
+     "id": 2994,
      "title": "The Waking"
     }
    ],
@@ -47973,23 +48166,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2935,
+     "id": 2938,
      "title": "Black Jackets"
     },
     {
-     "id": 2937,
+     "id": 2940,
      "title": "From the Wave"
     },
     {
-     "id": 2936,
+     "id": 2939,
      "title": "My Sad Captains"
     },
     {
-     "id": 2938,
+     "id": 2941,
      "title": "Still Life"
     },
     {
-     "id": 2939,
+     "id": 2942,
      "title": "The Missing"
     }
    ],
@@ -50952,7 +51145,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2955,
+     "id": 2958,
      "title": "One Out of Many"
     }
    ],
@@ -51251,7 +51444,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2988,
+     "id": 2991,
      "title": "Signs and Symbols"
     }
    ],
@@ -51516,7 +51709,7 @@
      "title": "Another Time"
     },
     {
-     "id": 2907,
+     "id": 2910,
      "title": "In Praise of Limestone"
     },
     {
@@ -51536,7 +51729,7 @@
      "title": "The Orators: An English Study"
     },
     {
-     "id": 2908,
+     "id": 2911,
      "title": "The Shield of Achilles"
     }
    ],
@@ -55926,7 +56119,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2956,
+     "id": 2959,
      "title": "Death and the King's Horseman"
     }
    ],
@@ -58407,7 +58600,7 @@
    ]
   },
   {
-   "id": 2979,
+   "id": 2982,
    "title": "7, Middagh Street",
    "altTitles": [],
    "authorship": "single",
@@ -58726,7 +58919,7 @@
    ]
   },
   {
-   "id": 2879,
+   "id": 2882,
    "title": "A Brighter Sun",
    "altTitles": [],
    "authorship": "single",
@@ -58780,7 +58973,7 @@
    ]
   },
   {
-   "id": 2912,
+   "id": 2915,
    "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
    "altTitles": [
     "A Bronzeville Mother Loiters in Mississippi"
@@ -59440,7 +59633,7 @@
    ]
   },
   {
-   "id": 3014,
+   "id": 3017,
    "title": "A Conversation with My Father",
    "altTitles": [],
    "authorship": "single",
@@ -60481,7 +60674,7 @@
    ]
   },
   {
-   "id": 2940,
+   "id": 2943,
    "title": "A Far Cry from Africa",
    "altTitles": [],
    "authorship": "single",
@@ -65836,6 +66029,57 @@
    ]
   },
   {
+   "id": 3021,
+   "title": "A Step Away from Them",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Frank O'Hara"
+   ],
+   "authorIds": [
+    900
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1956",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Written on 16 August 1956, the day after Jackson Pollock's funeral, and printed in Lunch Poems (1964): a walk through midtown Manhattan at lunch hour that becomes an elegy for three friends who have died.",
+   "summary": "A single lunch-hour walk in short free-verse lines, from the sidewalk and the construction workers to the avenue, a hat check, a shoeshine and a hamburger, ending with the thought of Jackson Pollock, Bunny Lang and John La Touche, dead within a year of one another.",
+   "plot": "The poem begins with its most quoted line - 'It's my lunch hour, so I go / for a walk among the hum-colored / cabs' - and follows the poet down the sidewalk past labourers eating sandwiches, past skirts, past a Puerto Rican family, into a shoeshine stand and then a place for a hamburger and a malted, with the newspaper, the advertisements and the store windows all recorded at the pace of walking. The middle of the poem pauses on a glass of papaya juice in a store where a woman is looking at a poster of a film, and on the thought of the poet's friends; at the end of the walk he remembers 'a blonde child' and then, in the last lines, the three dead - 'Bunny' (Violet Ranney Lang), John La Touche and Jackson Pollock, all of whom had died in 1955-56 - and asks, 'Is the earth as full as life was full, of them?' The poem closes with the return to the street and to the ordinary present, the death of the friends held inside the afternoon rather than announced as its subject.",
+   "significance": "The poem that established the 'lunch poem' and one of the central American elegies of the century; it is a standard anthology text for the New York School, for the relations between poetry and the visual arts, and for the elegy, and its opening line is one of the best known in postwar American poetry.",
+   "meter": "Long conversational lines broken at the phrase rather than the foot, in a diction that includes brand names, advertisements, brand-new slang and the names of the dead; paratactic syntax joined by 'and' and 'then'; almost no figurative language except the compound 'hum-colored', which has become the poem's signature.",
+   "context": "Composed on 16 August 1956, the day after Jackson Pollock's funeral at Springs, Long Island, where O'Hara had been one of the mourners; printed in Lunch Poems (City Lights, 1964), the collection that took its name from poems written in O'Hara's lunch hours at the Museum of Modern Art. It is the first of the lunch poems and the poem in which O'Hara's mature manner - elegy inside the daily, the city as an elegiac machine - is fully present.",
+   "characters": "",
+   "structure": "One unbroken free-verse sequence of some sixty lines, in a single present-tense walk with no stanza divisions; the movement is spatial (sidewalk, street, store, restaurant, street) and the elegy arrives without a transition, so that the reader experiences the deaths as the poet does - as an interruption of the afternoon.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "The New York School"
+   ],
+   "editions": [],
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "Lunch Poems (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2830,
    "title": "A Street in Bronzeville",
    "altTitles": [
@@ -65890,7 +66134,7 @@
    ]
   },
   {
-   "id": 2999,
+   "id": 3002,
    "title": "A Streetcar Named Desire",
    "altTitles": [],
    "authorship": "single",
@@ -68505,6 +68749,57 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2867,
+   "title": "Against Interpretation",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Susan Sontag"
+   ],
+   "authorIds": [
+    902
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1964",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (critical essay)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "An essay published in the Evergreen Review in December 1964 and collected as the title essay of Against Interpretation (1966): Sontag argues that modern criticism has substituted the hunt for hidden meaning for the experience of art, and calls for an 'erotics' of art in place of a hermeneutics.",
+   "summary": "A prose essay in which Sontag describes the modern habit of interpretation, traces its history from the Greeks through Freud and Marx, argues that it has become a way of taming and diminishing art, and ends with a set of proposals for a criticism that would attend to the surface of works.",
+   "plot": "Sontag begins from a fact about the modern reader: that the first question asked of a work of art is what it means, and that interpretation - the translation of the visible into a hidden content - has become the dominant activity of criticism. She distinguishes two historical kinds of interpretation: the pre-modern kind, which sought to bring old texts up to date by allegory, and the modern kind, which she describes as 'excavating' and destroying, treating the work as a symptom of something the critic already knows (the Oedipal, the economic, the ideological). She argues that the modern style of interpretation has become a defensive response to the difficulty of modern art, a way of making it manageable; that it separates form from content, and that the separation is false; that the flight from interpretation is at the root of much of modern art's own difficulty; and that what is needed instead is a criticism that attends to the surface of works - to their descriptions, their textures, their ways of doing whatever they do. The essay's last sentences give the famous formula: 'In place of a hermeneutics we need an erotics of art.' The essay's method is to describe a habit of reading, give it a history, show what it costs, and propose a discipline in its place; its confidence comes from the assumption that criticism is a form of writing with its own pleasures, and its polemical edge from the conviction that most contemporary criticism had stopped looking at works of art altogether.",
+   "significance": "Among the most influential American essays of the century: it named a whole critical disposition, gave a generation its formula for describing works of art, and opened the way for the cultural studies and postcritique that followed; the essay is a standard text in courses on criticism and theory, and its closing phrase, 'an erotics of art', is one of the most quoted in modern criticism.",
+   "meter": "Aphoristic, confident, declarative prose with short paragraphs and frequent italicised terms; sentences built as definitions and reversals; a taste for lists and for the imperative; a first person plural that speaks for the age ('our culture', 'we are taught'), balanced by a critic's willingness to praise and blame particular works.",
+   "context": "First published in the Evergreen Review, vol. 8, no. 34 (December 1964), and collected as the opening essay of Against Interpretation and Other Essays (New York: Farrar, Straus and Giroux, 1966), a finalist for the National Book Award; it belongs to Sontag's early New York period, when she was writing for the little magazines and the Partisan Review circle, and to the 1960s rethinking of criticism that produced the New Sensibility and the study of popular culture.",
+   "characters": "",
+   "structure": "An essay of some twenty pages in numbered sections, moving from description to history to polemic to prescription; the argument is carried by antithesis (form and content, depth and surface, hermeneutics and erotics) and ends with a compressed statement of aims rather than a conclusion.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Essay"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "Against Interpretation (Wikipedia)",
+    "Evergreen Review, index 1957-1967",
+    "Susan Sontag (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -72904,7 +73199,7 @@
    ]
   },
   {
-   "id": 2880,
+   "id": 2883,
    "title": "An Island Is a World",
    "altTitles": [],
    "authorship": "single",
@@ -73610,7 +73905,7 @@
    ]
   },
   {
-   "id": 2977,
+   "id": 2980,
    "title": "Anseo",
    "altTitles": [],
    "authorship": "single",
@@ -75052,7 +75347,7 @@
    ]
   },
   {
-   "id": 2994,
+   "id": 2997,
    "title": "At the Fishhouses",
    "altTitles": [],
    "authorship": "single",
@@ -78045,7 +78340,7 @@
    ]
   },
   {
-   "id": 2935,
+   "id": 2938,
    "title": "Black Jackets",
    "altTitles": [],
    "authorship": "single",
@@ -78091,6 +78386,57 @@
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
     "Thom Gunn (Wikipedia)",
     "Thom Gunn, Collected Poems (WorldCat contents listing)"
+   ]
+  },
+  {
+   "id": 3027,
+   "title": "Black Mother Woman",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Audre Lorde"
+   ],
+   "authorIds": [
+    901
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1973",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem printed in From a Land Where Other People Live (1973): a daughter addresses the mother who taught her silence and endurance, and the poem holds love and reproach in the same breath as Lorde names the inheritance she means to change.",
+   "summary": "A first-person poem of address, in which the speaker, herself a mother, speaks to her own mother about what was handed down - silence, work, the care of others - and about what she means to do differently with her children.",
+   "plot": "The poem is spoken by a daughter who is also a mother, and it moves between the two positions: the child who learned from her mother how to work, how to keep silence and how to survive, and the mother who looks at her own children and wants to hand on something other than silence. The address to the 'black mother woman' is tender and accusing at once: the mother's strength is recognised and celebrated, and so is the cost of it, both to the mother and to the daughter. The poem's images are domestic - hands, kitchens, the body's labour - and its rhythms are those of speech held under pressure. Towards the end the speaker turns from the past to the future and the poem becomes a promise: the inheritance will be altered, and the silence will not be passed on.",
+   "significance": "One of Lorde's most frequently taught poems and a standard text on Black motherhood and on the mother-daughter poem in American literature; it is regularly set beside the work of Lucille Clifton and Gwendolyn Brooks, and it is the poem through which the autobiographical basis of Lorde's writing is usually introduced.",
+   "meter": "Plain free verse with short lines, sparse punctuation and a syntax close to speech at its most pressured; the repetition of the key address works as refrain; the diction refuses ornament, and the poem's emotion is carried by rhythm and repetition rather than by metaphor.",
+   "context": "Printed in From a Land Where Other People Live (Detroit: Broadside Press, 1973), a National Book Award finalist, and reprinted in The Collected Poems; it belongs to the early 1970s literature of Black motherhood and to the poetry of the women's movement, and it is one of a group of Lorde poems - with 'The Woman Thing' and 'Coal' - in which her themes of race, gender and family are held together.",
+   "characters": "",
+   "structure": "A poem of address in open form, without stanza divisions, organised by the alternation between past and present and between the mother and the speaker's own children; repetition of the address at intervals gives the poem its shape, and the ending turns from memory to promise.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "The Collected Poems of Audre Lorde (library catalogue contents)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -79667,7 +80013,7 @@
    ]
   },
   {
-   "id": 2922,
+   "id": 2925,
    "title": "Calypso",
    "altTitles": [],
    "authorship": "single",
@@ -80523,7 +80869,7 @@
    ]
   },
   {
-   "id": 2961,
+   "id": 2964,
    "title": "Casualty",
    "altTitles": [],
    "authorship": "single",
@@ -82556,7 +82902,7 @@
    ]
   },
   {
-   "id": 2893,
+   "id": 2896,
    "title": "Church Going",
    "altTitles": [],
    "authorship": "single",
@@ -82606,7 +82952,7 @@
    ]
   },
   {
-   "id": 2950,
+   "id": 2953,
    "title": "Civil Peace",
    "altTitles": [],
    "authorship": "single",
@@ -82876,7 +83222,7 @@
    ]
   },
   {
-   "id": 2963,
+   "id": 2966,
    "title": "Clearances",
    "altTitles": [],
    "authorship": "single",
@@ -83074,6 +83420,57 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 3025,
+   "title": "Coal",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Audre Lorde"
+   ],
+   "authorIds": [
+    901
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1968",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem collected in Lorde's first book, The First Cities (1968) and used as the title poem of Coal (1976): a short lyric in which the blackness of coal is turned from a metaphor of injury into an image of value, heat and art.",
+   "summary": "A short poem in open form, in which coal - black, buried, flammable, precious - is set beside the poet's own blackness, and the poem ends by claiming the jewel that the miners' labour produces.",
+   "plot": "The poem is short and concentrated, and works by turning a single image. Coal is black, is dug out of the earth, is dirty to handle and is the source of heat and light; the poet takes that image and puts it beside the blackness of her own body and her own people, so that the centuries of association of blackness with dirt, night and death are reversed into an image of concentrated value and energy. The poem moves from the mineral to the human and from the labour of mining to the labour of making a poem, and its imagery of pressure and transformation - the earth compressing what is buried into something hard and precious - becomes a way of describing the history of Black Americans. The close of the poem turns the image outward, from the stone to the person, and the poem's argument is complete in a few lines: what has been treated as base material is in fact the source of light.",
+   "significance": "One of Lorde's most anthologised poems and the source of the title of her best-known selection; it is a standard text in courses on Black American poetry and on the literature of the 1960s, and its handling of the blackness metaphor is regularly contrasted with the more programmatic poetry of the Black Arts movement.",
+   "meter": "Spare free verse with very little punctuation and a syntax close to speech; the images are held apart from one another rather than joined by connectives; repetition of the key word as insistence rather than decoration; no regular metre, but a strong rhythm of short breaths.",
+   "context": "Collected in The First Cities (1968), Lorde's first book, published by the Poet's Press, and made the title poem of Coal (1976), the selection from her first three books published by Norton; it belongs to the Black Arts movement of the later 1960s and to the first wave of Black feminist poetry, and it is the poem through which her early manner is usually introduced.",
+   "characters": "",
+   "structure": "A short open-form poem of some twenty lines in a single movement, without stanza divisions, built around one developing image rather than around narrative or argument; the poem's turn comes late, when the mineral image is applied to the speaker, and the last lines are declarative and short.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "The Collected Poems of Audre Lorde (library catalogue contents)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -83711,7 +84108,7 @@
    ]
   },
   {
-   "id": 2920,
+   "id": 2923,
    "title": "Colonization in Reverse",
    "altTitles": [],
    "authorship": "single",
@@ -85268,7 +85665,7 @@
    ]
   },
   {
-   "id": 2965,
+   "id": 2968,
    "title": "Corniche",
    "altTitles": [],
    "authorship": "single",
@@ -85551,7 +85948,7 @@
    ]
   },
   {
-   "id": 2871,
+   "id": 2874,
    "title": "Critical Essays",
    "altTitles": [
     "Dickens, Dali and Others: Studies in Popular Culture"
@@ -85824,7 +86221,7 @@
    ]
   },
   {
-   "id": 2949,
+   "id": 2952,
    "title": "Crow Tyrannosaurus",
    "altTitles": [],
    "authorship": "single",
@@ -85873,7 +86270,7 @@
    ]
   },
   {
-   "id": 2948,
+   "id": 2951,
    "title": "Crow's Last Stand",
    "altTitles": [],
    "authorship": "single",
@@ -86267,7 +86664,7 @@
    ]
   },
   {
-   "id": 2989,
+   "id": 2992,
    "title": "Cuttings",
    "altTitles": [],
    "authorship": "single",
@@ -86316,7 +86713,7 @@
    ]
   },
   {
-   "id": 2990,
+   "id": 2993,
    "title": "Cuttings (later)",
    "altTitles": [],
    "authorship": "single",
@@ -87832,7 +88229,7 @@
    ]
   },
   {
-   "id": 2956,
+   "id": 2959,
    "title": "Death and the King's Horseman",
    "altTitles": [],
    "authorship": "single",
@@ -87883,7 +88280,7 @@
    ]
   },
   {
-   "id": 2970,
+   "id": 2973,
    "title": "Death by Landscape",
    "altTitles": [],
    "authorship": "single",
@@ -88096,7 +88493,7 @@
    ]
   },
   {
-   "id": 3004,
+   "id": 3007,
    "title": "Death of a Salesman",
    "altTitles": [],
    "authorship": "single",
@@ -88318,7 +88715,7 @@
    ]
   },
   {
-   "id": 2924,
+   "id": 2927,
    "title": "Decolonising the Mind",
    "altTitles": [
     "Decolonising the Mind: The Politics of Language in African Literature"
@@ -89382,7 +89779,7 @@
    ]
   },
   {
-   "id": 2958,
+   "id": 2961,
    "title": "Digging",
    "altTitles": [],
    "authorship": "single",
@@ -89596,7 +89993,7 @@
    ]
   },
   {
-   "id": 2925,
+   "id": 2928,
    "title": "Discourse on the Logic of Language",
    "altTitles": [],
    "authorship": "single",
@@ -89956,7 +90353,7 @@
    ]
   },
   {
-   "id": 2919,
+   "id": 2922,
    "title": "Do Not Go Gentle into That Good Night",
    "altTitles": [],
    "authorship": "single",
@@ -91767,7 +92164,7 @@
    ]
   },
   {
-   "id": 2890,
+   "id": 2893,
    "title": "Eldorado West One",
    "altTitles": [],
    "authorship": "single",
@@ -92007,7 +92404,7 @@
    ]
   },
   {
-   "id": 2992,
+   "id": 2995,
    "title": "Elegy for Jane",
    "altTitles": [],
    "authorship": "single",
@@ -92187,7 +92584,7 @@
    ]
   },
   {
-   "id": 2934,
+   "id": 2937,
    "title": "Elements of Composition",
    "altTitles": [],
    "authorship": "single",
@@ -93882,7 +94279,7 @@
    ]
   },
   {
-   "id": 2928,
+   "id": 2931,
    "title": "Epilogue",
    "altTitles": [],
    "authorship": "single",
@@ -97079,7 +97476,7 @@
    ]
   },
   {
-   "id": 2981,
+   "id": 2984,
    "title": "First Screening",
    "altTitles": [],
    "authorship": "single",
@@ -97552,7 +97949,7 @@
    ]
   },
   {
-   "id": 2973,
+   "id": 2976,
    "title": "Fond Memory",
    "altTitles": [],
    "authorship": "single",
@@ -97602,7 +97999,7 @@
    ]
   },
   {
-   "id": 3010,
+   "id": 3013,
    "title": "For Esmé—with Love and Squalor",
    "altTitles": [],
    "authorship": "single",
@@ -97652,7 +98049,7 @@
    ]
   },
   {
-   "id": 3009,
+   "id": 3012,
    "title": "For the Union Dead",
    "altTitles": [],
    "authorship": "single",
@@ -97754,7 +98151,7 @@
    ]
   },
   {
-   "id": 2891,
+   "id": 2894,
    "title": "Foreday Morning: Selected Prose 1946-1986",
    "altTitles": [],
    "authorship": "single",
@@ -98549,7 +98946,7 @@
    ]
   },
   {
-   "id": 2937,
+   "id": 2940,
    "title": "From the Wave",
    "altTitles": [],
    "authorship": "single",
@@ -99946,7 +100343,7 @@
    ]
   },
   {
-   "id": 2897,
+   "id": 2900,
    "title": "Going, Going",
    "altTitles": [],
    "authorship": "single",
@@ -101764,7 +102161,7 @@
    ]
   },
   {
-   "id": 3012,
+   "id": 3015,
    "title": "Harrison Bergeron",
    "altTitles": [],
    "authorship": "single",
@@ -101914,6 +102311,57 @@
    "sources": [
     "TEAMS Middle English Texts Series",
     "The Cambridge History of Medieval English Literature"
+   ]
+  },
+  {
+   "id": 3023,
+   "title": "Having a Coke with You",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Frank O'Hara"
+   ],
+   "authorIds": [
+    900
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Written in April 1960 and printed in Love Poems (Tentative Title) (1965): a love poem in long free-verse lines that compares the beloved with the paintings in the world and with a recent trip to Spain, chooses the afternoon and the Coke with him, and makes the comparison itself the declaration.",
+   "summary": "A single address in long free-verse lines, in which the poet lists what he would rather do than sit with the beloved - travel, look at paintings, visit Spain - and finds that the list keeps turning into reasons for preferring the afternoon they are having, with its Coke, its orange shirt and its talk.",
+   "plot": "The poem begins by preferring the beloved's company to a whole itinerary - 'Having a coke with you / is even more fun than going to San Sebastian, Irun, Hendaye, Biarritz, Bayonne' - and then, in a rush of clauses, says why: because of the orange shirt, because of the lover's yoghurt, because of the tulips, because of the secrecy of their smiles, because he would rather look at him 'than all the portraits in the world', with one exception, the 'Polish Rider' of Rembrandt, which is in the Frick and which they can go to see together for the first time. The poem keeps its balance between the grand and the small - Spanish cities, Rembrandt, the Frick - and the ordinary: a Coke, a shirt, a smile, a day off. It ends not with a declaration but with the present-tense fact of the afternoon, the poem having argued that this is enough. The comparisons are the argument: the beloved is not measured against art and found equal to it but preferred to it, and the preference is stated in the terms of a shopping list and a holiday itinerary, in the voice of someone who cannot quite believe his luck. Its form is one long sentence of clauses held together by 'because', so that the grammar itself keeps finding new reasons, and the poem's happiness is the happiness of a syntax that will not stop.",
+   "significance": "One of the most loved and most anthologised American love poems of the second half of the century; it is a standard text in courses on modern love poetry, on the New York School and on gay literature, it has been widely quoted in popular culture from films to songs, and it is the poem through which O'Hara's 'Personism' is most often explained.",
+   "meter": "Long breathless lines of talk, with lists, exclamations, questions and parenthetical asides; proper names left in (Biarritz, the Frick, the Polish Rider, yoghurt); no regular metre; the rhythm of a man speaking quickly because he is happy.",
+   "context": "Written on 21 April 1960, four days after O'Hara returned from a trip to Spain, and addressed to the Canadian ballet dancer Vincent Warren, whom he had met in the summer of 1959; printed in Love Poems (Tentative Title) (Tibor de Nagy, 1965), the last collection published in his lifetime. It belongs to the sequence of love poems of 1959-61, his most productive period, and to the gay love poetry of the period, which had few public models.",
+   "characters": "",
+   "structure": "A single sentence-like movement in long free-verse lines, with no stanza breaks, held together by anaphora ('partly because', 'it is hard to believe') and by the accumulation of clauses; the ending returns to the opening situation - the Coke - so that the poem closes where it began.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "The New York School"
+   ],
+   "editions": [],
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "Having a Coke with You (Encyclopedia.com, Poetry for Students)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -103370,7 +103818,7 @@
    ]
   },
   {
-   "id": 2896,
+   "id": 2899,
    "title": "High Windows (poem)",
    "altTitles": [],
    "authorship": "single",
@@ -103474,7 +103922,7 @@
    ]
   },
   {
-   "id": 2892,
+   "id": 2895,
    "title": "Highway in the Sun and Other Plays",
    "altTitles": [],
    "authorship": "single",
@@ -104155,7 +104603,7 @@
    ]
   },
   {
-   "id": 2921,
+   "id": 2924,
    "title": "History of the Voice",
    "altTitles": [
     "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry"
@@ -104273,7 +104721,7 @@
    ]
   },
   {
-   "id": 2899,
+   "id": 2902,
    "title": "Homage to a Government",
    "altTitles": [],
    "authorship": "single",
@@ -104921,7 +105369,7 @@
    ]
   },
   {
-   "id": 2987,
+   "id": 2990,
    "title": "Hullabaloo in the Guava Orchard",
    "altTitles": [],
    "authorship": "single",
@@ -105967,7 +106415,7 @@
    ]
   },
   {
-   "id": 2884,
+   "id": 2887,
    "title": "I Hear Thunder",
    "altTitles": [],
    "authorship": "single",
@@ -106018,7 +106466,7 @@
    ]
   },
   {
-   "id": 2993,
+   "id": 2996,
    "title": "I Knew a Woman",
    "altTitles": [],
    "authorship": "single",
@@ -106528,7 +106976,7 @@
    ]
   },
   {
-   "id": 2927,
+   "id": 2930,
    "title": "Imaginary Homelands",
    "altTitles": [
     "Imaginary Homelands: Essays and Criticism 1981-1991"
@@ -107125,7 +107573,7 @@
    ]
   },
   {
-   "id": 2951,
+   "id": 2954,
    "title": "In Memory of Jane Fraser",
    "altTitles": [],
    "authorship": "single",
@@ -107171,6 +107619,57 @@
     "Geoffrey Hill, Broken Hierarchies: Poems 1952-2012 (Oxford University Press contents)",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
     "Weight of the Word, Weight of the World (Poetry Foundation, on Geoffrey Hill)"
+   ]
+  },
+  {
+   "id": 3024,
+   "title": "In Memory of My Feelings",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Frank O'Hara"
+   ],
+   "authorIds": [
+    900
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1956",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse sequence)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A long poem of 1956, printed in the Evergreen Review in 1958 and reprinted in The New American Poetry in 1960: a sequence in which the poet tries on and discards a series of selves, from a serpent to a stag to a film star, and arrives at the moving 'scene of my selves'.",
+   "summary": "A poem in numbered sections, mixing narrative, dialogue, list and lyric, in which the speaker assumes and refuses a series of identities and ends by accepting that the self is a scene rather than a thing.",
+   "plot": "The poem is in sections and moves between several kinds of writing: a narrative of a stag hunt and a serpent, a passage of film-star glamour, a sequence of lists and exclamations, and a meditative close. Its governing action is the assumption and rejection of selves - the poet tries on the roles of lover, hunter, animal, woman, star and corpse - and the poem's most quoted formulation is that the self is 'the scene of my selves', a place in which identities arrive and depart rather than a substance that persists. The dedication names Grace Hartigan, the painter, and the poem's imagery is full of her canvases; the emotional movement is from the wish to be fixed to the acceptance of change, and the last sections turn to love and to the possibility of being 'reborn' in the ordinary.",
+   "significance": "O'Hara's most ambitious long poem and, with 'Second Avenue' and 'Rhapsody', the work on which his claim to be a major poet rather than a charming occasional one rests; it is a standard text for the New York School, for the poetry of identity and for the relation between American poetry and abstract expressionism, and its 'scene of my selves' is one of the period's defining phrases.",
+   "meter": "Dense, surreal and rhetorical rather than conversational - the least 'lunch poem' of O'Hara's major works - with long cascading lines, exclamations, invented images and sudden plain statements; the diction ranges from the archaic to the camp, and the poem's rhythms are closer to music than to talk.",
+   "context": "Dated in manuscript 27 June to 1 July 1956 and first published in the Evergreen Review in 1958; reprinted in Donald Allen's The New American Poetry, 1945-1960 (1960), the anthology that made the New York School a public fact. It was the poem that gave its title to the Museum of Modern Art's memorial volume of 1967 and to Jasper Johns's painting of 1961, and it belongs to the moment of O'Hara's closest engagement with the painters of his circle.",
+   "characters": "",
+   "structure": "A sequence in numbered sections, moving without transition between narrative, dialogue, list and lyric; the poem's coherence is thematic rather than syntactic, and its returns and repetitions enact the movement between selves that it describes.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Experimental Fiction",
+    "Free Verse"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Identity, authenticity and the divided self",
+    "Sexuality, desire and the closet"
+   ],
+   "movements": [
+    "The New York School"
+   ],
+   "editions": [],
+   "sources": [
+    "Evergreen Review, index 1957-1967",
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -107284,7 +107783,7 @@
    ]
   },
   {
-   "id": 2907,
+   "id": 2910,
    "title": "In Praise of Limestone",
    "altTitles": [],
    "authorship": "single",
@@ -107481,7 +107980,7 @@
    ]
   },
   {
-   "id": 2997,
+   "id": 3000,
    "title": "In the Waiting Room",
    "altTitles": [],
    "authorship": "single",
@@ -107887,7 +108386,7 @@
    ]
   },
   {
-   "id": 2931,
+   "id": 2934,
    "title": "Inglan Is a Bitch",
    "altTitles": [],
    "authorship": "single",
@@ -109181,7 +109680,7 @@
    ]
   },
   {
-   "id": 2872,
+   "id": 2875,
    "title": "James Burnham and the Managerial Revolution",
    "altTitles": [
     "Second Thoughts on James Burnham"
@@ -113476,7 +113975,7 @@
    ]
   },
   {
-   "id": 2868,
+   "id": 2871,
    "title": "Les Blancs",
    "altTitles": [],
    "authorship": "single",
@@ -113583,7 +114082,7 @@
    ]
   },
   {
-   "id": 2923,
+   "id": 2926,
    "title": "Letter SycoraX",
    "altTitles": [],
    "authorship": "single",
@@ -116295,7 +116794,7 @@
    ]
   },
   {
-   "id": 2967,
+   "id": 2970,
    "title": "Looking for a Rain God",
    "altTitles": [],
    "authorship": "single",
@@ -116345,7 +116844,7 @@
    ]
   },
   {
-   "id": 3003,
+   "id": 3006,
    "title": "Looking for Mr. Green",
    "altTitles": [],
    "authorship": "single",
@@ -120792,7 +121291,7 @@
    ]
   },
   {
-   "id": 2894,
+   "id": 2897,
    "title": "MCMXIV",
    "altTitles": [],
    "authorship": "single",
@@ -121066,7 +121565,7 @@
    ]
   },
   {
-   "id": 2985,
+   "id": 2988,
    "title": "Medusa",
    "altTitles": [],
    "authorship": "single",
@@ -121117,7 +121616,7 @@
    ]
   },
   {
-   "id": 2978,
+   "id": 2981,
    "title": "Meeting the British",
    "altTitles": [],
    "authorship": "single",
@@ -121540,7 +122039,7 @@
    ]
   },
   {
-   "id": 3007,
+   "id": 3010,
    "title": "Memories of West Street and Lepke",
    "altTitles": [],
    "authorship": "single",
@@ -122096,7 +122595,7 @@
    ]
   },
   {
-   "id": 2980,
+   "id": 2983,
    "title": "Milkweed and Monarch",
    "altTitles": [],
    "authorship": "single",
@@ -122583,7 +123082,7 @@
    ]
   },
   {
-   "id": 2971,
+   "id": 2974,
    "title": "Miss July Grows Older",
    "altTitles": [],
    "authorship": "single",
@@ -123629,7 +124128,7 @@
    ]
   },
   {
-   "id": 2964,
+   "id": 2967,
    "title": "Morse",
    "altTitles": [],
    "authorship": "single",
@@ -123679,7 +124178,7 @@
    ]
   },
   {
-   "id": 2888,
+   "id": 2891,
    "title": "Moses Ascending",
    "altTitles": [],
    "authorship": "single",
@@ -123733,7 +124232,7 @@
    ]
   },
   {
-   "id": 2889,
+   "id": 2892,
    "title": "Moses Migrating",
    "altTitles": [],
    "authorship": "single",
@@ -124195,7 +124694,7 @@
    ]
   },
   {
-   "id": 3005,
+   "id": 3008,
    "title": "Mr. Edwards and the Spider",
    "altTitles": [],
    "authorship": "single",
@@ -124352,7 +124851,7 @@
    ]
   },
   {
-   "id": 2986,
+   "id": 2989,
    "title": "Mrs Lazarus",
    "altTitles": [],
    "authorship": "single",
@@ -125315,7 +125814,7 @@
    ]
   },
   {
-   "id": 2936,
+   "id": 2939,
    "title": "My Sad Captains",
    "altTitles": [],
    "authorship": "single",
@@ -125364,7 +125863,7 @@
    ]
   },
   {
-   "id": 2982,
+   "id": 2985,
    "title": "My Son the Fanatic",
    "altTitles": [],
    "authorship": "single",
@@ -126775,7 +127274,7 @@
    ]
   },
   {
-   "id": 3008,
+   "id": 3011,
    "title": "Night Sweat",
    "altTitles": [],
    "authorship": "single",
@@ -127050,7 +127549,7 @@
    ]
   },
   {
-   "id": 2874,
+   "id": 2877,
    "title": "Nineteen Eighty-Four",
    "altTitles": [
     "1984"
@@ -127526,7 +128025,7 @@
    ]
   },
   {
-   "id": 2917,
+   "id": 2920,
    "title": "Not Waving but Drowning",
    "altTitles": [],
    "authorship": "single",
@@ -130849,7 +131348,7 @@
    ]
   },
   {
-   "id": 2943,
+   "id": 2946,
    "title": "Omeros",
    "altTitles": [],
    "authorship": "single",
@@ -131439,7 +131938,7 @@
    ]
   },
   {
-   "id": 2905,
+   "id": 2908,
    "title": "On Not Shooting Sitting Birds",
    "altTitles": [],
    "authorship": "single",
@@ -131671,7 +132170,7 @@
    ]
   },
   {
-   "id": 3011,
+   "id": 3014,
    "title": "On the Road",
    "altTitles": [],
    "authorship": "single",
@@ -131771,7 +132270,7 @@
    ]
   },
   {
-   "id": 2998,
+   "id": 3001,
    "title": "One Art",
    "altTitles": [],
    "authorship": "single",
@@ -131822,7 +132321,7 @@
    ]
   },
   {
-   "id": 2955,
+   "id": 2958,
    "title": "One Out of Many",
    "altTitles": [],
    "authorship": "single",
@@ -132668,7 +133167,7 @@
    ]
   },
   {
-   "id": 2916,
+   "id": 2919,
    "title": "Our Bog Is Dood",
    "altTitles": [],
    "authorship": "single",
@@ -132991,7 +133490,7 @@
    ]
   },
   {
-   "id": 2946,
+   "id": 2949,
    "title": "Out",
    "altTitles": [],
    "authorship": "single",
@@ -135121,6 +135620,55 @@
    ]
   },
   {
+   "id": 3019,
+   "title": "Personism: A Manifesto",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Frank O'Hara"
+   ],
+   "authorIds": [
+    900
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1961",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (literary manifesto)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A short comic manifesto written in 1959 and published in the magazine Yugen in 1961: O'Hara announces a movement invented 'after lunch with LeRoi Jones on August 27, 1959' and argues that a poem should be 'between two persons instead of two pages'.",
+   "summary": "Some five hundred words of mock programme, in which O'Hara names his movement, dates its founding to a lunch with a friend, refuses metre, assonance and 'all that stuff', and reduces poetics to one instruction: go on your nerve.",
+   "plot": "The essay opens by declaring that everything written since 1949 about poetry has been 'in the public domain, practically' and announces a new movement, Personism, founded - the joke is the precision - 'after lunch with LeRoi Jones on August 27, 1959'. O'Hara explains that he has taken the name from 'Personalism' after hearing that the great problem of the age was 'Personal ism' and that the movement 'has nothing to do with personality or intimacy, far from it!'. He then gives the argument: a poem should be written as if addressed to one person, as if the telephone had replaced the printing press, so that the poem is 'at last between two persons instead of two pages'. He dismisses metre, assonance and 'all that stuff' ('You just go on your nerve'), admits that the movement has already been attacked and that he intends to keep it 'in the family', and ends by imagining the poem in the hands of its single reader and by proposing, half-seriously, to abolish the audience. The manifesto's tone is the argument: it is a joke that makes a real claim about scale, intimacy and the death of the public reader.",
+   "significance": "The best-known statement of poetics by any of the New York School poets and one of the few twentieth-century American manifestos still quoted whole; the phrase 'between two persons instead of two pages' is the standard shorthand for O'Hara's conversational poetics, and the piece is a standard anthology text on American avant-garde poetics and on the manifesto as a genre.",
+   "meter": "Comic, chatty, first-person prose with exclamation marks and abrupt asides; short paragraphs; deliberate name-dropping (LeRoi Jones, 'the great problem of the age'); the vocabulary of bureaucracy and publicity ('public domain', 'movement', 'the family') applied to poetry; a single memorable aphorism, 'The poem is at last between two persons instead of two pages'.",
+   "context": "Written in 1959 for a projected anthology of statements on poetics (Donald Allen's The New American Poetry, 1945-1960, where it was not in the end printed) and published in Yugen, the little magazine edited by LeRoi Jones and Hettie Cohen, in 1961; it belongs to the run of New York School statements about poetry and to the longer tradition of the avant-garde manifesto, and it was taken up in the 1960s as a name for O'Hara's whole manner.",
+   "characters": "",
+   "structure": "A single short prose piece in three movements: the founding joke, the definition and the consequences; it borrows the shape of the modernist manifesto (Marinetti, Breton, the Imagists) and deflates it, offering a founding date, a name, a doctrine and a schism within one page.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Experimental Fiction",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Manifesto"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation"
+   ],
+   "movements": [
+    "The New York School"
+   ],
+   "editions": [],
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1216,
    "title": "Persuasion",
    "altTitles": [
@@ -136049,7 +136597,7 @@
    ]
   },
   {
-   "id": 2945,
+   "id": 2948,
    "title": "Pike",
    "altTitles": [],
    "authorship": "single",
@@ -139494,7 +140042,7 @@
    ]
   },
   {
-   "id": 2902,
+   "id": 2905,
    "title": "Politics and the English Language",
    "altTitles": [],
    "authorship": "single",
@@ -141109,7 +141657,7 @@
    ]
   },
   {
-   "id": 2960,
+   "id": 2963,
    "title": "Punishment",
    "altTitles": [],
    "authorship": "single",
@@ -141424,7 +141972,7 @@
    ]
   },
   {
-   "id": 2995,
+   "id": 2998,
    "title": "Questions of Travel",
    "altTitles": [],
    "authorship": "single",
@@ -142646,7 +143194,7 @@
    ]
   },
   {
-   "id": 2952,
+   "id": 2955,
    "title": "Requiem for the Plantagenet Kings",
    "altTitles": [],
    "authorship": "single",
@@ -144931,7 +145479,7 @@
    ]
   },
   {
-   "id": 2898,
+   "id": 2901,
    "title": "Sad Steps",
    "altTitles": [],
    "authorship": "single",
@@ -146504,7 +147052,7 @@
    ]
   },
   {
-   "id": 2933,
+   "id": 2936,
    "title": "Self-Portrait",
    "altTitles": [],
    "authorship": "single",
@@ -146735,7 +147283,7 @@
    ]
   },
   {
-   "id": 2953,
+   "id": 2956,
    "title": "September Song",
    "altTitles": [],
    "authorship": "single",
@@ -147982,7 +148530,7 @@
    ]
   },
   {
-   "id": 2875,
+   "id": 2878,
    "title": "Shooting an Elephant and Other Essays",
    "altTitles": [],
    "authorship": "single",
@@ -148082,7 +148630,7 @@
    ]
   },
   {
-   "id": 2988,
+   "id": 2991,
    "title": "Signs and Symbols",
    "altTitles": [],
    "authorship": "single",
@@ -149157,7 +149705,7 @@
    ]
   },
   {
-   "id": 3006,
+   "id": 3009,
    "title": "Skunk Hour",
    "altTitles": [],
    "authorship": "single",
@@ -149209,7 +149757,7 @@
    ]
   },
   {
-   "id": 3013,
+   "id": 3016,
    "title": "Slaughterhouse-Five",
    "altTitles": [],
    "authorship": "single",
@@ -152113,7 +152661,7 @@
    ]
   },
   {
-   "id": 2962,
+   "id": 2965,
    "title": "Station Island",
    "altTitles": [],
    "authorship": "single",
@@ -152227,7 +152775,7 @@
    ]
   },
   {
-   "id": 2938,
+   "id": 2941,
    "title": "Still Life",
    "altTitles": [],
    "authorship": "single",
@@ -152686,7 +153234,7 @@
    ]
   },
   {
-   "id": 2876,
+   "id": 2879,
    "title": "Such, Such Were the Joys",
    "altTitles": [],
    "authorship": "single",
@@ -152954,7 +153502,7 @@
    ]
   },
   {
-   "id": 3002,
+   "id": 3005,
    "title": "Summertime and the Living . . .",
    "altTitles": [],
    "authorship": "single",
@@ -153965,7 +154513,7 @@
    ]
   },
   {
-   "id": 2895,
+   "id": 2898,
    "title": "Talking in Bed",
    "altTitles": [],
    "authorship": "single",
@@ -157116,7 +157664,7 @@
    ]
   },
   {
-   "id": 2996,
+   "id": 2999,
    "title": "The Armadillo",
    "altTitles": [],
    "authorship": "single",
@@ -158717,7 +159265,7 @@
    ]
   },
   {
-   "id": 2911,
+   "id": 2914,
    "title": "The Bean Eaters",
    "altTitles": [],
    "authorship": "single",
@@ -159462,7 +160010,7 @@
    ]
   },
   {
-   "id": 2914,
+   "id": 2917,
    "title": "The Blackstone Rangers",
    "altTitles": [],
    "authorship": "single",
@@ -162845,7 +163393,7 @@
    ]
   },
   {
-   "id": 2909,
+   "id": 2912,
    "title": "The Children of the Poor",
    "altTitles": [],
    "authorship": "single",
@@ -163806,7 +164354,7 @@
    ]
   },
   {
-   "id": 2877,
+   "id": 2880,
    "title": "The Collected Essays, Journalism and Letters of George Orwell",
    "altTitles": [],
    "authorship": "single",
@@ -166762,6 +167310,57 @@
    ]
   },
   {
+   "id": 3022,
+   "title": "The Day Lady Died",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Frank O'Hara"
+   ],
+   "authorIds": [
+    900
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1959",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Written on 17 July 1959, the day Billie Holiday's death was reported, and printed in Lunch Poems (1964): the poem records a lunch hour of errands in Manhattan - a shoeshine, a bank, a gift, a bottle of Strega, a book of Genet's plays - and then, in its last lines, the news of her death and the memory of hearing her sing.",
+   "summary": "A single afternoon in short free-verse lines, with exact times, a shoeshine, a bank, a haberdasher, a bookshop and a bar, and with the news of Billie Holiday's death arriving at the end - not as an event in the poem but as the thing that stops it, so that the last line is a memory of her singing and of a room falling silent.",
+   "plot": "The poem opens with its characteristic precision - 'It is 12:20 in New York a Friday / three days after Bastille day, yes / it is 1959' - and then follows the poet through an ordinary sequence of errands: a shoeshine, a bank, a walk up to a store to buy a gift, a stop at the Golden Griffin to buy a bottle of Strega for a friend, a look at the New World Writing paperback and a purchase of Genet's plays at the Eighth Street Bookshop. The details are specific and unsentimental - the names of streets, the price of things, the cashier's name - and the poem's rhythm is the rhythm of an afternoon with nothing in it. Then, in the last lines, the poet sees a sign or a headline, learns that Billie Holiday has died, and goes into a bar where a woman is singing; the poem ends with the memory of hearing Lady sing at the Five Spot, '#and everyone and I stopped breathing', the 'and' carrying the shock and the grammar breaking under it. The poem's structure is an errand list with a hole at the end: nothing in the afternoon prepares for the death, and the flatness of the earlier lines is what makes the last four unbearable. The poem's dates and prices have been read as an indictment of the culture that produced both the singer and the shoebox city, but their first function is structural: they establish a world so thoroughly ordinary that death cannot be prepared for in it.",
+   "significance": "One of the most admired American short poems of the century and O'Hara's best-known work; it is a standard anthology piece, a set text on the elegy, on the New York School and on the poetry of the city, and its final line is among the most frequently quoted in postwar American poetry.",
+   "meter": "Conversational free verse with exact times, dates, place names, brand names and prices; line breaks at the phrase; the last line's '#and everyone and I stopped breathing' uses the hash sign as a stage direction for a gasp and reverses the natural word order, producing the most discussed single line in O'Hara's work.",
+   "context": "Written on 17 July 1959, the day the newspapers reported Billie Holiday's death, and printed in Lunch Poems (City Lights, 1964); O'Hara had heard Holiday sing at the Five Spot in the 1950s. The poem belongs to the small group of American elegies for jazz musicians, with Frank O'Hara's own tributes to Pollock and to Bunny Lang, and it is the poem through which the New York School's relation to jazz and to the recording of a single day is usually taught.",
+   "characters": "",
+   "structure": "One continuous free-verse sequence of about forty lines, with no stanza breaks, organised by the sequence of errands and by the clock; the single turn comes in the last six lines, when the poem shifts from the street to the memory of the performance, and the poem ends in the middle of a breath.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "The New York School"
+   ],
+   "editions": [],
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "Lunch Poems (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2791,
    "title": "The Day of the Locust",
    "altTitles": [
@@ -166818,7 +167417,7 @@
    ]
   },
   {
-   "id": 2904,
+   "id": 2907,
    "title": "The Day They Burned the Books",
    "altTitles": [],
    "authorship": "single",
@@ -168318,7 +168917,7 @@
    ]
   },
   {
-   "id": 2974,
+   "id": 2977,
    "title": "The Dolls Museum in Dublin",
    "altTitles": [],
    "authorship": "single",
@@ -169035,7 +169634,7 @@
    ]
   },
   {
-   "id": 2869,
+   "id": 2872,
    "title": "The Drinking Gourd",
    "altTitles": [],
    "authorship": "single",
@@ -169082,7 +169681,7 @@
    ]
   },
   {
-   "id": 2966,
+   "id": 2969,
    "title": "The Drowned World",
    "altTitles": [],
    "authorship": "single",
@@ -170879,7 +171478,7 @@
    ]
   },
   {
-   "id": 2873,
+   "id": 2876,
    "title": "The English People",
    "altTitles": [],
    "authorship": "single",
@@ -172015,7 +172614,7 @@
    ]
   },
   {
-   "id": 2900,
+   "id": 2903,
    "title": "The Explosion",
    "altTitles": [],
    "authorship": "single",
@@ -173131,7 +173730,7 @@
    ]
   },
   {
-   "id": 2929,
+   "id": 2932,
    "title": "The Fat Black Woman Goes Shopping",
    "altTitles": [],
    "authorship": "single",
@@ -175038,7 +175637,7 @@
    ]
   },
   {
-   "id": 2878,
+   "id": 2881,
    "title": "The Freedom of the Press",
    "altTitles": [],
    "authorship": "single",
@@ -176647,7 +177246,7 @@
    ]
   },
   {
-   "id": 2976,
+   "id": 2979,
    "title": "The Glass Essay",
    "altTitles": [],
    "authorship": "single",
@@ -176747,7 +177346,7 @@
    ]
   },
   {
-   "id": 2969,
+   "id": 2972,
    "title": "The God of Small Things",
    "altTitles": [],
    "authorship": "single",
@@ -177574,7 +178173,7 @@
    ]
   },
   {
-   "id": 2959,
+   "id": 2962,
    "title": "The Grauballe Man",
    "altTitles": [],
    "authorship": "single",
@@ -181852,7 +182451,7 @@
    ]
   },
   {
-   "id": 2885,
+   "id": 2888,
    "title": "The Housing Lark",
    "altTitles": [],
    "authorship": "single",
@@ -185245,7 +185844,7 @@
    ]
   },
   {
-   "id": 2913,
+   "id": 2916,
    "title": "The Last Quatrain of the Ballad of Emmett Till",
    "altTitles": [],
    "authorship": "single",
@@ -187777,7 +188376,7 @@
    ]
   },
   {
-   "id": 2881,
+   "id": 2884,
    "title": "The Lonely Londoners",
    "altTitles": [],
    "authorship": "single",
@@ -187983,7 +188582,7 @@
    ]
   },
   {
-   "id": 2975,
+   "id": 2978,
    "title": "The Lost Land",
    "altTitles": [],
    "authorship": "single",
@@ -189928,6 +190527,57 @@
    ]
   },
   {
+   "id": 2866,
+   "title": "The Master's Tools Will Never Dismantle the Master's House",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Audre Lorde"
+   ],
+   "authorIds": [
+    901
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1979",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (address)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Comments delivered at the Second Sex Conference in New York on 29 September 1979 and printed in This Bridge Called My Back (1981) and in Sister Outsider (1984): an attack on a feminism that invites Black and lesbian women as tokens and a demand that difference be made the ground of political work.",
+   "summary": "A short address in which Lorde answers the organisers of a conference on Simone de Beauvoir, names the absence of Black and lesbian women from its programme, and argues that a movement cannot be liberated with the instruments of the system it opposes.",
+   "plot": "Lorde speaks as a panellist at a conference marking thirty years of The Second Sex, and her remarks begin with the fact that the programme she has been invited to join has almost no Black women in it: the absence is the argument. She refuses the position of the token, describes the ways in which Black women and lesbians are asked to be present without being heard, and turns the conference's own subject - Beauvoir's account of woman as other - against it, pointing out that a feminism which makes the experience of white, middle-class, heterosexual women the measure of womanhood reproduces the structure it claims to oppose. Her central formulation is that the master's tools will never dismantle the master's house: the methods of a system cannot be used to end it. The address ends with a call to recognise difference - of race, sexuality, class and age - not as an obstacle to solidarity but as the material of it, and with the warning that a movement which cannot hear the difference within it will fail. The address is short - a few pages - and its force comes from the collision between the courtesy of the panel and the anger of the intervention: Lorde thanks the organisers and then tells them that their conference has reproduced the exclusions it denounces, and her own presence on the platform becomes the evidence for her argument.",
+   "significance": "One of the most quoted American essays of the twentieth century and a founding text of intersectionality; the sentence that gives it its title has become a proverb of political organising, the essay is a standard text in women's, gender and Black studies, and its argument about difference as the ground of solidarity shaped a generation of feminist theory.",
+   "meter": "Direct, first-person, spoken prose with short declarative sentences and a few memorable formulations; anger held in formal syntax; the second person used to address the audience directly ('those of us who stand outside the circle of this society's definition of acceptable women'); no footnotes and no hedging.",
+   "context": "Delivered as comments at the 'Personal and the Political' panel of the Second Sex Conference at New York University on 29 September 1979, the conference marking the thirtieth anniversary of Beauvoir's The Second Sex; printed in This Bridge Called My Back: Writings by Radical Women of Color, ed. Cherrie Moraga and Gloria Anzaldua (1981), and in Sister Outsider (1984). It is one of the founding texts of intersectional feminism and of the Black feminist critique of the second wave.",
+   "characters": "",
+   "structure": "A short address in a handful of paragraphs, opening with the fact of exclusion, moving to the critique of the conference's theory, then to the general claim about tools and the house, and ending with a demand; the paragraphs are built as a sequence of assertions, and the last sentences are a warning and a promise.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Feminist Criticism",
+    "Literary Essay",
+    "Political Essay"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "Sister Outsider (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1918,
    "title": "The Mayor of Casterbridge: The Life and Death of a Man of Character",
    "altTitles": [
@@ -191148,7 +191798,7 @@
    ]
   },
   {
-   "id": 2939,
+   "id": 2942,
    "title": "The Missing",
    "altTitles": [],
    "authorship": "single",
@@ -191783,7 +192433,7 @@
    ]
   },
   {
-   "id": 2866,
+   "id": 2869,
    "title": "The Movement: Documentary of a Struggle for Equality",
    "altTitles": [],
    "authorship": "single",
@@ -196697,7 +197347,7 @@
    ]
   },
   {
-   "id": 2886,
+   "id": 2889,
    "title": "The Plains of Caroni",
    "altTitles": [],
    "authorship": "single",
@@ -199190,7 +199840,7 @@
    ]
   },
   {
-   "id": 2926,
+   "id": 2929,
    "title": "The Prophet's Hair",
    "altTitles": [],
    "authorship": "single",
@@ -203576,7 +204226,7 @@
    ]
   },
   {
-   "id": 2941,
+   "id": 2944,
    "title": "The Schooner Flight",
    "altTitles": [],
    "authorship": "single",
@@ -203931,7 +204581,7 @@
    ]
   },
   {
-   "id": 2942,
+   "id": 2945,
    "title": "The Season of Phantasmal Peace",
    "altTitles": [],
    "authorship": "single",
@@ -205055,7 +205705,7 @@
    ]
   },
   {
-   "id": 2908,
+   "id": 2911,
    "title": "The Shield of Achilles",
    "altTitles": [],
    "authorship": "single",
@@ -205482,7 +206132,7 @@
    ]
   },
   {
-   "id": 2865,
+   "id": 2868,
    "title": "The Sign in Sidney Brustein's Window",
    "altTitles": [],
    "authorship": "single",
@@ -208484,7 +209134,7 @@
    ]
   },
   {
-   "id": 3000,
+   "id": 3003,
    "title": "The Swimmer",
    "altTitles": [],
    "authorship": "single",
@@ -212954,7 +213604,7 @@
    ]
   },
   {
-   "id": 2991,
+   "id": 2994,
    "title": "The Waking",
    "altTitles": [],
    "authorship": "single",
@@ -215358,6 +216008,57 @@
    ]
   },
   {
+   "id": 3026,
+   "title": "The Woman Thing",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Audre Lorde"
+   ],
+   "authorIds": [
+    901
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1970",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem printed in Cables to Rage (1970) and reprinted in Coal (1976): a first-person poem about the body, desire and the naming of a woman's experience, in which the poet refuses the language offered to her and makes her own.",
+   "summary": "A short poem in free verse, spoken in the first person, moving between the body, the memory of a girlhood and the wish to speak plainly about what a woman is and wants.",
+   "plot": "The poem is short, first-person and direct, and its project is to name 'the woman thing' - the experience that the available vocabulary either sentimentalises or refuses to name at all. It moves between recollection and present statement, from a girlhood in which the body was a source of shame or secrecy to an adult claim on pleasure, work and speech, and its imagery is domestic and bodily rather than mythological. The poem's repetitions act as insistence: what the culture will not name, the poem names twice. Its tone is not confessional in the mode of the period's poetry of private suffering but public and declarative, and the 'I' of the poem speaks for a 'we' by the end.",
+   "significance": "One of the poems through which Lorde's early treatment of Black female sexuality is taught; it is a standard text in courses on African American poetry and on feminist poetry of the 1970s, and it prepares the arguments of 'Uses of the Erotic' a decade later.",
+   "meter": "Plain free verse with short lines and sparse punctuation; conversational syntax and direct address; the diction deliberately avoids the ornamental, and the poem's force comes from the refusal of euphemism.",
+   "context": "Printed in Cables to Rage (1970), Lorde's second collection, published by Broadside Press, and reprinted in Coal (1976) and in The Collected Poems; the dating of the poem to 1973 in the anthology's table of contents is presumably the date of a later printing, since the contents of Cables to Rage include it. It belongs to the poetry of Black women's sexuality of the early 1970s, a subject almost unwritten in American verse before it.",
+   "characters": "",
+   "structure": "A short poem in open form, without stanza divisions or regular metre, organised by repetition and by the alternation of memory and statement; the movement is from the private past to the public present, and the poem ends on a declaration rather than an image.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "The Collected Poems of Audre Lorde (library catalogue contents)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1576,
    "title": "The Woman Who Did",
    "altTitles": [
@@ -216375,7 +217076,7 @@
    ]
   },
   {
-   "id": 2947,
+   "id": 2950,
    "title": "Theology",
    "altTitles": [],
    "authorship": "single",
@@ -216705,7 +217406,7 @@
    ]
   },
   {
-   "id": 2901,
+   "id": 2904,
    "title": "This Be The Verse",
    "altTitles": [
     "This Be the Verse"
@@ -216757,7 +217458,7 @@
    ]
   },
   {
-   "id": 2887,
+   "id": 2890,
    "title": "Those Who Eat the Cascadura",
    "altTitles": [],
    "authorship": "single",
@@ -216808,7 +217509,7 @@
    ]
   },
   {
-   "id": 3001,
+   "id": 3004,
    "title": "Those Winter Sundays",
    "altTitles": [],
    "authorship": "single",
@@ -216857,7 +217558,7 @@
    ]
   },
   {
-   "id": 2918,
+   "id": 2921,
    "title": "Thoughts About the Person from Porlock",
    "altTitles": [],
    "authorship": "single",
@@ -218095,7 +218796,7 @@
    ]
   },
   {
-   "id": 2867,
+   "id": 2870,
    "title": "To Be Young, Gifted and Black",
    "altTitles": [],
    "authorship": "single",
@@ -218273,7 +218974,7 @@
    ]
   },
   {
-   "id": 2932,
+   "id": 2935,
    "title": "To Room Nineteen",
    "altTitles": [],
    "authorship": "single",
@@ -218323,7 +219024,7 @@
    ]
   },
   {
-   "id": 2915,
+   "id": 2918,
    "title": "To the Diaspora",
    "altTitles": [],
    "authorship": "single",
@@ -218603,7 +219304,7 @@
    ]
   },
   {
-   "id": 2957,
+   "id": 2960,
    "title": "Top Girls",
    "altTitles": [],
    "authorship": "single",
@@ -219742,7 +220443,7 @@
    ]
   },
   {
-   "id": 2883,
+   "id": 2886,
    "title": "Turn Again Tiger",
    "altTitles": [],
    "authorship": "single",
@@ -221191,6 +221892,56 @@
    ]
   },
   {
+   "id": 2865,
+   "title": "Uses of the Erotic: The Erotic as Power",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Audre Lorde"
+   ],
+   "authorIds": [
+    901
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1978",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (address)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "An address delivered at the Fourth Berkshire Conference on the History of Women at Mount Holyoke on 25 August 1978, published first as a pamphlet and collected in Sister Outsider (1984): Lorde defines the erotic as a source of knowledge and power and distinguishes it from the pornographic.",
+   "summary": "A prose address in numbered sections in which Lorde argues that the erotic is a resource of deep knowledge and satisfaction that women have been taught to distrust, that it is not the same as the sexual and not the same as the pornographic, and that claiming it is a political act with consequences for work, friendship and love.",
+   "plot": "Lorde begins by naming the erotic as a resource 'within each of us' that lies 'in a deeply female and spiritual plane' and that has been made suspect: women have been taught that the erotic is a sign of the inferior, the animal or the merely sexual, and the result is that the power attached to it has been surrendered. She distinguishes the erotic from the pornographic with the neat formula that pornography is 'sensation without feeling' while the erotic is 'feeling without sensation' - that is, the erotic is a mode of attention and knowledge that informs everything a woman does, from the making of a poem to the making of a bed. She illustrates with the difference between the demanding and the merely adequate in work, in friendship and in love; argues that the erotic is a measure of what we can ask of ourselves and others; and concludes that the erotic is a source of political power, because a woman who knows what satisfies her cannot be persuaded that she deserves less. The address is interrupted, in printed form, by its circumstances - it was delivered to an audience of historians of women - and its tone is the tone of the platform rather than the study. Its last movement turns from definition to obligation: to feel the erotic is to know what one can demand of oneself, and that knowledge is what makes political action possible.",
+   "significance": "One of the founding documents of Black feminist thought and one of the most cited American essays of the period; it is a standard text in women's, gender and sexuality studies, it named the erotic as a political category, and it is the essay through which Lorde's thought is most often taught alongside 'The Master's Tools'.",
+   "meter": "Direct address in the second person and the first person plural; short paragraphs with aphoristic closing sentences; a vocabulary that mixes the spiritual ('a deeply female and spiritual plane') with the political ('the erotic as power'); repetition and antithesis used as oral devices, as in the phrase that became its summary, 'pornography is sensation without feeling'.",
+   "context": "Delivered at the Fourth Berkshire Conference on the History of Women at Mount Holyoke College on 25 August 1978 and first published as a pamphlet by Out & Out Books; collected as the second essay in Sister Outsider: Essays and Speeches (Trumansburg, NY: Crossing Press, 1984). It belongs to the second wave's debates about sexuality and to the Black feminist critique of a feminism organised around white women's experience.",
+   "characters": "",
+   "structure": "A spoken address in numbered sections, opening with a definition, moving through the distinction between the erotic and the pornographic, the account of what the erotic supplies to work and relationship, and the political conclusion; the paragraphs are short and declarative, and the argument advances by assertion and illustration rather than by citation.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Feminist Criticism",
+    "Literary Essay",
+    "Political Essay"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet"
+   ],
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "Sister Outsider (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1879,
    "title": "Utilitarianism",
    "altTitles": [],
@@ -221343,7 +222094,7 @@
    ]
   },
   {
-   "id": 2984,
+   "id": 2987,
    "title": "Valentine",
    "altTitles": [],
    "authorship": "single",
@@ -223365,7 +224116,7 @@
    ]
   },
   {
-   "id": 2903,
+   "id": 2906,
    "title": "Waiting for Aunty to Cough",
    "altTitles": [],
    "authorship": "single",
@@ -223414,7 +224165,7 @@
    ]
   },
   {
-   "id": 2906,
+   "id": 2909,
    "title": "Waiting for Godot",
    "altTitles": [
     "En attendant Godot"
@@ -223465,7 +224216,7 @@
    ]
   },
   {
-   "id": 2972,
+   "id": 2975,
    "title": "Waiting for the Barbarians",
    "altTitles": [],
    "authorship": "single",
@@ -223661,7 +224412,7 @@
    ]
   },
   {
-   "id": 2954,
+   "id": 2957,
    "title": "Walker Brothers Cowboy",
    "altTitles": [],
    "authorship": "single",
@@ -224043,7 +224794,7 @@
    ]
   },
   {
-   "id": 2983,
+   "id": 2986,
    "title": "Warming Her Pearls",
    "altTitles": [],
    "authorship": "single",
@@ -224311,7 +225062,7 @@
    ]
   },
   {
-   "id": 2882,
+   "id": 2885,
    "title": "Ways of Sunlight",
    "altTitles": [],
    "authorship": "single",
@@ -224416,7 +225167,7 @@
    ]
   },
   {
-   "id": 2910,
+   "id": 2913,
    "title": "We Real Cool",
    "altTitles": [],
    "authorship": "single",
@@ -224777,7 +225528,7 @@
    ]
   },
   {
-   "id": 2968,
+   "id": 2971,
    "title": "What the Tapster Saw",
    "altTitles": [],
    "authorship": "single",
@@ -224830,7 +225581,7 @@
    ]
   },
   {
-   "id": 2870,
+   "id": 2873,
    "title": "What Use Are Flowers?",
    "altTitles": [],
    "authorship": "single",
@@ -224877,7 +225628,7 @@
    ]
   },
   {
-   "id": 2930,
+   "id": 2933,
    "title": "Wherever I Hang",
    "altTitles": [],
    "authorship": "single",
@@ -225284,6 +226035,56 @@
    ]
   },
   {
+   "id": 3020,
+   "title": "Why I Am Not a Painter",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Frank O'Hara"
+   ],
+   "authorIds": [
+    900
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1957",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem of the mid-1950s, printed in Meditations in an Emergency (1957), in which O'Hara compares the painting of his friend Mike Goldberg - which begins with sardines and ends without them - with his own poem about oranges, which ends without once saying the word.",
+   "summary": "A single anecdote in short free-verse lines: the poet drops in on the painter Mike Goldberg, watches him begin a canvas with the word SARDINES in it, returns over the following days, and finds the painting finished with no sardines in it - and then describes the twelve poems about orange that he wrote and called ORANGES, none of which mentions orange.",
+   "plot": "The poem begins with a flat declaration - 'I am not a painter, I am a poet' - and a joke about wanting to be a painter. It then tells two parallel stories. In the first, O'Hara drops in on Mike Goldberg as he starts a painting, is offered a drink, looks up and sees that 'SARDINES' has been written into the canvas, and is told 'it needed something there'; he comes back over several days, watches the painting change, and when it is finished asks where the sardines have gone - they are gone, and the painting is still called SARDINES. In the second, O'Hara thinks of a colour, orange, writes a line about it, and in a few days has a page, then another page, then twelve poems that are not about orange at all; he calls the sequence ORANGES, and the poem ends with him seeing Mike's painting in a gallery 'called SARDINES'. The comparison is the argument: both artists begin with a word or a colour, both let the work move away from its starting point, and both name the finished thing after the trace that survives in it. The poem's joke is that the titles are the only surviving evidence of the original intention, and its deeper point is that this is not a loss: the painting and the poem are better for having travelled away from their subjects, and the trace in the title records the journey rather than a failure to arrive.",
+   "significance": "One of O'Hara's two or three most anthologised poems and a standard text in courses on modern poetry, on the New York School and on poetry and the visual arts; its comparison of the two arts is one of the most quoted passages in postwar American writing about poetry, and it is regularly used to explain how abstract expressionism changed American poetry.",
+   "meter": "Conversational and apparently artless: short lines, plain diction, direct speech, no metaphor and almost no adjectives; the rhythm is that of a man telling a story about his afternoon; the poem's art is in the symmetry of the two anecdotes and in the flat finality of the last line.",
+   "context": "Written in the mid-1950s (the Poetry Foundation dates it to 1956) and printed in Meditations in an Emergency (Grove Press, 1957), O'Hara's second collection; Mike Goldberg was a painter friend of the New York School circle, and the poem belongs to the moment when O'Hara was writing most closely about the visual arts he was also curating and reviewing.",
+   "characters": "",
+   "structure": "Free-verse lines of two to eight words, in a single unbroken anecdote with two halves that mirror each other; no stanza divisions; the parallel is made by repetition ('days go by', 'I drop in') rather than by statement, and the poem ends on the rhyme of the two titles, SARDINES and ORANGES.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Experimental Fiction",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation"
+   ],
+   "movements": [
+    "The New York School"
+   ],
+   "editions": [],
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "Meditations in an Emergency (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2818,
    "title": "Widdershins",
    "altTitles": [],
@@ -225622,7 +226423,7 @@
    ]
   },
   {
-   "id": 2944,
+   "id": 2947,
    "title": "Wind",
    "altTitles": [],
    "authorship": "single",
@@ -227573,7 +228374,7 @@
    ]
   },
   {
-   "id": 3015,
+   "id": 3018,
    "title": "Zagrowsky Tells",
    "altTitles": [],
    "authorship": "single",

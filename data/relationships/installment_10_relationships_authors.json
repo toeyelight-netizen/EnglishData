@@ -41,6 +41,18 @@
    ]
   },
   {
+   "author": "Audre Lorde",
+   "genres": [
+    "Confessional Poetry",
+    "Feminist Criticism",
+    "Free Verse",
+    "Literary Essay",
+    "Lyric Poetry",
+    "Political Essay",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "Ben Okri",
    "genres": [
     "Experimental Fiction",
@@ -131,6 +143,18 @@
     "Lyric Poetry",
     "Nature Poetry",
     "Travel Writing"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Experimental Fiction",
+    "Free Verse",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Manifesto",
+    "Lyric Poetry"
    ]
   },
   {
@@ -476,6 +500,14 @@
    ]
   },
   {
+   "author": "Susan Sontag",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Essay"
+   ]
+  },
+  {
    "author": "Ted Hughes",
    "genres": [
     "Dark Fantasy",
@@ -592,6 +624,13 @@
    ]
   },
   {
+   "author": "Audre Lorde",
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Ben Okri",
    "movements": [
     "African Literature in English",
@@ -654,6 +693,12 @@
    "movements": [
     "Confessional Poetry",
     "Late Modernism"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "movements": [
+    "The New York School"
    ]
   },
   {
@@ -878,6 +923,12 @@
    "movements": []
   },
   {
+   "author": "Susan Sontag",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Ted Hughes",
    "movements": [
     "The Movement"
@@ -975,6 +1026,19 @@
     "Childhood, adolescence and coming of age",
     "Class, labour and social mobility",
     "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Audre Lorde",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
    ]
   },
   {
@@ -1076,6 +1140,18 @@
     "Migration, exile and diaspora",
     "Nature, ecology and environmental crisis",
     "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
    ]
   },
   {
@@ -1467,6 +1543,14 @@
     "Identity, authenticity and the divided self",
     "Madness, breakdown and confinement",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Susan Sontag",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
    ]
   },
   {
@@ -2074,6 +2158,34 @@
     "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
     "Grace Paley (Wikipedia)",
     "Later the Same Day (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "Lunch Poems (Wikipedia)",
+    "Meditations in an Emergency (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Audre Lorde",
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "Chrysalis and 'Poetry Is Not a Luxury' (Library of Congress blog)",
+    "Sister Outsider (Wikipedia)",
+    "The Collected Poems of Audre Lorde (library catalogue contents)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Susan Sontag",
+   "sources": [
+    "Against Interpretation (Wikipedia)",
+    "Susan Sontag (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }

@@ -1908,6 +1908,15 @@ with broader Anglophone writing out of scope.
   verified, with ten new sources. 126 of the 255 selections now have records;
   123 American selections remain.
 
+- **Wave 24:** Frank O'Hara ("Personism: A Manifesto", *Yugen*, 1961, and
+  five poems - "Why I Am Not a Painter", "A Step Away from Them", "The Day Lady
+  Died", "Having a Coke with You" and "In Memory of My Feelings"), Audre Lorde
+  ("Coal", "The Woman Thing", "Black Mother Woman", "Uses of the Erotic" and
+  "The Master's Tools Will Never Dismantle the Master's House") and Susan
+  Sontag ("Against Interpretation", *Evergreen Review*, December 1964). Twelve
+  works and three authors, all partially verified, with twelve new sources.
+  133 of the 255 selections now have records; 117 American selections remain.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2015,4 +2024,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 171 works by 52 authors; 126 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 183 works by 55 authors; 133 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |

@@ -854,6 +854,66 @@
    "work": "Zagrowsky Tells",
    "author": "Grace Paley",
    "contribution_type": "author"
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Step Away from Them",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Day Lady Died",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Having a Coke with You",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Coal",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Woman Thing",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Black Mother Woman",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Against Interpretation",
+   "author": "Susan Sontag",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2121,6 +2181,102 @@
     "Short Story",
     "Domestic Fiction",
     "Metafictional Novel"
+   ]
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "genres": [
+    "Literary Manifesto",
+    "Literary Criticism and Theory (1946–2000)",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "A Step Away from Them",
+   "genres": [
+    "Free Verse",
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Day Lady Died",
+   "genres": [
+    "Free Verse",
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Having a Coke with You",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "genres": [
+    "Free Verse",
+    "Confessional Poetry",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Coal",
+   "genres": [
+    "Free Verse",
+    "Political Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Woman Thing",
+   "genres": [
+    "Free Verse",
+    "Political Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Black Mother Woman",
+   "genres": [
+    "Free Verse",
+    "Confessional Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "genres": [
+    "Literary Essay",
+    "Feminist Criticism",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "genres": [
+    "Literary Essay",
+    "Feminist Criticism",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "Against Interpretation",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Essay"
    ]
   }
  ],
@@ -3484,6 +3640,100 @@
     "Family, marriage and domestic life",
     "Memory, trauma and testimony"
    ]
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "A Step Away from Them",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Death, illness and mourning",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Day Lady Died",
+   "themes": [
+    "Death, illness and mourning",
+    "The city, the suburb and modern space",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Having a Coke with You",
+   "themes": [
+    "Love, intimacy and loss",
+    "Art, the artist and the creative life",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Art, the artist and the creative life",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Coal",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "The Woman Thing",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Black Mother Woman",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Against Interpretation",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ]
   }
  ],
  "work_movements": [
@@ -4362,6 +4612,82 @@
    "movements": [
     "Second-Wave Feminist Writing"
    ]
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "A Step Away from Them",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "The Day Lady Died",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Having a Coke with You",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Coal",
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Woman Thing",
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Black Mother Woman",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Against Interpretation",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
   }
  ],
  "work_periods": [
@@ -4538,7 +4864,19 @@
     "Harrison Bergeron",
     "Slaughterhouse-Five",
     "A Conversation with My Father",
-    "Zagrowsky Tells"
+    "Zagrowsky Tells",
+    "Personism: A Manifesto",
+    "Why I Am Not a Painter",
+    "A Step Away from Them",
+    "The Day Lady Died",
+    "Having a Coke with You",
+    "In Memory of My Feelings",
+    "Coal",
+    "The Woman Thing",
+    "Black Mother Woman",
+    "Uses of the Erotic: The Erotic as Power",
+    "The Master's Tools Will Never Dismantle the Master's House",
+    "Against Interpretation"
    ]
   }
  ]
