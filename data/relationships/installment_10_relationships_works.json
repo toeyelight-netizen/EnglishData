@@ -959,6 +959,91 @@
    "work": "Howl",
    "author": "Allen Ginsberg",
    "contribution_type": "author"
+  },
+  {
+   "work": "Illustration",
+   "author": "John Ashbery",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "author": "John Ashbery",
+   "contribution_type": "author"
+  },
+  {
+   "work": "How to Continue",
+   "author": "John Ashbery",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Her Kind",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Starry Night",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sylvia's Death",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Diving into the Wreck",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Power",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Transcendental Etude",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "author": "Martin Luther King Jr.",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Balloon",
+   "author": "Donald Barthelme",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The School",
+   "author": "Donald Barthelme",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2394,6 +2479,147 @@
     "Free Verse",
     "Political Poetry",
     "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Illustration",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "genres": [
+    "Lyric Poetry",
+    "Long Poem",
+    "Free Verse",
+    "Postmodern Poetry"
+   ]
+  },
+  {
+   "work": "How to Continue",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Free Verse",
+    "Postmodern Poetry"
+   ]
+  },
+  {
+   "work": "Her Kind",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Starry Night",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Sylvia's Death",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "genres": [
+    "Confessional Poetry",
+    "Love Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "genres": [
+    "Lyric Poetry",
+    "Dramatic Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Diving into the Wreck",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Power",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Transcendental Etude",
+   "genres": [
+    "Lyric Poetry",
+    "Long Poem",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "genres": [
+    "Political Essay",
+    "Social Criticism",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "The Balloon",
+   "genres": [
+    "Short Story",
+    "Postmodern Fiction",
+    "Experimental Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "The School",
+   "genres": [
+    "Short Story",
+    "Postmodern Fiction",
+    "Experimental Fiction"
    ]
   }
  ],
@@ -3923,6 +4149,142 @@
     "Madness, breakdown and confinement",
     "Sexuality, desire and the closet"
    ]
+  },
+  {
+   "work": "Illustration",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "How to Continue",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Her Kind",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "The Starry Night",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Madness, breakdown and confinement"
+   ]
+  },
+  {
+   "work": "Sylvia's Death",
+   "themes": [
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Love, intimacy and loss",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Diving into the Wreck",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Power",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Art, the artist and the creative life",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Transcendental Etude",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Power, the state and surveillance",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "The Balloon",
+   "themes": [
+    "Art, the artist and the creative life",
+    "The city, the suburb and modern space",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "The School",
+   "themes": [
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Childhood, adolescence and coming of age"
+   ]
   }
  ],
  "work_movements": [
@@ -4932,6 +5294,116 @@
    "movements": [
     "The Beat Generation"
    ]
+  },
+  {
+   "work": "Illustration",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "movements": [
+    "The New York School",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "How to Continue",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Her Kind",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Starry Night",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Sylvia's Death",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Diving into the Wreck",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Power",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Transcendental Etude",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Balloon",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Metafiction",
+    "Black Humour and the Absurdist Novel"
+   ]
+  },
+  {
+   "work": "The School",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Black Humour and the Absurdist Novel"
+   ]
   }
  ],
  "work_periods": [
@@ -5129,7 +5601,24 @@
     "Good Country People",
     "A Good Man Is Hard to Find",
     "Everything That Rises Must Converge",
-    "Howl"
+    "Howl",
+    "Illustration",
+    "Self-Portrait in a Convex Mirror",
+    "How to Continue",
+    "Her Kind",
+    "The Starry Night",
+    "Sylvia's Death",
+    "Little Girl, My String Bean, My Lovely Woman",
+    "The Ballad of the Lonely Masturbator",
+    "Snapshots of a Daughter-in-Law",
+    "\"I Am in Danger—Sir—\"",
+    "A Valediction Forbidding Mourning",
+    "Diving into the Wreck",
+    "Power",
+    "Transcendental Etude",
+    "Letter from Birmingham Jail",
+    "The Balloon",
+    "The School"
    ]
   }
  ]

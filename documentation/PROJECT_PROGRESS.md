@@ -1928,6 +1928,25 @@ with broader Anglophone writing out of scope.
   all partially verified, with fourteen new sources. 148 of the 255 selections
   now have records; 108 American selections remain.
 
+- **Wave 26:** John Ashbery ("Illustration", *Some Trees*, 1956; "Self-Portrait
+  in a Convex Mirror", *Poetry*, August 1974, major record; "How to Continue",
+  the closing poem of *Hotel Lautréamont*, 1992), Anne Sexton ("Her Kind",
+  *To Bedlam and Part Way Back*, 1960, major record; "The Starry Night", *All My
+  Pretty Ones*, 1962, major record; "Sylvia's Death", *Poetry*, January 1964;
+  "Little Girl, My String Bean, My Lovely Woman", *Live or Die*, 1966; "The
+  Ballad of the Lonely Masturbator", *Love Poems*, 1969), Adrienne Rich
+  ("Snapshots of a Daughter-in-Law", 1963, and "Diving into the Wreck", 1973,
+  major records; "I Am in Danger—Sir—", *Necessities of Life*, 1966; "A
+  Valediction Forbidding Mourning", *The Will to Change*, 1971; "Power" and
+  "Transcendental Etude", *The Dream of a Common Language*, 1978, the last a
+  major record), Martin Luther King Jr. ("Letter from Birmingham Jail", 1963,
+  major record) and Donald Barthelme ("The Balloon", *The New Yorker*, 16 April
+  1966, major record, and "The School", *The New Yorker*, 17 June 1974).
+  Seventeen works and five authors, all partially verified, with twenty-five new
+  sources; the lists now date Sexton's "Sylvia's Death" 1964 (not 1966) and
+  Ashbery's "How to Continue" 1992. 165 of the 255 selections now have records;
+  90 American selections remain.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2035,4 +2054,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 192 works by 60 authors; 148 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 209 works by 65 authors; 165 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |

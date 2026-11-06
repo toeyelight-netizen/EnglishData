@@ -9,6 +9,17 @@
    ]
   },
   {
+   "author": "Adrienne Rich",
+   "genres": [
+    "Dramatic Poetry",
+    "Free Verse",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "Alice Munro",
    "genres": [
     "Realist Fiction",
@@ -30,6 +41,17 @@
     "Confessional Poetry",
     "Long Poem",
     "Narrative Poetry"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Love Poetry",
+    "Lyric Poetry"
    ]
   },
   {
@@ -111,6 +133,15 @@
     "Narrative Poetry",
     "Political Poetry",
     "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "genres": [
+    "Experimental Fiction",
+    "Postmodern Fiction",
+    "Satirical Fiction",
+    "Short Story"
    ]
   },
   {
@@ -298,6 +329,16 @@
    ]
   },
   {
+   "author": "John Ashbery",
+   "genres": [
+    "Free Verse",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Postmodern Poetry"
+   ]
+  },
+  {
    "author": "John Barth",
    "genres": [
     "Experimental Fiction",
@@ -399,6 +440,14 @@
     "Lyric Poetry",
     "Regional Fiction",
     "Short Story"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "genres": [
+    "Personal Essay",
+    "Political Essay",
+    "Social Criticism"
    ]
   },
   {
@@ -644,6 +693,13 @@
    ]
   },
   {
+   "author": "Adrienne Rich",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Alice Munro",
    "movements": [
     "Canadian Literary Nationalism"
@@ -658,6 +714,13 @@
   {
    "author": "Anne Carson",
    "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "movements": [
+    "Confessional Poetry",
     "Second-Wave Feminist Writing"
    ]
   },
@@ -722,6 +785,14 @@
    "movements": [
     "Caribbean Literature in English",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "movements": [
+    "Black Humour and the Absurdist Novel",
+    "Metafiction",
+    "Postmodernism and Postmodern Fiction"
    ]
   },
   {
@@ -845,6 +916,13 @@
    ]
   },
   {
+   "author": "John Ashbery",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "The New York School"
+   ]
+  },
+  {
    "author": "John Barth",
    "movements": [
     "Postmodernism and Postmodern Fiction"
@@ -920,6 +998,12 @@
    "movements": [
     "Canadian Literary Nationalism",
     "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   },
   {
@@ -1074,6 +1158,17 @@
    ]
   },
   {
+   "author": "Adrienne Rich",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
    "author": "Alice Munro",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -1095,6 +1190,19 @@
     "Family, marriage and domestic life",
     "Language, writing and the limits of representation",
     "Love, intimacy and loss"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
    ]
   },
   {
@@ -1182,6 +1290,17 @@
     "Nature, ecology and environmental crisis",
     "Race, racism and the struggle for civil rights",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Language, writing and the limits of representation",
+    "The city, the suburb and modern space"
    ]
   },
   {
@@ -1389,6 +1508,18 @@
    ]
   },
   {
+   "author": "John Ashbery",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
    "author": "John Barth",
    "themes": [
     "Art, the artist and the creative life",
@@ -1499,6 +1630,14 @@
     "Memory, trauma and testimony",
     "Nature, ecology and environmental crisis",
     "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -2343,6 +2482,8 @@
   {
    "author": "John Barth",
    "sources": [
+    "Donald Barthelme (Wikipedia)",
+    "Donald Barthelme bibliography (Wikipedia)",
     "John Barth (Wikipedia)",
     "Lost in the Funhouse (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
@@ -2353,6 +2494,60 @@
    "sources": [
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
     "The White Album (Wikipedia)"
+   ]
+  },
+  {
+   "author": "John Ashbery",
+   "sources": [
+    "Ashbery's Pastoral Art (The Yale Review)",
+    "From the Archive: John Ashbery (Poetry Foundation)",
+    "John Ashbery (Wikipedia)",
+    "Notes from the Air: Selected Later Poems, contents (Carcanet Press)",
+    "Self-Portrait in a Convex Mirror, poetry collection (Wikipedia)",
+    "Some Trees (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "sources": [
+    "Anne Sexton (Wikipedia)",
+    "Her Kind (poem) (Wikipedia)",
+    "Live or Die, poetry collection (Wikipedia)",
+    "Sylvia's Death (Wikipedia)",
+    "Sylvia's Death, Poetry, January 1964 (Poetry Foundation archive)",
+    "The Complete Poems: Anne Sexton, contents (Ecco Press)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Adrienne Rich",
+   "sources": [
+    "Adrienne Rich (Wikipedia)",
+    "Adrienne Rich's Poetry and Prose, Norton Critical Edition, contents (library catalogue record)",
+    "Diving into the Wreck: Poems 1971-1972 (Wikipedia)",
+    "The Dream of a Common Language (Wikipedia)",
+    "The Long Awakening of Adrienne Rich (The New Yorker, 30 November 2020)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Rise of the Novel: Studies in Defoe, Richardson and Fielding"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "sources": [
+    "Letter from Birmingham Jail (Wikipedia)",
+    "Martin Luther King Jr. (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "sources": [
+    "A Close Reading of the Best Short Story Ever Written (Literary Hub, on The School)",
+    "Donald Barthelme (Wikipedia)",
+    "Donald Barthelme bibliography (Wikipedia)",
+    "The Balloon, The New Yorker, 16 April 1966 (newyorker.com archive)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }
  ]
