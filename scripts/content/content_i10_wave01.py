@@ -4,21 +4,24 @@ Pilot of the strict installment-10 record standard. Sources consulted for every
 record are cited per record; dates and bibliography were cross-checked across
 Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia, and the
 National Book Award and bestseller listing against the Post45 datasets.
-Trading Twelves (2000), the Ellison-Murray correspondence, is recorded in wave 04
-with Murray as co-author, once Murray's author record existed.
+Trading Twelves (2000), the Ellison-Murray correspondence, was first recorded in
+wave 04 with Albert Murray as co-author. When installment 10 was narrowed to the
+authors of the Norton anthologies (2026-11-06), Murray's record was removed and the
+volume moved here as Ellison's, with Murray named in it as correspondent and co-editor.
 """
 
 import os
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from i10_lib import A10, W10, G, T, M, MAJ  # noqa: E402
+from i10_lib import A10, W10, G, T, M, MAJ, NAAL  # noqa: E402
 
 WIKI = "Ralph Ellison (Wikipedia)"
 GALE = "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)"
 NWE = "Ralph Ellison (New World Encyclopedia)"
 PRIZES = "Major Literary Prizes (Post45 Data Collective)"
 NYT = "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)"
+GUARD = "Albert Murray obituary (The Guardian, 23 August 2013)"
 
 AUTHORS = [
 A10("Ralph Ellison", MAJ, "1913", "1994", "Oklahoma City, Oklahoma, United States",
@@ -30,7 +33,7 @@ A10("Ralph Ellison", MAJ, "1913", "1994", "Oklahoma City, Oklahoma, United State
   "Race and visibility in American democracy; identity as improvisation; the folk and vernacular sources of art; jazz and the blues as models of discipline and freedom; the American nation as a mixed, unfinished culture.",
   "Ellison stands with Richard Wright and James Baldwin among the defining African American writers of the mid-twentieth century; Invisible Man was voted the most important American novel since the Second World War in a 1965 Book Week poll, and his essays shaped later arguments about the relation between Black culture and American identity.",
   bib_status="substantially complete",
-  bib_note="Bibliography status, 1946-2000: substantially complete. Recorded as works: Invisible Man (1952), Shadow and Act (1964), Going to the Territory (1986), The Collected Essays of Ralph Ellison (1995, posthumous), Flying Home and Other Stories (1996, posthumous) and Juneteenth (1999, posthumous). Also recorded (installment 10, wave 04): Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray (2000, posthumous for Ellison), with Albert Murray as co-author and co-editor. Not individually recorded: uncollected periodical pieces, including the excerpts from the unfinished second novel published in magazines between 1960 and 1977, are not individually recorded. Outside the period: Living with Music (2002), Three Days Before the Shooting... (2010) and The Selected Letters (2019). Checked against Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia.",
+  bib_note="Bibliography status, 1946-2000: substantially complete. Recorded as works: Invisible Man (1952), Shadow and Act (1964), Going to the Territory (1986), The Collected Essays of Ralph Ellison (1995, posthumous), Flying Home and Other Stories (1996, posthumous) and Juneteenth (1999, posthumous). Also recorded: Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray (2000, posthumous for Ellison), edited by Murray and John F. Callahan; Murray, the other correspondent, has no author record. Not individually recorded: uncollected periodical pieces, including the excerpts from the unfinished second novel published in magazines between 1960 and 1977, are not individually recorded. Outside the period: Living with Music (2002), Three Days Before the Shooting... (2010) and The Selected Letters (2019). Checked against Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia.",
   ver="verified", sources=[WIKI, GALE, NWE, PRIZES],
   infl=["Richard Wright", "T. S. Eliot", "Ernest Hemingway", "William Faulkner", "Fyodor Dostoevsky", "André Malraux", "Kenneth Burke"],
   alt=["Ralph Waldo Ellison"],
@@ -55,7 +58,7 @@ W10("Invisible Man", "Ralph Ellison", "1952", "Novel", "major",
   chars="The narrator (unnamed); his grandfather; Mr. Norton; Jim Trueblood; Dr. A. Hebert Bledsoe; Homer A. Barbee; young Emerson; Lucius Brockway; Mary Rambo; Brother Jack; Tod Clifton; Ras the Exhorter (the Destroyer); Rinehart (reported); Sybil",
   comp=("1945", "1952"), canon="Major canon",
   biblio="First edition: Random House, New York, 1952. National Book Award for Fiction, 1953. Thirtieth-anniversary edition with a new introduction by Ellison, Random House, 1982.",
-  ver="partially verified", sources=[WIKI, GALE, NWE, PRIZES, NYT],
+  ver="partially verified", sources=[WIKI, GALE, NWE, PRIZES, NYT, NAAL],
   notes=None),
 W10("Shadow and Act", "Ralph Ellison", "1964", "Essays, interviews and lectures", "significant",
   genres=G("Literary Essay", "Literary Criticism", "Cultural Criticism"),
@@ -132,4 +135,20 @@ W10("Juneteenth", "Ralph Ellison", "1999", "Novel (posthumous, edited from manus
   biblio="First edition: Random House, New York, 1999 (ISBN 0394464575); edited by John F. Callahan. Posthumous publication.",
   notes="Length of the published condensation: Wikipedia says 368 pages, the New World Encyclopedia about 300; the overview gives the approximate figure. The 1967 fire is recorded from general Ellison scholarship and should be confirmed against a biography.",
   ver="partially verified", sources=[WIKI, NWE]),
+W10("Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray", "Ralph Ellison", "2000", "Correspondence (posthumous for Ellison, edited)", "significant",
+  genres=G("Collected Letters"),
+  themes=T("Art, the artist and the creative life", "Race, racism and the struggle for civil rights", "Nationhood and national identity"),
+  as_status="collaborative",
+  overview="Trading Twelves is the correspondence between Ralph Ellison and Albert Murray, published by the Modern Library in 2000 and edited by Murray and John F. Callahan, Ellison's literary executor. The title borrows the jazz term for musicians trading twelve-bar choruses.",
+  content="Letters exchanged by the two friends from Tuskegee in the 1950s, while Ellison was writing and then promoting Invisible Man and living in Rome, and while Murray was serving as an Air Force officer and beginning to write.",
+  summary="The letters discuss jazz, literature and politics with intimacy and wit: the reception of Invisible Man and Ellison's struggles with his second novel, Murray's ambitions as a writer, their admiration for Louis Armstrong, Duke Ellington and Count Basie, their reading of Hemingway, Faulkner, Malraux and Mann, and their shared conviction that African American culture is central to American culture. The exchange reads as a sustained improvisation between two minds working out the ideas they later published.",
+  themes_text="Friendship and intellectual partnership; jazz and literature as parallel arts; the place of Black culture in American national identity; and the discipline of the writer's craft.",
+  structure="Chronologically arranged letters from both correspondents, with editorial notes identifying people and events.",
+  style="Playful, allusive and often vernacular epistolary prose, rich in jazz idiom and private jokes.",
+  ctx="Published six years after Ellison's death, during a period of renewed interest in his unfinished novel, a year after the edited Juneteenth.",
+  sig="It documents the origins of the aesthetic Ellison and Murray shared and is a major source for the history of postwar African American intellectual life.",
+  canon="Minor canon",
+  biblio="First edition: Modern Library, New York, 2000 (ISBN 0-375-50367-6); edited by Albert Murray and John F. Callahan. Posthumous for Ellison. Murray, the other correspondent and co-editor, has no author record: his installment-10 record was removed when the installment was narrowed to the authors of the Norton anthologies (scope decision of 2026-11-06).",
+  notes="The letters' subjects beyond Invisible Man, jazz and the Rome years are recorded from general knowledge of the edition and should be checked against its contents.",
+  ver="partially verified", sources=[WIKI, GUARD]),
 ]

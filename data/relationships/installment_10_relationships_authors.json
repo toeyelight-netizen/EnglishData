@@ -1,95 +1,6 @@
 {
  "author_genres": [
   {
-   "author": "Albert Murray",
-   "genres": [
-    "Autobiographical Novel",
-    "Autobiography",
-    "Bildungsroman",
-    "Collected Letters",
-    "Cultural Criticism",
-    "Cultural History",
-    "Literary Criticism",
-    "Literary Essay",
-    "Literary Novel",
-    "Literary Theory",
-    "Memoir",
-    "Social Criticism",
-    "Travel Writing"
-   ]
-  },
-  {
-   "author": "Amos Tutuola",
-   "genres": [
-    "Adventure Fiction",
-    "Children's Fiction",
-    "Fantasy",
-    "Folklore Collection",
-    "Mythological Retelling",
-    "Short-Story Collection",
-    "Supernatural Fiction"
-   ]
-  },
-  {
-   "author": "Cyprian Ekwensi",
-   "genres": [
-    "Adventure Fiction",
-    "Autobiographical Novel",
-    "Bildungsroman",
-    "Children's Fiction",
-    "Domestic Fiction",
-    "Folklore Collection",
-    "Historical Adventure",
-    "Juvenile Fiction",
-    "Naturalist Fiction",
-    "Novella",
-    "Political Novel",
-    "Popular Romance Fiction",
-    "Regional Fiction",
-    "Retelling and Adaptation",
-    "Short-Story Collection",
-    "Social Novel",
-    "War Novel"
-   ]
-  },
-  {
-   "author": "Dorothy West",
-   "genres": [
-    "Domestic Fiction",
-    "Family Saga",
-    "Personal Essay",
-    "Short-Story Collection",
-    "Social Novel"
-   ]
-  },
-  {
-   "author": "Gabriel Okara",
-   "genres": [
-    "Adventure Fiction",
-    "Children's Fiction",
-    "Experimental Fiction",
-    "Long Poem",
-    "Lyric Poetry",
-    "Nature Poetry",
-    "Political Novel"
-   ]
-  },
-  {
-   "author": "George Lamming",
-   "genres": [
-    "Autobiographical Novel",
-    "Bildungsroman",
-    "Cultural Criticism",
-    "Historical Novel",
-    "Literary Essay",
-    "Literary Novel",
-    "Political Essay",
-    "Political Novel",
-    "Postcolonial Criticism",
-    "Social Novel"
-   ]
-  },
-  {
    "author": "George Orwell",
    "genres": [
     "Collected Letters",
@@ -105,14 +16,6 @@
     "Political Novel",
     "Satirical Fiction",
     "Social Criticism"
-   ]
-  },
-  {
-   "author": "John Horne Burns",
-   "genres": [
-    "Literary Novel",
-    "Satirical Fiction",
-    "War Novel"
    ]
   },
   {
@@ -151,17 +54,6 @@
    ]
   },
   {
-   "author": "R. K. Narayan",
-   "genres": [
-    "Comic Novel",
-    "Domestic Fiction",
-    "Philosophical Fiction",
-    "Political Novel",
-    "Short-Story Collection",
-    "Social Novel"
-   ]
-  },
-  {
    "author": "Ralph Ellison",
    "genres": [
     "Bildungsroman",
@@ -173,12 +65,6 @@
     "Political Novel",
     "Satirical Fiction",
     "Short-Story Collection"
-   ]
-  },
-  {
-   "author": "Ross Lockridge Jr.",
-   "genres": [
-    "Historical Novel"
    ]
   },
   {
@@ -196,63 +82,11 @@
     "Social Novel",
     "Television Drama"
    ]
-  },
-  {
-   "author": "Thomas Heggen",
-   "genres": [
-    "War Novel"
-   ]
-  },
-  {
-   "author": "William Gardner Smith",
-   "genres": [
-    "Political Novel",
-    "Social Novel"
-   ]
   }
  ],
  "author_movements": [
   {
-   "author": "Albert Murray",
-   "movements": [
-    "Postwar African American Writing: Protest and Its Critics"
-   ]
-  },
-  {
-   "author": "Amos Tutuola",
-   "movements": [
-    "African Literature in English"
-   ]
-  },
-  {
-   "author": "Cyprian Ekwensi",
-   "movements": [
-    "African Literature in English"
-   ]
-  },
-  {
-   "author": "Dorothy West",
-   "movements": []
-  },
-  {
-   "author": "Gabriel Okara",
-   "movements": [
-    "African Literature in English"
-   ]
-  },
-  {
-   "author": "George Lamming",
-   "movements": [
-    "Black British Writing and the Windrush Generation",
-    "Caribbean Literature in English"
-   ]
-  },
-  {
    "author": "George Orwell",
-   "movements": []
-  },
-  {
-   "author": "John Horne Burns",
    "movements": []
   },
   {
@@ -268,20 +102,10 @@
    ]
   },
   {
-   "author": "R. K. Narayan",
-   "movements": [
-    "South Asian Literature in English"
-   ]
-  },
-  {
    "author": "Ralph Ellison",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
    ]
-  },
-  {
-   "author": "Ross Lockridge Jr.",
-   "movements": []
   },
   {
    "author": "Samuel Selvon",
@@ -289,111 +113,9 @@
     "Black British Writing and the Windrush Generation",
     "Caribbean Literature in English"
    ]
-  },
-  {
-   "author": "Thomas Heggen",
-   "movements": []
-  },
-  {
-   "author": "William Gardner Smith",
-   "movements": [
-    "Postwar African American Writing: Protest and Its Critics"
-   ]
   }
  ],
  "author_themes": [
-  {
-   "author": "Albert Murray",
-   "themes": [
-    "Art, the artist and the creative life",
-    "Childhood, adolescence and coming of age",
-    "Education, institutions and the academy",
-    "History, truth and the uses of the past",
-    "Identity, authenticity and the divided self",
-    "Land, place and regional belonging",
-    "Myth, folklore and the supernatural",
-    "Nationhood and national identity",
-    "Race, racism and the struggle for civil rights"
-   ]
-  },
-  {
-   "author": "Amos Tutuola",
-   "themes": [
-    "Childhood, adolescence and coming of age",
-    "Class, labour and social mobility",
-    "Death, illness and mourning",
-    "Family, marriage and domestic life",
-    "Myth, folklore and the supernatural"
-   ]
-  },
-  {
-   "author": "Cyprian Ekwensi",
-   "themes": [
-    "Art, the artist and the creative life",
-    "Class, labour and social mobility",
-    "Decolonisation, the end of empire and the new nation",
-    "Education, institutions and the academy",
-    "Family, marriage and domestic life",
-    "Gender, feminism and women's lives",
-    "Land, place and regional belonging",
-    "Love, intimacy and loss",
-    "Memory, trauma and testimony",
-    "Migration, exile and diaspora",
-    "Myth, folklore and the supernatural",
-    "Nationhood and national identity",
-    "Power, the state and surveillance",
-    "Race, racism and the struggle for civil rights",
-    "The city, the suburb and modern space",
-    "Violence, crime and justice",
-    "War, combat and its aftermath"
-   ]
-  },
-  {
-   "author": "Dorothy West",
-   "themes": [
-    "Childhood, adolescence and coming of age",
-    "Class, labour and social mobility",
-    "Family, marriage and domestic life",
-    "Gender, feminism and women's lives",
-    "Love, intimacy and loss",
-    "Race, racism and the struggle for civil rights"
-   ]
-  },
-  {
-   "author": "Gabriel Okara",
-   "themes": [
-    "Death, illness and mourning",
-    "Decolonisation, the end of empire and the new nation",
-    "Faith, doubt and the sacred",
-    "Identity, authenticity and the divided self",
-    "Land, place and regional belonging",
-    "Language, writing and the limits of representation",
-    "Myth, folklore and the supernatural",
-    "Power, the state and surveillance",
-    "Violence, crime and justice"
-   ]
-  },
-  {
-   "author": "George Lamming",
-   "themes": [
-    "Art, the artist and the creative life",
-    "Childhood, adolescence and coming of age",
-    "Class, labour and social mobility",
-    "Decolonisation, the end of empire and the new nation",
-    "Education, institutions and the academy",
-    "Gender, feminism and women's lives",
-    "History, truth and the uses of the past",
-    "Identity, authenticity and the divided self",
-    "Land, place and regional belonging",
-    "Language, writing and the limits of representation",
-    "Migration, exile and diaspora",
-    "Myth, folklore and the supernatural",
-    "Nationhood and national identity",
-    "Race, racism and the struggle for civil rights",
-    "Utopia, dystopia and imagined futures",
-    "Violence, crime and justice"
-   ]
-  },
   {
    "author": "George Orwell",
    "themes": [
@@ -410,17 +132,6 @@
     "Power, the state and surveillance",
     "Technology, media and consumer society",
     "Utopia, dystopia and imagined futures",
-    "War, combat and its aftermath"
-   ]
-  },
-  {
-   "author": "John Horne Burns",
-   "themes": [
-    "Education, institutions and the academy",
-    "Family, marriage and domestic life",
-    "Love, intimacy and loss",
-    "Power, the state and surveillance",
-    "Sexuality, desire and the closet",
     "War, combat and its aftermath"
    ]
   },
@@ -466,27 +177,6 @@
    ]
   },
   {
-   "author": "R. K. Narayan",
-   "themes": [
-    "Art, the artist and the creative life",
-    "Class, labour and social mobility",
-    "Decolonisation, the end of empire and the new nation",
-    "Faith, doubt and the sacred",
-    "Family, marriage and domestic life",
-    "Gender, feminism and women's lives",
-    "Identity, authenticity and the divided self",
-    "Language, writing and the limits of representation",
-    "Love, intimacy and loss",
-    "Migration, exile and diaspora",
-    "Myth, folklore and the supernatural",
-    "Nationhood and national identity",
-    "Nature, ecology and environmental crisis",
-    "Power, the state and surveillance",
-    "Technology, media and consumer society",
-    "Violence, crime and justice"
-   ]
-  },
-  {
    "author": "Ralph Ellison",
    "themes": [
     "Art, the artist and the creative life",
@@ -498,15 +188,6 @@
     "Race, racism and the struggle for civil rights",
     "The city, the suburb and modern space",
     "Violence, crime and justice"
-   ]
-  },
-  {
-   "author": "Ross Lockridge Jr.",
-   "themes": [
-    "History, truth and the uses of the past",
-    "Land, place and regional belonging",
-    "Love, intimacy and loss",
-    "War, combat and its aftermath"
    ]
   },
   {
@@ -525,25 +206,6 @@
     "Race, racism and the struggle for civil rights",
     "Technology, media and consumer society",
     "The city, the suburb and modern space"
-   ]
-  },
-  {
-   "author": "Thomas Heggen",
-   "themes": [
-    "Power, the state and surveillance",
-    "War, combat and its aftermath"
-   ]
-  },
-  {
-   "author": "William Gardner Smith",
-   "themes": [
-    "Love, intimacy and loss",
-    "Migration, exile and diaspora",
-    "Race, racism and the struggle for civil rights",
-    "The Holocaust, atrocity and historical memory",
-    "The city, the suburb and modern space",
-    "Violence, crime and justice",
-    "War, combat and its aftermath"
    ]
   }
  ],
@@ -571,28 +233,9 @@
    ]
   },
   {
-   "author": "Amos Tutuola",
-   "influenced_by": [
-    "John Bunyan"
-   ]
-  },
-  {
    "author": "Samuel Selvon",
    "influenced_by": [
     "T. S. Eliot"
-   ]
-  },
-  {
-   "author": "Gabriel Okara",
-   "influenced_by": [
-    "William Wordsworth"
-   ]
-  },
-  {
-   "author": "Cyprian Ekwensi",
-   "influenced_by": [
-    "H. Rider Haggard",
-    "Robert Louis Stevenson"
    ]
   }
  ],
@@ -631,45 +274,6 @@
    ]
   },
   {
-   "author": "Albert Murray",
-   "sources": [
-    "Albert L. Murray (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
-    "Albert Murray (EBSCO Research Starters)",
-    "Albert Murray (LibraryThing author page)",
-    "Albert Murray obituary (The Guardian, 23 August 2013)",
-    "Murray, Albert (Alabama Authors database)",
-    "Murray, Albert 1916- (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
-   ]
-  },
-  {
-   "author": "Amos Tutuola",
-   "sources": [
-    "Amos Tutuola (Encyclopaedia Britannica)",
-    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
-    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
-    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
-    "Amos Tutuola (Wikipedia)",
-    "Summary Bibliography: Amos Tutuola (ISFDB)",
-    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
-   ]
-  },
-  {
-   "author": "George Lamming",
-   "sources": [
-    "Conversations: George Lamming: Essays, Addresses and Interviews, 1953-1990 (Google Books record)",
-    "George Lamming (Encyclopaedia Britannica)",
-    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
-    "George Lamming (Wikipedia)",
-    "George Lamming Critical Essays (eNotes)",
-    "George Lamming: The Vocation of Writing and his Critical Social Engagement (Anthurium)",
-    "In the Castle of My Skin (Encyclopedia.com, compiling Gale's Novels for Students)",
-    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
-    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
-    "Season of Adventure by George Lamming (EBSCO Research Starters)",
-    "The Emigrants (Lamming novel) (Wikipedia)"
-   ]
-  },
-  {
    "author": "Samuel Selvon",
    "sources": [
     "Highway in the Sun (Peepal Tree Press)",
@@ -682,112 +286,6 @@
     "Samuel Selvon (Encyclopaedia Britannica)",
     "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
     "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)"
-   ]
-  },
-  {
-   "author": "Gabriel Okara",
-   "sources": [
-    "Gabriel Okara (Wikipedia)",
-    "Gabriel Okara in Conversation with Professor Azuonye (Chinua Achebe Foundation Interviews 36, 2006; ScholarWorks at UMass Boston)",
-    "Gabriel Okara: Collected Poems, edited by Brenda Marie Osbey (University of Nebraska Press, 2016): publisher's description and catalogue contents",
-    "Little Snake and Little Frog and An Adventure to Juju Island: catalogue records (Google Books, Open Library, Publishing History)",
-    "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
-    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)",
-    "The Voice (novel) (Wikipedia)",
-    "You Laughed and Laughed and Laughed (Wikipedia)"
-   ]
-  },
-  {
-   "author": "Cyprian Ekwensi",
-   "sources": [
-    "Arthur E. E. Smith, \"Social Consciousness in the Writings of Cyprian Ekwensi\" (ChickenBones: A Journal, 2007)",
-    "Cyprian Ekwensi (Encyclopedia of World Biography, via Encyclopedia.com)",
-    "Cyprian Ekwensi (Wikipedia)",
-    "Cyprian Ekwensi, Beautiful Feathers (African Writers Series text, Eswatini Heritage Digital Library)",
-    "Ekwensi, Chief Cyprian D. (The Writers Directory, via Encyclopedia.com)",
-    "Ekwensi, Cyprian (Gale Contextual Encyclopedia of World Literature, via Encyclopedia.com)",
-    "Ekwensi, Cyprian (Odiatu Duaka) 1921- (Contemporary Authors, New Revision Series, via Encyclopedia.com)",
-    "Ekwensi, Cyprian 1921-, by Jeanne Lesinski (Contemporary Black Biography, vol. 37, via Encyclopedia.com)",
-    "Emmanuel Iduma, \"Cyprian Ekwensi's Lagos Noir\" (NYR Daily, The New York Review of Books, 2 June 2020)",
-    "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
-    "Iska: critical extracts (Virginia U. Ola, \"Cyprian Ekwensi's Iska Revisited\", Utafiti; Ulf Hannerz, \"The City, According to Ekwensi... and Onuzo\", Afropolitan, Berghahn)",
-    "Jagua Nana, by Donald Cosentino (World Literature and Its Times, via Encyclopedia.com)"
-   ]
-  },
-  {
-   "author": "R. K. Narayan",
-   "sources": [
-    "List of Sahitya Akademi Award winners for English (Wikipedia)",
-    "Narayan, R. K. (Gale Contextual Encyclopedia of World Literature, via Encyclopedia.com)",
-    "Narayan, R.K. 1906-2001 (Contemporary Authors, via Encyclopedia.com)",
-    "Paul Brians, R. K. Narayan: The Guide: A Study Guide (Washington State University; Wayback Machine capture of 17 January 1999)",
-    "Playboy Fiction Index (Post45 Data Collective)",
-    "R. K. Narayan (Wikipedia)",
-    "R. K. Narayan criticism: extracts (eNotes; Contemporary Literary Criticism vols. 7 and 28, including V. S. Naipaul, 'An Old Equilibrium')",
-    "Singh et al., 'Subdued Voices and Marginalized Lives: Reading R. K. Narayan's Waiting for the Mahatma ...' (Journal of International Women's Studies, Bridgewater State University)",
-    "Subarna Mondal, 'R.K. Narayan' (Indian Writing in English, University of Hyderabad)"
-   ]
-  },
-  {
-   "author": "Ross Lockridge Jr.",
-   "sources": [
-    "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
-    "Raintree County (novel) (Wikipedia)",
-    "Ross Lockridge Jr. (Wikipedia)"
-   ]
-  },
-  {
-   "author": "Thomas Heggen",
-   "sources": [
-    "Mister Roberts (novel) (Wikipedia)",
-    "Mister Roberts (play) (Wikipedia)",
-    "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
-    "Pulitzer Prize for Drama (Wikipedia)",
-    "Thomas Heggen (Wikipedia)"
-   ]
-  },
-  {
-   "author": "John Horne Burns",
-   "sources": [
-    "John Horne Burns (Wikipedia)",
-    "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
-    "Review of A Cry of Children (Kirkus Reviews, 1 September 1952)",
-    "Review of Lucifer with a Book (Kirkus Reviews, 1 March 1949)",
-    "Review of Lucifer with a Book (The Atlantic, April 1949)",
-    "The Poems of Robert Burns, 3 volumes"
-   ]
-  },
-  {
-   "author": "Dorothy West",
-   "sources": [
-    "An Essay on the Principle of Population: The 1803 Edition (Rethinking the Western Tradition)",
-    "Dorothy West (Gale biographical entries, via Encyclopedia.com)",
-    "Dorothy West (Wikipedia)",
-    "Eldorado West One (Peepal Tree Press)",
-    "Journal of West Indian Literature 24.2 (November 2016), Caribbean Ecocriticism special issue",
-    "Moby-Dick; or, The Whale, vol. 6 of the Northwestern-Newberry Edition of the Writings of Herman Melville",
-    "Pamphlets on West Indian Slavery",
-    "Review of The Living Is Easy (Kirkus Reviews, 1 May 1948)",
-    "Review of The Richer, the Poorer (Kirkus Reviews, 15 May 1995)",
-    "Review of The Wedding (Kirkus Reviews, 1 November 1994)",
-    "The History of Mary Prince, a West Indian Slave, Related by Herself",
-    "Washington Irving: Three Western Narratives (Library of America)"
-   ]
-  },
-  {
-   "author": "William Gardner Smith",
-   "sources": [
-    "Arthur E. E. Smith, \"Social Consciousness in the Writings of Cyprian Ekwensi\" (ChickenBones: A Journal, 2007)",
-    "Charlotte Smith in British Romanticism",
-    "Last of the Conquerors (Wikipedia)",
-    "Review of South Street (Kirkus Reviews, 1 October 1954)",
-    "Review of The Stone Face (Kirkus Reviews, 1 November 1963)",
-    "The Collected Letters of Charlotte Smith",
-    "The Poems of Charlotte Smith",
-    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith",
-    "The Stone Face, publisher's description (New York Review Books / Penguin Random House, 2021)",
-    "William Gardner Smith (Wikipedia)",
-    "William Gardner Smith: significant Black author in exile (New York Amsterdam News, 2019)"
    ]
   }
  ]

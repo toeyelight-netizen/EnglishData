@@ -7,8 +7,8 @@ database and the built JSON, and writes
   documentation/INSTALLMENT_10_AUDIT_REPORT.md
 
 Every number is computed here from the database, the built JSON and the
-discovery inventory (research/installment_10/discovery_inventory.csv); the
-narrative sections (method, corrections, sources consulted, limitations) are
+Norton lists (research/installment_10/lists/norton_*.csv), which define the
+installment since the scope decision of 2026-11-06; the narrative sections (method, corrections, sources consulted, limitations) are
 taken from research/installment_10/report_notes.md, which is maintained by hand.
 Nothing in the report is estimated.
 
@@ -33,7 +33,10 @@ DB = os.path.join(ROOT, "database", "English_Literature_Master.db")
 MATRIX = os.path.join(ROOT, "documentation", "INSTALLMENT_10_COVERAGE_MATRIX.csv")
 REPORT = os.path.join(ROOT, "documentation", "INSTALLMENT_10_AUDIT_REPORT.md")
 NOTES = os.path.join(ROOT, "research", "installment_10", "report_notes.md")
-INVENTORY = os.path.join(ROOT, "research", "installment_10", "discovery_inventory.csv")
+NORTON = [os.path.join(ROOT, "research", "installment_10", "lists", f)
+          for f in ("norton_nael_11e_vol_f.csv", "norton_naal_11e_vol_e.csv")]
+NORTON_SHORT = {"The Norton Anthology of English Literature": "NAEL",
+                "The Norton Anthology of American Literature": "NAAL"}
 PERIOD = "Postwar and Contemporary Period (1946–2000)"
 DECADES = ["1946-1950", "1951-1959", "1960-1969", "1970-1979", "1980-1989", "1990-2000"]
 
@@ -141,14 +144,6 @@ MOVEMENT_CHECKLIST = [
 ]
 
 # Part VII of the revision order (not exhaustive by the order's own statement).
-CRITICS = ["Northrop Frye", "Cleanth Brooks", "W. K. Wimsatt", "Monroe Beardsley", "Lionel Trilling", "Edmund Wilson",
-           "F. R. Leavis", "Raymond Williams", "Richard Hoggart", "Mikhail Bakhtin", "Roland Barthes", "Jacques Derrida",
-           "Michel Foucault", "Jacques Lacan", "Louis Althusser", "Fredric Jameson", "Edward Said", "Hélène Cixous",
-           "Julia Kristeva", "Elaine Showalter", "Sandra Gilbert", "Susan Gubar", "Stanley Fish", "Wolfgang Iser",
-           "Hans Robert Jauss", "Harold Bloom", "Terry Eagleton", "Paul de Man", "J. Hillis Miller", "Gérard Genette",
-           "Wayne C. Booth", "Jonathan Culler", "Stephen Greenblatt", "Gayatri Chakravorty Spivak", "Homi K. Bhabha",
-           "bell hooks", "Barbara Johnson", "Judith Butler", "Eve Kosofsky Sedgwick"]
-
 BRITISH = ("english", "british", "scottish", "welsh", "northern irish", "cornish", "anglo-welsh")
 OTHER = ("canadian", "australian", "new zealand", "maori", "māori", "jamaican", "trinidad", "barbad", "guyan", "st lucia",
          "saint lucia", "antigu", "caribbean", "nigerian", "kenyan", "ghanaian", "south african", "ugandan", "zimbabwe",
@@ -200,38 +195,32 @@ def tradition(nat):
     return "Non-English-language (theory in translation) / unclassified"
 
 
-# Scope decision of 2026-11-06 (second): British, Irish and American authors are
-# covered, major and minor; authors of other English-language traditions are
-# included only if they are major. Candidate rows are classed by the tradition
-# hints of the lists that name them. National prizes and fellowships restricted
-# to Americans (and the British and Irish entries of other lists) count as
-# British, Irish or American evidence; mixed lists (bestsellers, magazines,
-# genre data, the Booker and other Commonwealth-wide prizes, London theatre
-# awards) leave nationality to be checked; the other national lists and series
-# put a candidate in another tradition, to be included only if major.
-SCOPE_UKUS = {"US", "US/Asian American", "US (Pulitzer Prize for Drama)", "UK (Commonwealth Writers' Prize)",
-              "Ireland (Iowa Writers' Workshop)"}
-SCOPE_CHECK = {"US/popular", "SF/fantasy/horror", "periodical", "UK/Commonwealth", "UK/Commonwealth/Irish",
-               "UK/Commonwealth (Queen's Gold Medal for Poetry)", "London stage (Evening Standard Theatre Award)"}
-SCOPE_CLASSES = ["British, Irish or American evidence", "nationality to be checked",
-                 "other tradition: included only if major"]
+# Scope decision of 2026-11-06 (third): installment 10 follows the Norton
+# anthologies, The Norton Anthology of English Literature (11th edition, 2024,
+# volume F) and The Norton Anthology of American Literature (11th edition,
+# volume E, from the publisher's table of contents). It records every selection
+# first published 1946-2000 and its author; works already recorded for a Norton
+# author beyond the selections are kept.
+IN_SCOPE = "1946-2000"
+TO_VERIFY = "date to verify"
 
 
-def scope_class(hint):
-    parts = {p.strip() for p in (hint or "").split(";") if p.strip()}
-    if parts & SCOPE_UKUS:
-        return SCOPE_CLASSES[0]
-    if parts & SCOPE_CHECK or not parts:
-        return SCOPE_CLASSES[1]
-    return SCOPE_CLASSES[2]
+def tkey(title):
+    """Title match key: accents, case, a leading article and punctuation are ignored."""
+    s = unicodedata.normalize("NFKD", title or "").encode("ascii", "ignore").decode().lower().strip(" \"'")
+    s = re.sub(r"^(the|a|an) ", "", s)
+    return re.sub(r"[^a-z0-9]", "", s)
 
 
-def work_scope(trads):
-    if any(t in ("British", "Irish", "American") for t in trads):
-        return "British, Irish or American"
-    if any(t == "Other English-language" for t in trads):
-        return "other tradition (major author)"
-    return "unclassified"
+def load_norton():
+    rows = []
+    for path in NORTON:
+        if os.path.exists(path):
+            rows.extend(csv.DictReader(open(path, encoding="utf-8")))
+    for r in rows:
+        r["short"] = NORTON_SHORT.get(r["anthology"], r["anthology"])
+        r["label"] = "%s: %s%s" % (r["short"], r["selection"], (" (%s)" % r["excerpt_or_part"]) if r["excerpt_or_part"] else "")
+    return rows
 
 
 def main():
@@ -280,19 +269,34 @@ def main():
                                "movements": links("work_movements", "movement", w["work_id"]),
                                "year": year(w["publication_date"]) or year(w["first_performance_date"])}
 
-    # ---------------------------------------------------------------- inventory
-    inv = list(csv.DictReader(open(INVENTORY, encoding="utf-8"))) if os.path.exists(INVENTORY) else []
-    db_names = {}
-    for r in q("select author_id, full_name, alternative_names from authors"):
+    # ---------------------------------------------------------------- Norton lists
+    norton = load_norton()
+    alias = defaultdict(set)
+    for r in q("select full_name, alternative_names from authors"):
         for n in [r["full_name"]] + (json.loads(r["alternative_names"]) if (r["alternative_names"] or "").startswith("[") else []):
-            db_names[fold(n)] = r["full_name"]
+            alias[fold(n)].add(r["full_name"])
     i10_author_names = set(author_rows)
-    for c in inv:
-        name = db_names.get(c["key"])
-        c["db_name"] = name or ""
-        c["status"] = ("in installment 10" if name in i10_author_names else
-                       ("in database (earlier installment), no 1946-2000 works yet" if name else "missing"))
-        c["scope"] = scope_class(c["tradition_hint"])
+    by_key = defaultdict(list)
+    for w in works:
+        alts = json.loads(w["alternative_titles"]) if (w["alternative_titles"] or "").startswith("[") else []
+        for t in [w["title"]] + alts:
+            by_key[tkey(t)].append(w)
+    matched = defaultdict(list)
+    for r in norton:
+        r["db_author"] = sorted(alias.get(fold(r["author"]), []))
+        r["record"] = None
+        if r["scope"] in (IN_SCOPE, TO_VERIFY):
+            # the row's record title; the selection title only where no record title is set
+            for key in [tkey(r["record_title"] or r["selection"])]:
+                hits = [w for w in by_key.get(key, []) if key and set((w["authors"] or "").split("; ")) & set(r["db_author"])]
+                if hits:
+                    r["record"] = hits[0]
+                    matched[hits[0]["work_id"]].append(r)
+                    break
+        r["status"] = ("recorded" if r["record"] else "to record" if r["scope"] == IN_SCOPE
+                       else TO_VERIFY if r["scope"] == TO_VERIFY else "outside 1946-2000")
+        r["author_status"] = ("in installment 10" if set(r["db_author"]) & i10_author_names
+                              else "earlier-installment record" if r["db_author"] else "no author record")
 
     # ---------------------------------------------------------------- matrix
     os.makedirs(os.path.dirname(MATRIX), exist_ok=True)
@@ -300,7 +304,7 @@ def main():
         out = csv.writer(fh)
         out.writerow(["record_type", "decade", "country_or_tradition", "genre", "subgenre", "literary_movement",
                       "author", "work", "publication_year", "depth_tier", "bibliographical_verification_status",
-                      "description_completeness_status", "evidence_or_source", "scope"])
+                      "description_completeness_status", "evidence_or_source", "norton_selection"])
         for w in sorted(works, key=lambda w: (wstat[w["work_id"]]["year"] or 0, w["title"])):
             s = wstat[w["work_id"]]
             names = (w["authors"] or "").split("; ")
@@ -310,13 +314,19 @@ def main():
                           "; ".join(names), w["title"], s["year"] or "", s["depth"], w["verification_status"] or "not assessed",
                           "complete" if not s["short"] else "incomplete: " + ", ".join(s["short"]),
                           "; ".join(r[0] for r in q("select s.title from work_sources ws join sources s using(source_id) where ws.work_id=?", w["work_id"])),
-                          work_scope({tradition(author_rows[n]["nationality_or_literary_tradition"]) for n in names if n in author_rows})])
-        for c in inv:
-            if c["status"] == "in installment 10":
+                          "; ".join(sorted({r["label"] for r in matched.get(w["work_id"], [])}))
+                          or "not a Norton selection (another work of a Norton author)"])
+        for r in norton:
+            if r["status"] not in ("to record", TO_VERIFY):
                 continue
-            out.writerow(["candidate author (discovery inventory)", c["decades"], c["tradition_hint"], c["datasets"], "", "",
-                          c["author"], "", "%s-%s" % (c["first_year"], c["last_year"]), c["priority"],
-                          c["status"], "no records yet", c["evidence"][:300], c["scope"]])
+            yr = year(r["first_published"])
+            out.writerow(["Norton selection, not yet recorded", decade(yr), "%s (%s)" % (
+                              r["short"], "American" if r["short"] == "NAAL" else "British, Irish and Commonwealth"),
+                          "", "", "", r["author"], r["selection"] + ((" (%s)" % r["excerpt_or_part"]) if r["excerpt_or_part"] else ""),
+                          r["first_published"], "", r["status"], "no record yet",
+                          "%s, %s edition, vol. %s%s; date: %s" % (r["anthology"], r["edition"], r["volume"].split(":")[0],
+                                                                  (", p. " + r["page"]) if r["page"] else "", r["date_basis"]),
+                          r["label"]])
 
     # ---------------------------------------------------------------- audits
     lines = []
@@ -336,7 +346,7 @@ def main():
     core = [w for w in works if (wstat[w["work_id"]]["year"] or 0) >= 1951]
 
     L("# Installment 10 audit report (1946–2000; core 1951–2000)\n")
-    L("Generated by `scripts/audit_installment_10.py` from the master database, the built JSON and the discovery inventory. "
+    L("Generated by `scripts/audit_installment_10.py` from the master database, the built JSON and the Norton lists. "
       "Every figure below is computed; nothing is estimated. **Installment 10 is not complete.** This report states exactly how far it has got.\n")
     L("## 1–11. Measurable completion criteria\n")
     L("| # | Criterion | Value |\n|---|---|---|")
@@ -360,70 +370,45 @@ def main():
 
     L("## 12. Results of the eight audits\n")
     # Audit 1
-    L("### Audit 1 — Author completeness (decade by decade)\n")
-    ds_count = Counter(d for c in inv for d in c["datasets"].split("; ") if d)
-    L("Baseline: the discovery inventory (%d candidate authors active 1946–2000 in the peer-reviewed Post45 datasets and "
-      "in lists transcribed from cited sources; see `scripts/i10_discovery.py`). An inventory row is evidence of activity, "
-      "not an inclusion decision. Candidates per source (an author can have several): %s.\n"
-      % (len(inv), ", ".join("%s %d" % kv for kv in sorted(ds_count.items()))))
-    L("| Decade | Candidates | In installment 10 | In database, no 1946–2000 works yet | Missing | P1 missing |\n|---|---|---|---|---|---|")
-    for dname in DECADES:
-        cs = [c for c in inv if dname in c["decades"]]
-        st = Counter(c["status"] for c in cs)
-        L("| %s | %d | %d | %d | %d | %d |" % (dname, len(cs), st["in installment 10"], st["in database (earlier installment), no 1946-2000 works yet"], st["missing"],
-                                            sum(1 for c in cs if c["status"] == "missing" and c["priority"] == "P1")))
-    by_trad = Counter((c["tradition_hint"], c["status"]) for c in inv)
-    prim = defaultdict(Counter)
-    for (t, st), n in by_trad.items():
-        prim[t.split(";")[0].strip() or "unknown"][st] += n
-    L("\nBy primary tradition hint (candidates; status counts):\n")
-    L("| Tradition hint | " + " | ".join(sorted({k for c in prim.values() for k in c})) + " |")
-    cols = sorted({k for c in prim.values() for k in c})
-    L("|---|" + "---|" * len(cols))
-    for t in sorted(prim):
-        L("| %s | %s |" % (t, " | ".join(str(prim[t][c]) for c in cols)))
-    L("")
-    L("Scope (decision of 2026-11-06): British, Irish and American authors, major and minor; authors of other "
-      "English-language traditions only if major. Candidates by the scope class of the lists that name them "
-      "(see `scope_class` in this script):\n")
-    L("| Scope class | Candidates | P1 | P2 | P3 | In installment 10 | In database, no 1946–2000 works yet | Missing |\n|---|---|---|---|---|---|---|---|")
-    for sc in SCOPE_CLASSES:
-        cs = [c for c in inv if c["scope"] == sc]
-        st = Counter(c["status"] for c in cs)
-        pr = Counter(c["priority"] for c in cs)
-        L("| %s | %d | %d | %d | %d | %d | %d | %d |" % (sc, len(cs), pr["P1"], pr["P2"], pr["P3"], st["in installment 10"],
-                                                       st["in database (earlier installment), no 1946-2000 works yet"], st["missing"]))
-    L("")
-    p1_missing = sorted([c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10"
-                         and c["scope"] != SCOPE_CLASSES[2]], key=lambda c: -int(c["evidence_count"]))
-    p1_other = [c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10" and c["scope"] == SCOPE_CLASSES[2]]
-    L("Top P1 candidates not yet in installment 10, British, Irish or American or still to be checked (by amount of "
-      "evidence): " + "; ".join("%s (%s)" % (c["author"], c["evidence_count"]) for c in p1_missing[:60]) + ". "
-      "P1 candidates of other traditions, to be included only if major: %d.\n" % len(p1_other))
-    L("Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered by the Booker Prize record "
-      "(winners and shortlists 1969–2000), the Post45 British prize data (1990–2000), the Commonwealth Writers' Prize "
-      "(regional and overall winners, Best Book 1987–2000 and Best First Book 1989–2000, with the Commonwealth Short Story "
-      "Competition 1997–2000), three national prizes (the Sahitya Akademi Award for English, 1960–2000; the Governor "
-      "General's Award for English-language fiction, 1946–2000, with finalists from 1979; the Miles Franklin Award, "
-      "1957–2000), one poetry honour (the Queen's Gold Medal for Poetry, 1952–2000), one theatre award (the Evening "
-      "Standard Award for Best Play, 1955–2000) and two publishers' series: the Heinemann African Writers Series "
-      "(1962–2000; it carries no Faber, Longman, Oxford or local-press authors, so Tutuola, for one, appears only as an "
-      "anthology contributor) and the 33 titles of the Heinemann Caribbean Writers Series that Wikipedia lists (a selection, "
-      "not the series' bibliography; Lamming and Selvon, published by Michael Joseph, Allan Wingate and MacGibbon & Kee, are "
-      "absent). American drama is covered by the Pulitzer Prize for Drama (winners, finalists from 1983 and the plays its "
-      "juries shortlisted, 1946–2000); American writing outside the prize, bestseller, NEA and Iowa Writers' Workshop records "
-      "is not covered. Still without an inventory: British poetry beyond the Gold Medal (Cholmondeley, Eric Gregory, "
-      "Whitbread and Forward prizes) and the movement anthologies; British and Irish drama beyond one award (Olivier, "
-      "Critics' Circle) and American drama beyond the Pulitzer (Tony, New York Drama Critics' Circle, Obie); Canadian poetry "
-      "and drama; Australian poetry and drama; New Zealand and South African writing; South Asian writing outside the "
-      "Sahitya Akademi list (Pakistan, Sri Lanka, the diaspora); Caribbean writing beyond the two Heinemann and Commonwealth "
-      "lists; genre and children's writing outside the Post45 data; and criticism. Matching is by folded name, so two "
-      "writers with the same name share one candidate row (the Canadian novelist the Governor General's table calls David "
-      "Walker is recorded as David Harry Walker, or the master database's abolitionist David Walker, d. 1830, would have "
-      "removed him as a pre-1946 author).\n")
-    crit_present = [c for c in CRITICS if fold(c) in db_names]
-    L("Part VII critics checklist: %d of %d named critics and theorists have author records (%s); missing: %s.\n"
-      % (len(crit_present), len(CRITICS), ", ".join(crit_present) or "none", ", ".join(c for c in CRITICS if c not in crit_present)))
+    L("### Audit 1 — Author completeness (against the Norton lists)\n")
+    L("Baseline (scope decision of 2026-11-06): the selections of *The Norton Anthology of English Literature*, 11th edition "
+      "(2024), volume F, and *The Norton Anthology of American Literature*, 11th edition (forthcoming 2027), volume E, transcribed "
+      "from the publisher's tables of contents into `research/installment_10/lists/norton_nael_11e_vol_f.csv` and "
+      "`research/installment_10/lists/norton_naal_11e_vol_e.csv`. A selection is in scope if it was first published 1946–2000 "
+      "(a poem by its first printing, periodical or book); an excerpt is recorded as the book it comes from. Works already "
+      "recorded for a Norton author beyond the selections are kept. Dates marked provisional in the lists come from general "
+      "knowledge and are verified as each record is built.\n")
+    L("| Anthology | Selections | 1946–2000 | Date to verify | Before 1946 | After 2000 | Written before 1946, published later | "
+      "Recorded | To record |\n|---|---|---|---|---|---|---|---|---|")
+    for short in ("NAEL", "NAAL"):
+        rs = [r for r in norton if r["short"] == short]
+        sc, st = Counter(r["scope"] for r in rs), Counter(r["status"] for r in rs)
+        L("| %s | %d | %d | %d | %d | %d | %d | %d | %d |" % (
+            short, len(rs), sc[IN_SCOPE], sc[TO_VERIFY], sc["before 1946"], sc["after 2000"],
+            sc["excluded: written before 1946, first published later"], st["recorded"], st["to record"]))
+    L("\nIn-scope selections by decade of first publication (provisional dates included):\n")
+    L("| Decade | Selections | Recorded | To record |\n|---|---|---|---|")
+    for dname in DECADES + ["undated"]:
+        rs = [r for r in norton if r["scope"] == IN_SCOPE and decade(year(r["first_published"])) == dname]
+        if rs:
+            L("| %s | %d | %d | %d |" % (dname, len(rs), sum(r["status"] == "recorded" for r in rs),
+                                        sum(r["status"] == "to record" for r in rs)))
+    per_author = {}
+    for r in norton:
+        if r["scope"] in (IN_SCOPE, TO_VERIFY):
+            per_author.setdefault(r["author"], []).append(r)
+    L("\nAuthors with selections in scope or still to be dated: %d.\n" % len(per_author))
+    L("| Author | Anthology | In scope | Recorded | To record | Date to verify | Author record |\n|---|---|---|---|---|---|---|")
+    for a, rs in per_author.items():
+        L("| %s | %s | %d | %d | %d | %d | %s |" % (
+            a, "; ".join(sorted({r["short"] for r in rs})), sum(r["scope"] == IN_SCOPE for r in rs),
+            sum(r["status"] == "recorded" for r in rs), sum(r["status"] == "to record" for r in rs),
+            sum(r["status"] == TO_VERIFY for r in rs), rs[0]["author_status"]))
+    norton_names = {n for r in norton for n in r["db_author"]}
+    extra = sorted(set(author_rows) - norton_names)
+    others = sum(1 for w in works if not matched.get(w["work_id"]))
+    L("\nInstallment-10 authors not anthologised by Norton: %s. Recorded works that are not Norton selections (other works "
+      "of Norton authors, kept by the decision of 2026-11-06): %d of %d.\n" % (", ".join(extra) or "none", others, len(works)))
     # Audit 2
     L("### Audit 2 — Genre completeness (Part III checklist)\n")
     gw = defaultdict(list)
@@ -464,7 +449,8 @@ def main():
             status += " (installment-10 extension of an earlier record)"
         L("| %s | %s | %d | %s |" % (n, status, per_author[n], r["verification_status"] or "not assessed"))
     dup = [t for t, c in Counter((w["title"], w["authors"]) for w in works).items() if c > 1]
-    L("\nDuplicate title+author pairs: %d. External comparison against the bestseller, prize and Asian American title lists is run per author as each wave is added (see notes).\n" % len(dup))
+    L("\nDuplicate title+author pairs: %d. Each record's dates and bibliography are checked against the sources it cites; "
+      "an independent check of the Norton selections' dates belongs to Audit 8.\n" % len(dup))
     # Audit 4
     L("### Audit 4 — Description completeness\n")
     empties = Counter()
@@ -537,7 +523,8 @@ def main():
         main_author = (w["authors"] or "").split("; ")[0]
         title_hits = [r[0] for r in q("select rowid from works_fts where works_fts match ?", '"%s"' % w["title"].replace('"', ''))]
         tests.append(("title: " + w["title"], w["work_id"] in title_hits))
-        word = max(re.findall(r"[A-Za-z]{5,}", w["title"]) or [w["title"]], key=len)
+        # the longest word of the title (a title such as "Such, Such Were the Joys" has none of 5+ letters)
+        word = max(re.findall(r"[A-Za-z]+", w["title"]) or ["x"], key=len)
         part_hits = [r[0] for r in q("select rowid from works_fts where works_fts match ?", word + "*")]
         tests.append(("partial title: " + word, w["work_id"] in part_hits))
         if main_author:
@@ -608,15 +595,18 @@ def main():
         L("**Application data.** The Android app asset was not found, so the export was not checked.\n")
     # Audit 8
     L("### Audit 8 — Independent second-pass research\n")
-    L("Not yet executed. The order requires it after the reconstruction and the first seven audits; it will search specifically for overlooked writers "
-      "and traditions with sources independent of the first-pass inventory (see the plan in the notes).\n")
+    L("Not yet executed. The order requires it after the reconstruction and the first seven audits. Under the Norton scope it will "
+      "re-check, with sources independent of those the records cite, the transcription of both tables of contents, the date of "
+      "first publication of every selection (the provisional dates in the lists included) and each record's attribution and "
+      "bibliography.\n")
 
     notes = open(NOTES, encoding="utf-8").read() if os.path.exists(NOTES) else "(research/installment_10/report_notes.md not found)\n"
     lines.append(notes)
     with open(REPORT, "w", encoding="utf-8") as fh:
         fh.write("\n".join(lines) + "\n")
-    print("audit report -> %s; coverage matrix -> %s (%d work rows, %d candidate rows)"
-          % (os.path.relpath(REPORT, ROOT), os.path.relpath(MATRIX, ROOT), len(works), sum(1 for c in inv if c["status"] != "in installment 10")))
+    print("audit report -> %s; coverage matrix -> %s (%d work rows, %d Norton rows to record or date)"
+          % (os.path.relpath(REPORT, ROOT), os.path.relpath(MATRIX, ROOT), len(works),
+             sum(1 for r in norton if r["status"] in ("to record", TO_VERIFY))))
     print("works %d | authors %d | genre checklist covered %d/%d | search tests %d failed %d | app asset mismatches %s"
           % (len(works), len(author_rows), covered, total_items, len(tests), len(failed), app_mismatches))
     return 0

@@ -10,12 +10,14 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–12, giving **862 authors / 2965 works** across ten periods (c. 450–2000).
+  (five authors kept from waves 01–12 under the third scope decision), giving
+  **851 authors / 2892 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Twelve research waves are built; see
-  *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
+  **Installment 10 is in progress.** Since the third scope decision it follows
+  the Norton anthologies; see *Installment 10* below and
+  `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
   reset. The gitignored snapshots and backups listed below did not survive the
@@ -1531,10 +1533,12 @@ with broader Anglophone writing out of scope.
 - **Inclusion.** By literary activity in the period, not birth date: careers
   that continue from before 1951, posthumous works (marked as such), and minor,
   regional and one-book writers.
-- **Traditions.** British (English, Scottish, Welsh), Irish and Northern Irish,
-  and American literature, plus the English-language literatures of Canada,
-  Australia, New Zealand, the Caribbean, Africa and South Asia, and their
-  diasporas.
+- **Traditions.** As first set: British (English, Scottish, Welsh), Irish and
+  Northern Irish, and American literature, plus the English-language
+  literatures of Canada, Australia, New Zealand, the Caribbean, Africa and
+  South Asia, and their diasporas. Narrowed twice on 2026-11-06; since the
+  third decision the installment follows the Norton anthologies (see *Scope
+  narrowed again* under *Waves*).
 - **Records.** Every literary work gets its own record, with depth tiered as
   major, significant or minor. Non-literary output goes in the author's
   bibliography note, which states what is still missing.
@@ -1748,6 +1752,30 @@ with broader Anglophone writing out of scope.
     them. West's *The Wedding* is recorded as *The Wedding (Dorothy West)*,
     since James Shirley's play holds the bare title. Six discrepancies are
     recorded in limitation 22 of the audit report.
+- **Scope narrowed again (third decision of 2026-11-06): the Norton
+  anthologies.** Installment 10 now covers the authors and selections of
+  *The Norton Anthology of English Literature*, 11th edition (2024), volume F,
+  and *The Norton Anthology of American Literature*, volume E, in the 11th
+  edition's prepublication table of contents (the 10th edition's could not be
+  reached). Each selection first published 1946–2000 gets its own record, one
+  per poem, story, essay or play; an excerpt is recorded as its book.
+  - **Lists:** both tables of contents are transcribed selection by selection
+    in `research/installment_10/lists/norton_nael_11e_vol_f.csv` (288
+    selections: 89 in the period, 17 still to be dated, 147 before 1946, 32
+    after 2000, 3 written before 1946 and published later, excluded) and
+    `norton_naal_11e_vol_e.csv` (218: 165 in the period, 10 to be dated, 8
+    before 1946, 35 after 2000). 116 authors have selections in the period or
+    still to be dated. `tests/test_norton_lists.py` checks the lists'
+    consistency.
+  - **Removed:** the eleven authors Norton does not anthologise (Murray,
+    Tutuola, Lamming, Okara, Ekwensi, Narayan and the five novelists of wave
+    12), with their 73 works and the 89 sources only they cited; they remain
+    in the repository history at commit `8264c2d`. *Trading Twelves* moved to
+    Ellison's wave. **Kept:** Ellison, Larkin, Hansberry, Orwell and Selvon,
+    48 works, of which 3 are Norton selections (*Invisible Man*, *A Raisin in
+    the Sun*, "Aubade").
+  - **Audit:** Audit 1 and the coverage matrix now measure the records against
+    the Norton lists; the discovery inventory is kept as superseded research.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1835,13 +1863,14 @@ the four bad plots, so it gives an order of work, not a filter.
 
 **Stopping point.** The ordered list of outstanding tasks is in
 `research/installment_10/report_notes.md`:
-1. compile the poetry, drama and Commonwealth inventories (the Booker list is
-   done);
-2. build waves by decade × tradition × genre;
-3. add the post-war works of other authors already in the database through
-   extensions (the method is settled; Orwell is done);
-4. add Orwell's four missing books to installment 9 and run the plot check of
-   installments 8–9;
+1. record the unrecorded selections of the five recorded authors (Larkin's
+   nine poems, Orwell's "Politics and the English Language", Selvon's
+   "Waiting for Aunty to Cough");
+2. add the selections of the installment-9 authors Rhys, Beckett, Auden and
+   Brooks through extensions;
+3. record the other Norton authors and their selections, in Norton's order;
+4. check every provisional date, including the 27 selections still to be
+   dated, and run the plot check of installments 8–9;
 5. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
@@ -1855,4 +1884,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–12: 121 works by 16 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 48 works by 5 authors; 3 of 254 selections recorded) |

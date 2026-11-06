@@ -10,7 +10,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from i10_lib import A10, W10, G, T, M, MAJ  # noqa: E402
+from i10_lib import A10, W10, G, T, M, MAJ, NAAL  # noqa: E402
 
 BRIT = "Lorraine Hansberry (Encyclopaedia Britannica)"
 CBB = "Lorraine Hansberry (Encyclopedia.com, compiling Gale's Contemporary Black Biography)"
@@ -56,7 +56,7 @@ W10("A Raisin in the Sun", LH, "1959", "Play in three acts", "major",
   comp=("1956", "1958"), perf="1959-03-11", canon="Major canon",
   biblio="First performed at the Ethel Barrymore Theatre, New York, 11 March 1959, directed by Lloyd Richards; 530 performances. Published 1959. Expanded twenty-fifth-anniversary edition, edited by Robert Nemiroff, 1984.",
   notes="First-edition publisher: the Gale entry lists the New American Library edition of 1961; the 1959 first edition (Random House) still needs confirming against the Library of Congress catalogue.",
-  ver="partially verified", sources=[BRIT, CBB, GALE, AMLIT]),
+  ver="partially verified", sources=[BRIT, CBB, GALE, AMLIT, NAAL]),
 W10("The Sign in Sidney Brustein's Window", LH, "1965", "Play in three acts", "significant",
   genres=G("Political Theatre", "Social Realist Drama", "Full-Length Play"),
   themes=T("Alienation, absurdity and existential freedom", "Power, the state and surveillance", "Sexuality, desire and the closet"),

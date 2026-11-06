@@ -11,7 +11,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from i10_lib import A10, W10, G, T, M, MAJ  # noqa: E402
+from i10_lib import A10, W10, G, T, M, MAJ, NAEL  # noqa: E402
 
 WIKI = "Philip Larkin (Wikipedia, via Wikiwand)"
 EBSCO = "Philip Larkin (EBSCO Research Starters)"
@@ -179,7 +179,7 @@ W10("Aubade", LARKIN, "1977", "Poem", "significant",
   canon="Secondary canon",
   biblio="First published in The Times Literary Supplement, 1977; first collected in Collected Poems (1988).",
   notes="First publication (Times Literary Supplement, 23 December 1977) and the dates of composition are confirmed by the Philip Larkin Society's page on the poem and by a critical essay in the Gale Literature Resource Center; the New World Encyclopedia gives the year.",
-  comp=("1974", "1977"), ver="partially verified", sources=[NWE, LARKSOC, LRC]),
+  comp=("1974", "1977"), ver="partially verified", sources=[NWE, LARKSOC, LRC, NAEL]),
 W10("Required Writing: Miscellaneous Pieces 1955-1982", LARKIN, "1983", "Essays, reviews and interviews", "significant",
   genres=G("Literary Essay", "Literary Criticism"),
   themes=T("Art, the artist and the creative life", "Nationhood and national identity"),

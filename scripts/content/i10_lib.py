@@ -41,6 +41,13 @@ DEPTHS = {"major", "significant", "minor"}
 VERIFICATION = {"verified", "partially verified", "unverified"}
 BIBLIOGRAPHY = {"complete", "substantially complete", "incomplete"}
 
+# The Norton anthologies whose tables of contents define installment 10 since the
+# scope decision of 2026-11-06 (research/installment_10/lists/norton_*.csv).
+NAEL = ("The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and "
+        "Twenty-First Centuries, table of contents (W. W. Norton)")
+NAAL = ("The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, "
+        "table of contents (W. W. Norton)")
+
 
 def _names(kind):
     path = os.path.join(ROOT, "data", kind, "installment_10_%s.json" % kind)
