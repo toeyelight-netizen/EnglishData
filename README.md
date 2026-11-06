@@ -19,11 +19,55 @@ or deletes earlier data.
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | **Complete** |
 | 6 | Augustan and Eighteenth Century (1700–1789) | **Complete** |
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
-| 8–10 | Victorian → Postwar (1832–2000) | Pending |
+| 8 | Victorian, British and American (1832–1901) | **Complete** |
+| 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 209 works by 65 authors; 165 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
 
-Cumulative totals after Installment 7: **418 authors, 1455 works** (147
-anonymous), 7 periods, 66 movements, 126 genres, 115 themes, 244 sources, 2432
-recorded editions.
+Cumulative totals: **912 authors, 3053 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 641 sources, 2432 recorded editions.
+
+Installment 8 contributed **233 authors and 887 works** to the Victorian period
+(1832–1901), with both a British and an American strand. It runs from the
+Brontës, Tennyson and Eliot through Swinburne, Wilde, Hardy and Shaw, and from
+Emerson, Dickinson and Twain to James, Crane, Dreiser and Wharton.
+
+Installment 9 contributed **197 authors and 498 works** to the Edwardian,
+Georgian and Modernist period (1901–1945). It runs from Wells, Bennett,
+Galsworthy and Forster through Joyce, Woolf, Eliot, Lawrence and the war poets
+to Auden and Orwell, and in America from the Harlem Renaissance to Hemingway,
+Faulkner and Steinbeck.
+
+Installment 10 (1946–2000, with 1951–2000 as the core) is **in progress, and
+most of it is still to do.**
+- **Scope (third decision, 2026-11-06).** The authors and selections of the
+  Norton anthologies: *The Norton Anthology of English Literature* (11th
+  edition, volume F) for British, Irish and Commonwealth writing, and *The
+  Norton Anthology of American Literature* (volume E, 11th edition's table of
+  contents) for American writing. Every selection first published 1946–2000
+  gets its own record; the two lists are in `research/installment_10/lists/`.
+- **Record standard.** A strict, template-free build: every work has a
+  seven-part description, a bibliography status, a verification status and the
+  sources actually consulted.
+- **Current state.** 209 works by Ralph Ellison, Philip Larkin, Lorraine
+  Hansberry, Samuel Selvon, Stevie Smith, Dylan Thomas, Louise Bennett, Kamau
+  Brathwaite, Ngũgĩ wa Thiong'o, M. NourbeSe Philip, Salman Rushdie, Grace
+  Nichols, Linton Kwesi Johnson, Doris Lessing, A. K. Ramanujan, Thom Gunn,
+  Derek Walcott, Ted Hughes, Chinua Achebe, Alice Munro, Geoffrey Hill, V. S.
+  Naipaul, Wole Soyinka, Caryl Churchill, Seamus Heaney, Les Murray, J. G.
+  Ballard, Bessie Head, Ben Okri, Arundhati Roy, Margaret Atwood, J. M. Coetzee,
+  Eavan Boland, Anne Carson, Paul Muldoon, bpNichol, Hanif Kureishi, Carol Ann
+  Duffy, Kiran Desai, Vladimir Nabokov, Theodore Roethke, Elizabeth Bishop,
+  Tennessee Williams, John Cheever, Robert Hayden, Saul Bellow, Arthur Miller and
+  Robert Lowell, J. D. Salinger, Jack Kerouac, Kurt Vonnegut, Grace Paley, Frank
+  O'Hara, Audre Lorde, Susan Sontag, John Barth, Joan Didion, James Baldwin,
+  Flannery O'Connor, Allen Ginsberg, John Ashbery, Anne Sexton, Adrienne Rich,
+  Martin Luther King Jr. and Donald Barthelme, and by George Orwell, Jean
+  Rhys, Samuel Beckett, W. H. Auden and Gwendolyn Brooks (their installment 9
+  author records, extended). 165 of the 255 selections in the period are
+  recorded so far.
+  The measured state, the eight audits, the corrections made to installments
+  8–9 and the exact stopping point are in
+  [documentation/INSTALLMENT_10_AUDIT_REPORT.md](documentation/INSTALLMENT_10_AUDIT_REPORT.md).
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for
 the detailed progress log.

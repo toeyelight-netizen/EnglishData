@@ -1,0 +1,478 @@
+== INSTALLMENT-08 MOVEMENTS (use these exact names) ==
+Aestheticism and the Decadent Decade
+American Naturalism and the Determinist Tragedy
+American Realism and the Howells Program
+Arnold and the Criticism of Culture
+Carlyle and the Hero-Worship Lecture
+Chartism and the Condition-of-England Novel
+Dark Romance and the Puritan Inheritance
+Local Colour and the Regionalist School
+Mark Twain and the Vernacular Performance
+Muscular Christianity and the Schoolboy Tale of Empire
+Pre-Raphaelitism and the Truth to Nature
+Ruskin and the Political Economy of Art
+Sensation Fiction and the Serial Plot
+South-Western Humour and the Tall-Tale Sketch
+The Aesthetic Turn in 1890s America
+The Dramatic Monologue and the Masked Voice
+The New Woman and the Fin-de-Siècle Problem Novel
+The Second American Renaissance and the Whitman-Dickinson Lyric
+Tractarian Prose and the Oxford Movement
+Transcendentalism and the Concord Lyceum
+Victorian High Seriousness and the Public Poet
+
+== INSTALLMENT-08 GENRES (use these exact names) ==
+Children's Fantasy and the Dream-Region Tale
+Detective Story and the Tale of Detection
+Dialect Poem and Vernacular Performance
+Dramatic Monologue and Masked Lyric
+Early Scientific Romance and Utopian Speculation
+Ghost Story and Scientific Supernatural Tale
+Idyll and Domestic Narrative Poem
+Imperial Adventure Romance
+Industrial and Condition-of-England Novel
+Lecture and Popular Address
+Local-Colour Sketch and the Regional Portrait
+Naturalist and Determinist Novel
+New Woman and Marriage-Question Novel
+Nonsense Verse and the Parody of Rule
+Novel of Development and the Growth Story
+Pastoral Elegy and the Mourning Sequence
+Problem Play and Well-Made Drama
+Realist Novel of Common Life
+Review Essay and Quarterly Argument
+Sensation Drama and the Domestic Stage
+Sensation Novel
+Serial and Monthly-Part Novel
+Social Inquiry and the Documented Survey
+Sonnet Revival and Sequenced Sonnet
+Tall Tale and South-Western Humour Sketch
+Victorian Verse Drama and Revived Tragedy
+War Narrative of the Common Soldier
+
+== INSTALLMENT-08 THEMES (use these exact names) ==
+Art versus life, and the romance of the artist
+Bereavement, immortality, and the argument from grief
+Bohemia, the professional writer, and the Grub Street market
+Childhood, the child labourer, and the sentimental child
+Democracy, individualism, and the American experiment
+Doubt, agnosticism, and the Broad Church conscience
+Education, the schools, and the cultivation of the self
+Empire, jingoism, and the literature of the metropole
+Industrial wealth, accumulation, and the gospel of accumulation
+Innocence, experience, and the lost American Eden
+Leisure class, the idle rich, and the unearned income
+Madness, the asylum, and the diagnosis of the will
+Money, credit, speculation, and the joint-stock imagination
+Race, voice, and the dialect of freedom
+Regional identity and the American sectional character
+Science, religion, and the question of design
+Self-destruction, melancholy, and the coroner's verdict
+Sexuality, the double standard, and the literature of the social evil
+Slavery, emancipation, and the unfinished Reconstruction
+The American city, the machine, and the moneyed metropolis
+The American wilderness and the myth of the forest
+The closing of the American frontier
+The machine age, speed, and technical modernity
+The machinery of print: the serial, the magazine, and the book trade
+The metropolis, the crowd, and the imperial capital
+The woman question, married disability, and the New Woman
+Wage labour, the strike, and the two nations
+
+== EXISTING DB MOVEMENTS ==
+Abolitionist and Anti-Slavery Writing
+Aestheticism and the Decadent Decade
+Alfredian Renaissance
+American Naturalism and the Determinist Tragedy
+American Realism and the Howells Program
+Anglo-Saxon Heroic Tradition
+Arnold and the Criticism of Culture
+Augustan Satire and the Scriblerans
+Austen and the Novel of Manners
+Benedictine Reform
+Blake and the Illuminated Prophecy
+Bryant and the American Nature Lyric
+Byron and the Byronic Revolt
+Carlyle and the Hero-Worship Lecture
+Cavalier Poetry
+Charles Brockden Brown and the American Gothic
+Chartism and the Condition-of-England Novel
+Civil War Radicalism: The Levellers and the Diggers
+Comedy of Manners
+Commonwealth and Interregnum Literature
+Cooper and the American Romance of Forest and Sea
+Dark Romance and the Puritan Inheritance
+Early Anglo-Latin Learning and the Northumbrian Golden Age
+Early Tudor Court Poetry
+Early Tudor Drama
+English Petrarchism and the Sonnet Vogue
+English Renaissance Humanism
+Fifteenth-Century Chaucerians
+Garrick and the Regenerated London Theatre
+Gothic and the Literature of Terror
+Heroic Drama
+Jacobean City Comedy
+Jacobean Tragedy and Revenge Drama
+Keats and the Sensuous Ode
+Labouring-Class and Village Poetry
+Local Colour and the Regionalist School
+Lollardy
+Lyrical Ballads and the Lake Poets
+Mark Twain and the Vernacular Performance
+Metaphysical Poetry
+Muscular Christianity and the Schoolboy Tale of Empire
+Neoclassical Criticism and the Rules
+Philosophical Fiction and the Godwin Circle
+Pre-Raphaelitism and the Truth to Nature
+Primitivism, the Bardic Revival and Ossian
+Regency Popular Verse and the Annual Public
+Ricardian Poetry
+Romantic Essay, Criticism and the Review
+Ruskin and the Political Economy of Art
+Scott, the Ballad Revival and the Historical Novel
+Sensation Fiction and the Serial Plot
+Sentimentalism and the Culture of Feeling
+Shelley and Radical Romanticism
+South-Western Humour and the Tall-Tale Sketch
+The AB Language Group (West Midlands Devotional Prose)
+The Aesthetic Turn in 1890s America
+The Alliterative Revival
+The Anglican and Latitudinarian Divines
+The Bluestockings and Women's Letters
+The Cambridge Platonists
+The Caroline Theatre
+The Dramatic Monologue and the Masked Voice
+The Early American Republic and Its Letters
+The Elizabethan Public Theatre
+The English Enlightenment and Deist Controversy
+The English Mystics
+The English Reformation
+The Evangelical Revival and Hymn Writing
+The Graveyard School and Preromantic Meditation
+The Knickerbocker Group and the American Sketch
+The New Science and the Royal Society
+The New Woman and the Fin-de-Siècle Problem Novel
+The Regency Stage and Popular Drama
+The Restoration Theatre
+The Rise of the English Novel
+The Scottish Enlightenment
+The Scottish Makars
+The Scottish Renaissance
+The Second American Renaissance and the Whitman-Dickinson Lyric
+The Spectator and Periodical Journalism
+The Twelfth-Century Renaissance
+The University Wits
+Topographical and Estate Poetry
+Tractarian Prose and the Oxford Movement
+Transcendentalism and the Concord Lyceum
+Vernacular Religious Drama
+Victorian High Seriousness and the Public Poet
+
+== EXISTING DB GENRES ==
+American Gothic Tale
+Anthology, Reliques, and Editorial Collection
+Augustan Verse Satire
+Ballad and Popular Song
+Battle Poetry
+Bestiary Poetry
+Bible Translation
+Biblical Commentary and Exegesis
+Cavalier Lyric
+Character Writing
+Children's Fantasy and the Dream-Region Tale
+City Comedy
+Closet Drama
+Comedy
+Comedy of Manners
+Comic Opera and Burletta
+Comic and Ballad Opera
+Complaint and Satire
+Conduct, Education, and Domestic Prose
+Conversation Poem and Lyric Meditation
+Court Masque
+Courtesy Book and Household Manual
+Critical Review and Periodical Essay
+Critical Treatise and Dissertation
+Debate Poetry
+Detective Story and the Tale of Detection
+Devotional and Mystical Writing
+Dialect Poem and Vernacular Performance
+Diary and Journal
+Domestic and Sentimental Tragedy
+Drama
+Dramatic Monologue and Masked Lyric
+Dramatic Opera and Semi-Opera
+Dream Vision
+Early Scientific Romance and Utopian Speculation
+Elegy
+English Epic and Allegorical Romance
+English Sonnet
+Epistolary Fiction
+Essay
+Fable and Apologue
+Fabliau
+Fairy Tale and Romantic Legend
+Familiar Essay and Character Sketch
+Frontier and Maritime Romance
+Ghost Story and Scientific Supernatural Tale
+Gothic Novel and Romance of Terror
+Grammar and Didactic Prose
+Hagiography
+Heroic Epic
+Heroic Play
+Historical Novel and Romance
+History Play
+History and Chronicle
+Homily (Sermon)
+Humanist Dialogue and Utopian Fiction
+Humanist Educational Treatise
+Hymn and Devotional Song
+Idyll and Domestic Narrative Poem
+Imperial Adventure Romance
+Industrial and Condition-of-England Novel
+Inward Confession and Opium Narrative
+Juvenile, School and Educational Book
+Law Code
+Lay (Breton Lai)
+Lecture and Popular Address
+Letters
+Lexicography and Philological Writing
+Literary Annual and Keepsake Verse
+Literary Biography and Prefatory Commentary
+Local Guide and Topographical Prose
+Local-Colour Sketch and the Regional Portrait
+Lyric
+Lyrical Ballad and Popular Stanza
+Medical and Scientific Writing
+Meditative Blank Verse
+Melodrama and Nautical Drama
+Memoir and Autobiographical Prose
+Metaphysical and Devotional Lyric
+Metrical Charm
+Metrical Psalter
+Metrical Tale and Romance in Verse
+Miracle Play
+Mock-Heroic and Verse Satire
+Monastic Rule and Customary
+Moral Philosophy and the Theory of Society
+Morality Play
+Mystery Play
+National Epic and Didactic Poem
+Natural and Revealed Theology
+Naturalist and Determinist Novel
+Nature Lyric and Meditation
+New Woman and Marriage-Question Novel
+Nonsense Verse and the Parody of Rule
+Novel of Development and the Growth Story
+Novel of Manners and Fashion
+Pastoral Elegy and the Mourning Sequence
+Pastoral Poetry
+Periodical Essay and Spectator Paper
+Philosophical Tale and Oriental Fiction
+Philosophical and Anarchist Fiction
+Philosophical and National History
+Philosophy and Scholastic Writing
+Picaresque and Journey Novel
+Pindaric Ode
+Poetry
+Polemic, Pamphlet, and Open Letter
+Political Economy and Commercial Writing
+Political Treatise
+Political Verse
+Political and Revolutionary Verse
+Problem Play and Well-Made Drama
+Prose
+Prose Biography
+Prose Fiction and the Early Novel
+Prose Romance
+Prose Romance and Euphuism
+Realist Novel of Common Life
+Reformation Polemic and Controversy
+Religious Lyric
+Religious Narrative Poetry
+Revenge Tragedy
+Review Essay and Quarterly Argument
+Riddle
+Romance
+Romantic Comedy
+Romantic Ode
+Romantic Sonnet Revival
+Sensation Drama and the Domestic Stage
+Sensation Novel
+Sentimental and Domestic Novel
+Serial and Monthly-Part Novel
+Slave Narrative and Abolitionist Testimony
+Social Inquiry and the Documented Survey
+Sonnet Revival and Sequenced Sonnet
+Sonnet Sequence
+Spiritual Autobiography
+Tall Tale and South-Western Humour Sketch
+The Sketch and Character Tale
+Theatrical Occasional Verse
+Topographical and Descriptive Poetry
+Tragedy
+Tragicomedy
+Translation
+Travel and Wonders Literature
+Tudor Interlude
+Verse Chronicle
+Verse Epistle
+Victorian Verse Drama and Revived Tragedy
+Vision Literature
+Visionary and Illuminated Prophecy
+War Narrative of the Common Soldier
+Wisdom Poetry
+
+== EXISTING DB THEMES ==
+Ambition and the overreacher
+Appearance, dissembling, and self-fashioning
+Art versus life, and the romance of the artist
+Arthurian legend
+Bereavement, immortality, and the argument from grief
+Blood-feud, vengeance, and kinship
+Bohemia, the professional writer, and the Grub Street market
+Border, ballad, and national memory
+Carpe diem and the pleasures of the present
+Childhood, innocence, and education
+Childhood, the child labourer, and the sentimental child
+Chivalry and knighthood
+Christian-pagan synthesis
+Civil War, regicide, and the trial of the king
+Colonial enterprise and the New World
+Commerce, luxury, and commercial society
+Conscience and moral self-examination
+Consolation and endurance
+Country retirement and the estate poem
+Courtly love and fin'amor
+Courtly service and courtly danger
+Creation and cosmology
+Death, mourning, and the graveyard meditation
+Death, the soul, and the afterlife
+Democracy, individualism, and the American experiment
+Divine love and holy desire
+Doubt, agnosticism, and the Broad Church conscience
+Doubt, faith, and secular questioning
+Dream, intoxication, and the divided mind
+Early death and the mourning of poets
+Ecclesiastical reform and criticism
+Education, the schools, and the cultivation of the self
+Empire, jingoism, and the literature of the metropole
+Enthusiasm and the disease of the imagination
+Evangelical experience and assurance
+Exile and homelessness
+Exile, travel, and the southern sojourn
+Faith, grace, and the pilgrim's journey
+Familiar prose and the essayist's persona
+Female authorship and the woman writer
+Fortune and mutability
+Gothic confinement and the pursued heroine
+Heroism and the heroic code
+Humanist education and the ideal commonwealth
+Idealized love and the lost beloved
+Imagination as a way of knowing
+Industrial wealth, accumulation, and the gospel of accumulation
+Industry, enclosure, and the changed countryside
+Innocence, experience, and the lost American Eden
+Jacobitism, loyalty, and the '45
+Judgment Day and eschatology
+Kingship and good rule
+Leisure class, the idle rich, and the unearned income
+Liberty of conscience and religious toleration
+Liberty, corruption, and the decline of nations
+Lollardy and religious dissent
+Love, constancy, and betrayal
+Loyalty and the comitatus bond
+Madness, the asylum, and the diagnosis of the will
+Marriage and women's conduct
+Medicine, healing, and the body
+Melancholy and self-analysis
+Memory and the growth of the poet's mind
+Mission, conversion, and the Church
+Monasticism and the religious life
+Money, credit, speculation, and the joint-stock imagination
+Monsters and the marvellous
+National identity and Englishness
+Natural history, science, and the poetic eye
+Nature, landscape, and the shaping mind
+Order and degree: the body politic
+Patronage and the literary marketplace
+Penance, confession, and sin
+Petrarchan desire and the sonnet mistress
+Poetic solitude and the conversation with nature
+Politeness, fashion, and the codes of conduct
+Poverty, dependence, and the professional writer
+Primitive genius and national poetry
+Progress, decay, and the philosophy of history
+Puritan inheritance and the secret sin
+Race, voice, and the dialect of freedom
+Reason, faith, and the limits of understanding
+Rebellion, guilt, and the outcast hero
+Reformation faith and the authority of scripture
+Regional identity and the American sectional character
+Religious persecution and martyrdom
+Republican nationhood and the claim to a national literature
+Restoration politics: party, succession, and Exclusion
+Revenge and justice
+Revolutionary hope and its disappointment
+Rural labour, depopulation, and the deserted village
+Science, religion, and the question of design
+Sea voyage and seafaring
+Seduction and the betrayed heroine
+Self-destruction, melancholy, and the coroner's verdict
+Self-knowledge and the philosophy of the mind
+Sensibility, feeling, and its critics
+Sexuality, the double standard, and the literature of the social evil
+Slavery, emancipation, and the unfinished Reconstruction
+Slavery, empire, and the Atlantic world
+Social satire and estates criticism
+Solitude and the hall community
+Sympathy, benevolence, and the moral sense
+Taste, decorum, and the rules of art
+The American city, the machine, and the moneyed metropolis
+The American wilderness and the myth of the forest
+The English vernacular and national letters
+The New Science and experimental philosophy
+The Passion of Christ
+The Virgin Mary and Marian devotion
+The annual, the keepsake, and the gift-book economy
+The city and urban life
+The closing of the American frontier
+The contemplative life
+The education of princes and magistrates
+The literature of the nations: Scotland, Ireland, and Wales
+The machine age, speed, and technical modernity
+The machinery of print: the serial, the magazine, and the book trade
+The marriage market and the limited estate
+The metropolis, the crowd, and the imperial capital
+The public sphere, print, and the periodical
+The public theatre and the players' world
+The slave trade and abolition
+The sublime, terror, and the ruin
+The supernatural ballad and willed belief
+The transience of earthly glory (ubi sunt)
+The wilderness, settlement, and Indian removal
+The woman question, married disability, and the New Woman
+Time, death, and immortality through verse
+Transatlantic exchange and cultural dependence
+Treasure, gift-giving, and reciprocity
+Typology and biblical interpretation
+Tyranny and the abuse of power
+Wage labour, the strike, and the two nations
+Warfare and battle
+Wisdom and learning
+Wit, libertinism, and the rake
+Wit, ridicule, and the war against dullness
+Women's education and intellectual friendship
+Women's experience and the feminine voice
+Women, chastity, and constancy
+Wyrd (fate) and providence
+
+== PERIODS ==
+Augustan and Eighteenth-Century Period
+Caroline, Commonwealth, and Restoration Period
+Elizabethan and Jacobean Period
+Middle English Period
+Old English Period (Anglo-Saxon)
+Renaissance and Early Tudor Period
+Romantic Period
+Victorian Period (1832–1901)

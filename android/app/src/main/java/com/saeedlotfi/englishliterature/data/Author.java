@@ -21,6 +21,10 @@ public final class Author {
     public final String style;
     public final String concerns;
     public final String significance;
+    /** Documented standing: "Major / canonical", "Significant / secondary",
+     *  "Minor / lesser-known", "Obscure / historically neglected" or "" when
+     *  the author has not been graded (installments 1-7). */
+    public final String tier;
     public final String uncertainty;
     public final List<String> genres = new ArrayList<>();
     public final List<String> movements = new ArrayList<>();
@@ -51,6 +55,7 @@ public final class Author {
         style = o.optString("style");
         concerns = o.optString("concerns");
         significance = o.optString("significance");
+        tier = o.optString("tier");
         uncertainty = o.optString("uncertainty");
         JSONArray arr;
         arr = o.optJSONArray("altNames");

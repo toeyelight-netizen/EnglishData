@@ -1,0 +1,5625 @@
+{
+ "work_authors": [
+  {
+   "work": "Invisible Man",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Shadow and Act",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Going to the Territory",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Collected Essays of Ralph Ellison",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Flying Home and Other Stories",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Juneteenth",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Jill",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Girl in Winter",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "XX Poems",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Less Deceived",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "All What Jazz: A Record Diary",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Oxford Book of Twentieth-Century English Verse",
+   "author": "Philip Larkin",
+   "contribution_type": "editor"
+  },
+  {
+   "work": "High Windows",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Aubade",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Required Writing: Miscellaneous Pieces 1955-1982",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Collected Poems",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Selected Letters of Philip Larkin, 1940-1985",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Sign in Sidney Brustein's Window",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Movement: Documentary of a Struggle for Equality",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "To Be Young, Gifted and Black",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author (texts adapted by Robert Nemiroff)"
+  },
+  {
+   "work": "Les Blancs",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Drinking Gourd",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "What Use Are Flowers?",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Critical Essays",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "James Burnham and the Managerial Revolution",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The English People",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Nineteen Eighty-Four",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Shooting an Elephant and Other Essays",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Such, Such Were the Joys",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Collected Essays, Journalism and Letters of George Orwell",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Freedom of the Press",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Brighter Sun",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "An Island Is a World",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Lonely Londoners",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ways of Sunlight",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Turn Again Tiger",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "I Hear Thunder",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Housing Lark",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Plains of Caroni",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Moses Ascending",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Moses Migrating",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eldorado West One",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Church Going",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "MCMXIV",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Talking in Bed",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "High Windows (poem)",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Going, Going",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sad Steps",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Homage to a Government",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Explosion",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "This Be The Verse",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Politics and the English Language",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "author": "Jean Rhys",
+   "contribution_type": "author"
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "author": "Jean Rhys",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Waiting for Godot",
+   "author": "Samuel Beckett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Praise of Limestone",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Shield of Achilles",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Children of the Poor",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "We Real Cool",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Bean Eaters",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "To the Diaspora",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Our Bog Is Dood",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Not Waving but Drowning",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Thoughts About the Person from Porlock",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Do Not Go Gentle into That Good Night",
+   "author": "Dylan Thomas",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Colonization in Reverse",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "History of the Voice",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Calypso",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Letter SycoraX",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Decolonising the Mind",
+   "author": "Ngũgĩ wa Thiong'o",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "author": "M. NourbeSe Philip",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Prophet's Hair",
+   "author": "Salman Rushdie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Imaginary Homelands",
+   "author": "Salman Rushdie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Epilogue",
+   "author": "Grace Nichols",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "author": "Grace Nichols",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Wherever I Hang",
+   "author": "Grace Nichols",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "author": "Linton Kwesi Johnson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "To Room Nineteen",
+   "author": "Doris Lessing",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Self-Portrait",
+   "author": "A. K. Ramanujan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Elements of Composition",
+   "author": "A. K. Ramanujan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Black Jackets",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "My Sad Captains",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "From the Wave",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Still Life",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Missing",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Schooner Flight",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Omeros",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Wind",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pike",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Out",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Theology",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Crow's Last Stand",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Civil Peace",
+   "author": "Chinua Achebe",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "author": "Geoffrey Hill",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "author": "Geoffrey Hill",
+   "contribution_type": "author"
+  },
+  {
+   "work": "September Song",
+   "author": "Geoffrey Hill",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "author": "Alice Munro",
+   "contribution_type": "author"
+  },
+  {
+   "work": "One Out of Many",
+   "author": "V. S. Naipaul",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Death and the King's Horseman",
+   "author": "Wole Soyinka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Top Girls",
+   "author": "Caryl Churchill",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Digging",
+   "author": "Seamus Heaney",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Grauballe Man",
+   "author": "Seamus Heaney",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Punishment",
+   "author": "Seamus Heaney",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Casualty",
+   "author": "Seamus Heaney",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Station Island",
+   "author": "Seamus Heaney",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Clearances",
+   "author": "Seamus Heaney",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Morse",
+   "author": "Les Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Corniche",
+   "author": "Les Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Drowned World",
+   "author": "J. G. Ballard",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Looking for a Rain God",
+   "author": "Bessie Head",
+   "contribution_type": "author"
+  },
+  {
+   "work": "What the Tapster Saw",
+   "author": "Ben Okri",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The God of Small Things",
+   "author": "Arundhati Roy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Death by Landscape",
+   "author": "Margaret Atwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Miss July Grows Older",
+   "author": "Margaret Atwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "author": "J. M. Coetzee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Fond Memory",
+   "author": "Eavan Boland",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "author": "Eavan Boland",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Lost Land",
+   "author": "Eavan Boland",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Glass Essay",
+   "author": "Anne Carson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Anseo",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Meeting the British",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "7, Middagh Street",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "First Screening",
+   "author": "bpNichol",
+   "contribution_type": "author"
+  },
+  {
+   "work": "My Son the Fanatic",
+   "author": "Hanif Kureishi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Warming Her Pearls",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Valentine",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Medusa",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mrs Lazarus",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "author": "Kiran Desai",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Signs and Symbols",
+   "author": "Vladimir Nabokov",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cuttings",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cuttings (later)",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Waking",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Elegy for Jane",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "I Knew a Woman",
+   "author": "Theodore Roethke",
+   "contribution_type": "author"
+  },
+  {
+   "work": "At the Fishhouses",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Questions of Travel",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Armadillo",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In the Waiting Room",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "One Art",
+   "author": "Elizabeth Bishop",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "author": "Tennessee Williams",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Swimmer",
+   "author": "John Cheever",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Those Winter Sundays",
+   "author": "Robert Hayden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "author": "Robert Hayden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "author": "Saul Bellow",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Death of a Salesman",
+   "author": "Arthur Miller",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Skunk Hour",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Night Sweat",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "For the Union Dead",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "author": "J. D. Salinger",
+   "contribution_type": "author"
+  },
+  {
+   "work": "On the Road",
+   "author": "Jack Kerouac",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Harrison Bergeron",
+   "author": "Kurt Vonnegut",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "author": "Kurt Vonnegut",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Conversation with My Father",
+   "author": "Grace Paley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "author": "Grace Paley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Step Away from Them",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Day Lady Died",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Having a Coke with You",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "author": "Frank O'Hara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Coal",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Woman Thing",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Black Mother Woman",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Against Interpretation",
+   "author": "Susan Sontag",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "author": "John Barth",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The White Album",
+   "author": "Joan Didion",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sonny's Blues",
+   "author": "James Baldwin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Going to Meet the Man",
+   "author": "James Baldwin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Letter to My Nephew",
+   "author": "James Baldwin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Good Country People",
+   "author": "Flannery O'Connor",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "author": "Flannery O'Connor",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "author": "Flannery O'Connor",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Howl",
+   "author": "Allen Ginsberg",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Illustration",
+   "author": "John Ashbery",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "author": "John Ashbery",
+   "contribution_type": "author"
+  },
+  {
+   "work": "How to Continue",
+   "author": "John Ashbery",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Her Kind",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Starry Night",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sylvia's Death",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "author": "Anne Sexton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Diving into the Wreck",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Power",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Transcendental Etude",
+   "author": "Adrienne Rich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "author": "Martin Luther King Jr.",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Balloon",
+   "author": "Donald Barthelme",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The School",
+   "author": "Donald Barthelme",
+   "contribution_type": "author"
+  }
+ ],
+ "work_genres": [
+  {
+   "work": "Invisible Man",
+   "genres": [
+    "Literary Novel",
+    "Bildungsroman",
+    "Political Novel",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Shadow and Act",
+   "genres": [
+    "Literary Essay",
+    "Literary Criticism",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Going to the Territory",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "The Collected Essays of Ralph Ellison",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Flying Home and Other Stories",
+   "genres": [
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "work": "Juneteenth",
+   "genres": [
+    "Literary Novel",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+   "genres": [
+    "Collected Letters"
+   ]
+  },
+  {
+   "work": "Jill",
+   "genres": [
+    "Literary Novel",
+    "Campus Novel",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "A Girl in Winter",
+   "genres": [
+    "Literary Novel",
+    "Psychological Novel"
+   ]
+  },
+  {
+   "work": "XX Poems",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Less Deceived",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "All What Jazz: A Record Diary",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Journalism"
+   ]
+  },
+  {
+   "work": "The Oxford Book of Twentieth-Century English Verse",
+   "genres": [
+    "Anthology"
+   ]
+  },
+  {
+   "work": "High Windows",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Aubade",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Required Writing: Miscellaneous Pieces 1955-1982",
+   "genres": [
+    "Literary Essay",
+    "Literary Criticism"
+   ]
+  },
+  {
+   "work": "Collected Poems",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Selected Letters of Philip Larkin, 1940-1985",
+   "genres": [
+    "Collected Letters"
+   ]
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "genres": [
+    "Domestic Drama",
+    "Social Realist Drama",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Sign in Sidney Brustein's Window",
+   "genres": [
+    "Political Theatre",
+    "Social Realist Drama",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Movement: Documentary of a Struggle for Equality",
+   "genres": [
+    "Political Publication",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "To Be Young, Gifted and Black",
+   "genres": [
+    "Memoir",
+    "Hybrid Forms"
+   ]
+  },
+  {
+   "work": "Les Blancs",
+   "genres": [
+    "Political Theatre",
+    "Modern Tragedy",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Drinking Gourd",
+   "genres": [
+    "Television Drama",
+    "Historical Drama"
+   ]
+  },
+  {
+   "work": "What Use Are Flowers?",
+   "genres": [
+    "Television Drama",
+    "One-Act Play"
+   ]
+  },
+  {
+   "work": "Critical Essays",
+   "genres": [
+    "Literary Criticism",
+    "Cultural Criticism",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "James Burnham and the Managerial Revolution",
+   "genres": [
+    "Political Essay",
+    "Pamphlet"
+   ]
+  },
+  {
+   "work": "The English People",
+   "genres": [
+    "Social Criticism",
+    "Pamphlet"
+   ]
+  },
+  {
+   "work": "Nineteen Eighty-Four",
+   "genres": [
+    "Dystopian Fiction",
+    "Political Novel",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Shooting an Elephant and Other Essays",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "Such, Such Were the Joys",
+   "genres": [
+    "Memoir",
+    "Personal Essay",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "The Collected Essays, Journalism and Letters of George Orwell",
+   "genres": [
+    "Collected Letters",
+    "Literary Journalism",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "The Freedom of the Press",
+   "genres": [
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "A Brighter Sun",
+   "genres": [
+    "Bildungsroman",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "An Island Is a World",
+   "genres": [
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "The Lonely Londoners",
+   "genres": [
+    "Social Novel",
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "Ways of Sunlight",
+   "genres": [
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "work": "Turn Again Tiger",
+   "genres": [
+    "Social Novel",
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "I Hear Thunder",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "The Housing Lark",
+   "genres": [
+    "Comic Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "The Plains of Caroni",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Moses Ascending",
+   "genres": [
+    "Comic Novel",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Moses Migrating",
+   "genres": [
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "Eldorado West One",
+   "genres": [
+    "Radio Drama",
+    "One-Act Play"
+   ]
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "genres": [
+    "Short Story",
+    "Literary Journalism"
+   ]
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "genres": [
+    "Radio Drama",
+    "Television Drama"
+   ]
+  },
+  {
+   "work": "Church Going",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "MCMXIV",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Talking in Bed",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "High Windows (poem)",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Going, Going",
+   "genres": [
+    "Political Poetry",
+    "Social Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Sad Steps",
+   "genres": [
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Homage to a Government",
+   "genres": [
+    "Political Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Explosion",
+   "genres": [
+    "Elegiac Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "This Be The Verse",
+   "genres": [
+    "Light Verse",
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Politics and the English Language",
+   "genres": [
+    "Political Essay",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "work": "Waiting for Godot",
+   "genres": [
+    "Absurdist Drama",
+    "Modern Tragicomedy",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "In Praise of Limestone",
+   "genres": [
+    "Lyric Poetry",
+    "Pastoral and Rural Poetry"
+   ]
+  },
+  {
+   "work": "The Shield of Achilles",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Children of the Poor",
+   "genres": [
+    "Sonnet",
+    "Formal Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "We Real Cool",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "The Bean Eaters",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "genres": [
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "genres": [
+    "Political Poetry",
+    "Social Poetry",
+    "Black Arts Poetry"
+   ]
+  },
+  {
+   "work": "To the Diaspora",
+   "genres": [
+    "Lyric Poetry",
+    "Black Arts Poetry"
+   ]
+  },
+  {
+   "work": "Our Bog Is Dood",
+   "genres": [
+    "Light Verse",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Not Waving but Drowning",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Thoughts About the Person from Porlock",
+   "genres": [
+    "Light Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Do Not Go Gentle into That Good Night",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Colonization in Reverse",
+   "genres": [
+    "Performance Poetry",
+    "Light Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "History of the Voice",
+   "genres": [
+    "Postcolonial Criticism",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "Calypso",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Letter SycoraX",
+   "genres": [
+    "Experimental Poetry",
+    "Visual Poetry"
+   ]
+  },
+  {
+   "work": "Decolonising the Mind",
+   "genres": [
+    "Postcolonial Criticism",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "genres": [
+    "Experimental Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Prophet's Hair",
+   "genres": [
+    "Short Story",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Imaginary Homelands",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Postcolonial Criticism"
+   ]
+  },
+  {
+   "work": "Epilogue",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Dramatic Poetry"
+   ]
+  },
+  {
+   "work": "Wherever I Hang",
+   "genres": [
+    "Lyric Poetry",
+    "Dub Poetry"
+   ]
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "genres": [
+    "Dub Poetry",
+    "Political Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "To Room Nineteen",
+   "genres": [
+    "Short Story",
+    "Psychological Novel",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Self-Portrait",
+   "genres": [
+    "Lyric Poetry",
+    "Modernist Poetry"
+   ]
+  },
+  {
+   "work": "Elements of Composition",
+   "genres": [
+    "Lyric Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "Black Jackets",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "My Sad Captains",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "From the Wave",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Still Life",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Missing",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "genres": [
+    "Political Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Schooner Flight",
+   "genres": [
+    "Narrative Poetry",
+    "Long Poem",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Omeros",
+   "genres": [
+    "Epic Poetry",
+    "Long Poem",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Wind",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Pike",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Out",
+   "genres": [
+    "Lyric Poetry",
+    "Dark Fantasy"
+   ]
+  },
+  {
+   "work": "Theology",
+   "genres": [
+    "Religious Poetry",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Crow's Last Stand",
+   "genres": [
+    "Mythological Retelling",
+    "Dark Fantasy"
+   ]
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "genres": [
+    "Mythological Retelling",
+    "Dark Fantasy"
+   ]
+  },
+  {
+   "work": "Civil Peace",
+   "genres": [
+    "Short Story",
+    "War Novel",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "genres": [
+    "Elegiac Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "genres": [
+    "Elegiac Poetry",
+    "Historical Writing"
+   ]
+  },
+  {
+   "work": "September Song",
+   "genres": [
+    "Elegiac Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "One Out of Many",
+   "genres": [
+    "Novella",
+    "Psychological Novel",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "Death and the King's Horseman",
+   "genres": [
+    "Modern Tragedy",
+    "Historical Drama",
+    "Political Theatre"
+   ]
+  },
+  {
+   "work": "Top Girls",
+   "genres": [
+    "Stage Comedy",
+    "Modern Tragicomedy",
+    "Political Theatre"
+   ]
+  },
+  {
+   "work": "Digging",
+   "genres": [
+    "Lyric Poetry",
+    "Regional Poetry"
+   ]
+  },
+  {
+   "work": "The Grauballe Man",
+   "genres": [
+    "Elegiac Poetry",
+    "Historical Writing"
+   ]
+  },
+  {
+   "work": "Punishment",
+   "genres": [
+    "Political Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Casualty",
+   "genres": [
+    "Elegiac Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Station Island",
+   "genres": [
+    "Narrative Poetry",
+    "Long Poem",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Clearances",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Morse",
+   "genres": [
+    "Lyric Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "Corniche",
+   "genres": [
+    "Lyric Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "The Drowned World",
+   "genres": [
+    "Science Fiction",
+    "Apocalyptic Fiction",
+    "Post-Apocalyptic Fiction"
+   ]
+  },
+  {
+   "work": "Looking for a Rain God",
+   "genres": [
+    "Short Story",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "What the Tapster Saw",
+   "genres": [
+    "Short Story",
+    "Experimental Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "The God of Small Things",
+   "genres": [
+    "Literary Novel",
+    "Historical Novel",
+    "Family Saga"
+   ]
+  },
+  {
+   "work": "Death by Landscape",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "Miss July Grows Older",
+   "genres": [
+    "Lyric Poetry",
+    "Dramatic Monologue",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "genres": [
+    "Literary Novel",
+    "Political Novel",
+    "Philosophical Fiction"
+   ]
+  },
+  {
+   "work": "Fond Memory",
+   "genres": [
+    "Lyric Poetry",
+    "Confessional Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Lost Land",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "The Glass Essay",
+   "genres": [
+    "Narrative Poetry",
+    "Confessional Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "Anseo",
+   "genres": [
+    "Narrative Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Meeting the British",
+   "genres": [
+    "Narrative Poetry",
+    "Dramatic Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "7, Middagh Street",
+   "genres": [
+    "Dramatic Poetry",
+    "Narrative Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "First Screening",
+   "genres": [
+    "Concrete Poetry",
+    "Visual Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "My Son the Fanatic",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Warming Her Pearls",
+   "genres": [
+    "Dramatic Monologue",
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "Valentine",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Medusa",
+   "genres": [
+    "Dramatic Monologue",
+    "Mythological Retelling",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Mrs Lazarus",
+   "genres": [
+    "Dramatic Monologue",
+    "Mythological Retelling",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "genres": [
+    "Comic Novel",
+    "Satirical Fiction",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "Signs and Symbols",
+   "genres": [
+    "Short Story",
+    "Modernist Fiction",
+    "Philosophical Fiction"
+   ]
+  },
+  {
+   "work": "Cuttings",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Cuttings (later)",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "The Waking",
+   "genres": [
+    "Formal Verse",
+    "Religious Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Elegy for Jane",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "I Knew a Woman",
+   "genres": [
+    "Love Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "At the Fishhouses",
+   "genres": [
+    "Nature Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Questions of Travel",
+   "genres": [
+    "Travel Writing",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Armadillo",
+   "genres": [
+    "Nature Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "In the Waiting Room",
+   "genres": [
+    "Free Verse",
+    "Confessional Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "One Art",
+   "genres": [
+    "Formal Verse",
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "genres": [
+    "Modern Tragedy",
+    "Gothic Fiction",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Swimmer",
+   "genres": [
+    "Short Story",
+    "Satirical Fiction",
+    "Modernist Fiction"
+   ]
+  },
+  {
+   "work": "Those Winter Sundays",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "genres": [
+    "Free Verse",
+    "Narrative Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Social Criticism"
+   ]
+  },
+  {
+   "work": "Death of a Salesman",
+   "genres": [
+    "Modern Tragedy",
+    "Domestic Drama",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "genres": [
+    "Formal Verse",
+    "Religious Poetry",
+    "Dramatic Monologue"
+   ]
+  },
+  {
+   "work": "Skunk Hour",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Night Sweat",
+   "genres": [
+    "Confessional Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "For the Union Dead",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "genres": [
+    "Short Story",
+    "War Novel",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "On the Road",
+   "genres": [
+    "Bildungsroman",
+    "Autobiographical Novel",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Harrison Bergeron",
+   "genres": [
+    "Dystopian Fiction",
+    "Satirical Fiction",
+    "Science Fiction"
+   ]
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "genres": [
+    "Postmodern Fiction",
+    "Science Fiction",
+    "War Novel"
+   ]
+  },
+  {
+   "work": "A Conversation with My Father",
+   "genres": [
+    "Short Story",
+    "Metafictional Novel",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Metafictional Novel"
+   ]
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "genres": [
+    "Literary Manifesto",
+    "Literary Criticism and Theory (1946–2000)",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "A Step Away from Them",
+   "genres": [
+    "Free Verse",
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Day Lady Died",
+   "genres": [
+    "Free Verse",
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Having a Coke with You",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "genres": [
+    "Free Verse",
+    "Confessional Poetry",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Coal",
+   "genres": [
+    "Free Verse",
+    "Political Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Woman Thing",
+   "genres": [
+    "Free Verse",
+    "Political Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Black Mother Woman",
+   "genres": [
+    "Free Verse",
+    "Confessional Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "genres": [
+    "Literary Essay",
+    "Feminist Criticism",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "genres": [
+    "Literary Essay",
+    "Feminist Criticism",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "Against Interpretation",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "genres": [
+    "Experimental Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ]
+  },
+  {
+   "work": "The White Album",
+   "genres": [
+    "Personal Essay",
+    "Cultural Criticism",
+    "Nonfiction Prose (1946–2000)"
+   ]
+  },
+  {
+   "work": "Sonny's Blues",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Autobiographical Novel"
+   ]
+  },
+  {
+   "work": "Going to Meet the Man",
+   "genres": [
+    "Short Story",
+    "Gothic Fiction",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "Letter to My Nephew",
+   "genres": [
+    "Personal Essay",
+    "Political Essay",
+    "Nonfiction Prose (1946–2000)"
+   ]
+  },
+  {
+   "work": "Good Country People",
+   "genres": [
+    "Short Story",
+    "Gothic Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "genres": [
+    "Short Story",
+    "Gothic Fiction",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Social Criticism"
+   ]
+  },
+  {
+   "work": "Howl",
+   "genres": [
+    "Free Verse",
+    "Political Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Illustration",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "genres": [
+    "Lyric Poetry",
+    "Long Poem",
+    "Free Verse",
+    "Postmodern Poetry"
+   ]
+  },
+  {
+   "work": "How to Continue",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Free Verse",
+    "Postmodern Poetry"
+   ]
+  },
+  {
+   "work": "Her Kind",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Starry Night",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Sylvia's Death",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "genres": [
+    "Confessional Poetry",
+    "Love Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "genres": [
+    "Lyric Poetry",
+    "Dramatic Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Diving into the Wreck",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Power",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Transcendental Etude",
+   "genres": [
+    "Lyric Poetry",
+    "Long Poem",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "genres": [
+    "Political Essay",
+    "Social Criticism",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "The Balloon",
+   "genres": [
+    "Short Story",
+    "Postmodern Fiction",
+    "Experimental Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "The School",
+   "genres": [
+    "Short Story",
+    "Postmodern Fiction",
+    "Experimental Fiction"
+   ]
+  }
+ ],
+ "work_themes": [
+  {
+   "work": "Invisible Man",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Shadow and Act",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Going to the Territory",
+   "themes": [
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Collected Essays of Ralph Ellison",
+   "themes": [
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Flying Home and Other Stories",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Childhood, adolescence and coming of age",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Juneteenth",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Race, racism and the struggle for civil rights",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Jill",
+   "themes": [
+    "Class, labour and social mobility",
+    "Education, institutions and the academy",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "A Girl in Winter",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Love, intimacy and loss",
+    "Alienation, absurdity and existential freedom"
+   ]
+  },
+  {
+   "work": "XX Poems",
+   "themes": [
+    "Love, intimacy and loss",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "The Less Deceived",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Land, place and regional belonging",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "All What Jazz: A Record Diary",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "The Oxford Book of Twentieth-Century English Verse",
+   "themes": [
+    "Nationhood and national identity",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "High Windows",
+   "themes": [
+    "Death, illness and mourning",
+    "Sexuality, desire and the closet",
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Aubade",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Required Writing: Miscellaneous Pieces 1955-1982",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Collected Poems",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Selected Letters of Philip Larkin, 1940-1985",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "The Sign in Sidney Brustein's Window",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Power, the state and surveillance",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "The Movement: Documentary of a Struggle for Equality",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "To Be Young, Gifted and Black",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Les Blancs",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Violence, crime and justice",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Drinking Gourd",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "What Use Are Flowers?",
+   "themes": [
+    "Utopia, dystopia and imagined futures",
+    "The Cold War, nuclear threat and the bomb",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "Critical Essays",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Technology, media and consumer society",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "James Burnham and the Managerial Revolution",
+   "themes": [
+    "Power, the state and surveillance",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "The English People",
+   "themes": [
+    "Nationhood and national identity",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Nineteen Eighty-Four",
+   "themes": [
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Shooting an Elephant and Other Essays",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance",
+    "Decolonisation, the end of empire and the new nation",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Such, Such Were the Joys",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy",
+    "Class, labour and social mobility",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "The Collected Essays, Journalism and Letters of George Orwell",
+   "themes": [
+    "Power, the state and surveillance",
+    "Language, writing and the limits of representation",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "The Freedom of the Press",
+   "themes": [
+    "Power, the state and surveillance",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "A Brighter Sun",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "An Island Is a World",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Lonely Londoners",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Ways of Sunlight",
+   "themes": [
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Turn Again Tiger",
+   "themes": [
+    "Land, place and regional belonging",
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "I Hear Thunder",
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "The Housing Lark",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "The Plains of Caroni",
+   "themes": [
+    "Technology, media and consumer society",
+    "Class, labour and social mobility",
+    "Land, place and regional belonging",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Love, intimacy and loss",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Moses Ascending",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Moses Migrating",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Eldorado West One",
+   "themes": [
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "themes": [
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Family, marriage and domestic life",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Church Going",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "MCMXIV",
+   "themes": [
+    "War, combat and its aftermath",
+    "History, truth and the uses of the past",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Talking in Bed",
+   "themes": [
+    "Love, intimacy and loss",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "High Windows (poem)",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Faith, doubt and the sacred",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Going, Going",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Nationhood and national identity",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Sad Steps",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Homage to a Government",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "The Explosion",
+   "themes": [
+    "Death, illness and mourning",
+    "Class, labour and social mobility",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "This Be The Verse",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Politics and the English Language",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "themes": [
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Race, racism and the struggle for civil rights",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "themes": [
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Waiting for Godot",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "In Praise of Limestone",
+   "themes": [
+    "Land, place and regional belonging",
+    "Faith, doubt and the sacred",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "The Shield of Achilles",
+   "themes": [
+    "War, combat and its aftermath",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "The Children of the Poor",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "We Real Cool",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "The Bean Eaters",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "To the Diaspora",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Our Bog Is Dood",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Childhood, adolescence and coming of age",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Not Waving but Drowning",
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Madness, breakdown and confinement"
+   ]
+  },
+  {
+   "work": "Thoughts About the Person from Porlock",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Do Not Go Gentle into That Good Night",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Colonization in Reverse",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "History of the Voice",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Nationhood and national identity",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Calypso",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Class, labour and social mobility",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Letter SycoraX",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "Decolonisation, the end of empire and the new nation"
+   ]
+  },
+  {
+   "work": "Decolonising the Mind",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "The Prophet's Hair",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Imaginary Homelands",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Epilogue",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Gender, feminism and women's lives",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Wherever I Hang",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "To Room Nineteen",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Madness, breakdown and confinement",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Self-Portrait",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Elements of Composition",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Nature, ecology and environmental crisis",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Black Jackets",
+   "themes": [
+    "Class, labour and social mobility",
+    "Counterculture, drugs and rebellion",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "My Sad Captains",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "From the Wave",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Still Life",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "The Missing",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Decolonisation, the end of empire and the new nation",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Schooner Flight",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "themes": [
+    "War, combat and its aftermath",
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Omeros",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Wind",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Pike",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Out",
+   "themes": [
+    "Violence, crime and justice",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Theology",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Crow's Last Stand",
+   "themes": [
+    "Death, illness and mourning",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Civil Peace",
+   "themes": [
+    "War, combat and its aftermath",
+    "Family, marriage and domestic life",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "themes": [
+    "History, truth and the uses of the past",
+    "War, combat and its aftermath",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "September Song",
+   "themes": [
+    "The Holocaust, atrocity and historical memory",
+    "War, combat and its aftermath",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "One Out of Many",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Death and the King's Horseman",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Faith, doubt and the sacred",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Top Girls",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Class, labour and social mobility",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Digging",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Grauballe Man",
+   "themes": [
+    "The Holocaust, atrocity and historical memory",
+    "Violence, crime and justice",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Punishment",
+   "themes": [
+    "Violence, crime and justice",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Casualty",
+   "themes": [
+    "War, combat and its aftermath",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Station Island",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Clearances",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Morse",
+   "themes": [
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Corniche",
+   "themes": [
+    "Death, illness and mourning",
+    "Madness, breakdown and confinement",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Drowned World",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Alienation, absurdity and existential freedom",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "Looking for a Rain God",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "What the Tapster Saw",
+   "themes": [
+    "Power, the state and surveillance",
+    "Nature, ecology and environmental crisis",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "The God of Small Things",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Death by Landscape",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Miss July Grows Older",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "themes": [
+    "Power, the state and surveillance",
+    "Decolonisation, the end of empire and the new nation",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Fond Memory",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Nationhood and national identity",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "The Lost Land",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Memory, trauma and testimony",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "The Glass Essay",
+   "themes": [
+    "Love, intimacy and loss",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Anseo",
+   "themes": [
+    "Nationhood and national identity",
+    "Education, institutions and the academy",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "Meeting the British",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "7, Middagh Street",
+   "themes": [
+    "Art, the artist and the creative life",
+    "War, combat and its aftermath",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "First Screening",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "My Son the Fanatic",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Warming Her Pearls",
+   "themes": [
+    "Class, labour and social mobility",
+    "Sexuality, desire and the closet",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Valentine",
+   "themes": [
+    "Love, intimacy and loss",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Medusa",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Mrs Lazarus",
+   "themes": [
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Signs and Symbols",
+   "themes": [
+    "Madness, breakdown and confinement",
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Cuttings",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Cuttings (later)",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Death, illness and mourning",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Waking",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Elegy for Jane",
+   "themes": [
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "I Knew a Woman",
+   "themes": [
+    "Love, intimacy and loss",
+    "Sexuality, desire and the closet",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "At the Fishhouses",
+   "themes": [
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Questions of Travel",
+   "themes": [
+    "Land, place and regional belonging",
+    "Migration, exile and diaspora",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Armadillo",
+   "themes": [
+    "Violence, crime and justice",
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "In the Waiting Room",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "One Art",
+   "themes": [
+    "Love, intimacy and loss",
+    "Death, illness and mourning",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Class, labour and social mobility",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "The Swimmer",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Death, illness and mourning",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Those Winter Sundays",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Death of a Salesman",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Skunk Hour",
+   "themes": [
+    "Madness, breakdown and confinement",
+    "Land, place and regional belonging",
+    "Alienation, absurdity and existential freedom"
+   ]
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "themes": [
+    "Memory, trauma and testimony",
+    "Violence, crime and justice",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Night Sweat",
+   "themes": [
+    "Madness, breakdown and confinement",
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "For the Union Dead",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "themes": [
+    "War, combat and its aftermath",
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "On the Road",
+   "themes": [
+    "Counterculture, drugs and rebellion",
+    "Land, place and regional belonging",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Harrison Bergeron",
+   "themes": [
+    "Utopia, dystopia and imagined futures",
+    "Power, the state and surveillance",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "themes": [
+    "War, combat and its aftermath",
+    "Death, illness and mourning",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "A Conversation with My Father",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "A Step Away from Them",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Death, illness and mourning",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Day Lady Died",
+   "themes": [
+    "Death, illness and mourning",
+    "The city, the suburb and modern space",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Having a Coke with You",
+   "themes": [
+    "Love, intimacy and loss",
+    "Art, the artist and the creative life",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Art, the artist and the creative life",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Coal",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "The Woman Thing",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Black Mother Woman",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Against Interpretation",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "The White Album",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "The city, the suburb and modern space",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Sonny's Blues",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Going to Meet the Man",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Letter to My Nephew",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Good Country People",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Violence, crime and justice",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Howl",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Illustration",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "How to Continue",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Her Kind",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "The Starry Night",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Madness, breakdown and confinement"
+   ]
+  },
+  {
+   "work": "Sylvia's Death",
+   "themes": [
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Love, intimacy and loss",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Diving into the Wreck",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Power",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Art, the artist and the creative life",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Transcendental Etude",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Power, the state and surveillance",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "The Balloon",
+   "themes": [
+    "Art, the artist and the creative life",
+    "The city, the suburb and modern space",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "The School",
+   "themes": [
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Childhood, adolescence and coming of age"
+   ]
+  }
+ ],
+ "work_movements": [
+  {
+   "work": "Invisible Man",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Shadow and Act",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Less Deceived",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "High Windows",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "A Brighter Sun",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "An Island Is a World",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "The Lonely Londoners",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Ways of Sunlight",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Turn Again Tiger",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "I Hear Thunder",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "The Housing Lark",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "The Plains of Caroni",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Those Who Eat the Cascadura",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Moses Ascending",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Moses Migrating",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Eldorado West One",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Foreday Morning: Selected Prose 1946-1986",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Highway in the Sun and Other Plays",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Church Going",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "MCMXIV",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Talking in Bed",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "High Windows (poem)",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Going, Going",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Sad Steps",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Homage to a Government",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "The Explosion",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "This Be The Verse",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Waiting for Godot",
+   "movements": [
+    "Theatre of the Absurd"
+   ]
+  },
+  {
+   "work": "The Children of the Poor",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "We Real Cool",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Bean Eaters",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "To the Diaspora",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Colonization in Reverse",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "History of the Voice",
+   "movements": [
+    "Postcolonial Theory",
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Calypso",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Letter SycoraX",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Decolonising the Mind",
+   "movements": [
+    "Postcolonial Theory",
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Discourse on the Logic of Language",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Prophet's Hair",
+   "movements": [
+    "South Asian Literature in English",
+    "Magical Realism in English"
+   ]
+  },
+  {
+   "work": "Imaginary Homelands",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Epilogue",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Wherever I Hang",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation",
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "movements": [
+    "Dub Poetry",
+    "Black British Writing and the Windrush Generation",
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "To Room Nineteen",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Self-Portrait",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Elements of Composition",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Black Jackets",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "My Sad Captains",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "From the Wave",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Still Life",
+   "movements": [
+    "Gay and Lesbian Literature after Stonewall"
+   ]
+  },
+  {
+   "work": "The Missing",
+   "movements": [
+    "Gay and Lesbian Literature after Stonewall"
+   ]
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Schooner Flight",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Omeros",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Wind",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Pike",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Out",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Theology",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Crow's Last Stand",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Civil Peace",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "September Song",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "movements": [
+    "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "work": "One Out of Many",
+   "movements": [
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "Death and the King's Horseman",
+   "movements": [
+    "African Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Top Girls",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Political Theatre and the Fringe"
+   ]
+  },
+  {
+   "work": "Digging",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "The Grauballe Man",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Punishment",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Casualty",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Station Island",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Clearances",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Morse",
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Corniche",
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Drowned World",
+   "movements": [
+    "New Wave Science Fiction",
+    "Contemporary Gothic"
+   ]
+  },
+  {
+   "work": "Looking for a Rain God",
+   "movements": [
+    "African Literature in English",
+    "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "work": "What the Tapster Saw",
+   "movements": [
+    "African Literature in English",
+    "Magical Realism in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The God of Small Things",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature",
+    "Magical Realism in English"
+   ]
+  },
+  {
+   "work": "Death by Landscape",
+   "movements": [
+    "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "work": "Miss July Grows Older",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "movements": [
+    "South African Writing under Apartheid",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Fond Memory",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Lost Land",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Glass Essay",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Anseo",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Meeting the British",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "7, Middagh Street",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "First Screening",
+   "movements": [
+    "Concrete Poetry"
+   ]
+  },
+  {
+   "work": "My Son the Fanatic",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Warming Her Pearls",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Valentine",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Medusa",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Mrs Lazarus",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Signs and Symbols",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Cuttings",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Cuttings (later)",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "The Waking",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Elegy for Jane",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "I Knew a Woman",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "At the Fishhouses",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Questions of Travel",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "The Armadillo",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "In the Waiting Room",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "One Art",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "A Streetcar Named Desire",
+   "movements": [
+    "Southern Gothic",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "The Swimmer",
+   "movements": [
+    "Late Modernism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Those Winter Sundays",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Summertime and the Living . . .",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "movements": [
+    "Late Modernism",
+    "Jewish American Fiction"
+   ]
+  },
+  {
+   "work": "Death of a Salesman",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Skunk Hour",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Night Sweat",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "For the Union Dead",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "On the Road",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "Harrison Bergeron",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Black Humour and the Absurdist Novel"
+   ]
+  },
+  {
+   "work": "A Conversation with My Father",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Personism: A Manifesto",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Why I Am Not a Painter",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "A Step Away from Them",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "The Day Lady Died",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Having a Coke with You",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "In Memory of My Feelings",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Coal",
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Woman Thing",
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Black Mother Woman",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Uses of the Erotic: The Erotic as Power",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Master's Tools Will Never Dismantle the Master's House",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Against Interpretation",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "The White Album",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Sonny's Blues",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Going to Meet the Man",
+   "movements": [
+    "Black Arts Movement",
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "Letter to My Nephew",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Good Country People",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "Howl",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "Illustration",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Self-Portrait in a Convex Mirror",
+   "movements": [
+    "The New York School",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "How to Continue",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "work": "Her Kind",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Starry Night",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Sylvia's Death",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Little Girl, My String Bean, My Lovely Woman",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Ballad of the Lonely Masturbator",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Snapshots of a Daughter-in-Law",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "\"I Am in Danger—Sir—\"",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "A Valediction Forbidding Mourning",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Diving into the Wreck",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Power",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Transcendental Etude",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Letter from Birmingham Jail",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Balloon",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Metafiction",
+    "Black Humour and the Absurdist Novel"
+   ]
+  },
+  {
+   "work": "The School",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Black Humour and the Absurdist Novel"
+   ]
+  }
+ ],
+ "work_periods": [
+  {
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "works": [
+    "Invisible Man",
+    "Shadow and Act",
+    "Going to the Territory",
+    "The Collected Essays of Ralph Ellison",
+    "Flying Home and Other Stories",
+    "Juneteenth",
+    "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+    "Jill",
+    "A Girl in Winter",
+    "XX Poems",
+    "The Less Deceived",
+    "The Whitsun Weddings",
+    "All What Jazz: A Record Diary",
+    "The Oxford Book of Twentieth-Century English Verse",
+    "High Windows",
+    "Aubade",
+    "Required Writing: Miscellaneous Pieces 1955-1982",
+    "Collected Poems",
+    "Selected Letters of Philip Larkin, 1940-1985",
+    "A Raisin in the Sun",
+    "The Sign in Sidney Brustein's Window",
+    "The Movement: Documentary of a Struggle for Equality",
+    "To Be Young, Gifted and Black",
+    "Les Blancs",
+    "The Drinking Gourd",
+    "What Use Are Flowers?",
+    "Critical Essays",
+    "James Burnham and the Managerial Revolution",
+    "The English People",
+    "Nineteen Eighty-Four",
+    "Shooting an Elephant and Other Essays",
+    "Such, Such Were the Joys",
+    "The Collected Essays, Journalism and Letters of George Orwell",
+    "The Freedom of the Press",
+    "A Brighter Sun",
+    "An Island Is a World",
+    "The Lonely Londoners",
+    "Ways of Sunlight",
+    "Turn Again Tiger",
+    "I Hear Thunder",
+    "The Housing Lark",
+    "The Plains of Caroni",
+    "Those Who Eat the Cascadura",
+    "Moses Ascending",
+    "Moses Migrating",
+    "Eldorado West One",
+    "Foreday Morning: Selected Prose 1946-1986",
+    "Highway in the Sun and Other Plays",
+    "Church Going",
+    "MCMXIV",
+    "Talking in Bed",
+    "High Windows (poem)",
+    "Going, Going",
+    "Sad Steps",
+    "Homage to a Government",
+    "The Explosion",
+    "This Be The Verse",
+    "Politics and the English Language",
+    "Waiting for Aunty to Cough",
+    "The Day They Burned the Books",
+    "On Not Shooting Sitting Birds",
+    "Waiting for Godot",
+    "In Praise of Limestone",
+    "The Shield of Achilles",
+    "The Children of the Poor",
+    "We Real Cool",
+    "The Bean Eaters",
+    "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+    "The Last Quatrain of the Ballad of Emmett Till",
+    "The Blackstone Rangers",
+    "To the Diaspora",
+    "Our Bog Is Dood",
+    "Not Waving but Drowning",
+    "Thoughts About the Person from Porlock",
+    "Do Not Go Gentle into That Good Night",
+    "Colonization in Reverse",
+    "History of the Voice",
+    "Calypso",
+    "Letter SycoraX",
+    "Decolonising the Mind",
+    "Discourse on the Logic of Language",
+    "The Prophet's Hair",
+    "Imaginary Homelands",
+    "Epilogue",
+    "The Fat Black Woman Goes Shopping",
+    "Wherever I Hang",
+    "Inglan Is a Bitch",
+    "To Room Nineteen",
+    "Self-Portrait",
+    "Elements of Composition",
+    "Black Jackets",
+    "My Sad Captains",
+    "From the Wave",
+    "Still Life",
+    "The Missing",
+    "A Far Cry from Africa",
+    "The Schooner Flight",
+    "The Season of Phantasmal Peace",
+    "Omeros",
+    "Wind",
+    "Pike",
+    "Out",
+    "Theology",
+    "Crow's Last Stand",
+    "Crow Tyrannosaurus",
+    "Civil Peace",
+    "In Memory of Jane Fraser",
+    "Requiem for the Plantagenet Kings",
+    "September Song",
+    "Walker Brothers Cowboy",
+    "One Out of Many",
+    "Death and the King's Horseman",
+    "Top Girls",
+    "Digging",
+    "The Grauballe Man",
+    "Punishment",
+    "Casualty",
+    "Station Island",
+    "Clearances",
+    "Morse",
+    "Corniche",
+    "The Drowned World",
+    "Looking for a Rain God",
+    "What the Tapster Saw",
+    "The God of Small Things",
+    "Death by Landscape",
+    "Miss July Grows Older",
+    "Waiting for the Barbarians",
+    "Fond Memory",
+    "The Dolls Museum in Dublin",
+    "The Lost Land",
+    "The Glass Essay",
+    "Anseo",
+    "Meeting the British",
+    "7, Middagh Street",
+    "Milkweed and Monarch",
+    "First Screening",
+    "My Son the Fanatic",
+    "Warming Her Pearls",
+    "Valentine",
+    "Medusa",
+    "Mrs Lazarus",
+    "Hullabaloo in the Guava Orchard",
+    "Signs and Symbols",
+    "Cuttings",
+    "Cuttings (later)",
+    "The Waking",
+    "Elegy for Jane",
+    "I Knew a Woman",
+    "At the Fishhouses",
+    "Questions of Travel",
+    "The Armadillo",
+    "In the Waiting Room",
+    "One Art",
+    "A Streetcar Named Desire",
+    "The Swimmer",
+    "Those Winter Sundays",
+    "Summertime and the Living . . .",
+    "Looking for Mr. Green",
+    "Death of a Salesman",
+    "Mr. Edwards and the Spider",
+    "Skunk Hour",
+    "Memories of West Street and Lepke",
+    "Night Sweat",
+    "For the Union Dead",
+    "For Esmé—with Love and Squalor",
+    "On the Road",
+    "Harrison Bergeron",
+    "Slaughterhouse-Five",
+    "A Conversation with My Father",
+    "Zagrowsky Tells",
+    "Personism: A Manifesto",
+    "Why I Am Not a Painter",
+    "A Step Away from Them",
+    "The Day Lady Died",
+    "Having a Coke with You",
+    "In Memory of My Feelings",
+    "Coal",
+    "The Woman Thing",
+    "Black Mother Woman",
+    "Uses of the Erotic: The Erotic as Power",
+    "The Master's Tools Will Never Dismantle the Master's House",
+    "Against Interpretation",
+    "Lost in the Funhouse",
+    "The White Album",
+    "Sonny's Blues",
+    "Going to Meet the Man",
+    "Letter to My Nephew",
+    "Good Country People",
+    "A Good Man Is Hard to Find",
+    "Everything That Rises Must Converge",
+    "Howl",
+    "Illustration",
+    "Self-Portrait in a Convex Mirror",
+    "How to Continue",
+    "Her Kind",
+    "The Starry Night",
+    "Sylvia's Death",
+    "Little Girl, My String Bean, My Lovely Woman",
+    "The Ballad of the Lonely Masturbator",
+    "Snapshots of a Daughter-in-Law",
+    "\"I Am in Danger—Sir—\"",
+    "A Valediction Forbidding Mourning",
+    "Diving into the Wreck",
+    "Power",
+    "Transcendental Etude",
+    "Letter from Birmingham Jail",
+    "The Balloon",
+    "The School"
+   ]
+  }
+ ]
+}

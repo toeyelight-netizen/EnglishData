@@ -26,6 +26,19 @@ class Author(Base):
     historical_significance = Column(Text)
     major_influences = Column(Text)  # JSON list
     biographical_uncertainty = Column(Text)
+    # Documented literary-historical standing. Controlled vocabulary, see
+    # documentation/DATA_DICTIONARY.md: "Major / canonical", "Significant /
+    # secondary", "Minor / lesser-known", "Obscure / historically neglected".
+    # Nullable: installments 1-7 predate the column and keep NULL (meaning
+    # "not yet graded"), so earlier work is preserved exactly as researched.
+    significance_tier = Column(String(64))
+    # Author-level bibliography note: documented writings that cannot honestly
+    # carry a separate work record (lost texts, unverifiable fragments, works
+    # whose only record is a periodical reference). Added for installment 8.
+    bibliographical_notes = Column(Text)
+    # Installment 10 onwards (migration f5a6b7c8d9e0); NULL = not assessed.
+    bibliography_status = Column(String(32))
+    verification_status = Column(String(32))
     research_status = Column(String(32), default="complete")
     created_at = Column(DateTime, server_default=func.now())
     updated_at = Column(DateTime, server_default=func.now(), onupdate=func.now())

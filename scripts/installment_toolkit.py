@@ -76,12 +76,32 @@ AUTHOR_KEYS = [
     "biographical_uncertainty", "research_status",
 ]
 
+# Authors may optionally carry a documented significance classification
+# (installment 8 onwards). The JSON records store it as "significance_tier";
+# it is written to the authors table as a nullable column.
+OPTIONAL_AUTHOR_KEYS = ["significance_tier"]
+
+# Author-level note listing documented writings that cannot carry a full work record.
+OPTIONAL_AUTHOR_NOTE_KEYS = ["bibliographical_notes"]
+
+SIGNIFICANCE_TIERS = {
+    "Major / canonical",
+    "Significant / secondary",
+    "Minor / lesser-known",
+    "Obscure / historically neglected",
+}
+
 DATE_FIELDS = ("composition_date_start", "composition_date_end", "publication_date",
                "first_performance_date", "manuscript_date")
 
 AUTHORSHIP_STATUS = {"single", "anonymous", "collaborative", "attributed", "disputed"}
 CANONICAL_STATUS = {"Major canon", "Secondary canon", "Minor canon"}
 RESEARCH_STATUS = {"complete", "partial"}
+
+# Installment 10 onwards: per-record audit fields (migration f5a6b7c8d9e0).
+OPTIONAL_AUTHOR_AUDIT_KEYS = ["bibliography_status", "verification_status"]
+VERIFICATION_STATUS = {"verified", "partially verified", "unverified"}
+BIBLIOGRAPHY_STATUS = {"complete", "substantially complete", "incomplete"}
 
 
 def year_num(value):
@@ -142,6 +162,26 @@ def authors_for(installment):
             payload = payload.get("authors", [])
         out.extend(payload)
     return out
+
+
+def author_owners(root="."):
+    """Map every author name to the installments whose built JSON defines it.
+
+    The importer upserts authors by ``full_name`` in installment order, so a
+    name defined by two installments is silently overwritten by the later one.
+    Each author must therefore be defined by exactly one installment; later
+    installments link works to that record (and installment 10 contributes its
+    bibliographic statement through ``scripts/content/i10_extensions.py``).
+    """
+    owners = {}
+    for p in sorted(glob.glob(os.path.join(root, "data", "authors", "installment_*_authors*.json"))):
+        m = re.match(r"installment_(\d+)_authors", os.path.basename(p))
+        payload = json.load(open(p, encoding="utf-8"))
+        if isinstance(payload, dict):
+            payload = payload.get("authors", [])
+        for rec in payload:
+            owners.setdefault(rec["full_name"], set()).add(m.group(1))
+    return owners
 
 
 def db():

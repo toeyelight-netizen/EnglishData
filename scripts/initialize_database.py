@@ -55,9 +55,35 @@ FTS_STATEMENTS = [
 ]
 
 
+# Columns added after the original schema that must be added to an existing
+# database file without a full Alembic run (create_all never alters tables).
+ADDED_COLUMNS = [
+    ("authors", "significance_tier", "VARCHAR(64)"),
+    ("authors", "bibliographical_notes", "TEXT"),
+]
+
+
+def ensure_added_columns() -> list:
+    """Add post-hoc nullable columns to an existing database, idempotently."""
+    added = []
+    with engine.connect() as connection:
+        for table, column, decl in ADDED_COLUMNS:
+            existing = {row[1] for row in connection.exec_driver_sql(
+                "PRAGMA table_info(%s)" % table)}
+            if column not in existing:
+                connection.exec_driver_sql(
+                    "ALTER TABLE %s ADD COLUMN %s %s" % (table, column, decl))
+                added.append("%s.%s" % (table, column))
+        connection.commit()
+    return added
+
+
 def main() -> None:
     DATABASE_DIR.mkdir(parents=True, exist_ok=True)
     Base.metadata.create_all(engine)
+    added = ensure_added_columns()
+    if added:
+        print("Added columns: %s" % ", ".join(added))
 
     with engine.connect() as connection:
         try:

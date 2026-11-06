@@ -5,11 +5,37 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 
 ## Protocol state
 
-- Current schema revision (Alembic): `c2d3e4f5a6b7` (initial schema + FTS5 +
-  work detail columns).
+- Current schema revision (Alembic): `f5a6b7c8d9e0` (initial schema + FTS5 +
+  work detail columns + author `significance_tier` + author
+  `bibliographical_notes` + the installment 10 verification and bibliography
+  columns).
+- Current position: installments 1–9 are imported, plus installment 10
+  (the five authors kept from waves 01–12 under the third scope decision and
+  the Norton selections of waves 13–14, by nine authors in all), giving
+  **858 authors / 2927 works** across ten periods (c. 450–2000).
+  Installments 8 and 9 are complete: they pass validation, and their close-out
+  (statistics, exports, Android asset) was run on 2026-11-06. See
+  *Installments 8–9: enrichment and quality pass* at the end of this file.
+  **Installment 10 is in progress.** Since the third scope decision it follows
+  the Norton anthologies; see *Installment 10* below and
+  `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
+- 2026-11-05: the master database was rebuilt from the committed JSON
+  (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
+  reset. The gitignored snapshots and backups listed below did not survive the
+  reset; every database state can be rebuilt from the JSON. `import_data.py`
+  now treats the relationships JSON as authoritative for every work, author,
+  period and movement it names. Links removed from the data are therefore
+  removed from the database too, instead of surviving as stale rows; before
+  this fix, re-categorised genres and themes kept their old links.
+- 2026-11-06: ownership is now per work and per author rather than per table.
+  A work named anywhere in the relationships JSON owns all of its work-keyed
+  links, so a work whose movement (or genre or theme) list becomes empty loses
+  its old rows too. Previously such a work was simply absent from that section
+  and its stale rows survived.
 - Installment snapshots: `database/English_Literature_Master_installment_07.db`
-  (cumulative), with `database/backups/pre_import_07.db` as the pre-import
-  recoverable backup.
+  (last snapshot kept on disk), with `database/backups/pre_import_07.db` as the
+  pre-import recoverable backup. Installment 8 was imported into the master
+  database; snapshots are gitignored and are made on request.
 - Backups: `database/backups/English_Literature_Master_installment_01.db`,
   `database/backups/English_Literature_Master_installment_02.db`,
   `database/backups/English_Literature_Master_installment_03.db`,
@@ -24,7 +50,9 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `documentation/validation_reports/validation_report_04.md`,
   `documentation/validation_reports/validation_report_05.md`,
   `documentation/validation_reports/validation_report_06.md`,
-  `documentation/validation_reports/validation_report_07.md`.
+  `documentation/validation_reports/validation_report_07.md`,
+  `documentation/validation_reports/validation_report_08.md`,
+  `documentation/validation_reports/validation_report_09.md`.
 
 ## Installment 1 — Old English and Early Medieval Literature (c. 450–1100)
 
@@ -1124,21 +1152,906 @@ careers).
 
 ---
 
-## Installments 8–10
+## Installment 8 — Victorian Period, British and American (1832–1901)
 
-Under way. Per protocol, the next installment begins only on instruction.
-Scope agreed for these installments: the English and British canon **and** a
-distinct American strand, with broader Anglophone and postcolonial writing out
-of scope.
+**Status: complete** (close-out 2026-11-06). After the coverage audit
+(`documentation/COVERAGE_AUDIT_08_09.md`, waves A–I) installment 8 holds **233
+authors and 887 works**, and none of the 238 names in its canon list is absent
+from the database. Field enrichment and the quality pass are described under
+*Installments 8–9: enrichment and quality pass* at the end of this file.
+
+At the end of the original waves the cumulative database held 579 authors and
+2226 works (147 anonymous), 8 periods, 87 movements, 153 genres, 142 themes,
+301 sources and 2432 recorded editions; installment 8 then accounted for 161
+authors and 771 works and for all 21 new movements, 27 new genres and 27 new
+themes introduced for the period.
+
+### Scope
+
+Installment 8 covers the Victorian period in Britain and the American
+nineteenth century after 1832. It is built as a set of author-and-work *waves*,
+each researched against the same taxonomy, then built, imported and validated
+before the next wave begins. Every wave carries full work records — description,
+plot or argument, historical context, significance, form, composition and
+publication dates, genres, themes, movements and canonical status — plus full
+author records with biography, profile, style, concerns, significance,
+influences, alternative names and an `also=` bibliography.
+
+### Waves imported
+
+| Wave | Authors | Works | Focus |
+|---|---|---|---|
+| British core (batches 1–4) | 41 | 206 | Tennyson to Hopkins, the Brontës, Eliot, Hardy, Gaskell, Trollope, Collins, the Pre-Raphaelites, the critics |
+| American Renaissance | 10 | 53 | Emerson, Thoreau, Fuller, Hawthorne, Melville, Whitman, Dickinson, Stowe, Douglass, Jacobs |
+| American realists and the colour line | 9 | 46 | Twain, Howells, James, Jewett, Chopin, Gilman, Washington, Chesnutt, Dunbar |
+| American women and African-American writers | 10 | 39 | Alcott, Rebecca Harding Davis, Phelps, F. E. W. Harper, H. E. Wilson, W. W. Brown, A. J. Cooper, Ida B. Wells, Harte, Joel Chandler Harris |
+| Aesthetic and Decadent 1890s | 8 | 36 | Swinburne, Morris, Symons, Dowson, Lionel Johnson, John Davidson, Francis Thompson, Michael Field |
+| Social-problem and New Woman | 10 | 68 | Oliphant, Yonge, Craik, Linton, Mrs Humphry Ward, Haggard, George Moore, Zangwill, Sarah Grand, Mona Caird |
+| Drama, nonsense and children | 7 | 29 | Bulwer-Lytton, Disraeli, Shaw, Lear, Housman, Barrie, Jerome |
+| American naturalists and the colour line | 14 | 58 | Crane, Norris, London, Wharton, Bierce, Garland, Cable, Freeman, Dunbar-Nelson, Sui Sin Far, Cahan, Dreiser, Henry Adams, Zitkala-Sa |
+| Late-Victorian essayists and nineties novelists | 7 | 32 | Grant Allen, Vernon Lee, Lucas Malet, Jefferies, Hudson, Borrow, Mrs Henry Wood |
+| The late-Victorian stage and the poets of the nineties | 9 | 36 | Gilbert, Pinero, Henry Arthur Jones, Henley, Bridges, Newbolt, du Maurier, Anthony Hope, W. W. Jacobs |
+| American poets and Native American autobiography | 5 | 20 | Emma Lazarus, Sidney Lanier, James Whitcomb Riley, E. A. Robinson, Charles Eastman |
+
+Some installments overlap by author (Dickens, Eliot, Hardy, the Brontës,
+Stevenson, Kipling, Conan Doyle, Stoker, Gaskell, Trollope, Collins, Meredith,
+Carroll, Rossetti, Pater, Ruskin, Arnold, Carlyle, Mill, Martineau and others
+were already present from earlier periods or from installments 6–7). Waves in
+this installment therefore add **works** to existing author records as well as
+new author records, and the build tool treats a work title already owned by the
+same author as an update rather than a duplicate.
+
+### Authoring conventions adopted in this installment
+
+- **New author metadata.** Two nullable author columns were added by migration
+  (`d3e4f5a6b7c8`, `e4f5a6b7c8d9`): `significance_tier` (a four-value controlled
+  vocabulary — see `documentation/DATA_DICTIONARY.md`) and
+  `bibliographical_notes` (for documented writings that cannot honestly carry a
+  full work record). Installment 8 authors carry both; installments 1–7 keep
+  NULL, so earlier research is preserved exactly as recorded. 161 of the 579
+  authors are graded so far: 45 Major / canonical, 61 Significant / secondary,
+  51 Minor / lesser-known, 4 Obscure / historically neglected.
+- **Content lives in code, not in `/tmp`.** Every wave is written as a Python
+  module under `scripts/content/` (`content_i08_a*.py`, `content_i08_w*.py`)
+  built on the shared `_lib.py` helpers; `scripts/build_installment.py 08`
+  serialises them into the JSON under `data/`. The modules, not the JSON, are
+  the editable source.
+- **Taxonomy is closed.** Genres are written with the `g()`/`wk(gb=...)`
+  resolver and movements/themes with the same disambiguating-substring lookup,
+  so an unresolvable name fails the build instead of silently importing a new
+  taxonomy row. All names come from the 21 movements, 27 genres and 27 themes
+  registered for installment 8.
+- **Title collisions averted.** Generic titles (*Poems*, *Verses*, *New Poems*,
+  *Marriage*, *Endymion*, *Nature*, *Belinda*, *Autobiography*) are disambiguated
+  with an author or year suffix in **both** the work module and the author
+  record's `also=` list, and the original title is carried in
+  `alternative_titles`, because the build refuses a title already held by
+  another author.
+
+### Verification
+
+- `python scripts/build_installment.py 08` — 161 authors, 771 works, 31 work
+  files, 21 author files; 775 work-author links.
+- `python scripts/import_data.py` — idempotent; re-runs produce the same counts.
+- `python scripts/check_installment.py 08` — **CLEAN**, 771 map entries.
+- `python scripts/validate_database.py --installment 08` — **0 issues**
+  (`documentation/validation_reports/validation_report_08.md`).
+- `python scripts/check_duplicates.py` — 0 potential duplicate groups.
+
+### Defects found and fixed during this installment
+
+- *The Bostonians* had been filed under **Howells**; it is James's 1886 novel.
+  Moved to the James group, its stale `work_authors` row deleted, and replaced in
+  the Howells group with *Indian Summer* (1886).
+- A duplicate `alternative_names` entry repeating an author's own canonical name
+  (Jewett, Gilman, Dunbar, Joel Chandler Harris, Haggard, Zangwill) — the alt
+  list must never repeat the canonical name. Fixed across the installment.
+- Jewett's `major_influences` contained an unverifiable personal entry and a
+  reversed influence relation; replaced with documented literary influences.
+- "onrace" typo in the *Pudd'nhead Wilson* historical context.
+- *E. Nesbit* already existed in the database as **Edith Nesbit** (author 479,
+  with six works from the earlier children's-literature wave), so the planned
+  new record was dropped and the duplicate author entry removed rather than
+  creating a second Nesbit. The same check caught nothing else in the last four
+  waves only because every candidate was queried against `authors.full_name`
+  before authoring.
+- Historical-context strings that opened with a repeated "The" before a date
+  (`The 1888, ...`) were normalised to date-first form (`1888: ...`), matching
+  the convention already used elsewhere in the corpus.
+
+### Export and build refresh
+
+After the final wave the whole downstream chain was re-run: `export_data.py`
+(11 tables), `export_app_data.py` (the Android asset is now 7.3 MB of JSON for
+579 authors and 2226 works), and `android/build.py`, which produced a signed,
+verified APK at 3.7 MB. The Android README's browse count and APK size are
+updated to match.
+
+### Phase 5 — significance-tier filter in the app (done)
+
+`significance_tier` (the four-value vocabulary from migration `e4f5a6b7c8d9`)
+is now exported to the app asset as `"tier"` and drives a filter in the UI.
+`Library` ranks the tiers (`Major` 4 → `Obscure` 1, ungraded 0), keeps a
+`workTier` map (a work inherits the highest tier among its authors), and
+exposes `search(query, floor)` / `browse(floor)` where `floor` is a minimum,
+not an exact match. `MainActivity` adds a `Canon` spinner with All / Major /
+Significant / Minor / Neglected and recomputes the header subtitle to the
+filtered counts ("45 authors \u00b7 287 works \u00b7 Major and above");
+`AuthorDetailActivity` shows the tier as a chip plus a "Canonical Standing"
+section, and `WorkDetailActivity` inherits the badge from its authors.
+`Library.browseAuthors(floor)` / `browseWorks(floor)` supply the subtitle
+counts, and a stale-result guard discards hits that arrive after the floor
+changed.
+
+Resulting ladder (verified against the exported asset):
+
+| Floor | Authors | Works |
+|---|---|---|
+| All | 579 | 2226 |
+| Major canon | 45 | 287 |
+| Significant canon | 106 | 564 |
+| Minor | 157 | 756 |
+| Obscure | 161 | 771 |
+
+Update (2026-11-06, installments 8–9 close-out). All 429 authors of
+installments 8 and 9 are now graded. The ladder recomputed from the refreshed
+asset:
+
+| Floor | Authors | Works |
+|---|---|---|
+| All | 847 | 2840 |
+| Major canon | 134 | 557 |
+| Significant canon | 326 | 1109 |
+| Minor | 417 | 1362 |
+| Obscure | 429 | 1385 |
+
+The Obscure floor equals installments 8 and 9 combined (887 + 498 works);
+installments 1–7 remain ungraded.
+
+When this phase was first verified, only the 161 installment-8 authors were graded, so the Obscure floor
+coincides with the full installment. Grading installments 1–7 would make the
+filtered views meaningful across the whole 1,200-year range.
+
+### Deferred gaps for a later Installment-8 supplement
+
+Deliberately not yet recorded, so nothing is lost: British — Florence Marryat,
+Netta Syrett, Evelyn Sharp, Clementina Black, Allen Upward, Harriet Martineau's
+later fiction and the minor poets of the 1890s; American — the regional writers
+of the far West, the later Native American autobiographers after Eastman, and
+the immigrant fiction of the 1900s. (Update, 2026-11-05: the coverage audit has
+since added Netta Syrett, Zitkala-Sa, Abraham Cahan and Sui Sin Far; Florence
+Marryat, Evelyn Sharp, Clementina Black and Allen Upward are still unrecorded.)
+The Phase-1 audit document remains the
+one open deliverable of the original plan; the significance-tier filter for
+the UI (Phase 5) is now implemented — see below — and the instrument needs to
+be extended backwards to installments 1–7, which are still ungraded.
+
+---
+
+## Installment 9 — Edwardian and Interwar, British and American (1901–1945)
+
+**Status: complete** (close-out 2026-11-06). **197 authors and 498
+works** under 33 genres. None of the 210 names in the canon list is absent from
+the database (`documentation/COVERAGE_AUDIT_08_09.md`, waves J–V). The works
+are written in `scripts/content/content_i09_*.py` through the `w()` factory in
+`scripts/content/i09_taxonomy.py`. That factory resolves every genre, theme and
+movement against the taxonomy of all installments, and the build fails on an
+unknown or ambiguous name.
+
+### Genre taxonomy correction (28 → 31 genres)
+
+The taxonomy had only five verse genres (Modernist Long Poem, Imagist,
+Georgian, Trench, New Negro), so poets who fitted none of them had been filed
+under Georgian or Imagist. Yeats, Auden, cummings and Muir were Georgian; *The
+Waste Land*, *The Bridge*, Owen, Hughes, Empson and MacNeice were Imagist.
+Three genres were added: **Modernist Lyric and the New Idiom**, **Thirties
+Political Lyric and the Auden Generation** and **Irish Revival Lyric and the
+Celtic Twilight**. 54 works were re-genred. Georgian now holds 28 works (Brooke,
+de la Mare, Davies, Squire, Sassoon, Masefield and their circle). Imagist holds
+10 (Pound, H.D., Flint, Aldington, Read, Joyce's *Chamber Music* and Williams).
+
+Two more genres were added in the 2026-11-06 quality pass (31 → 33): **Comic
+Novel and the Satire of Manners** and **Provincial Novel and the British Rural
+Chronicle**. See *Installments 8–9: enrichment and quality pass*.
+
+## Installments 8–9: enrichment and quality pass
+
+- **principal_characters**, all hand-authored. Installment 8: **646 of 887**
+  works (72.8%; installments 5–7 stand at 73%, 70% and 68%). Installment 9:
+  **434 of 498** (87%). Uncertain names were checked by web search, and
+  anything that could not be verified stays null.
+  - Collections list the speakers or protagonists of their main pieces.
+  - Person-centred non-fiction lists the narrator and the principal subjects.
+  - Abstract criticism, history and pure lyric volumes are null by policy.
+  - Automatic character extraction was retired because it produced wrong
+    names (`CHARACTER_FALLBACK = False` in `scripts/content_enrich.py`).
+- **Summary corrections.** Researching the characters exposed wrong plot and
+  argument texts, and 167 were corrected. The faults were invented names,
+  titles and quotations; collections credited with poems from other volumes;
+  and reversed or conflated plots. 24 context prefixes were also repaired.
+- **historical_context regression.** Enrichment revision 12 had replaced
+  authored contexts with generic text, while fill-rate checks still showed
+  100%. The authored contexts were restored, and `check_installment.py` gained
+  two boilerplate gates. They fail the build if generic text reaches
+  `historical_context` or `principal_characters`.
+- **Stale links.** See the 2026-11-05 and 2026-11-06 notes under *Protocol
+  state*.
+- **Medium classifier** (`family()` in `scripts/content_enrich.py`). It decides
+  whether a work is verse, drama, prose fiction or non-fiction, and so which
+  label, metre and structure text it gets. It used to substring-match the form
+  and every genre name, so a war memoir tagged with a fiction genre became "a
+  prose fiction work", and poems tagged "Lecture" got prose-argument text.
+  - It now reads the form first, by whole words, taking the head noun of each
+    segment ("collection of stories" is fiction, "verse novel" is verse).
+    Compound terms come first (slave narrative, verse drama, novel in verse).
+    Parenthetical asides only count when nothing else names a medium.
+  - Weak words ("narrative", "sketch") only set a prose fallback, and genres
+    are consulted only when the form is weak or silent.
+  - Metre and structure text may only come from a genre of the work's own
+    medium. A single poem is no longer described as "a collection of separate
+    poems". Genre names keep their capitals in the label sentence.
+- **Genre misfits.** 180 records were re-genred, and the number of works
+  carrying a genre of another medium fell from 216 to 84. The remaining 84 are
+  deliberate thematic tags, such as Nonsense Verse on *Alice* or Children's
+  Fantasy on *Peter Pan*.
+  - Five genres were added. Installment 8 (27 → 30): **Comic Novel and the New
+    Humour**, **Political Verse and the Poem of Public Cause** and **Epic and
+    the Long Philosophical Poem**. Installment 9 (31 → 33): **Comic Novel and
+    the Satire of Manners** and **Provincial Novel and the British Rural
+    Chronicle**.
+  - Installment 9 had been filing comic novels under the stage genre Comedy of
+    Manners. It had also been filing British rural novels (Mary Webb, Neil
+    Gunn, Grassic Gibbon) under the *American* regional-novel genre.
+- **Movement dates.** Every installment 8–9 movement link more than ten years
+  outside the movement's own span was removed: 222 links in installment 8 and
+  54 in installment 9. Works are dated by composition where it is recorded,
+  otherwise by publication.
+  - Examples: *Pelham* (1828) in the 1883–99 New Woman movement, *The
+    Importance of Being Earnest* in Sensation Fiction (1859–68), *My Man
+    Jeeves* in the Auden Generation.
+  - Two late works by core members keep their link: Collins's *Heart and
+    Science* (Sensation Fiction) and Melville's *Billy Budd* (Dark Romance).
+  - Victorian High Seriousness was also removed from Lear's nonsense books,
+    Gilbert's ballads and operas, and Jerome.
+  - After this step coverage was installment 8 799/885 and installment 9
+    359/498. A work with no movement is preferred to a wrong one.
+- **Movement audit, round 2.** Installment 8 had no movement for Victorian
+  realism, so its central novels had been filed under poetry, sensation or
+  criticism movements. **Victorian Realism and the Novel of Ordinary Life**
+  (1847–95) was added. It now covers 57 novels by 14 authors, including
+  Thackeray, the Brontës, Gaskell, Trollope, George Eliot, Oliphant, Hardy,
+  Gissing and Moore. Every other rule kept a recorded list of exceptions:
+  - **Nationality.** American movements need an American author. Hardy, the
+    Kailyard writers, Kipling and Conan Doyle had been under "Local Colour
+    and the Regionalist School", which is defined by American regions.
+    British movements were removed from American authors (*Uncle Tom's Cabin*
+    under Chartism, Melville under Muscular Christianity). Kept: Boucicault and
+    Alcott under Sensation Fiction, Frost's *North of Boston* under Georgian
+    Poetry, Garvey under the Harlem Renaissance.
+  - **Medium and membership.** Victorian High Seriousness and the Public Poet
+    stays on verse only, plus the verse dramas *Becket*, *Atalanta in Calydon*
+    and *The Seraphim*. The criticism movements (Arnold, Carlyle, Ruskin) are
+    off novels, except *Sartor Resartus* and *Robert Elsmere*. The Auden
+    Generation is kept for the group its own description names. Henry James
+    and Lewis Carroll no longer sit under Aestheticism.
+  - **Moves.** Coward's comedies went to the Drawing-Room Stage, and two 1930s
+    novels to the Hungry Thirties, the movements whose descriptions name them.
+  - Work–movement links: installment 8 −205/+58, installment 9 −46/+6.
+    After round 2 coverage was installment 8 723/885 and installment 9 337/498.
+- **Movement audit, round 3** (installment 9 membership). Each movement was
+  checked against the writers its own description names.
+  - "The Edwardian Country House and the Condition of England" keeps the
+    Edwardian social novel: Galsworthy, Bennett, Wells, Forster, Lawrence,
+    Ford, Saki, *The Secret Agent* and *Crome Yellow*. It loses 26 adventure
+    romances, thrillers, essays and plays (*The Scarlet Pimpernel*, *Beau
+    Geste*, Buchan, *Hay Fever*).
+  - Bloomsbury loses Maugham, Beerbohm, Delafield, Compton-Burnett, Warner and
+    Radclyffe Hall.
+  - Imagism and Vorticism lose the Sitwells.
+  - The Harlem Renaissance loses Richard Wright and Gwendolyn Brooks (Chicago,
+    the next generation).
+  - The Lost Generation keeps only the expatriates.
+  - In all, 64 links were removed. Installment 8 coverage stays **723/885**;
+    installment 9 is now **297/498**.
+- **Lady Florence Dixie**, the last TODO row in the coverage ledger, is
+  added: an author record, *Across Patagonia* (1880) and *Gloriana; or, The
+  Revolution of 1900* (1890). The facts were checked against Wikipedia, the SF
+  Encyclopedia and the Project Gutenberg text of *Gloriana*. Every ledger row
+  is now DONE; installment 8 holds 233 authors and 887 works, and all 238
+  canon names are present.
+- **Bibliographical notes.** A composition date with an empty start printed
+  "Composed in None" in 41 records (33 in installment 8, 8 in installment 9).
+  `compose_bibliography` now uses the end date or leaves the clause out.
+- **Relationship lists** in the built JSON are de-duplicated (a theme name
+  split at its own commas had been listed once per fragment).
+
+### Close-out (installments 8–9), done 2026-11-06
+
+- `scripts/generate_statistics.py` rewrote `documentation/statistics.md`
+  (847 authors, 2840 works, 110 movements, 189 genres, 170 themes, 337
+  sources, 2432 editions).
+- `scripts/export_data.py` writes the gitignored `data/exports/`.
+- `scripts/export_app_data.py` refreshed the Android asset, which had stood at
+  651 authors and 2420 works. Its header had been hard-coded
+  (`"installments": "1-2"`, a fixed date). It now derives the installment span
+  from `data/works/` and dates the build, honouring `SOURCE_DATE_EPOCH`.
+- The Phase-5 ladder was recomputed (see the update under Phase 5).
+- `documentation/DATABASE_SCHEMA.md` already documents every column (schema
+  head `e4f5a6b7c8d9`; no migration since). The validation reports for 08 and
+  09 were regenerated, with 0 issues.
+- Not run in this environment: `android/build.py` and
+  `android/tools/run_tier_tests.py` need the local toolchain in
+  `~/.android-build/` (JDK, aapt2, d8, apksig, android-all.jar), which cannot
+  be fetched here. Rebuild the APK locally from the refreshed asset.
+
+### Follow-ups (installments 8–9)
+
+   - Installment 9 has no movement for writers outside the named schools
+     (Maugham, Wodehouse, Buchan, Sabatini). Candidate additions are the
+     Bright Young Things (Waugh, Powell, Henry Green) and the Inklings.
+   - Out-of-span movement links in installments 1–7 (219 more than ten years
+     out) have not been reviewed.
+   - Movement links not yet reviewed: Zitkala-Ša and Eastman under American
+     Realism; Gilbert's *Patience* under Pre-Raphaelitism and Aestheticism.
+   - Fact checks: *The Wheels of Chance* (Bechamel); *Dred* ("decline of the
+     Peyton family"); *Ireland, with Other Poems* ("The Abbey of Saint Mary").
+   - Plot precision: *The Luck of Roaring Camp* (only Kentuck dies); *The
+     White Company* ("rescues the Lady Maude" is imprecise); *The Heroic Slave*
+     (omits Susan's death).
+   - Genre misfits:
+     - Standish O'Grady's two books still carry Serial Novel and Idyll.
+     - The realistic Nesbit and Molesworth books sit under Children's Fantasy.
+     - *A Sheaf Gleaned* takes its metre text from Idyll.
+     - *Invictus* and *The Black Riders* carry only Dramatic Monologue.
+     - *The Amateur Poacher* could add Nature Essay.
+   - *Resolved 2026-11-06:* H. G. Wells had an author record in both
+     installments, and the database kept whichever was imported last. The two
+     are merged into one installment 8 record, and the build now refuses to let
+     a later installment redefine an earlier author (see *Installment 10*).
+   - Code: `scripts/content_enrich.py` still contains dead duplicate
+     definitions of `compose_structure` and `compose_description_extra` (only
+     the last of each is live).
+
+## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
+
+**Status: in progress. Waves 01–12 are built (121 works by 16 authors). Not complete.**
+Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
+audit").
+
+**Inspection (2026-11-06).** No installment 10 records existed on any branch, so
+there was nothing earlier to repair. The database held:
+- 12 works dated 1946 or later, all recorded by installment 9;
+- 120 authors who died in 1956 or later, whose post-war works were missing.
+
+Landmark works of 1945–1951 were absent, among them *Animal Farm*, *Nineteen
+Eighty-Four*, *Death of a Salesman*, *A Streetcar Named Desire*, *The Catcher in
+the Rye* and *Cry, the Beloved Country*.
+
+**Scope decisions (2026-11-06).** These replace the earlier plan of 1945–2000
+with broader Anglophone writing out of scope.
+- **Period.** 1 January 1946 to 31 December 2000. The core is 1951–2000; the
+  1946–1950 bridge from installment 9 is reported separately.
+- **Inclusion.** By literary activity in the period, not birth date: careers
+  that continue from before 1951, posthumous works (marked as such), and minor,
+  regional and one-book writers.
+- **Traditions.** As first set: British (English, Scottish, Welsh), Irish and
+  Northern Irish, and American literature, plus the English-language
+  literatures of Canada, Australia, New Zealand, the Caribbean, Africa and
+  South Asia, and their diasporas. Narrowed twice on 2026-11-06; since the
+  third decision the installment follows the Norton anthologies (see *Scope
+  narrowed again* under *Waves*).
+- **Records.** Every literary work gets its own record, with depth tiered as
+  major, significant or minor. Non-literary output goes in the author's
+  bibliography note, which states what is still missing.
+
+**Schema.** Alembic `f5a6b7c8d9e0` adds three work columns (`thematic_analysis`,
+`critical_context`, `verification_status`) and two author columns
+(`bibliography_status`, `verification_status`). See DATABASE_SCHEMA.md.
+
+**Pipeline.**
+- **Record constructors.** `scripts/content/i10_lib.py` provides `A10()` and
+  `W10()`. They map the seven description parts to columns and validate genre,
+  theme and movement names exactly.
+- **Strict build.** `META["strict"]` in `scripts/content_i10.py` turns off
+  template enrichment. `scripts/strict_checks.py` blocks the build on any of:
+  - a field below its depth tier;
+  - boilerplate;
+  - a sentence repeated across works or within a field;
+  - a date outside 1946–2000;
+  - an undefined taxonomy name or source;
+  - a record marked verified without the sources consulted.
+
+  The tests are in `tests/test_strict_checks_i10.py`.
+- **Taxonomy.** The 1946–2000 period record, 69 movements, 181 genres in 10
+  families (each family named "… (1946–2000)") and 33 themes, all in
+  `data/*/installment_10_*.json`. Eight genre names were changed to avoid
+  colliding with earlier installments.
+- **Discovery baseline.** `scripts/i10_discovery.py` writes
+  `research/installment_10/discovery_inventory.csv`: 5706 candidate authors from
+  the peer-reviewed Post45 datasets and curated prize lists in
+  `research/installment_10/lists/` (so far the Booker Prize, 1969–2000), with decades, priority tiers, evidence and
+  Wikidata, VIAF and LCCN identifiers. Joint credits are split, name typos
+  corrected and pre-1946 reprints dropped.
+- **Audit and report.** `scripts/audit_installment_10.py` regenerates
+  `documentation/INSTALLMENT_10_COVERAGE_MATRIX.csv` and
+  `documentation/INSTALLMENT_10_AUDIT_REPORT.md` from the actual records. The
+  report's method, corrections, limitations and stopping-point text comes from
+  `research/installment_10/report_notes.md`.
+- **One record per author.** The importer upserts authors by name, so an author
+  defined by two installments is silently overwritten by the later one. The
+  build therefore reads every installment's built JSON and blocks a name that
+  an earlier installment defines (the old guard, based on the database, could
+  not see the 433 authors graded by installments 8–9). An earlier author's
+  1946–2000 works are linked to the existing record, and installment 10's
+  bibliography statement for that author lives in
+  `scripts/content/i10_extensions.py`. It is merged into the defining record
+  when that installment is built (order: 08, 09, 10, then import), and the
+  installment 10 build checks that each extension is valid and already merged.
+  Tests: `tests/test_extensions_i10.py`.
+- **Stale rows.** The importer never deletes, so correcting a work's
+  composition date leaves the old row behind. `scripts/check_duplicates.py` now
+  lists every row that no installment file defines; after such corrections the
+  database is rebuilt from the JSON.
+- **App export.** Since installment 7, `scripts/export_app_data.py` had read
+  the owner column of each link table. The app therefore showed each work and
+  author with unrelated genres, themes, movements and sources, and every author
+  as influenced by himself; the database was never affected. This was fixed on
+  2026-11-06 and the asset regenerated. Audit 7 now compares the asset with the
+  database record by record, and `tests/test_export_app_data.py` covers the fix.
+
+**Waves.** Each wave is built, imported and audited before the next starts.
+- **Wave 01 (pilot):** Ralph Ellison, seven works. They include *Trading Twelves*
+  (2000), recorded in wave 04 with Albert Murray as co-author.
+- **Wave 02:** Philip Larkin, twelve works: the two novels, the four collections
+  from *XX Poems* to *High Windows*, "Aubade", the prose, the Oxford anthology
+  (as editor), and the posthumous *Collected Poems* and *Selected Letters*.
+- **Wave 03:** Lorraine Hansberry, seven works, including the posthumous works
+  completed or adapted by Robert Nemiroff.
+- **Wave 04:** Albert Murray, nine works under his own name: essays, the first
+  three Scooter novels, jazz writing, and Count Basie's autobiography, with
+  Murray as as-told-to collaborator.
+- **Wave 05:** George Orwell, eight works of 1946–1972 (*Critical Essays*, the
+  Burnham pamphlet, *The English People*, *Nineteen Eighty-Four*, *Shooting an
+  Elephant*, *Such, Such Were the Joys*, the *Collected Essays, Journalism and
+  Letters* and *The Freedom of the Press*), linked to his installment 9 record,
+  which now carries a whole-career bibliography statement. Five books missing
+  from installment 9 were added: *Animal Farm* (1945), *Down and Out in Paris
+  and London* (1933), *A Clergyman's Daughter* (1935), *Inside the Whale and
+  Other Essays* (1940) and *The Lion and the Unicorn* (1941). Every book Orwell
+  wrote that was published in his lifetime now has a record.
+- **Wave 06:** Amos Tutuola (Nigeria), all eleven books of 1952–1990, from *The
+  Palm-Wine Drinkard* (1952) to *The Village Witch Doctor and Other Stories*
+  (1990). He is the first installment 10 author from outside the British and
+  American traditions; the audit's "other English-language" count moves from
+  0 to 1, and genre-checklist coverage from 36 to 42 of 161.
+  - **Sources:** Wikipedia, Britannica, four Gale reference entries, ISFDB
+    and Faber's reissue descriptions (sources 61–75).
+  - **Verification:** 4 records are verified and 7 partially verified; none of
+    the books was read.
+  - **Not recorded as works:** the uncollected stories, the unpublished plays
+    and the posthumous 2012 collection. They are listed in his bibliography
+    note.
+- **Wave 07:** George Lamming (Barbados), the first Caribbean author: all six
+  novels, from *In the Castle of My Skin* (1953) to *Natives of My Person*
+  (1972), and three books of essays, *The Pleasures of Exile* (1960),
+  *Conversations* (1992) and *Coming, Coming Home* (1995). The audit's "other
+  English-language" count moves from 1 to 2, and genre-checklist coverage from
+  42 to 45 of 161.
+  - **Sources:** Wikipedia (three articles), Britannica, four Gale entries on
+    Encyclopedia.com (*Contemporary Black Biography*, *Contemporary Novelists*
+    with Gerald Moore's essay, the *Encyclopedia of African-American Culture and
+    History* and *Novels for Students*), and search extracts from EBSCO, eNotes
+    (Tiffin, McDonald), Google Books, *Anthurium* and the University of Michigan
+    Press (sources 78–91).
+  - **Verification:** 3 records are verified and 6 partially verified; none of
+    the books was read.
+  - **Not recorded as works:** five uncollected stories, the poems, the two
+    anthologies he edited and two co-authored books whose contents were not
+    examined. They are listed in his bibliography note.
+- **Wave 08:** Samuel Selvon (Trinidad; in England 1950–1978, then Canada),
+  the first Indo-Caribbean author: all ten novels, from *A Brighter Sun* (1952)
+  to *Moses Migrating* (1983), the stories of *Ways of Sunlight* (1957), the
+  plays of *Eldorado West One* (1988) and *Highway in the Sun* (1991), and the
+  prose selection *Foreday Morning* (1989). *The Lonely Londoners* (1956) has a
+  full major record. The audit's "other English-language" count moves from 2 to
+  3, and genre-checklist coverage from 45 to 47 of 161.
+  - **Sources:** Wikipedia (two articles), Britannica, Kwame Dawes's EBSCO
+    entry, Bill Schwarz's London Fictions essay, South Asian Britain, the
+    Toronto Metropolitan University guide, Peepal Tree Press and GradeSaver,
+    with search extracts from *Caribbean Beat*, a Northern Arizona University
+    essay, eNotes, the *Journal of West Indian Literature*, Penguin, Mawenzi
+    House and *Anthurium* (sources 94–111).
+  - **Verification:** *The Lonely Londoners* is verified and 13 records are
+    partially verified; none of the books was read. Eleven dating and
+    biographical discrepancies are recorded in limitation 17 of the audit report.
+  - **Not recorded as works:** *A Meap Story* (1954) and *A Drink of Water*
+    (1968), named by one source each and described by none, the uncollected
+    stories and poems, the radio and television scripts, the screenplay of
+    *Pressure* (1976) and three essays. They are listed in his bibliography note.
+- **Wave 09:** Gabriel Okara (Nigeria; Ijo poet and novelist of the Niger
+  Delta), taken ahead of Cyprian Ekwensi because his output in the period fits
+  one wave: the novel *The Voice* (1964, a full major record), *The
+  Fisherman's Invocation* (1978), his first published poem "The Call of the
+  River Nun" (written 1950, printed 1957) and the two books for children of
+  1992. The audit's "other English-language" count moves from 3 to 4, and
+  genre-checklist coverage from 47 to 50 of 161.
+  - **Sources:** Wikipedia (three articles), Gale's *Contemporary Black
+    Biography*, *Contemporary Poets*, Chukwuma Azuonye's 2006 interview, and
+    catalogue records for the *Collected Poems* (2016) and the children's
+    books (sources 118–125).
+  - **Verification:** all 5 records are partially verified; none of the books
+    was read. His bibliography is marked *incomplete*: the early lyrics, the
+    war poems and the radio work are listed but not recorded as works,
+    because their first publication was not established. Eight discrepancies
+    are recorded in limitation 19 of the audit report.
+- **Wave 10:** Cyprian Ekwensi (Nigeria; Igbo novelist born and raised in the
+  North), the first Nigerian popular novelist: sixteen works, from the Onitsha
+  novella *When Love Whispers* (1947) to the children's parable *King
+  Forever!* (1992). *People of the City* (1954) and *Jagua Nana* (1961) have
+  full major records; *Burning Grass*, *Beautiful Feathers*, *Iska* and
+  *Survive the Peace* have significant records. The audit's "other
+  English-language" count moves from 4 to 5, and genre-checklist coverage from
+  50 to 58 of 161.
+  - **Sources:** Gale's *Contemporary Authors*, *Contemporary Black
+    Biography*, *Encyclopedia of World Biography* and *Contextual Encyclopedia*;
+    Donald Cosentino's profile of *Jagua Nana*; Emmanuel Iduma's essay on
+    *People of the City*; six Wikipedia articles; the African Writers Series
+    text of *Beautiful Feathers*; and labelled search extracts for *Iska*,
+    *Survive the Peace*, *Divided We Stand* and *Lokotown* (sources 126–142).
+  - **Verification:** the author record is verified and the 16 works are
+    partially verified; only the opening of *Beautiful Feathers* was read.
+    About twenty books for young readers, two story collections and an edited
+    anthology are listed in his bibliography note but not recorded as works,
+    because no source consulted describes their contents. Ten groups of
+    discrepancies are recorded in limitation 20 of the audit report.
+- **Wave 11:** R. K. Narayan (India; Tamil novelist of Mysore), the first
+  South Asian author: the ten novels from *Mr. Sampath* (1949) to *The World
+  of Nagaraj* (1990) and the story collections *An Astrologer's Day* (1947)
+  and *A Horse and Two Goats* (1970). *The Guide* (1958) and *The Financial
+  Expert* (1952) have full major records; seven novels have significant
+  records. The audit's "other English-language" count moves from 5 to 6, and
+  genre-checklist coverage from 58 to 59 of 161.
+  - **Sources:** Gale's *Contemporary Authors* and *Contextual Encyclopedia*;
+    Wikipedia's articles on Narayan and on the ten novels; Paul Brians's study
+    guide to *The Guide*; the Post45 Playboy Fiction Index (used by discovery
+    since the pilot, now recorded); and labelled search extracts (Kirkus on
+    *Talkative Man*, *Contemporary Literary Criticism* via eNotes, a women's
+    studies article and Subarna Mondal's essay) (sources 143–152).
+  - **Verification:** the author record is verified and the 12 works are
+    partially verified; none of the books was read. His other eighteen books
+    of 1946–2000 (later stories, the retellings of myth and epic, travel
+    writing, essays, the memoir *My Days*) are listed in the bibliography note
+    and are left for a later wave. Gale's summary of *The Guide* contradicts the
+    fuller plot and is not followed; this and seven other discrepancies or gaps
+    are recorded in limitation 21 of the audit report, including the absence of
+    his 1935–1945 books from installment 9.
+- **Scope narrowed (second decision of 2026-11-06):** British, Irish and
+  American authors are covered, major and minor; authors of other
+  English-language traditions only if they are major. The six already
+  recorded are kept. The audit now classes every discovery candidate by the
+  lists that name it (British, Irish or American evidence 3,566; nationality
+  to be checked 2,298; other traditions 505, of them 108 P1), and the coverage
+  matrix has a `scope` column. Major authors get single-author waves; minor
+  authors come in batches of about five.
+- **Wave 12:** the first batch of minor authors, five American novelists who
+  began publishing in 1946–1948: Ross Lockridge Jr. (*Raintree County*, 1948),
+  Thomas Heggen (*Mister Roberts*, 1946), John Horne Burns (*The Gallery*,
+  *Lucifer with a Book*, *A Cry of Children*), Dorothy West (*The Living Is
+  Easy*, *The Wedding*, *The Richer, the Poorer*) and William Gardner Smith
+  (*Last of the Conquerors*, *South Street*, *The Stone Face*): eleven works.
+  The audit's American count moves from 3 to 8, minor and lesser-known authors
+  from 0 to 5, and genre-checklist coverage from 59 to 60 of 161.
+  - **Sources:** Wikipedia's articles on the five authors and six of the
+    books; contemporary Kirkus reviews of seven books (one read directly, six
+    seen as the full review text in search results); and labelled extracts
+    (the Atlantic, Gale entries on West, the 2021 publisher's description of
+    *The Stone Face*, the New York Amsterdam News) (sources 153–173).
+  - **Verification:** all five author records and the 11 works are partially
+    verified; none of the books was read. The play *Mister Roberts*, written
+    with Joshua Logan, waits for a Logan record so that both authors are
+    credited; two of Smith's books are listed only, because no source describes
+    them. West's *The Wedding* is recorded as *The Wedding (Dorothy West)*,
+    since James Shirley's play holds the bare title. Six discrepancies are
+    recorded in limitation 22 of the audit report.
+- **Scope narrowed again (third decision of 2026-11-06): the Norton
+  anthologies.** Installment 10 now covers the authors and selections of
+  *The Norton Anthology of English Literature*, 11th edition (2024), volume F,
+  and *The Norton Anthology of American Literature*, volume E, in the 11th
+  edition's prepublication table of contents (the 10th edition's could not be
+  reached). Each selection first published 1946–2000 gets its own record, one
+  per poem, story, essay or play; an excerpt is recorded as its book.
+  - **Lists:** both tables of contents are transcribed selection by selection
+    in `research/installment_10/lists/norton_nael_11e_vol_f.csv` (288
+    selections, after the date checks of waves 15 and 16: 90 in the period, 14 still
+    to be dated, 149 before 1946, 32 after 2000, 3 written before 1946 and published later, excluded) and
+    `norton_naal_11e_vol_e.csv` (218: 165 in the period, 10 to be dated, 8
+    before 1946, 35 after 2000). 115 authors have selections in the period or
+    still to be dated. `tests/test_norton_lists.py` checks the lists'
+    consistency.
+  - **Removed:** the eleven authors Norton does not anthologise (Murray,
+    Tutuola, Lamming, Okara, Ekwensi, Narayan and the five novelists of wave
+    12), with their 73 works and the 89 sources only they cited; they remain
+    in the repository history at commit `8264c2d`. *Trading Twelves* moved to
+    Ellison's wave. **Kept:** Ellison, Larkin, Hansberry, Orwell and Selvon,
+    48 works, of which 3 are Norton selections (*Invisible Man*, *A Raisin in
+    the Sun*, "Aubade").
+  - **Audit:** Audit 1 and the coverage matrix now measure the records against
+    the Norton lists; the discovery inventory is kept as superseded research.
+- **Wave 13:** the Norton selections of the recorded authors: Larkin's
+  "Church Going", "MCMXIV", "Talking in Bed", "High Windows" (recorded as
+  *High Windows (poem)*), "Going, Going", "Sad Steps", "Homage to a
+  Government", "The Explosion" and "This Be The Verse"; Orwell's "Politics
+  and the English Language" (major record); Selvon's "Waiting for Aunty to
+  Cough". Eleven works, all partially verified; 14 of the 254 selections
+  in the period now have records.
+- **Wave 14:** the selections of the installment-9 authors, linked to
+  their records with installment-10 extensions: Jean Rhys's "The Day They
+  Burned the Books" and "On Not Shooting Sitting Birds"; Samuel Beckett's
+  *Waiting for Godot* (his English text, 1954; major record); W. H. Auden's
+  "In Praise of Limestone" and "The Shield of Achilles"; Gwendolyn Brooks's
+  "The Children of the Poor", "We Real Cool", "The Bean Eaters", "A
+  Bronzeville Mother Loiters in Mississippi", "The Last Quatrain of the
+  Ballad of Emmett Till", "The Blackstone Rangers" and "To the Diaspora".
+  Twelve works; 26 of the 254 selections now have records.
+- **Wave 15:** the first new authors in the English anthology's order,
+  with author records of their own: Stevie Smith ("Our Bog Is Dood", "Not
+  Waving but Drowning", "Thoughts About the Person from Porlock"), Dylan
+  Thomas ("Do Not Go Gentle into That Good Night"; his other four
+  selections are earlier), Louise Bennett ("Colonization in Reverse"),
+  Kamau Brathwaite (*History of the Voice*, "Calypso", "Letter SycoraX"),
+  Ngũgĩ wa Thiong'o (*Decolonising the Mind*), M. NourbeSe Philip
+  ("Discourse on the Logic of Language") and Salman Rushdie ("The Prophet's
+  Hair" and *Imaginary Homelands*, the book of Norton's two excerpts). Una
+  Marson's two poems were dated before 1946 (1933 and 1937), so she is
+  outside the period. Twelve works and seven authors, all partially
+  verified; 39 of the 255 selections now have records.
+- **Wave 16:** eight more new authors in the English anthology's order, with
+  one record per selection and no other books beyond Norton's: Grace Nichols
+  ("Epilogue", "The Fat Black Woman Goes Shopping", "Wherever I Hang"),
+  Linton Kwesi Johnson ("Inglan Is a Bitch"), Doris Lessing ("To Room
+  Nineteen", major record), A. K. Ramanujan ("Self-Portrait", "Elements of
+  Composition"), Thom Gunn ("Black Jackets", "My Sad Captains", "From the
+  Wave", "Still Life", "The Missing"), Derek Walcott ("A Far Cry from
+  Africa", "The Schooner Flight" (major record) and "The Season of
+  Phantasmal Peace", and *Omeros*), Ted Hughes ("Wind", "Pike", "Out",
+  "Theology", "Crow's Last Stand", "Crow Tyrannosaurus") and Chinua Achebe
+  ("Civil Peace"), Alice Munro ("Walker Brothers Cowboy") and Geoffrey
+  Hill ("In Memory of Jane Fraser", "Requiem for the Plantagenet Kings" and
+  "September Song"; his "Broken Hierarchies" is still undated and is not
+  recorded). Twenty-seven works and ten authors, all partially verified
+  except Hughes's "Out", which is unverified; 67 of the 255 selections now
+  have records.
+- **Wave 17:** four more authors in Norton's order, with one record per
+  selection: V. S. Naipaul ("One Out of Many"), Wole Soyinka (*Death and the
+  King's Horseman*, major record), Caryl Churchill (*Top Girls*, major
+  record) and Seamus Heaney ("Digging", "The Grauballe Man", "Punishment",
+  "Casualty", *Station Island* and "Clearances"). Nine works and four
+  authors, all partially verified; 75 of the 255 selections now have
+  records. Les Murray's and J. G. Ballard's selections are the next in
+  Norton's order, and Heaney's two undated late poems are out of the period.
+
+- **Wave 18:** five more authors in Norton's order, with one record per
+  selection: Les Murray ("Morse" and "Corniche"), J. G. Ballard (*The Drowned
+  World*, major record, printed as the extract "The Causeways of the Sun"),
+  Bessie Head ("Looking for a Rain God"), Ben Okri ("What the Tapster Saw")
+  and Arundhati Roy (*The God of Small Things*, major record, printed as the
+  extract "God's Own Country"). Six works and five authors, all partially
+  verified; 81 of the 255 selections now have records. Patience Agbabi's and
+  Peter Reading's selections are the next in Norton's order, and both are
+  still to be dated.
+
+- **Wave 19:** three more authors in Norton's order, with one record per selection:
+  Margaret Atwood ("Death by Landscape" and "Miss July Grows Older"), J. M.
+  Coetzee (*Waiting for the Barbarians*, major record, printed as the extract
+  "From Waiting for the Barbarians") and Eavan Boland ("Fond Memory", "The
+  Dolls Museum in Dublin" and "The Lost Land"). Six works and three authors,
+  all partially verified; 87 of the 255 selections now have records. The wave
+  also settled the last undated rows it touched: Agbabi's "ECO2nomics"
+  (*Trees in the City*, 2007), Reading's "Clockwise (from the bottom),"
+  (*Vendange Tardive*, 2010) and Muldoon's "Turtles" (*Horse Latitudes*, 2006)
+  are all post-2000, so three authors leave the in-scope list.
+
+- **Wave 20:** the last six in-scope authors of the English anthology, with one
+  record per selection: Anne Carson ("The Glass Essay", major record), Paul
+  Muldoon ("Anseo", "Meeting the British", "7, Middagh Street" and "Milkweed
+  and Monarch"), bpNichol (*First Screening*), Hanif Kureishi ("My Son the
+  Fanatic"), Carol Ann Duffy ("Warming Her Pearls", "Valentine", "Medusa" and
+  "Mrs Lazarus") and Kiran Desai (*Hullabaloo in the Guava Orchard*, printed as
+  the extract "The Sermon in the Guava Tree"). Twelve works and six authors,
+  all partially verified. With this wave every English-anthology selection
+  first published 1946-2000 has a record: 90 of 90, and 99 of the 255
+  selections across both anthologies. Muldoon's "Turtles" was dated to *Horse
+  Latitudes* (2006) and is out of the period. The American anthology - 156
+  selections - is what remains.
+
+- **Wave 21:** the American anthology begins, with the first six of its
+  authors and one record per selection: Vladimir Nabokov ("Signs and Symbols",
+  *The New Yorker*, 15 May 1948, printed there as "Symbols and Signs"),
+  Theodore Roethke (the paired "Cuttings" and "Cuttings (later)",
+  *The Lost Son*, 1948; "The Waking" and "Elegy for Jane", *The Waking*, 1953;
+  "I Knew a Woman", *Words for the Wind*, 1958), Elizabeth Bishop ("At the
+  Fishhouses", 1947; "Questions of Travel", 1956; "The Armadillo", 1957; "In
+  the Waiting Room", 1971; "One Art", 1976), Tennessee Williams
+  (*A Streetcar Named Desire*, 1947, major record), John Cheever
+  ("The Swimmer", 1964, major record) and Robert Hayden ("Those Winter
+  Sundays" and "Summertime and the Living . . .", both *A Ballad of
+  Remembrance*, 1962). Fifteen works and six authors, all partially verified,
+  with ten new sources. Two dates were settled in the list: Hayden's "Middle
+  Passage" was first published in *Phylon* in 1945, before the period, so the
+  Norton row now reads "before 1946" and the poem is not recorded; Lowell's
+  "The Quaker Graveyard in Nantucket" and "Mr. Edwards and the Spider" are
+  both in *Lord Weary's Castle* (1946) and are therefore in period. 114 of the
+  255 selections now have records; 144 American selections remain.
+
+- **Wave 22:** Saul Bellow ("Looking for Mr. Green", *Commentary*, March 1951,
+  collected in *Mosby's Memoirs*, 1968), Arthur Miller (*Death of a Salesman*,
+  1949, major record) and Robert Lowell, with five of his six selections:
+  "Mr. Edwards and the Spider" (*Poetry*, Winter 1946; *Lord Weary's Castle*,
+  1946), "Skunk Hour" (major record) and "Memories of West Street and Lepke"
+  (*Partisan Review*, January 1958; *Life Studies*, 1959), "Night Sweat" and
+  "For the Union Dead" (major record, *For the Union Dead*, 1964). Seven works
+  and three authors, all partially verified, with twelve new sources - among
+  them the digitised *Partisan Review* contents page. That page settles a date
+  the list had left open: "The Quaker Graveyard in Nantucket" was first printed
+  in the *Partisan Review* for Spring 1945, not in 1946, so it is before the
+  period and is not recorded. The two *Life Studies* poems were also re-dated
+  from 1959 (the book) to 1958 (the periodical). 121 of the 255 selections now
+  have records; 128 American selections remain.
+
+- **Wave 23:** J. D. Salinger ("For Esmé—with Love and Squalor",
+  *The New Yorker*, 8 April 1950; *Nine Stories*, 1953, major record), Jack
+  Kerouac (*On the Road*, 1957, major record), Kurt Vonnegut ("Harrison
+  Bergeron", *The Magazine of Fantasy and Science Fiction*, October 1961, and
+  *Slaughterhouse-Five*, 1969, major record) and Grace Paley ("A Conversation
+  with My Father", *New American Review*, 1972, major record, and "Zagrowsky
+  Tells", *Mother Jones*, May 1985). Six works and four authors, all partially
+  verified, with ten new sources. 126 of the 255 selections now have records;
+  123 American selections remain.
+
+- **Wave 24:** Frank O'Hara ("Personism: A Manifesto", *Yugen*, 1961, and
+  five poems - "Why I Am Not a Painter", "A Step Away from Them", "The Day Lady
+  Died", "Having a Coke with You" and "In Memory of My Feelings"), Audre Lorde
+  ("Coal", "The Woman Thing", "Black Mother Woman", "Uses of the Erotic" and
+  "The Master's Tools Will Never Dismantle the Master's House") and Susan
+  Sontag ("Against Interpretation", *Evergreen Review*, December 1964). Twelve
+  works and three authors, all partially verified, with twelve new sources.
+  133 of the 255 selections now have records; 117 American selections remain.
+
+- **Wave 25:** John Barth ("Lost in the Funhouse", *The Atlantic Monthly*,
+  November 1967; collection 1968), Joan Didion ("The White Album", *New West*,
+  1979), James Baldwin ("Sonny's Blues", *Partisan Review*, Summer 1957;
+  "Going to Meet the Man", *Status*, October 1965; "Letter to My Nephew",
+  *The Progressive*, December 1962), Flannery O'Connor ("Good Country People",
+  *Harper's Bazaar*, June 1955; "A Good Man Is Hard to Find", *Modern Writing I*,
+  1953; "Everything That Rises Must Converge", *New World Writing*, October 1961)
+  and Allen Ginsberg ("Howl", City Lights, 1956). Nine works and five authors,
+  all partially verified, with fourteen new sources. 148 of the 255 selections
+  now have records; 108 American selections remain.
+
+- **Wave 26:** John Ashbery ("Illustration", *Some Trees*, 1956; "Self-Portrait
+  in a Convex Mirror", *Poetry*, August 1974, major record; "How to Continue",
+  the closing poem of *Hotel Lautréamont*, 1992), Anne Sexton ("Her Kind",
+  *To Bedlam and Part Way Back*, 1960, major record; "The Starry Night", *All My
+  Pretty Ones*, 1962, major record; "Sylvia's Death", *Poetry*, January 1964;
+  "Little Girl, My String Bean, My Lovely Woman", *Live or Die*, 1966; "The
+  Ballad of the Lonely Masturbator", *Love Poems*, 1969), Adrienne Rich
+  ("Snapshots of a Daughter-in-Law", 1963, and "Diving into the Wreck", 1973,
+  major records; "I Am in Danger—Sir—", *Necessities of Life*, 1966; "A
+  Valediction Forbidding Mourning", *The Will to Change*, 1971; "Power" and
+  "Transcendental Etude", *The Dream of a Common Language*, 1978, the last a
+  major record), Martin Luther King Jr. ("Letter from Birmingham Jail", 1963,
+  major record) and Donald Barthelme ("The Balloon", *The New Yorker*, 16 April
+  1966, major record, and "The School", *The New Yorker*, 17 June 1974).
+  Seventeen works and five authors, all partially verified, with twenty-five new
+  sources; the lists now date Sexton's "Sylvia's Death" 1964 (not 1966) and
+  Ashbery's "How to Continue" 1992. 165 of the 255 selections now have records;
+  90 American selections remain.
+
+**Discovery inventory (2026-11-06, second pass).** The Heinemann African
+Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
+Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
+were added. Surname-first names, which had made 162 authors appear twice, are
+now put in natural order, and the output no longer depends on Python's hash
+seed. The inventory now holds 6,045 candidates (P1 670, P2 1,720, P3 3,655),
+against 5,706. `tests/test_discovery.py` covers the name handling, the series
+list and the ordering.
+
+None of the wave 02–04 authors was in the discovery inventory, nor is Lamming;
+Tutuola appears only as a 1964 anthology contributor in the African Writers
+Series. This is evidence that the inventory under-represents poetry, drama,
+criticism and Commonwealth writing published outside that series, above all
+Caribbean and South Asian writing; see the limitations in the audit report.
+
+**Discovery inventory (2026-11-06, third pass).** Two Commonwealth lists were
+transcribed from Wikipedia: the Commonwealth Writers' Prize (112 rows: regional
+and overall Best Book winners 1987–2000, Best First Book winners 1989–2000 and
+the short-story winners) and the Heinemann Caribbean Writers Series (Wikipedia's
+33-title selection). Two entries in the series table were wrong and are
+corrected in the list: *Witchbroom* is Lawrence Scott's, not Vanessa Spence's,
+and *Aunt Jen* is of 2002, not 1970 (WorldCat). The inventory now holds 6,122
+candidates (P1 715, P2 1,756, P3 3,651); the prize added 99, 62 of them in no
+other source, and the series 16. The output is identical under three hash seeds.
+Neither list reaches the 1950s and 1960s, so Selvon, like Lamming, is in no
+inventory. `tests/test_discovery.py` checks both lists against the inventory.
+
+**Discovery inventory (2026-11-06, fourth pass).** Six national, poetry and
+drama prize lists were transcribed from Wikipedia's raw wikitext: the Sahitya
+Akademi Award for English (1960–2000, 30 winners), the Governor General's Award
+for English-language fiction (1946–2000; winners, and finalists from 1979; 129
+rows), the Miles Franklin Award (1957–2000, 45 rows), the Pulitzer Prize for
+Drama (1946–2000; winners, finalists from 1983 and the plays its juries
+shortlisted; 178 rows), the Queen's Gold Medal for Poetry (1952–2000, 30
+recipients) and the Evening Standard Award for Best Play (1955–2000, 54 rows).
+Translations, composers of musicals and the original authors of plays in
+translation are transcribed but not counted. The inventory now holds 6,369
+candidates (P1 876, P2 1,856, P3 3,637), 247 more than before; Larkin,
+Hansberry, Narayan, Raja Rao and Anand are now in it, while Murray, Lamming,
+Selvon and Beckett are still absent. The Governor General's winner David Walker
+is recorded as David Harry Walker (his Library of Congress heading), because the
+bare name matched the master database's abolitionist David Walker (d. 1830) and
+dropped him as a pre-1946 author. `tests/test_discovery.py` now checks every
+curated list against the inventory and the structure of the six new lists (75
+tests in all). Sources 112–117 record the lists.
+
+**Corrections to installments 8–9 (2026-11-06).** Found while building wave 05;
+each is listed with its source in section 13 of the audit report.
+- **Wells:** the duplicate record merged, his parentage corrected, and his
+  composed text made true of both installments.
+- **Bibliography headings:** 343 author notes had listed recorded works as
+  having no record (876 titles). The build now filters them out, and four
+  same-work items were removed by hand.
+- **Fuller:** *These Sad but Glorious Days* corrected. The complete edition is
+  dated 1991, the composition start is 1846, and unsupported claims were
+  removed.
+- **Wrong plots:** four installment 9 records were rewritten from sources.
+  Three plots were invented: *Pastors and Masters* (also redated 1941 → 1925),
+  *The Nebuly Coat* and *The Fashion in Shrouds*. *Surfeit of Lampreys* was
+  wrong on motive and murderer, and is redated 1941 → 1940 (first published in
+  Boston as *Death of a Peer*).
+- **Ngaio Marsh's bibliography:** six novels carried their London dates
+  although they first appeared in Boston or Auckland, and the list omitted her
+  last eight novels. Both are corrected from the Ngaio Marsh House bibliography.
+- **A fabricated work:** "Picture of Mortimer and Ray" (1930), attributed to
+  Malcolm Muggeridge, matches no book and was removed. His author record is
+  corrected (birthplace, place of death, books of 1931–1940), and *Winter in
+  Moscow* is rewritten from the source.
+- **Text defects:**
+  - 42 installment 8 historical contexts began "The 1837, …";
+  - 157 composed bibliographical notes had lowercased the names inside a work's
+    form.
+
+Finding these errors incidentally means more are likely. Three checks of
+installments 8–9 are outstanding:
+- every title against an external bibliography, since one title was invented;
+- every plot against a source;
+- first-edition dates for books first published in the United States.
+
+`scripts/i08_i09_check_queue.py` orders the 1,389 records for these checks
+(`research/installment_10/i08_i09_check_queue.csv`). Its signal, character
+lists that name no one, caught the fabricated record but would have missed
+the four bad plots, so it gives an order of work, not a filter.
+
+**Stopping point.** The ordered list of outstanding tasks is in
+`research/installment_10/report_notes.md`:
+1. done in waves 13 and 14: the selections of the five recorded authors and
+   of the installment-9 authors Rhys, Beckett, Auden and Brooks;
+2. (merged into 1);
+3. record the other Norton authors and their selections, in Norton's order
+   (wave 15 reached Salman Rushdie in the English anthology; next is Grace
+   Nichols);
+4. check every provisional date, including the 24 selections still to be
+   dated, and run the plot check of installments 8–9;
+5. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
 |---|---|---|
+| 1 | Old English and Early Medieval Literature (c. 450–1100) | Complete |
 | 2 | Middle English Literature (c. 1100–1500) | Complete |
 | 3 | Renaissance and Early Tudor (c. 1500–1558) | Complete |
 | 4 | Elizabethan and Jacobean (1558–1625) | Complete |
 | 5 | Caroline, Commonwealth, Restoration (1625–1700) | Complete |
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
-| 8 | Victorian and American nineteenth century (1832–1901) | Pending |
-| 9 | Edwardian–Interwar, British and American (1901–1945) | Pending |
-| 10 | Postwar and Late Twentieth Century, British and American (1945–2000) | Pending |
+| 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
+| 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 209 works by 65 authors; 165 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |

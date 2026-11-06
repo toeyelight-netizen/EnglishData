@@ -1,0 +1,167 @@
+[
+ {
+  "name": "Condition-of-England Novel and the Edwardian Social Panorama",
+  "description": "The long realistic novel that takes the whole of a society as its subject — the family, the firm, the town and the state — and measures it against a standard of social justice. Its models are the Victorian industrial novels, its Edwardian examples Galsworthy's The Man of Property (1906) and Forster's Howards End (1910).",
+  "historical_development": "Inherited from Dickens, Gaskell and Disraeli, the form was renewed at the turn of the century by the new sociology and by the example of the Russian and French realists. It flourished until the war and was then displaced by the inward and experimental novel; its late survivals are the political novels of the thirties."
+ },
+ {
+  "name": "Novel of Consciousness and the Stream of Mind",
+  "description": "Fiction organised by the movement of a mind rather than by external event: interior monologue, free indirect style, associative rather than chronological order, and a language that attempts to render thought at the speed at which it occurs.",
+  "historical_development": "The form was prepared by Henry James's late novels and by the French symbolists, theorised by William James ('stream of thought', 1890) and by Bergson, and realised in English by Dorothy Richardson's Pilgrimage (from 1915), James Joyce's Ulysses (1922) and Virginia Woolf's Mrs Dalloway (1925) and To the Lighthouse (1927)."
+ },
+ {
+  "name": "Experimental Novel and the Modernist Form",
+  "description": "Fiction that makes its own construction visible: the collage, the parallel plot, the mythic frame, the parodic catalogue of styles, the book that includes its own theory. Its English summits are Ulysses (1922) and Finnegans Wake (1939), with Wyndham Lewis's The Apes of God (1930) and Djuna Barnes's Nightwood (1936) as its satirical and Gothic counterparts.",
+  "historical_development": "The experimental novel came from the European avant-garde — Joyce in Trieste and Zurich, Lewis and Pound in London, Stein in Paris — and was distributed through the little magazines and the small presses. Its commercial failure in the 1930s helped turn the next decade back to realism and to documentary."
+ },
+ {
+  "name": "Modernist Long Poem and the Mythical Method",
+  "description": "The long poem built from fragments, quotation, allusion and a governing myth rather than from narrative: The Waste Land (1922), Pound's Cantos (from 1925), Hart Crane's The Bridge (1930), Eliot's Four Quartets (1943) and David Jones's In Parenthesis (1937).",
+  "historical_development": "Eliot's essay on Ulysses (1923) named the technique of 'manipulating a continuous parallel between contemporaneity and antiquity' as 'the mythical method'; Pound's editing of The Waste Land made the cut-and-assemble method visible. The form dominated ambitious poetry until the 1950s."
+ },
+ {
+  "name": "Imagist Lyric and the Free-Verse Line",
+  "description": "The short poem organised around a single hard image or a rapid sequence of images, written in free verse whose unit is the phrase rather than the foot, with no word that does not contribute to the presentation.",
+  "historical_development": "Codified in 1913 by Pound and Flint, practised by H.D., Aldington, Williams and Amy Lowell, and extended into the longer sequences of H.D.'s Trilogy. It is the technical foundation of most twentieth-century free verse."
+ },
+ {
+  "name": "Georgian Anthology Lyric",
+  "description": "The short rhymed or blank-verse lyric designed for the anthology: rural subject, conversational tone, regular stanza, a clear single emotion and a shapely close. Named for Edward Marsh's five Georgian Poetry volumes (1912–22).",
+  "historical_development": "The Georgian anthologies created the first mass market for contemporary verse in England and were the modernists' principal target; the war poetry they contained outlived the series' reputation."
+ },
+ {
+  "name": "Trench Lyric and the War Poem",
+  "description": "The short poem written from the experience of the First World War: physical detail, colloquial speech, irony, and an ending that refuses consolation. Its central examples are Owen's 'Dulce et Decorum Est' and 'Strange Meeting', Sassoon's 'They' and 'Base Details', Rosenberg's 'Break of Day in the Trenches' and Thomas's 'Rain'.",
+  "historical_development": "The form was created under censorship between 1915 and 1918, published in small magazines and hand-printed pamphlets (Owen's Poems appeared posthumously in 1920), and canonised by the anthologies of the 1930s and by Fussell's The Great War and Modern Memory (1975)."
+ },
+ {
+  "name": "War Memoir and the Autobiographical Testimony",
+  "description": "The long prose recollection of war service, mixing documentary record with confession and satire: Blunden's Undertones of War (1928), Graves's Good-bye to All That (1929), Sassoon's Memoirs of a Fox-Hunting Man (1928), Aldington's Death of a Hero (1929) and Jones's In Parenthesis (1937).",
+  "historical_development": "The memoir was written a decade after the war, in the aftermath of the 'war books boom' of 1929–30, and it established the ironic, disenchanted narrative of the war that dominated the century's memory of it."
+ },
+ {
+  "name": "Peasant Play and the Irish Dramatic Movement",
+  "description": "The one-act or two-act play of Irish rural life, in a heightened dialect prose, built on a single cottage set and a single violent or revelatory situation: Synge's Riders to the Sea (1904) and The Playboy of the Western World (1907), Lady Gregory's The Rising of the Moon (1907) and O'Casey's early Abbey plays.",
+  "historical_development": "The form was created for the Abbey Theatre by Synge and Lady Gregory out of the folklore of the west and the speech they heard in the cottages of Aran and Galway; it was attacked as a libel on Irish womanhood and Irish virtue, and its riots made it famous."
+ },
+ {
+  "name": "Verse Drama and the Poetic Play",
+  "description": "Drama written in verse, usually on mythic or historical subjects, intended for the literary theatre rather than the commercial stage: Yeats's Cuchulain plays, Eliot's Murder in the Cathedral (1935) and The Family Reunion (1939), and the choruses of Auden and Isherwood's The Dog Beneath the Skin (1935).",
+  "historical_development": "The form was the Irish movement's contribution to the European revolt against naturalism and was taken up in the thirties by Eliot as a Christian and by Auden as a political instrument; the Festival of Britain and the postwar verse plays descend from it."
+ },
+ {
+  "name": "Comedy of Manners and the Drawing-Room Stage",
+  "description": "The three-act drawing-room comedy of wit and marital intrigue, with a symmetrical plot, a single set and dialogue as the principal action: Coward's Private Lives (1930), Maugham's The Circle (1921), Lonsdale's The Last of Mrs Cheyney (1925).",
+  "historical_development": "The form inherited the Restoration comedy of manners through Wilde and Pinero and was adapted to the interwar West End, where the cinema and the revue forced it toward speed and spectacle; it survived into the 1940s in the comedy of Terence Rattigan."
+ },
+ {
+  "name": "Suffrage Play and the Woman's Drama",
+  "description": "The short propaganda play written for the women's suffrage campaign: a single scene, a woman protagonist, a debate on the vote, and a demonstration in the last act. Robins's Votes for Women (1907) and Hamilton and St John's How the Vote Was Won (1909) are its central texts.",
+  "historical_development": "Produced by the Actresses' Franchise League (1908) and the Woman's Theatre season of 1913, the form reached a mass audience in halls and theatres across the country and disappeared with the grant of the vote in 1918 and 1928."
+ },
+ {
+  "name": "Scientific Romance and the Utopian Tale",
+  "description": "The tale of invention, discovery or future history, built on a single extrapolation and carrying a social argument: Wells's The Time Machine (1895) and A Modern Utopia (1905), Stapledon's Last and First Men (1930), Huxley's Brave New World (1932).",
+  "historical_development": "The form was created by Wells out of the popular science journalism of the 1890s and the evolutionary theory of the period, and it divided after the First World War into the literary dystopia and the American pulp 'science fiction'."
+ },
+ {
+  "name": "Dystopian Fiction and the Anti-Utopian Satire",
+  "description": "The imagined society presented as a warning: a managed, hierarchical or technological state whose costs are dramatised through a dissident consciousness. Its central English texts are Huxley's Brave New World (1932), Orwell's Nineteen Eighty-Four (1949) and, in the same tradition, Forster's 'The Machine Stops' (1909).",
+  "historical_development": "The dystopia inverted the socialist and Wellsian utopia after the First World War, drawing on Fordism, eugenics, mass advertising and the totalitarian states of the 1930s; it remains the period's most widely read political form."
+ },
+ {
+  "name": "Detective Novel and the Golden Age Mystery",
+  "description": "The fair-play detective novel: a closed circle of suspects, a murder with a mechanical solution, a sequence of clues and alibis, and an eccentric detective who explains all at the end. Christie's The Murder of Roger Ackroyd (1926) and Sayers's The Nine Tailors (1934) are its technical summits.",
+  "historical_development": "The form dominated the interwar lending library and was codified by Van Dine's twenty rules (1928) and Knox's Decalogue (1929); the Detection Club (1930) institutionalised it, and its readership crossed every class and educational boundary."
+ },
+ {
+  "name": "Ghost Story and the Modern Weird Tale",
+  "description": "The short supernatural narrative, usually framed by a document or a testimony, that withholds its apparition until the last pages and withholds its explanation altogether. James's 'Oh, Whistle, and I'll Come to You, My Lad' (1904) and 'Casting the Runes' (1911) established the modern form.",
+  "historical_development": "The form was carried by the periodical, the Christmas number and the antiquarian scholarship of the late nineteenth century; Lovecraft's 'cosmic' tales gave it an American counter-tradition and a theory in Supernatural Horror in Literature (1927)."
+ },
+ {
+  "name": "Modern Short Story and the Magazine Tale",
+  "description": "The short story of the modern magazine: a single scene or situation, an implied rather than a stated meaning, an ending that opens rather than closes, and a prose stripped of the nineteenth-century narrator's commentary. Joyce's Dubliners (1914) and Hemingway's In Our Time (1925) are its models.",
+  "historical_development": "The form was shaped by the commercial magazine, by Chekhov's example in translation, and by the little magazines' demand for compression; it became the characteristic form of the Irish, the American and the colonial short story."
+ },
+ {
+  "name": "New Negro Lyric and the Harlem Renaissance Poem",
+  "description": "The African American poetry of the 1920s, written in blues and jazz rhythms or in the inherited English lyric: Hughes's The Weary Blues (1926), Cullen's Color (1925), McKay's Harlem Shadows (1922), and the folk sermons and work songs collected in James Weldon Johnson's The Book of American Negro Poetry (1922).",
+  "historical_development": "The form was created by the Great Migration and by the magazines Opportunity and The Crisis; its polemic was Locke's The New Negro (1925) and its quarrel — folk art versus the received poetic tradition — was fought out between Hughes and Cullen."
+ },
+ {
+  "name": "Regional Novel and the American Local-Colour Inheritance",
+  "description": "The novel of a defined American region, written from inside its speech and customs: Faulkner's Yoknapatawpha, Wolfe's Altamont, Cather's Nebraska, Hurston's Florida, Welty's Mississippi, Steinbeck's Salinas. It inherits the nineteenth-century local-colour sketch and turns it into a tragic form.",
+  "historical_development": "The form was enabled by the collapse of the agrarian economy, the Great Migration and the modernisation of the 1920s; the Southern Renaissance made it the period's most formally ambitious American mode."
+ },
+ {
+  "name": "Jazz-Age Novel and the Expatriate Romance",
+  "description": "The novel of the 1920s: money, drink, parties and the impossibility of permanence, told in a plain, understated prose by a narrator who refuses to explain. Fitzgerald's The Great Gatsby (1925) and Hemingway's The Sun Also Rises (1926) are its two central texts.",
+  "historical_development": "The form was produced by Prohibition, the post-war dollar, the expatriate colony in Paris and the collapse of Victorian sexual morality; its own obituary was written in the decade that followed."
+ },
+ {
+  "name": "Proletarian Novel and the Working-Class Fiction",
+  "description": "Fiction written from and about the industrial working class, with a collective rather than an individual protagonist and a strike, a lock-out or a migration as its structural crisis: Greenwood's Love on the Dole (1933), Steinbeck's The Grapes of Wrath (1939), Gold's Jews Without Money (1930).",
+  "historical_development": "The form was created by the Depression and by the Communist and Labour movements of the thirties, by the Federal Writers' Project in America and by the Left Book Club in Britain; it faded after 1939 with the alliance politics of the war."
+ },
+ {
+  "name": "Documentary Prose and the Reportage Book",
+  "description": "The book of reportage and survey, built from interviews, statistics, transcribed speech and photographs, with the writer as witness rather than inventor: Orwell's The Road to Wigan Pier (1937), Mass Observation's May the Twelfth (1937), Agee and Evans's Let Us Now Praise Famous Men (1941).",
+  "historical_development": "The form was enabled by cheap photography, the Mass Observation movement (1937), the documentary film movement of Grierson and the Federal Writers' Project; it is the period's principal contribution to non-fictional prose."
+ },
+ {
+  "name": "Critical Essay and the Modern Review",
+  "description": "The critical essay written for the literary journal and the university: Eliot's 'Tradition and the Individual Talent' (1919) and 'The Metaphysical Poets' (1921), I. A. Richards's practical criticism, William Empson's Seven Types of Ambiguity (1930), F. R. Leavis's Scrutiny (1932–53) and Virginia Woolf's The Common Reader (1925).",
+  "historical_development": "Criticism became both an academic discipline and a modernist instrument in this period: the Cambridge school created close reading, the Criterion and Scrutiny created the review as an institution, and the essay became the place where the canon was argued."
+ },
+ {
+  "name": "Biography and the Modern Life",
+  "description": "Biography as a literary form, written with irony, psychological penetration and a novelist's sense of scene: Strachey's Eminent Victorians (1918) and Queen Victoria (1921), Woolf's Orlando (1928), Keynes's Essays in Biography (1933) and the multi-volume lives of the period.",
+  "historical_development": "The form was revolutionised by Strachey's short, debunking lives, which applied the French method of the 'vie' to the Victorian sage, and by the Freudian account of childhood that made the private life a legitimate subject."
+ },
+ {
+  "name": "Children's Fantasy and the Golden-Age Tale",
+  "description": "The children's book of the period at its best: the fantasy of the nursery and the other world (Grahame's The Wind in the Willows, 1908; Barrie's Peter and Wendy, 1911; Milne's Winnie-the-Pooh, 1926; Tolkien's The Hobbit, 1937) and the school and family story of the Edwardian nursery.",
+  "historical_development": "The form was made by the Edwardian cult of childhood and by the illustrated gift book; it is the period's most enduring contribution to popular literature and its most successful export."
+ },
+ {
+  "name": "Nature Essay and the Rural Observation",
+  "description": "The essay of rural observation, written by a writer who lives in the place described: Edward Thomas's The South Country (1909), W. H. Hudson's A Shepherd's Life (1910), Richard Jefferies's posthumous collections, Nan Shepherd's The Living Mountain (written 1940s) and the countryside columns of the periodical press.",
+  "historical_development": "The form descends from Gilbert White and Richard Jefferies and was sustained by the walking literature, the nature column and the interwar fear that the motor road and the suburb were destroying the English countryside."
+ },
+ {
+  "name": "Autobiography and the Modern Memoir",
+  "description": "The autobiography written as a literary work: Sassoon's Sherston trilogy (1928–36), Graves's Good-bye to All That (1929), Yeats's Autobiographies (1926), Edwin Muir's The Story and the Fable (1940) and the childhood memoir of the period.",
+  "historical_development": "The form was transformed by the war, which made the young man's testimony a public document, and by the Freudian account of childhood, which made the private life the true subject of the memoir."
+ },
+ {
+  "name": "Expressionist and Epic Drama",
+  "description": "The non-realistic stage of the period 1910-1945: the play that abandons the well-made structure and the furnished room for distortion, direct address, mask, dream logic, chant and the bare platform. Its American summit is O'Neill's expressionist sequence - The Emperor Jones (1920), The Hairy Ape (1922) - and its formal counterpart is the episodic, narrated, anti-illusionist theatre of Wilder's Our Town (1938), with the Stage Manager as epic narrator. In Britain the mode reaches the stage through the Auden-Isherwood verse-and-prose propaganda plays of the Group Theatre and the Unity Theatre, and through the non-illusionist experiments of the Festival Theatre at Cambridge.",
+  "historical_development": "The form arrives from German expressionism (Kaiser, Toller) and from the symbolist and cabaret stages of the 1890s, and is naturalised in English and American theatre between 1920 and 1938. Its devices - the split self, the chanted crowd, the numbered scenes, the narrator who steps outside the action, the bare stage with two chairs - pass into the documentary and agit-prop theatre of the thirties and thence into the post-war drama of Beckett, Williams and Albee, which inherits its rejection of the realistic room."
+ },
+ {
+  "name": "Modernist Lyric and the New Idiom",
+  "description": "The short and middle-length poem of high modernism outside the strict Imagist programme: compressed, ironic, syntactically and typographically adventurous, built from juxtaposed images, overheard voices and argument rather than from a single stated emotion. Its examples include Eliot's Prufrock and Other Observations (1917), Stevens's Harmonium (1923), Moore's Observations (1924), cummings's Tulips and Chimneys (1923), Williams's Spring and All (1923) and the middle and late Yeats of The Tower (1928).",
+  "historical_development": "Growing out of French Symbolism and the Imagist reforms of 1912-14, the new lyric was carried by the little magazines (Poetry, The Egoist, The Dial, Others) and the small presses of London, Paris and New York; in the 1920s it displaced the Georgian anthology piece as the standard of serious verse, in the 1930s Empson, the Sitwells, Beckett and Muir extended it into the metaphysical conceit, the sound-pattern and the dream-fable, and the New Criticism made its difficulty the norm by which poems were read."
+ },
+ {
+  "name": "Thirties Political Lyric and the Auden Generation",
+  "description": "The public poem of the 1930s: lyric, ballad, ode, eclogue and verse-letter turned on the slump, the hunger marches, fascism, Spain and the coming war, mixing Marx and Freud, the landscape of industrial decline, the language of the clinic and the newsreel, and the light verse of the music hall. Its centre is Auden's Poems (1930), Look, Stranger! (1936), Spain (1937) and Another Time (1940), with Spender's Poems (1933) and The Still Centre (1939) and MacNeice's The Earth Compels (1938) and Autumn Journal (1939).",
+  "historical_development": "Launched by Auden's Poems (1930) and gathered into a movement by Michael Roberts's anthologies New Signatures (1932) and New Country (1933), the mode dominated English poetry through the Spanish Civil War, when Auden, Spender and MacNeice wrote its most quoted poems; it dissolved with the Nazi-Soviet pact, Auden's emigration to America in 1939 and the outbreak of war, and its public voice was later repudiated by Auden himself."
+ },
+ {
+  "name": "Irish Revival Lyric and the Celtic Twilight",
+  "description": "The lyric of the Irish Literary Revival: the incantatory, symbol-laden verse of the Celtic Twilight, with its masks, its Sidhe and its western landscape, and the plainer poems of the road, the fair and the cottage spoken in the idiom of Irish country people. Its examples run from Yeats's The Wind Among the Reeds (1899) and Colum's Wild Earth (1907) to the harder, public Irish poems of Yeats's The Wild Swans at Coole (1917) and The Tower (1928).",
+  "historical_development": "Formed in the 1890s from the translations of Gaelic song by Ferguson, Mangan and Hyde, the folklore gathered by Lady Gregory and Yeats, and the Symbolism of the Rhymers' Club, the Twilight manner was renounced by Yeats himself after 1904 for a barer, more personal and more political lyric, while Colum, Campbell and Stephens carried the peasant poem into the new century; the Rising, the civil war and the Free State turned the Revival's dream of Ireland into the matter of elegy and argument."
+ },
+ {
+  "name": "Comic Novel and the Satire of Manners",
+  "description": "The comic novel of the early twentieth century: farce of plot and exactness of style turned on a closed social world (the country house, the London party, the college, the newspaper office, the provincial town, the Harlem rent party), with the narrator's irony doing the work of satire. Its examples run from Wells's The History of Mr Polly (1910) and Beerbohm's Zuleika Dobson (1911) through Wodehouse's Jeeves and Blandings books, Huxley's Crome Yellow (1921) and Sinclair Lewis's Babbitt (1922) to Waugh's Decline and Fall (1928) and Scoop (1938), Schuyler's Black No More (1931) and Gibbons's Cold Comfort Farm (1932).",
+  "historical_development": "Inheriting the New Humour of Jerome and the Grossmiths and the Edwardian wit of Saki and Beerbohm, the form found two poles after the First World War: Wodehouse's timeless idyll of clubs, aunts and country houses, and the satire of the Bright Young Things, in which Huxley and Waugh made the post-war party an image of spiritual emptiness. Parody (Gibbons on the rural novel, Waugh on Fleet Street), the dialogue novels of Compton-Burnett, the American satire of Main Street and Babbitt, the Harlem satires of Fisher, Schuyler and Thurman, and the comedy-of-manners detective story of Sayers, Allingham and Marsh extended it, and the war closed the period with Waugh's Put Out More Flags (1942) and Hamilton's The Slaves of Solitude (1947)."
+ },
+ {
+  "name": "Provincial Novel and the British Rural Chronicle",
+  "description": "The novel of a particular English, Scottish or Welsh countryside or provincial town, written from inside its speech, work and seasons: the farm, the fell, the mill town and the fishing coast. Its examples run from Constance Holme's The Lonely Plough (1914) and Mary Webb's Gone to Earth (1917) and Precious Bane (1924) through T. F. Powys's Mr Weston's Good Wine (1927) and Lewis Grassic Gibbon's Sunset Song (1932) to Phyllis Bentley's Inheritance (1932), Winifred Holtby's South Riding (1936) and Neil Gunn's The Silver Darlings (1941).",
+  "historical_development": "Descended from Hardy's Wessex and from the Scottish kailyard, which its Scottish writers set out to overturn, the form flourished between the wars among readers and publishers newly attentive to the regions. Its lush rural romance was parodied in Gibbons's Cold Comfort Farm (1932), while the Scottish Renaissance of Grassic Gibbon and Gunn and the industrial chronicles of Bentley, Holtby, Greenwood and Hanley turned it toward history, dialect and the condition of the working community."
+ }
+]

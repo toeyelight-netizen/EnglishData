@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Novel of Development and the Growth Story",
+    "description": "Extended prose fiction whose plot is the slow formation of one consciousness — childhood, apprenticeship, error, vocation — with education and marriage as its two ends.",
+    "historical_development": "The German model (Goethe's Wilhelm Meister) reaches English through Carlyle's Sartor Resartus (in books 1838) and is naturalised as the Victorian growth story: Dickens's David Copperfield (part-issue 1849–50, the most self-consciously \"educative\" of his novels), Brontë's Jane Eyre (1847), Eliot's The Mill on the Floss (1860) and Daniel Deronda (1876), Meredith's The Ordeal of Richard Feverel (1859) and The Egoist (1879), and Hardy's Jude the Obscure (1895); in America the boy's adventure of Twain (1876) and Alcott's school-and-family fictions of the 1870s, and at the century's end the deliberately frustrated development plots of the naturalists."
+  },
+  {
+    "name": "Sensation Novel",
+    "description": "The mid-Victorian domestic thriller of bigamy, forgery, poison, confinement and substituted identity, set in contemporary English houses and resolved by legal or medico-legal evidence.",
+    "historical_development": "Opened by Collins's The Woman in White (serialised 1859–60) and answered in the same decade by Braddon's Lady Audley's Secret (1862), Wood's East Lynne (1861) and Collins's The Moonstone (1868); the mode's machinery descends from the Gothic romance of the 1790s but modernises its scene, and it passes into detective fiction and into the Edwardian thriller."
+  },
+  {
+    "name": "Industrial and Condition-of-England Novel",
+    "description": "Fiction that takes the mill, the wage, the strike and the starving town as its subject and addresses the reader as a citizen with a duty.",
+    "historical_development": "Named from Carlyle's \"condition-of-England question\"; realised in Gaskell's Mary Barton (1848) and North and South (1855), Disraeli's Sybil (1845), Kingsley's Alton Locke (1850) and Dickens's Hard Times (1854); its late form is the naturalist industrial fiction of the 1890s — Gissing's The Nether World (1889) and Moore's Esther Waters (1894) — and in America the railroad-labour novel."
+  },
+  {
+    "name": "Realist Novel of Common Life",
+    "description": "Prose fiction of probable, ordinary experience, without melodrama or marvel, that tests character in the everyday institutions of family, work and marriage.",
+    "historical_development": "The post-bellum American school named in Howells's criticism — A Modern Instance (1882), The Rise of Silas Lapham (1885) — and in James's international novels from The American (1877) to The Portrait of a Lady (1881); its British analogues are the domestic realism of Trollope and the analytic realism of Eliot."
+  },
+  {
+    "name": "Naturalist and Determinist Novel",
+    "description": "The case-study novel of a character explained by heredity, environment, appetite and money, written against the reward-and-punishment plot.",
+    "historical_development": "American in its institutional form in the 1890s — Crane's Maggie (1893) and The Red Badge of Courage (in books 1895), Norris's McTeague (1899), Chopin's The Awakening (1899) — and British in Gissing's New Grub Street (1891) and Moore's Esther Waters (1894); the doctrine is theorised in the reviews and little magazines of the decade."
+  },
+  {
+    "name": "New Woman and Marriage-Question Novel",
+    "description": "The fin-de-siècle novel built on a disputed marriage — the marriage strike, the wage-earning heroine, the double standard, the free-love quarrel and the \"new man\".",
+    "historical_development": "From Schreiner's The Story of an African Farm (1883) and Meredith's Diana of the Crossways (1885) through Gissing's The Odd Women (1893) and Allen's The Woman Who Did (1895) to du Maurier's Trilby (1894) and the marriage-law controversy of the decade."
+  },
+  {
+    "name": "Imperial Adventure Romance",
+    "description": "The plot of quest, survival, treasure and frontier discovery, with a small band of protagonists in an extra-European scene and a strong delineation of the landscape.",
+    "historical_development": "Descended from Haggard's King Solomon's Mines (1885) and the boys' stories of Ballantyne and Henty, and from Kipling's Indian and regimental tales; its American relative is the frontier and mining romance of Harte and of the Western, and its high literary form is Stevenson's romance of the 1880s."
+  },
+  {
+    "name": "Detective Story and the Tale of Detection",
+    "description": "A crime, its evidence and its solution by reasoning, with an amateur or professional solver and a tale of the pursuit.",
+    "historical_development": "Created by Poe's ratiocinative tales in the early 1840s and grown out of sensation fiction in the 1860s; institutionalised in Collins's The Moonstone (1868), in the American courtroom detection of Anna Katharine Green's The Leavenworth Case (1878), and in the periodical short story of the 1890s, which becomes \"the detective\"."
+  },
+  {
+    "name": "Ghost Story and Scientific Supernatural Tale",
+    "description": "The literary tale of a return of the dead or of a quasi-scientific marvel, framed as testimony and usually told at night or in a house.",
+    "historical_development": "The literary ghost story of the period runs from the Christmas tale of the 1840s and 1850s — Dickens's own ghostly Christmas books and the Christmas numbers he and his contributors wrote for Household Words and All the Year Round — through the ghostly tales of Gaskell, Braddon and Collins of the 1860s, to Henry James's The Turn of the Screw (1898) and the magazine tale of the 1890s; the form keeps the Gothic apparatus but moves it into the modern house and frames it as testimony."
+  },
+  {
+    "name": "Early Scientific Romance and Utopian Speculation",
+    "description": "Prose fiction in which a scientific or technological hypothesis is developed as a narrative, or an imaginary society is described as a critique of the present.",
+    "historical_development": "Prepared by the development hypothesis and by the \"future-history\" and social-surmise tales of the 1840s, and by the scientific romance already implicit in Darwin's and Lyell's imaginative scale; its principal works in this period are Butler's Erewhon (published anonymously 1872), Bellamy's Looking Backward (1888), Morris's News from Nowhere (1890), and Wells's The Time Machine (1895), The Island of Doctor Moreau (1896) and The War of the Worlds (1898)."
+  },
+  {
+    "name": "Children's Fantasy and the Dream-Region Tale",
+    "description": "Narrative for or about children in which a real child enters a secondary or impossible world; dream and nonsense are its modes.",
+    "historical_development": "Breaks with the moralised children's book of the earlier century with Carroll's Alice (1865) and Through the Looking-Glass (1871), George Macdonald's fairy romances of the 1870s, Kingsley's The Water-Babies (1863), and in America the family fiction of Alcott (from the later 1860s) and the Oz books (1900); Peter Pan (1904) falls outside this period."
+  },
+  {
+    "name": "War Narrative of the Common Soldier",
+    "description": "The war told from the ranks — the march, the wound, the fear and the accidental heroism — rather than from the general or the nation.",
+    "historical_development": "Prepared by the public verse of the Crimean War — Tennyson's \"The Charge of the Light Brigade\" (1854) and the hostile denunciation of the campaign in the same decade — and by the war correspondence which made the staff and the hospital a public subject. In America it is created in Whitman's Civil War poems of the 1860s and in the soldier's tale of the post-war decades, and becomes a realist war narrative in the last years of the century with Crane's The Red Badge of Courage (serialised 1894, in books 1895); the South African war of 1899–1902, which fills the next decade's British war story, lies mostly outside this period."
+  },
+  {
+    "name": "Serial and Monthly-Part Novel",
+    "description": "A novel first issued in parts or in a serial column, shaped by the interval, the cliff-hanger, the illustration and the number of weeks of its run.",
+    "historical_development": "The serial column begins with the magazine miscellany of the 1830s and is made a high art by Dickens's monthly and weekly part-issues from Pickwick Papers (1836–37) to Our Mutual Friend (1864–65); Household Words (1850–59) and All the Year Round (1859–69) carry the weekly double-decker serial, Collins's The Woman in White (1859–60) and The Moonstone (1868) perfect the serial plot, and after 1860 the American monthlies — The Atlantic Monthly, and later Harper's and Scribner's — do the same work across the Atlantic."
+  },
+  {
+    "name": "Dramatic Monologue and Masked Lyric",
+    "description": "A poem whose speaker is a character distinct from the poet, overheard in an act of unintended self-revelation.",
+    "historical_development": "Established by Browning in Dramatic Lyrics (1844), Dramatic Romances and Lyrics (1845) and the volumes of 1846 and 1855, and carried to its extreme in The Ring and the Book (1868–69); Arnold's and Clough's masked meditations of the 1850s, Tennyson's soliloquies and Hardy's monologues of the 1890s extend it, and it is the form from which the twentieth century's confessional and dramatic lyrics descend."
+  },
+  {
+    "name": "Victorian Verse Drama and Revived Tragedy",
+    "description": "Tragedy written in verse chiefly for the reader rather than the manager: blank verse, an ancient, biblical or historical subject, and a modern moral or religious argument carried in the speeches.",
+    "historical_development": "The century's first important example is Kingsley's Saint's Tragedy (1848); Arnold's Empedocles on Aetna (1852) is a closet tragedy by intention, and its 1853 preface is the manifesto of a verse drama that knows it will not be acted. Clough's Mariamne, published in the early 1860s, Swinburne's Atalanta in Calydon (1865), and Tennyson's Queen Mary (1875) and Becket (1884) complete the main line; the Greek revivals and the closets of the 1890s lead to the verse drama of the next century."
+  },
+  {
+    "name": "Problem Play and Well-Made Drama",
+    "description": "The play constructed as an argument about a social or moral problem, using — and then exposing — the machinery of the \"well-made\" play: the kept secret, the compromising letter, the delayed recognition and the prepared scene.",
+    "historical_development": "The French \"well-made play\" supplies the technique; the \"new drama\" of the 1890s supplies the argument, in Pinero's The Second Mrs Tanqueray (1893), Wilde's society comedies of the early 1890s, the problem plays of Henry Arthur Jones, and Shaw's first plays and his critical manifesto The Quintessence of Ibsenism (1891); the Independent Theatre's first experimental season of 1891 marks the institutional hour."
+  },
+  {
+    "name": "Sensation Drama and the Domestic Stage",
+    "description": "The theatrical equivalent of sensation fiction — the modern middle-class house as a scene of terror, played in realistic domestic detail and sustained on a long-held secret.",
+    "historical_development": "The sensation drama of the 1860s to 1880s dominated the West End and the touring repertoire; Collins's own stage version of The Woman in White (1871) and the long-running theatrical East Lynne are its most-copied examples, and its business of the surprise and the tableau passes into the melodrama of the 1890s and into the thriller of the next century."
+  },
+  {
+    "name": "Pastoral Elegy and the Mourning Sequence",
+    "description": "The long lyric poem of mourning for a friend or a poet, using the pastoral convention of shepherd, seasonal cycle and song, and the connected sequence of short poems built around a single death.",
+    "historical_development": "The elegiac sequence is the dominant serious form of the mid-century — Tennyson's In Memoriam A.H.H. (privately printed 1849, title page 1850) is its monument, with its own sub-title recording the years of the grief; Arnold's \"Thyrsis\" (1866) revives the pastoral mourning of a friend, and America's great elegies of the 1860s — Whitman's Lincoln poems of \"Drum-Taps\" (1865) — are the public version of the same form."
+  },
+  {
+    "name": "Sonnet Revival and Sequenced Sonnet",
+    "description": "The return of the sonnet to the first rank of English verse in the period, and its organisation into a long ordered sequence with a narrative, doctrinal or psychological argument.",
+    "historical_development": "The vogue begins with the Elizabethan revival of the 1830s and matures in Elizabeth Barrett Browning's Sonnets from the Portuguese (1850), in the sonnets on pictures and on the \"House of Life\" body published by Dante Gabriel Rossetti in 1881, in Christina Rossetti's devotional and social sonnets, and in the engineering, architectural and lament sonnets of the 1870s to 1890s; America's first sustained sonnet vogue belongs to the 1880s and 1890s."
+  },
+  {
+    "name": "Nonsense Verse and the Parody of Rule",
+    "description": "Verse that turns the rules of grammar, prosody and logic against themselves for comic effect, including the limerick, the nonsense song and the learned parody of a recognised manner.",
+    "historical_development": "Lear's A Book of Nonsense (1846) and its successors make the limerick a literary form; \"Jabberwocky\", printed in Carroll's Through the Looking-Glass (1871), supplies the mock-translation and the invented lexicon; Calverley's parodies and the magazine verse of the 1880s and 1890s carry the mode, which is continuous with the nonsense of Lear's own illustrated travel books."
+  },
+  {
+    "name": "Idyll and Domestic Narrative Poem",
+    "description": "The short or middle-length narrative poem of country and domestic life in a realised English scene, and the linked sequence of such poems; the name was given to the Arthurian narratives by Tennyson himself.",
+    "historical_development": "Tennyson's Idylls of the King, published as idylls from 1859 and collected in a single poem through the 1870s, fixes the term; the \"idyll\" then names the domestic or country narrative poem of the 1860s and 1870s, in blank verse or in stanza, including the country tale and the farmhouse narrative."
+  },
+  {
+    "name": "Local-Colour Sketch and the Regional Portrait",
+    "description": "The short prose portrait of a place and its speech: a group of characteristic types, a scenery and a dialect, with incident held light so that the \"colour\" is the subject.",
+    "historical_development": "The regional sketch of the magazines of the 1850s grows after the war into the dominant American short form: Harte's California stories published in The Overland Monthly from 1868, the New England village tales of the 1870s to 1890s, Jewett's The Country of the Pointed Firs (1896), the Acadian and Creole sketches of Cable, the \"Southwestern\" tale and the dialect sketch of the 1880s."
+  },
+  {
+    "name": "Tall Tale and South-Western Humour Sketch",
+    "description": "The comic frontier yarn in which a boastful or impossible exploit is told in a matter-of-fact vernacular voice, usually inside a frame of hearth, bar-room, camp-fire or stump.",
+    "historical_development": "The backwoods humour of the frontier newspapers and almanacs of the 1830s and 1840s, collected and imitated through the 1850s, passes into the California comic sketch of the 1860s and 1870s and into Twain's platform and book tales; it is the technical ancestor of the American frame narrative and of the vernacular first person."
+  },
+  {
+    "name": "Dialect Poem and Vernacular Performance",
+    "description": "Verse composed in a class, regional or ethnic spoken dialect and written for recital, with its own orthography and its own stage of performance.",
+    "historical_development": "The British dialect-poem tradition of the mills and moors of the earlier century continues in the period; in America the mode becomes central with the plantation tales in dialect of the 1880s — Harris's Uncle Remus, His Songs and His Sayings (1880) — and with the recited dialect verse of the 1880s and 1890s, a form of which Dunbar and Riley are the standard examples; it ends as a dominant literary mode with the dialect controversy of the 1900s."
+  },
+  {
+    "name": "Lecture and Popular Address",
+    "description": "Prose composed to be spoken to a paying, subscribing or reform-society audience, and printed afterwards as a book or a magazine article.",
+    "historical_development": "Carlyle's 1840 course on hero-worship, Emerson's addresses of 1837 and the following decades, the anti-slavery and women's rights platforms, Ruskin's and Huxley's institutional lectures, and the lyceum and Chautauqua circuits of the 1870s to 1890s make the lecture a major literary form; the printed lecture is the common ancestor of the essay of ideas in both countries."
+  },
+  {
+    "name": "Review Essay and Quarterly Argument",
+    "description": "The long article that argues a general question — doctrine, policy, class, art — out of the review of several books.",
+    "historical_development": "The quarterlies of the 1840s to 1860s (the Edinburgh, Quarterly, British Quarterly and Westminster Review) and the new weeklies of 1855 onward carry the British essay; in America the North American Review, Putnam's, Harper's and The Atlantic Monthly (from 1857) do the same work. It is the form in which Carlyle, Arnold, Froude, Mill, Spencer and their American rivals published their argument, and the direct ancestor of academic criticism."
+  },
+  {
+    "name": "Social Inquiry and the Documented Survey",
+    "description": "Non-fiction built from question, interview, tally and direct observation, and printed as a serial or a numbered series, whose rhetoric is the document and whose end is reform.",
+    "historical_development": "The survey writing of the 1840s onward — the parliamentary and factory-commission evidence, Mayhew's London Labour and the London Poor (from 1851), the slum narrative and the missionary report — and, at the close of the period, Booth's metropolitan enquiry begun in 1889 and the American city survey of the 1890s. It supplies the documentary apparatus that sensation fiction and the naturalist novel borrow."
+  },
+  {
+    "name": "Comic Novel and the New Humour",
+    "description": "The comic novel of everyday mishap told by or about an ordinary man of the new reading public: the clerk on holiday, the suburban householder, the father magically changed into his schoolboy son, the hairdresser whose statue of Venus comes to life. Farce is rendered in a deadpan, colloquial and self-deprecating voice. Its examples include Anstey's Vice Versa (1882) and The Tinted Venus (1885), Jerome K. Jerome's Three Men in a Boat (1889) and George and Weedon Grossmith's The Diary of a Nobody (1892).",
+    "historical_development": "Descended from the episodic comedy of Pickwick and of Surtees's Jorrocks, the form was remade in the 1880s and 1890s by the writers critics called the 'New Humour' (Jerome, Barry Pain, Israel Zangwill and the contributors to Jerome's magazines The Idler and To-Day), whose colloquial lower-middle-class comedy reviewers attacked as vulgar and the public bought in hundreds of thousands; Anstey added the comic fantasy of magical transformation, and the line ran on through the Edwardian decade to Wodehouse."
+  },
+  {
+    "name": "Political Verse and the Poem of Public Cause",
+    "description": "Verse written for a cause and addressed to a public: the Chartist and Anti-Corn-Law song, the abolitionist poem, the poem of the Italian Risorgimento and of Irish and Jewish nationhood, the ballad of prison reform, and at the end of the century the ballad of empire and the national lesson. Its examples run from Ebenezer Elliott's Corn Law Rhymes (1831) and Longfellow's Poems on Slavery (1842) through Elizabeth Barrett Browning's Casa Guidi Windows (1851) and Swinburne's Songs before Sunrise (1871) to Emma Lazarus's 'The New Colossus' (1883) and Newbolt's Admirals All (1897).",
+    "historical_development": "The form drew on the political song of Burns and Shelley and the hymn of the dissenting chapel. The Chartist press and the abolitionist papers of Garrison and Whittier gave it a mass readership in the 1840s, and the Risorgimento drew the Brownings and Swinburne into a poetry of European liberty. From the 1880s, in Kipling, Henley and Newbolt, the cause shifted from reform and liberation towards nation and empire."
+  },
+  {
+    "name": "Epic and the Long Philosophical Poem",
+    "description": "The long poem of heroic action or of argument written in the age of the novel: the blank-verse epic episode, the retold northern or Arthurian legend, and the discursive poem of faith, doubt and evolution. Its examples run from Arnold's Sohrab and Rustum (1853) and Morris's Sigurd the Volsung (1876) to Melville's Clarel (1876), Mathilde Blind's The Ascent of Man (1889) and Bridges's The Testament of Beauty (1929).",
+    "historical_development": "Victorian poets inherited the epic ambition of Milton and of Wordsworth's Prelude but wrote for a public that read its narratives in novels. They answered with the classical or legendary episode (Arnold, Morris, Tennyson's Idylls), the verse novel, and the long poem of ideas that tried to absorb geology, the higher criticism and Darwin, from In Memoriam to Melville's pilgrimage to the Holy Land and Blind's evolutionary epic, until the form passed to the modernist long poem."
+  }
+]

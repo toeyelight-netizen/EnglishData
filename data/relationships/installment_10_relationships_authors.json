@@ -1,0 +1,2554 @@
+{
+ "author_genres": [
+  {
+   "author": "A. K. Ramanujan",
+   "genres": [
+    "Experimental Poetry",
+    "Lyric Poetry",
+    "Modernist Poetry"
+   ]
+  },
+  {
+   "author": "Adrienne Rich",
+   "genres": [
+    "Dramatic Poetry",
+    "Free Verse",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Alice Munro",
+   "genres": [
+    "Realist Fiction",
+    "Regional Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Allen Ginsberg",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Anne Carson",
+   "genres": [
+    "Confessional Poetry",
+    "Long Poem",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Love Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "author": "Arthur Miller",
+   "genres": [
+    "Domestic Drama",
+    "Full-Length Play",
+    "Modern Tragedy"
+   ]
+  },
+  {
+   "author": "Arundhati Roy",
+   "genres": [
+    "Family Saga",
+    "Historical Novel",
+    "Literary Novel"
+   ]
+  },
+  {
+   "author": "Audre Lorde",
+   "genres": [
+    "Confessional Poetry",
+    "Feminist Criticism",
+    "Free Verse",
+    "Literary Essay",
+    "Lyric Poetry",
+    "Political Essay",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "genres": [
+    "Experimental Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "genres": [
+    "Regional Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "genres": [
+    "Dramatic Monologue",
+    "Elegiac Poetry",
+    "Free Verse",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "author": "Caryl Churchill",
+   "genres": [
+    "Modern Tragicomedy",
+    "Political Theatre",
+    "Stage Comedy"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "War Novel"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "genres": [
+    "Epic Poetry",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "genres": [
+    "Experimental Fiction",
+    "Postmodern Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "genres": [
+    "Domestic Fiction",
+    "Psychological Novel",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Dylan Thomas",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "author": "Eavan Boland",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Elizabeth Bishop",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Travel Writing"
+   ]
+  },
+  {
+   "author": "Flannery O'Connor",
+   "genres": [
+    "Gothic Fiction",
+    "Realist Fiction",
+    "Satirical Fiction",
+    "Short Story",
+    "Social Criticism"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Experimental Fiction",
+    "Free Verse",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Manifesto",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "author": "Geoffrey Hill",
+   "genres": [
+    "Elegiac Poetry",
+    "Historical Writing",
+    "Political Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "genres": [
+    "Collected Letters",
+    "Cultural Criticism",
+    "Dystopian Fiction",
+    "Literary Criticism",
+    "Literary Essay",
+    "Literary Journalism",
+    "Memoir",
+    "Pamphlet",
+    "Personal Essay",
+    "Political Essay",
+    "Political Novel",
+    "Satirical Fiction",
+    "Social Criticism"
+   ]
+  },
+  {
+   "author": "Grace Nichols",
+   "genres": [
+    "Dramatic Poetry",
+    "Dub Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Grace Paley",
+   "genres": [
+    "Domestic Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Gwendolyn Brooks",
+   "genres": [
+    "Black Arts Poetry",
+    "Formal Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Social Poetry",
+    "Sonnet"
+   ]
+  },
+  {
+   "author": "Hanif Kureishi",
+   "genres": [
+    "Domestic Fiction",
+    "Short Story",
+    "Social Novel"
+   ]
+  },
+  {
+   "author": "J. D. Salinger",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "War Novel"
+   ]
+  },
+  {
+   "author": "J. G. Ballard",
+   "genres": [
+    "Apocalyptic Fiction",
+    "Post-Apocalyptic Fiction",
+    "Science Fiction"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "genres": [
+    "Literary Novel",
+    "Philosophical Fiction",
+    "Political Novel"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "author": "James Baldwin",
+   "genres": [
+    "Autobiographical Novel",
+    "Gothic Fiction",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay",
+    "Political Essay",
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Jean Rhys",
+   "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "genres": [
+    "Cultural Criticism",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay"
+   ]
+  },
+  {
+   "author": "John Ashbery",
+   "genres": [
+    "Free Verse",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Postmodern Poetry"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "genres": [
+    "Experimental Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "genres": [
+    "Modernist Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Kamau Brathwaite",
+   "genres": [
+    "Experimental Poetry",
+    "Literary Essay",
+    "Lyric Poetry",
+    "Political Poetry",
+    "Postcolonial Criticism",
+    "Visual Poetry"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "genres": [
+    "Comic Novel",
+    "Regional Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "genres": [
+    "Dystopian Fiction",
+    "Postmodern Fiction",
+    "Satirical Fiction",
+    "Science Fiction",
+    "War Novel"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "genres": [
+    "Confessional Poetry",
+    "Experimental Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "genres": [
+    "Dub Poetry",
+    "Performance Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "genres": [
+    "Domestic Drama",
+    "Full-Length Play",
+    "Historical Drama",
+    "Hybrid Forms",
+    "Memoir",
+    "Modern Tragedy",
+    "One-Act Play",
+    "Political Essay",
+    "Political Publication",
+    "Political Theatre",
+    "Social Realist Drama",
+    "Television Drama"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "genres": [
+    "Light Verse",
+    "Performance Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "genres": [
+    "Experimental Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "genres": [
+    "Confessional Poetry",
+    "Domestic Fiction",
+    "Dramatic Monologue",
+    "Lyric Poetry",
+    "Regional Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "genres": [
+    "Personal Essay",
+    "Political Essay",
+    "Social Criticism"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "genres": [
+    "Political Essay",
+    "Postcolonial Criticism"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "genres": [
+    "Anthology",
+    "Bildungsroman",
+    "Campus Novel",
+    "Collected Letters",
+    "Cultural Criticism",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Light Verse",
+    "Literary Criticism",
+    "Literary Essay",
+    "Literary Journalism",
+    "Literary Novel",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Psychological Novel",
+    "Religious Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "author": "Ralph Ellison",
+   "genres": [
+    "Bildungsroman",
+    "Collected Letters",
+    "Cultural Criticism",
+    "Literary Criticism",
+    "Literary Essay",
+    "Literary Novel",
+    "Political Novel",
+    "Satirical Fiction",
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "author": "Robert Hayden",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "author": "Robert Lowell",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Salman Rushdie",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Postcolonial Criticism",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Samuel Beckett",
+   "genres": [
+    "Absurdist Drama",
+    "Full-Length Play",
+    "Modern Tragicomedy"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "genres": [
+    "Bildungsroman",
+    "Comic Novel",
+    "Literary Journalism",
+    "Literary Novel",
+    "One-Act Play",
+    "Radio Drama",
+    "Satirical Fiction",
+    "Short Story",
+    "Short-Story Collection",
+    "Social Novel",
+    "Television Drama"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "Social Criticism"
+   ]
+  },
+  {
+   "author": "Seamus Heaney",
+   "genres": [
+    "Elegiac Poetry",
+    "Historical Writing",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Regional Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Stevie Smith",
+   "genres": [
+    "Elegiac Poetry",
+    "Light Verse",
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Susan Sontag",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Criticism and Theory (1946–2000)",
+    "Literary Essay"
+   ]
+  },
+  {
+   "author": "Ted Hughes",
+   "genres": [
+    "Dark Fantasy",
+    "Lyric Poetry",
+    "Mythological Retelling",
+    "Nature Poetry",
+    "Religious Poetry",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "author": "Tennessee Williams",
+   "genres": [
+    "Full-Length Play",
+    "Gothic Fiction",
+    "Modern Tragedy"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "author": "V. S. Naipaul",
+   "genres": [
+    "Novella",
+    "Political Novel",
+    "Psychological Novel"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "genres": [
+    "Modernist Fiction",
+    "Philosophical Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "genres": [
+    "Formal Verse",
+    "Lyric Poetry",
+    "Pastoral and Rural Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "author": "Wole Soyinka",
+   "genres": [
+    "Historical Drama",
+    "Modern Tragedy",
+    "Political Theatre"
+   ]
+  },
+  {
+   "author": "bpNichol",
+   "genres": [
+    "Concrete Poetry",
+    "Experimental Poetry",
+    "Visual Poetry"
+   ]
+  }
+ ],
+ "author_movements": [
+  {
+   "author": "A. K. Ramanujan",
+   "movements": [
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Adrienne Rich",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Alice Munro",
+   "movements": [
+    "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "author": "Allen Ginsberg",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "author": "Anne Carson",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Arthur Miller",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "author": "Arundhati Roy",
+   "movements": [
+    "Magical Realism in English",
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Audre Lorde",
+   "movements": [
+    "Black Arts Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "movements": [
+    "African Literature in English",
+    "Magical Realism in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "movements": [
+    "African Literature in English",
+    "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "author": "Caryl Churchill",
+   "movements": [
+    "Political Theatre and the Fringe",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "movements": [
+    "Black Humour and the Absurdist Novel",
+    "Metafiction",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Dylan Thomas",
+   "movements": []
+  },
+  {
+   "author": "Eavan Boland",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Elizabeth Bishop",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "author": "Flannery O'Connor",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "movements": [
+    "The New York School"
+   ]
+  },
+  {
+   "author": "Geoffrey Hill",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "movements": []
+  },
+  {
+   "author": "Grace Nichols",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English",
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "author": "Grace Paley",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Gwendolyn Brooks",
+   "movements": [
+    "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Hanif Kureishi",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "J. D. Salinger",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "author": "J. G. Ballard",
+   "movements": [
+    "Contemporary Gothic",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "movements": [
+    "Postcolonial Literature",
+    "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "author": "James Baldwin",
+   "movements": [
+    "Black Arts Movement",
+    "Southern Gothic"
+   ]
+  },
+  {
+   "author": "Jean Rhys",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "John Ashbery",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "The New York School"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "movements": [
+    "Late Modernism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Kamau Brathwaite",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature",
+    "Postcolonial Theory"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "movements": [
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "movements": [
+    "Black Humour and the Absurdist Novel",
+    "New Wave Science Fiction",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Dub Poetry",
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "movements": [
+    "Canadian Literary Nationalism",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "movements": [
+    "African Literature in English",
+    "Postcolonial Theory"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "author": "Ralph Ellison",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Robert Hayden",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Robert Lowell",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "author": "Salman Rushdie",
+   "movements": [
+    "Magical Realism in English",
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Samuel Beckett",
+   "movements": [
+    "Theatre of the Absurd"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "movements": [
+    "Jewish American Fiction",
+    "Late Modernism"
+   ]
+  },
+  {
+   "author": "Seamus Heaney",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "author": "Stevie Smith",
+   "movements": []
+  },
+  {
+   "author": "Susan Sontag",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Ted Hughes",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "author": "Tennessee Williams",
+   "movements": [
+    "Late Modernism",
+    "Southern Gothic"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "movements": [
+    "Gay and Lesbian Literature after Stonewall",
+    "The Movement"
+   ]
+  },
+  {
+   "author": "V. S. Naipaul",
+   "movements": [
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "movements": [
+    "Late Modernism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "movements": []
+  },
+  {
+   "author": "Wole Soyinka",
+   "movements": [
+    "African Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "bpNichol",
+   "movements": [
+    "Concrete Poetry"
+   ]
+  }
+ ],
+ "author_themes": [
+  {
+   "author": "A. K. Ramanujan",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Adrienne Rich",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "author": "Alice Munro",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Allen Ginsberg",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Anne Carson",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Arthur Miller",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "author": "Arundhati Roy",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Audre Lorde",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Myth, folklore and the supernatural",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Caryl Churchill",
+   "themes": [
+    "Class, labour and social mobility",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Language, writing and the limits of representation",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Madness, breakdown and confinement"
+   ]
+  },
+  {
+   "author": "Dylan Thomas",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Eavan Boland",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Elizabeth Bishop",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Flannery O'Connor",
+   "themes": [
+    "Class, labour and social mobility",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Geoffrey Hill",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Power, the state and surveillance",
+    "The Holocaust, atrocity and historical memory",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Nationhood and national identity",
+    "Power, the state and surveillance",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Grace Nichols",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Grace Paley",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Gwendolyn Brooks",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Hanif Kureishi",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "J. D. Salinger",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "J. G. Ballard",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Nature, ecology and environmental crisis",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "themes": [
+    "Counterculture, drugs and rebellion",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "author": "James Baldwin",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Jean Rhys",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Decolonisation, the end of empire and the new nation",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "John Ashbery",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Kamau Brathwaite",
+   "themes": [
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Nationhood and national identity",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Memory, trauma and testimony",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "themes": [
+    "Class, labour and social mobility",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "The Cold War, nuclear threat and the bomb",
+    "Utopia, dystopia and imagined futures",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Love, intimacy and loss",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Ralph Ellison",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Nationhood and national identity",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Robert Hayden",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Robert Lowell",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Madness, breakdown and confinement",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Salman Rushdie",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Samuel Beckett",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Myth, folklore and the supernatural",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Seamus Heaney",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Memory, trauma and testimony",
+    "The Holocaust, atrocity and historical memory",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Stevie Smith",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Madness, breakdown and confinement",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Susan Sontag",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Ted Hughes",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Land, place and regional belonging",
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Tennessee Williams",
+   "themes": [
+    "Class, labour and social mobility",
+    "Memory, trauma and testimony",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Faith, doubt and the sacred",
+    "Love, intimacy and loss",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "V. S. Naipaul",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Madness, breakdown and confinement",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Power, the state and surveillance",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Wole Soyinka",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "bpNichol",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ]
+  }
+ ],
+ "author_influences": [
+  {
+   "author": "Ralph Ellison",
+   "influenced_by": [
+    "Richard Wright",
+    "T. S. Eliot",
+    "Ernest Hemingway",
+    "William Faulkner"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "influenced_by": [
+    "Thomas Hardy",
+    "W. B. Yeats"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "influenced_by": [
+    "Langston Hughes"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "influenced_by": [
+    "T. S. Eliot"
+   ]
+  }
+ ],
+ "author_sources": [
+  {
+   "author": "Ralph Ellison",
+   "sources": [
+    "Major Literary Prizes (Post45 Data Collective)",
+    "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)",
+    "Ralph Ellison (New World Encyclopedia)",
+    "Ralph Ellison (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "sources": [
+    "Aubade (The Philip Larkin Society, philiplarkin.com)",
+    "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
+    "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
+    "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "List of winners and nominated authors of the Booker Prize (Wikipedia)",
+    "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
+    "Philip Larkin (EBSCO Research Starters)",
+    "Philip Larkin (New World Encyclopedia)",
+    "Philip Larkin (Wikipedia, via Wikiwand)",
+    "The Explosion by Philip Larkin (EBSCO Research Starters)",
+    "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "sources": [
+    "Hansberry, Lorraine 1930-1965 (Encyclopedia.com, Gale entry with Leonard R. N. Ashley's 1990 essay)",
+    "Hansberry, Lorraine: Introduction (Encyclopedia.com, Gale literary criticism entry)",
+    "Les blancs: the collected last plays of Lorraine Hansberry (Internet Archive catalogue record)",
+    "Lorraine Hansberry (AmericanLiterature.com)",
+    "Lorraine Hansberry (Encyclopaedia Britannica)",
+    "Lorraine Hansberry (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Lorraine Hansberry Biography (Chicago Public Library)"
+   ]
+  },
+  {
+   "author": "Samuel Selvon",
+   "sources": [
+    "Highway in the Sun (Peepal Tree Press)",
+    "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
+    "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Remembering Sam Selvon's Short Stories (Thresholds, University of Chichester)",
+    "Sam Selvon (South Asian Britain: Connecting Histories)",
+    "Sam Selvon (Wikipedia)",
+    "Sam Selvon Collection (SC33), finding aid (The Alma Jordan Library, University of the West Indies)",
+    "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
+    "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
+    "Samuel Selvon (Encyclopaedia Britannica)",
+    "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
+    "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)"
+   ]
+  },
+  {
+   "author": "Stevie Smith",
+   "sources": [
+    "Charlotte Smith in British Romanticism",
+    "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
+    "Not Waving but Drowning (Wikipedia)",
+    "Stevie Smith (Wikipedia)",
+    "The Collected Letters of Charlotte Smith",
+    "The Poems of Charlotte Smith",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith",
+    "The Religious Poetry of Stevie Smith and Emily Brontë (RepositoriUM, University of Minho)"
+   ]
+  },
+  {
+   "author": "Dylan Thomas",
+   "sources": [
+    "Do not go gentle into that good night (Wikipedia)",
+    "Dylan Thomas (Wikipedia)",
+    "Memoirs of the Life and Writings of Thomas Chalmers, D.D., LL.D. (4 volumes)",
+    "Nightmare Abbey (The Cambridge Edition of the Novels of Thomas Love Peacock, volume 7)",
+    "Selected Poems of Thomas Hood",
+    "Sir Thomas Wyatt: The Complete Poems",
+    "The Ashgate Research Companion to Thomas Lovell Beddoes (The Nineteenth Century Series)",
+    "The Collected Letters of Thomas Hardy, 7 vols",
+    "The Correspondence of Thomas Carlyle and Ralph Waldo Emerson, 1834–1872, 2 vols",
+    "The Journals of Thomas Babington Macaulay (5 volumes)",
+    "The Letters of Thomas Babington Macaulay: Volume 2, March 1831-December 1833",
+    "The Major Works of Sir Thomas Browne",
+    "The Papers of Thomas Jefferson",
+    "The Poems of Edward Thomas",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith",
+    "The Poetical Works of Thomas Lovell Beddoes (2 volumes)",
+    "The Poetical Works of Thomas Moore",
+    "The Works of Thomas De Quincey (21 volumes)",
+    "Thomas Chalmers and the Godly Commonwealth in Scotland"
+   ]
+  },
+  {
+   "author": "Louise Bennett",
+   "sources": [
+    "Louise Bennett and the Mento Tradition (Eric Doumerc, via CORE)",
+    "Louise Bennett-Coverley (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Kamau Brathwaite",
+   "sources": [
+    "Kamau Brathwaite (Wikipedia)",
+    "Versions of X/Self: Kamau Brathwaite's Caribbean Discourse (Semantic Scholar)"
+   ]
+  },
+  {
+   "author": "Ngũgĩ wa Thiong'o",
+   "sources": [
+    "Decolonising the Mind (Wikipedia)",
+    "Ngũgĩ wa Thiong'o (Wikipedia)"
+   ]
+  },
+  {
+   "author": "M. NourbeSe Philip",
+   "sources": [
+    "'Sing the Bones Home': Material Memory and the Project of Freedom in M. NourbeSe Philip's Zong! (Humanities, MDPI)",
+    "Aubade (The Philip Larkin Society, philiplarkin.com)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "M. NourbeSe Philip (Wikipedia)",
+    "M. NourbeSe Philip's She Tries her Tongue, her Silence Softly Breaks and the Possibilities of Language (Revista Anglo Saxonica)",
+    "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
+    "Philip Larkin (EBSCO Research Starters)",
+    "Philip Larkin (New World Encyclopedia)",
+    "Philip Larkin (Wikipedia, via Wikiwand)",
+    "The Explosion by Philip Larkin (EBSCO Research Starters)",
+    "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
+   ]
+  },
+  {
+   "author": "Salman Rushdie",
+   "sources": [
+    "Imaginary Homelands (Wikipedia)",
+    "Salman Rushdie (Wikipedia)",
+    "The Prophet's Hair, by Salman Rushdie (London Review of Books, vol. 3, no. 7)"
+   ]
+  },
+  {
+   "author": "Grace Nichols",
+   "sources": [
+    "Grace Nichols (Wikipedia)",
+    "Grace Nichols, 'Epilogue', 'The Fat Black Woman Goes Shopping', 'Wherever I Hang' (readingnorton.wordpress.com)",
+    "Grace Nichols, I Have Crossed an Ocean: Selected Poems (contents listing)",
+    "Grace Nichols- born 1950 (greatbritishwriters blog)"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "sources": [
+    "'I came to poetry through politics': Linton Kwesi Johnson's Other Lives (Presses universitaires de la Méditerranée)",
+    "Bass Culture - Linton Kwesi Johnson (reggaelyrics.info)",
+    "Linton Kwesi Johnson (Wikipedia)",
+    "The Cambridge Companion to Samuel Johnson",
+    "The Life of Samuel Johnson, 6 volumes (Birkbeck Hill edition)",
+    "The Yale Edition of the Works of Samuel Johnson (21 volumes)"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "sources": [
+    "Doris Lessing (Wikipedia)",
+    "To Room Nineteen by Doris Lessing, 1963 (The Encyclopedia of the Short Story, encyclopedia.com)"
+   ]
+  },
+  {
+   "author": "A. K. Ramanujan",
+   "sources": [
+    "A. K. Ramanujan (Wikipedia)",
+    "A. K. Ramanujan, Selected Poetry (PDF text of the poems, jpellegrino.com)",
+    "A.K. Ramanujan (Guillermo Rodríguez Martín, Indian Writing in English, University of Hyderabad)",
+    "Metaphor and postcoloniality: the poetry of A.K. Ramanujan (Gale Academic OneFile)"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "sources": [
+    "Thom Gunn (Wikipedia)",
+    "Thom Gunn, 'From the Wave', 'Still Life', 'The Missing' (readingnorton.wordpress.com)",
+    "Thom Gunn, Collected Poems (WorldCat contents listing)"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "sources": [
+    "Derek Walcott (Wikipedia)",
+    "Derek Walcott, Selected Poems (Barnes and Noble contents listing)",
+    "Myths of Identity in Derek Walcott's 'The Schooner Flight' (Mary C. Fuller, Connotations)",
+    "Walcott, Derek (Oxford Research Encyclopedia of Literature)"
+   ]
+  },
+  {
+   "author": "Ted Hughes",
+   "sources": [
+    "A Dark Green Counterculture in Ted Hughes's Crow (independent thesis, DiVA)",
+    "Ted Hughes (Wikipedia)",
+    "Ted Hughes, 'Wind' (text, The Wondering Minstrels)",
+    "Ted Hughes, Collected Poems, ed. Paul Keegan (Faber contents listing)",
+    "The Collected Poems of Langston Hughes"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "sources": [
+    "Chinua Achebe (Wikipedia)",
+    "Civil Peace (Wikipedia)"
+   ]
+  },
+  {
+   "author": "V. S. Naipaul",
+   "sources": [
+    "Displacing the Displacement Novel: V. S. Naipaul's In a Free State (Neel Mukherjee, The Paris Review)",
+    "V. S. Naipaul (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Wole Soyinka",
+   "sources": [
+    "On Wole Soyinka's Death and the King's Horseman (David Damrosch, Literary Hub)",
+    "Wole Soyinka (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Caryl Churchill",
+   "sources": [
+    "Caryl Churchill (Wikipedia)",
+    "Top Girls (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Seamus Heaney",
+   "sources": [
+    "100 Poems by Seamus Heaney (Harvard Review)",
+    "Seamus Heaney (Wikipedia)",
+    "Seamus Heaney's principal poems (reading site, irisharoundtheworld)",
+    "Seamus Heaney, 'Clearances' (reading site, fawbie.info)",
+    "Seamus Heaney: Works (Ricorso bibliography)",
+    "Second Thoughts (New York Review of Books, on Heaney's The Haw Lantern)"
+   ]
+  },
+  {
+   "author": "Alice Munro",
+   "sources": [
+    "Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)",
+    "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)"
+   ]
+  },
+  {
+   "author": "Geoffrey Hill",
+   "sources": [
+    "Caryl Churchill (Wikipedia)",
+    "Geoffrey Hill, 'Requiem for the Plantagenet Kings' (poeticous text)",
+    "Geoffrey Hill, Broken Hierarchies: Poems 1952-2012 (Oxford University Press contents)",
+    "The Life of Samuel Johnson, 6 volumes (Birkbeck Hill edition)",
+    "The Shield of Achilles (Wikipedia)",
+    "Weight of the Word, Weight of the World (Poetry Foundation, on Geoffrey Hill)"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "sources": [
+    "Albert Murray obituary (The Guardian, 23 August 2013)",
+    "Les Murray (poet) (Wikipedia)",
+    "Les Murray, Collected Poems (contents listing, readfrom.net)",
+    "Peter Goldsworthy reviews Les Murray's Collected Poems (Australian Book Review)"
+   ]
+  },
+  {
+   "author": "J. G. Ballard",
+   "sources": [
+    "J. G. Ballard (Wikipedia)",
+    "The Drowned World (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "sources": [
+    "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
+    "Bessie Head (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "sources": [
+    "Ben Okri (Wikipedia)",
+    "Ben Okri's 'What the Tapster Saw' (Niger Delta Black Gold Blues, University of Southern California)",
+    "Ben Okri, 'What the Tapster Saw' (reading notes, Scalar)"
+   ]
+  },
+  {
+   "author": "Arundhati Roy",
+   "sources": [
+    "Arundhati Roy (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "sources": [
+    "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
+    "EBSCO Research Starters, 'Death by Landscape' by Margaret Atwood",
+    "Margaret Atwood (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Tina Burchette, 'The Split Self in Atwood's Miss July Grows Older' (Margaret Atwood Studies 8, 2014)"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "sources": [
+    "J. M. Coetzee (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Waiting for the Barbarians (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Eavan Boland",
+   "sources": [
+    "'Chronicles of Impeded Growth: Eavan Boland and the Reconstruction of Identity' (Post Identity, University of Michigan)",
+    "Eavan Boland (Wikipedia)",
+    "Eavan Boland, 'The Dolls Museum in Dublin' (course page, Michigan State University)",
+    "Eavan Boland, 'The Lost Land' (Poetry Foundation)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Anne Carson",
+   "sources": [
+    "Anne Carson (Wikipedia)",
+    "The Glass Essay (Britannica)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "sources": [
+    "7, Middagh Street (database entry, University of Galway)",
+    "Chapter 3, Why Brownlee Left, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
+    "Chapter 5, Meeting the British, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
+    "Chapter 7, The Annals of Chile, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
+    "Meeting the British (poem guide, Encyclopedia.com)",
+    "Paul Muldoon (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "bpNichol",
+   "sources": [
+    "BpNichol (Wikipedia)",
+    "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Hanif Kureishi",
+   "sources": [
+    "Hanif Kureishi (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "sources": [
+    "Carol Ann Duffy (Wikipedia)",
+    "Carol Ann Duffy, Medusa and Mrs Lazarus (Genius annotations)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Valentine by Carol Ann Duffy (revision notes, Save My Exams)",
+    "Warming Her Pearls by Carol Ann Duffy (poem analysis page)"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "sources": [
+    "'Searching for an Environmental Identity: Hullabaloo in the Guava Orchard by Kiran Desai' (ResearchGate article)",
+    "Kiran Desai (Wikipedia)",
+    "Kiran Desai, 'The Sermon in the Guava Tree' (extract, The New Yorker, 23 June 1997)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Vladimir Nabokov",
+   "sources": [
+    "Signs and Symbols (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Vladimir Nabokov (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Theodore Roethke",
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Theodore Roethke (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Elizabeth Bishop",
+   "sources": [
+    "Elizabeth Bishop (Wikipedia)",
+    "One Art (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Tennessee Williams",
+   "sources": [
+    "A Streetcar Named Desire (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "John Cheever",
+   "sources": [
+    "John Cheever (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Swimmer (short story) (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Robert Hayden",
+   "sources": [
+    "Middle Passage (poem) (Wikipedia)",
+    "Robert Hayden (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "sources": [
+    "Analysis of Saul Bellow's Looking for Mr Green (Literary Theory and Criticism)",
+    "Bibliography of Saul Bellow (Wikipedia)",
+    "Saul Bellow (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Arthur Miller",
+   "sources": [
+    "Arthur Miller (Wikipedia)",
+    "Death of a Salesman (Wikipedia)",
+    "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Robert Lowell",
+   "sources": [
+    "For the Union Dead (Wikipedia)",
+    "Life Studies (Wikipedia)",
+    "Lord Weary's Castle (Wikipedia)",
+    "Partisan Review, Vol. XII, No. 2 (Spring 1945), table of contents (Boston University)",
+    "Robert Lowell (Wikipedia)",
+    "Skunk Hour (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Quaker Graveyard in Nantucket (Wikipedia)"
+   ]
+  },
+  {
+   "author": "J. D. Salinger",
+   "sources": [
+    "For Esmé—with Love and Squalor (Wikipedia)",
+    "J. D. Salinger (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "sources": [
+    "Jack Kerouac (Wikipedia)",
+    "On the Road (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "sources": [
+    "Harrison Bergeron (Wikipedia)",
+    "Kurt Vonnegut (Wikipedia)",
+    "Slaughterhouse-Five (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Grace Paley",
+   "sources": [
+    "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
+    "Grace Paley (Wikipedia)",
+    "Later the Same Day (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Frank O'Hara",
+   "sources": [
+    "Frank O'Hara (Poetry Foundation)",
+    "Frank O'Hara (Wikipedia)",
+    "Lunch Poems (Wikipedia)",
+    "Meditations in an Emergency (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Audre Lorde",
+   "sources": [
+    "Audre Lorde (Wikipedia)",
+    "Chrysalis and 'Poetry Is Not a Luxury' (Library of Congress blog)",
+    "Sister Outsider (Wikipedia)",
+    "The Collected Poems of Audre Lorde (library catalogue contents)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Susan Sontag",
+   "sources": [
+    "Against Interpretation (Wikipedia)",
+    "Susan Sontag (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "James Baldwin",
+   "sources": [
+    "A Letter to My Nephew (The Progressive, via course reading)",
+    "Going to Meet the Man (Wikipedia)",
+    "James Baldwin (Wikipedia)",
+    "James Baldwin bibliography (baldwinbibliography.com)",
+    "Sonny's Blues (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Flannery O'Connor",
+   "sources": [
+    "A Good Man Is Hard to Find (Wikipedia)",
+    "Everything That Rises Must Converge (Wikipedia)",
+    "Flannery O'Connor (Wikipedia)",
+    "Good Country People (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Allen Ginsberg",
+   "sources": [
+    "Howl (poem) (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "sources": [
+    "Donald Barthelme (Wikipedia)",
+    "Donald Barthelme bibliography (Wikipedia)",
+    "John Barth (Wikipedia)",
+    "Lost in the Funhouse (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The White Album (Wikipedia)"
+   ]
+  },
+  {
+   "author": "John Ashbery",
+   "sources": [
+    "Ashbery's Pastoral Art (The Yale Review)",
+    "From the Archive: John Ashbery (Poetry Foundation)",
+    "John Ashbery (Wikipedia)",
+    "Notes from the Air: Selected Later Poems, contents (Carcanet Press)",
+    "Self-Portrait in a Convex Mirror, poetry collection (Wikipedia)",
+    "Some Trees (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Anne Sexton",
+   "sources": [
+    "Anne Sexton (Wikipedia)",
+    "Her Kind (poem) (Wikipedia)",
+    "Live or Die, poetry collection (Wikipedia)",
+    "Sylvia's Death (Wikipedia)",
+    "Sylvia's Death, Poetry, January 1964 (Poetry Foundation archive)",
+    "The Complete Poems: Anne Sexton, contents (Ecco Press)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Adrienne Rich",
+   "sources": [
+    "Adrienne Rich (Wikipedia)",
+    "Adrienne Rich's Poetry and Prose, Norton Critical Edition, contents (library catalogue record)",
+    "Diving into the Wreck: Poems 1971-1972 (Wikipedia)",
+    "The Dream of a Common Language (Wikipedia)",
+    "The Long Awakening of Adrienne Rich (The New Yorker, 30 November 2020)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Rise of the Novel: Studies in Defoe, Richardson and Fielding"
+   ]
+  },
+  {
+   "author": "Martin Luther King Jr.",
+   "sources": [
+    "Letter from Birmingham Jail (Wikipedia)",
+    "Martin Luther King Jr. (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Donald Barthelme",
+   "sources": [
+    "A Close Reading of the Best Short Story Ever Written (Literary Hub, on The School)",
+    "Donald Barthelme (Wikipedia)",
+    "Donald Barthelme bibliography (Wikipedia)",
+    "The Balloon, The New Yorker, 16 April 1966 (newyorker.com archive)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  }
+ ]
+}

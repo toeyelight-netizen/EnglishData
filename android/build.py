@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
 """Deterministic, SDK-free APK build for the English Literature app.
 
-Toolchain (downloaded once into ~/.android-build/): JDK 17, aapt2, D8 (r8),
-apksig, and a Robolectric android-all jar standing in for android.jar.
+Toolchain (downloaded once into ~/.android-build/, see tools/fetch_toolchain.py):
+  dl/jdk/          JRE + JDK class files (jdk4py PyPI wheel, or any JDK 17+)
+  tools/aapt2      aapt2 (Linux/macOS binary or aapt2.exe on Windows)
+  dl/r8.jar        D8 (com.android.tools.r8.D8)
+  dl/apksig.jar    apksig (v1+v2+v3 signing)
+  dl/tools.jar     OpenJDK 8 tools.jar supplying com.sun.tools.javac.Main when
+                   the JDK ships no javac binary
+  dl/android-all.jar   platform android.jar (API 34)
 No Gradle, no Android SDK, no network access needed at build time.
 
 Usage:
-    python build.py          # builds build/EnglishLiterature_v1.0.0.apk
+    python build.py                    # -> build/EnglishLiterature_v1.0.0.apk
+    python build.py --skip-sign-check  # faster rebuilds
 """
 
 import glob
@@ -42,11 +49,14 @@ KEY_PASS = "english-literature-2026"
 VERSION_NAME = "1.0.0"
 OUT_APK = os.path.join(BUILD, "EnglishLiterature_v%s.apk" % VERSION_NAME)
 
-AAPT2_JAR = os.path.join(DL, "aapt2.jar")
 ANDROID_JAR = os.path.join(DL, "android-all.jar")
 R8_JAR = os.path.join(DL, "r8.jar")
 APKSIG_JAR = os.path.join(DL, "apksig.jar")
+TOOLS_JAR = os.path.join(DL, "tools.jar")
 JDK_ZIP = os.path.join(DL, "jdk17.zip")
+
+IS_WINDOWS = os.name == "nt"
+EXE = ".exe" if IS_WINDOWS else ""
 
 
 def run(cmd):
@@ -55,36 +65,51 @@ def run(cmd):
 
 
 def ensure_jdk():
-    java = os.path.join(TOOLCHAIN, "jdk", "bin", "java.exe")
+    java = os.path.join(TOOLCHAIN, "jdk", "bin", "java" + EXE)
     if os.path.isfile(java):
         return os.path.join(TOOLCHAIN, "jdk")
     os.makedirs(TOOLCHAIN, exist_ok=True)
     print("Extracting JDK from %s ..." % JDK_ZIP)
     with zipfile.ZipFile(JDK_ZIP) as z:
         z.extractall(TOOLCHAIN)
-    homes = glob.glob(os.path.join(TOOLCHAIN, "*", "bin", "java.exe"))
+    homes = glob.glob(os.path.join(TOOLCHAIN, "*", "bin", "java" + EXE))
     if not homes:
         sys.exit("error: no bin/java.exe found after extracting " + JDK_ZIP)
     jdk = os.path.dirname(os.path.dirname(homes[0]))
-    if not os.path.isfile(os.path.join(TOOLCHAIN, "jdk", "bin", "java.exe")):
+    if not os.path.isfile(os.path.join(TOOLCHAIN, "jdk", "bin", "java" + EXE)):
         try:
             os.replace(jdk, os.path.join(TOOLCHAIN, "jdk"))
         except OSError:
             pass  # already normalized
-    jdk = os.path.join(TOOLCHAIN, "jdk")
-    return jdk
+    return os.path.join(TOOLCHAIN, "jdk")
 
 
 def ensure_aapt2():
-    exe = os.path.join(TOOLS, "aapt2.exe")
+    exe = os.path.join(TOOLS, "aapt2" + EXE)
     if os.path.isfile(exe):
+        if not IS_WINDOWS:
+            os.chmod(exe, 0o755)
         return exe
-    os.makedirs(TOOLS, exist_ok=True)
-    print("Extracting aapt2.exe from %s ..." % AAPT2_JAR)
-    with zipfile.ZipFile(AAPT2_JAR) as z:
-        with z.open("aapt2.exe") as src, open(exe, "wb") as dst:
-            shutil.copyfileobj(src, dst)
-    return exe
+    jar = os.path.join(DL, "aapt2.jar")
+    if os.path.isfile(jar):
+        os.makedirs(TOOLS, exist_ok=True)
+        print("Extracting aapt2 from %s ..." % jar)
+        with zipfile.ZipFile(jar) as z:
+            member = "aapt2.exe" if IS_WINDOWS else "aapt2"
+            with z.open(member) as src, open(exe, "wb") as dst:
+                shutil.copyfileobj(src, dst)
+        return exe
+    sys.exit("error: no aapt2 binary at %s (run tools/fetch_toolchain.py)" % exe)
+
+
+def javac_cmd(java, jdk):
+    """Prefer a real javac binary; fall back to javac inside tools.jar."""
+    exe = os.path.join(jdk, "bin", "javac" + EXE)
+    if os.path.isfile(exe):
+        return [exe]
+    if os.path.isfile(TOOLS_JAR):
+        return [java, "-cp", TOOLS_JAR, "com.sun.tools.javac.Main"]
+    sys.exit("error: neither javac nor %s is available" % TOOLS_JAR)
 
 
 def ensure_keystore(keytool):
@@ -140,15 +165,15 @@ def check_alignment(path):
 
 
 def main():
-    for needed in (AAPT2_JAR, ANDROID_JAR, R8_JAR, APKSIG_JAR, JDK_ZIP):
+    skip_sign_check = "--skip-sign-check" in sys.argv
+    for needed in (ANDROID_JAR, R8_JAR, APKSIG_JAR):
         if not os.path.isfile(needed):
-            sys.exit("error: missing toolchain file %s" % needed)
+            sys.exit("error: missing toolchain file %s (run tools/fetch_toolchain.py)" % needed)
 
     jdk = ensure_jdk()
-    java = os.path.join(jdk, "bin", "java.exe")
-    javac = os.path.join(jdk, "bin", "javac.exe")
-    jar = os.path.join(jdk, "bin", "jar.exe")
-    keytool = os.path.join(jdk, "bin", "keytool.exe")
+    java = os.path.join(jdk, "bin", "java" + EXE)
+    javac = javac_cmd(java, jdk)
+    keytool = os.path.join(jdk, "bin", "keytool" + EXE)
     aapt2 = ensure_aapt2()
 
     if os.path.isdir(BUILD):
@@ -178,12 +203,17 @@ def main():
     with open(sources_file, "w", encoding="utf-8") as f:
         for s in sorted(sources):
             f.write(s + "\n")
-    run([javac, "-encoding", "UTF-8", "--release", "8",
-         "-cp", ANDROID_JAR, "-d", CLASSES, "@" + sources_file])
+    javac_extra = ["-source", "8", "-target", "8", "-bootclasspath", ANDROID_JAR] \
+        if len(javac) > 1 else ["--release", "8", "-cp", ANDROID_JAR]
+    run(javac + ["-encoding", "UTF-8"] + javac_extra + ["-d", CLASSES, "@" + sources_file])
 
     # 3. Dex with D8.
     classes_jar = os.path.join(BUILD, "classes.jar")
-    run([jar, "cf", classes_jar, "-C", CLASSES, "."])
+    with zipfile.ZipFile(classes_jar, "w", zipfile.ZIP_DEFLATED) as jar_zip:
+        for root, _, files in os.walk(CLASSES):
+            for f in files:
+                full = os.path.join(root, f)
+                jar_zip.write(full, os.path.relpath(full, CLASSES))
     os.makedirs(DEX)
     run([java, "-cp", R8_JAR, "com.android.tools.r8.D8",
          "--release", "--min-api", "24", "--lib", ANDROID_JAR,
@@ -197,19 +227,17 @@ def main():
     repack(unsigned, aligned, {"classes.dex": dex_bytes})
     check_alignment(aligned)
 
-    # 5. Sign (v1 + v2 + v3) with apksig.
-    signer_classes = os.path.join(BUILD, "signer")
-    os.makedirs(signer_classes)
-    run([javac, "-encoding", "UTF-8", "--release", "8", "-cp", APKSIG_JAR,
-         "-d", signer_classes, os.path.join(ROOT, "tools", "SignApk.java")])
-    run([java, "-cp", APKSIG_JAR + os.pathsep + signer_classes, "SignApk",
-         aligned, OUT_APK, KEYSTORE, KEY_ALIAS, KEY_PASS])
+    # 5. Sign (v1 + v2 + v3) with apksig's own CLI.
+    run([java, "-jar", APKSIG_JAR, "sign",
+         "--ks", KEYSTORE, "--ks-key-alias", KEY_ALIAS,
+         "--ks-pass", "pass:" + KEY_PASS, "--key-pass", "pass:" + KEY_PASS,
+         "--min-sdk-version", "24", "--v1-signing-enabled", "true",
+         "--v2-signing-enabled", "true", "--v3-signing-enabled", "true",
+         "--out", OUT_APK, aligned])
 
     # 6. Verify signature and APK metadata.
-    run([javac, "-encoding", "UTF-8", "--release", "8", "-cp", APKSIG_JAR,
-         "-d", signer_classes, os.path.join(ROOT, "tools", "VerifyApk.java")])
-    run([java, "-cp", APKSIG_JAR + os.pathsep + signer_classes,
-         "VerifyApk", OUT_APK])
+    if not skip_sign_check:
+        run([java, "-jar", APKSIG_JAR, "verify", "--min-sdk-version", "24", OUT_APK])
 
     badging = subprocess.run(
         [aapt2, "dump", "badging", OUT_APK],

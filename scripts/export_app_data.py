@@ -6,7 +6,10 @@ The master database remains the single source of truth; re-run this script
 after any installment to refresh the app data.
 """
 
+import datetime
 import json
+import os
+import re
 import sys
 import unicodedata
 from pathlib import Path
@@ -69,6 +72,23 @@ def fold(value):
     return text.replace("\u00fe", "th").replace("\u00f0", "th").strip()
 
 
+def installment_range():
+    """Span of the installments whose works are present, e.g. "1-9"."""
+    nums = sorted({int(m.group(1)) for p in (PROJECT_ROOT / "data" / "works").glob("installment_*")
+                   for m in [re.match(r"installment_(\d+)_", p.name)] if m})
+    if not nums:
+        return ""
+    return str(nums[0]) if nums[0] == nums[-1] else "%d-%d" % (nums[0], nums[-1])
+
+
+def generated_date():
+    """Build date; honours SOURCE_DATE_EPOCH for reproducible output."""
+    epoch = os.environ.get("SOURCE_DATE_EPOCH")
+    if epoch:
+        return datetime.datetime.fromtimestamp(int(epoch), datetime.timezone.utc).date().isoformat()
+    return datetime.date.today().isoformat()
+
+
 def author_dates(record):
     parts = []
     for field in ("birth_date", "death_date"):
@@ -84,6 +104,22 @@ def work_dates(record):
     if start and end and start != end:
         return f"{start} \u2013 {end}"
     return str(start or end or "")
+
+
+def linked_ids(session, table, id_column, id_value):
+    """Ids linked to one owner through a two-column link table.
+
+    Every link table holds the owner (``work_id`` or ``author_id``) and the
+    target (``genre_id``, ``influenced_by_author_id`` ...); this returns the
+    target column. Until 2026-11-06 the export took the first column, which is
+    the owner's own id, so each work and author was exported with whatever
+    genre, theme, movement or source happened to share its id (or with none),
+    and every author as influenced by himself.
+    """
+    (target,) = [c for c in table.c if c.name != id_column]
+    return [r[0] for r in session.execute(
+        table.select().with_only_columns(target).where(table.c[id_column] == id_value)
+    ).fetchall()]
 
 
 def main() -> int:
@@ -116,9 +152,7 @@ def main() -> int:
             return sorted({index[r] for r in rows if r in index})
 
         def link_rows(table, id_column, id_value):
-            return [r[0] for r in session.execute(
-                table.select().where(table.c[id_column] == id_value)
-            ).fetchall()]
+            return linked_ids(session, table, id_column, id_value)
 
         # work -> linked author rows
         work_authors = session.query(WorkAuthor).all()
@@ -215,6 +249,7 @@ def main() -> int:
                 "style": author.stylistic_characteristics or "",
                 "concerns": author.intellectual_concerns or "",
                 "significance": author.historical_significance or "",
+                "tier": author.significance_tier or "",
                 "uncertainty": author.biographical_uncertainty or "",
                 "genres": names(
                     link_rows(author_genres, "author_id", author.author_id), genre_of
@@ -242,8 +277,8 @@ def main() -> int:
         work_payloads.sort(key=lambda w: fold(w["title"]))
 
         payload = {
-            "generated": "2026-11-03",
-            "installments": "1-2",
+            "generated": generated_date(),
+            "installments": installment_range(),
             "counts": {
                 "authors": len(author_payloads),
                 "works": len(work_payloads),

@@ -37,6 +37,10 @@ public final class AuthorDetailActivity extends Activity {
         name.setText(author.name);
         meta.setText(Ui.joinMeta(author.dates, author.nationality, author.identity));
 
+        String tierLabel = Library.tierLabel(author.tier);
+        if (!tierLabel.isEmpty()) {
+            chips.addView(Ui.chip(this, tierLabel, true));
+        }
         for (String g : author.genres) chips.addView(Ui.chip(this, g, false));
         for (String m : author.movements) chips.addView(Ui.chip(this, m, true));
 
@@ -45,6 +49,12 @@ public final class AuthorDetailActivity extends Activity {
         addSection(content, "Style", author.style);
         addSection(content, "Intellectual Concerns", author.concerns);
         addSection(content, "Historical Significance", author.significance);
+        if (!author.tier.isEmpty()) {
+            addSection(content, "Canonical Standing",
+                    author.tier + ". Assigned from documented reception, not from"
+                            + " personal preference; ungraded authors are those the"
+                            + " research has not yet classified.");
+        }
         if (!author.uncertainty.isEmpty()) {
             addSection(content, "Biographical Uncertainty", author.uncertainty);
         }

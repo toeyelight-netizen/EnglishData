@@ -10,4 +10,6 @@
     <string name="empty_subtitle">Try a different name, title, or keyword</string>
     <string name="browse_hint">Browse the library or type to search</string>
     <string name="anonymous">anonymous</string>
+    <string name="filter_canon">Canon</string>
+    <string name="filter_empty">No graded authors at this level yet</string>
 </resources>

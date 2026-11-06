@@ -40,6 +40,10 @@ class Work(Base):
     manuscript_locations = Column(Text)  # JSON list
     canonical_status = Column(String(32))
     research_notes = Column(Text)
+    # Installment 10 onwards (migration f5a6b7c8d9e0); NULL = not assessed.
+    thematic_analysis = Column(Text)
+    critical_context = Column(Text)
+    verification_status = Column(String(32))
     research_status = Column(String(32), default="complete")
     created_at = Column(DateTime, server_default=func.now())
     updated_at = Column(DateTime, server_default=func.now(), onupdate=func.now())

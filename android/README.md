@@ -2,7 +2,7 @@
 
 A fast, offline Android app for browsing and searching the English Literature
 Database (c. 450–2000). Built entirely with the Android framework (Java 8) —
-no AndroidX, no Kotlin, no external libraries — so the APK is small (≈2.4 MB)
+no AndroidX, no Kotlin, no external libraries — so the APK is small (≈3.7 MB)
 and starts instantly.
 
 ## Features
@@ -10,10 +10,22 @@ and starts instantly.
 - **Search bar** — search authors or their works; diacritic-insensitive, so
   `caedmon` finds *Cædmon* and `meihhad` finds *Hali Meiðhad*. Results are
   ranked (exact > prefix > contains) and appear as you type.
-- **Browse** — clear the search to browse all 67 authors and 260 works,
-  grouped by section.
+- **Browse** — clear the search to browse all 579 authors and 2226 works,
+  grouped by section. Installment 8 (Victorian and American nineteenth
+  century, 1832-1901) contributes 161 authors and 771 works, including the
+  whole British Victorian canon and the American strand from Emerson to
+  Edith Wharton.
+- **Canon filter** — a `Canon` spinner above the list narrows the library to
+  authors at or above a significance tier: **Major** (45 authors, 287 works),
+  **Significant** (106 / 564), **Minor** (157 / 756) or **Neglected**
+  (161 / 771), plus **All** (579 / 2226). Each level is a floor, not a single
+  tier, so Major is nested inside Significant and so on; the filter applies to
+  search as well as browse, and the header shows the live counts ("45 authors
+  · 287 works · Major and above"). Ungraded authors appear only under **All**.
+  The database grades 161 of 579 authors — the whole of installment 8 — so the
+  filter is most useful on Victorian material.
 - **Author pages** — biography, literary profile, style, themes, movements,
-  sources, and the author's works.
+  sources, the author's works, and a standing badge when the author is graded.
 - **Work pages** — summary, plot, characters, structure, meter, editions,
   sources, and tappable author links.
 - **Splash screen** — medieval-fantasy logo and the credit

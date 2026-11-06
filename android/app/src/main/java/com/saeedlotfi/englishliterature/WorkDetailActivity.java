@@ -39,6 +39,11 @@ public final class WorkDetailActivity extends Activity {
         String by = Work.joinNames(w.authors);
         meta.setText(Ui.joinMeta(by.isEmpty() ? "" : "By " + by, w.period, w.dates));
 
+        String authorTier = Library.get().workTier(w.id);
+        String standing = Library.tierLabel(authorTier);
+        if (!standing.isEmpty()) {
+            chips.addView(Ui.chip(this, standing, true));
+        }
         for (String g : w.genres) chips.addView(Ui.chip(this, g, false));
         for (String m : w.movements) chips.addView(Ui.chip(this, m, true));
 
