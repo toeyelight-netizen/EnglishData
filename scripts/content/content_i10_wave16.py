@@ -388,6 +388,194 @@ A10(CA, MAJ, "1930", "2013", "Ogidi, Anambra, colonial Nigeria",
   ver="partially verified", sources=[W_CA, W_CP], alt=["Albert Chinualumogu Achebe"]),
 ]
 
+VSN = "V. S. Naipaul"
+WS = "Wole Soyinka"
+CC = "Caryl Churchill"
+SH = "Seamus Heaney"
+W_VSN = "V. S. Naipaul (Wikipedia)"
+W_WS = "Wole Soyinka (Wikipedia)"
+W_CC = "Caryl Churchill (Wikipedia)"
+W_TG_PLAY = "Top Girls (Wikipedia)"
+W_SH = "Seamus Heaney (Wikipedia)"
+SH_WORKS = "Seamus Heaney: Works (Ricorso bibliography)"
+SH_READ = "Seamus Heaney's principal poems (reading site, irisharoundtheworld)"
+SH_HR = "100 Poems by Seamus Heaney (Harvard Review)"
+NAIP_PR = "Displacing the Displacement Novel: V. S. Naipaul's In a Free State (Neel Mukherjee, The Paris Review)"
+SOY_LH = "On Wole Soyinka's Death and the King's Horseman (David Damrosch, Literary Hub)"
+CLEAR_READ = "Seamus Heaney, 'Clearances' (reading site, fawbie.info)"
+NYRB_HAW = "Second Thoughts (New York Review of Books, on Heaney's The Haw Lantern)"
+
+AUTHORS += [
+A10(VSN, MAJ, "1932", "2018", "Chaguanas, Trinidad",
+  "Trinidadian-born British; novelist, travel writer and essayist writing in English",
+  "Trinidadian-born Nobel laureate whose novels of Trinidad, Africa, India and England, from A House for Mr Biswas to "
+  "The Enigma of Arrival, and whose travel books made him the century's most exact and most contested chronicler of "
+  "displacement",
+  "Vidiadhar Surajprasad Naipaul was born on 17 August 1932 in Chaguanas, Trinidad, into a family of Indian "
+  "brahmin descent; his father, Seepersad Naipaul, was a journalist and short-story writer, and the household's "
+  "poverty and his father's ambitions are the matter of the early books. He won a scholarship to Queen's Royal "
+  "College in Port of Spain and another, in 1950, to University College, Oxford, where he read English; he "
+  "graduated in 1953 and lived in London from 1954, writing for the BBC Caribbean Service and reviewing. His first "
+  "three novels, The Mystic Masseur (1957), The Suffrage of Elvira (1958) and Miguel Street (1959), were comedies "
+  "of Trinidadian life; A House for Mr Biswas (1961) made his name. A visit to India in 1962 produced An Area of "
+  "Darkness (1964), the first of the travel books that include The Middle Passage (1962), The Loss of El Dorado "
+  "(1969), India: A Wounded Civilization (1977), Among the Believers (1981), Finding the Centre (1984), The "
+  "Enigma of Arrival (1987), India: A Million Mutinies Now (1990) and Beyond Belief (1998). His later novels "
+  "include The Mimic Men (1967), In a Free State (1971, Booker Prize), Guerrillas (1975), A Bend in the River "
+  "(1979), The Enigma of Arrival, A Way in the World (1994), Half a Life (2001) and Magic Seeds (2004). He was "
+  "knighted in 1990, received the Nobel Prize in Literature in 2001 and died in London on 11 August 2018.",
+  "Novels: The Mystic Masseur (1957), The Suffrage of Elvira (1958), Miguel Street (1959), A House for Mr Biswas "
+  "(1961), Mr Stone and the Knights Companion (1963), The Mimic Men (1967), In a Free State (1971), Guerrillas "
+  "(1975), A Bend in the River (1979), The Enigma of Arrival (1987), A Way in the World (1994), Half a Life (2001) "
+  "and Magic Seeds (2004). Travel and essays: The Middle Passage (1962), An Area of Darkness (1964), The Loss of "
+  "El Dorado (1969), India: A Wounded Civilization (1977), Among the Believers (1981), Finding the Centre (1984), "
+  "A Turn in the South (1989), India: A Million Mutinies Now (1990), Beyond Belief (1998) and The Writer and the "
+  "World (2003).",
+  "A precise, unhurried, declarative prose, with a journalist's eye for the revealing detail and a satirist's ear "
+  "for Trinidadian speech; the travel books combine reportage, memoir and portrait; the later novels replace plot "
+  "with meditation and the essayistic sequence, and the sentence grows longer and more qualified as the books "
+  "proceed.",
+  "Displacement and the search for a home (Mr Biswas's house, the narrator of The Enigma of Arrival); the "
+  "colonial aftermath in Trinidad, Africa and India; the fragility of newly independent states and the "
+  "predicament of the mimic man; the writer's exile and the immigrant's self-invention; order, dignity and the "
+  "small decencies against disorder.",
+  "One of the two or three most important novelists in English of the postwar period, and the most influential "
+  "travel writer in the language; his work is central to postcolonial criticism, both as its subject and as its "
+  "provocation, and the Nobel citation praised his 'incorruptible scrutiny' and his 'uncompromising scrutiny of "
+  "the effects of colonialism'.",
+  bib_status="incomplete",
+  bib_note="The books are listed from Wikipedia's article and general knowledge, in order of first publication; only "
+           "the Norton selection, 'One Out of Many' (in In a Free State, 1971), has a work record, so the "
+           "bibliography is incomplete. The travel books and later novels have no records, and the dates of first "
+           "publication were not checked title by title against a bibliography.",
+  ver="partially verified", sources=[W_VSN, NAIP_PR]),
+A10(WS, MAJ, "1934", None, "Abeokuta, British Nigeria",
+  "Nigerian; playwright, poet, novelist and essayist, writing in English with Yoruba and Nigerian idiom, resident "
+  "for long periods in Britain and the United States",
+  "Nigerian playwright and Nobel laureate whose plays, from A Dance of the Forests to Death and the King's Horseman "
+  "and The Road, fuse Yoruba ritual, myth and masquerade with the forms of European drama",
+  "Akinwande Oluwole Soyinka was born on 13 July 1934 in Abeokuta, in western Nigeria, the son of Samuel Ayodele "
+  "Soyinka, a schoolteacher and Anglican, and Grace Eniola Soyinka, a trader and activist in the women's movement "
+  "of Abeokuta; he grew up in the mission compound of Aké, which he later described in Aké: The Years of Childhood "
+  "(1981). He attended Government College, Ibadan, and University College, Ibadan, and in 1954 went to the "
+  "University of Leeds, where he took a degree in English and wrote a thesis on the drama of the absurd. He "
+  "returned to Nigeria in 1960 and founded the 1960 Masks and then the Orisun Theatre, writing and directing plays "
+  "that drew on Yoruba masquerade and ritual; his early plays include The Swamp Dwellers (1958), The Lion and the "
+  "Jewel (1959), A Dance of the Forests (1960, for the independence celebrations), The Strong Breed (1964), The "
+  "Road (1965) and Kongi's Harvest (1967). During the Nigerian Civil War he was arrested and held in solitary "
+  "confinement for nearly two years (1967-1969), an experience recorded in The Man Died (1972). Later plays "
+  "include Madmen and Specialists (1971), Death and the King's Horseman (1975), Opera Wonyosi (1981), A Play of "
+  "Giants (1984), and The Beatification of Area Boy (1995); his novels are The Interpreters (1965), Season of Anomy "
+  "(1973) and Chronicles from the Land of the Happiest People on Earth (2021). He was awarded the Nobel Prize in "
+  "Literature in 1986, the first African writer to receive it, and he has taught at Cambridge, Yale, Emory and "
+  "Oxford.",
+  "Plays: The Swamp Dwellers (1958), The Lion and the Jewel (1959), A Dance of the Forests (1960), The Strong Breed "
+  "(1964), The Road (1965), Kongi's Harvest (1967), Madmen and Specialists (1971), Death and the King's Horseman "
+  "(1975), Opera Wonyosi (1981), A Play of Giants (1984) and The Beatification of Area Boy (1995). Novels: The "
+  "Interpreters (1965), Season of Anomy (1973) and Chronicles from the Land of the Happiest People on Earth "
+  "(2021). Poetry: Idanre and Other Poems (1967), A Shuttle in the Crypt (1972), Ogun Abibiman (1976), Mandela's "
+  "Earth (1988) and Samarkand (1990). Memoirs and essays: The Man Died (1972), Myth, Literature and the African "
+  "World (1976), Aké (1981), Art, Dialogue and Outrage (1988) and You Must Set Forth at Dawn (2006).",
+  "A theatre of total performance in which Yoruba ritual, drumming, dance, masquerade and the language of the "
+  "market are set against the conventions of the European stage; a dense, punning, rhetorical English, often "
+  "drawing on Yoruba proverbs and idiom; satire and farce alongside tragedy; plays built on processions, "
+  "interruptions and the eruption of the supernatural into everyday life.",
+  "The encounter of Yoruba traditional religion and culture with colonialism, Christianity and modernity; ritual "
+  "sacrifice and the burden of the past (Death and the King's Horseman); political corruption and dictatorship "
+  "in post-independence Africa (Kongi's Harvest, Madmen and Specialists); the artist's and the individual's "
+  "relation to the community; memory, tyranny and exile.",
+  "The central figure of modern African drama in English, the first African Nobel laureate in literature, and a "
+  "writer whose work joined African performance traditions to world theatre; Death and the King's Horseman is "
+  "regarded as his masterpiece and as one of the great plays of the twentieth century.",
+  bib_status="incomplete",
+  bib_note="Plays, novels, poems and memoirs are listed from Wikipedia's article and general knowledge; only the "
+           "Norton selection, Death and the King's Horseman (1975), has a work record, so the bibliography is "
+           "incomplete. The dates of the earlier plays are those of first performance rather than publication and "
+           "were not checked against a bibliography.",
+  ver="partially verified", sources=[W_WS, SOY_LH]),
+A10(CC, MAJ, "1938", None, "Finsbury, London, England",
+  "English; playwright, writing in English",
+  "English playwright whose formally inventive plays, from Cloud 9 and Top Girls to Serious Money and Far Away, "
+  "made her the most innovative political dramatist of the postwar British stage",
+  "Caryl Lesley Churchill was born on 3 September 1938 in Finsbury, London, and grew up in Montreal and in "
+  "Oxfordshire, where her family moved during the war. She read English at Lady Margaret Hall, Oxford, where she "
+  "wrote two plays produced by student societies, and married David Harter in 1961, with whom she had three sons. "
+  "Her first professional work was for radio, and her stage plays of the 1970s - Owners (1972), Objections to Sex "
+  "and Violence (1976), Light Shining in Buckinghamshire (1976) and Vinegar Tom (1976) - were written for the "
+  "fringe and for the Royal Court, the last two in collaboration with the feminist theatre company Monstrous "
+  "Regiment. Cloud 9 (1979) and Top Girls (1982) made her reputation; they were followed by Fen (1983), Serious "
+  "Money (1987, a satire in rhyming couplets on the City of London), Icecream (1989), The Skriker (1994), Blue "
+  "Heart (1997), Far Away (2000), A Number (2002), Drunk Enough to Say I Love You? (2006), Seven Jewish Children "
+  "(2009), Love and Information (2012), Here We Go (2015), Escaped Alone (2016) and What If If Only (2021). She "
+  "has worked throughout with the director Max Stafford-Clark and with the Royal Court, and her plays are "
+  "characterised by non-naturalistic devices: overlapping dialogue, doubling, time-shifts and abrupt shifts of "
+  "register.",
+  "Plays: Owners (1972), Objections to Sex and Violence (1976), Light Shining in Buckinghamshire (1976), Vinegar "
+  "Tom (1976), Cloud 9 (1979), Top Girls (1982), Fen (1983), Softcops (1984), Serious Money (1987), Icecream "
+  "(1989), Mad Forest (1990), The Skriker (1994), Blue Heart (1997), Far Away (2000), A Number (2002), Drunk "
+  "Enough to Say I Love You? (2006), Seven Jewish Children (2009), Love and Information (2012), Here We Go "
+  "(2015), Escaped Alone (2016) and What If If Only (2021).",
+  "Non-naturalistic structure: overlapping dialogue, scenes played simultaneously, characters doubled and "
+  "cross-cast, time-schemes that collide (Cloud 9 moves from Victorian Africa to 1979 London with the same "
+  "characters aged by only twenty-five years); verse and rhyming couplets in Serious Money; short, elliptical "
+  "scenes and abrupt reversals; language pared down to fragments in the late plays.",
+  "The abuses of power, political and sexual (Top Girls, Serious Money); sexual politics and the construction of "
+  "gender (Cloud 9, Vinegar Tom); women's history and the cost of success; Thatcherism, the City and the "
+  "market (Top Girls, Serious Money); war, torture and complicity (Far Away, Seven Jewish Children); the fragility "
+  "of language and of the family (A Number, Escaped Alone).",
+  "The most important British playwright of her generation and, in the 2011 Village Voice poll of dramatists, the "
+  "greatest living playwright; her formal inventions changed the possibilities of political theatre in Britain, "
+  "and Top Girls and Cloud 9 are among the most frequently revived plays of the postwar repertoire.",
+  bib_status="incomplete",
+  bib_note="The plays are listed from Wikipedia's article and general knowledge; only the Norton selection, Top "
+           "Girls (1982), has a work record, so the bibliography is incomplete. Dates are those of first "
+           "production, which for Churchill's plays is usually the significant date, and were not checked one by "
+           "one against a bibliography.",
+  ver="partially verified", sources=[W_CC, W_TG_PLAY]),
+A10(SH, MAJ, "1939", "2013", "Tamniaran, near Castledawson, County Londonderry, Northern Ireland",
+  "Irish; poet, translator and playwright, resident in Dublin from 1976, writing in English",
+  "Irish poet and Nobel laureate whose poems of the Mossbawn farm, the Troubles and the ordinary world, from Death "
+  "of a Naturalist to Human Chain, made him the most widely read poet in English of his time",
+  "Seamus Justin Heaney was born on 13 April 1939 at Mossbawn, the family farm in the townland of Tamniaran near "
+  "Castledawson, County Londonderry, the eldest of the nine children of Patrick Heaney, a cattle dealer, and "
+  "Margaret Kathleen McCann. The family moved to Bellaghy when he was a boy. He was educated at the local primary "
+  "school and at St Columb's College in Derry, then read English at Queen's University Belfast, graduating in "
+  "1961; he trained as a teacher and lectured at St Joseph's College in Belfast and at Queen's, where he "
+  "encountered the poetry of Ted Hughes and began to publish. Death of a Naturalist (1966) made his name, and was "
+  "followed by Door into the Dark (1969), Wintering Out (1972), North (1975), Field Work (1979), Station Island "
+  "(1984), The Haw Lantern (1987), Seeing Things (1991), The Spirit Level (1996), Electric Light (2001), District "
+  "and Circle (2006) and Human Chain (2010), with the translations of Sweeney Astray (1983), The Cure at Troy "
+  "(1990), Beowulf (1999) and Aeneid VI (2016). He moved to Dublin in 1976 and taught at Harvard from 1981 and at "
+  "Oxford as Professor of Poetry from 1989 to 1994. He received the Nobel Prize in Literature in 1995 and died in "
+  "Dublin on 30 August 2013.",
+  "Poetry: Death of a Naturalist (1966), Door into the Dark (1969), Wintering Out (1972), North (1975), Field Work "
+  "(1979), Station Island (1984), The Haw Lantern (1987), Seeing Things (1991), The Spirit Level (1996), Electric "
+  "Light (2001), District and Circle (2006) and Human Chain (2010); Opened Ground: Selected Poems 1966-1996 "
+  "(1998). Translations: Sweeney Astray (1983), The Cure at Troy (1990), Beowulf (1999) and Aeneid VI (2016). "
+  "Plays: The Cure at Troy and The Burial at Thebes (2004). Essays: Preoccupations (1980), The Government of the "
+  "Tongue (1988) and Finders Keepers (2002).",
+  "A poetry of the senses and of the soil, with a strong stress metre and a rich consonantal music; exact "
+  "description of farm work, bogland and weather; the sonnet sequences and the longer meditative poems; a "
+  "diction that holds Latinate abstraction and Ulster dialect together; the translations, especially Beowulf, "
+  "carry the same muscular line.",
+  "The labour and inheritance of the family farm (Digging, Follower); the Troubles and the poet's responsibility "
+  "in the face of violence (North, Punishment, Casualty); the bog bodies and the archaeology of the past; place, "
+  "soil and the names of places; the ordinary epiphanies of the later poems; memory, the dead and the "
+  "consolations of the everyday.",
+  "The best-known and most widely read poet in English of the late twentieth century, praised by Robert Lowell as "
+  "'the most important Irish poet since Yeats'; his Nobel Prize in 1995 recognised a body of work that entered "
+  "school syllabuses and public life without losing its formal ambition, and his death was treated as a national "
+  "event in Ireland.",
+  bib_status="incomplete",
+  bib_note="The collections are listed from Wikipedia, the Ricorso bibliography and general knowledge, with the "
+           "contents of Death of a Naturalist (1966), North (1975), Field Work (1979) and Station Island (1984) "
+           "checked against the Ricorso listing. Installment 10 records only the six dated Norton selections "
+           "('Digging', 1966; 'The Grauballe Man' and 'Punishment', 1975; 'Casualty', 1979; station Island XII, "
+           "1984; 'Clearances', 1987); the bibliography is therefore incomplete, and the translations and prose "
+           "have no records.",
+  ver="partially verified", sources=[W_SH, SH_WORKS]),
+]
+
 WORKS = [
 W10("Epilogue", GN, "1983", "Poem (four short lines)", "minor",
   genres=G("Lyric Poetry", "Political Poetry"),
