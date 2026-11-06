@@ -594,6 +594,36 @@
    "work": "Clearances",
    "author": "Seamus Heaney",
    "contribution_type": "author"
+  },
+  {
+   "work": "Morse",
+   "author": "Les Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Corniche",
+   "author": "Les Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Drowned World",
+   "author": "J. G. Ballard",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Looking for a Rain God",
+   "author": "Bessie Head",
+   "contribution_type": "author"
+  },
+  {
+   "work": "What the Tapster Saw",
+   "author": "Ben Okri",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The God of Small Things",
+   "author": "Arundhati Roy",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1448,6 +1478,51 @@
    "genres": [
     "Elegiac Poetry",
     "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Morse",
+   "genres": [
+    "Lyric Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "Corniche",
+   "genres": [
+    "Lyric Poetry",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "The Drowned World",
+   "genres": [
+    "Science Fiction",
+    "Apocalyptic Fiction",
+    "Post-Apocalyptic Fiction"
+   ]
+  },
+  {
+   "work": "Looking for a Rain God",
+   "genres": [
+    "Short Story",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "What the Tapster Saw",
+   "genres": [
+    "Short Story",
+    "Experimental Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "The God of Small Things",
+   "genres": [
+    "Literary Novel",
+    "Historical Novel",
+    "Family Saga"
    ]
   }
  ],
@@ -2395,6 +2470,54 @@
     "Family, marriage and domestic life",
     "Memory, trauma and testimony"
    ]
+  },
+  {
+   "work": "Morse",
+   "themes": [
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Corniche",
+   "themes": [
+    "Death, illness and mourning",
+    "Madness, breakdown and confinement",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Drowned World",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Alienation, absurdity and existential freedom",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "Looking for a Rain God",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "What the Tapster Saw",
+   "themes": [
+    "Power, the state and surveillance",
+    "Nature, ecology and environmental crisis",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "The God of Small Things",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Childhood, adolescence and coming of age"
+   ]
   }
  ],
  "work_movements": [
@@ -2931,6 +3054,50 @@
    "movements": [
     "Northern Irish Poetry and the Belfast Group"
    ]
+  },
+  {
+   "work": "Morse",
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Corniche",
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Drowned World",
+   "movements": [
+    "New Wave Science Fiction",
+    "Contemporary Gothic"
+   ]
+  },
+  {
+   "work": "Looking for a Rain God",
+   "movements": [
+    "African Literature in English",
+    "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "work": "What the Tapster Saw",
+   "movements": [
+    "African Literature in English",
+    "Magical Realism in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The God of Small Things",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature",
+    "Magical Realism in English"
+   ]
   }
  ],
  "work_periods": [
@@ -3055,7 +3222,13 @@
     "Punishment",
     "Casualty",
     "Station Island",
-    "Clearances"
+    "Clearances",
+    "Morse",
+    "Corniche",
+    "The Drowned World",
+    "Looking for a Rain God",
+    "What the Tapster Saw",
+    "The God of Small Things"
    ]
   }
  ]

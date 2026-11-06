@@ -17,6 +17,29 @@
    ]
   },
   {
+   "author": "Arundhati Roy",
+   "genres": [
+    "Family Saga",
+    "Historical Novel",
+    "Literary Novel"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "genres": [
+    "Experimental Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "genres": [
+    "Regional Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Caryl Churchill",
    "genres": [
     "Modern Tragicomedy",
@@ -108,6 +131,14 @@
    ]
   },
   {
+   "author": "J. G. Ballard",
+   "genres": [
+    "Apocalyptic Fiction",
+    "Post-Apocalyptic Fiction",
+    "Science Fiction"
+   ]
+  },
+  {
    "author": "Jean Rhys",
    "genres": [
     "Short Story"
@@ -122,6 +153,14 @@
     "Political Poetry",
     "Postcolonial Criticism",
     "Visual Poetry"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "genres": [
+    "Confessional Poetry",
+    "Experimental Poetry",
+    "Lyric Poetry"
    ]
   },
   {
@@ -326,6 +365,29 @@
    ]
   },
   {
+   "author": "Arundhati Roy",
+   "movements": [
+    "Magical Realism in English",
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "movements": [
+    "African Literature in English",
+    "Magical Realism in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "movements": [
+    "African Literature in English",
+    "South African Writing under Apartheid"
+   ]
+  },
+  {
    "author": "Caryl Churchill",
    "movements": [
     "Political Theatre and the Fringe",
@@ -381,6 +443,13 @@
    ]
   },
   {
+   "author": "J. G. Ballard",
+   "movements": [
+    "Contemporary Gothic",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
    "author": "Jean Rhys",
    "movements": [
     "Caribbean Literature in English",
@@ -393,6 +462,13 @@
     "Caribbean Literature in English",
     "Postcolonial Literature",
     "Postcolonial Theory"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
    ]
   },
   {
@@ -524,6 +600,30 @@
    ]
   },
   {
+   "author": "Arundhati Roy",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
    "author": "Caryl Churchill",
    "themes": [
     "Class, labour and social mobility",
@@ -627,6 +727,14 @@
    ]
   },
   {
+   "author": "J. G. Ballard",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Nature, ecology and environmental crisis",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
    "author": "Jean Rhys",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -646,6 +754,17 @@
     "Land, place and regional belonging",
     "Language, writing and the limits of representation",
     "Nationhood and national identity",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
     "Technology, media and consumer society"
    ]
   },
@@ -1144,6 +1263,43 @@
     "The Life of Samuel Johnson, 6 volumes (Birkbeck Hill edition)",
     "The Shield of Achilles (Wikipedia)",
     "Weight of the Word, Weight of the World (Poetry Foundation, on Geoffrey Hill)"
+   ]
+  },
+  {
+   "author": "Les Murray",
+   "sources": [
+    "Albert Murray obituary (The Guardian, 23 August 2013)",
+    "Les Murray (poet) (Wikipedia)",
+    "Les Murray, Collected Poems (contents listing, readfrom.net)",
+    "Peter Goldsworthy reviews Les Murray's Collected Poems (Australian Book Review)"
+   ]
+  },
+  {
+   "author": "J. G. Ballard",
+   "sources": [
+    "J. G. Ballard (Wikipedia)",
+    "The Drowned World (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Bessie Head",
+   "sources": [
+    "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
+    "Bessie Head (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Ben Okri",
+   "sources": [
+    "Ben Okri (Wikipedia)",
+    "Ben Okri's 'What the Tapster Saw' (Niger Delta Black Gold Blues, University of Southern California)",
+    "Ben Okri, 'What the Tapster Saw' (reading notes, Scalar)"
+   ]
+  },
+  {
+   "author": "Arundhati Roy",
+   "sources": [
+    "Arundhati Roy (Wikipedia)"
    ]
   }
  ]

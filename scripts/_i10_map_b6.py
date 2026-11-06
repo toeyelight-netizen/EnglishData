@@ -80,4 +80,8 @@ MAP_B6 = {
         ['Elegiac Poetry', 'Lyric Poetry'],
         ['Death, illness and mourning', 'Family, marriage and domestic life', 'Memory, trauma and testimony'],
         ['Northern Irish Poetry and the Belfast Group']),
+    'Morse': (['Les Murray'],
+        ['Lyric Poetry', 'Experimental Poetry'],
+        ['Land, place and regional belonging', 'Language, writing and the limits of representation', 'Technology, media and consumer society'],
+        ['Indigenous Writing in Australia, Canada and New Zealand', 'Postcolonial Literature']),
 }

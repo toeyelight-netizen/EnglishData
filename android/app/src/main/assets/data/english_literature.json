@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 872,
-  "works": 2963
+  "authors": 877,
+  "works": 2969
  },
  "periods": [
   {
@@ -828,6 +828,7 @@
  "sources": [
   "'I came to poetry through politics': Linton Kwesi Johnson's Other Lives (Presses universitaires de la Méditerranée)",
   "'I know the world by how I speak the world': TikTok ABCs, Disaster Language, and Andrew Salkey's Hurricane (Archipelagos)",
+  "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
   "'Lyrical Ballads,' and Other Poems, 1797-1800",
   "'Sad Steps' toward a Sedate Style (3 Quarks Daily)",
   "'Sing the Bones Home': Material Memory and the Project of Freedom in M. NourbeSe Philip's Zong! (Humanities, MDPI)",
@@ -868,10 +869,15 @@
   "Annals of the Parish (The Edinburgh Edition of the Works of John Galt)",
   "Annie Allen (Wikipedia)",
   "Apologia Pro Vita Sua",
+  "Arundhati Roy (Wikipedia)",
   "Asian American Literary Canon (Post45 Data Collective)",
   "Aubade (The Philip Larkin Society, philiplarkin.com)",
   "Bass Culture - Linton Kwesi Johnson (reggaelyrics.info)",
+  "Ben Okri (Wikipedia)",
+  "Ben Okri's 'What the Tapster Saw' (Niger Delta Black Gold Blues, University of Southern California)",
+  "Ben Okri, 'What the Tapster Saw' (reading notes, Scalar)",
   "Beowulf: A Verse Translation",
+  "Bessie Head (Wikipedia)",
   "Bibliography of Dame Ngaio Marsh's Published Works",
   "Biographia Literaria (The Collected Works of Samuel Taylor Coleridge, volume 7)",
   "Blackwood's Edinburgh Magazine",
@@ -948,6 +954,7 @@
   "Inside the Whale (Wikipedia)",
   "Inside the Whale and Other Essays (Wikipedia)",
   "Iowa Writers' Workshop (Post45 Data Collective; Program Era Project)",
+  "J. G. Ballard (Wikipedia)",
   "Jack London: Novels and Social Writings (Library of America, vol. 7)",
   "Jack Sheppard (Broadview Editions)",
   "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
@@ -967,6 +974,8 @@
   "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
   "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
   "Leaves of Grass: A Textual Variorum of the Printed Poems, 3 vols (The Collected Writings of Walt Whitman)",
+  "Les Murray (poet) (Wikipedia)",
+  "Les Murray, Collected Poems (contents listing, readfrom.net)",
   "Les blancs: the collected last plays of Lorraine Hansberry (Internet Archive catalogue record)",
   "Letitia Elizabeth Landon: Selected Writings",
   "Letters and Other Unpublished Writings of Walter Savage Landor",
@@ -1034,6 +1043,7 @@
   "Parson Weems: A Biographical and Critical Study",
   "Pastors and Masters (Wikipedia)",
   "Perdita: The Life of Mary Robinson",
+  "Peter Goldsworthy reviews Les Murray's Collected Poems (Australian Book Review)",
   "Philip Larkin (EBSCO Research Starters)",
   "Philip Larkin (New World Encyclopedia)",
   "Philip Larkin (Wikipedia, via Wikiwand)",
@@ -1172,6 +1182,7 @@
   "The Diary of Virginia Woolf",
   "The Digital Mitford: The Mary Russell Mitford Digital Archive",
   "The Diplomatic Correspondence of the American Revolution (12 volumes)",
+  "The Drowned World (Wikipedia)",
   "The Early Poems of John Clare, 1804-1822 (2 volumes)",
   "The Edinburgh Edition of Walter Scott's 'Minstrelsy of the Scottish Border' (3 volumes)",
   "The Edinburgh Edition of the Waverley Novels",
@@ -5122,6 +5133,47 @@
    ]
   },
   {
+   "id": 877,
+   "name": "Arundhati Roy",
+   "altNames": [],
+   "dates": "1961",
+   "birthplace": "Shillong, Assam, India",
+   "nationality": "Indian; novelist and political essayist writing in English",
+   "identity": "Indian novelist and activist whose first novel, The God of Small Things (1997), won the Booker Prize and gave Indian writing in English one of its most widely read and formally distinctive books",
+   "biography": "Suzanna Arundhati Roy was born on 24 November 1961 in Shillong, in Assam, the daughter of Mary Roy, a Syrian Christian teacher and women's rights campaigner from Kerala, and a Bengali Hindu tea planter; her parents separated when she was two, and she grew up with her mother and brother in Ayemenem, in Kerala, where the family ran a small factory and a pickle business, and where her mother founded a school. She trained as an architect at the School of Planning and Architecture in New Delhi, worked as a designer, and wrote the screenplays for the films In Which Annie Gives It Those Ones (1989) and Electric Moon (1992), and acted in Masay Sahib (1992). The God of Small Things, published in 1997, won the Booker Prize and became the best-selling book by a non-expatriate Indian author. Since then she has written chiefly political essays and books, including The End of Imagination (1998), The Algebra of Infinite Justice (2001), Power Politics (2001), War Talk (2003), An Ordinary Person's Guide to Empire (2004), Field Notes on Democracy (2009), Broken Republic (2011), Capitalism: A Ghost Story (2014), The Doctor and the Saint (2017) and Azadi (2020), and the novel The Ministry of Utmost Happiness (2017). She won the Sydney Peace Prize in 2004 and the PEN Pinter Prize in 2024, and is a leading campaigner on the Narmada dams, Kashmir and civil liberties.",
+   "profile": "Fiction: The God of Small Things (1997) and The Ministry of Utmost Happiness (2017). Nonfiction: The End of Imagination (1998), The Cost of Living (1999), The Algebra of Infinite Justice (2001), Power Politics (2001), War Talk (2003), An Ordinary Person's Guide to Empire (2004), Public Power in the Age of Empire (2004), Field Notes on Democracy (2009), Broken Republic (2011), Walking with the Comrades (2011), Capitalism: A Ghost Story (2014), The Doctor and the Saint (2017) and Azadi (2020). Screenplays: In Which Annie Gives It Those Ones (1989) and Electric Moon (1992).",
+   "style": "A prose of great syntactic agility, moving between the child's-eye view and the retrospective narrator's irony; word-play, puns and typographic games (capital letters used as emphasis in the manner of children's speech); a non-linear chronology that withholds its catastrophe; the essay written in a direct, polemical, often sarcastic first person.",
+   "concerns": "The caste and class order of Kerala and the 'love laws' that punish transgression (The God of Small Things); childhood, twins and a divided family; the position of women and of the 'untouchable' in Indian society; colonial and post-colonial power, and the history of the Syrian Christian community; in the essays, globalisation, dams, nuclear weapons and the Indian state's violence.",
+   "significance": "The God of Small Things was the most celebrated Indian novel in English of its decade, the first by an Indian woman to win the Booker Prize, and a book that changed the market for Indian writing in English. Roy has since become one of the most prominent writer-activists in the world, and her essays are central to the literature of globalisation and dissent.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Family Saga",
+    "Historical Novel",
+    "Literary Novel"
+   ],
+   "movements": [
+    "Magical Realism in English",
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2969,
+     "title": "The God of Small Things"
+    }
+   ],
+   "sources": [
+    "Arundhati Roy (Wikipedia)"
+   ]
+  },
+  {
    "id": 8,
    "name": "Asser",
    "altNames": [
@@ -5553,6 +5605,49 @@
    ]
   },
   {
+   "id": 876,
+   "name": "Ben Okri",
+   "altNames": [],
+   "dates": "1959",
+   "birthplace": "Minna, Nigeria",
+   "nationality": "Nigerian-born British; novelist, short-story writer, poet and essayist writing in English, resident in London from 1978",
+   "identity": "Nigerian-born novelist of the spirit world and the Nigerian street, whose The Famished Road won the Booker Prize in 1991 and whose stories of the 1980s made him the leading inheritor of Tutuola's fabulous mode",
+   "biography": "Ben Golden Emuobowho Okri was born on 15 March 1959 in Minna, in what is now Niger State, Nigeria, and grew up in Lagos and Ibadan, where his father, a clerk, moved the family; he has described a childhood of crowded compound life, of stories told by his mother and of the Nigerian civil war, which he witnessed as a child. He moved to England in 1978 and read comparative literature at the University of Essex, and published his first novel, Flowers and Shadows, in 1980, followed by The Landscapes Within (1981). The short-story collection Incidents at the Shrine (1986) and Stars of the New Curfew (1988) established his voice, and The Famished Road (1991), the first of a trilogy with Songs of Enchantment (1993) and Infinite Riches (1998), won the Booker Prize. Later work includes Astonishing the Gods (1995), Dangerous Love (1996), A Way of Being Free (1997), Starbook (2007), The Age of Magic (2008) and The Freedom Artist (2019), with poetry in An African Elegy (1992), Mental Fight (1999) and A Fire in My Head (2021). He was awarded the OBE in 2001 and knighted in 2023.",
+   "profile": "Novels: Flowers and Shadows (1980), The Landscapes Within (1981), The Famished Road (1991), Songs of Enchantment (1993), Astonishing the Gods (1995), Infinite Riches (1998), Starbook (2007), The Age of Magic (2008) and The Freedom Artist (2019). Stories: Incidents at the Shrine (1986), Stars of the New Curfew (1988) and Prayer for the Living (2019). Poetry: An African Elegy (1992), Mental Fight (1999) and A Fire in My Head (2021). Essays: A Way of Being Free (1997) and A Time for New Dreams (2011).",
+   "style": "A dense, lyrical, incantatory prose that draws on Yoruba myth, the ghost story and the oral tale; a first-person narration poised between dream and street; catalogue, repetition and proverb; a refusal of the conventions of the realist novel in favour of the fabulous and the parabolic.",
+   "concerns": "The spirit world and its intrusion into the world of the living (The Famished Road); poverty, corruption and the exploitation of the poor in the Nigerian oil economy ('What the Tapster Saw'); childhood, hunger and survival; myth, prophecy and the artist's vocation; freedom, dreams and the possibility of transformation.",
+   "significance": "The best-known African novelist of his generation in Britain, and the writer who carried Amos Tutuola's fabulous mode into the postmodern novel; the Booker Prize of 1991 made him an international figure, and his short stories of the 1980s are now read as early examples of what critics call 'petro-magic realism'.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Experimental Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ],
+   "movements": [
+    "African Literature in English",
+    "Magical Realism in English",
+    "Postcolonial Literature"
+   ],
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2968,
+     "title": "What the Tapster Saw"
+    }
+   ],
+   "sources": [
+    "Ben Okri (Wikipedia)",
+    "Ben Okri's 'What the Tapster Saw' (Niger Delta Black Gold Blues, University of Southern California)",
+    "Ben Okri, 'What the Tapster Saw' (reading notes, Scalar)"
+   ]
+  },
+  {
    "id": 465,
    "name": "Benjamin Disraeli",
    "altNames": [
@@ -5721,6 +5816,46 @@
     "The Cambridge Companion to Eighteenth-Century Poetry",
     "The Cambridge Companion to English Literature, 1650–1740",
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century"
+   ]
+  },
+  {
+   "id": 875,
+   "name": "Bessie Head",
+   "altNames": [],
+   "dates": "1937 – 1986",
+   "birthplace": "Pietermaritzburg, Natal, South Africa",
+   "nationality": "South African-born; short-story writer and novelist who lived in Botswana from 1964 and became a Botswana citizen in 1979, writing in English",
+   "identity": "South African-born writer of Botswana whose novels and stories of Serowe, from When Rain Clouds Gather to A Question of Power, made her one of the most original voices of southern African fiction",
+   "biography": "Bessie Amelia Emery Head was born on 6 July 1937 in Pietermaritzburg, Natal, the daughter of a white woman and a black man, and was raised in foster homes and then in a mission orphanage after her mother was committed to a mental hospital. She trained as a teacher at a mission college in Durban and taught in Natal and in the Cape, and worked as a journalist in Cape Town and Johannesburg, where she was associated with the Pan Africanist Congress and wrote for its paper. She left South Africa in 1964 on a one-way exit permit, taught in Serowe, in Bechuanaland (now Botswana), and settled there, writing in poverty and isolation. Her first novel, When Rain Clouds Gather, appeared in 1968, followed by Maru (1971) and A Question of Power (1973), the last a harrowing account of mental breakdown that made her reputation; The Collector of Treasures and Other Botswana Village Tales (1977) and Serowe: Village of the Rain Wind (1981) drew on the history and oral tradition of her adopted home, and her posthumous works include Tales of Tenderness and Power (1989), A Woman Alone (1990) and The Cardinals (1993). She became a Botswana citizen in 1979 and died in Serowe on 17 April 1986.",
+   "profile": "Novels: When Rain Clouds Gather (1968), Maru (1971) and A Question of Power (1973). Stories: The Collector of Treasures and Other Botswana Village Tales (1977) and Tales of Tenderness and Power (1989, posthumous). Nonfiction and oral history: Serowe: Village of the Rain Wind (1981). Letters and journalism: A Woman Alone (1990) and A Gesture of Belonging (1991).",
+   "style": "A spare, translucent prose that moves without strain between realistic village narrative and visionary or hallucinated interior states; the short story built as a parable or a folk tale told by a narrator close to the community; direct speech in a Botswana idiom; a moral clarity that is never merely schematic.",
+   "concerns": "Racial and sexual oppression in southern Africa; the position of women in village society and their resistance (The Collector of Treasures); madness, spiritual crisis and the divided self (A Question of Power); drought, poverty and survival; exile, belonging and the possibility of a just community.",
+   "significance": "One of the central writers of southern African fiction in English and, with Bessie Head's own account of mental illness, one of the first African novelists to write from inside a breakdown; her stories are widely anthologised and taught, and she is regarded as Botswana's most influential writer.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Regional Fiction",
+    "Short Story"
+   ],
+   "movements": [
+    "African Literature in English",
+    "South African Writing under Apartheid"
+   ],
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2967,
+     "title": "Looking for a Rain God"
+    }
+   ],
+   "sources": [
+    "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
+    "Bessie Head (Wikipedia)"
    ]
   },
   {
@@ -22641,6 +22776,47 @@
    ]
   },
   {
+   "id": 874,
+   "name": "J. G. Ballard",
+   "altNames": [],
+   "dates": "1930 – 2009",
+   "birthplace": "Shanghai International Settlement, China",
+   "nationality": "English; novelist, short-story writer and essayist writing in English, resident at Shepperton from 1960",
+   "identity": "English novelist of the 'inner space' and the disaster, who took science fiction into the terrain of psychology, consumer culture and the media, from The Drowned World to Crash and Empire of the Sun",
+   "biography": "James Graham Ballard was born on 15 November 1930 in the Shanghai International Settlement, where his father managed a chemical company, and spent the war years in the Lunghua internment camp after the Japanese occupation of the city, an experience he later used in Empire of the Sun (1984). He was sent to England in 1946, educated at The Leys School in Cambridge and read medicine at King's College, Cambridge, intending to become a psychiatrist, before leaving for London and working as an advertising copywriter and on a trade journal. His first stories appeared in New Worlds in the late 1950s, and The Wind from Nowhere (1961) and The Drowned World (1962) made his name as a writer of catastrophe fiction; The Drought (1965) and The Crystal World (1966) completed the sequence. The Atrocity Exhibition (1970), Crash (1973), Concrete Island (1974) and High-Rise (1975) turned to the 'inner space' of the media landscape and the eroticism of technology, while Empire of the Sun (1984) and The Kindness of Women (1991) returned to Shanghai. His later novels include Cocaine Nights (1996), Super-Cannes (2000) and Millennium People (2003). He died at Shepperton on 19 April 2009.",
+   "profile": "Novels: The Wind from Nowhere (1961), The Drowned World (1962), The Drought (1965), The Crystal World (1966), The Atrocity Exhibition (1970), Crash (1973), Concrete Island (1974), High-Rise (1975), The Unlimited Dream Company (1979), Hello America (1981), Empire of the Sun (1984), The Day of Creation (1987), Running Wild (1988), The Kindness of Women (1991), Rushing to Paradise (1994), Cocaine Nights (1996), Super-Cannes (2000), Millennium People (2003) and Kingdom Come (2006). Stories: The Voices of Time (1962), Billenium (1962), The Four-Dimensional Nightmare (1963), The Terminal Beach (1964), The Disaster Area (1967), The Overloaded Man (1967), Vermilion Sands (1971) and The Complete Short Stories (2001). Nonfiction: A User's Guide to the Millennium (1996) and Miracles of Life (2008).",
+   "style": "A cool, exact, medically precise prose, with a clinician's detachment from violence and sex; the imagery of drained pools, empty motorways, abandoned airports and flooded cities; the rejection of character psychology in favour of 'inner space'; the short story built as a sequence of tableaux; the late novels in a plainer, more conventional narrative mode.",
+   "concerns": "Catastrophe as revelation: the flood, the drought, the crystallising forest and the emptied city reveal what the society concealed; the psychology of the media, of celebrity and of violence (The Atrocity Exhibition, Crash); the erosion of the boundary between the human and the technological; childhood, imprisonment and survival (Empire of the Sun); the gated community and the pathology of affluence in the late novels.",
+   "significance": "The most important British science-fiction writer of the postwar period and the one who did most to move the genre into the mainstream of literary fiction; the adjective 'Ballardian' has entered the dictionaries, and his catastrophe novels of the 1960s are now read as founding texts of climate fiction.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Apocalyptic Fiction",
+    "Post-Apocalyptic Fiction",
+    "Science Fiction"
+   ],
+   "movements": [
+    "Contemporary Gothic",
+    "New Wave Science Fiction"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Nature, ecology and environmental crisis",
+    "Utopia, dystopia and imagined futures"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2966,
+     "title": "The Drowned World"
+    }
+   ],
+   "sources": [
+    "J. G. Ballard (Wikipedia)",
+    "The Drowned World (Wikipedia)"
+   ]
+  },
+  {
    "id": 469,
    "name": "J. M. Barrie",
    "altNames": [
@@ -31491,6 +31667,56 @@
     "The Examiner",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period",
     "The Selected Writings of Leigh Hunt (6 volumes)"
+   ]
+  },
+  {
+   "id": 873,
+   "name": "Les Murray",
+   "altNames": [],
+   "dates": "1938 – 2019",
+   "birthplace": "Nabiac, New South Wales, Australia",
+   "nationality": "Australian; poet, anthologist and critic writing in English",
+   "identity": "Australian poet of the bush, the suburb, the Aboriginal world and the English language itself, whose nearly thirty volumes made him the leading Australian poet of his generation",
+   "biography": "Leslie Allan Murray was born on 17 October 1938 at Nabiac, on the north coast of New South Wales, and grew up on his family's dairy farm at Bunyah, in the Manning River valley, a landscape that remained the ground of his poetry. His mother died when he was twelve, an event that recurs in his work. He was educated at Taree High School and the University of Sydney, where he read German and English, and travelled to Europe in the late 1950s. His first collection, The Ilex Tree (1965), was written with Geoffrey Lehmann; The Weatherboard Cathedral (1969), Lunch and Counter Lunch (1974), The Vernacular Republic (1976), Ethnic Radio (1977), The People's Otherworld (1983), The Daylight Moon (1987), Dog Fox Field (1990), Translations from the Natural World (1992), Subhuman Redneck Poems (1996, T. S. Eliot Prize), Conscious and Verbal (1999), Poems the Size of Photographs (2002), Fredy Neptune (1998, a verse novel), The Biplane Houses (2006), Taller When Prone (2010) and Waiting for the Past (2015) followed. He was a noted anthologist, editor of the journal Quadrant and a controversial essayist, and lived at Bunyah, where he returned in 1985, and later at Taree. He died on 29 April 2019.",
+   "profile": "Poetry: The Ilex Tree (1965, with Geoffrey Lehmann), The Weatherboard Cathedral (1969), Poems Against Economics (1972), Lunch and Counter Lunch (1974), The Vernacular Republic (1976), Ethnic Radio (1977), The Boys Who Stole the Funeral (1980), The People's Otherworld (1983), The Daylight Moon (1987), Dog Fox Field (1990), Translations from the Natural World (1992), Subhuman Redneck Poems (1996), Conscious and Verbal (1999), Poems the Size of Photographs (2002), The Biplane Houses (2006), Taller When Prone (2010) and Waiting for the Past (2015); the verse novels The Boys Who Stole the Funeral (1980) and Fredy Neptune (1998), and the Collected Poems (2018). Prose: The Peasant Mandarin (1978), Persistence in Folly (1984) and A Working Forest (1997).",
+   "style": "Long, rhythmically insistent free verse and loose stanza forms, with a strongly percussive, alliterative music and a taste for strange compounds and lists; a diction that moves between the demotic Australian and the ornate; narrative and satirical poems as well as lyrics; the 'translations from the natural world' in the voices of animals.",
+   "concerns": "The Australian landscape and the rural life of the Manning valley; the vernacular and the survival of Aboriginal culture; class, the suburbs and the 'barbecue of the ordinary'; religion, Catholicism and the sacramental; depression, illness and the body; the English language as a living, plural inheritance.",
+   "significance": "The leading Australian poet of his generation and the only one to have won the T. S. Eliot Prize, Murray's work was central to the emergence of a distinctively Australian poetry in the 1970s and 1980s; his vernacular nationalism and his political essays made him a controversial public figure, but his best poems are among the most original in postwar English poetry.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Experimental Poetry",
+    "Lyric Poetry"
+   ],
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Technology, media and consumer society"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2965,
+     "title": "Corniche"
+    },
+    {
+     "id": 2964,
+     "title": "Morse"
+    }
+   ],
+   "sources": [
+    "Albert Murray obituary (The Guardian, 23 August 2013)",
+    "Les Murray (poet) (Wikipedia)",
+    "Les Murray, Collected Poems (contents listing, readfrom.net)",
+    "Peter Goldsworthy reviews Les Murray's Collected Poems (Australian Book Review)"
    ]
   },
   {
@@ -83614,6 +83840,56 @@
    ]
   },
   {
+   "id": 2965,
+   "title": "Corniche",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Les Murray"
+   ],
+   "authorIds": [
+    873
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1996",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (short lyric)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem from Les Murray's Subhuman Redneck Poems (1996) in which the fear of dying turns into a longing for death as the only cure; one of the bleakest poems of his late middle age.",
+   "summary": "A short poem set in the pre-dawn hours, in which the speaker's dread of death becomes a desire for it, and the poem's argument turns on the discovery that the thing feared is also the only release.",
+   "plot": "'Corniche' belongs to the group of poems in Subhuman Redneck Poems that Murray wrote out of depression, and its movement is the reverse of the elegy's: instead of mourning a death, it finds in the thought of death a kind of peace. The speaker, awake in the hours before dawn, follows the fear to its end and discovers that the fear has become a wish, and the poem's short lines and plain diction keep the argument from becoming a consolation. The title names a coast road, the kind of road that runs along a cliff edge, and the poem's position is that of someone driving between the sea and the drop. The poem is not a suicide note but an honest record of a state of mind, and Murray's later work returned to the subject of depression with the same refusal of comfort.",
+   "significance": "A key poem of Murray's darkest collection and a standard example of his late manner; it is his second selection in the Norton Anthology, and its treatment of depression is among the most discussed in his work.",
+   "meter": "Plain, short-breathed lines with no ornament; the diction is ordinary and the tone level, so that the reversal arrives without rhetorical preparation; the poem's power is in what it withholds.",
+   "context": "Subhuman Redneck Poems (Duffy and Snellgrove, 1996) won the T. S. Eliot Prize and is Murray's darkest collection, written in the period of his severe depression; 'Corniche' is one of the poems critics single out as among the most difficult and most honest in it.",
+   "characters": "",
+   "structure": "A short poem in brief lines, with little narrative and a single turn from fear to longing; its form is the argument's movement, and the title provides the landscape the poem does not otherwise describe.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Madness, breakdown and confinement"
+   ],
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "Les Murray, Collected Poems (contents listing, readfrom.net)",
+    "Peter Goldsworthy reviews Les Murray's Collected Poems (Australian Book Review)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1417,
    "title": "Count Basil: A Tragedy",
    "altTitles": [
@@ -113941,6 +114217,56 @@
    ]
   },
   {
+   "id": 2967,
+   "title": "Looking for a Rain God",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Bessie Head"
+   ],
+   "authorIds": [
+    875
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1977",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story from Bessie Head's The Collector of Treasures (1977): during a seven-year drought in Botswana, a family sacrifices two young girls to the rain god, the rain does not come, and the crime is found out.",
+   "summary": "A spare narrative of a village in drought, of Mokgobja and his son Ramadi's decision to perform an old rain-making sacrifice with Ramadi's two daughters, and of the discovery and punishment that follow.",
+   "plot": "The story opens with the drought: the rains have failed for seven years, the harvests have been lost, and some of the villagers have hanged themselves rather than face the hunger. Mokgobja, an old man, and his son Ramadi take their family to plough a patch of land when a little rain comes, but the rain lasts only a fortnight and the women of the family begin to weep at night at the prospect of starvation. Mokgobja remembers an ancient ceremony, a sacrifice to the rain god, and he and Ramadi agree to it, taking the two little girls, Neo and Boseyong, out into the land and killing them. The rain does not come. The family returns to the village and the absence of the children is noticed; the police investigate, and Tiro, the girls' mother, breaks down and tells what happened. The story ends with Mokgobja and Ramadi sentenced to death for ritual murder, and with the narrator's flat statement that the family's hope of rain had been met by nothing. Head's method is to tell the story without sensationalism, so that the horror lies in the ordinariness of the decision and in the drought that made it conceivable.",
+   "significance": "The best-known of Head's Botswana stories and one of the most widely taught African short stories in English; it is her selection in the Norton Anthology.",
+   "meter": "A plain, measured, almost biblical prose, with short declarative sentences and little metaphor; the narrative voice is that of a storyteller close to the village, using its idiom and its proverbs; the horror is conveyed by understatement and by the absence of commentary.",
+   "context": "The Collector of Treasures and Other Botswana Village Tales (Heinemann, 1977) was written in Serowe, where Head lived from 1964, and draws on the oral history she had collected for Serowe: Village of the Rain Wind; the story's drought and ritual belong to the remembered life of rural Botswana, and it was published in the Heinemann African Writers Series.",
+   "characters": "",
+   "structure": "A single continuous narrative, moving from the general description of the drought to the family's hopes, the sacrifice, the failure of the rain and the discovery; the point of view is close to the community rather than to any one character, and the ending delivers the legal consequence in a single flat sentence.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Regional Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "African Literature in English",
+    "South African Writing under Apartheid"
+   ],
+   "editions": [],
+   "sources": [
+    "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
+    "Bessie Head (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1128,
    "title": "Lord Byron and Some of His Contemporaries",
    "altTitles": [
@@ -120914,6 +121240,56 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2964,
+   "title": "Morse",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Les Murray"
+   ],
+   "authorIds": [
+    873
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1983",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem from Les Murray's The People's Otherworld (1983) that takes the dots and dashes of the telegraph code and turns them into the sound of the Australian landscape, its birds and its distance.",
+   "summary": "A short poem built on the percussive rhythm of Morse code, in which the dashes and dots become the noise of the country - the birds, the wires, the empty distances - rather than a message to be decoded.",
+   "plot": "'Morse' is one of Murray's performance poems, and its argument is in its sound: the code's long and short signals are made to beat out the noise of the Australian bush and of the telegraph line that crosses it. The poem treats the code as a vernacular, a way of talking that belongs to the country rather than to the engineers who laid the wire, and its rhythm is deliberately mechanical and hypnotic. The effect is of a landscape that has learned to speak in dots and dashes, and of a poetry that prefers the signal's sound to its meaning. Murray's interest in the colonial technologies of communication, and in the way they became part of the Australian idiom, is compressed into the poem's refusal to decode.",
+   "significance": "A frequently anthologised short poem and a standard example of Murray's sound-driven poetry; it is his first selection in the Norton Anthology.",
+   "meter": "Percussive rhythms, heavy alliteration and a deliberately unmusical, mechanical beat; the diction is plain and the poem's music is in its stresses rather than its metre; Murray called himself tone-deaf, and the poem is a performance of sound over melody.",
+   "context": "The People's Otherworld (Angus and Robertson, 1983) is the collection in which Murray's vernacular and narrative powers were at their height; 'Morse' belongs to the group of poems that the critic Peter Goldsworthy calls Murray's 'performance' mode, alongside 'The Smell of Coal Smoke' and the Buladelah-Taree Holiday Song Cycle.",
+   "characters": "",
+   "structure": "A short poem in a strongly stressed line, built on repetition and on the alternation of long and short units that imitates the code; it has no narrative development and its form is its meaning.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Experimental Poetry",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
+   ],
+   "movements": [
+    "Indigenous Writing in Australia, Canada and New Zealand",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "Les Murray, Collected Poems (contents listing, readfrom.net)",
+    "Peter Goldsworthy reviews Les Murray's Collected Poems (Australian Book Review)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -165664,6 +166040,57 @@
    ]
   },
   {
+   "id": 2966,
+   "title": "The Drowned World",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "J. G. Ballard"
+   ],
+   "authorIds": [
+    874
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1962",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "J. G. Ballard's second novel (1962), in which solar radiation has melted the polar ice caps and turned London into a tropical lagoon, and a biologist, Robert Kerans, chooses the drowned world and its Triassic pull over the work of restoring the old one.",
+   "summary": "A novel in which a small scientific team, marooned in the flooded ruins of London, tries to salvage what it can while the biologist Robert Kerans finds himself drawn by the heat, the reptiles and the triassic jungle that has replaced the city towards a regression into deep evolutionary time.",
+   "plot": "The novel is set in a future, some decades after solar radiation has melted the ice caps and raised the seas, when the drowned cities of Europe have become lagoons and reefs. Robert Kerans, a biologist, is part of a small expedition surveying the drowned London; the heat is rising year by year, and the survivors live in the upper floors of the great buildings, diving into the submerged streets and hunting the giant reptiles and iguanas that have colonised the lagoon. Kerans, his colleague Bodkin and the soldier Riggs are joined by Beatrice Dahl, a wealthy and detached woman whose apartment on the water is the novel's centre of what remains of civilised life, and by Strangman, the leader of a gang of scavengers who drains the lagoon around the city to loot it. As the temperature climbs, Kerans begins to dream of the drowned world and to feel the pull of the Triassic past, and Bodkin, an older scientist who has studied the fossils of the sun, walks south into the jungle and is not seen again. When Strangman's men drain the lagoon and expose the city, Kerans sees the drowned world he loved destroyed, and after the water returns he refuses the expedition's plan to evacuate north and sets out southward after Bodkin, towards the sun, the reptiles and the lost evolutionary age. The novel ends with Kerans alone in the jungle, having chosen regression rather than recovery, and with the question of whether he is mad or has understood something the others cannot.",
+   "significance": "The novel that established Ballard's reputation and the first of his catastrophe books; it is his selection in the Norton Anthology (printed as the extract 'The Causeways of the Sun'), and the record covers the whole novel. It is now read as a founding text of climate fiction as well as a key novel of the New Wave, and it gave the word 'Ballardian' its first clear reference.",
+   "meter": "A cool, exact, descriptive prose, with the temperature and the light registered on every page; the imagery of drained swimming pools, submerged office blocks, giant reptiles and stagnant water; little dialogue and almost no interior monologue of the conventional kind; the science is delivered as observation rather than explanation.",
+   "context": "The Drowned World appeared in shortened form in Science Fiction Adventures in January 1962 and in book form from Victor Gollancz in 1962; it belongs with The Drought (1965) and The Crystal World (1966) to the 'ambiguous apocalypse' sequence of Ballard's early novels and to the New Wave of British science fiction, and it has since been read as a foundational text of climate fiction.",
+   "characters": "",
+   "structure": "A short novel in three parts, set almost entirely in the drowned London and its lagoon; the plot is a sequence of encounters and discoveries rather than a quest, and the final movement is westward and southward, away from the expedition's route home; the ending refuses the rescue that the earlier chapters seem to promise.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Apocalyptic Fiction",
+    "Post-Apocalyptic Fiction",
+    "Science Fiction"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Nature, ecology and environmental crisis",
+    "Utopia, dystopia and imagined futures"
+   ],
+   "movements": [
+    "Contemporary Gothic",
+    "New Wave Science Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "J. G. Ballard (Wikipedia)",
+    "The Drowned World (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 720,
    "title": "The Drummer",
    "altTitles": [
@@ -173225,6 +173652,57 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 2969,
+   "title": "The God of Small Things",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Arundhati Roy"
+   ],
+   "authorIds": [
+    877
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1997",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Arundhati Roy's first novel (1997), the story of twins Estha and Rahel in Ayemenem, Kerala, and of the 'love laws' that punish the affair between their mother Ammu and the untouchable Velutha, told out of chronological order and moving towards its catastrophe.",
+   "summary": "A novel in which the twins, separated as children and reunited as adults, remember the events of 1969 - the visit of their English cousin Sophie Mol, the death by drowning that followed, and the police destruction of Velutha - and the family's history across three generations in Kerala.",
+   "plot": "The novel is set mostly in Ayemenem, in Kerala, in two times: the present, when Rahel returns as an adult to the family house and finds her twin Estha silent and damaged, and 1969, when the two were seven years old. Their mother Ammu, divorced and living with her children in her parents' house, falls in love with Velutha, an untouchable carpenter and communist, and the affair is discovered by the family: Ammu's brother Chacko, her aunt Baby Kochamma, and the police, who beat Velutha nearly to death and blame him for the drowning of Sophie Mol, the English cousin who had come to stay with her mother Margaret and who dies in the river during the children's attempt to run away. The twins are separated after the crisis, Estha is sent to his father and stops speaking, Ammu dies alone in a hotel, and Rahel drifts through an unhappy marriage. The novel's narration circles these events, moving backwards and forwards between the 1960s, the 1970s and the 1990s and between the children's perceptions and the adult narrator's retelling, so that the catastrophe is known from the first pages and its causes are assembled gradually. The title is taken from a line about the 'God of Loss' and the 'God of Small Things', and the novel's subject is the way the small, ordinary details of a childhood carry the whole of a life.",
+   "significance": "The most celebrated Indian novel in English of the 1990s and the first by an Indian woman to win the Booker Prize; it is Roy's selection in the Norton Anthology, printed as the extract 'God's Own Country', and the record covers the whole novel. Its opening sentence and its children's-eye narration are among the most widely quoted in postcolonial fiction in English.",
+   "meter": "A prose of great syntactic invention, with word-play, portmanteau compounds and capitalised phrases that render the children's speech ('Being made to stand outside the door', 'the Orangedrink Lemondrink Man'); a lyricism that is precise about the material world (pickles, bananas, boats, the river) and ironic about the adult one; dialogue in a Kerala English with Malayalam cadences.",
+   "context": "The God of Small Things was published by IndiaInk and Penguin in 1997 and won the Booker Prize in the same year; it drew on Roy's childhood in Ayemenem and on her mother's family, and its publication was a landmark in the international reception of Indian writing in English. Roy's subsequent career as a political essayist has shaped the reading of the novel's politics ever since.",
+   "characters": "",
+   "structure": "A non-linear narration in twenty-one chapters, moving between 1969, the 1970s and the 1990s, and between the twins' childhood perspective and an adult retrospective voice; information is withheld and revealed out of order, and the novel's central events are shown twice, from different points in time.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Family Saga",
+    "Historical Novel",
+    "Literary Novel"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ],
+   "movements": [
+    "Magical Realism in English",
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Arundhati Roy (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -220852,6 +221330,59 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2968,
+   "title": "What the Tapster Saw",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Ben Okri"
+   ],
+   "authorIds": [
+    876
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1988",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The last story in Ben Okri's Stars of the New Curfew (1988): a palm-wine tapper falls from his tree and, in a week-long coma, sees the corruption, the oil wells and the violence of his country in a vision.",
+   "summary": "A first-person narrative in which the tapster, having fallen from a palm tree, drifts between this world and the next, witnessing oil companies destroying the forest, voices that beat him when he speaks, a rainbow snake in a river, and three turtles who talk with the authority of the powerful.",
+   "plot": "The story begins in confusion - 'I had died. Not even I' - and follows the tapster's spirit as it leaves his body after a fall from a palm tree he has climbed every day for thirty years. In the vision the land is being destroyed by the oil companies: forests are cut down and blown up, the earth is opened and left with oil and animal bones spewing out of it, bridges and roads are ruined by unexploded bombs from an old war, travellers are killed, and people the tapster knows are executed by bullets 'with their names on them'. A rainbow-coloured snake swims in a river and makes it clear and luminous; voices speak around him and beat him when he answers, giving him thoughts to replace the ones they have knocked out of him, such as 'the bigger mouth eats the smaller head'. Three turtles, one of them with the face of his herbalist friend, discuss the number of moons and stars with complete authority and complete ignorance. He meets a man who died reading the Bible upside down and recognises himself. At the end he wakes in his friend's house, where two turtles stand in a shrine in the corner, and he is left carrying a knowledge he cannot express.",
+   "significance": "The best known of Okri's short stories and a standard example of African magical realism; it is his selection in the Norton Anthology and the story through which his early fiction is usually introduced.",
+   "meter": "A dense, incantatory prose with the rhythms of oral narration; short sentences, repetition and catalogue; vivid, surreal imagery (the 'roseate' snake, the luminous river, the upside-down Bible); proverbs and aphorisms embedded in the narration; the first person is that of an uneducated man whose diction is nonetheless lyrical.",
+   "context": "Stars of the New Curfew (Secker and Warburg, 1988) gathers stories of Lagos and the oil-producing Delta written in the 1980s, the decade of the Nigerian oil boom's collapse; 'What the Tapster Saw' draws on Amos Tutuola's The Palm-Wine Drinkard (1952) and has been read by critics as an early example of 'petro-magic realism', the meeting of magical realism and the oil economy.",
+   "characters": "",
+   "structure": "A first-person narrative in a single continuous vision, with no chapter divisions and a dream logic that moves between scenes without transition; the frame is the fall and the waking, and the vision's material is organised by recurrence (the snake, the turtles, the voices) rather than by plot.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Experimental Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures"
+   ],
+   "movements": [
+    "African Literature in English",
+    "Magical Realism in English",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "Ben Okri (Wikipedia)",
+    "Ben Okri's 'What the Tapster Saw' (Niger Delta Black Gold Blues, University of Southern California)",
+    "Ben Okri, 'What the Tapster Saw' (reading notes, Scalar)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {

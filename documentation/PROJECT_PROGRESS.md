@@ -1830,6 +1830,16 @@ with broader Anglophone writing out of scope.
   records. Les Murray's and J. G. Ballard's selections are the next in
   Norton's order, and Heaney's two undated late poems are out of the period.
 
+- **Wave 18:** five more authors in Norton's order, with one record per
+  selection: Les Murray ("Morse" and "Corniche"), J. G. Ballard (*The Drowned
+  World*, major record, printed as the extract "The Causeways of the Sun"),
+  Bessie Head ("Looking for a Rain God"), Ben Okri ("What the Tapster Saw")
+  and Arundhati Roy (*The God of Small Things*, major record, printed as the
+  extract "God's Own Country"). Six works and five authors, all partially
+  verified; 81 of the 255 selections now have records. Patience Agbabi's and
+  Peter Reading's selections are the next in Norton's order, and both are
+  still to be dated.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -1937,4 +1947,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 119 works by 25 authors; 75 of 255 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 125 works by 30 authors; 81 of 255 selections recorded) |
