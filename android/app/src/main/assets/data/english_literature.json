@@ -3,7 +3,7 @@
  "installments": "1-10",
  "counts": {
   "authors": 851,
-  "works": 2892
+  "works": 2903
  },
  "periods": [
   {
@@ -827,6 +827,7 @@
  ],
  "sources": [
   "'Lyrical Ballads,' and Other Poems, 1797-1800",
+  "'Sad Steps' toward a Sedate Style (3 Quarks Daily)",
   "A Book of Middle English, 4th edition",
   "A Brighter Sun Summary (eNotes)",
   "A Clergyman's Daughter (Wikipedia)",
@@ -844,6 +845,7 @@
   "American Literature: A Journal of Literary History, Criticism, and Bibliography",
   "An American Dictionary of the English Language (2 volumes)",
   "An Appeal in Favor of That Class of Americans Called Africans",
+  "An Arundel Tomb (Gale, Poetry for Students, via Encyclopedia.com)",
   "An Enquiry Concerning Political Justice (Oxford World's Classics)",
   "An Essay on the Principle of Population and Other Writings (Penguin Classics)",
   "An Essay on the Principle of Population: The 1803 Edition (Rethinking the Western Tradition)",
@@ -863,6 +865,7 @@
   "British Library Digitised Manuscripts",
   "Byron's Letters and Journals (12 volumes with index and supplement)",
   "Charlotte Smith in British Romanticism",
+  "Church Going (Wikipedia)",
   "Commonwealth Foundation prizes (Wikipedia), sections on the Commonwealth Writers' Prize and the Commonwealth Short Story Competition",
   "Confessions of an English Opium-Eater and Other Writings (Oxford World's Classics)",
   "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
@@ -903,6 +906,8 @@
   "Heart of Darkness: A Norton Critical Edition, 3rd edn",
   "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
   "Heinemann Caribbean Writers Series (Wikipedia)",
+  "High Windows (Wikipedia)",
+  "High Windows (poem) (Wikipedia)",
   "Highway in the Sun (Peepal Tree Press)",
   "Hobomok: A Tale of Early Times (Broadview Edition)",
   "Hope Leslie: Or, Early Times in the Massachusetts (American Women Writers series)",
@@ -924,12 +929,15 @@
   "Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse",
   "Lady Caroline Lamb: A Biography",
   "Landor's Cleanness: A Study of Walter Savage Landor",
+  "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
+  "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
   "Leaves of Grass: A Textual Variorum of the Printed Poems, 3 vols (The Collected Writings of Walt Whitman)",
   "Les blancs: the collected last plays of Lorraine Hansberry (Internet Archive catalogue record)",
   "Letitia Elizabeth Landon: Selected Writings",
   "Letters and Other Unpublished Writings of Walter Savage Landor",
   "Leviathan: The English and Latin Texts",
   "List of Sahitya Akademi Award winners for English (Wikipedia)",
+  "List of poems by Philip Larkin (Wikipedia)",
   "List of winners and nominated authors of the Booker Prize (Wikipedia)",
   "Little Women, Little Men, Jo's Boys (Library of America)",
   "Lord Byron: The Major Works",
@@ -938,6 +946,7 @@
   "Lorraine Hansberry (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
   "Lorraine Hansberry Biography (Chicago Public Library)",
   "Lydia Sigourney: Selected Poetry and Prose (Broadview Editions)",
+  "MCMXIV (Wikipedia)",
   "Macaulay: Prose and Poetry",
   "Major Literary Prizes (Post45 Data Collective)",
   "Malcolm Muggeridge (Wikipedia)",
@@ -973,6 +982,7 @@
   "Orwell's Proposed Preface to Animal Farm (Marxists Internet Archive)",
   "Oxford Dictionary of National Biography",
   "Pamphlets on West Indian Slavery",
+  "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
   "Parson Weems: A Biographical and Critical Study",
   "Pastors and Masters (Wikipedia)",
   "Perdita: The Life of Mary Robinson",
@@ -984,12 +994,14 @@
   "Poems",
   "Poems and Ballads, first edition",
   "Poetry and Politics in the English Renaissance, revised edition",
+  "Politics and the English Language (Wikipedia)",
   "Pulitzer Prize for Drama (Wikipedia)",
   "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
   "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)",
   "Ralph Ellison (New World Encyclopedia)",
   "Ralph Ellison (Wikipedia)",
   "Reflections on the Revolution in France",
+  "Remembering Sam Selvon's Short Stories (Thresholds, University of Chichester)",
   "Researches in the South of Ireland (CELT: Corpus of Electronic Texts)",
   "Review of These Sad But Glorious Days (Journal of American Studies)",
   "Robert Bloomfield: Selected Poems (revised and enlarged edition)",
@@ -997,6 +1009,7 @@
   "Rural Rides (Penguin English Library)",
   "Sam Selvon (South Asian Britain: Connecting Histories)",
   "Sam Selvon (Wikipedia)",
+  "Sam Selvon Collection (SC33), finding aid (The Alma Jordan Library, University of the West Indies)",
   "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
   "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
   "Samuel Selvon (Encyclopaedia Britannica)",
@@ -1106,6 +1119,7 @@
   "The English People, 1947 (orwell.ru library record, with Daniel J. Leab's note)",
   "The English Poems of George Herbert",
   "The Examiner",
+  "The Explosion by Philip Larkin (EBSCO Research Starters)",
   "The Fashion in Shrouds (Wikipedia)",
   "The First Principles",
   "The Freedom of the Press (The Orwell Foundation)",
@@ -1214,6 +1228,7 @@
   "The Walt Whitman Archive",
   "The Waste Land: A Facsimile and Transcript of the Original Drafts",
   "The Way We Live Now (Oxford World's Classics, 2nd edn)",
+  "The Whitsun Weddings (Wikipedia)",
   "The Whole Disgraceful Truth: Selected Letters of Lady Caroline Lamb",
   "The William Blake Archive",
   "The Works of Aphra Behn",
@@ -1229,6 +1244,7 @@
   "The Writings of Henry D. Thoreau",
   "The Yale Edition of the Works of Samuel Johnson (21 volumes)",
   "These Sad But Glorious Days (Yale University Press)",
+  "This Be the Verse (Wikipedia)",
   "Thomas Chalmers and the Godly Commonwealth in Scotland",
   "Timothy Dwight (Twayne's United States Authors Series, No. 145)",
   "Timothy Dwight, 1752-1817: A Biography",
@@ -17179,6 +17195,10 @@
     {
      "id": 2874,
      "title": "Nineteen Eighty-Four"
+    },
+    {
+     "id": 2902,
+     "title": "Politics and the English Language"
     },
     {
      "id": 2875,
@@ -37058,12 +37078,18 @@
     "Cultural Criticism",
     "Elegiac Poetry",
     "Formal Verse",
+    "Light Verse",
     "Literary Criticism",
     "Literary Essay",
     "Literary Journalism",
     "Literary Novel",
+    "Love Poetry",
     "Lyric Poetry",
-    "Psychological Novel"
+    "Narrative Poetry",
+    "Political Poetry",
+    "Psychological Novel",
+    "Religious Poetry",
+    "Social Poetry"
    ],
    "movements": [
     "The Movement"
@@ -37071,20 +37097,25 @@
    "themes": [
     "Alienation, absurdity and existential freedom",
     "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
     "Class, labour and social mobility",
     "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
     "Education, institutions and the academy",
     "Faith, doubt and the sacred",
     "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
     "Identity, authenticity and the divided self",
     "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
     "Love, intimacy and loss",
     "Migration, exile and diaspora",
     "Nationhood and national identity",
     "Nature, ecology and environmental crisis",
     "Sexuality, desire and the closet",
     "Technology, media and consumer society",
-    "The city, the suburb and modern space"
+    "The city, the suburb and modern space",
+    "War, combat and its aftermath"
    ],
    "influencedBy": [
     "Thomas Hardy",
@@ -37104,24 +37135,56 @@
      "title": "Aubade"
     },
     {
+     "id": 2893,
+     "title": "Church Going"
+    },
+    {
      "id": 2862,
      "title": "Collected Poems"
+    },
+    {
+     "id": 2897,
+     "title": "Going, Going"
     },
     {
      "id": 2859,
      "title": "High Windows"
     },
     {
+     "id": 2896,
+     "title": "High Windows (poem)"
+    },
+    {
+     "id": 2899,
+     "title": "Homage to a Government"
+    },
+    {
      "id": 2852,
      "title": "Jill"
+    },
+    {
+     "id": 2894,
+     "title": "MCMXIV"
     },
     {
      "id": 2861,
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
+     "id": 2898,
+     "title": "Sad Steps"
+    },
+    {
      "id": 2863,
      "title": "Selected Letters of Philip Larkin, 1940-1985"
+    },
+    {
+     "id": 2895,
+     "title": "Talking in Bed"
+    },
+    {
+     "id": 2900,
+     "title": "The Explosion"
     },
     {
      "id": 2855,
@@ -37136,6 +37199,10 @@
      "title": "The Whitsun Weddings"
     },
     {
+     "id": 2901,
+     "title": "This Be The Verse"
+    },
+    {
      "id": 2854,
      "title": "XX Poems"
     }
@@ -37143,10 +37210,15 @@
    "sources": [
     "Aubade (The Philip Larkin Society, philiplarkin.com)",
     "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
+    "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
+    "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
+    "List of poems by Philip Larkin (Wikipedia)",
     "List of winners and nominated authors of the Booker Prize (Wikipedia)",
+    "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
     "Philip Larkin (EBSCO Research Starters)",
     "Philip Larkin (New World Encyclopedia)",
     "Philip Larkin (Wikipedia, via Wikiwand)",
+    "The Explosion by Philip Larkin (EBSCO Research Starters)",
     "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
    ]
   },
@@ -42211,6 +42283,10 @@
      "title": "Turn Again Tiger"
     },
     {
+     "id": 2903,
+     "title": "Waiting for Aunty to Cough"
+    },
+    {
      "id": 2882,
      "title": "Ways of Sunlight"
     }
@@ -42219,8 +42295,10 @@
     "Highway in the Sun (Peepal Tree Press)",
     "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
     "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Remembering Sam Selvon's Short Stories (Thresholds, University of Chichester)",
     "Sam Selvon (South Asian Britain: Connecting Histories)",
     "Sam Selvon (Wikipedia)",
+    "Sam Selvon Collection (SC33), finding aid (The Alma Jordan Library, University of the West Indies)",
     "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
     "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
     "Samuel Selvon (Encyclopaedia Britannica)",
@@ -79295,6 +79373,56 @@
    ]
   },
   {
+   "id": 2893,
+   "title": "Church Going",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1954",
+   "compositionEnd": "1954",
+   "compositionCirca": false,
+   "dates": "1954",
+   "publicationDate": "1955",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (seven nine-line stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Church Going is a poem by Philip Larkin, written in 1954 and first published in his collection The Less Deceived (Marvell Press, 1955). An agnostic cyclist stops at an empty country church and, half mocking his own awkward reverence, asks what churches will become when belief has gone and why such buildings still draw him. It is generally regarded as one of his masterpieces.",
+   "summary": "The speaker's visit to an empty church: his inventory of its furnishings, the words he reads aloud from the lectern, the Irish sixpence he leaves; his speculation about what the building will become when no one uses it; and his conclusion that it remains 'a serious house on serious earth'.",
+   "plot": "Making sure nothing is going on inside, the speaker lets the door close behind him and takes off his cycle-clips in awkward reverence. He notes the flowers, the brass and the organ, runs a hand over the font, mounts the lectern and reads a few verses, ending 'Here endeth' much more loudly than he meant, signs the book and donates an Irish sixpence, deciding the place was not worth stopping for. Yet he did stop, as he often does, and he wonders what he is looking for. When churches fall out of use, will they be kept as museums, left to the rain and sheep, or visited by women with children for luck and cures? Who will be the last to seek the place for what it was: a scholar of rood-lofts, a lover of ruins, a Christmas-addict, or someone like himself, bored and uninformed but drawn to the spot where marriage, birth and death were solemnised? The final stanza answers with a tone of settled conviction: the building's air holds all our compulsions, recognised and robed as destinies, and someone will always discover in himself a hunger to be more serious and gravitate to this ground, which he once heard was proper to grow wise in, if only because so many dead lie round.",
+   "significance": "One of the best-known English poems of the century, and the poem that fixed the image of Larkin as the cycle-clipped, unillusioned observer; it is among his most anthologised and studied works.",
+   "meter": "Colloquial, self-deprecating narration ('brass and stuff / Up at the holy end') that rises into formal, almost liturgical cadence at the close; precise physical detail and comic deflation.",
+   "context": "Drafted from April 1954 through some twenty-one pages, abandoned and resumed, and finished in July 1954 while Larkin was sub-librarian at Queen's University, Belfast; The Less Deceived made his reputation the following year.",
+   "characters": "",
+   "structure": "Seven nine-line stanzas in iambic pentameter, rhymed, moving from anecdote to speculation and to a closing stanza of grave statement.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Formal Verse",
+    "Lyric Poetry",
+    "Religious Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "Church Going (Wikipedia)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1991,
    "title": "Clarel: A Poem and Pilgrimage in the Holy Land",
    "altTitles": [],
@@ -95492,6 +95620,57 @@
    ]
   },
   {
+   "id": 2897,
+   "title": "Going, Going",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1972",
+   "compositionEnd": "1972",
+   "compositionCirca": false,
+   "dates": "1972",
+   "publicationDate": "1972",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (nine six-line stanzas; commissioned)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Going, Going is a poem by Philip Larkin commissioned by the Department of the Environment and first printed in its working party report on the human habitat, How Do You Want to Live? (1972), then collected in High Windows (1974). It foresees the English countryside lost to development and profit.",
+   "summary": "The speaker's former confidence that the fields would last his time; the demands for more houses, parking and caravan sites; the business pages and takeover bids; and the prophecy that England will be gone, leaving concrete and tyres.",
+   "plot": "The speaker had thought the sense of fields and farms beyond the town would last his time, and that the earth would always recover however it was abused. Now he doubts it, or perhaps is only getting old: the young crowd in the motorway cafe want more houses, more parking, more caravan sites, more pay, and the business pages approve takeovers that move industry into the unspoilt dales. Before he dies, he thinks, the whole country will be bricked in except for the tourist parts, the first slum of Europe; and that will be England gone, the shadows, meadows, lanes, guildhalls and carved choirs surviving only in books and galleries. Most things are never meant, he ends, but the greeds and garbage are too thick-strewn to be swept up now: he thinks it will happen soon.",
+   "significance": "Larkin's best-known public poem and an early literary statement of environmental anxiety in Britain, often quoted in debates about planning and the countryside.",
+   "meter": "Conversational, sardonic and plain, with lists of modern clutter set against a lyrical inventory of the England being lost.",
+   "context": "Completed on 25 January 1972 for the report of a Department of the Environment working party; Her Majesty's Stationery Office gave permission for its inclusion in High Windows.",
+   "characters": "",
+   "structure": "Nine six-line stanzas, rhymed, moving from memory through satire of the present to prophecy.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Formal Verse",
+    "Political Poetry",
+    "Social Poetry"
+   ],
+   "themes": [
+    "Land, place and regional belonging",
+    "Nationhood and national identity",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "High Windows (Wikipedia)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2403,
    "title": "Gold Coast Customs",
    "altTitles": [],
@@ -98814,6 +98993,56 @@
    ]
   },
   {
+   "id": 2896,
+   "title": "High Windows (poem)",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1967",
+   "compositionEnd": "1967",
+   "compositionCirca": false,
+   "dates": "1967",
+   "publicationDate": "1974",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (five quatrains)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "High Windows is the title poem of Philip Larkin's last collection, High Windows (Faber, 1974), completed in February 1967. An older man watching a young couple imagines their sexual freedom as the paradise his generation dreamed of, wonders whether his own freedom from religion once looked like paradise to his elders, and ends not in words but in an image of high windows and endless blue air.",
+   "summary": "The speaker's coarse imagining of a young couple's sex life; the reflection that every generation envies the next its freedom, and that his own youth was free of God and hell; and the final image of sun-filled glass and empty sky.",
+   "plot": "Seeing a couple of kids, the speaker guesses that the boy is sleeping with the girl and that she takes the pill or wears a diaphragm, and he knows this is the paradise everyone old has dreamed of, with bonds and gestures pushed aside like an outdated combine harvester and the young sliding endlessly down to happiness. He wonders whether anyone looked at him forty years earlier and thought the same: no God any more, no sweating in the dark about hell, no hiding what you think of the priest, who will go down the long slide too, like free bloody birds. Then, rather than words, comes the thought of high windows: the sun-comprehending glass and, beyond it, the deep blue air that shows nothing, and is nowhere, and is endless.",
+   "significance": "One of Larkin's most celebrated and discussed poems, and the title piece of the collection Clive James called 'despair made beautiful'.",
+   "meter": "Obscenity and slang in the opening lines set against the lyrical abstraction of the close, a contrast characteristic of late Larkin.",
+   "context": "Completed on 12 February 1967, the year of the Sexual Offences Act and of rapidly changing sexual mores, while Larkin lived in the top flat of 32 Pearson Park, Hull, whose windows are widely believed to have suggested the image.",
+   "characters": "",
+   "structure": "Five four-line stanzas, loosely rhymed, with a turn at the last stanza from argument to image.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Formal Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Faith, doubt and the sacred",
+    "Sexuality, desire and the closet"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "High Windows (Wikipedia)",
+    "High Windows (poem) (Wikipedia)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2503,
    "title": "Highland River",
    "altTitles": [],
@@ -99610,6 +99839,56 @@
    "sources": [
     "The Cambridge Companion to John Donne",
     "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+   ]
+  },
+  {
+   "id": 2899,
+   "title": "Homage to a Government",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1969",
+   "compositionEnd": "1969",
+   "compositionCirca": false,
+   "dates": "1969",
+   "publicationDate": "1969",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (three six-line stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Homage to a Government is an ironic poem by Philip Larkin about the British withdrawal of its forces from east of Suez because the country could no longer pay for them. Completed in January 1969, it first appeared in The Sunday Times and was collected in High Windows (1974).",
+   "summary": "The announcement that the soldiers are to come home for lack of money; the repeated assurance that this is all right; and the picture of a country whose statues stand unchanged while it has become a different country.",
+   "plot": "Next year, the poem begins, we are to bring the soldiers home for lack of money, and it is all right: the places they guarded must guard themselves, and we want the money for ourselves at home instead of working. It is hard to say who wanted it, but nobody minds; the places are far off, and from what we hear the soldiers only made trouble. Next year we shall live in a country that brought its soldiers home for lack of money; the statues will stand in the same tree-muffled squares, our children will not know it is a different country, and all we can hope to leave them now is money.",
+   "significance": "Larkin's most explicitly political poem, often cited in discussions of his conservatism and of the literature of Britain's imperial decline.",
+   "meter": "Deadpan irony, the government's own reassuring idiom turned against it.",
+   "context": "Written after the Labour government's decision, announced in January 1968, to withdraw British forces from east of Suez by 1971; a commentator quotes Larkin calling the withdrawal for reasons of cost 'a dreadful humiliation'.",
+   "characters": "",
+   "structure": "Three six-line stanzas whose line endings repeat key words (home, right, orderly, money), giving the poem the sound of a flat, repeated excuse.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Formal Verse",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "An Arundel Tomb (Gale, Poetry for Students, via Encyclopedia.com)",
+    "High Windows (Wikipedia)",
+    "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -115577,6 +115856,57 @@
     "The Cambridge Companion to British Romanticism",
     "The Complete Poetical Works of Lord Byron (7 volumes)",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period"
+   ]
+  },
+  {
+   "id": 2894,
+   "title": "MCMXIV",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1960",
+   "compositionEnd": "1960",
+   "compositionCirca": false,
+   "dates": "1960",
+   "publicationDate": "1964",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (four eight-line stanzas forming one sentence)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "MCMXIV, the year 1914 in Roman numerals as on a war memorial, is a poem by Philip Larkin completed in May 1960 and first published in The Whitsun Weddings (Faber, 1964). A single sentence over four stanzas, without a main verb, it looks at what seems a photograph of volunteers queuing to enlist in August 1914 and at the England around them, and ends: 'Never such innocence again'.",
+   "summary": "The long queues of men outside the recruiting offices; the shut shops, the coins and advertisements, the children named after kings and queens; the countryside and the great houses with their servants; and the closing lament for an innocence that changed into the past without a word.",
+   "plot": "The poem opens on the lines of men standing patiently as if outside a cricket or football ground, their moustached, archaic faces grinning as if the war were an August Bank Holiday lark. It widens to the streets behind them, with shops shut and blinds drawn, farthings and sovereigns, children at play called after kings and queens, tin advertisements for cocoa and twist and pubs open all day, and then to the countryside, where the place names are hidden under the summer grass and the servants live in tiny rooms in huge houses. The last stanza turns to judgement: never such innocence before or since, which became the past without a word, with the men leaving the gardens tidy and the thousands of marriages lasting a little while longer. The war that ended this world is never described; the poem knows, as its people cannot, what is about to happen to them.",
+   "significance": "One of the best-known English poems about the First World War written after it, often taught beside the poems of the war poets; its closing line has become proverbial.",
+   "meter": "Rhymed short lines, a catalogue of period detail and a restrained, elegiac cadence, with the Roman-numeral title recalling the inscriptions on war memorials.",
+   "context": "Completed on 17 May 1960; collected in The Whitsun Weddings, published by Faber on 28 February 1964, the book that established Larkin with a wider public.",
+   "characters": "",
+   "structure": "Four eight-line stanzas forming one sentence with no main verb, built of noun phrases, so that the scene stays suspended in time until the closing lines.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "History, truth and the uses of the past",
+    "Nationhood and national identity",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "List of poems by Philip Larkin (Wikipedia)",
+    "MCMXIV (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "The Whitsun Weddings (Wikipedia)"
    ]
   },
   {
@@ -133231,6 +133561,53 @@
    ]
   },
   {
+   "id": 2902,
+   "title": "Politics and the English Language",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Orwell"
+   ],
+   "authorIds": [
+    839
+   ],
+   "compositionStart": "1945",
+   "compositionEnd": "1945",
+   "compositionCirca": false,
+   "dates": "1945",
+   "publicationDate": "1946",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Politics and the English Language is an essay by George Orwell, first published in the April 1946 issue of the monthly Horizon and collected in Shooting an Elephant and Other Essays (1950). It argues that the English of its time was ugly and inaccurate, that slovenly language and foolish thought reinforce each other, and that political language in particular is designed to make lies sound truthful and murder respectable. It closes with six rules for clear writing, and has become one of the most reprinted essays in English.",
+   "summary": "Five specimen passages of bad contemporary prose; a catalogue of faults (dying metaphors, verbal false limbs, pretentious diction, meaningless words); a parody of a verse of Ecclesiastes in modern officialese; the analysis of political euphemism; the argument that insincerity is the great enemy of clear language; and six rules, with the claim that the decline of the language is reversible.",
+   "plot": "Orwell begins by rejecting the view that the decline of English is a natural, irreversible process. Language becomes ugly and inaccurate because our thoughts are foolish, but its slovenliness makes it easier to have foolish thoughts, as a man may drink because he feels a failure and then fail the more completely because he drinks; the process can be reversed by people willing to take the trouble. He quotes five passages, by Harold Laski, Lancelot Hogben, an essay on psychology in the American magazine Politics, a communist pamphlet and a letter to Tribune, and draws from them a catalogue of swindles and perversions: dying metaphors used without thought of their meaning, 'operators or verbal false limbs' that pad sentences with phrases instead of verbs, pretentious diction that dresses up bias as impartial and scientific, and meaningless words, common in art and literary criticism and in political terms such as democracy and fascism. Modern prose, he says, consists less of words chosen for their meaning than of phrases tacked together like the sections of a prefabricated henhouse, and he demonstrates it by translating a verse of Ecclesiastes ('the race is not to the swift') into modern English of the worst sort. Political speech and writing are largely the defence of the indefensible: the bombing of defenceless villages is called pacification, the expulsion of peasants transfer of population, imprisonment without trial elimination of unreliable elements. Orthodoxy demands a lifeless, imitative style, and the great enemy of clear language is insincerity: when there is a gap between real and declared aims, one turns to long words and exhausted idioms like a cuttlefish spurting out ink. Ready-made phrases think for the writer and can even conceal his meaning from himself. Orwell proposes that a writer should let the meaning choose the words, and offers six rules: never use a figure of speech you are used to seeing in print; never use a long word where a short one will do; cut every word you can; never use the passive where you can use the active; never use a foreign phrase, scientific word or jargon if there is an everyday English equivalent; and break any of these rules sooner than say anything outright barbarous. He concedes that his own essay commits the faults it attacks, insists that he is concerned with language as an instrument for expressing thought, not with its literary use, and ends that political language is designed to give an appearance of solidity to pure wind, and that one can at least send some worn-out phrase into the dustbin where it belongs.",
+   "significance": "One of the most influential essays in English on style and on political language. Lynn Z. Bloom found it reprinted 118 times in 325 editions of 58 composition readers published between 1946 and 1996, and it remains a staple of writing courses; its phrases about making lies sound truthful and murder respectable are constantly quoted in discussion of political rhetoric.",
+   "meter": "Plain, concrete and vigorous prose, rich in homely analogies (the drinker, the cuttlefish, the prefabricated henhouse, the packet of aspirins at one's elbow), quoting its examples and parodying them; Orwell admits that the essay itself breaks some of its rules.",
+   "context": "Written in late 1945, when Orwell's payment book records it on 11 December, after the success of Animal Farm and the death of his wife; it was meant for George Weidenfeld's Contact, which turned it down, and appeared in Horizon almost at the same time as 'The Prevention of Literature', which shares its concern with truth and language under political pressure.",
+   "characters": "",
+   "structure": "An argumentative essay that moves from a general claim, through quoted specimens and a classified catalogue of faults, to the political analysis and the practical rules, ending with qualifications and a short peroration.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Literary Essay",
+    "Political Essay"
+   ],
+   "themes": [
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance"
+   ],
+   "movements": [],
+   "editions": [],
+   "sources": [
+    "George Orwell bibliography (Wikipedia)",
+    "Politics and the English Language (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 754,
    "title": "Polly",
    "altTitles": [
@@ -138471,6 +138848,54 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2898,
+   "title": "Sad Steps",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1968",
+   "compositionEnd": "1968",
+   "compositionCirca": false,
+   "dates": "1968",
+   "publicationDate": "1974",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (six tercets)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Sad Steps is a poem by Philip Larkin, completed in April 1968 and collected in High Windows (1974). Its title comes from Sir Philip Sidney's sonnet 'With how sad steps, O Moon, thou climb'st the skies'; Larkin's sad steps are a middle-aged man's on his way back to bed.",
+   "summary": "The speaker's sight of the moon at four in the morning; his mockery of the poetic moon; and his sober recognition of what it reminds him of.",
+   "plot": "Groping back to bed after a piss, the speaker parts the curtains and is startled by the rapid clouds and the moon's cleanliness over the wedge-shadowed gardens. There is something laughable about the moon dashing through cloud, high and preposterous and separate, and he tries out and rejects the romantic apostrophes ('Lozenge of love! Medallion of art!'). Instead he shivers: the hardness, brightness and far-reaching singleness of its stare remind him of the strength and pain of being young, which cannot come again but is for others undiminished somewhere.",
+   "significance": "A much-anthologised example of Larkin's dialogue with the English lyric tradition, here with Sidney's Astrophil and Stella.",
+   "meter": "A crude opening, a parody of high poetic diction in the middle, and a sober, generous close.",
+   "context": "Completed on 24 April 1968, during the years of the poems of ageing and mortality that make up much of High Windows.",
+   "characters": "",
+   "structure": "Eighteen lines in six three-line stanzas, rhymed, turning on the word 'No' from mockery to reflection.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "'Sad Steps' toward a Sedate Style (3 Quarks Daily)",
+    "High Windows (Wikipedia)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -147058,6 +147483,55 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2895,
+   "title": "Talking in Bed",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1960",
+   "compositionEnd": "1960",
+   "compositionCirca": false,
+   "dates": "1960",
+   "publicationDate": "1964",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (twelve lines in four tercets)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Talking in Bed is a short poem by Philip Larkin, completed in August 1960 and collected in The Whitsun Weddings (1964), about a couple for whom talk in bed, which ought to be easiest, has become difficult.",
+   "summary": "A couple lying together in silence; the wind, clouds and dark towns outside; and the closing difficulty of finding words at once true and kind.",
+   "plot": "Talking in bed ought to be easiest, the speaker begins, since lying together is an emblem of two people being honest; yet more and more time passes in silence. Outside the wind builds and disperses clouds and dark towns heap up on the horizon, and none of it cares for the couple. Nothing explains why, at this unique distance from isolation, it becomes still harder to find words at once true and kind, or not untrue and not unkind.",
+   "significance": "Frequently anthologised and taught; its last lines are among Larkin's most quoted.",
+   "meter": "Plain statement, a single image of wind and towns, and a final litotes ('not untrue and not unkind') that enacts the hesitation it describes.",
+   "context": "One of the poems of love and marriage in The Whitsun Weddings, written in the year of 'MCMXIV'.",
+   "characters": "",
+   "structure": "Twelve lines in four three-line stanzas, loosely rhymed, ending on a self-correcting double negative.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Love Poetry",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "The Whitsun Weddings (Wikipedia)"
    ]
   },
   {
@@ -164714,6 +165188,57 @@
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century",
     "The Novel: An Anthology of Criticism and Practice, 1700-1800",
     "The Rise of the Novel: Studies in Defoe, Richardson and Fielding"
+   ]
+  },
+  {
+   "id": 2900,
+   "title": "The Explosion",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1970",
+   "compositionEnd": "1970",
+   "compositionCirca": false,
+   "dates": "1970",
+   "publicationDate": "1974",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (eight unrhymed tercets and a single line)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The Explosion is a poem by Philip Larkin, completed in January 1970 and placed last in his final collection, High Windows (1974). It describes the morning of a mining disaster, the men walking to the pit, the tremor at noon, and the moment in which their widows, hearing the promises of the funeral service, see the dead transfigured.",
+   "summary": "Miners walking to the pithead on a sunny morning; one of them finding a nest of lark's eggs and putting it back; the tremor at noon; words of consolation from the chapel; and the wives' vision of their men walking towards them, one showing the eggs unbroken.",
+   "plot": "On the day of the explosion, shadows point towards the pithead and the slagheap sleeps in the sun. Men in pitboots come down the lane, coughing oath-edged talk and pipe-smoke; one chases rabbits, loses them, and comes back with a nest of lark's eggs, which he shows the others and puts back in the grass. Fathers, brothers, nicknames, laughter, they pass through the tall gates. At noon there is a tremor; cows stop chewing for a second, and the sun dims as in a heat-haze. The explosion itself and the deaths underground are never shown. In italic lines the language of the chapel promises that the dead go on before us and that we shall see them face to face; and for a second the wives see the men of the explosion larger than in life, gold as on a coin, walking somehow from the sun towards them, one showing the eggs unbroken.",
+   "significance": "One of Larkin's most admired late poems, often read as a counterweight to his scepticism because it grants the religious vision a moment of reality; widely anthologised and taught.",
+   "meter": "Spare, concrete narration in clipped clauses, a shift to a formal, scriptural register in the italic stanza, and a visionary close unusual in Larkin.",
+   "context": "Completed on 5 January 1970. Larkin's papers include correspondence with the Poem of the Month Club about reprinting it in High Windows, of which it is the last poem.",
+   "characters": "",
+   "structure": "Twenty-five lines: eight unrhymed three-line stanzas and a final isolated line, in trochaic tetrameter with variations, the measure of Longfellow's Hiawatha.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "High Windows (Wikipedia)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
+    "The Explosion by Philip Larkin (EBSCO Research Starters)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -208660,6 +209185,58 @@
    ]
   },
   {
+   "id": 2901,
+   "title": "This Be The Verse",
+   "altTitles": [
+    "This Be the Verse"
+   ],
+   "authorship": "single",
+   "authors": [
+    "Philip Larkin"
+   ],
+   "authorIds": [
+    849
+   ],
+   "compositionStart": "1971",
+   "compositionEnd": "1971",
+   "compositionCirca": false,
+   "dates": "1971",
+   "publicationDate": "1971",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (three quatrains)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "This Be The Verse is a poem by Philip Larkin, first published in the August 1971 issue of New Humanist and collected in High Windows (1974). Its profane first line about parents and its advice not to have children have made it one of the most quoted English poems of the century.",
+   "summary": "The claim that parents pass on their faults to their children; the observation that their own parents did the same; and the conclusion that misery is handed down and the only escape is to have no children.",
+   "plot": "Your parents mess you up, the speaker says in far blunter words: they do not mean to, but they fill you with their faults and add some extra just for you. They were messed up in their turn by fools in old-style hats and coats, who were half the time soppy-stern and half at one another's throats. Man hands on misery to man; it deepens like a coastal shelf. Get out as early as you can, the poem ends, and don't have any kids yourself: the only way to stop the inheritance is to refuse to pass it on.",
+   "significance": "Larkin's most quoted poem, endlessly cited and parodied; Wikipedia, citing the Oxford Companion to Modern Poetry, notes its dark humour, directness and taboo-breaking language.",
+   "meter": "Shocking colloquial obscenity in a strict, light-verse form; the title parodies Robert Louis Stevenson's 'Requiem' ('This be the verse you grave for me').",
+   "context": "Completed in April 1971 and first printed in New Humanist, the journal of the Rationalist Press Association, in August 1971.",
+   "characters": "",
+   "structure": "Three four-line stanzas of rhymed iambic tetrameter, the neat form of a hymn or epitaph.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Formal Verse",
+    "Light Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life"
+   ],
+   "movements": [
+    "The Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "High Windows (Wikipedia)",
+    "List of poems by Philip Larkin (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "This Be the Verse (Wikipedia)"
+   ]
+  },
+  {
    "id": 2887,
    "title": "Those Who Eat the Cascadura",
    "altTitles": [],
@@ -214969,6 +215546,55 @@
    "editions": [],
    "sources": [
     "The Cambridge History of Early Modern English Literature"
+   ]
+  },
+  {
+   "id": 2903,
+   "title": "Waiting for Aunty to Cough",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Samuel Selvon"
+   ],
+   "authorIds": [
+    851
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1957",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Waiting for Aunty to Cough is a comic story by Samuel Selvon about Brackley, a young West Indian in London, and his English girlfriend Beatrice. It appeared in the Evening Standard on 1 April 1957 and was collected the same year in the London part of Ways of Sunlight.",
+   "summary": "Brackley's nightly journeys to see Beatrice home to the far suburbs; a night when she has forgotten her key and they wait outside for her aunt to cough; his violent solution at dawn; and the joke the boys make of it.",
+   "plot": "Brackley, who has taken up with a girl living far from central London, must see Beatrice home every night and make his way back late, missing buses and trains. One night she has forgotten her door key, and rather than rouse the household they wait in the cold outside the house in the early hours, hoping to hear Aunty cough. Beatrice dozes on his arm while Brackley, folded into the small doorway, cramped and frozen, waits through the night. Between five and half past he thinks he hears Aunty cough and, to Beatrice's amazement and horror, pelts the house with a stone. Word gets round, and the boys never let him forget it, hailing him with 'Brackley! You still waiting for Aunty to cough?'",
+   "significance": "A frequently anthologised example of Selvon's comic London writing and of his use of Caribbean speech in narration.",
+   "meter": "Selvon's creolised narrative voice, with Trinidadian syntax and idiom carrying the comedy.",
+   "context": "One of the London stories of Ways of Sunlight (1957), written in the years of The Lonely Londoners and of the Windrush migration; Selvon's papers at the University of the West Indies hold its manuscript and the Evening Standard clipping.",
+   "characters": "",
+   "structure": "An anecdote framed as a story told among 'the boys', ending on their catch-phrase.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Short Story"
+   ],
+   "themes": [
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Remembering Sam Selvon's Short Stories (Thresholds, University of Chichester)",
+    "Sam Selvon Collection (SC33), finding aid (The Alma Jordan Library, University of the West Indies)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {

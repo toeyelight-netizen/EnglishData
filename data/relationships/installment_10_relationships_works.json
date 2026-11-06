@@ -239,6 +239,61 @@
    "work": "Highway in the Sun and Other Plays",
    "author": "Samuel Selvon",
    "contribution_type": "author"
+  },
+  {
+   "work": "Church Going",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "MCMXIV",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Talking in Bed",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "High Windows (poem)",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Going, Going",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sad Steps",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Homage to a Government",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Explosion",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "This Be The Verse",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Politics and the English Language",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "author": "Samuel Selvon",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -578,6 +633,85 @@
    "genres": [
     "Radio Drama",
     "Television Drama"
+   ]
+  },
+  {
+   "work": "Church Going",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "MCMXIV",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Talking in Bed",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "High Windows (poem)",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Going, Going",
+   "genres": [
+    "Political Poetry",
+    "Social Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Sad Steps",
+   "genres": [
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Homage to a Government",
+   "genres": [
+    "Political Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Explosion",
+   "genres": [
+    "Elegiac Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "This Be The Verse",
+   "genres": [
+    "Light Verse",
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Politics and the English Language",
+   "genres": [
+    "Political Essay",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "genres": [
+    "Short Story"
    ]
   }
  ],
@@ -968,6 +1102,90 @@
     "Family, marriage and domestic life",
     "Migration, exile and diaspora"
    ]
+  },
+  {
+   "work": "Church Going",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "MCMXIV",
+   "themes": [
+    "War, combat and its aftermath",
+    "History, truth and the uses of the past",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Talking in Bed",
+   "themes": [
+    "Love, intimacy and loss",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "High Windows (poem)",
+   "themes": [
+    "Sexuality, desire and the closet",
+    "Faith, doubt and the sacred",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Going, Going",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Nationhood and national identity",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Sad Steps",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Homage to a Government",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "The Explosion",
+   "themes": [
+    "Death, illness and mourning",
+    "Class, labour and social mobility",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "This Be The Verse",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Politics and the English Language",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "themes": [
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space",
+    "Love, intimacy and loss"
+   ]
   }
  ],
  "work_movements": [
@@ -1096,6 +1314,67 @@
    "movements": [
     "Caribbean Literature in English"
    ]
+  },
+  {
+   "work": "Church Going",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "MCMXIV",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Talking in Bed",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "High Windows (poem)",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Going, Going",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Sad Steps",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Homage to a Government",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "The Explosion",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "This Be The Verse",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Waiting for Aunty to Cough",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
   }
  ],
  "work_periods": [
@@ -1149,7 +1428,18 @@
     "Moses Migrating",
     "Eldorado West One",
     "Foreday Morning: Selected Prose 1946-1986",
-    "Highway in the Sun and Other Plays"
+    "Highway in the Sun and Other Plays",
+    "Church Going",
+    "MCMXIV",
+    "Talking in Bed",
+    "High Windows (poem)",
+    "Going, Going",
+    "Sad Steps",
+    "Homage to a Government",
+    "The Explosion",
+    "This Be The Verse",
+    "Politics and the English Language",
+    "Waiting for Aunty to Cough"
    ]
   }
  ]

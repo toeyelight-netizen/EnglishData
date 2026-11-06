@@ -45,12 +45,18 @@
     "Cultural Criticism",
     "Elegiac Poetry",
     "Formal Verse",
+    "Light Verse",
     "Literary Criticism",
     "Literary Essay",
     "Literary Journalism",
     "Literary Novel",
+    "Love Poetry",
     "Lyric Poetry",
-    "Psychological Novel"
+    "Narrative Poetry",
+    "Political Poetry",
+    "Psychological Novel",
+    "Religious Poetry",
+    "Social Poetry"
    ]
   },
   {
@@ -160,20 +166,25 @@
    "themes": [
     "Alienation, absurdity and existential freedom",
     "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
     "Class, labour and social mobility",
     "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
     "Education, institutions and the academy",
     "Faith, doubt and the sacred",
     "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
     "Identity, authenticity and the divided self",
     "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
     "Love, intimacy and loss",
     "Migration, exile and diaspora",
     "Nationhood and national identity",
     "Nature, ecology and environmental crisis",
     "Sexuality, desire and the closet",
     "Technology, media and consumer society",
-    "The city, the suburb and modern space"
+    "The city, the suburb and modern space",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -254,10 +265,15 @@
    "sources": [
     "Aubade (The Philip Larkin Society, philiplarkin.com)",
     "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
+    "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
+    "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
+    "List of poems by Philip Larkin (Wikipedia)",
     "List of winners and nominated authors of the Booker Prize (Wikipedia)",
+    "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
     "Philip Larkin (EBSCO Research Starters)",
     "Philip Larkin (New World Encyclopedia)",
     "Philip Larkin (Wikipedia, via Wikiwand)",
+    "The Explosion by Philip Larkin (EBSCO Research Starters)",
     "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
    ]
   },
@@ -279,8 +295,10 @@
     "Highway in the Sun (Peepal Tree Press)",
     "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
     "Race and Community in Sam Selvon's Fiction (Northern Arizona University web essay)",
+    "Remembering Sam Selvon's Short Stories (Thresholds, University of Chichester)",
     "Sam Selvon (South Asian Britain: Connecting Histories)",
     "Sam Selvon (Wikipedia)",
+    "Sam Selvon Collection (SC33), finding aid (The Alma Jordan Library, University of the West Indies)",
     "Sam Selvon at 100 (1923-2023), by Shireen Ali (Caribbean Beat)",
     "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
     "Samuel Selvon (Encyclopaedia Britannica)",

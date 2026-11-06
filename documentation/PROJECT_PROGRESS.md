@@ -11,7 +11,7 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
   (five authors kept from waves 01–12 under the third scope decision), giving
-  **851 authors / 2892 works** across ten periods (c. 450–2000).
+  **851 authors / 2903 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
@@ -1776,6 +1776,13 @@ with broader Anglophone writing out of scope.
     the Sun*, "Aubade").
   - **Audit:** Audit 1 and the coverage matrix now measure the records against
     the Norton lists; the discovery inventory is kept as superseded research.
+- **Wave 13:** the Norton selections of the recorded authors: Larkin's
+  "Church Going", "MCMXIV", "Talking in Bed", "High Windows" (recorded as
+  *High Windows (poem)*), "Going, Going", "Sad Steps", "Homage to a
+  Government", "The Explosion" and "This Be The Verse"; Orwell's "Politics
+  and the English Language" (major record); Selvon's "Waiting for Aunty to
+  Cough". Eleven works, all partially verified; 14 of the 254 selections
+  in the period now have records.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1884,4 +1891,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 48 works by 5 authors; 3 of 254 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 59 works by 5 authors; 14 of 254 selections recorded) |
