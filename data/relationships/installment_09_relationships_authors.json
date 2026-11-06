@@ -495,12 +495,15 @@
   {
    "author": "George Orwell",
    "genres": [
+    "Autobiography and the Modern Memoir",
     "Condition-of-England Novel and the Edwardian Social Panorama",
     "Critical Essay and the Modern Review",
     "Documentary Prose and the Reportage Book",
     "Dystopian Fiction and the Anti-Utopian Satire",
+    "Experimental Novel and the Modernist Form",
     "Novel of Consciousness and the Stream of Mind",
     "Novel of Development and the Growth Story",
+    "Polemic, Pamphlet, and Open Letter",
     "War Memoir and the Autobiographical Testimony"
    ]
   },
@@ -907,9 +910,7 @@
   {
    "author": "Malcolm Muggeridge",
    "genres": [
-    "Comic Novel and the Satire of Manners",
-    "Documentary Prose and the Reportage Book",
-    "Realist Novel of Common Life"
+    "Comic Novel and the Satire of Manners"
    ]
   },
   {
@@ -3320,16 +3321,21 @@
   {
    "author": "George Orwell",
    "themes": [
+    "Art versus life, and the romance of the artist",
     "Childhood, the nursery, and the Edwardian idyll",
     "Class, the servant problem, and the new democracy",
+    "Education, the schools, and the cultivation of the self",
     "Empire, the imperial idea, and its discontents",
     "Money, credit, speculation, and the joint-stock imagination",
+    "National identity and Englishness",
     "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
     "The Depression, unemployment, and the hunger march",
     "The First World War and the myth of sacrifice",
     "The countryside, the vanishing rural world, and the motor road",
     "The suburb, the villa, and the new domesticity",
-    "Totalitarianism, propaganda, and the political novel"
+    "Totalitarianism, propaganda, and the political novel",
+    "Wage labour, the strike, and the two nations"
    ]
   },
   {
@@ -3873,9 +3879,6 @@
   {
    "author": "Malcolm Muggeridge",
    "themes": [
-    "Class, the servant problem, and the new democracy",
-    "Exile, expatriation, and the lost generation",
-    "The absurd, the void, and the failure of meaning",
     "Totalitarianism, propaganda, and the political novel"
    ]
   },

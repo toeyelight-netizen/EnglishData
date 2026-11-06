@@ -6,31 +6,21 @@ from i09_taxonomy import w  # noqa: E402
 
 WORKS = [
 # Malcolm Muggeridge
-w("Picture of Mortimer and Ray", "Malcolm Muggeridge", "1930",
-  "Novel (the satirical novel)",
-  "The satirical novel of the academic and literary London that made Muggeridge's name.",
-  "Picture of Mortimer and Ray follows two Cambridge graduates through the follies of the academic and literary world, the lectures, the marriages and the ridicule, in the satirical novel that made Muggeridge the novelist of the thirties' self-awareness.",
-  "Cambridge and London in the late 1920s, the world of lectures, reviews and the literary comedy.",
-  "Picture of Mortimer and Ray is Muggeridge's satirical novel of the academic and literary world: its two young men and its ridicule made him the novelist of the thirties' self-awareness.",
-  ["Realist Novel of Common Life"],
-  ["The absurd, the void", "Class, the servant problem"],
-  [],
-  comp=("1929", "1930"), chars="the two young men; the lecturers; the reviewers; the literary circle",
-  struct="A satirical novel in the chapters of the academic career.",
-  canon="Secondary canon"),
-
+# Correction (2026-11-06, during installment 10): a record for "Picture of Mortimer
+# and Ray" (1930) stood here. No such book exists: it is absent from Muggeridge's
+# list of works and an exact-title search finds only an unrelated children's book.
+# The record was removed and Winter in Moscow rewritten from the source.
 w("Winter in Moscow", "Malcolm Muggeridge", "1934",
-  "Novel (the Moscow reportage)",
-  "The satirical novel of the fellow-travelling visitors to Stalin's Russia.",
-  "Winter in Moscow follows the visitors and the guides of the Moscow winter, the hotels, the theatres and the famine, in the satirical novel that made Muggeridge the satirist of the Western fellow-travellers and brought him his reputation as a journalist.",
-  "Moscow in the winter of 1932-3, the hotels, the theatres and the famine despatches.",
-  "Winter in Moscow is Muggeridge's classic satirical novel of the fellow-travelling visitors: its hotels, its theatres and its famine made him the satirist of the Western visitors to Stalin's Russia.",
-  ["Comic Novel and the Satire of Manners", "Documentary Prose and the Reportage Book"],
-  ["Totalitarianism, propaganda, and the political novel", "Exile, expatriation, and the lost generation"],
+  "Satirical novel",
+  "Muggeridge's satire of the Soviet Union and of its Western admirers, drawn from his time in Moscow as the Manchester Guardian's stand-in correspondent in 1932-33: it describes conditions in the 'socialist utopia' and satirises Western journalists' uncritical view of the Soviet regime.",
+  "Drawing on what Muggeridge saw in Moscow and on his journey to the famine regions, the book describes conditions in the Soviet 'socialist utopia' and satirises the Western journalists whose reports of the regime were uncritical.",
+  "Muggeridge went to Moscow in 1932, initially attracted by communism, to stand in for the Manchester Guardian's correspondent William Henry Chamberlin. Travelling to Ukraine and the Caucasus without the permission of the Soviet authorities, he reported the famine in despatches sent in the diplomatic bag; those that were printed, on 25, 27 and 28 March 1933, appeared without his name, while Walter Duranty of the New York Times denied that any famine existed. After this conflict with British newspapers' policy of not provoking the Soviet authorities, Muggeridge returned to novel writing.",
+  "The book turned to satire the experience behind Muggeridge's famine reports, which with those of Gareth Jones helped to confirm the extent of the famine; he later called Duranty 'the greatest liar I have met in journalism'. It marks the point at which his politics began to move from an independent socialism towards the conservative religious position of his later career.",
+  ["Comic Novel and the Satire of Manners"],
+  ["Totalitarianism, propaganda, and the political novel"],
   [],
-  comp=("1933", "1934"), chars="the visitors; the guides; the hotels; the Moscow scene",
-  struct="A satirical reportage novel in the seasons of the Moscow winter.",
-  canon="Secondary canon"),
+  canon="Secondary canon",
+  sources=["Malcolm Muggeridge (Wikipedia)"]),
 
 # St John Ervine
 w("Jane Clegg", "St John Ervine", "1913",

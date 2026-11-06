@@ -1891,11 +1891,6 @@
    "contribution_type": "author"
   },
   {
-   "work": "Picture of Mortimer and Ray",
-   "author": "Malcolm Muggeridge",
-   "contribution_type": "author"
-  },
-  {
    "work": "Winter in Moscow",
    "author": "Malcolm Muggeridge",
    "contribution_type": "author"
@@ -2492,6 +2487,26 @@
   },
   {
    "work": "Animal Farm",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Down and Out in Paris and London",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Clergyman's Daughter",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Inside the Whale and Other Essays",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Lion and the Unicorn",
    "author": "George Orwell",
    "contribution_type": "author"
   }
@@ -5048,16 +5063,9 @@
    ]
   },
   {
-   "work": "Picture of Mortimer and Ray",
-   "genres": [
-    "Realist Novel of Common Life"
-   ]
-  },
-  {
    "work": "Winter in Moscow",
    "genres": [
-    "Comic Novel and the Satire of Manners",
-    "Documentary Prose and the Reportage Book"
+    "Comic Novel and the Satire of Manners"
    ]
   },
   {
@@ -5849,6 +5857,32 @@
    "work": "Animal Farm",
    "genres": [
     "Dystopian Fiction and the Anti-Utopian Satire"
+   ]
+  },
+  {
+   "work": "Down and Out in Paris and London",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Documentary Prose and the Reportage Book"
+   ]
+  },
+  {
+   "work": "A Clergyman's Daughter",
+   "genres": [
+    "Experimental Novel and the Modernist Form",
+    "Condition-of-England Novel and the Edwardian Social Panorama"
+   ]
+  },
+  {
+   "work": "Inside the Whale and Other Essays",
+   "genres": [
+    "Critical Essay and the Modern Review"
+   ]
+  },
+  {
+   "work": "The Lion and the Unicorn",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter"
    ]
   }
  ],
@@ -8970,17 +9004,9 @@
    ]
   },
   {
-   "work": "Picture of Mortimer and Ray",
-   "themes": [
-    "The absurd, the void, and the failure of meaning",
-    "Class, the servant problem, and the new democracy"
-   ]
-  },
-  {
    "work": "Winter in Moscow",
    "themes": [
-    "Totalitarianism, propaganda, and the political novel",
-    "Exile, expatriation, and the lost generation"
+    "Totalitarianism, propaganda, and the political novel"
    ]
   },
   {
@@ -9965,6 +9991,36 @@
    "themes": [
     "Totalitarianism, propaganda, and the political novel",
     "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "Down and Out in Paris and London",
+   "themes": [
+    "Wage labour, the strike, and the two nations",
+    "Class, the servant problem, and the new democracy"
+   ]
+  },
+  {
+   "work": "A Clergyman's Daughter",
+   "themes": [
+    "Religion, doubt, and the post-war faith",
+    "Education, the schools, and the cultivation of the self",
+    "Wage labour, the strike, and the two nations"
+   ]
+  },
+  {
+   "work": "Inside the Whale and Other Essays",
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Totalitarianism, propaganda, and the political novel"
+   ]
+  },
+  {
+   "work": "The Lion and the Unicorn",
+   "themes": [
+    "National identity and Englishness",
+    "Class, the servant problem, and the new democracy",
+    "Totalitarianism, propaganda, and the political novel"
    ]
   }
  ],
@@ -11792,6 +11848,18 @@
    "movements": [
     "The Hungry Thirties and the Documentary Novel"
    ]
+  },
+  {
+   "work": "Down and Out in Paris and London",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
+  },
+  {
+   "work": "A Clergyman's Daughter",
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ]
   }
  ],
  "work_periods": [
@@ -12176,7 +12244,6 @@
     "Possible Worlds and Other Essays",
     "Science and the Supernatural",
     "The Marxist Philosophy and the Sciences",
-    "Picture of Mortimer and Ray",
     "Winter in Moscow",
     "Jane Clegg",
     "John Ferguson",
@@ -12296,7 +12363,11 @@
     "Keep the Aspidistra Flying",
     "Coming Up for Air",
     "The Road to Wigan Pier",
-    "Animal Farm"
+    "Animal Farm",
+    "Down and Out in Paris and London",
+    "A Clergyman's Daughter",
+    "Inside the Whale and Other Essays",
+    "The Lion and the Unicorn"
    ]
   }
  ]

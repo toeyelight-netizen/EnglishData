@@ -3,7 +3,7 @@
  "installments": "1-10",
  "counts": {
   "authors": 851,
-  "works": 2884
+  "works": 2887
  },
  "periods": [
   {
@@ -828,6 +828,7 @@
  "sources": [
   "'Lyrical Ballads,' and Other Poems, 1797-1800",
   "A Book of Middle English, 4th edition",
+  "A Clergyman's Daughter (Wikipedia)",
   "A Common Heritage: Noah Webster's Blue-Back Speller",
   "A Guide to Old English, 8th edition",
   "A Narrative of the Life and Adventures of Venture, a Native of Africa: But Resident above Sixty Years in the United States of America. Related by Himself",
@@ -872,6 +873,7 @@
   "Dictionary of Old English: A to I online",
   "Discipline: A Novel (Chawton House Library: Women's Novels)",
   "Douglas Jerrold: 1803-1857",
+  "Down and Out in Paris and London (Wikipedia)",
   "Early American Drama",
   "Early American Drama (Penguin Classics)",
   "Encyclopedia of the Enlightenment",
@@ -898,6 +900,8 @@
   "Heart of Darkness: A Norton Critical Edition, 3rd edn",
   "Hobomok: A Tale of Early Times (Broadview Edition)",
   "Hope Leslie: Or, Early Times in the Massachusetts (American Women Writers series)",
+  "Inside the Whale (Wikipedia)",
+  "Inside the Whale and Other Essays (Wikipedia)",
   "Jack London: Novels and Social Writings (Library of America, vol. 7)",
   "Jack Sheppard (Broadview Editions)",
   "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
@@ -926,6 +930,7 @@
   "Lydia Sigourney: Selected Poetry and Prose (Broadview Editions)",
   "Macaulay: Prose and Poetry",
   "Major Literary Prizes (Post45 Data Collective)",
+  "Malcolm Muggeridge (Wikipedia)",
   "Maria Edgeworth: A Literary Biography",
   "Maria Edgeworth: Letters from England, 1813-1844",
   "Maria Graham's Journal of a Voyage to Brazil (Writing Travel)",
@@ -1108,6 +1113,7 @@
   "The Life of Sir Humphry Davy, Bart. (2 volumes)",
   "The Life of Washington (The John Harvard Library)",
   "The Life, Travels, and Opinions of Benjamin Lundy: Including His Journeys to Texas and Mexico; with a Sketch of Contemporary Events, and a Notice of the Revolution in Hayti",
+  "The Lion and the Unicorn: Socialism and the English Genius (Wikipedia)",
   "The Literature of Political Economy: A Classified Catalogue of Select Publications in the Different Departments of That Science, with Historical, Critical and Biographical Notices (Cambridge Library Collection)",
   "The Major Works of Sir Thomas Browne",
   "The Monk (Oxford World's Classics)",
@@ -1883,7 +1889,7 @@
    ],
    "works": [
     {
-     "id": 2834,
+     "id": 2837,
      "title": "The New Negro: An Interpretation"
     }
    ],
@@ -1948,43 +1954,43 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2872,
+     "id": 2875,
      "title": "Good Morning Blues: The Autobiography of Count Basie"
     },
     {
-     "id": 2868,
+     "id": 2871,
      "title": "South to a Very Old Place"
     },
     {
-     "id": 2871,
+     "id": 2874,
      "title": "Stomping the Blues"
     },
     {
-     "id": 2875,
+     "id": 2878,
      "title": "The Blue Devils of Nada: A Contemporary American Approach to Aesthetic Statement"
     },
     {
-     "id": 2869,
+     "id": 2872,
      "title": "The Hero and the Blues"
     },
     {
-     "id": 2867,
+     "id": 2870,
      "title": "The Omni-Americans: New Perspectives on Black Experience and American Culture"
     },
     {
-     "id": 2874,
+     "id": 2877,
      "title": "The Seven League Boots"
     },
     {
-     "id": 2873,
+     "id": 2876,
      "title": "The Spyglass Tree"
     },
     {
-     "id": 2876,
+     "id": 2879,
      "title": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray"
     },
     {
-     "id": 2870,
+     "id": 2873,
      "title": "Train Whistle Guitar"
     }
    ],
@@ -2624,7 +2630,7 @@
    ],
    "works": [
     {
-     "id": 2704,
+     "id": 2707,
      "title": "The Willows"
     }
    ],
@@ -2883,11 +2889,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2591,
+     "id": 2590,
      "title": "Mary Broome"
     },
     {
-     "id": 2592,
+     "id": 2591,
      "title": "The Choice"
     }
    ],
@@ -3565,7 +3571,7 @@
    ],
    "works": [
     {
-     "id": 2770,
+     "id": 2773,
      "title": "The Contemplative Quarry"
     }
    ],
@@ -4373,11 +4379,11 @@
    ],
    "works": [
     {
-     "id": 2824,
+     "id": 2827,
      "title": "Black Thunder"
     },
     {
-     "id": 2825,
+     "id": 2828,
      "title": "God Sends Sunday"
     }
    ],
@@ -4727,11 +4733,11 @@
    ],
    "works": [
     {
-     "id": 2705,
+     "id": 2708,
      "title": "The Great God Pan"
     },
     {
-     "id": 2706,
+     "id": 2709,
      "title": "The Hill of Dreams"
     }
    ],
@@ -6286,11 +6292,11 @@
    ],
    "works": [
     {
-     "id": 2682,
+     "id": 2681,
      "title": "The Heart Is a Lonely Hunter"
     },
     {
-     "id": 2683,
+     "id": 2682,
      "title": "The Member of the Wedding"
     }
    ],
@@ -7176,7 +7182,7 @@
    ],
    "works": [
     {
-     "id": 2765,
+     "id": 2768,
      "title": "Marlborough and Other Poems"
     }
    ],
@@ -7631,7 +7637,7 @@
    ],
    "works": [
     {
-     "id": 2769,
+     "id": 2772,
      "title": "The Farmer's Bride"
     }
    ],
@@ -8071,11 +8077,11 @@
    ],
    "works": [
     {
-     "id": 2690,
+     "id": 2689,
      "title": "Goodbye to Berlin"
     },
     {
-     "id": 2689,
+     "id": 2688,
      "title": "Lions and Shadows: An Education in the Twenties"
     }
    ],
@@ -8333,11 +8339,11 @@
    ],
    "works": [
     {
-     "id": 2658,
+     "id": 2657,
      "title": "Harlem Shadows"
     },
     {
-     "id": 2659,
+     "id": 2658,
      "title": "Home to Harlem"
     }
    ],
@@ -8629,11 +8635,11 @@
    ],
    "works": [
     {
-     "id": 2661,
+     "id": 2660,
      "title": "Caroling Dusk"
     },
     {
-     "id": 2660,
+     "id": 2659,
      "title": "Color"
     }
    ],
@@ -9189,7 +9195,7 @@
    ],
    "works": [
     {
-     "id": 2789,
+     "id": 2792,
      "title": "The Maltese Falcon"
     }
    ],
@@ -9404,7 +9410,7 @@
    ],
    "works": [
     {
-     "id": 2758,
+     "id": 2761,
      "title": "In Parenthesis"
     }
    ],
@@ -9754,7 +9760,7 @@
    ],
    "works": [
     {
-     "id": 2793,
+     "id": 2796,
      "title": "Nightwood"
     }
    ],
@@ -9964,7 +9970,7 @@
    ],
    "works": [
     {
-     "id": 2640,
+     "id": 2639,
      "title": "Pointed Roofs"
     }
    ],
@@ -10017,7 +10023,7 @@
    ],
    "works": [
     {
-     "id": 2813,
+     "id": 2816,
      "title": "They Were Sisters"
     }
    ],
@@ -10179,7 +10185,7 @@
    ],
    "works": [
     {
-     "id": 2620,
+     "id": 2619,
      "title": "Tulips and Chimneys"
     }
    ],
@@ -10230,7 +10236,7 @@
    ],
    "works": [
     {
-     "id": 2812,
+     "id": 2815,
      "title": "Miss Mole"
     }
    ],
@@ -10285,11 +10291,11 @@
    ],
    "works": [
     {
-     "id": 2803,
+     "id": 2806,
      "title": "Consequences"
     },
     {
-     "id": 2802,
+     "id": 2805,
      "title": "The Diary of a Provincial Lady"
     }
    ],
@@ -10918,7 +10924,7 @@
    ],
    "works": [
     {
-     "id": 2632,
+     "id": 2631,
      "title": "Undertones of War"
     }
    ],
@@ -11760,7 +11766,7 @@
    ],
    "works": [
     {
-     "id": 2625,
+     "id": 2624,
      "title": "The Collected Poems of Edward Thomas"
     }
    ],
@@ -11998,11 +12004,11 @@
    ],
    "works": [
     {
-     "id": 2649,
+     "id": 2648,
      "title": "The Narrow Place"
     },
     {
-     "id": 2648,
+     "id": 2647,
      "title": "The Story and the Fable"
     }
    ],
@@ -12202,11 +12208,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2587,
+     "id": 2586,
      "title": "Chains"
     },
     {
-     "id": 2588,
+     "id": 2587,
      "title": "The Price of Thomas Scott"
     }
    ],
@@ -12351,15 +12357,15 @@
    ],
    "works": [
     {
-     "id": 2795,
+     "id": 2798,
      "title": "The Death of the Heart"
     },
     {
-     "id": 2796,
+     "id": 2799,
      "title": "The House in Paris"
     },
     {
-     "id": 2794,
+     "id": 2797,
      "title": "The Last September"
     }
    ],
@@ -13391,15 +13397,15 @@
    ],
    "works": [
     {
-     "id": 2669,
+     "id": 2668,
      "title": "A Farewell to Arms"
     },
     {
-     "id": 2670,
+     "id": 2669,
      "title": "In Our Time"
     },
     {
-     "id": 2668,
+     "id": 2667,
      "title": "The Sun Also Rises"
     }
    ],
@@ -13632,11 +13638,11 @@
    ],
    "works": [
     {
-     "id": 2680,
+     "id": 2679,
      "title": "A Curtain of Green"
     },
     {
-     "id": 2681,
+     "id": 2680,
      "title": "The Robber Bridegroom"
     }
    ],
@@ -13695,19 +13701,19 @@
    ],
    "works": [
     {
-     "id": 2781,
+     "id": 2784,
      "title": "Beyond the Horizon"
     },
     {
-     "id": 2783,
+     "id": 2786,
      "title": "Desire Under the Elms"
     },
     {
-     "id": 2784,
+     "id": 2787,
      "title": "Mourning Becomes Electra"
     },
     {
-     "id": 2782,
+     "id": 2785,
      "title": "The Emperor Jones"
     }
    ],
@@ -13897,19 +13903,19 @@
    ],
    "works": [
     {
-     "id": 2605,
+     "id": 2604,
      "title": "Cathay"
     },
     {
-     "id": 2606,
+     "id": 2605,
      "title": "Hugh Selwyn Mauberley"
     },
     {
-     "id": 2607,
+     "id": 2606,
      "title": "Personae: The Collected Poems of Ezra Pound"
     },
     {
-     "id": 2604,
+     "id": 2603,
      "title": "The Cantos"
     }
    ],
@@ -14159,11 +14165,11 @@
    ],
    "works": [
     {
-     "id": 2667,
+     "id": 2666,
      "title": "Tender Is the Night"
     },
     {
-     "id": 2666,
+     "id": 2665,
      "title": "The Great Gatsby"
     }
    ],
@@ -14555,15 +14561,15 @@
    ],
    "works": [
     {
-     "id": 2643,
+     "id": 2642,
      "title": "Parade's End"
     },
     {
-     "id": 2642,
+     "id": 2641,
      "title": "Some Do Not…"
     },
     {
-     "id": 2641,
+     "id": 2640,
      "title": "The Good Soldier: A Tale of Passion"
     }
    ],
@@ -15367,7 +15373,7 @@
    ],
    "works": [
     {
-     "id": 2763,
+     "id": 2766,
      "title": "The Middle Parts of Fortune: Somme and Ancre, 1916"
     }
    ],
@@ -15650,19 +15656,19 @@
    ],
    "works": [
     {
-     "id": 2748,
+     "id": 2751,
      "title": "Orthodoxy"
     },
     {
-     "id": 2747,
+     "id": 2750,
      "title": "The Innocence of Father Brown"
     },
     {
-     "id": 2746,
+     "id": 2749,
      "title": "The Man Who Was Thursday: A Nightmare"
     },
     {
-     "id": 2749,
+     "id": 2752,
      "title": "The Napoleon of Notting Hill"
     }
    ],
@@ -17137,6 +17143,7 @@
    "tier": "Major / canonical",
    "uncertainty": "Orwell published his books under the pen name George Orwell, first used for Down and Out in Paris and London (1933); his legal name remained Eric Arthur Blair, under which some early periodical writing appeared. Two questions remain open in the sources: how far 'Such, Such Were the Joys' is an accurate account of St Cyprian's, which contemporaries at the school and biographers have challenged, and whether the typescript of 'The Freedom of the Press' was found in 1971 or 1972.",
    "genres": [
+    "Autobiography and the Modern Memoir",
     "Collected Letters",
     "Condition-of-England Novel and the Edwardian Social Panorama",
     "Critical Essay and the Modern Review",
@@ -17144,6 +17151,7 @@
     "Documentary Prose and the Reportage Book",
     "Dystopian Fiction",
     "Dystopian Fiction and the Anti-Utopian Satire",
+    "Experimental Novel and the Modernist Form",
     "Literary Criticism",
     "Literary Essay",
     "Literary Journalism",
@@ -17152,6 +17160,7 @@
     "Novel of Development and the Growth Story",
     "Pamphlet",
     "Personal Essay",
+    "Polemic, Pamphlet, and Open Letter",
     "Political Essay",
     "Political Novel",
     "Satirical Fiction",
@@ -17162,6 +17171,7 @@
     "The Hungry Thirties and the Documentary Novel"
    ],
    "themes": [
+    "Art versus life, and the romance of the artist",
     "Art, the artist and the creative life",
     "Childhood, adolescence and coming of age",
     "Childhood, the nursery, and the Edwardian idyll",
@@ -17170,14 +17180,17 @@
     "Death, illness and mourning",
     "Decolonisation, the end of empire and the new nation",
     "Education, institutions and the academy",
+    "Education, the schools, and the cultivation of the self",
     "Empire, the imperial idea, and its discontents",
     "History, truth and the uses of the past",
     "Language, writing and the limits of representation",
     "Love, intimacy and loss",
     "Money, credit, speculation, and the joint-stock imagination",
+    "National identity and Englishness",
     "Nationhood and national identity",
     "Power, the state and surveillance",
     "Race, the colour line, and the New Negro",
+    "Religion, doubt, and the post-war faith",
     "Technology, media and consumer society",
     "The Depression, unemployment, and the hunger march",
     "The First World War and the myth of sacrifice",
@@ -17185,6 +17198,7 @@
     "The suburb, the villa, and the new domesticity",
     "Totalitarianism, propaganda, and the political novel",
     "Utopia, dystopia and imagined futures",
+    "Wage labour, the strike, and the two nations",
     "War, combat and its aftermath"
    ],
    "influencedBy": [
@@ -17196,59 +17210,75 @@
    ],
    "works": [
     {
-     "id": 2701,
-     "title": "Animal Farm"
-    },
-    {
-     "id": 2697,
-     "title": "Burmese Days"
-    },
-    {
-     "id": 2699,
-     "title": "Coming Up for Air"
-    },
-    {
-     "id": 2877,
-     "title": "Critical Essays"
-    },
-    {
-     "id": 2696,
-     "title": "Homage to Catalonia"
-    },
-    {
-     "id": 2878,
-     "title": "James Burnham and the Managerial Revolution"
-    },
-    {
-     "id": 2698,
-     "title": "Keep the Aspidistra Flying"
-    },
-    {
-     "id": 2880,
-     "title": "Nineteen Eighty-Four"
-    },
-    {
-     "id": 2881,
-     "title": "Shooting an Elephant and Other Essays"
-    },
-    {
-     "id": 2882,
-     "title": "Such, Such Were the Joys"
-    },
-    {
-     "id": 2883,
-     "title": "The Collected Essays, Journalism and Letters of George Orwell"
-    },
-    {
-     "id": 2879,
-     "title": "The English People"
-    },
-    {
-     "id": 2884,
-     "title": "The Freedom of the Press"
+     "id": 2702,
+     "title": "A Clergyman's Daughter"
     },
     {
      "id": 2700,
+     "title": "Animal Farm"
+    },
+    {
+     "id": 2696,
+     "title": "Burmese Days"
+    },
+    {
+     "id": 2698,
+     "title": "Coming Up for Air"
+    },
+    {
+     "id": 2880,
+     "title": "Critical Essays"
+    },
+    {
+     "id": 2701,
+     "title": "Down and Out in Paris and London"
+    },
+    {
+     "id": 2695,
+     "title": "Homage to Catalonia"
+    },
+    {
+     "id": 2703,
+     "title": "Inside the Whale and Other Essays"
+    },
+    {
+     "id": 2881,
+     "title": "James Burnham and the Managerial Revolution"
+    },
+    {
+     "id": 2697,
+     "title": "Keep the Aspidistra Flying"
+    },
+    {
+     "id": 2883,
+     "title": "Nineteen Eighty-Four"
+    },
+    {
+     "id": 2884,
+     "title": "Shooting an Elephant and Other Essays"
+    },
+    {
+     "id": 2885,
+     "title": "Such, Such Were the Joys"
+    },
+    {
+     "id": 2886,
+     "title": "The Collected Essays, Journalism and Letters of George Orwell"
+    },
+    {
+     "id": 2882,
+     "title": "The English People"
+    },
+    {
+     "id": 2887,
+     "title": "The Freedom of the Press"
+    },
+    {
+     "id": 2704,
+     "title": "The Lion and the Unicorn"
+    },
+    {
+     "id": 2699,
      "title": "The Road to Wigan Pier"
     }
    ],
@@ -17361,7 +17391,7 @@
    ],
    "works": [
     {
-     "id": 2831,
+     "id": 2834,
      "title": "Black No More"
     }
    ],
@@ -17887,15 +17917,15 @@
    ],
    "works": [
     {
-     "id": 2651,
+     "id": 2650,
      "title": "Tender Buttons"
     },
     {
-     "id": 2652,
+     "id": 2651,
      "title": "The Autobiography of Alice B. Toklas"
     },
     {
-     "id": 2650,
+     "id": 2649,
      "title": "Three Lives"
     }
    ],
@@ -18070,11 +18100,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2585,
+     "id": 2584,
      "title": "Rutherford and Son"
     },
     {
-     "id": 2586,
+     "id": 2585,
      "title": "The Stepmother"
     }
    ],
@@ -18308,7 +18338,7 @@
    ],
    "works": [
     {
-     "id": 2827,
+     "id": 2830,
      "title": "A Street in Bronzeville"
     }
    ],
@@ -18361,11 +18391,11 @@
    ],
    "works": [
     {
-     "id": 2608,
+     "id": 2607,
      "title": "Sea Garden"
     },
     {
-     "id": 2609,
+     "id": 2608,
      "title": "Trilogy"
     }
    ],
@@ -19294,7 +19324,7 @@
    ],
    "works": [
     {
-     "id": 2621,
+     "id": 2620,
      "title": "The Bridge"
     }
    ],
@@ -20677,7 +20707,7 @@
    ],
    "works": [
     {
-     "id": 2764,
+     "id": 2767,
      "title": "Naked Warriors"
     }
    ],
@@ -20881,11 +20911,11 @@
    ],
    "works": [
     {
-     "id": 2755,
+     "id": 2758,
      "title": "Cautionary Tales for Children"
     },
     {
-     "id": 2756,
+     "id": 2759,
      "title": "The Path to Rome"
     }
    ],
@@ -21269,7 +21299,7 @@
    ],
    "works": [
     {
-     "id": 2645,
+     "id": 2644,
      "title": "A Drunk Man Looks at the Thistle"
     }
    ],
@@ -21643,7 +21673,7 @@
    ],
    "works": [
     {
-     "id": 2629,
+     "id": 2628,
      "title": "Poems (Rosenberg, 1922)"
     }
    ],
@@ -21826,7 +21856,7 @@
    ],
    "works": [
     {
-     "id": 2762,
+     "id": 2765,
      "title": "Severe Poems"
     }
    ],
@@ -21882,11 +21912,11 @@
    ],
    "works": [
     {
-     "id": 2807,
+     "id": 2810,
      "title": "A House and Its Head"
     },
     {
-     "id": 2806,
+     "id": 2809,
      "title": "Pastors and Masters"
     }
    ],
@@ -22697,11 +22727,11 @@
    ],
    "works": [
     {
-     "id": 2736,
+     "id": 2739,
      "title": "Boy"
     },
     {
-     "id": 2737,
+     "id": 2740,
      "title": "The Furys"
     }
    ],
@@ -22966,23 +22996,23 @@
    ],
    "works": [
     {
-     "id": 2594,
+     "id": 2593,
      "title": "A Portrait of the Artist as a Young Man"
     },
     {
-     "id": 2597,
+     "id": 2596,
      "title": "Chamber Music"
     },
     {
-     "id": 2593,
+     "id": 2592,
      "title": "Dubliners"
     },
     {
-     "id": 2596,
+     "id": 2595,
      "title": "Finnegans Wake"
     },
     {
-     "id": 2595,
+     "id": 2594,
      "title": "Ulysses (Joyce, 1922)"
     }
    ],
@@ -23713,11 +23743,11 @@
    ],
    "works": [
     {
-     "id": 2820,
+     "id": 2823,
      "title": "God's Trombones: Seven Negro Sermons in Verse"
     },
     {
-     "id": 2819,
+     "id": 2822,
      "title": "The Autobiography of an Ex-Coloured Man"
     }
    ],
@@ -24062,15 +24092,15 @@
    ],
    "works": [
     {
-     "id": 2799,
+     "id": 2802,
      "title": "Good Morning, Midnight"
     },
     {
-     "id": 2797,
+     "id": 2800,
      "title": "Quartet"
     },
     {
-     "id": 2798,
+     "id": 2801,
      "title": "Voyage in the Dark"
     }
    ],
@@ -24124,7 +24154,7 @@
    ],
    "works": [
     {
-     "id": 2662,
+     "id": 2661,
      "title": "Cane"
     }
    ],
@@ -24399,7 +24429,7 @@
    ],
    "works": [
     {
-     "id": 2823,
+     "id": 2826,
      "title": "Plum Bun: A Novel Without a Moral"
     }
    ],
@@ -24963,23 +24993,23 @@
    ],
    "works": [
     {
-     "id": 2723,
+     "id": 2726,
      "title": "An Inspector Calls"
     },
     {
-     "id": 2725,
+     "id": 2728,
      "title": "Angel Pavement"
     },
     {
-     "id": 2721,
+     "id": 2724,
      "title": "Dangerous Corner"
     },
     {
-     "id": 2724,
+     "id": 2727,
      "title": "The Good Companions"
     },
     {
-     "id": 2722,
+     "id": 2725,
      "title": "Time and the Conways"
     }
    ],
@@ -25082,15 +25112,15 @@
    ],
    "works": [
     {
-     "id": 2751,
+     "id": 2754,
      "title": "Greenmantle"
     },
     {
-     "id": 2750,
+     "id": 2753,
      "title": "The Thirty-Nine Steps"
     },
     {
-     "id": 2752,
+     "id": 2755,
      "title": "The Three Hostages"
     }
    ],
@@ -25609,15 +25639,15 @@
    ],
    "works": [
     {
-     "id": 2664,
+     "id": 2663,
      "title": "Manhattan Transfer"
     },
     {
-     "id": 2663,
+     "id": 2662,
      "title": "Three Soldiers"
     },
     {
-     "id": 2665,
+     "id": 2664,
      "title": "U.S.A."
     }
    ],
@@ -27387,11 +27417,11 @@
    ],
    "works": [
     {
-     "id": 2634,
+     "id": 2633,
      "title": "Salt-Water Ballads"
     },
     {
-     "id": 2633,
+     "id": 2632,
      "title": "The Everlasting Mercy"
     }
    ],
@@ -27446,7 +27476,7 @@
    ],
    "works": [
     {
-     "id": 2768,
+     "id": 2771,
      "title": "In Flanders Fields and Other Poems"
     }
    ],
@@ -28222,15 +28252,15 @@
    ],
    "works": [
     {
-     "id": 2774,
+     "id": 2777,
      "title": "Cannery Row"
     },
     {
-     "id": 2773,
+     "id": 2776,
      "title": "Of Mice and Men"
     },
     {
-     "id": 2772,
+     "id": 2775,
      "title": "The Grapes of Wrath"
     }
    ],
@@ -29648,11 +29678,11 @@
    ],
    "works": [
     {
-     "id": 2837,
+     "id": 2840,
      "title": "A Shilling for Candles"
     },
     {
-     "id": 2836,
+     "id": 2839,
      "title": "The Man in the Queue"
     }
    ],
@@ -30058,11 +30088,11 @@
    ],
    "works": [
     {
-     "id": 2678,
+     "id": 2677,
      "title": "Flowering Judas"
     },
     {
-     "id": 2679,
+     "id": 2678,
      "title": "Pale Horse, Pale Rider"
     }
    ],
@@ -30112,7 +30142,7 @@
    ],
    "works": [
     {
-     "id": 2644,
+     "id": 2643,
      "title": "The Garden Party and Other Stories"
     }
    ],
@@ -30404,23 +30434,23 @@
    ],
    "works": [
     {
-     "id": 2734,
+     "id": 2737,
      "title": "Our Irish Theatre: A Chapter of Autobiography"
     },
     {
-     "id": 2708,
+     "id": 2711,
      "title": "Spreading the News"
     },
     {
-     "id": 2707,
+     "id": 2710,
      "title": "The Rising of the Moon"
     },
     {
-     "id": 2709,
+     "id": 2712,
      "title": "The Workhouse Ward"
     },
     {
-     "id": 2735,
+     "id": 2738,
      "title": "Visions and Beliefs in the West of Ireland"
     }
    ],
@@ -30574,15 +30604,15 @@
    ],
    "works": [
     {
-     "id": 2828,
+     "id": 2831,
      "title": "Not Without Laughter"
     },
     {
-     "id": 2655,
+     "id": 2654,
      "title": "The Ways of White Folks"
     },
     {
-     "id": 2654,
+     "id": 2653,
      "title": "The Weary Blues"
     }
    ],
@@ -30637,7 +30667,7 @@
    ],
    "works": [
     {
-     "id": 2767,
+     "id": 2770,
      "title": "The Winnowing Fan: Poems on the Great War"
     }
    ],
@@ -31100,11 +31130,11 @@
    ],
    "works": [
     {
-     "id": 2647,
+     "id": 2646,
      "title": "A Scots Quair"
     },
     {
-     "id": 2646,
+     "id": 2645,
      "title": "Sunset Song"
     }
    ],
@@ -31246,31 +31276,31 @@
    ],
    "works": [
     {
-     "id": 2860,
+     "id": 2863,
      "title": "A Raisin in the Sun"
     },
     {
-     "id": 2864,
+     "id": 2867,
      "title": "Les Blancs"
     },
     {
-     "id": 2865,
+     "id": 2868,
      "title": "The Drinking Gourd"
     },
     {
-     "id": 2862,
+     "id": 2865,
      "title": "The Movement: Documentary of a Struggle for Equality"
     },
     {
-     "id": 2861,
+     "id": 2864,
      "title": "The Sign in Sidney Brustein's Window"
     },
     {
-     "id": 2863,
+     "id": 2866,
      "title": "To Be Young, Gifted and Black"
     },
     {
-     "id": 2866,
+     "id": 2869,
      "title": "What Use Are Flowers?"
     }
    ],
@@ -31325,11 +31355,11 @@
    ],
    "works": [
     {
-     "id": 2691,
+     "id": 2690,
      "title": "Autumn Journal"
     },
     {
-     "id": 2692,
+     "id": 2691,
      "title": "The Earth Compels"
     }
    ],
@@ -31706,11 +31736,11 @@
    ],
    "works": [
     {
-     "id": 2637,
+     "id": 2636,
      "title": "Eminent Victorians"
     },
     {
-     "id": 2638,
+     "id": 2637,
      "title": "Queen Victoria"
     }
    ],
@@ -31765,11 +31795,11 @@
    ],
    "works": [
     {
-     "id": 2703,
+     "id": 2706,
      "title": "A Thin Ghost and Others"
     },
     {
-     "id": 2702,
+     "id": 2705,
      "title": "Ghost Stories of an Antiquary"
     }
    ],
@@ -31798,36 +31828,27 @@
     "Thomas Malcolm Muggeridge"
    ],
    "dates": "1903 – 1990",
-   "birthplace": "Croydon, Surrey, England",
+   "birthplace": "Sanderstead, Surrey, England",
    "nationality": "British; the satirical journalist of the thirties and the Moscow correspondent",
-   "identity": "Journalist, satirist and novelist; the author of Picture of Mortimer and Ray and Winter in Moscow.",
-   "biography": "Born Thomas Malcolm Muggeridge at Croydon on 24 March 1903; he read at Cambridge, taught in India and Egypt, and published the satirical novel Picture of Mortimer and Ray (1930) before going to Moscow as the Manchester Guardian's correspondent in 1932. Winter in Moscow (1934) and the despatches of the famine years made him the satirist of the Western fellow-travellers; the diary The Thirties (1940) recorded the decade, and the later career ran through Punch, the BBC and his conversion to Rome in 1982; he died at Robertsbridge on 14 November 1990.",
-   "profile": "Malcolm Muggeridge is the satirical journalist of the thirties: Picture of Mortimer and Ray satirised the academic and literary London, Winter in Moscow is the classic satirical novel of the fellow-travelling visitors to Stalin's Russia, and his famine despatches made him the decade's most combative reporter.",
-   "style": "The satirical sentence of the journalist with the moralist's edge; the visitor and the guide in the Moscow novel; the diary of the decade in the plain record; the broadcast voice of the later years; the ridicule carried by the Christian conscience.",
-   "concerns": "The fellow-travellers and their Moscow; the satire of the literary and academic world; the famine and the reportage; the diary of the thirties; the pilgrim's road of the later conversion.",
-   "significance": "Malcolm Muggeridge is the satirical journalist of the thirties: Winter in Moscow is the classic satirical novel of the fellow-travelling visitors to Stalin's Russia, and his famine despatches made him the decade's most combative reporter.",
+   "identity": "Journalist, satirist and novelist; the author of Winter in Moscow and The Thirties.",
+   "biography": "Born Thomas Malcolm Muggeridge at Sanderstead, Surrey, on 24 March 1903, the son of the Labour politician H. T. Muggeridge; he grew up in Croydon, read natural sciences at Selwyn College, Cambridge, taught English literature at Union Christian College in the Kingdom of Cochin, India, and then in Egypt, where Arthur Ransome recommended him to the Manchester Guardian. He went to Moscow for the paper in 1932; his reports of the famine in Ukraine were printed anonymously in March 1933, and his novel Picture Palace, drawn from his years at the Guardian, was published in 1934 but not distributed for fear of libel. Winter in Moscow (1934), The Earnest Atheist (1936), a study of Samuel Butler, In a Valley of This Restless Mind (1938) and The Thirties (1940) followed. He served as a soldier and intelligence officer in East Africa and Paris during the Second World War, was deputy editor of the Daily Telegraph (1950-53), converted to Christianity under the influence of Hugh Kingsmill and later became a Roman Catholic, and died in Hastings on 14 November 1990.",
+   "profile": "Malcolm Muggeridge was a satirical journalist of the thirties: his anonymous Manchester Guardian reports of March 1933 were, with Gareth Jones's, among the accounts that confirmed the extent of the famine in Ukraine, and Winter in Moscow satirised the Western journalists who took an uncritical view of the Soviet regime.",
+   "style": "The satirical sentence of the journalist with the moralist's edge; the Moscow satire; the social survey of the decade in The Thirties; the broadcast voice of the later years; the ridicule carried by the Christian conscience.",
+   "concerns": "The Soviet regime and its Western admirers; the famine and its reporting; the newspaper world; the social history of the thirties; the pilgrim's road of the later conversion.",
+   "significance": "Malcolm Muggeridge was a satirical journalist of the thirties: his famine reports of 1933 and Winter in Moscow (1934) set him against the uncritical Western reporting of the Soviet regime, and his later career ran from the Daily Telegraph and Punch to religious broadcasting.",
    "tier": "Significant / secondary",
-   "uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1934.",
+   "uncertainty": "8 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
    "genres": [
-    "Comic Novel and the Satire of Manners",
-    "Documentary Prose and the Reportage Book",
-    "Realist Novel of Common Life"
+    "Comic Novel and the Satire of Manners"
    ],
    "movements": [],
    "themes": [
-    "Class, the servant problem, and the new democracy",
-    "Exile, expatriation, and the lost generation",
-    "The absurd, the void, and the failure of meaning",
     "Totalitarianism, propaganda, and the political novel"
    ],
    "influencedBy": [],
    "works": [
     {
      "id": 2561,
-     "title": "Picture of Mortimer and Ray"
-    },
-    {
-     "id": 2562,
      "title": "Winter in Moscow"
     }
    ],
@@ -31880,7 +31901,7 @@
    ],
    "works": [
     {
-     "id": 2835,
+     "id": 2838,
      "title": "The Philosophy and Opinions of Marcus Garvey"
     }
    ],
@@ -32155,7 +32176,7 @@
      "title": "The Crime at Black Dudley"
     },
     {
-     "id": 2841,
+     "id": 2844,
      "title": "The Fashion in Shrouds"
     }
    ],
@@ -32502,11 +32523,11 @@
    ],
    "works": [
     {
-     "id": 2619,
+     "id": 2618,
      "title": "Observations"
     },
     {
-     "id": 2618,
+     "id": 2617,
      "title": "Poems (Moore, 1921)"
     }
    ],
@@ -34411,11 +34432,11 @@
    ],
    "works": [
     {
-     "id": 2754,
+     "id": 2757,
      "title": "A Christmas Garland"
     },
     {
-     "id": 2753,
+     "id": 2756,
      "title": "Zuleika Dobson; or, An Oxford Love Story"
     }
    ],
@@ -34962,11 +34983,11 @@
    ],
    "works": [
     {
-     "id": 2787,
+     "id": 2790,
      "title": "Miss Lonelyhearts"
     },
     {
-     "id": 2788,
+     "id": 2791,
      "title": "The Day of the Locust"
     }
    ],
@@ -35277,11 +35298,11 @@
    ],
    "works": [
     {
-     "id": 2822,
+     "id": 2825,
      "title": "Passing"
     },
     {
-     "id": 2821,
+     "id": 2824,
      "title": "Quicksand"
     }
    ],
@@ -35427,15 +35448,15 @@
    ],
    "works": [
     {
-     "id": 2839,
+     "id": 2842,
      "title": "A Man Lay Dead"
     },
     {
-     "id": 2840,
+     "id": 2843,
      "title": "Death in a White Tie"
     },
     {
-     "id": 2838,
+     "id": 2841,
      "title": "Surfeit of Lampreys"
     }
    ],
@@ -35702,31 +35723,31 @@
    ],
    "works": [
     {
-     "id": 2712,
+     "id": 2715,
      "title": "Blithe Spirit"
     },
     {
-     "id": 2715,
+     "id": 2718,
      "title": "Cavalcade"
     },
     {
-     "id": 2714,
+     "id": 2717,
      "title": "Design for Living"
     },
     {
-     "id": 2710,
+     "id": 2713,
      "title": "Hay Fever"
     },
     {
-     "id": 2713,
+     "id": 2716,
      "title": "Present Laughter"
     },
     {
-     "id": 2711,
+     "id": 2714,
      "title": "Private Lives"
     },
     {
-     "id": 2716,
+     "id": 2719,
      "title": "The Vortex"
     }
    ],
@@ -35782,19 +35803,19 @@
    ],
    "works": [
     {
-     "id": 2717,
+     "id": 2720,
      "title": "Last and First Men"
     },
     {
-     "id": 2719,
+     "id": 2722,
      "title": "Odd John: A Story Between Jest and Earnest"
     },
     {
-     "id": 2720,
+     "id": 2723,
      "title": "Sirius: A Fantasy of Love and Discord"
     },
     {
-     "id": 2718,
+     "id": 2721,
      "title": "Star Maker"
     }
    ],
@@ -36074,7 +36095,7 @@
    ],
    "works": [
     {
-     "id": 2815,
+     "id": 2818,
      "title": "Widdershins"
     }
    ],
@@ -36605,19 +36626,19 @@
    ],
    "works": [
     {
-     "id": 2745,
+     "id": 2748,
      "title": "Leave It to Psmith"
     },
     {
-     "id": 2742,
+     "id": 2745,
      "title": "My Man Jeeves"
     },
     {
-     "id": 2743,
+     "id": 2746,
      "title": "Right Ho, Jeeves"
     },
     {
-     "id": 2744,
+     "id": 2747,
      "title": "The Code of the Woosters"
     }
    ],
@@ -36743,11 +36764,11 @@
    ],
    "works": [
     {
-     "id": 2810,
+     "id": 2813,
      "title": "Hangover Square"
     },
     {
-     "id": 2811,
+     "id": 2814,
      "title": "The Slaves of Solitude"
     }
    ],
@@ -37144,51 +37165,51 @@
    ],
    "works": [
     {
-     "id": 2849,
+     "id": 2852,
      "title": "A Girl in Winter"
     },
     {
-     "id": 2853,
+     "id": 2856,
      "title": "All What Jazz: A Record Diary"
     },
     {
-     "id": 2856,
+     "id": 2859,
      "title": "Aubade"
     },
     {
-     "id": 2858,
+     "id": 2861,
      "title": "Collected Poems"
     },
     {
-     "id": 2855,
+     "id": 2858,
      "title": "High Windows"
     },
     {
-     "id": 2848,
+     "id": 2851,
      "title": "Jill"
     },
     {
-     "id": 2857,
+     "id": 2860,
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
-     "id": 2859,
+     "id": 2862,
      "title": "Selected Letters of Philip Larkin, 1940-1985"
     },
     {
-     "id": 2851,
+     "id": 2854,
      "title": "The Less Deceived"
     },
     {
-     "id": 2854,
+     "id": 2857,
      "title": "The Oxford Book of Twentieth-Century English Verse"
     },
     {
-     "id": 2852,
+     "id": 2855,
      "title": "The Whitsun Weddings"
     },
     {
-     "id": 2850,
+     "id": 2853,
      "title": "XX Poems"
     }
    ],
@@ -37476,7 +37497,7 @@
    ],
    "works": [
     {
-     "id": 2759,
+     "id": 2762,
      "title": "Journey's End"
     }
    ],
@@ -37580,7 +37601,7 @@
    ],
    "works": [
     {
-     "id": 2814,
+     "id": 2817,
      "title": "The Well of Loneliness"
     }
    ],
@@ -37741,31 +37762,31 @@
    ],
    "works": [
     {
-     "id": 2846,
+     "id": 2849,
      "title": "Flying Home and Other Stories"
     },
     {
-     "id": 2844,
+     "id": 2847,
      "title": "Going to the Territory"
     },
     {
-     "id": 2842,
+     "id": 2845,
      "title": "Invisible Man"
     },
     {
-     "id": 2847,
+     "id": 2850,
      "title": "Juneteenth"
     },
     {
-     "id": 2843,
+     "id": 2846,
      "title": "Shadow and Act"
     },
     {
-     "id": 2845,
+     "id": 2848,
      "title": "The Collected Essays of Ralph Ellison"
     },
     {
-     "id": 2876,
+     "id": 2879,
      "title": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray"
     }
    ],
@@ -38142,11 +38163,11 @@
    ],
    "works": [
     {
-     "id": 2760,
+     "id": 2763,
      "title": "Death of a Hero"
     },
     {
-     "id": 2761,
+     "id": 2764,
      "title": "Images of War"
     }
    ],
@@ -39302,11 +39323,11 @@
    ],
    "works": [
     {
-     "id": 2790,
+     "id": 2793,
      "title": "Native Son"
     },
     {
-     "id": 2791,
+     "id": 2794,
      "title": "Uncle Tom's Children"
     }
    ],
@@ -39929,15 +39950,15 @@
    ],
    "works": [
     {
-     "id": 2611,
+     "id": 2610,
      "title": "Mountain Interval"
     },
     {
-     "id": 2612,
+     "id": 2611,
      "title": "New Hampshire"
     },
     {
-     "id": 2610,
+     "id": 2609,
      "title": "North of Boston"
     }
    ],
@@ -39990,7 +40011,7 @@
    ],
    "works": [
     {
-     "id": 2630,
+     "id": 2629,
      "title": "Good-bye to All That"
     }
    ],
@@ -40375,7 +40396,7 @@
    ],
    "works": [
     {
-     "id": 2766,
+     "id": 2769,
      "title": "Ardours and Endurances"
     }
    ],
@@ -40877,7 +40898,7 @@
    ],
    "works": [
     {
-     "id": 2639,
+     "id": 2638,
      "title": "Vision and Design"
     }
    ],
@@ -41034,11 +41055,11 @@
    ],
    "works": [
     {
-     "id": 2804,
+     "id": 2807,
      "title": "Dusty Answer"
     },
     {
-     "id": 2805,
+     "id": 2808,
      "title": "The Weather in the Streets"
     }
    ],
@@ -41146,11 +41167,11 @@
    ],
    "works": [
     {
-     "id": 2833,
+     "id": 2836,
      "title": "The Conjure-Man Dies: A Mystery Tale of Dark Harlem"
     },
     {
-     "id": 2832,
+     "id": 2835,
      "title": "The Walls of Jericho"
     }
    ],
@@ -41288,11 +41309,11 @@
    ],
    "works": [
     {
-     "id": 2622,
+     "id": 2621,
      "title": "1914 and Other Poems"
     },
     {
-     "id": 2635,
+     "id": 2634,
      "title": "The Collected Poems of Rupert Brooke"
     }
    ],
@@ -41415,11 +41436,11 @@
    ],
    "works": [
     {
-     "id": 2732,
+     "id": 2735,
      "title": "Beasts and Super-Beasts"
     },
     {
-     "id": 2731,
+     "id": 2734,
      "title": "The Complete Short Stories of Saki"
     }
    ],
@@ -42695,7 +42716,7 @@
    ],
    "works": [
     {
-     "id": 2653,
+     "id": 2652,
      "title": "Winesburg, Ohio"
     }
    ],
@@ -42822,15 +42843,15 @@
    ],
    "works": [
     {
-     "id": 2627,
+     "id": 2626,
      "title": "Counter-Attack and Other Poems"
     },
     {
-     "id": 2631,
+     "id": 2630,
      "title": "Memoirs of a Fox-Hunting Man"
     },
     {
-     "id": 2626,
+     "id": 2625,
      "title": "The Old Huntsman and Other Poems"
     }
    ],
@@ -42938,15 +42959,15 @@
    ],
    "works": [
     {
-     "id": 2780,
+     "id": 2783,
      "title": "Arrowsmith"
     },
     {
-     "id": 2779,
+     "id": 2782,
      "title": "Babbitt"
     },
     {
-     "id": 2778,
+     "id": 2781,
      "title": "Main Street"
     }
    ],
@@ -43868,11 +43889,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2583,
+     "id": 2562,
      "title": "Jane Clegg"
     },
     {
-     "id": 2584,
+     "id": 2583,
      "title": "John Ferguson"
     }
    ],
@@ -43969,11 +43990,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2589,
+     "id": 2588,
      "title": "Hindle Wakes"
     },
     {
-     "id": 2590,
+     "id": 2589,
      "title": "The Younger Generation"
     }
    ],
@@ -44025,7 +44046,7 @@
    ],
    "works": [
     {
-     "id": 2800,
+     "id": 2803,
      "title": "Cold Comfort Farm"
     }
    ],
@@ -44250,15 +44271,15 @@
    ],
    "works": [
     {
-     "id": 2693,
+     "id": 2692,
      "title": "Poems (Spender, 1933)"
     },
     {
-     "id": 2695,
+     "id": 2694,
      "title": "The Still Centre"
     },
     {
-     "id": 2694,
+     "id": 2693,
      "title": "Vienna"
     }
    ],
@@ -44312,7 +44333,7 @@
    ],
    "works": [
     {
-     "id": 2826,
+     "id": 2829,
      "title": "Southern Road"
     }
    ],
@@ -44774,11 +44795,11 @@
    ],
    "works": [
     {
-     "id": 2808,
+     "id": 2811,
      "title": "Lolly Willowes; or, The Loving Huntsman"
     },
     {
-     "id": 2809,
+     "id": 2812,
      "title": "Mr Fortune's Maggot"
     }
    ],
@@ -44828,7 +44849,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2771,
+     "id": 2774,
      "title": "Speculations"
     }
    ],
@@ -44881,11 +44902,11 @@
    ],
    "works": [
     {
-     "id": 2729,
+     "id": 2732,
      "title": "Seven Pillars of Wisdom"
     },
     {
-     "id": 2730,
+     "id": 2733,
      "title": "The Mint"
     }
    ],
@@ -44941,7 +44962,7 @@
    ],
    "works": [
     {
-     "id": 2816,
+     "id": 2819,
      "title": "Mr Weston's Good Wine"
     }
    ],
@@ -45005,27 +45026,27 @@
    ],
    "works": [
     {
-     "id": 2601,
+     "id": 2600,
      "title": "Ash-Wednesday"
     },
     {
-     "id": 2600,
+     "id": 2599,
      "title": "Four Quartets"
     },
     {
-     "id": 2602,
+     "id": 2601,
      "title": "Murder in the Cathedral"
     },
     {
-     "id": 2603,
+     "id": 2602,
      "title": "Old Possum's Book of Practical Cats"
     },
     {
-     "id": 2598,
+     "id": 2597,
      "title": "Prufrock and Other Observations"
     },
     {
-     "id": 2599,
+     "id": 2598,
      "title": "The Waste Land"
     }
    ],
@@ -45123,15 +45144,15 @@
    ],
    "works": [
     {
-     "id": 2728,
+     "id": 2731,
      "title": "French Without Tears"
     },
     {
-     "id": 2727,
+     "id": 2730,
      "title": "Love in Idleness"
     },
     {
-     "id": 2726,
+     "id": 2729,
      "title": "The Winslow Boy"
     }
    ],
@@ -47888,11 +47909,11 @@
    ],
    "works": [
     {
-     "id": 2676,
+     "id": 2675,
      "title": "Look Homeward, Angel"
     },
     {
-     "id": 2677,
+     "id": 2676,
      "title": "Of Time and the River"
     }
    ],
@@ -47946,11 +47967,11 @@
    ],
    "works": [
     {
-     "id": 2785,
+     "id": 2788,
      "title": "Our Town"
     },
     {
-     "id": 2786,
+     "id": 2789,
      "title": "The Bridge of San Luis Rey"
     }
    ],
@@ -48219,7 +48240,7 @@
    ],
    "works": [
     {
-     "id": 2792,
+     "id": 2795,
      "title": "The Jungle"
     }
    ],
@@ -48318,7 +48339,7 @@
    ],
    "works": [
     {
-     "id": 2757,
+     "id": 2760,
      "title": "Testament of Youth"
     }
    ],
@@ -48607,11 +48628,11 @@
    ],
    "works": [
     {
-     "id": 2818,
+     "id": 2821,
      "title": "Darkwater: Voices from Within the Veil"
     },
     {
-     "id": 2817,
+     "id": 2820,
      "title": "The Souls of Black Folk"
     }
    ],
@@ -48732,23 +48753,23 @@
    ],
    "works": [
     {
-     "id": 2688,
+     "id": 2687,
      "title": "Another Time"
     },
     {
-     "id": 2686,
+     "id": 2685,
      "title": "Look, Stranger!"
     },
     {
-     "id": 2684,
+     "id": 2683,
      "title": "Poems (Auden, 1930)"
     },
     {
-     "id": 2687,
+     "id": 2686,
      "title": "Spain"
     },
     {
-     "id": 2685,
+     "id": 2684,
      "title": "The Orators: An English Study"
     }
    ],
@@ -49072,19 +49093,19 @@
    ],
    "works": [
     {
-     "id": 2740,
+     "id": 2743,
      "title": "Cakes and Ale"
     },
     {
-     "id": 2738,
+     "id": 2741,
      "title": "Of Human Bondage"
     },
     {
-     "id": 2739,
+     "id": 2742,
      "title": "The Moon and Sixpence"
     },
     {
-     "id": 2741,
+     "id": 2744,
      "title": "The Razor's Edge"
     }
    ],
@@ -49197,15 +49218,15 @@
    ],
    "works": [
     {
-     "id": 2613,
+     "id": 2612,
      "title": "Harmonium"
     },
     {
-     "id": 2615,
+     "id": 2614,
      "title": "Notes Toward a Supreme Fiction"
     },
     {
-     "id": 2614,
+     "id": 2613,
      "title": "The Man with the Blue Guitar"
     }
    ],
@@ -49262,11 +49283,11 @@
    ],
    "works": [
     {
-     "id": 2830,
+     "id": 2833,
      "title": "Infants of the Spring"
     },
     {
-     "id": 2829,
+     "id": 2832,
      "title": "The Blacker the Berry: A Novel of Negro Life"
     }
    ],
@@ -49456,15 +49477,15 @@
    ],
    "works": [
     {
-     "id": 2624,
+     "id": 2623,
      "title": "Peacock Pie"
     },
     {
-     "id": 2636,
+     "id": 2635,
      "title": "Songs of Childhood"
     },
     {
-     "id": 2623,
+     "id": 2622,
      "title": "The Listeners and Other Poems"
     }
    ],
@@ -49517,7 +49538,7 @@
    ],
    "works": [
     {
-     "id": 2733,
+     "id": 2736,
      "title": "Love on the Dole"
     }
    ],
@@ -49910,7 +49931,7 @@
    ],
    "works": [
     {
-     "id": 2628,
+     "id": 2627,
      "title": "Poems (Owen, 1920)"
     }
    ],
@@ -50060,15 +50081,15 @@
    ],
    "works": [
     {
-     "id": 2777,
+     "id": 2780,
      "title": "Death Comes for the Archbishop"
     },
     {
-     "id": 2776,
+     "id": 2779,
      "title": "My Antonia"
     },
     {
-     "id": 2775,
+     "id": 2778,
      "title": "O Pioneers!"
     }
    ],
@@ -50581,11 +50602,11 @@
    ],
    "works": [
     {
-     "id": 2617,
+     "id": 2616,
      "title": "Paterson"
     },
     {
-     "id": 2616,
+     "id": 2615,
      "title": "Spring and All"
     }
    ],
@@ -51385,23 +51406,23 @@
    ],
    "works": [
     {
-     "id": 2674,
+     "id": 2673,
      "title": "Absalom, Absalom!"
     },
     {
-     "id": 2672,
+     "id": 2671,
      "title": "As I Lay Dying"
     },
     {
-     "id": 2675,
+     "id": 2674,
      "title": "Go Down, Moses"
     },
     {
-     "id": 2673,
+     "id": 2672,
      "title": "Light in August"
     },
     {
-     "id": 2671,
+     "id": 2670,
      "title": "The Sound and the Fury"
     }
    ],
@@ -53089,7 +53110,7 @@
    ],
    "works": [
     {
-     "id": 2801,
+     "id": 2804,
      "title": "South Riding"
     }
    ],
@@ -53303,11 +53324,11 @@
    ],
    "works": [
     {
-     "id": 2657,
+     "id": 2656,
      "title": "Mules and Men"
     },
     {
-     "id": 2656,
+     "id": 2655,
      "title": "Their Eyes Were Watching God"
     }
    ],
@@ -55521,7 +55542,7 @@
    ]
   },
   {
-   "id": 2622,
+   "id": 2621,
    "title": "1914 and Other Poems",
    "altTitles": [],
    "authorship": "single",
@@ -56154,7 +56175,7 @@
    ]
   },
   {
-   "id": 2754,
+   "id": 2757,
    "title": "A Christmas Garland",
    "altTitles": [
     "Christmas Garland"
@@ -56198,6 +56219,63 @@
    "movements": [],
    "editions": [],
    "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2702,
+   "title": "A Clergyman's Daughter",
+   "altTitles": [
+    "The Clergyman's Daughter"
+   ],
+   "authorship": "single",
+   "authors": [
+    "George Orwell"
+   ],
+   "authorIds": [
+    839
+   ],
+   "compositionStart": "1934",
+   "compositionEnd": "1934",
+   "compositionCirca": false,
+   "dates": "1934",
+   "publicationDate": "1935",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel; experimental novel, first issued in 1935",
+   "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
+   "description": "Orwell's second novel and third book, published by Victor Gollancz on 11 March 1935. Dorothy Hare, the overworked daughter of an East Anglian rector, loses her memory and passes through vagrancy, hop-picking, a night in Trafalgar Square and a private school before returning home without her faith. It is his most formally experimental novel, with one chapter written entirely as drama, and the one he most disowned.",
+   "summary": "",
+   "plot": "Dorothy keeps house for her disagreeable widowed father, the Rector of Knype Hill, fending off his creditors, visiting parishioners, making costumes for church events and mortifying her flesh to keep her faith. After dinner with Mr Warburton, the town's disreputable atheist bachelor, she is seen in his forced embrace by the gossip Mrs Semprill. She next finds herself on the New Kent Road in London with no memory and eight days unaccounted for; she joins the vagrant Nobby and two friends, who take her last half-crown and lead her to the Kent hop fields, while Mrs Semprill's story that she has eloped with Warburton fills the newspapers. After Nobby's arrest for theft she returns to London, is turned away from respectable hotels, sleeps rough in Trafalgar Square among tramps, including the defrocked clergyman Mr Tallboys, and is arrested for vagrancy. Her father's cousin, Sir Thomas Hare, has her found, and his solicitor places her as a teacher at Mrs Creevy's fourth-rate girls' school, where her attempts at a more liberal education clash with parents who want only handwriting and arithmetic; she is dismissed without notice. Warburton arrives to say that Mrs Semprill has been sued for libel and takes her home; she refuses his proposal of marriage, though he argues that without her faith her life will be meaningless, and resumes her old routine without the self-mortification.",
+   "significance": "Orwell called the novel 'tripe' except for the Trafalgar Square chapter, prevented its reprinting during his lifetime and left instructions that it should not be reprinted after his death, though he allowed cheap editions that might bring in money for his heirs. The Trafalgar Square night, written under the influence of the 'Nighttown' episode of Joyce's Ulysses, is the most experimental passage in his fiction. Reviewing the American edition in 1936, Vincent McHugh placed the book in the tradition of Dickens and Gissing, and the novel's social criticism falls on the hop-picking wage system and on a private school run for its fees ('It's the fees I'm after'). Richard Smyer read it as a picture of England's 'spiritual dryness'.",
+   "meter": "Third-person narrative prose whose manner changes with the setting; the third chapter, the night in Trafalgar Square, is set out entirely as dramatic dialogue, written under the influence of the 'Nighttown' episode of Joyce's Ulysses.",
+   "context": "Orwell used his parents' house at Southwold, on the Suffolk coast, as his base from December 1929. The hop-picking chapters draw on the journal he kept in the Kent hop fields in August and September 1931, and the school chapter on his teaching at a small private school in Hayes, West London, in 1932-33. He wrote the novel between mid-January and 3 October 1934, and Gollancz made last-minute alterations to it for fear of libel.",
+   "characters": "Dorothy Hare; the Reverend Charles Hare; Mr Victor Warburton; Mrs Evelina Semprill; Nobby; Mr Tallboys; Sir Thomas Hare; Mrs Creevy",
+   "structure": "Five chapters: a day at Knype Hill; amnesia, the road and the hop fields; a night in Trafalgar Square written wholly as dramatic dialogue; the school; and the return home.",
+   "attributionNotes": "Attribution is secure: the work was published under the author's name, also recorded as Eric Arthur Blair. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Condition-of-England Novel and the Edwardian Social Panorama",
+    "Experimental Novel and the Modernist Form"
+   ],
+   "themes": [
+    "Education, the schools, and the cultivation of the self",
+    "Religion, doubt, and the post-war faith",
+    "Wage labour, the strike, and the two nations"
+   ],
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ],
+   "editions": [],
+   "sources": [
+    "A Clergyman's Daughter (Wikipedia)",
     "Modernism: A Guide to European Literature 1890–1930",
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
@@ -56447,7 +56525,7 @@
    ]
   },
   {
-   "id": 2680,
+   "id": 2679,
    "title": "A Curtain of Green",
    "altTitles": [
     "Curtain of Green"
@@ -57275,7 +57353,7 @@
    ]
   },
   {
-   "id": 2645,
+   "id": 2644,
    "title": "A Drunk Man Looks at the Thistle",
    "altTitles": [
     "Drunk Man Looks at the Thistle"
@@ -57384,7 +57462,7 @@
    ]
   },
   {
-   "id": 2669,
+   "id": 2668,
    "title": "A Farewell to Arms",
    "altTitles": [
     "Farewell to Arms"
@@ -57623,7 +57701,7 @@
    ]
   },
   {
-   "id": 2849,
+   "id": 2852,
    "title": "A Girl in Winter",
    "altTitles": [],
    "authorship": "single",
@@ -58342,7 +58420,7 @@
    ]
   },
   {
-   "id": 2807,
+   "id": 2810,
    "title": "A House and Its Head",
    "altTitles": [
     "House and Its Head"
@@ -59416,7 +59494,7 @@
    ]
   },
   {
-   "id": 2839,
+   "id": 2842,
    "title": "A Man Lay Dead",
    "altTitles": [
     "Man Lay Dead"
@@ -61226,7 +61304,7 @@
    ]
   },
   {
-   "id": 2594,
+   "id": 2593,
    "title": "A Portrait of the Artist as a Young Man",
    "altTitles": [
     "Portrait of the Artist as a Young Man"
@@ -61533,7 +61611,7 @@
    ]
   },
   {
-   "id": 2860,
+   "id": 2863,
    "title": "A Raisin in the Sun",
    "altTitles": [],
    "authorship": "single",
@@ -61940,7 +62018,7 @@
    ]
   },
   {
-   "id": 2647,
+   "id": 2646,
    "title": "A Scots Quair",
    "altTitles": [
     "Scots Quair"
@@ -62339,7 +62417,7 @@
    ]
   },
   {
-   "id": 2837,
+   "id": 2840,
    "title": "A Shilling for Candles",
    "altTitles": [
     "Shilling for Candles"
@@ -62688,7 +62766,7 @@
    ]
   },
   {
-   "id": 2827,
+   "id": 2830,
    "title": "A Street in Bronzeville",
    "altTitles": [
     "Street in Bronzeville"
@@ -63238,7 +63316,7 @@
    ]
   },
   {
-   "id": 2703,
+   "id": 2706,
    "title": "A Thin Ghost and Others",
    "altTitles": [
     "Thin Ghost and Others"
@@ -64240,7 +64318,7 @@
    ]
   },
   {
-   "id": 2674,
+   "id": 2673,
    "title": "Absalom, Absalom!",
    "altTitles": [],
    "authorship": "single",
@@ -66204,7 +66282,7 @@
    ]
   },
   {
-   "id": 2853,
+   "id": 2856,
    "title": "All What Jazz: A Record Diary",
    "altTitles": [],
    "authorship": "single",
@@ -69538,7 +69616,7 @@
    ]
   },
   {
-   "id": 2723,
+   "id": 2726,
    "title": "An Inspector Calls",
    "altTitles": [
     "Inspector Calls"
@@ -69963,7 +70041,7 @@
    ]
   },
   {
-   "id": 2725,
+   "id": 2728,
    "title": "Angel Pavement",
    "altTitles": [],
    "authorship": "single",
@@ -70017,7 +70095,7 @@
    ]
   },
   {
-   "id": 2701,
+   "id": 2700,
    "title": "Animal Farm",
    "altTitles": [
     "Animal Farm: A Fairy Story"
@@ -70309,7 +70387,7 @@
    ]
   },
   {
-   "id": 2688,
+   "id": 2687,
    "title": "Another Time",
    "altTitles": [],
    "authorship": "single",
@@ -70856,7 +70934,7 @@
    ]
   },
   {
-   "id": 2766,
+   "id": 2769,
    "title": "Ardours and Endurances",
    "altTitles": [],
    "authorship": "single",
@@ -71178,7 +71256,7 @@
    ]
   },
   {
-   "id": 2780,
+   "id": 2783,
    "title": "Arrowsmith",
    "altTitles": [],
    "authorship": "single",
@@ -71316,7 +71394,7 @@
    ]
   },
   {
-   "id": 2672,
+   "id": 2671,
    "title": "As I Lay Dying",
    "altTitles": [],
    "authorship": "single",
@@ -71431,7 +71509,7 @@
    ]
   },
   {
-   "id": 2601,
+   "id": 2600,
    "title": "Ash-Wednesday",
    "altTitles": [],
    "authorship": "single",
@@ -71898,7 +71976,7 @@
    ]
   },
   {
-   "id": 2856,
+   "id": 2859,
    "title": "Aubade",
    "altTitles": [],
    "authorship": "single",
@@ -72386,7 +72464,7 @@
    ]
   },
   {
-   "id": 2691,
+   "id": 2690,
    "title": "Autumn Journal",
    "altTitles": [],
    "authorship": "single",
@@ -72486,7 +72564,7 @@
    ]
   },
   {
-   "id": 2779,
+   "id": 2782,
    "title": "Babbitt",
    "altTitles": [],
    "authorship": "single",
@@ -73174,7 +73252,7 @@
    ]
   },
   {
-   "id": 2732,
+   "id": 2735,
    "title": "Beasts and Super-Beasts",
    "altTitles": [],
    "authorship": "single",
@@ -74244,7 +74322,7 @@
    ]
   },
   {
-   "id": 2781,
+   "id": 2784,
    "title": "Beyond the Horizon",
    "altTitles": [],
    "authorship": "single",
@@ -74696,7 +74774,7 @@
    ]
   },
   {
-   "id": 2831,
+   "id": 2834,
    "title": "Black No More",
    "altTitles": [],
    "authorship": "single",
@@ -74750,7 +74828,7 @@
    ]
   },
   {
-   "id": 2824,
+   "id": 2827,
    "title": "Black Thunder",
    "altTitles": [],
    "authorship": "single",
@@ -74958,7 +75036,7 @@
    ]
   },
   {
-   "id": 2712,
+   "id": 2715,
    "title": "Blithe Spirit",
    "altTitles": [],
    "authorship": "single",
@@ -75282,7 +75360,7 @@
    ]
   },
   {
-   "id": 2736,
+   "id": 2739,
    "title": "Boy",
    "altTitles": [],
    "authorship": "single",
@@ -75727,7 +75805,7 @@
    ]
   },
   {
-   "id": 2697,
+   "id": 2696,
    "title": "Burmese Days",
    "altTitles": [],
    "authorship": "single",
@@ -76173,7 +76251,7 @@
    ]
   },
   {
-   "id": 2740,
+   "id": 2743,
    "title": "Cakes and Ale",
    "altTitles": [],
    "authorship": "single",
@@ -76425,7 +76503,7 @@
    ]
   },
   {
-   "id": 2662,
+   "id": 2661,
    "title": "Cane",
    "altTitles": [],
    "authorship": "single",
@@ -76479,7 +76557,7 @@
    ]
   },
   {
-   "id": 2774,
+   "id": 2777,
    "title": "Cannery Row",
    "altTitles": [],
    "authorship": "single",
@@ -76822,7 +76900,7 @@
    ]
   },
   {
-   "id": 2661,
+   "id": 2660,
    "title": "Caroling Dusk",
    "altTitles": [],
    "authorship": "single",
@@ -77077,7 +77155,7 @@
    ]
   },
   {
-   "id": 2605,
+   "id": 2604,
    "title": "Cathay",
    "altTitles": [],
    "authorship": "single",
@@ -77298,7 +77376,7 @@
    ]
   },
   {
-   "id": 2755,
+   "id": 2758,
    "title": "Cautionary Tales for Children",
    "altTitles": [],
    "authorship": "single",
@@ -77351,7 +77429,7 @@
    ]
   },
   {
-   "id": 2715,
+   "id": 2718,
    "title": "Cavalcade",
    "altTitles": [],
    "authorship": "single",
@@ -77706,7 +77784,7 @@
    ]
   },
   {
-   "id": 2587,
+   "id": 2586,
    "title": "Chains",
    "altTitles": [],
    "authorship": "single",
@@ -77759,7 +77837,7 @@
    ]
   },
   {
-   "id": 2597,
+   "id": 2596,
    "title": "Chamber Music",
    "altTitles": [],
    "authorship": "single",
@@ -79498,7 +79576,7 @@
    ]
   },
   {
-   "id": 2800,
+   "id": 2803,
    "title": "Cold Comfort Farm",
    "altTitles": [],
    "authorship": "single",
@@ -79755,7 +79833,7 @@
    ]
   },
   {
-   "id": 2858,
+   "id": 2861,
    "title": "Collected Poems",
    "altTitles": [],
    "authorship": "single",
@@ -80065,7 +80143,7 @@
    ]
   },
   {
-   "id": 2660,
+   "id": 2659,
    "title": "Color",
    "altTitles": [],
    "authorship": "single",
@@ -80217,7 +80295,7 @@
    ]
   },
   {
-   "id": 2699,
+   "id": 2698,
    "title": "Coming Up for Air",
    "altTitles": [],
    "authorship": "single",
@@ -81045,7 +81123,7 @@
    ]
   },
   {
-   "id": 2803,
+   "id": 2806,
    "title": "Consequences",
    "altTitles": [],
    "authorship": "single",
@@ -81635,7 +81713,7 @@
    ]
   },
   {
-   "id": 2627,
+   "id": 2626,
    "title": "Counter-Attack and Other Poems",
    "altTitles": [],
    "authorship": "single",
@@ -81804,7 +81882,7 @@
    ]
   },
   {
-   "id": 2877,
+   "id": 2880,
    "title": "Critical Essays",
    "altTitles": [
     "Dickens, Dali and Others: Studies in Popular Culture"
@@ -82848,7 +82926,7 @@
    ]
   },
   {
-   "id": 2721,
+   "id": 2724,
    "title": "Dangerous Corner",
    "altTitles": [],
    "authorship": "single",
@@ -83095,7 +83173,7 @@
    ]
   },
   {
-   "id": 2818,
+   "id": 2821,
    "title": "Darkwater: Voices from Within the Veil",
    "altTitles": [
     "Darkwater"
@@ -83891,7 +83969,7 @@
    ]
   },
   {
-   "id": 2777,
+   "id": 2780,
    "title": "Death Comes for the Archbishop",
    "altTitles": [],
    "authorship": "single",
@@ -83943,7 +84021,7 @@
    ]
   },
   {
-   "id": 2840,
+   "id": 2843,
    "title": "Death in a White Tie",
    "altTitles": [],
    "authorship": "single",
@@ -83998,7 +84076,7 @@
    ]
   },
   {
-   "id": 2760,
+   "id": 2763,
    "title": "Death of a Hero",
    "altTitles": [],
    "authorship": "single",
@@ -84729,7 +84807,7 @@
    ]
   },
   {
-   "id": 2714,
+   "id": 2717,
    "title": "Design for Living",
    "altTitles": [],
    "authorship": "single",
@@ -84783,7 +84861,7 @@
    ]
   },
   {
-   "id": 2783,
+   "id": 2786,
    "title": "Desire Under the Elms",
    "altTitles": [],
    "authorship": "single",
@@ -86229,6 +86307,60 @@
    ]
   },
   {
+   "id": 2701,
+   "title": "Down and Out in Paris and London",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Orwell"
+   ],
+   "authorIds": [
+    839
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1933",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Memoir; autobiography, first issued in 1933",
+   "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
+   "description": "Orwell's first book, published by Victor Gollancz in London in January 1933 under the pen name George Orwell, used here for the first time: a memoir in two parts of poverty in two prosperous cities, the first an account of destitution and casual work in the restaurant kitchens of Paris, the second of life on the road among the tramps, casual wards and lodging houses of London.",
+   "summary": "",
+   "plot": "In Paris the narrator's savings are stolen and his English lessons come to an end; he pawns his clothes, goes two days without food and looks for work with Boris, a Russian waiter, before becoming a plongeur, or dishwasher, at the Hotel X near the Place de la Concorde, whose caste system of managers, cooks, waiters and plongeurs and whose dirt behind the service doors he describes. He and Boris leave for a new Russian-run restaurant, the Auberge de Jehan Cottard, where he is unpaid for ten days and then works seventeen and a half hours a day; worn out, he asks a friend in London for work and is offered the care of a 'congenital imbecile'. In London the employers have gone abroad, and until they return he lives as a tramp, moving between lodging houses, Salvation Army shelters and the casual wards, or spikes, which a vagrant may not enter more than once a month, in the company of the Irish tramp Paddy and Bozo, a pavement artist with a literary education. The book ends with a catalogue of the lodgings open to the destitute and the narrator's conclusions: he has seen only the fringe of poverty, but will never again think all tramps drunken scoundrels or expect a beggar to be grateful.",
+   "significance": "Reviewed favourably by C. Day Lewis, W. H. Davies, Compton Mackenzie and J. B. Priestley, who called it 'a valuable social document', the book sold slowly until Penguin printed 55,000 copies at sixpence in December 1940. Orwell maintained that he had 'exaggerated nothing except in so far as all writers exaggerate by selecting', and wrote in The Road to Wigan Pier that 'nearly all the incidents described there actually happened, though they have been re-arranged'; his introduction to the French edition calls the characters 'representative types'. Cyril Connolly later called the book no more than 'agreeable journalism', a judgement Orwell accepted.",
+   "meter": "Plain first-person narrative, often tragi-comic in its account of the descent into poverty, broken by anecdotes told by other characters (Valenti, Charlie, Bozo) and by chapters of general reflection, such as the one on the plongeur as 'one of the slaves of the modern world'.",
+   "context": "Orwell drew on his own experience after he gave up his post as a policeman in Burma to become a writer. He made tramping expeditions in and around London from the end of 1927, lived in the Latin Quarter of Paris in 1928-29, where he fell ill, was robbed and worked as a dishwasher, and on his return made further expeditions, ending with hop-picking in Kent in 1931. A first version using only the Paris material, 'A Scullion's Diary', was completed in October 1930 and rejected by Jonathan Cape; an enlarged typescript with the London chapters was rejected by Faber, where T. S. Eliot found it 'of very great interest' but not 'possible as a publishing venture', before the agent Leonard Moore placed it with Gollancz.",
+   "characters": "the narrator; Boris, a Russian waiter; Valenti, an Italian waiter; Charlie; the patron of the Auberge de Jehan Cottard; Paddy, an Irish tramp; Bozo, a pavement artist",
+   "structure": "Thirty-eight chapters in two parts, chapters 1-23 in Paris and 24-38 in London, ending with a catalogue of cheap lodgings and the narrator's general conclusions.",
+   "attributionNotes": "Attribution is secure: the work was published under the author's name, also recorded as Eric Arthur Blair. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Autobiography and the Modern Memoir",
+    "Documentary Prose and the Reportage Book"
+   ],
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "Wage labour, the strike, and the two nations"
+   ],
+   "movements": [
+    "The Hungry Thirties and the Documentary Novel"
+   ],
+   "editions": [],
+   "sources": [
+    "Down and Out in Paris and London (Wikipedia)",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
    "id": 1946,
    "title": "Dracula",
    "altTitles": [],
@@ -86740,7 +86872,7 @@
    ]
   },
   {
-   "id": 2593,
+   "id": 2592,
    "title": "Dubliners",
    "altTitles": [],
    "authorship": "single",
@@ -86795,7 +86927,7 @@
    ]
   },
   {
-   "id": 2804,
+   "id": 2807,
    "title": "Dusty Answer",
    "altTitles": [],
    "authorship": "single",
@@ -88212,7 +88344,7 @@
    ]
   },
   {
-   "id": 2637,
+   "id": 2636,
    "title": "Eminent Victorians",
    "altTitles": [],
    "authorship": "single",
@@ -92427,7 +92559,7 @@
    ]
   },
   {
-   "id": 2596,
+   "id": 2595,
    "title": "Finnegans Wake",
    "altTitles": [],
    "authorship": "single",
@@ -92736,7 +92868,7 @@
    ]
   },
   {
-   "id": 2678,
+   "id": 2677,
    "title": "Flowering Judas",
    "altTitles": [],
    "authorship": "single",
@@ -92788,7 +92920,7 @@
    ]
   },
   {
-   "id": 2846,
+   "id": 2849,
    "title": "Flying Home and Other Stories",
    "altTitles": [],
    "authorship": "single",
@@ -93009,7 +93141,7 @@
    ]
   },
   {
-   "id": 2600,
+   "id": 2599,
    "title": "Four Quartets",
    "altTitles": [
     "Four Quartets: Burnt Norton, East Coker, The Dry Salvages, Little Gidding"
@@ -93533,7 +93665,7 @@
    ]
   },
   {
-   "id": 2728,
+   "id": 2731,
    "title": "French Without Tears",
    "altTitles": [],
    "authorship": "single",
@@ -94547,7 +94679,7 @@
    ]
   },
   {
-   "id": 2702,
+   "id": 2705,
    "title": "Ghost Stories of an Antiquary",
    "altTitles": [],
    "authorship": "single",
@@ -94695,7 +94827,7 @@
    ]
   },
   {
-   "id": 2675,
+   "id": 2674,
    "title": "Go Down, Moses",
    "altTitles": [],
    "authorship": "single",
@@ -94799,7 +94931,7 @@
    ]
   },
   {
-   "id": 2825,
+   "id": 2828,
    "title": "God Sends Sunday",
    "altTitles": [],
    "authorship": "single",
@@ -94903,7 +95035,7 @@
    ]
   },
   {
-   "id": 2820,
+   "id": 2823,
    "title": "God's Trombones: Seven Negro Sermons in Verse",
    "altTitles": [
     "God's Trombones"
@@ -95057,7 +95189,7 @@
    ]
   },
   {
-   "id": 2844,
+   "id": 2847,
    "title": "Going to the Territory",
    "altTitles": [],
    "authorship": "single",
@@ -95260,7 +95392,7 @@
    ]
   },
   {
-   "id": 2872,
+   "id": 2875,
    "title": "Good Morning Blues: The Autobiography of Count Basie",
    "altTitles": [],
    "authorship": "single",
@@ -95305,7 +95437,7 @@
    ]
   },
   {
-   "id": 2799,
+   "id": 2802,
    "title": "Good Morning, Midnight",
    "altTitles": [],
    "authorship": "single",
@@ -95360,7 +95492,7 @@
    ]
   },
   {
-   "id": 2630,
+   "id": 2629,
    "title": "Good-bye to All That",
    "altTitles": [],
    "authorship": "single",
@@ -95414,7 +95546,7 @@
    ]
   },
   {
-   "id": 2690,
+   "id": 2689,
    "title": "Goodbye to Berlin",
    "altTitles": [],
    "authorship": "single",
@@ -95950,7 +96082,7 @@
    ]
   },
   {
-   "id": 2751,
+   "id": 2754,
    "title": "Greenmantle",
    "altTitles": [],
    "authorship": "single",
@@ -96607,7 +96739,7 @@
    ]
   },
   {
-   "id": 2810,
+   "id": 2813,
    "title": "Hangover Square",
    "altTitles": [],
    "authorship": "single",
@@ -96762,7 +96894,7 @@
    ]
   },
   {
-   "id": 2658,
+   "id": 2657,
    "title": "Harlem Shadows",
    "altTitles": [],
    "authorship": "single",
@@ -96814,7 +96946,7 @@
    ]
   },
   {
-   "id": 2613,
+   "id": 2612,
    "title": "Harmonium",
    "altTitles": [],
    "authorship": "single",
@@ -97068,7 +97200,7 @@
    ]
   },
   {
-   "id": 2710,
+   "id": 2713,
    "title": "Hay Fever",
    "altTitles": [],
    "authorship": "single",
@@ -98420,7 +98552,7 @@
    ]
   },
   {
-   "id": 2855,
+   "id": 2858,
    "title": "High Windows",
    "altTitles": [],
    "authorship": "single",
@@ -98575,7 +98707,7 @@
    ]
   },
   {
-   "id": 2589,
+   "id": 2588,
    "title": "Hindle Wakes",
    "altTitles": [],
    "authorship": "single",
@@ -99218,7 +99350,7 @@
    ]
   },
   {
-   "id": 2696,
+   "id": 2695,
    "title": "Homage to Catalonia",
    "altTitles": [],
    "authorship": "single",
@@ -99272,7 +99404,7 @@
    ]
   },
   {
-   "id": 2659,
+   "id": 2658,
    "title": "Home to Harlem",
    "altTitles": [],
    "authorship": "single",
@@ -99762,7 +99894,7 @@
    ]
   },
   {
-   "id": 2606,
+   "id": 2605,
    "title": "Hugh Selwyn Mauberley",
    "altTitles": [],
    "authorship": "single",
@@ -101141,7 +101273,7 @@
    ]
   },
   {
-   "id": 2761,
+   "id": 2764,
    "title": "Images of War",
    "altTitles": [],
    "authorship": "single",
@@ -101659,7 +101791,7 @@
    ]
   },
   {
-   "id": 2768,
+   "id": 2771,
    "title": "In Flanders Fields and Other Poems",
    "altTitles": [],
    "authorship": "single",
@@ -101815,7 +101947,7 @@
    ]
   },
   {
-   "id": 2670,
+   "id": 2669,
    "title": "In Our Time",
    "altTitles": [],
    "authorship": "single",
@@ -101869,7 +102001,7 @@
    ]
   },
   {
-   "id": 2758,
+   "id": 2761,
    "title": "In Parenthesis",
    "altTitles": [],
    "authorship": "single",
@@ -102378,7 +102510,7 @@
    ]
   },
   {
-   "id": 2830,
+   "id": 2833,
    "title": "Infants of the Spring",
    "altTitles": [],
    "authorship": "single",
@@ -102473,6 +102605,59 @@
    "movements": [],
    "editions": [],
    "sources": [
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2703,
+   "title": "Inside the Whale and Other Essays",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Orwell"
+   ],
+   "authorIds": [
+    839
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1940",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay collection; critical essay",
+   "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
+   "description": "Orwell's first collection of essays, published by Victor Gollancz on 11 March 1940 in an edition of 1,100 copies, some of which were later destroyed in German bombing. It has three long essays: 'Charles Dickens', 'Boys' Weeklies' and the title essay, 'Inside the Whale', a review of Henry Miller's Tropic of Cancer that becomes a survey of English writing between the wars.",
+   "summary": "",
+   "plot": "'Inside the Whale', in three parts, begins as a review of Tropic of Cancer (1934). Orwell values Miller less for his 'unprintable words' than for his writing about the ordinary man, which he compares with Joyce's in Ulysses, and he likens Miller to Whitman as a writer of acceptance rather than of a struggle to change life. He then surveys English writing since the First World War: Housman's nostalgic, adolescent pessimism; the pessimistic, unpolitical writers of the 1920s (Joyce, Eliot, Pound, Lawrence, Wyndham Lewis, Huxley and Strachey); and the serious, left-wing group of the 1930s around Auden and Spender, whose shared public-school and university background and sheltered English lives he blames for their attraction to Communism as a substitute faith, and whose phrase 'necessary murder', in Auden's 'Spain', he says could be written only by someone to whom murder is a word. Finally he takes up Miller's image of Jonah in the whale for a passive acceptance of experience, the last stage of irresponsibility, predicts the break-up of laissez-faire capitalism and liberal-Christian culture, and suggests that any novel worth reading will have to follow Miller's lines. The other two essays, 'Charles Dickens' and 'Boys' Weeklies', were reprinted in Critical Essays (1946), whose record describes them.",
+   "significance": "Orwell's first book of criticism. The title essay sets literature against the politics of the 1930s, judges the Auden generation as a writer who had himself fought in Spain, and gives its name to the image of the writer inside the whale, passively accepting experience. The collection's other two essays opened Critical Essays (1946), the book that established him as a critic.",
+   "meter": "Discursive critical prose that moves from the review of a single book to a survey of a literary generation and a political argument, quoting Housman and Auden among others and turning on a single governing image, Jonah inside the whale.",
+   "context": "Orwell had lived in Paris in 1928-29, the city of Miller's book, and dined with Miller there in December 1936 on his way to the Spanish Civil War; Miller thought his going to Spain 'the act of an idiot'. The title essay was finished as the Second World War began: 'While I have been writing this book another European war has broken out.'",
+   "characters": "",
+   "structure": "Three essays: 'Charles Dickens', 'Boys' Weeklies' and 'Inside the Whale', the last in three parts.",
+   "attributionNotes": "Attribution is secure: the work was published under the author's name, also recorded as Eric Arthur Blair. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Critical Essay and the Modern Review"
+   ],
+   "themes": [
+    "Art versus life, and the romance of the artist",
+    "Totalitarianism, propaganda, and the political novel"
+   ],
+   "movements": [],
+   "editions": [],
+   "sources": [
+    "George Orwell bibliography (Wikipedia)",
+    "Inside the Whale (Wikipedia)",
+    "Inside the Whale and Other Essays (Wikipedia)",
     "Modernism: A Guide to European Literature 1890–1930",
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
@@ -102819,7 +103004,7 @@
    ]
   },
   {
-   "id": 2842,
+   "id": 2845,
    "title": "Invisible Man",
    "altTitles": [],
    "authorship": "single",
@@ -103620,7 +103805,7 @@
    ]
   },
   {
-   "id": 2878,
+   "id": 2881,
    "title": "James Burnham and the Managerial Revolution",
    "altTitles": [
     "Second Thoughts on James Burnham"
@@ -103774,7 +103959,7 @@
    ]
   },
   {
-   "id": 2583,
+   "id": 2562,
    "title": "Jane Clegg",
    "altTitles": [],
    "authorship": "single",
@@ -104253,7 +104438,7 @@
    ]
   },
   {
-   "id": 2848,
+   "id": 2851,
    "title": "Jill",
    "altTitles": [],
    "authorship": "single",
@@ -104591,7 +104776,7 @@
    ]
   },
   {
-   "id": 2584,
+   "id": 2583,
    "title": "John Ferguson",
    "altTitles": [],
    "authorship": "single",
@@ -104876,7 +105061,7 @@
    ]
   },
   {
-   "id": 2759,
+   "id": 2762,
    "title": "Journey's End",
    "altTitles": [],
    "authorship": "single",
@@ -105133,7 +105318,7 @@
    ]
   },
   {
-   "id": 2847,
+   "id": 2850,
    "title": "Juneteenth",
    "altTitles": [],
    "authorship": "single",
@@ -105338,7 +105523,7 @@
    ]
   },
   {
-   "id": 2698,
+   "id": 2697,
    "title": "Keep the Aspidistra Flying",
    "altTitles": [],
    "authorship": "single",
@@ -106960,7 +107145,7 @@
    ]
   },
   {
-   "id": 2717,
+   "id": 2720,
    "title": "Last and First Men",
    "altTitles": [],
    "authorship": "single",
@@ -107526,7 +107711,7 @@
    ]
   },
   {
-   "id": 2745,
+   "id": 2748,
    "title": "Leave It to Psmith",
    "altTitles": [],
    "authorship": "single",
@@ -107915,7 +108100,7 @@
    ]
   },
   {
-   "id": 2864,
+   "id": 2867,
    "title": "Les Blancs",
    "altTitles": [],
    "authorship": "single",
@@ -109456,7 +109641,7 @@
    ]
   },
   {
-   "id": 2673,
+   "id": 2672,
    "title": "Light in August",
    "altTitles": [],
    "authorship": "single",
@@ -109731,7 +109916,7 @@
    ]
   },
   {
-   "id": 2689,
+   "id": 2688,
    "title": "Lions and Shadows: An Education in the Twenties",
    "altTitles": [
     "Lions and Shadows"
@@ -110255,7 +110440,7 @@
    ]
   },
   {
-   "id": 2808,
+   "id": 2811,
    "title": "Lolly Willowes; or, The Loving Huntsman",
    "altTitles": [
     "Lolly Willowes"
@@ -110525,7 +110710,7 @@
    ]
   },
   {
-   "id": 2676,
+   "id": 2675,
    "title": "Look Homeward, Angel",
    "altTitles": [],
    "authorship": "single",
@@ -110579,7 +110764,7 @@
    ]
   },
   {
-   "id": 2686,
+   "id": 2685,
    "title": "Look, Stranger!",
    "altTitles": [],
    "authorship": "single",
@@ -111374,7 +111559,7 @@
    ]
   },
   {
-   "id": 2727,
+   "id": 2730,
    "title": "Love in Idleness",
    "altTitles": [],
    "authorship": "single",
@@ -111429,7 +111614,7 @@
    ]
   },
   {
-   "id": 2733,
+   "id": 2736,
    "title": "Love on the Dole",
    "altTitles": [],
    "authorship": "single",
@@ -112910,7 +113095,7 @@
    ]
   },
   {
-   "id": 2778,
+   "id": 2781,
    "title": "Main Street",
    "altTitles": [],
    "authorship": "single",
@@ -113353,7 +113538,7 @@
    ]
   },
   {
-   "id": 2664,
+   "id": 2663,
    "title": "Manhattan Transfer",
    "altTitles": [],
    "authorship": "single",
@@ -114016,7 +114201,7 @@
    ]
   },
   {
-   "id": 2765,
+   "id": 2768,
    "title": "Marlborough and Other Poems",
    "altTitles": [],
    "authorship": "single",
@@ -114587,7 +114772,7 @@
    ]
   },
   {
-   "id": 2591,
+   "id": 2590,
    "title": "Mary Broome",
    "altTitles": [],
    "authorship": "single",
@@ -115359,7 +115544,7 @@
    ]
   },
   {
-   "id": 2631,
+   "id": 2630,
    "title": "Memoirs of a Fox-Hunting Man",
    "altTitles": [],
    "authorship": "single",
@@ -116616,7 +116801,7 @@
    ]
   },
   {
-   "id": 2787,
+   "id": 2790,
    "title": "Miss Lonelyhearts",
    "altTitles": [],
    "authorship": "single",
@@ -116722,7 +116907,7 @@
    ]
   },
   {
-   "id": 2812,
+   "id": 2815,
    "title": "Miss Mole",
    "altTitles": [],
    "authorship": "single",
@@ -117760,7 +117945,7 @@
    ]
   },
   {
-   "id": 2611,
+   "id": 2610,
    "title": "Mountain Interval",
    "altTitles": [],
    "authorship": "single",
@@ -117813,7 +117998,7 @@
    ]
   },
   {
-   "id": 2784,
+   "id": 2787,
    "title": "Mourning Becomes Electra",
    "altTitles": [],
    "authorship": "single",
@@ -117914,7 +118099,7 @@
    ]
   },
   {
-   "id": 2809,
+   "id": 2812,
    "title": "Mr Fortune's Maggot",
    "altTitles": [],
    "authorship": "single",
@@ -117966,7 +118151,7 @@
    ]
   },
   {
-   "id": 2816,
+   "id": 2819,
    "title": "Mr Weston's Good Wine",
    "altTitles": [],
    "authorship": "single",
@@ -118336,7 +118521,7 @@
    ]
   },
   {
-   "id": 2657,
+   "id": 2656,
    "title": "Mules and Men",
    "altTitles": [],
    "authorship": "single",
@@ -118613,7 +118798,7 @@
    ]
   },
   {
-   "id": 2602,
+   "id": 2601,
    "title": "Murder in the Cathedral",
    "altTitles": [
     "Murder in the Cathedral: A Play with Chorus"
@@ -118773,7 +118958,7 @@
    ]
   },
   {
-   "id": 2776,
+   "id": 2779,
    "title": "My Antonia",
    "altTitles": [],
    "authorship": "single",
@@ -118925,7 +119110,7 @@
    ]
   },
   {
-   "id": 2742,
+   "id": 2745,
    "title": "My Man Jeeves",
    "altTitles": [],
    "authorship": "single",
@@ -119195,7 +119380,7 @@
    ]
   },
   {
-   "id": 2764,
+   "id": 2767,
    "title": "Naked Warriors",
    "altTitles": [],
    "authorship": "single",
@@ -119569,7 +119754,7 @@
    ]
   },
   {
-   "id": 2790,
+   "id": 2793,
    "title": "Native Son",
    "altTitles": [],
    "authorship": "single",
@@ -120101,7 +120286,7 @@
    ]
   },
   {
-   "id": 2612,
+   "id": 2611,
    "title": "New Hampshire",
    "altTitles": [],
    "authorship": "single",
@@ -120570,7 +120755,7 @@
    ]
   },
   {
-   "id": 2793,
+   "id": 2796,
    "title": "Nightwood",
    "altTitles": [],
    "authorship": "single",
@@ -120624,7 +120809,7 @@
    ]
   },
   {
-   "id": 2880,
+   "id": 2883,
    "title": "Nineteen Eighty-Four",
    "altTitles": [
     "1984"
@@ -120878,7 +121063,7 @@
    ]
   },
   {
-   "id": 2610,
+   "id": 2609,
    "title": "North of Boston",
    "altTitles": [],
    "authorship": "single",
@@ -121100,7 +121285,7 @@
    ]
   },
   {
-   "id": 2828,
+   "id": 2831,
    "title": "Not Without Laughter",
    "altTitles": [],
    "authorship": "single",
@@ -121154,7 +121339,7 @@
    ]
   },
   {
-   "id": 2615,
+   "id": 2614,
    "title": "Notes Toward a Supreme Fiction",
    "altTitles": [],
    "authorship": "single",
@@ -121376,7 +121561,7 @@
    ]
   },
   {
-   "id": 2775,
+   "id": 2778,
    "title": "O Pioneers!",
    "altTitles": [],
    "authorship": "single",
@@ -121493,7 +121678,7 @@
    ]
   },
   {
-   "id": 2619,
+   "id": 2618,
    "title": "Observations",
    "altTitles": [],
    "authorship": "single",
@@ -121967,7 +122152,7 @@
    ]
   },
   {
-   "id": 2719,
+   "id": 2722,
    "title": "Odd John: A Story Between Jest and Earnest",
    "altTitles": [
     "Odd John"
@@ -123053,7 +123238,7 @@
    ]
   },
   {
-   "id": 2738,
+   "id": 2741,
    "title": "Of Human Bondage",
    "altTitles": [],
    "authorship": "single",
@@ -123106,7 +123291,7 @@
    ]
   },
   {
-   "id": 2773,
+   "id": 2776,
    "title": "Of Mice and Men",
    "altTitles": [],
    "authorship": "single",
@@ -123212,7 +123397,7 @@
    ]
   },
   {
-   "id": 2677,
+   "id": 2676,
    "title": "Of Time and the River",
    "altTitles": [],
    "authorship": "single",
@@ -123887,7 +124072,7 @@
    ]
   },
   {
-   "id": 2603,
+   "id": 2602,
    "title": "Old Possum's Book of Practical Cats",
    "altTitles": [],
    "authorship": "single",
@@ -125769,7 +125954,7 @@
    ]
   },
   {
-   "id": 2748,
+   "id": 2751,
    "title": "Orthodoxy",
    "altTitles": [],
    "authorship": "single",
@@ -125944,7 +126129,7 @@
    ]
   },
   {
-   "id": 2734,
+   "id": 2737,
    "title": "Our Irish Theatre: A Chapter of Autobiography",
    "altTitles": [
     "Our Irish Theatre"
@@ -126103,7 +126288,7 @@
    ]
   },
   {
-   "id": 2785,
+   "id": 2788,
    "title": "Our Town",
    "altTitles": [],
    "authorship": "single",
@@ -126328,7 +126513,7 @@
    ]
   },
   {
-   "id": 2679,
+   "id": 2678,
    "title": "Pale Horse, Pale Rider",
    "altTitles": [],
    "authorship": "single",
@@ -126668,7 +126853,7 @@
    ]
   },
   {
-   "id": 2643,
+   "id": 2642,
    "title": "Parade's End",
    "altTitles": [],
    "authorship": "single",
@@ -126978,7 +127163,7 @@
    ]
   },
   {
-   "id": 2822,
+   "id": 2825,
    "title": "Passing",
    "altTitles": [],
    "authorship": "single",
@@ -127245,7 +127430,7 @@
    ]
   },
   {
-   "id": 2806,
+   "id": 2809,
    "title": "Pastors and Masters",
    "altTitles": [
     "Pastors and Masters: A Study"
@@ -127301,7 +127486,7 @@
    ]
   },
   {
-   "id": 2617,
+   "id": 2616,
    "title": "Paterson",
    "altTitles": [],
    "authorship": "single",
@@ -127605,7 +127790,7 @@
    ]
   },
   {
-   "id": 2624,
+   "id": 2623,
    "title": "Peacock Pie",
    "altTitles": [],
    "authorship": "single",
@@ -128200,7 +128385,7 @@
    ]
   },
   {
-   "id": 2607,
+   "id": 2606,
    "title": "Personae: The Collected Poems of Ezra Pound",
    "altTitles": [
     "Personae"
@@ -129021,56 +129206,6 @@
    ]
   },
   {
-   "id": 2561,
-   "title": "Picture of Mortimer and Ray",
-   "altTitles": [],
-   "authorship": "single",
-   "authors": [
-    "Malcolm Muggeridge"
-   ],
-   "authorIds": [
-    790
-   ],
-   "compositionStart": "1929",
-   "compositionEnd": "1930",
-   "compositionCirca": false,
-   "dates": "1929 – 1930",
-   "publicationDate": "1930",
-   "manuscriptDate": "",
-   "language": "English",
-   "form": "Novel (the satirical novel); realist novel of common life",
-   "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
-   "description": "The satirical novel of the academic and literary London that made Muggeridge's name. It is a prose fiction work of 1930 by Malcolm Muggeridge; it is catalogued here under Realist Novel of Common Life.",
-   "summary": "",
-   "plot": "Picture of Mortimer and Ray follows two Cambridge graduates through the follies of the academic and literary world, the lectures, the marriages and the ridicule, in the satirical novel that made Muggeridge the novelist of the thirties' self-awareness.",
-   "significance": "Picture of Mortimer and Ray is Muggeridge's satirical novel of the academic and literary world: its two young men and its ridicule made him the novelist of the thirties' self-awareness.",
-   "meter": "Prose. Prose fiction of common life: the continuous chaptered narrative, the full reported dialogue, the exact material description of rooms, clothes, money and work, and the slow accumulation of consequence. The author's characteristic manner is the satirical sentence of the journalist with the moralist's edge.",
-   "context": "Cambridge and London in the late 1920s, the world of lectures, reviews and the literary comedy. The record dates the work as composed between 1929 and 1930 and first published in 1930 and it is catalogued under realist novel of common life.",
-   "characters": "the two young men; the lecturers; the reviewers; the literary circle",
-   "structure": "A satirical novel in the chapters of the academic career. A novel in chapters, the action carried in sequence from the opening situation to the closing resolution, with the material world of the household described at length.",
-   "attributionNotes": "Attribution is secure: the work was published under the author's name, also recorded as Thomas Malcolm Muggeridge. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
-   "canonicalStatus": "Secondary canon",
-   "genres": [
-    "Realist Novel of Common Life"
-   ],
-   "themes": [
-    "Class, the servant problem, and the new democracy",
-    "The absurd, the void, and the failure of meaning"
-   ],
-   "movements": [],
-   "editions": [],
-   "sources": [
-    "Modernism: A Guide to European Literature 1890–1930",
-    "The Cambridge Companion to Modernism, 2nd edn",
-    "The Cambridge Companion to the Modernist Novel",
-    "The Cambridge History of Twentieth-Century English Literature",
-    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
-    "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Companion to Twentieth-Century Literature in English",
-    "The Oxford Dictionary of National Biography, 60 vols"
-   ]
-  },
-  {
    "id": 423,
    "title": "Pierce Penniless His Supplication to the Devil",
    "altTitles": [
@@ -129658,7 +129793,7 @@
    ]
   },
   {
-   "id": 2823,
+   "id": 2826,
    "title": "Plum Bun: A Novel Without a Moral",
    "altTitles": [
     "Plum Bun"
@@ -130365,7 +130500,7 @@
    ]
   },
   {
-   "id": 2684,
+   "id": 2683,
    "title": "Poems (Auden, 1930)",
    "altTitles": [],
    "authorship": "single",
@@ -130744,7 +130879,7 @@
    ]
   },
   {
-   "id": 2618,
+   "id": 2617,
    "title": "Poems (Moore, 1921)",
    "altTitles": [
     "Poems"
@@ -130799,7 +130934,7 @@
    ]
   },
   {
-   "id": 2628,
+   "id": 2627,
    "title": "Poems (Owen, 1920)",
    "altTitles": [
     "Poems by Wilfred Owen",
@@ -130922,7 +131057,7 @@
    ]
   },
   {
-   "id": 2629,
+   "id": 2628,
    "title": "Poems (Rosenberg, 1922)",
    "altTitles": [
     "Poems"
@@ -131044,7 +131179,7 @@
    ]
   },
   {
-   "id": 2693,
+   "id": 2692,
    "title": "Poems (Spender, 1933)",
    "altTitles": [],
    "authorship": "single",
@@ -132502,7 +132637,7 @@
    ]
   },
   {
-   "id": 2640,
+   "id": 2639,
    "title": "Pointed Roofs",
    "altTitles": [],
    "authorship": "single",
@@ -133647,7 +133782,7 @@
    ]
   },
   {
-   "id": 2713,
+   "id": 2716,
    "title": "Present Laughter",
    "altTitles": [],
    "authorship": "single",
@@ -133862,7 +133997,7 @@
    ]
   },
   {
-   "id": 2711,
+   "id": 2714,
    "title": "Private Lives",
    "altTitles": [],
    "authorship": "single",
@@ -134075,7 +134210,7 @@
    ]
   },
   {
-   "id": 2598,
+   "id": 2597,
    "title": "Prufrock and Other Observations",
    "altTitles": [],
    "authorship": "single",
@@ -134346,7 +134481,7 @@
    ]
   },
   {
-   "id": 2797,
+   "id": 2800,
    "title": "Quartet",
    "altTitles": [],
    "authorship": "single",
@@ -134458,7 +134593,7 @@
    ]
   },
   {
-   "id": 2638,
+   "id": 2637,
    "title": "Queen Victoria",
    "altTitles": [],
    "authorship": "single",
@@ -134511,7 +134646,7 @@
    ]
   },
   {
-   "id": 2821,
+   "id": 2824,
    "title": "Quicksand",
    "altTitles": [],
    "authorship": "single",
@@ -135684,7 +135819,7 @@
    ]
   },
   {
-   "id": 2857,
+   "id": 2860,
    "title": "Required Writing: Miscellaneous Pieces 1955-1982",
    "altTitles": [],
    "authorship": "single",
@@ -136584,7 +136719,7 @@
    ]
   },
   {
-   "id": 2743,
+   "id": 2746,
    "title": "Right Ho, Jeeves",
    "altTitles": [],
    "authorship": "single",
@@ -137867,7 +138002,7 @@
    ]
   },
   {
-   "id": 2585,
+   "id": 2584,
    "title": "Rutherford and Son",
    "altTitles": [],
    "authorship": "single",
@@ -138307,7 +138442,7 @@
    ]
   },
   {
-   "id": 2634,
+   "id": 2633,
    "title": "Salt-Water Ballads",
    "altTitles": [],
    "authorship": "single",
@@ -139191,7 +139326,7 @@
    ]
   },
   {
-   "id": 2608,
+   "id": 2607,
    "title": "Sea Garden",
    "altTitles": [],
    "authorship": "single",
@@ -139337,7 +139472,7 @@
    ]
   },
   {
-   "id": 2859,
+   "id": 2862,
    "title": "Selected Letters of Philip Larkin, 1940-1985",
    "altTitles": [],
    "authorship": "single",
@@ -140090,7 +140225,7 @@
    ]
   },
   {
-   "id": 2729,
+   "id": 2732,
    "title": "Seven Pillars of Wisdom",
    "altTitles": [],
    "authorship": "single",
@@ -140250,7 +140385,7 @@
    ]
   },
   {
-   "id": 2762,
+   "id": 2765,
    "title": "Severe Poems",
    "altTitles": [],
    "authorship": "single",
@@ -140306,7 +140441,7 @@
    ]
   },
   {
-   "id": 2843,
+   "id": 2846,
    "title": "Shadow and Act",
    "altTitles": [],
    "authorship": "single",
@@ -140825,7 +140960,7 @@
    ]
   },
   {
-   "id": 2881,
+   "id": 2884,
    "title": "Shooting an Elephant and Other Essays",
    "altTitles": [],
    "authorship": "single",
@@ -141581,7 +141716,7 @@
    ]
   },
   {
-   "id": 2720,
+   "id": 2723,
    "title": "Sirius: A Fantasy of Love and Discord",
    "altTitles": [],
    "authorship": "single",
@@ -142202,7 +142337,7 @@
    ]
   },
   {
-   "id": 2642,
+   "id": 2641,
    "title": "Some Do Not…",
    "altTitles": [],
    "authorship": "single",
@@ -142801,7 +142936,7 @@
    ]
   },
   {
-   "id": 2636,
+   "id": 2635,
    "title": "Songs of Childhood",
    "altTitles": [],
    "authorship": "single",
@@ -143753,7 +143888,7 @@
    ]
   },
   {
-   "id": 2801,
+   "id": 2804,
    "title": "South Riding",
    "altTitles": [],
    "authorship": "single",
@@ -143808,7 +143943,7 @@
    ]
   },
   {
-   "id": 2868,
+   "id": 2871,
    "title": "South to a Very Old Place",
    "altTitles": [],
    "authorship": "single",
@@ -143907,7 +144042,7 @@
    ]
   },
   {
-   "id": 2826,
+   "id": 2829,
    "title": "Southern Road",
    "altTitles": [],
    "authorship": "single",
@@ -143961,7 +144096,7 @@
    ]
   },
   {
-   "id": 2687,
+   "id": 2686,
    "title": "Spain",
    "altTitles": [],
    "authorship": "single",
@@ -144307,7 +144442,7 @@
    ]
   },
   {
-   "id": 2771,
+   "id": 2774,
    "title": "Speculations",
    "altTitles": [],
    "authorship": "single",
@@ -144410,7 +144545,7 @@
    ]
   },
   {
-   "id": 2708,
+   "id": 2711,
    "title": "Spreading the News",
    "altTitles": [],
    "authorship": "single",
@@ -144526,7 +144661,7 @@
    ]
   },
   {
-   "id": 2616,
+   "id": 2615,
    "title": "Spring and All",
    "altTitles": [],
    "authorship": "single",
@@ -144794,7 +144929,7 @@
    ]
   },
   {
-   "id": 2718,
+   "id": 2721,
    "title": "Star Maker",
    "altTitles": [],
    "authorship": "single",
@@ -144913,7 +145048,7 @@
    ]
   },
   {
-   "id": 2871,
+   "id": 2874,
    "title": "Stomping the Blues",
    "altTitles": [],
    "authorship": "single",
@@ -145372,7 +145507,7 @@
    ]
   },
   {
-   "id": 2882,
+   "id": 2885,
    "title": "Such, Such Were the Joys",
    "altTitles": [],
    "authorship": "single",
@@ -145640,7 +145775,7 @@
    ]
   },
   {
-   "id": 2646,
+   "id": 2645,
    "title": "Sunset Song",
    "altTitles": [],
    "authorship": "single",
@@ -145743,7 +145878,7 @@
    ]
   },
   {
-   "id": 2838,
+   "id": 2841,
    "title": "Surfeit of Lampreys",
    "altTitles": [
     "Death of a Peer"
@@ -147069,7 +147204,7 @@
    ]
   },
   {
-   "id": 2651,
+   "id": 2650,
    "title": "Tender Buttons",
    "altTitles": [],
    "authorship": "single",
@@ -147121,7 +147256,7 @@
    ]
   },
   {
-   "id": 2667,
+   "id": 2666,
    "title": "Tender Is the Night",
    "altTitles": [],
    "authorship": "single",
@@ -147283,7 +147418,7 @@
    ]
   },
   {
-   "id": 2757,
+   "id": 2760,
    "title": "Testament of Youth",
    "altTitles": [],
    "authorship": "single",
@@ -150034,7 +150169,7 @@
    ]
   },
   {
-   "id": 2652,
+   "id": 2651,
    "title": "The Autobiography of Alice B. Toklas",
    "altTitles": [
     "Autobiography of Alice B. Toklas"
@@ -150090,7 +150225,7 @@
    ]
   },
   {
-   "id": 2819,
+   "id": 2822,
    "title": "The Autobiography of an Ex-Coloured Man",
    "altTitles": [
     "Autobiography of an Ex-Coloured Man"
@@ -151896,7 +152031,7 @@
    ]
   },
   {
-   "id": 2829,
+   "id": 2832,
    "title": "The Blacker the Berry: A Novel of Negro Life",
    "altTitles": [
     "The Blacker the Berry",
@@ -152058,7 +152193,7 @@
    ]
   },
   {
-   "id": 2875,
+   "id": 2878,
    "title": "The Blue Devils of Nada: A Contemporary American Approach to Aesthetic Statement",
    "altTitles": [],
    "authorship": "single",
@@ -153340,7 +153475,7 @@
    ]
   },
   {
-   "id": 2621,
+   "id": 2620,
    "title": "The Bridge",
    "altTitles": [
     "Bridge"
@@ -153395,7 +153530,7 @@
    ]
   },
   {
-   "id": 2786,
+   "id": 2789,
    "title": "The Bridge of San Luis Rey",
    "altTitles": [
     "Bridge of San Luis Rey"
@@ -154304,7 +154439,7 @@
    ]
   },
   {
-   "id": 2604,
+   "id": 2603,
    "title": "The Cantos",
    "altTitles": [
     "Cantos"
@@ -155334,7 +155469,7 @@
    ]
   },
   {
-   "id": 2592,
+   "id": 2591,
    "title": "The Choice",
    "altTitles": [
     "Choice"
@@ -156148,7 +156283,7 @@
    ]
   },
   {
-   "id": 2744,
+   "id": 2747,
    "title": "The Code of the Woosters",
    "altTitles": [
     "Code of the Woosters"
@@ -156201,7 +156336,7 @@
    ]
   },
   {
-   "id": 2845,
+   "id": 2848,
    "title": "The Collected Essays of Ralph Ellison",
    "altTitles": [],
    "authorship": "single",
@@ -156246,7 +156381,7 @@
    ]
   },
   {
-   "id": 2883,
+   "id": 2886,
    "title": "The Collected Essays, Journalism and Letters of George Orwell",
    "altTitles": [],
    "authorship": "single",
@@ -156292,7 +156427,7 @@
    ]
   },
   {
-   "id": 2625,
+   "id": 2624,
    "title": "The Collected Poems of Edward Thomas",
    "altTitles": [
     "Collected Poems of Edward Thomas"
@@ -156349,7 +156484,7 @@
    ]
   },
   {
-   "id": 2635,
+   "id": 2634,
    "title": "The Collected Poems of Rupert Brooke",
    "altTitles": [
     "Collected Poems of Rupert Brooke"
@@ -157092,7 +157227,7 @@
    ]
   },
   {
-   "id": 2731,
+   "id": 2734,
    "title": "The Complete Short Stories of Saki",
    "altTitles": [
     "Complete Short Stories of Saki"
@@ -157326,7 +157461,7 @@
    ]
   },
   {
-   "id": 2833,
+   "id": 2836,
    "title": "The Conjure-Man Dies: A Mystery Tale of Dark Harlem",
    "altTitles": [
     "The Conjure-Man Dies",
@@ -157741,7 +157876,7 @@
    ]
   },
   {
-   "id": 2770,
+   "id": 2773,
    "title": "The Contemplative Quarry",
    "altTitles": [
     "Contemplative Quarry"
@@ -159202,7 +159337,7 @@
    ]
   },
   {
-   "id": 2788,
+   "id": 2791,
    "title": "The Day of the Locust",
    "altTitles": [
     "Day of the Locust"
@@ -159310,7 +159445,7 @@
    ]
   },
   {
-   "id": 2795,
+   "id": 2798,
    "title": "The Death of the Heart",
    "altTitles": [
     "Death of the Heart"
@@ -160030,7 +160165,7 @@
    ]
   },
   {
-   "id": 2802,
+   "id": 2805,
    "title": "The Diary of a Provincial Lady",
    "altTitles": [
     "Diary of a Provincial Lady"
@@ -161376,7 +161511,7 @@
    ]
   },
   {
-   "id": 2865,
+   "id": 2868,
    "title": "The Drinking Gourd",
    "altTitles": [],
    "authorship": "single",
@@ -162141,7 +162276,7 @@
    ]
   },
   {
-   "id": 2692,
+   "id": 2691,
    "title": "The Earth Compels",
    "altTitles": [
     "Earth Compels"
@@ -162800,7 +162935,7 @@
    ]
   },
   {
-   "id": 2782,
+   "id": 2785,
    "title": "The Emperor Jones",
    "altTitles": [
     "Emperor Jones"
@@ -163169,7 +163304,7 @@
    ]
   },
   {
-   "id": 2879,
+   "id": 2882,
    "title": "The English People",
    "altTitles": [],
    "authorship": "single",
@@ -163834,7 +163969,7 @@
    ]
   },
   {
-   "id": 2633,
+   "id": 2632,
    "title": "The Everlasting Mercy",
    "altTitles": [
     "Everlasting Mercy"
@@ -165193,7 +165328,7 @@
    ]
   },
   {
-   "id": 2769,
+   "id": 2772,
    "title": "The Farmer's Bride",
    "altTitles": [
     "Farmer's Bride"
@@ -165314,7 +165449,7 @@
    ]
   },
   {
-   "id": 2841,
+   "id": 2844,
    "title": "The Fashion in Shrouds",
    "altTitles": [
     "Fashion in Shrouds"
@@ -167226,7 +167361,7 @@
    ]
   },
   {
-   "id": 2884,
+   "id": 2887,
    "title": "The Freedom of the Press",
    "altTitles": [],
    "authorship": "single",
@@ -167696,7 +167831,7 @@
    ]
   },
   {
-   "id": 2737,
+   "id": 2740,
    "title": "The Furys",
    "altTitles": [],
    "authorship": "single",
@@ -168059,7 +168194,7 @@
    ]
   },
   {
-   "id": 2644,
+   "id": 2643,
    "title": "The Garden Party and Other Stories",
    "altTitles": [
     "Garden Party and Other Stories"
@@ -169260,7 +169395,7 @@
    ]
   },
   {
-   "id": 2724,
+   "id": 2727,
    "title": "The Good Companions",
    "altTitles": [
     "Good Companions"
@@ -169315,7 +169450,7 @@
    ]
   },
   {
-   "id": 2641,
+   "id": 2640,
    "title": "The Good Soldier: A Tale of Passion",
    "altTitles": [
     "The Saddest Story",
@@ -169604,7 +169739,7 @@
    ]
   },
   {
-   "id": 2772,
+   "id": 2775,
    "title": "The Grapes of Wrath",
    "altTitles": [
     "Grapes of Wrath"
@@ -169831,7 +169966,7 @@
    ]
   },
   {
-   "id": 2666,
+   "id": 2665,
    "title": "The Great Gatsby",
    "altTitles": [
     "Great Gatsby"
@@ -169888,7 +170023,7 @@
    ]
   },
   {
-   "id": 2705,
+   "id": 2708,
    "title": "The Great God Pan",
    "altTitles": [
     "Great God Pan"
@@ -170539,7 +170674,7 @@
    ]
   },
   {
-   "id": 2682,
+   "id": 2681,
    "title": "The Heart Is a Lonely Hunter",
    "altTitles": [
     "Heart Is a Lonely Hunter"
@@ -170851,7 +170986,7 @@
    ]
   },
   {
-   "id": 2869,
+   "id": 2872,
    "title": "The Hero and the Blues",
    "altTitles": [],
    "authorship": "single",
@@ -170952,7 +171087,7 @@
    ]
   },
   {
-   "id": 2706,
+   "id": 2709,
    "title": "The Hill of Dreams",
    "altTitles": [
     "Hill of Dreams"
@@ -173671,7 +173806,7 @@
    ]
   },
   {
-   "id": 2796,
+   "id": 2799,
    "title": "The House in Paris",
    "altTitles": [
     "House in Paris"
@@ -174903,7 +175038,7 @@
    ]
   },
   {
-   "id": 2747,
+   "id": 2750,
    "title": "The Innocence of Father Brown",
    "altTitles": [
     "Innocence of Father Brown"
@@ -175662,7 +175797,7 @@
    ]
   },
   {
-   "id": 2792,
+   "id": 2795,
    "title": "The Jungle",
    "altTitles": [
     "Jungle"
@@ -177279,7 +177414,7 @@
    ]
   },
   {
-   "id": 2794,
+   "id": 2797,
    "title": "The Last September",
    "altTitles": [
     "Last September"
@@ -177972,7 +178107,7 @@
    ]
   },
   {
-   "id": 2851,
+   "id": 2854,
    "title": "The Less Deceived",
    "altTitles": [],
    "authorship": "single",
@@ -179338,7 +179473,62 @@
    ]
   },
   {
-   "id": 2623,
+   "id": 2704,
+   "title": "The Lion and the Unicorn",
+   "altTitles": [
+    "The Lion and the Unicorn: Socialism and the English Genius"
+   ],
+   "authorship": "single",
+   "authors": [
+    "George Orwell"
+   ],
+   "authorIds": [
+    839
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1941",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (published as a book, no. 1 of the Searchlight Books)",
+   "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
+   "description": "Orwell's book-length wartime essay, published by Secker & Warburg on 19 February 1941 as the first of the Searchlight Books, a series edited by T. R. Fyvel and Orwell. It argues that Britain's outdated class system was hampering the war against Nazi Germany, and that only a democratic socialist revolution, at once patriotic and English, could win it.",
+   "summary": "",
+   "plot": "The essay is in three parts: 'England Your England', which opens 'As I write, highly civilized human beings are flying overhead, trying to kill me', 'Shopkeepers at War' and 'The English Revolution'. Orwell argues that the outdated class system is hampering the war effort and that to defeat Nazi Germany Britain needs a socialist revolution, so that being a socialist and a patriot are no longer opposed but complementary. The revolution he proposes would create a democratic 'English Socialism', distinct from the Soviet Communism he regarded as totalitarian, and a new Britishness freed from empire and from the decadent old ruling class; it might keep the royal family as a national symbol while sweeping away the rest of the upper class.",
+   "significance": "The essay states without allegory the democratic socialism and hostility to totalitarianism that shape Animal Farm and Nineteen Eighty-Four, and its first part, 'England Your England', is often treated as an essay in its own right; it later gave its title to a posthumous collection. In a speech on Europe in 1993 the Prime Minister John Major quoted its 'old maids bicycling to Holy Communion through the morning mist'.",
+   "meter": "Polemical first-person prose that opens under air attack ('As I write, highly civilized human beings are flying overhead, trying to kill me') and proceeds through three titled parts to a programme for an English socialist revolution.",
+   "context": "Written under air attack, as its opening sentence records, by a writer whose conviction of the dangers of totalitarianism had been formed in the Spanish Civil War. His wife Eileen described its theme as 'how to be a socialist while Tory'.",
+   "characters": "",
+   "structure": "Three parts: 'England Your England', 'Shopkeepers at War' and 'The English Revolution'. Continuous prose in sections or chapters, the argument or the account advanced from its statement to its conclusion.",
+   "attributionNotes": "Attribution is secure: the work was published under the author's name, also recorded as Eric Arthur Blair. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Polemic, Pamphlet, and Open Letter"
+   ],
+   "themes": [
+    "Class, the servant problem, and the new democracy",
+    "National identity and Englishness",
+    "Totalitarianism, propaganda, and the political novel"
+   ],
+   "movements": [],
+   "editions": [],
+   "sources": [
+    "George Orwell bibliography (Wikipedia)",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Lion and the Unicorn: Socialism and the English Genius (Wikipedia)",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2622,
    "title": "The Listeners and Other Poems",
    "altTitles": [
     "Listeners and Other Poems"
@@ -180515,7 +180705,7 @@
    ]
   },
   {
-   "id": 2789,
+   "id": 2792,
    "title": "The Maltese Falcon",
    "altTitles": [
     "Maltese Falcon"
@@ -180620,7 +180810,7 @@
    ]
   },
   {
-   "id": 2836,
+   "id": 2839,
    "title": "The Man in the Queue",
    "altTitles": [
     "Man in the Queue"
@@ -180846,7 +181036,7 @@
    ]
   },
   {
-   "id": 2746,
+   "id": 2749,
    "title": "The Man Who Was Thursday: A Nightmare",
    "altTitles": [
     "The Man Who Was Thursday",
@@ -180902,7 +181092,7 @@
    ]
   },
   {
-   "id": 2614,
+   "id": 2613,
    "title": "The Man with the Blue Guitar",
    "altTitles": [
     "Man with the Blue Guitar"
@@ -181923,7 +182113,7 @@
    ]
   },
   {
-   "id": 2683,
+   "id": 2682,
    "title": "The Member of the Wedding",
    "altTitles": [
     "Member of the Wedding"
@@ -182317,7 +182507,7 @@
    ]
   },
   {
-   "id": 2763,
+   "id": 2766,
    "title": "The Middle Parts of Fortune: Somme and Ancre, 1916",
    "altTitles": [
     "The Middle Parts of Fortune",
@@ -182861,7 +183051,7 @@
    ]
   },
   {
-   "id": 2730,
+   "id": 2733,
    "title": "The Mint",
    "altTitles": [],
    "authorship": "single",
@@ -183165,7 +183355,7 @@
    ]
   },
   {
-   "id": 2739,
+   "id": 2742,
    "title": "The Moon and Sixpence",
    "altTitles": [
     "Moon and Sixpence"
@@ -183557,7 +183747,7 @@
    ]
   },
   {
-   "id": 2862,
+   "id": 2865,
    "title": "The Movement: Documentary of a Struggle for Equality",
    "altTitles": [],
    "authorship": "single",
@@ -183882,7 +184072,7 @@
    ]
   },
   {
-   "id": 2749,
+   "id": 2752,
    "title": "The Napoleon of Notting Hill",
    "altTitles": [
     "Napoleon of Notting Hill"
@@ -183939,7 +184129,7 @@
    ]
   },
   {
-   "id": 2649,
+   "id": 2648,
    "title": "The Narrow Place",
    "altTitles": [
     "Narrow Place"
@@ -184630,7 +184820,7 @@
    ]
   },
   {
-   "id": 2834,
+   "id": 2837,
    "title": "The New Negro: An Interpretation",
    "altTitles": [
     "The New Negro",
@@ -186011,7 +186201,7 @@
    ]
   },
   {
-   "id": 2626,
+   "id": 2625,
    "title": "The Old Huntsman and Other Poems",
    "altTitles": [
     "Old Huntsman and Other Poems"
@@ -186307,7 +186497,7 @@
    ]
   },
   {
-   "id": 2867,
+   "id": 2870,
    "title": "The Omni-Americans: New Perspectives on Black Experience and American Culture",
    "altTitles": [],
    "authorship": "single",
@@ -186411,7 +186601,7 @@
    ]
   },
   {
-   "id": 2685,
+   "id": 2684,
    "title": "The Orators: An English Study",
    "altTitles": [
     "The Orators",
@@ -186779,7 +186969,7 @@
    ]
   },
   {
-   "id": 2854,
+   "id": 2857,
    "title": "The Oxford Book of Twentieth-Century English Verse",
    "altTitles": [],
    "authorship": "single",
@@ -187369,7 +187559,7 @@
    ]
   },
   {
-   "id": 2756,
+   "id": 2759,
    "title": "The Path to Rome",
    "altTitles": [
     "Path to Rome"
@@ -187626,7 +187816,7 @@
    ]
   },
   {
-   "id": 2835,
+   "id": 2838,
    "title": "The Philosophy and Opinions of Marcus Garvey",
    "altTitles": [
     "Philosophy and Opinions of Marcus Garvey"
@@ -189840,7 +190030,7 @@
    ]
   },
   {
-   "id": 2588,
+   "id": 2587,
    "title": "The Price of Thomas Scott",
    "altTitles": [
     "Price of Thomas Scott"
@@ -191746,7 +191936,7 @@
    ]
   },
   {
-   "id": 2741,
+   "id": 2744,
    "title": "The Razor's Edge",
    "altTitles": [
     "Razor's Edge"
@@ -193442,7 +193632,7 @@
    ]
   },
   {
-   "id": 2707,
+   "id": 2710,
    "title": "The Rising of the Moon",
    "altTitles": [
     "Rising of the Moon"
@@ -193674,7 +193864,7 @@
    ]
   },
   {
-   "id": 2700,
+   "id": 2699,
    "title": "The Road to Wigan Pier",
    "altTitles": [
     "Road to Wigan Pier"
@@ -193730,7 +193920,7 @@
    ]
   },
   {
-   "id": 2681,
+   "id": 2680,
    "title": "The Robber Bridegroom",
    "altTitles": [
     "Robber Bridegroom"
@@ -196086,7 +196276,7 @@
    ]
   },
   {
-   "id": 2874,
+   "id": 2877,
    "title": "The Seven League Boots",
    "altTitles": [],
    "authorship": "single",
@@ -197103,7 +197293,7 @@
    ]
   },
   {
-   "id": 2861,
+   "id": 2864,
    "title": "The Sign in Sidney Brustein's Window",
    "altTitles": [],
    "authorship": "single",
@@ -197493,7 +197683,7 @@
    ]
   },
   {
-   "id": 2811,
+   "id": 2814,
    "title": "The Slaves of Solitude",
    "altTitles": [
     "Slaves of Solitude"
@@ -198127,7 +198317,7 @@
    ]
   },
   {
-   "id": 2817,
+   "id": 2820,
    "title": "The Souls of Black Folk",
    "altTitles": [
     "Souls of Black Folk"
@@ -198181,7 +198371,7 @@
    ]
   },
   {
-   "id": 2671,
+   "id": 2670,
    "title": "The Sound and the Fury",
    "altTitles": [
     "Sound and the Fury"
@@ -198873,7 +199063,7 @@
    ]
   },
   {
-   "id": 2873,
+   "id": 2876,
    "title": "The Spyglass Tree",
    "altTitles": [],
    "authorship": "single",
@@ -199085,7 +199275,7 @@
    ]
   },
   {
-   "id": 2586,
+   "id": 2585,
    "title": "The Stepmother",
    "altTitles": [
     "Stepmother"
@@ -199187,7 +199377,7 @@
    ]
   },
   {
-   "id": 2695,
+   "id": 2694,
    "title": "The Still Centre",
    "altTitles": [
     "Still Centre"
@@ -199347,7 +199537,7 @@
    ]
   },
   {
-   "id": 2648,
+   "id": 2647,
    "title": "The Story and the Fable",
    "altTitles": [
     "Story and the Fable"
@@ -199991,7 +200181,7 @@
    ]
   },
   {
-   "id": 2668,
+   "id": 2667,
    "title": "The Sun Also Rises",
    "altTitles": [
     "Sun Also Rises"
@@ -201724,7 +201914,7 @@
    ]
   },
   {
-   "id": 2750,
+   "id": 2753,
    "title": "The Thirty-Nine Steps",
    "altTitles": [
     "Thirty-Nine Steps"
@@ -201905,7 +202095,7 @@
    ]
   },
   {
-   "id": 2752,
+   "id": 2755,
    "title": "The Three Hostages",
    "altTitles": [
     "Three Hostages"
@@ -204463,7 +204653,7 @@
    ]
   },
   {
-   "id": 2716,
+   "id": 2719,
    "title": "The Vortex",
    "altTitles": [
     "Vortex"
@@ -204625,7 +204815,7 @@
    ]
   },
   {
-   "id": 2832,
+   "id": 2835,
    "title": "The Walls of Jericho",
    "altTitles": [
     "Walls of Jericho"
@@ -204889,7 +205079,7 @@
    ]
   },
   {
-   "id": 2599,
+   "id": 2598,
    "title": "The Waste Land",
    "altTitles": [
     "Waste Land"
@@ -205221,7 +205411,7 @@
    ]
   },
   {
-   "id": 2655,
+   "id": 2654,
    "title": "The Ways of White Folks",
    "altTitles": [
     "Ways of White Folks"
@@ -205275,7 +205465,7 @@
    ]
   },
   {
-   "id": 2654,
+   "id": 2653,
    "title": "The Weary Blues",
    "altTitles": [
     "Weary Blues"
@@ -205329,7 +205519,7 @@
    ]
   },
   {
-   "id": 2805,
+   "id": 2808,
    "title": "The Weather in the Streets",
    "altTitles": [
     "Weather in the Streets"
@@ -205486,7 +205676,7 @@
    ]
   },
   {
-   "id": 2814,
+   "id": 2817,
    "title": "The Well of Loneliness",
    "altTitles": [
     "Well of Loneliness"
@@ -205855,7 +206045,7 @@
    ]
   },
   {
-   "id": 2852,
+   "id": 2855,
    "title": "The Whitsun Weddings",
    "altTitles": [],
    "authorship": "single",
@@ -206263,7 +206453,7 @@
    ]
   },
   {
-   "id": 2704,
+   "id": 2707,
    "title": "The Willows",
    "altTitles": [
     "Willows"
@@ -206583,7 +206773,7 @@
    ]
   },
   {
-   "id": 2767,
+   "id": 2770,
    "title": "The Winnowing Fan: Poems on the Great War",
    "altTitles": [
     "The Winnowing Fan",
@@ -206641,7 +206831,7 @@
    ]
   },
   {
-   "id": 2726,
+   "id": 2729,
    "title": "The Winslow Boy",
    "altTitles": [
     "Winslow Boy"
@@ -207177,7 +207367,7 @@
    ]
   },
   {
-   "id": 2709,
+   "id": 2712,
    "title": "The Workhouse Ward",
    "altTitles": [
     "Workhouse Ward"
@@ -207834,7 +208024,7 @@
    ]
   },
   {
-   "id": 2590,
+   "id": 2589,
    "title": "The Younger Generation",
    "altTitles": [
     "Younger Generation"
@@ -207886,7 +208076,7 @@
    ]
   },
   {
-   "id": 2656,
+   "id": 2655,
    "title": "Their Eyes Were Watching God",
    "altTitles": [],
    "authorship": "single",
@@ -208054,7 +208244,7 @@
    ]
   },
   {
-   "id": 2813,
+   "id": 2816,
    "title": "They Were Sisters",
    "altTitles": [],
    "authorship": "single",
@@ -208476,7 +208666,7 @@
    ]
   },
   {
-   "id": 2650,
+   "id": 2649,
    "title": "Three Lives",
    "altTitles": [],
    "authorship": "single",
@@ -208578,7 +208768,7 @@
    ]
   },
   {
-   "id": 2663,
+   "id": 2662,
    "title": "Three Soldiers",
    "altTitles": [],
    "authorship": "single",
@@ -208795,7 +208985,7 @@
    ]
   },
   {
-   "id": 2722,
+   "id": 2725,
    "title": "Time and the Conways",
    "altTitles": [],
    "authorship": "single",
@@ -209414,7 +209604,7 @@
    ]
   },
   {
-   "id": 2863,
+   "id": 2866,
    "title": "To Be Young, Gifted and Black",
    "altTitles": [],
    "authorship": "single",
@@ -209982,7 +210172,7 @@
    ]
   },
   {
-   "id": 2876,
+   "id": 2879,
    "title": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
    "altTitles": [],
    "authorship": "collaborative",
@@ -210029,7 +210219,7 @@
    ]
   },
   {
-   "id": 2870,
+   "id": 2873,
    "title": "Train Whistle Guitar",
    "altTitles": [],
    "authorship": "single",
@@ -210470,7 +210660,7 @@
    ]
   },
   {
-   "id": 2609,
+   "id": 2608,
    "title": "Trilogy",
    "altTitles": [],
    "authorship": "single",
@@ -210910,7 +211100,7 @@
    ]
   },
   {
-   "id": 2620,
+   "id": 2619,
    "title": "Tulips and Chimneys",
    "altTitles": [],
    "authorship": "single",
@@ -211275,7 +211465,7 @@
    ]
   },
   {
-   "id": 2665,
+   "id": 2664,
    "title": "U.S.A.",
    "altTitles": [],
    "authorship": "single",
@@ -211393,7 +211583,7 @@
    ]
   },
   {
-   "id": 2595,
+   "id": 2594,
    "title": "Ulysses (Joyce, 1922)",
    "altTitles": [
     "Ulysses"
@@ -211610,7 +211800,7 @@
    ]
   },
   {
-   "id": 2791,
+   "id": 2794,
    "title": "Uncle Tom's Children",
    "altTitles": [],
    "authorship": "single",
@@ -212019,7 +212209,7 @@
    ]
   },
   {
-   "id": 2632,
+   "id": 2631,
    "title": "Undertones of War",
    "altTitles": [],
    "authorship": "single",
@@ -213194,7 +213384,7 @@
    ]
   },
   {
-   "id": 2694,
+   "id": 2693,
    "title": "Vienna",
    "altTitles": [],
    "authorship": "single",
@@ -213539,7 +213729,7 @@
    ]
   },
   {
-   "id": 2639,
+   "id": 2638,
    "title": "Vision and Design",
    "altTitles": [],
    "authorship": "single",
@@ -213592,7 +213782,7 @@
    ]
   },
   {
-   "id": 2735,
+   "id": 2738,
    "title": "Visions and Beliefs in the West of Ireland",
    "altTitles": [],
    "authorship": "single",
@@ -214379,7 +214569,7 @@
    ]
   },
   {
-   "id": 2798,
+   "id": 2801,
    "title": "Voyage in the Dark",
    "altTitles": [],
    "authorship": "single",
@@ -215540,7 +215730,7 @@
    ]
   },
   {
-   "id": 2866,
+   "id": 2869,
    "title": "What Use Are Flowers?",
    "altTitles": [],
    "authorship": "single",
@@ -215943,7 +216133,7 @@
    ]
   },
   {
-   "id": 2815,
+   "id": 2818,
    "title": "Widdershins",
    "altTitles": [],
    "authorship": "single",
@@ -216346,7 +216536,7 @@
    ]
   },
   {
-   "id": 2653,
+   "id": 2652,
    "title": "Winesburg, Ohio",
    "altTitles": [],
    "authorship": "single",
@@ -216558,7 +216748,7 @@
    ]
   },
   {
-   "id": 2562,
+   "id": 2561,
    "title": "Winter in Moscow",
    "altTitles": [],
    "authorship": "single",
@@ -216568,36 +216758,35 @@
    "authorIds": [
     790
    ],
-   "compositionStart": "1933",
-   "compositionEnd": "1934",
+   "compositionStart": "",
+   "compositionEnd": "",
    "compositionCirca": false,
-   "dates": "1933 – 1934",
+   "dates": "",
    "publicationDate": "1934",
    "manuscriptDate": "",
    "language": "English",
-   "form": "Novel (the Moscow reportage)",
+   "form": "Satirical novel; comic novel",
    "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
-   "description": "The satirical novel of the fellow-travelling visitors to Stalin's Russia. It is a prose fiction work of 1934 by Malcolm Muggeridge; it is catalogued here under Comic Novel and the Satire of Manners; Documentary Prose and the Reportage Book.",
+   "description": "Muggeridge's satire of the Soviet Union and of its Western admirers, drawn from his time in Moscow as the Manchester Guardian's stand-in correspondent in 1932-33: it describes conditions in the 'socialist utopia' and satirises Western journalists' uncritical view of the Soviet regime.",
    "summary": "",
-   "plot": "Winter in Moscow follows the visitors and the guides of the Moscow winter, the hotels, the theatres and the famine, in the satirical novel that made Muggeridge the satirist of the Western fellow-travellers and brought him his reputation as a journalist.",
-   "significance": "Winter in Moscow is Muggeridge's classic satirical novel of the fellow-travelling visitors: its hotels, its theatres and its famine made him the satirist of the Western visitors to Stalin's Russia.",
+   "plot": "Drawing on what Muggeridge saw in Moscow and on his journey to the famine regions, the book describes conditions in the Soviet 'socialist utopia' and satirises the Western journalists whose reports of the regime were uncritical.",
+   "significance": "The book turned to satire the experience behind Muggeridge's famine reports, which with those of Gareth Jones helped to confirm the extent of the famine; he later called Duranty 'the greatest liar I have met in journalism'. It marks the point at which his politics began to move from an independent socialism towards the conservative religious position of his later career.",
    "meter": "Prose. Prose fiction: the continuous chaptered narrative carries description, dialogue and reflection. The author's characteristic manner is the satirical sentence of the journalist with the moralist's edge.",
-   "context": "Moscow in the winter of 1932-3, the hotels, the theatres and the famine despatches. The record dates the work as composed between 1933 and 1934 and first published in 1934 and it is catalogued under comic novel and the satire of manners; documentary prose and the reportage book.",
-   "characters": "the visitors; the guides; the hotels; the Moscow scene",
-   "structure": "A satirical reportage novel in the seasons of the Moscow winter. A continuous prose narrative in chapters, the action carried in sequence from the opening situation to the closing resolution.",
+   "context": "Muggeridge went to Moscow in 1932, initially attracted by communism, to stand in for the Manchester Guardian's correspondent William Henry Chamberlin. Travelling to Ukraine and the Caucasus without the permission of the Soviet authorities, he reported the famine in despatches sent in the diplomatic bag; those that were printed, on 25, 27 and 28 March 1933, appeared without his name, while Walter Duranty of the New York Times denied that any famine existed. After this conflict with British newspapers' policy of not provoking the Soviet authorities, Muggeridge returned to novel writing.",
+   "characters": "",
+   "structure": "A continuous prose narrative in chapters, the action carried in sequence from the opening situation to the closing resolution.",
    "attributionNotes": "Attribution is secure: the work was published under the author's name, also recorded as Thomas Malcolm Muggeridge. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
    "canonicalStatus": "Secondary canon",
    "genres": [
-    "Comic Novel and the Satire of Manners",
-    "Documentary Prose and the Reportage Book"
+    "Comic Novel and the Satire of Manners"
    ],
    "themes": [
-    "Exile, expatriation, and the lost generation",
     "Totalitarianism, propaganda, and the political novel"
    ],
    "movements": [],
    "editions": [],
    "sources": [
+    "Malcolm Muggeridge (Wikipedia)",
     "Modernism: A Guide to European Literature 1890–1930",
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
@@ -217940,7 +218129,7 @@
    ]
   },
   {
-   "id": 2850,
+   "id": 2853,
    "title": "XX Poems",
    "altTitles": [],
    "authorship": "single",
@@ -218288,7 +218477,7 @@
    ]
   },
   {
-   "id": 2753,
+   "id": 2756,
    "title": "Zuleika Dobson; or, An Oxford Love Story",
    "altTitles": [
     "Zuleika Dobson"

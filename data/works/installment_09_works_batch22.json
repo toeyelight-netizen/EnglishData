@@ -1,30 +1,5 @@
 [
  {
-  "title": "The Listeners and Other Poems",
-  "alternative_titles": [
-   "Listeners and Other Poems"
-  ],
-  "authorship_status": "single",
-  "composition_date_start": "1906",
-  "composition_date_end": "1912",
-  "publication_date": "1912",
-  "first_performance_date": null,
-  "manuscript_date": null,
-  "original_language": "English",
-  "description": "The book that made de la Mare famous: 'The Listeners', 'Silver' and the English supernatural lyric. It is a verse work of 1912 by Walter de la Mare; it belongs to Georgian Poetry and the English Lyric and it is catalogued here under Georgian Anthology Lyric.",
-  "plot_or_argument": "The title poem, 'The Listeners', is the most famous English ghost poem — the traveller who knocks at the moonlit door and is answered only by silence and the listening phantoms; the collection also contains 'Silver', 'The Song of the Mad Prince', 'Old Susan' and 'The Quince Tree'.",
-  "narrative_structure": "A collection of lyrics in varied stanza forms, led by the title poem. A collection of separate short poems in the anthology manner, ordered by subject rather than by narrative.",
-  "principal_characters": "The traveller; the listeners; the phantom listeners",
-  "literary_form": "Poetry collection; georgian anthology lyric",
-  "meter_and_prosody": "Verse. Verse in the Georgian lyric manner: the rhymed stanza of four or eight lines, the plain monosyllabic diction, the observed countryside and the elegiac undertone, without the modernist break in syntax. The work is a collection of separate pieces in the author's or editor's order. The author's characteristic manner is the lyric of the half-heard and the unseen.",
-  "historical_context": "The English countryside and the ghost-story tradition of the period; de la Mare's years as an oil-company clerk writing in the evenings. The record dates the work as composed between 1906 and 1912 and first published in 1912 and the corpus places it within Georgian Poetry and the English Lyric, it is catalogued under georgian anthology lyric.",
-  "literary_significance": "The Listeners and Other Poems made de la Mare famous and established the English supernatural lyric as a modern form: 'The Listeners' is the most famous ghost poem in the language and 'Silver' one of the best-loved short poems of the century.",
-  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Walter John de la Mare. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
-  "bibliographical_notes": "First published in 1912, as poetry collection, by Walter de la Mare. Composed between 1906 and 1912. The record grades the work as secondary canon.",
-  "canonical_status": "Secondary canon",
-  "research_status": "complete"
- },
- {
   "title": "Peacock Pie",
   "alternative_titles": [],
   "authorship_status": "single",
@@ -474,6 +449,29 @@
   "literary_significance": "Some Do Not… opens the greatest English war novel: its portrait of Christopher Tietjens as the last English gentleman, its technical brilliance and its picture of a society destroying itself made Parade's End the finest English novel of the war and the transition to modern England.",
   "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Ford Hermann Hueffer. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
   "bibliographical_notes": "Published by John Lane in London in April 1924. The record grades the work as major canon.",
+  "canonical_status": "Major canon",
+  "research_status": "complete"
+ },
+ {
+  "title": "Parade's End",
+  "alternative_titles": [],
+  "authorship_status": "single",
+  "composition_date_start": "1922",
+  "composition_date_end": "1928",
+  "publication_date": "1924",
+  "first_performance_date": null,
+  "manuscript_date": null,
+  "original_language": "English",
+  "description": "The greatest English novel of the First World War: Tietjens, the trenches and the end of the old England, in four volumes. It is a prose fiction work of 1924 by Ford Madox Ford; it belongs to The Edwardian Country House and the Condition of England and it is catalogued here under War Memoir and the Autobiographical Testimony; Novel of Consciousness and the Stream of Mind and the record grades it as major canon and its author standing in the first rank of this corpus.",
+  "plot_or_argument": "The tetralogy — Some Do Not… (1924), No More Parades (1925), A Man Could Stand Up (1926) and The Last Post (1928) — follows Christopher Tietjens through the collapse of his marriage, his service on the Western Front, his love for Valentine Wannop, and his post-war life in the Sussex countryside, and ends with the birth of his child and the death of his brother Mark.",
+  "narrative_structure": "Four volumes: two pre-war and war, two war and post-war. It was issued in volumes, the division marked by the pause in the action. A novel organised by the movement of consciousness rather than by chronology: long unbroken passages of thought, time-shifts and repetitions, with the external action reported from inside a single mind.",
+  "principal_characters": "Christopher Tietjens; Sylvia Tietjens; Valentine Wannop; Mark Tietjens; Marie Léonie; General Campion",
+  "literary_form": "Novel tetralogy (four volumes, 1924–28)",
+  "meter_and_prosody": "Prose. Prose of the interior: long unbroken periods, free indirect discourse, the time-shift and the associative leap, with the punctuation and syntax following the movement of the mind rather than the order of events. The work was issued in volumes, the division marked in the text. The author's characteristic manner is the impressionist method: the scene rendered as it strikes a mind, in broken chronology, with the narrator's hesitations left in.",
+  "historical_context": "The First World War and the Edwardian world it destroyed, from the golf links of Rye to the mud of the Somme and the peace of a Sussex farm. The record dates the work as composed between 1922 and 1928 and first published in 1924 and the corpus places it within The Edwardian Country House and the Condition of England; Trench Poetry and the Literature of the First World War, it is catalogued under war memoir and the autobiographical testimony; novel of consciousness and the stream of mind.",
+  "literary_significance": "Parade's End is the greatest English novel of the First World War and the finest study of the transition from Edwardian to modern England: its technical innovation, its portrait of Tietjens as the last gentleman and its movement from the war to the peace made it a permanent work.",
+  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Ford Hermann Hueffer. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
+  "bibliographical_notes": "The four novels were published separately: Some Do Not... (John Lane, April 1924), No More Parades (Duckworth, March 1925), A Man Could Stand Up-- (Duckworth, January 1926) and The Last Post (Duckworth, March 1928); the tetralogy was issued in one volume as Parade's End by Knopf in New York in 1950. The record grades the work as major canon.",
   "canonical_status": "Major canon",
   "research_status": "complete"
  }

@@ -10,7 +10,7 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–05, giving **851 authors / 2884 works** across ten periods (c. 450–2000).
+  waves 01–05, giving **851 authors / 2887 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
@@ -1609,8 +1609,11 @@ with broader Anglophone writing out of scope.
   Burnham pamphlet, *The English People*, *Nineteen Eighty-Four*, *Shooting an
   Elephant*, *Such, Such Were the Joys*, the *Collected Essays, Journalism and
   Letters* and *The Freedom of the Press*), linked to his installment 9 record,
-  which now carries a whole-career bibliography statement. *Animal Farm* (1945)
-  was added to installment 9, where it had been missing.
+  which now carries a whole-career bibliography statement. Five books missing
+  from installment 9 were added: *Animal Farm* (1945), *Down and Out in Paris
+  and London* (1933), *A Clergyman's Daughter* (1935), *Inside the Whale and
+  Other Essays* (1940) and *The Lion and the Unicorn* (1941). Every book Orwell
+  wrote that was published in his lifetime now has a record.
 
 None of the wave 02–04 authors was in the discovery inventory. This is evidence
 that the inventory under-represents poetry, drama and criticism; see the
@@ -1634,14 +1637,20 @@ each is listed with its source in section 13 of the audit report.
 - **Ngaio Marsh's bibliography:** six novels carried their London dates
   although they first appeared in Boston or Auckland, and the list omitted her
   last eight novels. Both are corrected from the Ngaio Marsh House bibliography.
+- **A fabricated work:** "Picture of Mortimer and Ray" (1930), attributed to
+  Malcolm Muggeridge, matches no book and was removed. His author record is
+  corrected (birthplace, place of death, books of 1931–1940), and *Winter in
+  Moscow* is rewritten from the source.
 - **Text defects:**
   - 42 installment 8 historical contexts began "The 1837, …";
   - 157 composed bibliographical notes had lowercased the names inside a work's
     form.
 
-Finding these errors incidentally means more are likely. A record-by-record
-plot check of installments 8–9, and a check of first-edition dates for books
-first published in the United States, are outstanding.
+Finding these errors incidentally means more are likely. Three checks of
+installments 8–9 are outstanding:
+- every title against an external bibliography, since one title was invented;
+- every plot against a source;
+- first-edition dates for books first published in the United States.
 
 **Stopping point.** The ordered list of outstanding tasks is in
 `research/installment_10/report_notes.md`:
@@ -1664,5 +1673,5 @@ first published in the United States, are outstanding.
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
-| 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 499 works) |
+| 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
 | 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–05: 43 works by 5 authors) |

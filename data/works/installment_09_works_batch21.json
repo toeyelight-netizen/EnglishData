@@ -1,28 +1,5 @@
 [
  {
-  "title": "Old Possum's Book of Practical Cats",
-  "alternative_titles": [],
-  "authorship_status": "single",
-  "composition_date_start": "1936",
-  "composition_date_end": "1939",
-  "publication_date": "1939",
-  "first_performance_date": null,
-  "manuscript_date": null,
-  "original_language": "English",
-  "description": "Eliot's book of cat poems: light verse of the highest order, and the source of the musical Cats. It is a verse work of 1939 by T. S. Eliot; it belongs to The Waste Land Generation and the Mythical Method and it is catalogued here under Children's Fantasy and the Golden-Age Tale; Nonsense Verse and the Parody of Rule and its author standing in the first rank of this corpus.",
-  "plot_or_argument": "Fifteen poems introduce the cats of the tribe — Growltiger, the Rum Tum Tugger, Mr Mistoffelees, Macavity, Old Deuteronomy, Gus, Skimbleshanks and the rest — in nonsense verse of great technical accomplishment.",
-  "narrative_structure": "Fifteen poems in varied stanza forms, with a mock-biological title. A collection of short comic pieces, each complete in its stanza form and each turning on the same joke of exact rule and absurd sense.",
-  "principal_characters": "Growltiger; Rum Tum Tugger; Mr Mistoffelees; Macavity; Old Deuteronomy; Gus; Skimbleshanks",
-  "literary_form": "Poetry collection (children's verse)",
-  "meter_and_prosody": "Verse. Verse of regular comic metre: the limerick, the double dactyl, the ballad stanza and the parody of a received form, with the rhyme exact and the sense deliberately absurd. The work is a collection of separate pieces in the author's or editor's order. The text is written for children, the sentence short and the vocabulary plain. The author's characteristic manner is the abrupt juxtaposition of registers and quotations.",
-  "historical_context": "The Eliot household's cats, the letters Eliot wrote to his godchildren, and the English light verse tradition of Lear and Carroll. The record dates the work as composed between 1936 and 1939 and first published in 1939 and the corpus places it within The Waste Land Generation and the Mythical Method, it is catalogued under children's fantasy and the golden-age tale; nonsense verse and the parody of rule.",
-  "literary_significance": "Old Possum's Book of Practical Cats is the finest book of children's verse of the period after the Alice books: its technical virtuosity in light verse is unmatched, and the poems became the basis of one of the longest-running musicals in history.",
-  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Thomas Stearns Eliot. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
-  "bibliographical_notes": "Published by Faber and Faber in October 1939 with the author's drawings, after the poems had appeared in The Guardian and elsewhere; the American edition was issued by Harcourt, Brace in November 1939. The record grades the work as secondary canon.",
-  "canonical_status": "Secondary canon",
-  "research_status": "complete"
- },
- {
   "title": "The Cantos",
   "alternative_titles": [
    "Cantos"
@@ -466,6 +443,31 @@
   "literary_significance": "1914 and Other Poems gave the war its rhetoric of sacrifice: 'The Soldier' — 'some corner of a foreign field / That is for ever England' — is one of the most famous English poems of the century, and the book's posthumous publication made Brooke the myth of the golden generation.",
   "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Rupert Chawner Brooke. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
   "bibliographical_notes": "Published by Sidgwick and Jackson in May 1915; the poet died at Skyros on 23 April 1915 and the collection became the best-selling volume of verse of the war years. The record grades the work as secondary canon.",
+  "canonical_status": "Secondary canon",
+  "research_status": "complete"
+ },
+ {
+  "title": "The Listeners and Other Poems",
+  "alternative_titles": [
+   "Listeners and Other Poems"
+  ],
+  "authorship_status": "single",
+  "composition_date_start": "1906",
+  "composition_date_end": "1912",
+  "publication_date": "1912",
+  "first_performance_date": null,
+  "manuscript_date": null,
+  "original_language": "English",
+  "description": "The book that made de la Mare famous: 'The Listeners', 'Silver' and the English supernatural lyric. It is a verse work of 1912 by Walter de la Mare; it belongs to Georgian Poetry and the English Lyric and it is catalogued here under Georgian Anthology Lyric.",
+  "plot_or_argument": "The title poem, 'The Listeners', is the most famous English ghost poem — the traveller who knocks at the moonlit door and is answered only by silence and the listening phantoms; the collection also contains 'Silver', 'The Song of the Mad Prince', 'Old Susan' and 'The Quince Tree'.",
+  "narrative_structure": "A collection of lyrics in varied stanza forms, led by the title poem. A collection of separate short poems in the anthology manner, ordered by subject rather than by narrative.",
+  "principal_characters": "The traveller; the listeners; the phantom listeners",
+  "literary_form": "Poetry collection; georgian anthology lyric",
+  "meter_and_prosody": "Verse. Verse in the Georgian lyric manner: the rhymed stanza of four or eight lines, the plain monosyllabic diction, the observed countryside and the elegiac undertone, without the modernist break in syntax. The work is a collection of separate pieces in the author's or editor's order. The author's characteristic manner is the lyric of the half-heard and the unseen.",
+  "historical_context": "The English countryside and the ghost-story tradition of the period; de la Mare's years as an oil-company clerk writing in the evenings. The record dates the work as composed between 1906 and 1912 and first published in 1912 and the corpus places it within Georgian Poetry and the English Lyric, it is catalogued under georgian anthology lyric.",
+  "literary_significance": "The Listeners and Other Poems made de la Mare famous and established the English supernatural lyric as a modern form: 'The Listeners' is the most famous ghost poem in the language and 'Silver' one of the best-loved short poems of the century.",
+  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Walter John de la Mare. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
+  "bibliographical_notes": "First published in 1912, as poetry collection, by Walter de la Mare. Composed between 1906 and 1912. The record grades the work as secondary canon.",
   "canonical_status": "Secondary canon",
   "research_status": "complete"
  }

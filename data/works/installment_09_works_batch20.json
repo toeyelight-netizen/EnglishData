@@ -1,28 +1,5 @@
 [
  {
-  "title": "Jane Clegg",
-  "alternative_titles": [],
-  "authorship_status": "single",
-  "composition_date_start": "1912",
-  "composition_date_end": "1913",
-  "publication_date": "1913",
-  "first_performance_date": "1913",
-  "manuscript_date": null,
-  "original_language": "English",
-  "description": "The play of the deserted wife and the suffrage generation. It is a dramatic work of 1913 by St John Ervine; it belongs to Suffrage Drama and the Woman's Theatre and it is catalogued here under Suffrage Play and the Woman's Drama; Problem Play and Well-Made Drama.",
-  "plot_or_argument": "Jane Clegg, a wife deserted by her husband, tries to support herself and her children in Belfast while he drifts through England; the play that made Ervine the Ulster dramatist of the new drama and put the woman's question on the stage.",
-  "narrative_structure": "Three acts, in a Belfast household and its aftermath. The action is divided into three acts, each closing on a discovery or a reversal. A play in acts on the well-made pattern: exposition, complication, the crisis of the argument, and the discovery that resolves it.",
-  "principal_characters": "Jane Clegg; her husband; her children; the neighbours",
-  "literary_form": "Play (three acts); suffrage play",
-  "meter_and_prosody": "Dramatic text. Dramatic prose: the dialogue carries everything, the acts are built on the well-made pattern of exposition, complication, crisis and discovery, and the argument is stated in set speeches and answered in the counter-speeches. The text is divided into acts, with the scene changes marked. The author's characteristic manner is the plain Ulster dialogue of the farmhouse and the chapel.",
-  "historical_context": "Belfast and England in the early 1910s, the suffrage generation and the new drama. The record dates the work as composed between 1912 and 1913 and first published in 1913 and first performed in 1913 and the corpus places it within Suffrage Drama and the Woman's Theatre, it is catalogued under suffrage play and the woman's drama; problem play and well-made drama.",
-  "literary_significance": "Jane Clegg is Ervine's play of the deserted wife: its Belfast household and its woman's work made him the Ulster dramatist of the new drama and a figure of the suffrage stage.",
-  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as St. John Ervine. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
-  "bibliographical_notes": "First published in 1913, as play (three acts), by St John Ervine. Composed between 1912 and 1913. First performed in 1913. The record grades the work as secondary canon.",
-  "canonical_status": "Secondary canon",
-  "research_status": "complete"
- },
- {
   "title": "John Ferguson",
   "alternative_titles": [],
   "authorship_status": "single",
@@ -475,6 +452,29 @@
   "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Thomas Stearns Eliot. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
   "bibliographical_notes": "Published by Faber and Faber in May 1935, having been written for the Canterbury Festival and first performed in the Chapter House at Canterbury on 15 June 1935; the American edition of 1935 carries the title Murder in the Cathedral: A Play with Chorus. The record grades the work as major canon.",
   "canonical_status": "Major canon",
+  "research_status": "complete"
+ },
+ {
+  "title": "Old Possum's Book of Practical Cats",
+  "alternative_titles": [],
+  "authorship_status": "single",
+  "composition_date_start": "1936",
+  "composition_date_end": "1939",
+  "publication_date": "1939",
+  "first_performance_date": null,
+  "manuscript_date": null,
+  "original_language": "English",
+  "description": "Eliot's book of cat poems: light verse of the highest order, and the source of the musical Cats. It is a verse work of 1939 by T. S. Eliot; it belongs to The Waste Land Generation and the Mythical Method and it is catalogued here under Children's Fantasy and the Golden-Age Tale; Nonsense Verse and the Parody of Rule and its author standing in the first rank of this corpus.",
+  "plot_or_argument": "Fifteen poems introduce the cats of the tribe — Growltiger, the Rum Tum Tugger, Mr Mistoffelees, Macavity, Old Deuteronomy, Gus, Skimbleshanks and the rest — in nonsense verse of great technical accomplishment.",
+  "narrative_structure": "Fifteen poems in varied stanza forms, with a mock-biological title. A collection of short comic pieces, each complete in its stanza form and each turning on the same joke of exact rule and absurd sense.",
+  "principal_characters": "Growltiger; Rum Tum Tugger; Mr Mistoffelees; Macavity; Old Deuteronomy; Gus; Skimbleshanks",
+  "literary_form": "Poetry collection (children's verse)",
+  "meter_and_prosody": "Verse. Verse of regular comic metre: the limerick, the double dactyl, the ballad stanza and the parody of a received form, with the rhyme exact and the sense deliberately absurd. The work is a collection of separate pieces in the author's or editor's order. The text is written for children, the sentence short and the vocabulary plain. The author's characteristic manner is the abrupt juxtaposition of registers and quotations.",
+  "historical_context": "The Eliot household's cats, the letters Eliot wrote to his godchildren, and the English light verse tradition of Lear and Carroll. The record dates the work as composed between 1936 and 1939 and first published in 1939 and the corpus places it within The Waste Land Generation and the Mythical Method, it is catalogued under children's fantasy and the golden-age tale; nonsense verse and the parody of rule.",
+  "literary_significance": "Old Possum's Book of Practical Cats is the finest book of children's verse of the period after the Alice books: its technical virtuosity in light verse is unmatched, and the poems became the basis of one of the longest-running musicals in history.",
+  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Thomas Stearns Eliot. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as secondary canon.",
+  "bibliographical_notes": "Published by Faber and Faber in October 1939 with the author's drawings, after the poems had appeared in The Guardian and elsewhere; the American edition was issued by Harcourt, Brace in November 1939. The record grades the work as secondary canon.",
+  "canonical_status": "Secondary canon",
   "research_status": "complete"
  }
 ]
