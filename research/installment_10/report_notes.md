@@ -421,6 +421,32 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
     earlier appearance in *The Times* was not dated, and the first broadcast date of
     "Jamaica Language" within the programme's 1965-1982 run was not established.
 
+17. **Wave 33, and the last unverified dates.** Brathwaite's "[On Sycorax Video
+    Style]" was recorded, together with two songs of Bob Dylan, three poems and a
+    sequence of Simon J. Ortiz, and three poems of Louise Glueck. The wave settled
+    the last two provisional dates in the American list: "Earth and Rain, the Plants
+    & Sun" from *Going for the Rain* (1976) and "Passing through Little Rock" from
+    *A Good Journey* (1977). Both were fixed from the contents of *Woven Stone*
+    (1992), which reprints the three collections complete; no selection in either
+    anthology now rests on an unverified date.
+
+    *What remains uncertain, record by record:* the Brathwaite extract's exact pages
+    in *conVERSations with Nathaniel Mackey* (1999) and the anthology's precise
+    wording were not verified, so the record dates it to 1999 as the nearest
+    documented first publication and says so. Glueck's "Vespers" is the fourth of ten
+    poems so named in *The Wild Iris*, and the record identifies its one by first
+    line because the anthology's page reference was not established. *From Sand Creek*
+    was not read in full; its record rests on published accounts of the three-part
+    structure and the refrains. Dylan's lyrics were not transcribed from a first
+    pressing, and the woman addressed in "Like a Rolling Stone" is left unidentified.
+    Of the nine works, none is marked *verified*: the tenth, Glueck's author record,
+    is, on the strength of her collection list checked against the Nobel citation.
+
+    *A correction carried into the report:* the Norton's own annotation of Ortiz's
+    "Passing through Little Rock" identifies the Quapaw and Waccamaw as tribes of
+    Arizona; both are peoples of Arkansas, as Camille Paglia pointed out in 2001. The
+    error is the anthology's, and the record says so rather than repeating it.
+
 ## Stopping point and outstanding tasks (2026-11-06)
 
 **Done:**

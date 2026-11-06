@@ -7,12 +7,12 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 32):** installments 1–9 are
-complete; installment 10 (1946–2000) is in progress at **256 works by 91
-authors**, with **211 works recorded against 265 in-scope Norton selections**
-(English 94 of 96, American 117 of 169), leaving **52 selections, none of them
-undated**. The database holds **933
-authors, 3,100 works, 723 sources, 2,432 editions**. `python3
+**State at this handover (2026-11-06, wave 33):** installments 1–9 are
+complete; installment 10 (1946–2000) is in progress at **265 works by 94
+authors**, with **220 works recorded against 265 in-scope Norton selections**
+(English 95 of 96, American 125 of 169), leaving **43 selections, none of them
+undated**. The database holds **936
+authors, 3,109 works, 736 sources, 2,432 editions**. `python3
 scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
 so they cannot drift from it.
 
@@ -31,7 +31,7 @@ alembic upgrade head
 python scripts/import_data.py
 ```
 
-This reproduces 933 / 3,100 / 723 / 2,432 exactly from a clean clone.
+This reproduces 936 / 3,109 / 736 / 2,432 exactly from a clean clone.
 
 ## 2. First run
 
@@ -160,23 +160,26 @@ Next in Norton's order (American anthology), from
 | Simon J. Ortiz | 3 | |
 | Louise Glück | 3 | |
 
-52 selections remain across 22 authors, of whom 11 have a single selection - 51 of them American and one English. Wave
-31 settled every remaining undated row - ten left the period, seven came into it -
-and **wave 32 built all seven**, so no selection is undated and none is missed.
-Wave 32 added Simon Armitage and Juan Felipe Herrera as new authors and gave
-Smith "Pretty", Bennett three poems and Herrera two. Bennett's "Jamaica Language"
-was **re-dated again** during that wave: it is a radio monologue first printed in
-*Aunty Roachy Seh* (1993), not in *Jamaica Labrish* (1966), so its date in the
-Norton list and its record both use 1993. The English anthology has **one row left of 96** -
-Brathwaite's "[On Sycorax Video Style]", dated 1999 and in scope but not yet
-recorded; the American has 51.
+43 selections remain across 18 authors, of whom 10 have a single selection - 42
+American and one English. Wave 33 recorded Brathwaite's "[On Sycorax Video Style]"
+(the English anthology's last outstanding row, dated 1999) and added Bob Dylan,
+Simon J. Ortiz and Louise Glueck with eight works between them. It also settled the
+last two provisional dates: Ortiz's "Passing through Little Rock" (A Good Journey,
+1977) and "Earth and Rain, the Plants & Sun" (Going for the Rain, 1976), both fixed
+from the contents of Woven Stone (1992). **No selection in either list now carries
+an unverified date.**
 
-**Batch the small authors.** Waves 21–28 averaged about nine minutes of wall
-clock each, and almost all of it was research and prose, not machinery. The
-fastest structure is 6–8 single-selection authors per wave, researched with two
-parallel searches per author (one for the first printing, one for biography),
-which is what wave 28 did in a single pass. The slow waves (25, 26) were the
-ones that mixed a large author's block with new taxonomy.
+The largest remaining block is Rita Dove's ten, then Li-Young Lee's five and four
+each for Joy Harjo, Yusef Komunyakaa and Sherman Alexie.
+
+**Batch the small authors.** Waves 21-28 averaged about nine minutes of wall clock
+each, and almost all of it was research and prose, not machinery. The fastest
+structure is 6-8 single-selection authors per wave, researched with two parallel
+searches per author (one for the first printing, one for biography), which is what
+wave 28 did in a single pass. The slow waves (25, 26) were the ones that mixed a
+large author's block with new taxonomy; wave 33 took one long file split into nine
+appended parts to get round the shell's 64 KB command limit, which is a mechanical
+constraint worth remembering rather than a research one.
 
 ## 8. Source policy
 

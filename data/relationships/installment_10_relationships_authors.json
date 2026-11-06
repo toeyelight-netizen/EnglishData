@@ -113,6 +113,15 @@
    ]
   },
   {
+   "author": "Bob Dylan",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "Carol Ann Duffy",
    "genres": [
     "Dramatic Monologue",
@@ -404,11 +413,14 @@
   {
    "author": "Kamau Brathwaite",
    "genres": [
+    "Cultural Criticism",
     "Experimental Poetry",
     "Literary Essay",
+    "Literary Manifesto",
     "Lyric Poetry",
     "Political Poetry",
     "Postcolonial Criticism",
+    "Prose Poetry",
     "Visual Poetry"
    ]
   },
@@ -482,6 +494,14 @@
     "Performance Poetry",
     "Political Poetry",
     "Social Poetry"
+   ]
+  },
+  {
+   "author": "Louise Glück",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Religious Poetry"
    ]
   },
   {
@@ -732,6 +752,18 @@
    ]
   },
   {
+   "author": "Simon J. Ortiz",
+   "genres": [
+    "Elegiac Poetry",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Nature Poetry",
+    "Political Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "genres": [
     "Elegiac Poetry",
@@ -958,6 +990,12 @@
    "movements": [
     "African Literature in English",
     "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "author": "Bob Dylan",
+   "movements": [
+    "The Beat Generation"
    ]
   },
   {
@@ -1220,6 +1258,12 @@
    ]
   },
   {
+   "author": "Louise Glück",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
    "author": "Lucille Clifton",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics",
@@ -1369,6 +1413,12 @@
    "author": "Simon Armitage",
    "movements": [
     "The British Poetry Revival"
+   ]
+  },
+  {
+   "author": "Simon J. Ortiz",
+   "movements": [
+    "Native American Renaissance"
    ]
   },
   {
@@ -1590,6 +1640,16 @@
     "Faith, doubt and the sacred",
     "Family, marriage and domestic life",
     "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Bob Dylan",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self",
+    "Technology, media and consumer society",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -1915,6 +1975,7 @@
   {
    "author": "Kamau Brathwaite",
    "themes": [
+    "Art, the artist and the creative life",
     "Class, labour and social mobility",
     "Decolonisation, the end of empire and the new nation",
     "History, truth and the uses of the past",
@@ -2002,6 +2063,17 @@
     "Migration, exile and diaspora",
     "Nationhood and national identity",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Louise Glück",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
    ]
   },
   {
@@ -2271,6 +2343,19 @@
     "Childhood, adolescence and coming of age",
     "Land, place and regional belonging",
     "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Simon J. Ortiz",
+   "themes": [
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -3286,6 +3371,36 @@
     "Half of the World in Light: New and Selected Poems",
     "Juan Felipe Herrera",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Bob Dylan",
+   "sources": [
+    "Bob Dylan (Wikipedia)",
+    "Bringing It All Back Home",
+    "Dylan Thomas (Wikipedia)",
+    "Like a Rolling Stone (single)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Simon J. Ortiz",
+   "sources": [
+    "A Good Journey",
+    "Going for the Rain",
+    "Simon J. Ortiz (Wikipedia) and the Poetry Foundation author page",
+    "Simon J. Ortiz, Native American Poet and Storyteller (nativeamericanlit.com survey)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woven Stone"
+   ]
+  },
+  {
+   "author": "Louise Glück",
+   "sources": [
+    "Descending Figure",
+    "Louise Glück (Wikipedia) and the Nobel Prize citation",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Wild Iris"
    ]
   }
  ]

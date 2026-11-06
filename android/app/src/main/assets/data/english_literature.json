@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 933,
-  "works": 3100
+  "authors": 936,
+  "works": 3109
  },
  "periods": [
   {
@@ -844,6 +844,7 @@
   "A Common Heritage: Noah Webster's Blue-Back Speller",
   "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
   "A Dark Green Counterculture in Ted Hughes's Crow (independent thesis, DiVA)",
+  "A Good Journey",
   "A Good Man Is Hard to Find (Wikipedia)",
   "A Guide to Old English, 8th edition",
   "A Letter to My Nephew (The Progressive, via course reading)",
@@ -913,11 +914,14 @@
   "Blackberrying, The New Yorker, 15 September 1962 (newyorker.com archive)",
   "Blackwood's Edinburgh Magazine",
   "Bloodchild and Other Stories, first edition (Seven Stories Press, 1995)",
+  "Bob Dylan (Wikipedia)",
   "BpNichol (Wikipedia)",
+  "Bringing It All Back Home",
   "British Library Digitised Manuscripts",
   "Broken Hierarchies: Poems 1952-2012",
   "Brooks, Gwendolyn (SAGE Encyclopedia of Motherhood)",
   "Byron's Letters and Journals (12 volumes with index and supplement)",
+  "CONVERSATIONS WITH NATHANIEL MACKEY (Rain Taxi review)",
   "Carol Ann Duffy (Wikipedia)",
   "Carol Ann Duffy, Medusa and Mrs Lazarus (Genius annotations)",
   "Caryl Churchill (Wikipedia)",
@@ -944,6 +948,7 @@
   "Denis Donoghue, House of the spirits (review of February House, The Boston Globe)",
   "Derek Walcott (Wikipedia)",
   "Derek Walcott, Selected Poems (Barnes and Noble contents listing)",
+  "Descending Figure",
   "Dictionary of Irish Biography: From the Earliest Times to the Year 2002 (9 volumes)",
   "Dictionary of Old English: A to I online",
   "Discipline: A Novel (Chawton House Library: Women's Novels)",
@@ -982,6 +987,7 @@
   "Felicia Hemans: Selected Poems, Letters, Reception Materials",
   "Felicia Hemans: Selected Poems, Prose and Letters",
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
+  "Fight Back: For the Sake of the People, for the Sake of the Land",
   "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
   "Flannery O'Connor (Wikipedia)",
   "For Esmé—with Love and Squalor (Wikipedia)",
@@ -998,6 +1004,7 @@
   "George Orwell bibliography (Wikipedia)",
   "George Orwell published: list of works (orwell.ru)",
   "Giles Foden, For me, Meeting the British blew away the very idea of certainty (The Guardian)",
+  "Going for the Rain",
   "Going to Meet the Man (Wikipedia)",
   "Going to Meet the Man, short story (Wikipedia)",
   "Good Country People (Wikipedia)",
@@ -1088,6 +1095,7 @@
   "Leviathan: The English and Latin Texts",
   "Licks of Love: Short Stories and a Sequel, contents (library catalogue record)",
   "Life Studies (Wikipedia)",
+  "Like a Rolling Stone (single)",
   "Linton Kwesi Johnson (Wikipedia)",
   "List of Sahitya Akademi Award winners for English (Wikipedia)",
   "List of poems by Philip Larkin (Wikipedia)",
@@ -1103,6 +1111,7 @@
   "Lost in the Funhouse (Wikipedia)",
   "Louise Bennett and the Mento Tradition (Eric Doumerc, via CORE)",
   "Louise Bennett-Coverley (Wikipedia)",
+  "Louise Glück (Wikipedia) and the Nobel Prize citation",
   "Lucille Clifton (Wikipedia)",
   "Lucille Clifton, EBSCO Research Starters and Poetry Foundation author page",
   "Lunch Poems (Wikipedia)",
@@ -1237,6 +1246,8 @@
   "Shooting an elephant, and other essays (WorldCat record, OCLC 2552523)",
   "Signs and Symbols (Wikipedia)",
   "Simon Armitage",
+  "Simon J. Ortiz (Wikipedia) and the Poetry Foundation author page",
+  "Simon J. Ortiz, Native American Poet and Storyteller (nativeamericanlit.com survey)",
   "Sir Thomas Wyatt: The Complete Poems",
   "Sister Outsider (The Crossing Press, 1984), contents and publication records",
   "Sister Outsider (Wikipedia)",
@@ -1485,6 +1496,7 @@
   "The White Album (Wikipedia)",
   "The Whitsun Weddings (Wikipedia)",
   "The Whole Disgraceful Truth: Selected Letters of Lady Caroline Lamb",
+  "The Wild Iris",
   "The William Blake Archive",
   "The Woman Warrior (Alfred A. Knopf, 1976), copyright page and publication records",
   "The Works of Aphra Behn",
@@ -1548,6 +1560,7 @@
   "Without Title",
   "Wole Soyinka (Wikipedia)",
   "Woman in the Nineteenth Century: A Norton Critical Edition",
+  "Woven Stone",
   "Zofloya: or, The Moor (Oxford World's Classics)"
  ],
  "authors": [
@@ -1731,11 +1744,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3010,
+     "id": 3019,
      "title": "Elements of Composition"
     },
     {
-     "id": 3009,
+     "id": 3018,
      "title": "Self-Portrait"
     }
    ],
@@ -3239,7 +3252,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3030,
+     "id": 3039,
      "title": "Walker Brothers Cowboy"
     }
    ],
@@ -4276,7 +4289,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3052,
+     "id": 3061,
      "title": "The Glass Essay"
     }
    ],
@@ -5403,7 +5416,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3080,
+     "id": 3089,
      "title": "Death of a Salesman"
     }
    ],
@@ -5707,7 +5720,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3045,
+     "id": 3054,
      "title": "The God of Small Things"
     }
    ],
@@ -5795,11 +5808,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3100,
+     "id": 3109,
      "title": "Black Mother Woman"
     },
     {
-     "id": 3098,
+     "id": 3107,
      "title": "Coal"
     },
     {
@@ -5811,7 +5824,7 @@
      "title": "The Master's Tools Will Never Dismantle the Master's House"
     },
     {
-     "id": 3099,
+     "id": 3108,
      "title": "The Woman Thing"
     },
     {
@@ -6254,7 +6267,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3044,
+     "id": 3053,
      "title": "What the Tapster Saw"
     }
    ],
@@ -6466,7 +6479,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3043,
+     "id": 3052,
      "title": "Looking for a Rain God"
     }
    ],
@@ -6518,6 +6531,56 @@
     "Oxford Dictionary of National Biography",
     "The Cambridge Companion to Medieval English Literature 1100–1500",
     "The Cambridge History of Medieval English Literature"
+   ]
+  },
+  {
+   "id": 934,
+   "name": "Bob Dylan",
+   "altNames": [],
+   "dates": "1941",
+   "birthplace": "Duluth, Minnesota, United States",
+   "nationality": "American; singer-songwriter and poet writing in English",
+   "identity": "American songwriter who carried the literary ambitions of the folk revival into rock and made the song lyric a subject of academic study; Nobel Laureate in Literature 2016",
+   "biography": "Bob Dylan was born Robert Allen Zimmerman in Duluth, Minnesota, on 24 May 1941 and grew up in Hibbing, on the Mesabi Iron Range; he took the name Dylan in 1962, the year his first album appeared. He moved to New York in January 1961, played the folk clubs of Greenwich Village, and released The Freewheelin' Bob Dylan (1963), which made him the leading songwriter of the American folk revival with 'Blowin' in the Wind' and 'A Hard Rain's a-Gonna Fall'. Another Side of Bob Dylan (1964) began the turn away from protest, and Bringing It All Back Home (March 1965) split its sides between acoustic and electric music; the single 'Like a Rolling Stone' (July 1965) and the album Highway 61 Revisited followed, and the electric set at the Newport Folk Festival in July 1965 became the symbolic break between folk and rock. Blonde on Blonde (1966), John Wesley Harding (1967), Nashville Skyline (1969), Blood on the Tracks (1975), Desire (1976), Infidels (1983), Oh Mercy (1989), Time Out of Mind (1997), 'Love and Theft' (2001), Modern Times (2006), Tempest (2012) and Rough and Rowdy Ways (2020) followed across six decades. His prose includes Tarantula (1971) and the memoir Chronicles: Volume One (2004). He was awarded the Nobel Prize in Literature in 2016 'for having created new poetic expressions within the great American song tradition', the first such prize for a songwriter, and delivered his Nobel lecture in 2017.",
+   "profile": "Studio albums: Bob Dylan (1962), The Freewheelin' Bob Dylan (1963), The Times They Are a-Changin' (1964), Another Side of Bob Dylan (1964), Bringing It All Back Home (1965), Highway 61 Revisited (1965), Blonde on Blonde (1966), John Wesley Harding (1967), Nashville Skyline (1969), Self Portrait (1970), New Morning (1970), Pat Garrett and Billy the Kid (1973), Dylan (1973), Planet Waves (1974), Blood on the Tracks (1975), The Basement Tapes (1975), Desire (1976), Street-Legal (1978), Slow Train Coming (1979), Saved (1980), Shot of Love (1981), Infidels (1983), Empire Burlesque (1985), Knocked Out Loaded (1986), Down in the Groove (1988), Oh Mercy (1989), Under the Red Sky (1990), Good as I Been to You (1992), World Gone Wrong (1993), Time Out of Mind (1997), 'Love and Theft' (2001), Modern Times (2006), Together Through Life (2009), Christmas in the Heart (2009), Tempest (2012), Shadows in the Night (2015), Fallen Angels (2016), Triplicate (2017), Rough and Rowdy Ways (2020) and Shadow Kingdom (2023). Books: Tarantula (1971), Writings and Drawings (1973), Lyrics 1962-1985 (1985), Chronicles: Volume One (2004), The Philosophy of Modern Song (2022).",
+   "style": "Long, accumulating stanzas built from short end-stopped phrases; surreal and collaged imagery drawn from the newspaper, the Bible, the blues and the folk song; a voice pitched between the preacher and the street hustler; refrain and repetition used as musical rather than logical structure; and a habit of addressing a 'you' whose identity shifts within the song.",
+   "concerns": "The individual against a society that has made a fool of him; the mutability of fortune; love and its betrayals; the American past and its myths, from the Civil War to the Depression; the prophetic and the biblical; and, after 1979, an explicit religious vocabulary that has divided his critics ever since.",
+   "significance": "Dylan's Nobel Prize in 2016 settled, at least officially, a question the academy had argued for fifty years: whether the song lyric belongs to literature. The award cited 'new poetic expressions within the great American song tradition', and the two songs the Norton Anthology of American Literature prints - 'Like a Rolling Stone' and 'It's Alright, Ma (I'm Only Bleeding)' - are the pair on which that claim most often rests, both from 1965, the year he moved from acoustic protest to electric poetry.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry",
+    "Political Poetry"
+   ],
+   "movements": [
+    "The Beat Generation"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self",
+    "Technology, media and consumer society",
+    "Violence, crime and justice"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2942,
+     "title": "It's Alright, Ma (I'm Only Bleeding)"
+    },
+    {
+     "id": 2943,
+     "title": "Like a Rolling Stone"
+    }
+   ],
+   "sources": [
+    "Bob Dylan (Wikipedia)",
+    "Bringing It All Back Home",
+    "Dylan Thomas (Wikipedia)",
+    "Like a Rolling Stone (single)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -6664,7 +6727,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3057,
+     "id": 3066,
      "title": "First Screening"
     }
    ],
@@ -7136,19 +7199,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3061,
+     "id": 3070,
      "title": "Medusa"
     },
     {
-     "id": 3062,
+     "id": 3071,
      "title": "Mrs Lazarus"
     },
     {
-     "id": 3060,
+     "id": 3069,
      "title": "Valentine"
     },
     {
-     "id": 3059,
+     "id": 3068,
      "title": "Warming Her Pearls"
     }
    ],
@@ -7308,7 +7371,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3033,
+     "id": 3042,
      "title": "Top Girls"
     }
    ],
@@ -8962,7 +9025,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3026,
+     "id": 3035,
      "title": "Civil Peace"
     }
    ],
@@ -10676,19 +10739,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3016,
+     "id": 3025,
      "title": "A Far Cry from Africa"
     },
     {
-     "id": 3019,
+     "id": 3028,
      "title": "Omeros"
     },
     {
-     "id": 3017,
+     "id": 3026,
      "title": "The Schooner Flight"
     },
     {
-     "id": 3018,
+     "id": 3027,
      "title": "The Season of Phantasmal Peace"
     }
    ],
@@ -11012,7 +11075,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3008,
+     "id": 3017,
      "title": "To Room Nineteen"
     }
    ],
@@ -11424,7 +11487,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2995,
+     "id": 3004,
      "title": "Do Not Go Gentle into That Good Night"
     }
    ],
@@ -11825,15 +11888,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3049,
+     "id": 3058,
      "title": "Fond Memory"
     },
     {
-     "id": 3050,
+     "id": 3059,
      "title": "The Dolls Museum in Dublin"
     },
     {
-     "id": 3051,
+     "id": 3060,
      "title": "The Lost Land"
     }
    ],
@@ -13722,23 +13785,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3070,
+     "id": 3079,
      "title": "At the Fishhouses"
     },
     {
-     "id": 3073,
+     "id": 3082,
      "title": "In the Waiting Room"
     },
     {
-     "id": 3074,
+     "id": 3083,
      "title": "One Art"
     },
     {
-     "id": 3071,
+     "id": 3080,
      "title": "Questions of Travel"
     },
     {
-     "id": 3072,
+     "id": 3081,
      "title": "The Armadillo"
     }
    ],
@@ -16863,27 +16926,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3094,
+     "id": 3103,
      "title": "A Step Away from Them"
     },
     {
-     "id": 3096,
+     "id": 3105,
      "title": "Having a Coke with You"
     },
     {
-     "id": 3097,
+     "id": 3106,
      "title": "In Memory of My Feelings"
     },
     {
-     "id": 3092,
+     "id": 3101,
      "title": "Personism: A Manifesto"
     },
     {
-     "id": 3095,
+     "id": 3104,
      "title": "The Day Lady Died"
     },
     {
-     "id": 3093,
+     "id": 3102,
      "title": "Why I Am Not a Painter"
     }
    ],
@@ -17403,15 +17466,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3027,
+     "id": 3036,
      "title": "In Memory of Jane Fraser"
     },
     {
-     "id": 3028,
+     "id": 3037,
      "title": "Requiem for the Plantagenet Kings"
     },
     {
-     "id": 3029,
+     "id": 3038,
      "title": "September Song"
     }
    ],
@@ -18843,7 +18906,7 @@
      "title": "Coming Up for Air"
     },
     {
-     "id": 2947,
+     "id": 2956,
      "title": "Critical Essays"
     },
     {
@@ -18859,7 +18922,7 @@
      "title": "Inside the Whale and Other Essays"
     },
     {
-     "id": 2948,
+     "id": 2957,
      "title": "James Burnham and the Managerial Revolution"
     },
     {
@@ -18867,31 +18930,31 @@
      "title": "Keep the Aspidistra Flying"
     },
     {
-     "id": 2950,
+     "id": 2959,
      "title": "Nineteen Eighty-Four"
     },
     {
-     "id": 2978,
+     "id": 2987,
      "title": "Politics and the English Language"
     },
     {
-     "id": 2951,
+     "id": 2960,
      "title": "Shooting an Elephant and Other Essays"
     },
     {
-     "id": 2952,
+     "id": 2961,
      "title": "Such, Such Were the Joys"
     },
     {
-     "id": 2953,
+     "id": 2962,
      "title": "The Collected Essays, Journalism and Letters of George Orwell"
     },
     {
-     "id": 2949,
+     "id": 2958,
      "title": "The English People"
     },
     {
-     "id": 2954,
+     "id": 2963,
      "title": "The Freedom of the Press"
     },
     {
@@ -19836,15 +19899,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3004,
+     "id": 3013,
      "title": "Epilogue"
     },
     {
-     "id": 3005,
+     "id": 3014,
      "title": "The Fat Black Woman Goes Shopping"
     },
     {
-     "id": 3006,
+     "id": 3015,
      "title": "Wherever I Hang"
     }
    ],
@@ -19889,11 +19952,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3090,
+     "id": 3099,
      "title": "A Conversation with My Father"
     },
     {
-     "id": 3091,
+     "id": 3100,
      "title": "Zagrowsky Tells"
     }
    ],
@@ -20085,7 +20148,7 @@
    ],
    "works": [
     {
-     "id": 2988,
+     "id": 2997,
      "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon"
     },
     {
@@ -20093,27 +20156,27 @@
      "title": "A Street in Bronzeville"
     },
     {
-     "id": 2987,
+     "id": 2996,
      "title": "The Bean Eaters"
     },
     {
-     "id": 2990,
+     "id": 2999,
      "title": "The Blackstone Rangers"
     },
     {
-     "id": 2985,
+     "id": 2994,
      "title": "The Children of the Poor"
     },
     {
-     "id": 2989,
+     "id": 2998,
      "title": "The Last Quatrain of the Ballad of Emmett Till"
     },
     {
-     "id": 2991,
+     "id": 3000,
      "title": "To the Diaspora"
     },
     {
-     "id": 2986,
+     "id": 2995,
      "title": "We Real Cool"
     }
    ],
@@ -20561,7 +20624,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3058,
+     "id": 3067,
      "title": "My Son the Fanatic"
     }
    ],
@@ -24014,7 +24077,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3086,
+     "id": 3095,
      "title": "For Esmé—with Love and Squalor"
     }
    ],
@@ -24056,7 +24119,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3042,
+     "id": 3051,
      "title": "The Drowned World"
     }
    ],
@@ -24169,7 +24232,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3048,
+     "id": 3057,
      "title": "Waiting for the Barbarians"
     }
    ],
@@ -24402,7 +24465,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3087,
+     "id": 3096,
      "title": "On the Road"
     }
    ],
@@ -26195,7 +26258,7 @@
      "title": "Good Morning, Midnight"
     },
     {
-     "id": 2981,
+     "id": 2990,
      "title": "On Not Shooting Sitting Birds"
     },
     {
@@ -26203,7 +26266,7 @@
      "title": "Quartet"
     },
     {
-     "id": 2980,
+     "id": 2989,
      "title": "The Day They Burned the Books"
     },
     {
@@ -27533,7 +27596,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3076,
+     "id": 3085,
      "title": "The Swimmer"
     }
    ],
@@ -32315,11 +32378,14 @@
    "tier": "Major / canonical",
    "uncertainty": "",
    "genres": [
+    "Cultural Criticism",
     "Experimental Poetry",
     "Literary Essay",
+    "Literary Manifesto",
     "Lyric Poetry",
     "Political Poetry",
     "Postcolonial Criticism",
+    "Prose Poetry",
     "Visual Poetry"
    ],
    "movements": [
@@ -32328,6 +32394,7 @@
     "Postcolonial Theory"
    ],
    "themes": [
+    "Art, the artist and the creative life",
     "Class, labour and social mobility",
     "Decolonisation, the end of empire and the new nation",
     "History, truth and the uses of the past",
@@ -32339,15 +32406,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2998,
+     "id": 2941,
+     "title": "[On Sycorax Video Style]"
+    },
+    {
+     "id": 3007,
      "title": "Calypso"
     },
     {
-     "id": 2997,
+     "id": 3006,
      "title": "History of the Voice"
     },
     {
-     "id": 2999,
+     "id": 3008,
      "title": "Letter SycoraX"
     }
    ],
@@ -32755,7 +32826,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3063,
+     "id": 3072,
      "title": "Hullabaloo in the Guava Orchard"
     }
    ],
@@ -32804,11 +32875,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3088,
+     "id": 3097,
      "title": "Harrison Bergeron"
     },
     {
-     "id": 3089,
+     "id": 3098,
      "title": "Slaughterhouse-Five"
     }
    ],
@@ -33470,11 +33541,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3041,
+     "id": 3050,
      "title": "Corniche"
     },
     {
-     "id": 3040,
+     "id": 3049,
      "title": "Morse"
     }
    ],
@@ -33826,7 +33897,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3007,
+     "id": 3016,
      "title": "Inglan Is a Bitch"
     }
    ],
@@ -33970,27 +34041,27 @@
      "title": "A Raisin in the Sun"
     },
     {
-     "id": 2944,
+     "id": 2953,
      "title": "Les Blancs"
     },
     {
-     "id": 2945,
+     "id": 2954,
      "title": "The Drinking Gourd"
     },
     {
-     "id": 2942,
+     "id": 2951,
      "title": "The Movement: Documentary of a Struggle for Equality"
     },
     {
-     "id": 2941,
+     "id": 2950,
      "title": "The Sign in Sidney Brustein's Window"
     },
     {
-     "id": 2943,
+     "id": 2952,
      "title": "To Be Young, Gifted and Black"
     },
     {
-     "id": 2946,
+     "id": 2955,
      "title": "What Use Are Flowers?"
     }
    ],
@@ -34185,7 +34256,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2996,
+     "id": 3005,
      "title": "Colonization in Reverse"
     },
     {
@@ -34204,6 +34275,59 @@
    "sources": [
     "Louise Bennett and the Mento Tradition (Eric Doumerc, via CORE)",
     "Louise Bennett-Coverley (Wikipedia)"
+   ]
+  },
+  {
+   "id": 936,
+   "name": "Louise Glück",
+   "altNames": [],
+   "dates": "1943 – 2023",
+   "birthplace": "New York City, United States",
+   "nationality": "American; poet and essayist writing in English",
+   "identity": "American poet whose spare, myth-haunted lyrics of family, grief and the divine won the Nobel Prize in Literature in 2020, the first American poet to be so honoured since 1993",
+   "biography": "Louise Elisabeth Glück was born in New York City on 22 April 1943, the daughter of a businessman who had wanted to be a writer, and grew up on Long Island; she has said that her childhood was dominated by the death of an older sister before she was born and by a period of anorexia in her teens, during which she began psychoanalysis and, at seventeen, left school for it. She studied at Sarah Lawrence College and Columbia University, published Firstborn in 1968, and then wrote almost nothing for several years while teaching; The House on Marshland (1975) established the voice, and Descending Figure (1980), The Triumph of Achilles (1985, the National Book Critics Circle Award), Ararat (1990), The Wild Iris (1992, the Pulitzer Prize), Meadowlands (1996), Vita Nova (1999), The Seven Ages (2001), Averno (2006), A Village Life (2009), Faithful and Virtuous Night (2014, the National Book Award) and Winter Recipes from the Collective (2021) followed. Her essays are collected in Proofs and Theories (1994) and American Originality (2017). She taught at Williams College, was Poet Laureate of the United States from 2003 to 2004, and was awarded the Nobel Prize in Literature in 2020 'for her unmistakable poetic voice that with austere beauty makes individual existence universal'. She died in Cambridge, Massachusetts, on 13 October 2023.",
+   "profile": "Poetry: Firstborn (1968), The House on Marshland (1975), Descending Figure (1980), The Triumph of Achilles (1985), Ararat (1990), The Wild Iris (1992), Meadowlands (1996), Vita Nova (1999), The Seven Ages (2001), Averno (2006), A Village Life (2009), Poems 1962-2012 (2012), Faithful and Virtuous Night (2014) and Winter Recipes from the Collective (2021). Essays: Proofs and Theories (1994), American Originality (2017).",
+   "style": "Short, unrhymed and usually unpunctuated lines; a plain declarative syntax that turns, without warning, into myth; the first person used as a mask rather than a confession; sequences and recurring personae (the flowers and the gardener in The Wild Iris, the family of Ararat); and an ending that is usually a single hard sentence with no hedge in it.",
+   "concerns": "Family and its injuries, especially the father and the sister; grief and the work of mourning; the mythological and biblical stories that give private loss a public shape - Persephone, Orpheus and Eurydice, Abraham and Isaac; the garden and the seasons as a language for the divine; and, in the later books, old age, memory and the approach of death.",
+   "significance": "Glück is the central American lyric poet of the last half-century and the only American poet to have received the Nobel Prize since Toni Morrison's fiction was honoured in 1993. The Wild Iris is the book by which that award was most often justified, and it is the volume from which the Norton Anthology of American Literature takes 'Vespers'; Descending Figure, from a decade earlier, is the book in which the mythic method of her maturity first appears.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Religious Poetry"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2948,
+     "title": "Descending Figure"
+    },
+    {
+     "id": 2947,
+     "title": "The Drowned Children"
+    },
+    {
+     "id": 2949,
+     "title": "Vespers"
+    }
+   ],
+   "sources": [
+    "Descending Figure",
+    "Louise Glück (Wikipedia) and the Nobel Prize citation",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Wild Iris"
    ]
   },
   {
@@ -34622,7 +34746,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3001,
+     "id": 3010,
      "title": "Discourse on the Logic of Language"
     }
    ],
@@ -34843,11 +34967,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3046,
+     "id": 3055,
      "title": "Death by Landscape"
     },
     {
-     "id": 3047,
+     "id": 3056,
      "title": "Miss July Grows Older"
     }
    ],
@@ -38619,7 +38743,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3000,
+     "id": 3009,
      "title": "Decolonising the Mind"
     }
    ],
@@ -40170,19 +40294,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3055,
+     "id": 3064,
      "title": "7, Middagh Street"
     },
     {
-     "id": 3053,
+     "id": 3062,
      "title": "Anseo"
     },
     {
-     "id": 3054,
+     "id": 3063,
      "title": "Meeting the British"
     },
     {
-     "id": 3056,
+     "id": 3065,
      "title": "Milkweed and Monarch"
     }
    ],
@@ -40505,7 +40629,7 @@
      "title": "Aubade"
     },
     {
-     "id": 2969,
+     "id": 2978,
      "title": "Church Going"
     },
     {
@@ -40513,7 +40637,7 @@
      "title": "Collected Poems"
     },
     {
-     "id": 2973,
+     "id": 2982,
      "title": "Going, Going"
     },
     {
@@ -40521,11 +40645,11 @@
      "title": "High Windows"
     },
     {
-     "id": 2972,
+     "id": 2981,
      "title": "High Windows (poem)"
     },
     {
-     "id": 2975,
+     "id": 2984,
      "title": "Homage to a Government"
     },
     {
@@ -40533,7 +40657,7 @@
      "title": "Jill"
     },
     {
-     "id": 2970,
+     "id": 2979,
      "title": "MCMXIV"
     },
     {
@@ -40541,7 +40665,7 @@
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
-     "id": 2974,
+     "id": 2983,
      "title": "Sad Steps"
     },
     {
@@ -40549,11 +40673,11 @@
      "title": "Selected Letters of Philip Larkin, 1940-1985"
     },
     {
-     "id": 2971,
+     "id": 2980,
      "title": "Talking in Bed"
     },
     {
-     "id": 2976,
+     "id": 2985,
      "title": "The Explosion"
     },
     {
@@ -40569,7 +40693,7 @@
      "title": "The Whitsun Weddings"
     },
     {
-     "id": 2977,
+     "id": 2986,
      "title": "This Be The Verse"
     },
     {
@@ -43610,11 +43734,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3078,
+     "id": 3087,
      "title": "Summertime and the Living . . ."
     },
     {
-     "id": 3077,
+     "id": 3086,
      "title": "Those Winter Sundays"
     }
    ],
@@ -43899,23 +44023,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3085,
+     "id": 3094,
      "title": "For the Union Dead"
     },
     {
-     "id": 3083,
+     "id": 3092,
      "title": "Memories of West Street and Lepke"
     },
     {
-     "id": 3081,
+     "id": 3090,
      "title": "Mr. Edwards and the Spider"
     },
     {
-     "id": 3084,
+     "id": 3093,
      "title": "Night Sweat"
     },
     {
-     "id": 3082,
+     "id": 3091,
      "title": "Skunk Hour"
     }
    ],
@@ -45115,11 +45239,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3003,
+     "id": 3012,
      "title": "Imaginary Homelands"
     },
     {
-     "id": 3002,
+     "id": 3011,
      "title": "The Prophet's Hair"
     }
    ],
@@ -45194,7 +45318,7 @@
      "title": "Murphy"
     },
     {
-     "id": 2982,
+     "id": 2991,
      "title": "Waiting for Godot"
     }
    ],
@@ -45919,63 +46043,63 @@
    ],
    "works": [
     {
-     "id": 2955,
+     "id": 2964,
      "title": "A Brighter Sun"
     },
     {
-     "id": 2956,
+     "id": 2965,
      "title": "An Island Is a World"
     },
     {
-     "id": 2966,
+     "id": 2975,
      "title": "Eldorado West One"
     },
     {
-     "id": 2967,
+     "id": 2976,
      "title": "Foreday Morning: Selected Prose 1946-1986"
     },
     {
-     "id": 2968,
+     "id": 2977,
      "title": "Highway in the Sun and Other Plays"
     },
     {
-     "id": 2960,
+     "id": 2969,
      "title": "I Hear Thunder"
     },
     {
-     "id": 2964,
+     "id": 2973,
      "title": "Moses Ascending"
     },
     {
-     "id": 2965,
+     "id": 2974,
      "title": "Moses Migrating"
     },
     {
-     "id": 2961,
+     "id": 2970,
      "title": "The Housing Lark"
     },
     {
-     "id": 2957,
+     "id": 2966,
      "title": "The Lonely Londoners"
     },
     {
-     "id": 2962,
+     "id": 2971,
      "title": "The Plains of Caroni"
     },
     {
-     "id": 2963,
+     "id": 2972,
      "title": "Those Who Eat the Cascadura"
     },
     {
-     "id": 2959,
+     "id": 2968,
      "title": "Turn Again Tiger"
     },
     {
-     "id": 2979,
+     "id": 2988,
      "title": "Waiting for Aunty to Cough"
     },
     {
-     "id": 2958,
+     "id": 2967,
      "title": "Ways of Sunlight"
     }
    ],
@@ -46399,7 +46523,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3079,
+     "id": 3088,
      "title": "Looking for Mr. Green"
     }
    ],
@@ -46454,27 +46578,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3037,
+     "id": 3046,
      "title": "Casualty"
     },
     {
-     "id": 3039,
+     "id": 3048,
      "title": "Clearances"
     },
     {
-     "id": 3034,
+     "id": 3043,
      "title": "Digging"
     },
     {
-     "id": 3036,
+     "id": 3045,
      "title": "Punishment"
     },
     {
-     "id": 3038,
+     "id": 3047,
      "title": "Station Island"
     },
     {
-     "id": 3035,
+     "id": 3044,
      "title": "The Grauballe Man"
     }
    ],
@@ -46893,6 +47017,67 @@
     "Simon Armitage",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
     "The Shout Heard across the Atlantic (Poetry Foundation profile of Simon Armitage)"
+   ]
+  },
+  {
+   "id": 935,
+   "name": "Simon J. Ortiz",
+   "altNames": [],
+   "dates": "1941",
+   "birthplace": "Albuquerque, New Mexico, United States",
+   "nationality": "American; poet, short-story writer and essayist of Acoma Pueblo writing in English",
+   "identity": "Acoma Pueblo poet and storyteller, a central figure of the Native American Renaissance, whose sequence-poems of journey, rain and continuance made the oral tradition of his people a form of American poetry",
+   "biography": "Simon Joseph Ortiz was born in Albuquerque, New Mexico, on 27 May 1941 and was raised in the Acoma Pueblo village of McCarty, in an Acoma-speaking family; his father was a stonemason, carpenter and woodcarver, and Ortiz has described how the older people's stories and songs formed his sense of language. He was educated at Fort Lewis College and the University of New Mexico, where he took an MFA in 1981, and worked in various jobs before teaching. His first chapbook, Naked in the Wind, appeared in 1971; a long manuscript was then divided into Going for the Rain (Harper & Row, 1976) and A Good Journey (Turtle Island Foundation, 1977), the two books that made him, with Leslie Marmon Silko and James Welch, one of the founders of the Native American Renaissance. Fight Back: For the Sake of the People, for the Sake of the Land (1980) turned to the uranium belt of New Mexico and the tercentenary of the Pueblo Revolt; From Sand Creek (1981) is his best-known single book, a sequence on the 1864 massacre of Cheyenne and Arapaho people and on the condition of the Native American veteran. Woven Stone (1992) collected the three earlier books with a long preface, and After and Before the Lightning (1994) followed a winter on the Rosebud Sioux reservation. He has taught at the University of New Mexico, the University of Toronto and Arizona State University, edited the journal Puerto del Sol, and served as lieutenant governor of the Pueblo of Acoma.",
+   "profile": "Poetry: Naked in the Wind (1971), Going for the Rain (1976), A Good Journey (1977), Fight Back: For the Sake of the People, for the Sake of the Land (1980), From Sand Creek (1981), Woven Stone (1992, collecting the three previous books), After and Before the Lightning (1994) and Out There Somewhere (2002). Prose: Song, Poetry and Language (1977), A Poem Is a Journey (1982), the stories in Men on the Moon (1999) and the essay collections Speaking for the Generations (1998) and The Good Rainbow Road (2002).",
+   "style": "A plain, spoken line, often very short, with almost no punctuation; repetition and refrain carried over from song and prayer; narrative sequences rather than single lyrics, organised as journeys; direct address to a child, a listener or a place; and a vocabulary that keeps Acoma words and place-names untranslated.",
+   "concerns": "Journey and return, and the land as a source of identity; rain, drought and the shiwana, the rainmakers of Pueblo religion; fatherhood and the teaching of children; the survival of the Pueblo peoples since the Spanish conquest; the uranium mines and the exploitation of Indian labour; the massacres of the nineteenth century, especially Sand Creek; and language itself as the means by which a people continues.",
+   "significance": "Ortiz is one of the three or four writers by whom the Native American Renaissance is dated, and the Norton Anthology of American Literature prints five of his poems, of which three fall inside the period. His insistence that the poem is a form of continuance rather than a private artefact - 'the only way to continue is to tell a story' - made him the theorist as well as the practitioner of a literature written for a community, and his influence runs through the Native writing of the following decades.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Elegiac Poetry",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Nature Poetry",
+    "Political Poetry",
+    "Social Poetry"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2944,
+     "title": "Earth and Rain, the Plants & Sun"
+    },
+    {
+     "id": 2946,
+     "title": "From Sand Creek"
+    },
+    {
+     "id": 2945,
+     "title": "Passing through Little Rock"
+    }
+   ],
+   "sources": [
+    "A Good Journey",
+    "Going for the Rain",
+    "Simon J. Ortiz (Wikipedia) and the Poetry Foundation author page",
+    "Simon J. Ortiz, Native American Poet and Storyteller (nativeamericanlit.com survey)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woven Stone"
    ]
   },
   {
@@ -48371,11 +48556,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2993,
+     "id": 3002,
      "title": "Not Waving but Drowning"
     },
     {
-     "id": 2992,
+     "id": 3001,
      "title": "Our Bog Is Dood"
     },
     {
@@ -48383,7 +48568,7 @@
      "title": "Pretty"
     },
     {
-     "id": 2994,
+     "id": 3003,
      "title": "Thoughts About the Person from Porlock"
     }
    ],
@@ -49314,27 +49499,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3025,
+     "id": 3034,
      "title": "Crow Tyrannosaurus"
     },
     {
-     "id": 3024,
+     "id": 3033,
      "title": "Crow's Last Stand"
     },
     {
-     "id": 3022,
+     "id": 3031,
      "title": "Out"
     },
     {
-     "id": 3021,
+     "id": 3030,
      "title": "Pike"
     },
     {
-     "id": 3023,
+     "id": 3032,
      "title": "Theology"
     },
     {
-     "id": 3020,
+     "id": 3029,
      "title": "Wind"
     }
    ],
@@ -49378,7 +49563,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3075,
+     "id": 3084,
      "title": "A Streetcar Named Desire"
     }
    ],
@@ -49658,23 +49843,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3065,
+     "id": 3074,
      "title": "Cuttings"
     },
     {
-     "id": 3066,
+     "id": 3075,
      "title": "Cuttings (later)"
     },
     {
-     "id": 3068,
+     "id": 3077,
      "title": "Elegy for Jane"
     },
     {
-     "id": 3069,
+     "id": 3078,
      "title": "I Knew a Woman"
     },
     {
-     "id": 3067,
+     "id": 3076,
      "title": "The Waking"
     }
    ],
@@ -49721,23 +49906,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3011,
+     "id": 3020,
      "title": "Black Jackets"
     },
     {
-     "id": 3013,
+     "id": 3022,
      "title": "From the Wave"
     },
     {
-     "id": 3012,
+     "id": 3021,
      "title": "My Sad Captains"
     },
     {
-     "id": 3014,
+     "id": 3023,
      "title": "Still Life"
     },
     {
-     "id": 3015,
+     "id": 3024,
      "title": "The Missing"
     }
    ],
@@ -52874,7 +53059,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3031,
+     "id": 3040,
      "title": "One Out of Many"
     }
    ],
@@ -53173,7 +53358,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3064,
+     "id": 3073,
      "title": "Signs and Symbols"
     }
    ],
@@ -53438,7 +53623,7 @@
      "title": "Another Time"
     },
     {
-     "id": 2983,
+     "id": 2992,
      "title": "In Praise of Limestone"
     },
     {
@@ -53458,7 +53643,7 @@
      "title": "The Orators: An English Study"
     },
     {
-     "id": 2984,
+     "id": 2993,
      "title": "The Shield of Achilles"
     }
    ],
@@ -57848,7 +58033,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3032,
+     "id": 3041,
      "title": "Death and the King's Horseman"
     }
    ],
@@ -60379,7 +60564,7 @@
    ]
   },
   {
-   "id": 3055,
+   "id": 3064,
    "title": "7, Middagh Street",
    "altTitles": [],
    "authorship": "single",
@@ -60427,6 +60612,58 @@
     "Chapter 5, Meeting the British, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
     "Denis Donoghue, House of the spirits (review of February House, The Boston Globe)",
     "Giles Foden, For me, Meeting the British blew away the very idea of certainty (The Guardian)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 2941,
+   "title": "[On Sycorax Video Style]",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Kamau Brathwaite"
+   ],
+   "authorIds": [
+    855
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1999",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Prose statement on poetics (extract from a book of conversations)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The eleventh edition of the Norton Anthology of English Literature prints this passage in its 'Born-Digital Literature' cluster, where it is the first item and the oldest, and it is there as a statement of poetics rather than as a poem: Brathwaite explaining what he calls the Sycorax video style, the practice of composing on a computer so that the page shows what the voice is doing. The passage comes from conVERSations with Nathaniel Mackey (Staten Island: We Press, 1999), the book in which Brathwaite's 1993 public conversation with Mackey at Poet's House is broken up and reset in the typography it describes.",
+   "summary": "The passage sets out the practice and its origin. Brathwaite says that by the time he came to DreamStories he had developed another technique within his writing, which he calls the Sycorax video style, in which he tries to visualise hearing: instead of a purely auditory experience of the poem, he tries to put on the page what sound looks like, using the computer to make things happen to the words. The style is named for Sycorax, Caliban's mother in The Tempest, the witch whose magic Prospero takes with the island, and Brathwaite sets it against what he calls Prospero's book - the printed page of the colonial literary tradition. It emerged after a sequence of disasters he describes elsewhere in the same book: the death of his wife Doris in 1986, the hurricane and mudslide that destroyed his home, library and archive in Irish Town in 1988, and the armed robbery in Kingston in 1990 after which he could no longer write by hand.",
+   "plot": "The passage is a poetics in miniature, and its argument is that typography is not decoration but a way of recovering the oral. Brathwaite had spent twenty years arguing, in History of the Voice and elsewhere, that Caribbean writing in English had been forced into a print system built for a different language and a different metre, and that nation language carried its meaning in sound - in stress, in pitch, in the drum. The Sycorax video style is the technological answer to that argument: if the page cannot carry the voice, then change the page. Fonts of different sizes, irregular spacing, drawings, symbols and the 'x' of Sycorax itself are used to make the text perform the sound it describes, so that reading becomes a kind of hearing. The name is a political choice as well as a literary one. Sycorax never appears in The Tempest and never speaks; she is the powerful woman whose magic is taken and whose story is told by her captor, and Brathwaite's style claims her voice back through the machine that, in his account, her son's descendants now use. The passage's historical honesty is the part that most criticism now stresses: the style was not a playful experiment but a response to trauma, developed when Brathwaite could no longer hold a pen, and the computer became both prosthesis and medium.",
+   "significance": "The passage is the clearest short statement Brathwaite made of the Sycorax video style, and the eleventh edition's decision to open its 'Born-Digital Literature' cluster with it is the first time the Norton Anthology of English Literature has treated a Caribbean poet's typographic practice as the origin of digital literature in English. It is the anthology's last outstanding selection in the period, and the one this installment records after it was recovered from a wrong date.",
+   "meter": "The passage is in Brathwaite's own voice, with the characteristics of the late work: idiosyncratic spelling and capitalisation, the 'x' of Sycorax, sentences that run on and break off, and a mixture of the technical and the confessional. In the source book the whole passage is itself set in the video style, which no quotation of it can reproduce.",
+   "context": "The practice dates from 1990 and was developed through the 1990s; conVERSations with Nathaniel Mackey appeared in 1999 from We Press and XCP: Cross-Cultural Poetics, and the earlier DreamStories (1994), The Zea Mexican Diary (1993) and the revised Middle Passages (Bloodaxe, 1992) are its first printed instances. The Norton's 'Born-Digital Literature' cluster places the passage at the head of a line that runs through digital and internet writing of the 2000s, which is a canonising claim about where electronic literature begins.",
+   "characters": "",
+   "structure": "An extract from a much longer book of conversations: a first-person explanation, moving from the technical description of the technique to its origin in catastrophe and its naming, without stanza breaks or a closing cadence.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Manifesto",
+    "Prose Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Decolonisation, the end of empire and the new nation",
+    "Language, writing and the limits of representation"
+   ],
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "CONVERSATIONS WITH NATHANIEL MACKEY (Rain Taxi review)",
+    "Kamau Brathwaite (Wikipedia)",
+    "Sycorax video style and conVERSations with Nathaniel Mackey",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
@@ -60698,7 +60935,7 @@
    ]
   },
   {
-   "id": 2955,
+   "id": 2964,
    "title": "A Brighter Sun",
    "altTitles": [],
    "authorship": "single",
@@ -60752,7 +60989,7 @@
    ]
   },
   {
-   "id": 2988,
+   "id": 2997,
    "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
    "altTitles": [
     "A Bronzeville Mother Loiters in Mississippi"
@@ -61412,7 +61649,7 @@
    ]
   },
   {
-   "id": 3090,
+   "id": 3099,
    "title": "A Conversation with My Father",
    "altTitles": [],
    "authorship": "single",
@@ -62453,7 +62690,7 @@
    ]
   },
   {
-   "id": 3016,
+   "id": 3025,
    "title": "A Far Cry from Africa",
    "altTitles": [],
    "authorship": "single",
@@ -67910,7 +68147,7 @@
    ]
   },
   {
-   "id": 3094,
+   "id": 3103,
    "title": "A Step Away from Them",
    "altTitles": [],
    "authorship": "single",
@@ -68015,7 +68252,7 @@
    ]
   },
   {
-   "id": 3075,
+   "id": 3084,
    "title": "A Streetcar Named Desire",
    "altTitles": [],
    "authorship": "single",
@@ -75232,7 +75469,7 @@
    ]
   },
   {
-   "id": 2956,
+   "id": 2965,
    "title": "An Island Is a World",
    "altTitles": [],
    "authorship": "single",
@@ -75938,7 +76175,7 @@
    ]
   },
   {
-   "id": 3053,
+   "id": 3062,
    "title": "Anseo",
    "altTitles": [],
    "authorship": "single",
@@ -77433,7 +77670,7 @@
    ]
   },
   {
-   "id": 3070,
+   "id": 3079,
    "title": "At the Fishhouses",
    "altTitles": [],
    "authorship": "single",
@@ -80478,7 +80715,7 @@
    ]
   },
   {
-   "id": 3011,
+   "id": 3020,
    "title": "Black Jackets",
    "altTitles": [],
    "authorship": "single",
@@ -80527,7 +80764,7 @@
    ]
   },
   {
-   "id": 3100,
+   "id": 3109,
    "title": "Black Mother Woman",
    "altTitles": [],
    "authorship": "single",
@@ -82305,7 +82542,7 @@
    ]
   },
   {
-   "id": 2998,
+   "id": 3007,
    "title": "Calypso",
    "altTitles": [],
    "authorship": "single",
@@ -83161,7 +83398,7 @@
    ]
   },
   {
-   "id": 3037,
+   "id": 3046,
    "title": "Casualty",
    "altTitles": [],
    "authorship": "single",
@@ -85295,7 +85532,7 @@
    ]
   },
   {
-   "id": 2969,
+   "id": 2978,
    "title": "Church Going",
    "altTitles": [],
    "authorship": "single",
@@ -85345,7 +85582,7 @@
    ]
   },
   {
-   "id": 3026,
+   "id": 3035,
    "title": "Civil Peace",
    "altTitles": [],
    "authorship": "single",
@@ -85615,7 +85852,7 @@
    ]
   },
   {
-   "id": 3039,
+   "id": 3048,
    "title": "Clearances",
    "altTitles": [],
    "authorship": "single",
@@ -85816,7 +86053,7 @@
    ]
   },
   {
-   "id": 3098,
+   "id": 3107,
    "title": "Coal",
    "altTitles": [],
    "authorship": "single",
@@ -86501,7 +86738,7 @@
    ]
   },
   {
-   "id": 2996,
+   "id": 3005,
    "title": "Colonization in Reverse",
    "altTitles": [],
    "authorship": "single",
@@ -88058,7 +88295,7 @@
    ]
   },
   {
-   "id": 3041,
+   "id": 3050,
    "title": "Corniche",
    "altTitles": [],
    "authorship": "single",
@@ -88341,7 +88578,7 @@
    ]
   },
   {
-   "id": 2947,
+   "id": 2956,
    "title": "Critical Essays",
    "altTitles": [
     "Dickens, Dali and Others: Studies in Popular Culture"
@@ -88614,7 +88851,7 @@
    ]
   },
   {
-   "id": 3025,
+   "id": 3034,
    "title": "Crow Tyrannosaurus",
    "altTitles": [],
    "authorship": "single",
@@ -88663,7 +88900,7 @@
    ]
   },
   {
-   "id": 3024,
+   "id": 3033,
    "title": "Crow's Last Stand",
    "altTitles": [],
    "authorship": "single",
@@ -89057,7 +89294,7 @@
    ]
   },
   {
-   "id": 3065,
+   "id": 3074,
    "title": "Cuttings",
    "altTitles": [],
    "authorship": "single",
@@ -89106,7 +89343,7 @@
    ]
   },
   {
-   "id": 3066,
+   "id": 3075,
    "title": "Cuttings (later)",
    "altTitles": [],
    "authorship": "single",
@@ -90675,7 +90912,7 @@
    ]
   },
   {
-   "id": 3032,
+   "id": 3041,
    "title": "Death and the King's Horseman",
    "altTitles": [],
    "authorship": "single",
@@ -90726,7 +90963,7 @@
    ]
   },
   {
-   "id": 3046,
+   "id": 3055,
    "title": "Death by Landscape",
    "altTitles": [],
    "authorship": "single",
@@ -90939,7 +91176,7 @@
    ]
   },
   {
-   "id": 3080,
+   "id": 3089,
    "title": "Death of a Salesman",
    "altTitles": [],
    "authorship": "single",
@@ -91161,7 +91398,7 @@
    ]
   },
   {
-   "id": 3000,
+   "id": 3009,
    "title": "Decolonising the Mind",
    "altTitles": [
     "Decolonising the Mind: The Politics of Language in African Literature"
@@ -91716,6 +91953,55 @@
    ]
   },
   {
+   "id": 2948,
+   "title": "Descending Figure",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Louise Glück"
+   ],
+   "authorIds": [
+    936
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1980",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (title poem of the collection, unrhymed lyric)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Descending Figure' is the title poem of Glück's third collection (New York: Ecco Press, 1980), where it closes the first section after the poems of 'The Garden'. It is the poem that states the volume's governing image - the descent - and it is the one in which the mythological method of her later books is first fully visible.",
+   "summary": "The poem works the idea of descent as both a physical and a spiritual movement: the figure that comes down, the light that falls, the body that declines. It holds several scales at once - the religious descent of the divine into the world, the aging and deterioration of a body, and the artist's own going-down into the material he or she works with - and it does not settle which is primary. The tone is austere and the sentences are short, and the poem ends without resolving the descent into an ascent.",
+   "plot": "The title poem is where the volume's argument becomes explicit. Glück's earlier books had worked through the family and through the imagery of the garden, and Descending Figure adds the vertical axis: what comes down, and what it costs to come down. The religious vocabulary is present but undoctrinal - the descent is not named as incarnation, and the poem keeps the theological reading available without requiring it - and the poem's power comes from its refusal to say whether the descent is a fall or a gift. That ambiguity is what the later books, and especially The Wild Iris, would build on: in The Wild Iris the divine speaks from the garden and the human answers, and the relation between them is exactly the descent this poem describes without a speaker to receive it. Read as an ars poetica, the poem also states Glück's method: the poem goes down into loss because that is where the material is, and it does not come back up with a consolation.",
+   "significance": "The poem gives the volume its title and its argument, and it is the clearest short statement of the mythic method that would produce Ararat and The Wild Iris. It is a Norton selection, and the pairing of it with 'The Drowned Children' is how the anthology represents the 1980 book.",
+   "meter": "Austere, short-lined free verse; abstract nouns used with concrete force; an almost complete absence of simile; a tone of statement rather than address; and an ending that stops rather than concludes.",
+   "context": "Descending Figure appeared in 1980 from Ecco Press, the small press that published most of Glück's books and that gave her work its characteristic austere presentation. The volume's mythological and biblical material belongs to the years in which American poetry was turning back to narrative and to myth after the confessional 1960s, and Glück's version of that turn was to keep the first person while emptying it of autobiography.",
+   "characters": "",
+   "structure": "A short unrhymed lyric in the title position of its volume, organised as a series of statements about descent in different registers, ending without resolution.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Descending Figure",
+    "Louise Glück (Wikipedia) and the Nobel Prize citation",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2717,
    "title": "Design for Living",
    "altTitles": [],
@@ -92225,7 +92511,7 @@
    ]
   },
   {
-   "id": 3034,
+   "id": 3043,
    "title": "Digging",
    "altTitles": [],
    "authorship": "single",
@@ -92439,7 +92725,7 @@
    ]
   },
   {
-   "id": 3001,
+   "id": 3010,
    "title": "Discourse on the Logic of Language",
    "altTitles": [],
    "authorship": "single",
@@ -92850,7 +93136,7 @@
    ]
   },
   {
-   "id": 2995,
+   "id": 3004,
    "title": "Do Not Go Gentle into That Good Night",
    "altTitles": [],
    "authorship": "single",
@@ -94140,6 +94426,58 @@
    ]
   },
   {
+   "id": 2944,
+   "title": "Earth and Rain, the Plants & Sun",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Simon J. Ortiz"
+   ],
+   "authorIds": [
+    935
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1976",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (short free-verse lines, narrative)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Earth and Rain, the Plants & Sun' is in Going for the Rain (New York: Harper & Row, 1976), Ortiz's first full-length collection, in its closing section 'The Rain Falls'. It is a short narrative poem about a drive to Colorado with his son Raho, and it is the poem most often anthologised as an example of how Ortiz makes the Pueblo relationship to land into a lyric.",
+   "summary": "The poem begins 'Once near San Ysidro / on the way to Colorado, / I stopped and looked'. The speaker hears a meadowlark through the smell of fresh-cut alfalfa; his son, Raho, says 'Look, dad', and a hawk is sweeping its wings through the blue of the wind and the sky. The hawk is writhing overhead and is addressed as the Bringer, the Thunderer; sunlight falls through cloud curtains in a straight bright shaft and comes down to earth, to a green plant. The poem ends with the father's instruction to the child: 'Listen, son, hold my hand'.",
+   "plot": "The poem is short and its method is attention. What happens in it is almost nothing - a car stops, a bird is seen, rain is coming - and the whole weight of the poem is carried by the quality of the looking and by the presence of the child. Ortiz's line is very short and almost unpunctuated, so that the poem reads as a series of perceptions arriving one at a time rather than as a description organised in advance, and the effect is close to the oral storytelling he insisted was the source of his work. The hawk is the poem's centre: it is described physically and then named as the Bringer and the Thunderer, which are attributes of the shiwana, the rain-bringing spirits of Pueblo religion, and the naming is offered without explanation or italics. The last movement - the shaft of sunlight falling to a green plant, and the father telling the son to listen and hold his hand - turns the poem into a transmission: what is being passed on is not a belief but a way of seeing, and the poem's own short lines are the form that transmission takes. It is also, quietly, a poem about drought: the rain has not yet fallen, and the whole poem is tilted towards it.",
+   "significance": "The poem is among the most anthologised of Ortiz's short lyrics and is regularly taught as an introduction to the Native American Renaissance's poetics of place; it is a Norton selection. The record's dating of it to 1976 fills the provisional blank in the Norton list, which carried no date until wave 33.",
+   "meter": "Very short lines, minimal punctuation, lower-case beginnings; a plain vocabulary with a few Acoma-derived names; repetition of 'it falls'; direct speech from the child; and an ending in the imperative.",
+   "context": "Going for the Rain (1976) was written after the chapbook Naked in the Wind (1971) and came out of the manuscript Ortiz divided into two books; Harper & Row published it after a delay, and it was one of the first Native American poetry collections to reach a general trade readership, in the years following Momaday's House Made of Dawn (1968) and the occupation of Wounded Knee (1973).",
+   "characters": "",
+   "structure": "A single short free-verse poem in a narrative sequence of perceptions, with a turn from description to invocation (the Bringer, the Thunderer) and a closing address to the child.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Nature Poetry"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Land, place and regional belonging",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "Going for the Rain",
+    "Simon J. Ortiz (Wikipedia) and the Poetry Foundation author page",
+    "Simon J. Ortiz, Native American Poet and Storyteller (nativeamericanlit.com survey)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woven Stone"
+   ]
+  },
+  {
    "id": 1604,
    "title": "East Lynne",
    "altTitles": [],
@@ -94713,7 +95051,7 @@
    ]
   },
   {
-   "id": 2966,
+   "id": 2975,
    "title": "Eldorado West One",
    "altTitles": [],
    "authorship": "single",
@@ -94953,7 +95291,7 @@
    ]
   },
   {
-   "id": 3068,
+   "id": 3077,
    "title": "Elegy for Jane",
    "altTitles": [],
    "authorship": "single",
@@ -95133,7 +95471,7 @@
    ]
   },
   {
-   "id": 3010,
+   "id": 3019,
    "title": "Elements of Composition",
    "altTitles": [],
    "authorship": "single",
@@ -96879,7 +97217,7 @@
    ]
   },
   {
-   "id": 3004,
+   "id": 3013,
    "title": "Epilogue",
    "altTitles": [],
    "authorship": "single",
@@ -100179,7 +100517,7 @@
    ]
   },
   {
-   "id": 3057,
+   "id": 3066,
    "title": "First Screening",
    "altTitles": [],
    "authorship": "single",
@@ -100652,7 +100990,7 @@
    ]
   },
   {
-   "id": 3049,
+   "id": 3058,
    "title": "Fond Memory",
    "altTitles": [],
    "authorship": "single",
@@ -100752,7 +101090,7 @@
    ]
   },
   {
-   "id": 3086,
+   "id": 3095,
    "title": "For Esmé—with Love and Squalor",
    "altTitles": [],
    "authorship": "single",
@@ -100802,7 +101140,7 @@
    ]
   },
   {
-   "id": 3085,
+   "id": 3094,
    "title": "For the Union Dead",
    "altTitles": [],
    "authorship": "single",
@@ -100904,7 +101242,7 @@
    ]
   },
   {
-   "id": 2967,
+   "id": 2976,
    "title": "Foreday Morning: Selected Prose 1946-1986",
    "altTitles": [],
    "authorship": "single",
@@ -101651,6 +101989,59 @@
    ]
   },
   {
+   "id": 2946,
+   "title": "From Sand Creek",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Simon J. Ortiz"
+   ],
+   "authorIds": [
+    935
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1981",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem sequence (book-length, mixed forms)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "From Sand Creek (New York: Thunder's Mouth Press, 1981) is Ortiz's best-known book: a sequence that takes the massacre of Cheyenne and Arapaho people at Sand Creek, Colorado, in 1864 and sets it against the condition of Native American veterans in the 1970s, when Ortiz was working with patients at a Veterans Administration hospital. The Norton prints an excerpt, and it is the one book-length work of his in the anthology.",
+   "summary": "The sequence is in three parts. The first and third are lyrics in Ortiz's short unpunctuated lines, many of them spoken by a veteran or by the poet in the hospital, and they record ordinary American life - the ward, the bus, the town, the television - alongside the aftermaths of the war in Vietnam. The middle part is a prose history of the Sand Creek massacre of 29 November 1864, in which a Colorado volunteer regiment under John Chivington attacked a camp of Cheyenne and Arapaho under Black Kettle, who had been told they were under army protection, and killed some two hundred people, most of them women, children and old men. Across the sequence, lines recur as refrains - 'it is not a story' among them - and the book's spacing and typography put the historical prose and the contemporary lyric on the same page.",
+   "plot": "From Sand Creek is the book in which Ortiz's two subjects, the survival of Native peoples and the damage done to individual Native men, become one argument. The massacre is presented as documentary - the sequence quotes and paraphrases the record, and in an afterword Ortiz names his sources - and the lyrics around it are what the documentary cannot hold: the boredom of the hospital, the drinking, the ordinary tenderness of a friend, the speaker's sense that the history he is writing down is happening in his own body. The refrains do the structural work, returning the reader to the same few sentences so that they acquire the force of a liturgy, and the effect is closer to a memorial service than to a history. Ortiz has said that the book grew out of his time at the Fort Lyon Veterans Administration Hospital in Colorado, where he came to see the veterans he met as casualties of the same long war, and that intention is what makes the book's politics more than topical: the Sand Creek of 1864 and the Vietnam of the 1970s are treated as one event with two dates. Its formal innovation, which later Native writing has often followed, is the combination of verse and document without hierarchy, so that the archive and the poem are given equal weight and neither is allowed to explain the other.",
+   "significance": "From Sand Creek is the most studied single book by an Acoma writer and one of the central texts of the Native American Renaissance; it won the Pushcart Prize for poetry and is the reason Ortiz is often described as the poet of continuance. The Norton Anthology of American Literature prints an excerpt, and the book is a standard presence on American literature syllabi.",
+   "meter": "Short unpunctuated lyric lines and plain declarative prose; repetition of a small number of sentences as refrains; documentary quotation; no ironic distance; and a flatness of tone that refuses both outrage and consolation.",
+   "context": "Published in 1981, in a period of renewed Native American political organisation and of public argument about the Vietnam veteran; Ortiz was working at the Fort Lyon VA hospital in Colorado when the book was conceived, and its publication by Thunder's Mouth Press put it in the small press circuit that carried much Native writing of the 1970s and 1980s.",
+   "characters": "",
+   "structure": "A three-part sequence, with lyrics enclosing a prose historical middle section, recurring refrains across the parts, and a typography that leaves space on the page as part of the form; an afterword documents the sources.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Long Poem",
+    "Political Poetry"
+   ],
+   "themes": [
+    "History, truth and the uses of the past",
+    "Memory, trauma and testimony",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "Fight Back: For the Sake of the People, for the Sake of the Land",
+    "Simon J. Ortiz (Wikipedia) and the Poetry Foundation author page",
+    "Simon J. Ortiz, Native American Poet and Storyteller (nativeamericanlit.com survey)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woven Stone"
+   ]
+  },
+  {
    "id": 1719,
    "title": "From the Deep Woods to Civilization",
    "altTitles": [],
@@ -101699,7 +102090,7 @@
    ]
   },
   {
-   "id": 3013,
+   "id": 3022,
    "title": "From the Wave",
    "altTitles": [],
    "authorship": "single",
@@ -103148,7 +103539,7 @@
    ]
   },
   {
-   "id": 2973,
+   "id": 2982,
    "title": "Going, Going",
    "altTitles": [],
    "authorship": "single",
@@ -105016,7 +105407,7 @@
    ]
   },
   {
-   "id": 3088,
+   "id": 3097,
    "title": "Harrison Bergeron",
    "altTitles": [],
    "authorship": "single",
@@ -105169,7 +105560,7 @@
    ]
   },
   {
-   "id": 3096,
+   "id": 3105,
    "title": "Having a Coke with You",
    "altTitles": [],
    "authorship": "single",
@@ -106774,7 +107165,7 @@
    ]
   },
   {
-   "id": 2972,
+   "id": 2981,
    "title": "High Windows (poem)",
    "altTitles": [],
    "authorship": "single",
@@ -106878,7 +107269,7 @@
    ]
   },
   {
-   "id": 2968,
+   "id": 2977,
    "title": "Highway in the Sun and Other Plays",
    "altTitles": [],
    "authorship": "single",
@@ -107559,7 +107950,7 @@
    ]
   },
   {
-   "id": 2997,
+   "id": 3006,
    "title": "History of the Voice",
    "altTitles": [
     "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry"
@@ -107677,7 +108068,7 @@
    ]
   },
   {
-   "id": 2975,
+   "id": 2984,
    "title": "Homage to a Government",
    "altTitles": [],
    "authorship": "single",
@@ -108478,7 +108869,7 @@
    ]
   },
   {
-   "id": 3063,
+   "id": 3072,
    "title": "Hullabaloo in the Guava Orchard",
    "altTitles": [],
    "authorship": "single",
@@ -109572,7 +109963,7 @@
    ]
   },
   {
-   "id": 2960,
+   "id": 2969,
    "title": "I Hear Thunder",
    "altTitles": [],
    "authorship": "single",
@@ -109623,7 +110014,7 @@
    ]
   },
   {
-   "id": 3069,
+   "id": 3078,
    "title": "I Knew a Woman",
    "altTitles": [],
    "authorship": "single",
@@ -110184,7 +110575,7 @@
    ]
   },
   {
-   "id": 3003,
+   "id": 3012,
    "title": "Imaginary Homelands",
    "altTitles": [
     "Imaginary Homelands: Essays and Criticism 1981-1991"
@@ -110781,7 +111172,7 @@
    ]
   },
   {
-   "id": 3027,
+   "id": 3036,
    "title": "In Memory of Jane Fraser",
    "altTitles": [],
    "authorship": "single",
@@ -110830,7 +111221,7 @@
    ]
   },
   {
-   "id": 3097,
+   "id": 3106,
    "title": "In Memory of My Feelings",
    "altTitles": [],
    "authorship": "single",
@@ -110991,7 +111382,7 @@
    ]
   },
   {
-   "id": 2983,
+   "id": 2992,
    "title": "In Praise of Limestone",
    "altTitles": [],
    "authorship": "single",
@@ -111188,7 +111579,7 @@
    ]
   },
   {
-   "id": 3073,
+   "id": 3082,
    "title": "In the Waiting Room",
    "altTitles": [],
    "authorship": "single",
@@ -111594,7 +111985,7 @@
    ]
   },
   {
-   "id": 3007,
+   "id": 3016,
    "title": "Inglan Is a Bitch",
    "altTitles": [],
    "authorship": "single",
@@ -112566,6 +112957,56 @@
    ]
   },
   {
+   "id": 2942,
+   "title": "It's Alright, Ma (I'm Only Bleeding)",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Bob Dylan"
+   ],
+   "authorIds": [
+    934
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Song lyric (long stanzas, refrain)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'It's Alright, Ma (I'm Only Bleeding)' closes the acoustic side of Bringing It All Back Home, released by Columbia on 22 March 1965, and it is the song in which Dylan's writing leaves the protest song behind. Its long stanzas are a catalogue of what American society does to the people in it, delivered without a chorus until the refrain arrives at the end of each stanza, and it is the densest lyric he had written.",
+   "summary": "The song opens with 'Darkness at the break of noon' and a sequence of images in which nothing is what it should be: shadows, the handmade blade, the child's balloon, the sun and moon eclipsed, and the flat statement that to understand you know too soon, there is no sense in trying. Its stanzas go on to take in advertising and the salesman's pitch, the preacher, the judge and the congressman, the poverty that is down the street and the war that is across the sea, the old who are despised and the young who are bought, and the American habit of dressing up the same bargain in new language. The refrain states the position: it is all right, ma, he is only bleeding - the singer is wounded but not dying, and the world that wounds him is not going to be reformed by the song. The middle stanzas turn on the masks people wear, the false gods and the masters of war of the earlier songs now generalised into a whole social order, and the last stanza addresses a 'you' who may be the listener, the singer's own generation, or the country itself.",
+   "plot": "The song is usually read as Dylan's farewell to protest music, and the reading is right but crude. What changes in it is not the anger but its target and its tone: the earlier songs had named men and policies, and this one names a condition. The catalogue method - stanza after stanza of examples with no narrative and no argument - is borrowed from the folk and blues songs Dylan had been singing for years, and especially from the talking blues, but its ambition is literary: the statements are epigrams, and many of them have detached themselves from the song and become proverbs of the 1960s, 'he not busy being born is busy dying' among them. The organised religion of the middle stanzas gets the hardest treatment, and the song's anti-clericalism is the place where its later Christian phase looks most surprising. Formally, the song's achievement is to make a six-minute lyric with no chorus hold a listening audience, and to do it with an acoustic guitar and a harmonica: the refrain is the only thing repeated, and it refuses consolation. 'It's alright, ma' is the voice of someone reassuring a mother while telling her that nothing is alright at all, and that double register - the intimate and the apocalyptic in one line - is what Dylan's 1965 writing is made of.",
+   "significance": "The song is one of the two or three by which Dylan's literary reputation was made, and its lines are among the most quoted in American popular song. The Norton Anthology of American Literature prints it with 'Like a Rolling Stone' as the pair that establishes Dylan's claim on the canon, and the Nobel citation of 2016 is the institutional recognition of that claim.",
+   "meter": "Dense, allusive, epigrammatic; internal rhyme and assonance rather than end-rhyme; a nasal, half-spoken delivery that pushes the lines toward speech; imagery drawn from the Bible, the fairground, the courtroom and the advertisement; and a refrain whose plainness is its point.",
+   "context": "Bringing It All Back Home was released on 22 March 1965, with a largely acoustic first side and an electric second; the song belongs to the months in which Dylan was breaking with the folk revival, and it was written at Woodstock in the winter of 1964-65. The escalation of the Vietnam War, the assassination of Kennedy two years earlier and the civil rights movement's turn to the North form its public context; the folk revival's argument about what a political song should be is its immediate literary one.",
+   "characters": "",
+   "structure": "Long stanzas of irregular short lines, each ending with the refrain 'But it's all right, ma, I'm only bleeding', with no bridge and no chorus proper; a catalogue structure that accumulates rather than argues.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Performance Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "The Beat Generation"
+   ],
+   "editions": [],
+   "sources": [
+    "Bob Dylan (Wikipedia)",
+    "Bringing It All Back Home",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1266,
    "title": "Italy",
    "altTitles": [
@@ -112993,7 +113434,7 @@
    ]
   },
   {
-   "id": 2948,
+   "id": 2957,
    "title": "James Burnham and the Managerial Revolution",
    "altTitles": [
     "Second Thoughts on James Burnham"
@@ -117392,7 +117833,7 @@
    ]
   },
   {
-   "id": 2944,
+   "id": 2953,
    "title": "Les Blancs",
    "altTitles": [],
    "authorship": "single",
@@ -117549,7 +117990,7 @@
    ]
   },
   {
-   "id": 2999,
+   "id": 3008,
    "title": "Letter SycoraX",
    "altTitles": [],
    "authorship": "single",
@@ -119136,6 +119577,57 @@
    ]
   },
   {
+   "id": 2943,
+   "title": "Like a Rolling Stone",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Bob Dylan"
+   ],
+   "authorIds": [
+    934
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Song lyric (six-minute single, verse and refrain)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Like a Rolling Stone' was released as a single by Columbia on 20 July 1965, at six minutes and one second, at a time when radio would not play a record that long; it is the song on which Dylan's move to electric music and to a new kind of lyric both became public, and it is regularly called the greatest record in the history of rock music. It opens Highway 61 Revisited, released the following month.",
+   "summary": "The song addresses a woman who once had everything - she dressed so fine, threw the bums a dime, laughed at everyone who warned her - and who has now lost it all. Each verse supplies another scene of her fall: the people she once despised now offer her a place, she is on the street with nowhere to call home, she is asked to be a mystery tramp or a nobody. The chorus turns on the question 'How does it feel?' - to be without a home, a complete unknown, like a rolling stone - and it is asked not as sympathy but as an insistent, almost gloating demand that she recognise what has happened to her. The last verse describes her being offered a deal by someone who wants to use her, and the closing lines return to the question with the answer withheld.",
+   "plot": "The song's originality is usually placed in three things, and all three are literary. The first is the address: the second person is used with the force of an indictment, and the singer's position - outside the woman, superior to her fall, and implicated in it - is unstable enough that listeners have read the song as a portrait of a society and not of a person. The second is the length and structure: six minutes of verse with no bridge, in which the chorus does not resolve but escalates, and the band - Al Kooper's organ, Mike Bloomfield's guitar, the session musicians of the Highway 61 sessions - builds behind a spoken, hectoring vocal that is closer to a speech than to a song. The third is the language, which is flat and idiomatic on the surface and full of rolled-up metaphors - the chrome horse with its diplomat, the princess on the steeple - and which refuses the folk song's clear moral. The song was recorded on 16 June 1965 in New York, after Dylan had written a long piece of prose that became the lyric, and it was issued only because a promotional play at the Arthur club in Manhattan produced enough demand to overrule Columbia's resistance. Its success made the six-minute single possible and, more importantly, ended the assumption that a pop lyric had to be about love.",
+   "significance": "'Like a Rolling Stone' is the most frequently cited record in the history of rock criticism, and the one by which Dylan's claim on literary study was argued long before the Nobel Prize. It is printed in the Norton Anthology of American Literature, whose selection of him begins with it, and the Nobel citation's phrase about new poetic expressions within the great American song tradition is generally taken to refer to it first.",
+   "meter": "A narrative lyric in the second person with a spoken-sung delivery; colloquial diction with compressed, surreal images; the rhetorical question as the structural spine; and a studio arrangement that grows from a snare shot to a full band behind a voice that never becomes melodic in the conventional sense.",
+   "context": "Recorded 16 June 1965 and released on 20 July 1965, five days before the electric set at Newport that became the symbolic break with the folk revival; it was written in Woodstock in the spring of 1965 and appeared on Highway 61 Revisited in August. Its commercial success - a top-ten single in the United States, Britain and Australia despite its length - changed what a single could be, and its reception is the moment the idea of the singer-songwriter as an artist rather than an entertainer became general.",
+   "characters": "",
+   "structure": "Five verses and a chorus, with the chorus repeated after each verse and worded almost identically each time; a six-minute single with no bridge, built on a repeated harmonic pattern and an escalating arrangement.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self"
+   ],
+   "movements": [
+    "The Beat Generation"
+   ],
+   "editions": [],
+   "sources": [
+    "Bob Dylan (Wikipedia)",
+    "Bringing It All Back Home",
+    "Like a Rolling Stone (single)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2132,
    "title": "Lilith: A Romance",
    "altTitles": [],
@@ -120415,7 +120907,7 @@
    ]
   },
   {
-   "id": 3043,
+   "id": 3052,
    "title": "Looking for a Rain God",
    "altTitles": [],
    "authorship": "single",
@@ -120465,7 +120957,7 @@
    ]
   },
   {
-   "id": 3079,
+   "id": 3088,
    "title": "Looking for Mr. Green",
    "altTitles": [],
    "authorship": "single",
@@ -125011,7 +125503,7 @@
    ]
   },
   {
-   "id": 2970,
+   "id": 2979,
    "title": "MCMXIV",
    "altTitles": [],
    "authorship": "single",
@@ -125285,7 +125777,7 @@
    ]
   },
   {
-   "id": 3061,
+   "id": 3070,
    "title": "Medusa",
    "altTitles": [],
    "authorship": "single",
@@ -125336,7 +125828,7 @@
    ]
   },
   {
-   "id": 3054,
+   "id": 3063,
    "title": "Meeting the British",
    "altTitles": [],
    "authorship": "single",
@@ -125759,7 +126251,7 @@
    ]
   },
   {
-   "id": 3083,
+   "id": 3092,
    "title": "Memories of West Street and Lepke",
    "altTitles": [],
    "authorship": "single",
@@ -126315,7 +126807,7 @@
    ]
   },
   {
-   "id": 3056,
+   "id": 3065,
    "title": "Milkweed and Monarch",
    "altTitles": [],
    "authorship": "single",
@@ -126802,7 +127294,7 @@
    ]
   },
   {
-   "id": 3047,
+   "id": 3056,
    "title": "Miss July Grows Older",
    "altTitles": [],
    "authorship": "single",
@@ -127952,7 +128444,7 @@
    ]
   },
   {
-   "id": 3040,
+   "id": 3049,
    "title": "Morse",
    "altTitles": [],
    "authorship": "single",
@@ -128002,7 +128494,7 @@
    ]
   },
   {
-   "id": 2964,
+   "id": 2973,
    "title": "Moses Ascending",
    "altTitles": [],
    "authorship": "single",
@@ -128056,7 +128548,7 @@
    ]
   },
   {
-   "id": 2965,
+   "id": 2974,
    "title": "Moses Migrating",
    "altTitles": [],
    "authorship": "single",
@@ -128518,7 +129010,7 @@
    ]
   },
   {
-   "id": 3081,
+   "id": 3090,
    "title": "Mr. Edwards and the Spider",
    "altTitles": [],
    "authorship": "single",
@@ -128675,7 +129167,7 @@
    ]
   },
   {
-   "id": 3062,
+   "id": 3071,
    "title": "Mrs Lazarus",
    "altTitles": [],
    "authorship": "single",
@@ -129638,7 +130130,7 @@
    ]
   },
   {
-   "id": 3012,
+   "id": 3021,
    "title": "My Sad Captains",
    "altTitles": [],
    "authorship": "single",
@@ -129687,7 +130179,7 @@
    ]
   },
   {
-   "id": 3058,
+   "id": 3067,
    "title": "My Son the Fanatic",
    "altTitles": [],
    "authorship": "single",
@@ -131200,7 +131692,7 @@
    ]
   },
   {
-   "id": 3084,
+   "id": 3093,
    "title": "Night Sweat",
    "altTitles": [],
    "authorship": "single",
@@ -131475,7 +131967,7 @@
    ]
   },
   {
-   "id": 2950,
+   "id": 2959,
    "title": "Nineteen Eighty-Four",
    "altTitles": [
     "1984"
@@ -132003,7 +132495,7 @@
    ]
   },
   {
-   "id": 2993,
+   "id": 3002,
    "title": "Not Waving but Drowning",
    "altTitles": [],
    "authorship": "single",
@@ -135326,7 +135818,7 @@
    ]
   },
   {
-   "id": 3019,
+   "id": 3028,
    "title": "Omeros",
    "altTitles": [],
    "authorship": "single",
@@ -135916,7 +136408,7 @@
    ]
   },
   {
-   "id": 2981,
+   "id": 2990,
    "title": "On Not Shooting Sitting Birds",
    "altTitles": [],
    "authorship": "single",
@@ -136148,7 +136640,7 @@
    ]
   },
   {
-   "id": 3087,
+   "id": 3096,
    "title": "On the Road",
    "altTitles": [],
    "authorship": "single",
@@ -136248,7 +136740,7 @@
    ]
   },
   {
-   "id": 3074,
+   "id": 3083,
    "title": "One Art",
    "altTitles": [],
    "authorship": "single",
@@ -136299,7 +136791,7 @@
    ]
   },
   {
-   "id": 3031,
+   "id": 3040,
    "title": "One Out of Many",
    "altTitles": [],
    "authorship": "single",
@@ -137145,7 +137637,7 @@
    ]
   },
   {
-   "id": 2992,
+   "id": 3001,
    "title": "Our Bog Is Dood",
    "altTitles": [],
    "authorship": "single",
@@ -137468,7 +137960,7 @@
    ]
   },
   {
-   "id": 3022,
+   "id": 3031,
    "title": "Out",
    "altTitles": [],
    "authorship": "single",
@@ -138324,6 +138816,58 @@
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2945,
+   "title": "Passing through Little Rock",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Simon J. Ortiz"
+   ],
+   "authorIds": [
+    935
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1977",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, short lines)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Passing through Little Rock' is in A Good Journey (Berkeley: Turtle Island Foundation, 1977), Ortiz's second collection; Woven Stone's contents place it at page 98. It is a poem about driving through an American city that has buried the Indian peoples who lived there, and it is the sharpest of his short political lyrics.",
+   "summary": "The poem opens with the old Indian ghosts - 'Quapaw', 'Waccamaw' - which are 'just billboard words in this crummy town'. It goes on to describe the speaker passing through Little Rock, Arkansas, and the poem's closing movement is a wish for escape: 'I just want to cross the next hill, / through that clump of trees / and come out on the other side / and see a clean river, / the whole earth new / and hear the noise it makes / at birth.'",
+   "plot": "The poem's argument is made by the collision of two kinds of name. Quapaw and Waccamaw are the peoples of the region through which the speaker is driving - the Quapaw gave Arkansas its name by a chain of French transliterations - and the poem finds them surviving only as words on billboards, which is to say as tourist signage, while the town itself is crummy, ordinary, and indifferent. Ortiz's short flat lines refuse the elegiac register that the material would invite; the anger is in the adjective and in the quotation marks around the tribal names, which mark them as someone else's speech. The turn at the end is not to lament but to a wish for birth - a clean river, a new earth, the noise it makes being born - and the wish is placed beyond the next hill, which means it is not available where the speaker is. That structure, in which the poem's hope is located outside the poem's own landscape, is characteristic of Ortiz's political writing, and it is why the poem can be read both as a critique and as a prayer. Its anger is understated and its formal means are very small: a handful of short lines, one quotation, one wish.",
+   "significance": "The poem is a frequent anthology choice for the political side of Ortiz's work and is one of the three Ortiz selections in the Norton's period. Its record is also the one in which the installment's last American date was settled, from the contents of Woven Stone.",
+   "meter": "Short unpunctuated lines; flat, deliberate colloquialism ('crummy town'); tribal names in quotation marks; a turn from statement to wish; and an ending in sensory immediacy.",
+   "context": "A Good Journey appeared in 1977, the year of Silko's Ceremony, and belongs to the decade in which Native American writing entered the American literary mainstream; the poem's occasion is a road trip through the South, and its subject is the relation between the places Native people were removed from and the places they are driven through. Little Rock carries its own history of segregation, which the poem leaves implicit.",
+   "characters": "",
+   "structure": "A short free-verse poem in two movements: the description of the town and its billboard names, then the wish to cross the next hill, ending on the image of the earth being born.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Social Poetry"
+   ],
+   "themes": [
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Native American Renaissance"
+   ],
+   "editions": [],
+   "sources": [
+    "A Good Journey",
+    "Simon J. Ortiz (Wikipedia) and the Poetry Foundation author page",
+    "Simon J. Ortiz, Native American Poet and Storyteller (nativeamericanlit.com survey)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woven Stone"
    ]
   },
   {
@@ -139598,7 +140142,7 @@
    ]
   },
   {
-   "id": 3092,
+   "id": 3101,
    "title": "Personism: A Manifesto",
    "altTitles": [],
    "authorship": "single",
@@ -140575,7 +141119,7 @@
    ]
   },
   {
-   "id": 3021,
+   "id": 3030,
    "title": "Pike",
    "altTitles": [],
    "authorship": "single",
@@ -144071,7 +144615,7 @@
    ]
   },
   {
-   "id": 2978,
+   "id": 2987,
    "title": "Politics and the English Language",
    "altTitles": [],
    "authorship": "single",
@@ -145834,7 +146378,7 @@
    ]
   },
   {
-   "id": 3036,
+   "id": 3045,
    "title": "Punishment",
    "altTitles": [],
    "authorship": "single",
@@ -146149,7 +146693,7 @@
    ]
   },
   {
-   "id": 3071,
+   "id": 3080,
    "title": "Questions of Travel",
    "altTitles": [],
    "authorship": "single",
@@ -147371,7 +147915,7 @@
    ]
   },
   {
-   "id": 3028,
+   "id": 3037,
    "title": "Requiem for the Plantagenet Kings",
    "altTitles": [],
    "authorship": "single",
@@ -149656,7 +150200,7 @@
    ]
   },
   {
-   "id": 2974,
+   "id": 2983,
    "title": "Sad Steps",
    "altTitles": [],
    "authorship": "single",
@@ -151279,7 +151823,7 @@
    ]
   },
   {
-   "id": 3009,
+   "id": 3018,
    "title": "Self-Portrait",
    "altTitles": [],
    "authorship": "single",
@@ -151563,7 +152107,7 @@
    ]
   },
   {
-   "id": 3029,
+   "id": 3038,
    "title": "September Song",
    "altTitles": [],
    "authorship": "single",
@@ -152810,7 +153354,7 @@
    ]
   },
   {
-   "id": 2951,
+   "id": 2960,
    "title": "Shooting an Elephant and Other Essays",
    "altTitles": [],
    "authorship": "single",
@@ -152910,7 +153454,7 @@
    ]
   },
   {
-   "id": 3064,
+   "id": 3073,
    "title": "Signs and Symbols",
    "altTitles": [],
    "authorship": "single",
@@ -153985,7 +154529,7 @@
    ]
   },
   {
-   "id": 3082,
+   "id": 3091,
    "title": "Skunk Hour",
    "altTitles": [],
    "authorship": "single",
@@ -154037,7 +154581,7 @@
    ]
   },
   {
-   "id": 3089,
+   "id": 3098,
    "title": "Slaughterhouse-Five",
    "altTitles": [],
    "authorship": "single",
@@ -157044,7 +157588,7 @@
    ]
   },
   {
-   "id": 3038,
+   "id": 3047,
    "title": "Station Island",
    "altTitles": [],
    "authorship": "single",
@@ -157158,7 +157702,7 @@
    ]
   },
   {
-   "id": 3014,
+   "id": 3023,
    "title": "Still Life",
    "altTitles": [],
    "authorship": "single",
@@ -157617,7 +158161,7 @@
    ]
   },
   {
-   "id": 2952,
+   "id": 2961,
    "title": "Such, Such Were the Joys",
    "altTitles": [],
    "authorship": "single",
@@ -157885,7 +158429,7 @@
    ]
   },
   {
-   "id": 3078,
+   "id": 3087,
    "title": "Summertime and the Living . . .",
    "altTitles": [],
    "authorship": "single",
@@ -158948,7 +159492,7 @@
    ]
   },
   {
-   "id": 2971,
+   "id": 2980,
    "title": "Talking in Bed",
    "altTitles": [],
    "authorship": "single",
@@ -162153,7 +162697,7 @@
    ]
   },
   {
-   "id": 3072,
+   "id": 3081,
    "title": "The Armadillo",
    "altTitles": [],
    "authorship": "single",
@@ -163860,7 +164404,7 @@
    ]
   },
   {
-   "id": 2987,
+   "id": 2996,
    "title": "The Bean Eaters",
    "altTitles": [],
    "authorship": "single",
@@ -164605,7 +165149,7 @@
    ]
   },
   {
-   "id": 2990,
+   "id": 2999,
    "title": "The Blackstone Rangers",
    "altTitles": [],
    "authorship": "single",
@@ -167988,7 +168532,7 @@
    ]
   },
   {
-   "id": 2985,
+   "id": 2994,
    "title": "The Children of the Poor",
    "altTitles": [],
    "authorship": "single",
@@ -168949,7 +169493,7 @@
    ]
   },
   {
-   "id": 2953,
+   "id": 2962,
    "title": "The Collected Essays, Journalism and Letters of George Orwell",
    "altTitles": [],
    "authorship": "single",
@@ -171956,7 +172500,7 @@
    ]
   },
   {
-   "id": 3095,
+   "id": 3104,
    "title": "The Day Lady Died",
    "altTitles": [],
    "authorship": "single",
@@ -172063,7 +172607,7 @@
    ]
   },
   {
-   "id": 2980,
+   "id": 2989,
    "title": "The Day They Burned the Books",
    "altTitles": [],
    "authorship": "single",
@@ -173563,7 +174107,7 @@
    ]
   },
   {
-   "id": 3050,
+   "id": 3059,
    "title": "The Dolls Museum in Dublin",
    "altTitles": [],
    "authorship": "single",
@@ -174280,7 +174824,7 @@
    ]
   },
   {
-   "id": 2945,
+   "id": 2954,
    "title": "The Drinking Gourd",
    "altTitles": [],
    "authorship": "single",
@@ -174327,7 +174871,56 @@
    ]
   },
   {
-   "id": 3042,
+   "id": 2947,
+   "title": "The Drowned Children",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Louise Glück"
+   ],
+   "authorIds": [
+    936
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1980",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (short unrhymed lyric)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'The Drowned Children' is the first poem of Descending Figure (New York: Ecco Press, 1980), Glück's third collection, where it opens the section called 'The Garden'. It is a short unrhymed lyric spoken over the bodies of children who have drowned, and it is one of the poems in which the mythic and the domestic first come together in her work.",
+   "summary": "The poem addresses the drowned children directly, describing them as lying in the water, and it holds the scene at a distance rather than dramatising it: the water, the light, the bodies, and a speaker who looks at them without being able to intervene. Its tone is flat and its sentences are short, and the poem refuses the consolations - of memory, of mourning, of meaning - that an elegy would normally offer. The children are not named and their parents are not present; what the poem keeps is the fact of the death and the uselessness of looking at it.",
+   "plot": "The poem is a test case for Glück's early manner. It takes the most sentimental subject in nineteenth-century verse - drowned children - and writes about it with a coldness that is deliberately unbearable, refusing both the Victorian consolation and the modern ironising that would be the easy alternative. The effect is produced by two things: the second person, which addresses the dead as though they could hear, and the flatness of the declarative sentences, which do not rise into grief. The poem belongs with the Persephone material that dominates Descending Figure - the daughter taken down into the underworld, the mother left above - and reading it that way makes its refusal of consolation a mythological argument: the descent is real, and the poem will not pretend that the return cancels it. Its brevity matters. Glück's poems of this period are short because she cuts the connective tissue that would explain the emotion, so that the reader is left with the image and the statement and has to supply the grief, which is the effect she spent her career refining.",
+   "significance": "The poem is the standard introduction to Glück's early manner and one of the poems by which the Descending Figure volume is known; it is a Norton selection. Its presence in the anthology places her 1980 work beside the confessional poetry of the 1960s and the mythic poetry of the 1980s, which is where the criticism usually puts it.",
+   "meter": "Short declarative lines with almost no punctuation; a flat, unemphatic tone; concrete nouns and almost no adjectives of feeling; the second person used as address to the dead; and an absence of simile, so that the poem never converts the bodies into symbols.",
+   "context": "Descending Figure (1980) was Glück's third book, five years after The House on Marshland, and the one in which she began the sequence of biblical and classical narratives that would structure Ararat, The Wild Iris and Meadowlands. It appeared in the year of her marriage to John Dranow, whose name recurs in the later poems, and it is the book in which the family material of her mature work first becomes explicit.",
+   "characters": "",
+   "structure": "A single short lyric in unrhymed free verse, in a series of statements addressed to the dead, with no narrative development and an ending that refuses to close the scene.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Descending Figure",
+    "Louise Glück (Wikipedia) and the Nobel Prize citation",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 3051,
    "title": "The Drowned World",
    "altTitles": [],
    "authorship": "single",
@@ -176124,7 +176717,7 @@
    ]
   },
   {
-   "id": 2949,
+   "id": 2958,
    "title": "The English People",
    "altTitles": [],
    "authorship": "single",
@@ -177260,7 +177853,7 @@
    ]
   },
   {
-   "id": 2976,
+   "id": 2985,
    "title": "The Explosion",
    "altTitles": [],
    "authorship": "single",
@@ -178376,7 +178969,7 @@
    ]
   },
   {
-   "id": 3005,
+   "id": 3014,
    "title": "The Fat Black Woman Goes Shopping",
    "altTitles": [],
    "authorship": "single",
@@ -180283,7 +180876,7 @@
    ]
   },
   {
-   "id": 2954,
+   "id": 2963,
    "title": "The Freedom of the Press",
    "altTitles": [],
    "authorship": "single",
@@ -181892,7 +182485,7 @@
    ]
   },
   {
-   "id": 3052,
+   "id": 3061,
    "title": "The Glass Essay",
    "altTitles": [],
    "authorship": "single",
@@ -181992,7 +182585,7 @@
    ]
   },
   {
-   "id": 3045,
+   "id": 3054,
    "title": "The God of Small Things",
    "altTitles": [],
    "authorship": "single",
@@ -182819,7 +183412,7 @@
    ]
   },
   {
-   "id": 3035,
+   "id": 3044,
    "title": "The Grauballe Man",
    "altTitles": [],
    "authorship": "single",
@@ -187097,7 +187690,7 @@
    ]
   },
   {
-   "id": 2961,
+   "id": 2970,
    "title": "The Housing Lark",
    "altTitles": [],
    "authorship": "single",
@@ -190490,7 +191083,7 @@
    ]
   },
   {
-   "id": 2989,
+   "id": 2998,
    "title": "The Last Quatrain of the Ballad of Emmett Till",
    "altTitles": [],
    "authorship": "single",
@@ -193072,7 +193665,7 @@
    ]
   },
   {
-   "id": 2957,
+   "id": 2966,
    "title": "The Lonely Londoners",
    "altTitles": [],
    "authorship": "single",
@@ -193330,7 +193923,7 @@
    ]
   },
   {
-   "id": 3051,
+   "id": 3060,
    "title": "The Lost Land",
    "altTitles": [],
    "authorship": "single",
@@ -196546,7 +197139,7 @@
    ]
   },
   {
-   "id": 3015,
+   "id": 3024,
    "title": "The Missing",
    "altTitles": [],
    "authorship": "single",
@@ -197181,7 +197774,7 @@
    ]
   },
   {
-   "id": 2942,
+   "id": 2951,
    "title": "The Movement: Documentary of a Struggle for Equality",
    "altTitles": [],
    "authorship": "single",
@@ -202095,7 +202688,7 @@
    ]
   },
   {
-   "id": 2962,
+   "id": 2971,
    "title": "The Plains of Caroni",
    "altTitles": [],
    "authorship": "single",
@@ -204588,7 +205181,7 @@
    ]
   },
   {
-   "id": 3002,
+   "id": 3011,
    "title": "The Prophet's Hair",
    "altTitles": [],
    "authorship": "single",
@@ -209026,7 +209619,7 @@
    ]
   },
   {
-   "id": 3017,
+   "id": 3026,
    "title": "The Schooner Flight",
    "altTitles": [],
    "authorship": "single",
@@ -209381,7 +209974,7 @@
    ]
   },
   {
-   "id": 3018,
+   "id": 3027,
    "title": "The Season of Phantasmal Peace",
    "altTitles": [],
    "authorship": "single",
@@ -210505,7 +211098,7 @@
    ]
   },
   {
-   "id": 2984,
+   "id": 2993,
    "title": "The Shield of Achilles",
    "altTitles": [],
    "authorship": "single",
@@ -210932,7 +211525,7 @@
    ]
   },
   {
-   "id": 2941,
+   "id": 2950,
    "title": "The Sign in Sidney Brustein's Window",
    "altTitles": [],
    "authorship": "single",
@@ -214032,7 +214625,7 @@
    ]
   },
   {
-   "id": 3076,
+   "id": 3085,
    "title": "The Swimmer",
    "altTitles": [],
    "authorship": "single",
@@ -218554,7 +219147,7 @@
    ]
   },
   {
-   "id": 3067,
+   "id": 3076,
    "title": "The Waking",
    "altTitles": [],
    "authorship": "single",
@@ -221057,7 +221650,7 @@
    ]
   },
   {
-   "id": 3099,
+   "id": 3108,
    "title": "The Woman Thing",
    "altTitles": [],
    "authorship": "single",
@@ -222176,7 +222769,7 @@
    ]
   },
   {
-   "id": 3023,
+   "id": 3032,
    "title": "Theology",
    "altTitles": [],
    "authorship": "single",
@@ -222506,7 +223099,7 @@
    ]
   },
   {
-   "id": 2977,
+   "id": 2986,
    "title": "This Be The Verse",
    "altTitles": [
     "This Be the Verse"
@@ -222558,7 +223151,7 @@
    ]
   },
   {
-   "id": 2963,
+   "id": 2972,
    "title": "Those Who Eat the Cascadura",
    "altTitles": [],
    "authorship": "single",
@@ -222609,7 +223202,7 @@
    ]
   },
   {
-   "id": 3077,
+   "id": 3086,
    "title": "Those Winter Sundays",
    "altTitles": [],
    "authorship": "single",
@@ -222658,7 +223251,7 @@
    ]
   },
   {
-   "id": 2994,
+   "id": 3003,
    "title": "Thoughts About the Person from Porlock",
    "altTitles": [],
    "authorship": "single",
@@ -223896,7 +224489,7 @@
    ]
   },
   {
-   "id": 2943,
+   "id": 2952,
    "title": "To Be Young, Gifted and Black",
    "altTitles": [],
    "authorship": "single",
@@ -224124,7 +224717,7 @@
    ]
   },
   {
-   "id": 3008,
+   "id": 3017,
    "title": "To Room Nineteen",
    "altTitles": [],
    "authorship": "single",
@@ -224174,7 +224767,7 @@
    ]
   },
   {
-   "id": 2991,
+   "id": 3000,
    "title": "To the Diaspora",
    "altTitles": [],
    "authorship": "single",
@@ -224454,7 +225047,7 @@
    ]
   },
   {
-   "id": 3033,
+   "id": 3042,
    "title": "Top Girls",
    "altTitles": [],
    "authorship": "single",
@@ -225643,7 +226236,7 @@
    ]
   },
   {
-   "id": 2959,
+   "id": 2968,
    "title": "Turn Again Tiger",
    "altTitles": [],
    "authorship": "single",
@@ -227294,7 +227887,7 @@
    ]
   },
   {
-   "id": 3060,
+   "id": 3069,
    "title": "Valentine",
    "altTitles": [],
    "authorship": "single",
@@ -227978,6 +228571,55 @@
     "The Cambridge Companion to English Literature, 1650–1740",
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century",
     "The Poems of Alexander Pope, Twickenham Edition (11 volumes)"
+   ]
+  },
+  {
+   "id": 2949,
+   "title": "Vespers",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Louise Glück"
+   ],
+   "authorIds": [
+    936
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (evening prayer, unrhymed lyric)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Vespers' is one of the ten evening prayers in The Wild Iris (New York: Ecco Press, 1992), the collection for which Glück won the Pulitzer Prize in 1993; the Norton's selection is the fourth of them, which begins 'I don't wonder where you are anymore'. The book is built on the monastic hours - seven Matins and ten Vespers - and alternates the voices of flowers, a gardener-poet and the divine.",
+   "summary": "The poem begins by saying that the speaker no longer wonders where God is: 'You're in the garden; you're where John is, / in the dirt, abstracted, holding his green trowel.' It describes John's way of gardening - fifteen minutes of intense effort, fifteen minutes of ecstatic contemplation - and the speaker's relation to it: sometimes she works beside him, weeding and thinning the lettuces, and sometimes she watches from the porch near the upper garden until twilight makes lamps of the first lilies. The poem turns in its last lines: peace never leaves John, but it rushes through the speaker not as sustenance the flower holds but 'like bright light through the bare tree'.",
+   "plot": "The poem is a prayer addressed to a God who has been relocated into a gardener, and its theology is worked out through the difference between two people in the same garden. John has peace as a possession; the speaker has it only as a passage, a light that goes through and is not held. The image the poem ends on - bright light through the bare tree - is exactly the difference it has been describing: the bare tree is not fed by the light, it is only lit by it, and the light leaves. The first line's 'anymore' carries the poem's history in a word: the speaker used to look for God and has stopped, and what replaces the search is not faith but accuracy - she knows where God is, and it is with someone else. Glück's handling of the sequence is what makes the poem more than a domestic vignette: because 'Vespers' is the name of a liturgical hour, the poem is formally an evening prayer, and its complaint is delivered inside the form of devotion, which never breaks. The garden, the trowel, the lettuces and the lilies are literal, and they are also the whole apparatus of the book's theology - creation speaking back to its creator - so that a poem about weeding is a poem about the relation between the human and the divine. It is the most anthologised of the Vespers poems and the one by which the collection is usually taught.",
+   "significance": "'Vespers' is the poem by which The Wild Iris is most often represented in anthologies and courses, and the collection is the book on which Glück's Nobel Prize was most often justified. It is a Norton selection and the latest of her three poems in the anthology's period.",
+   "meter": "Plain declarative sentences in the second person, addressed to God; domestic and horticultural vocabulary held without irony; a single long simile at the end that carries the whole emotional weight; no punctuation of emphasis and no rhetorical heightening.",
+   "context": "The Wild Iris was written, by Glück's own account, in about ten weeks in the summer of 1992 and published by Ecco that year; it won the Pulitzer Prize in 1993. Its structure follows the monastic hours, and the sequence's theology is worked out across the flowers' speeches, the gardener's prayers and the divine's replies, in a garden on a property in Vermont.",
+   "characters": "",
+   "structure": "A single unrhymed lyric in the sequence's Vespers form, moving from a statement of God's location through a description of John's gardening to a closing simile that states the speaker's own condition; roughly sixteen short lines.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
+   ],
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Louise Glück (Wikipedia) and the Nobel Prize citation",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Wild Iris"
    ]
   },
   {
@@ -229316,7 +229958,7 @@
    ]
   },
   {
-   "id": 2979,
+   "id": 2988,
    "title": "Waiting for Aunty to Cough",
    "altTitles": [],
    "authorship": "single",
@@ -229365,7 +230007,7 @@
    ]
   },
   {
-   "id": 2982,
+   "id": 2991,
    "title": "Waiting for Godot",
    "altTitles": [
     "En attendant Godot"
@@ -229416,7 +230058,7 @@
    ]
   },
   {
-   "id": 3048,
+   "id": 3057,
    "title": "Waiting for the Barbarians",
    "altTitles": [],
    "authorship": "single",
@@ -229612,7 +230254,7 @@
    ]
   },
   {
-   "id": 3030,
+   "id": 3039,
    "title": "Walker Brothers Cowboy",
    "altTitles": [],
    "authorship": "single",
@@ -229994,7 +230636,7 @@
    ]
   },
   {
-   "id": 3059,
+   "id": 3068,
    "title": "Warming Her Pearls",
    "altTitles": [],
    "authorship": "single",
@@ -230262,7 +230904,7 @@
    ]
   },
   {
-   "id": 2958,
+   "id": 2967,
    "title": "Ways of Sunlight",
    "altTitles": [],
    "authorship": "single",
@@ -230367,7 +231009,7 @@
    ]
   },
   {
-   "id": 2986,
+   "id": 2995,
    "title": "We Real Cool",
    "altTitles": [],
    "authorship": "single",
@@ -230728,7 +231370,7 @@
    ]
   },
   {
-   "id": 3044,
+   "id": 3053,
    "title": "What the Tapster Saw",
    "altTitles": [],
    "authorship": "single",
@@ -230781,7 +231423,7 @@
    ]
   },
   {
-   "id": 2946,
+   "id": 2955,
    "title": "What Use Are Flowers?",
    "altTitles": [],
    "authorship": "single",
@@ -230828,7 +231470,7 @@
    ]
   },
   {
-   "id": 3006,
+   "id": 3015,
    "title": "Wherever I Hang",
    "altTitles": [],
    "authorship": "single",
@@ -231285,7 +231927,7 @@
    ]
   },
   {
-   "id": 3093,
+   "id": 3102,
    "title": "Why I Am Not a Painter",
    "altTitles": [],
    "authorship": "single",
@@ -231774,7 +232416,7 @@
    ]
   },
   {
-   "id": 3020,
+   "id": 3029,
    "title": "Wind",
    "altTitles": [],
    "authorship": "single",
@@ -233827,7 +234469,7 @@
    ]
   },
   {
-   "id": 3091,
+   "id": 3100,
    "title": "Zagrowsky Tells",
    "altTitles": [],
    "authorship": "single",

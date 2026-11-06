@@ -2115,6 +2115,35 @@ and all three are described in `AGENT_HANDOVER.md` §2:
   in-scope selections** (English 94 of 96, American 117 of 169), **52 remaining,
   none undated** - 51 American and one English.
 
+- **Wave 33 (the English anthology's last row, and three American poets).** Kamau
+  Brathwaite's "[On Sycorax Video Style]" is recorded, which leaves the English
+  anthology one selection short of complete for the period - and that one is a
+  different thing from an unrecorded poem, because the NAEL prints the passage as
+  a statement of poetics in its "Born-Digital Literature" cluster rather than as a
+  literary work. Bob Dylan, Simon J. Ortiz and Louise Glück are new authors, with
+  two, three and three works.
+
+  The wave also closed the last two provisional dates in either list. Ortiz's
+  "Earth and Rain, the Plants & Sun" is from *Going for the Rain* (Harper & Row,
+  1976) and "Passing through Little Rock" from *A Good Journey* (Turtle Island
+  Foundation, 1977); both were fixed from the contents of *Woven Stone* (University
+  of Arizona Press, 1992), which reprints the three collections in full and lists
+  the second poem at page 98. **No selection in either anthology now carries an
+  unverified date.**
+
+  The records are honest about their limits. Glück's three poems are the only ones
+  in the wave whose collections were confirmed from a printed contents list, and
+  the Vespers record says plainly that the anthology prints ten poems of that title
+  and that the record identifies its one by first line. Ortiz's *From Sand Creek*
+  was not read in full; its record rests on the published accounts of its three-part
+  structure and its refrains. Dylan's two lyrics were not transcribed from a first
+  pressing, and the identity of the woman in "Like a Rolling Stone" is left
+  unasserted because it has never been established.
+
+  The measured position: **265 works by 94 authors**, **220 recorded against 265
+  in-scope selections** (English 95 of 96, American 125 of 169), **43 remaining,
+  none undated** - 42 American and one English.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2227,4 +2256,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 256 works by 91 authors; 211 works recorded against 265 in-scope selections - English 94 of 96, American 117 of 169; 52 remain, none undated) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 265 works by 94 authors; 220 works recorded against 265 in-scope selections - English 95 of 96, American 125 of 169; 43 remain, none undated) |

@@ -1279,6 +1279,51 @@
    "work": "Literary Asylums",
    "author": "Juan Felipe Herrera",
    "contribution_type": "author"
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "author": "Kamau Brathwaite",
+   "contribution_type": "author"
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "author": "Bob Dylan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "author": "Bob Dylan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "author": "Simon J. Ortiz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Passing through Little Rock",
+   "author": "Simon J. Ortiz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "From Sand Creek",
+   "author": "Simon J. Ortiz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Drowned Children",
+   "author": "Louise Glück",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Descending Figure",
+   "author": "Louise Glück",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vespers",
+   "author": "Louise Glück",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -3229,6 +3274,75 @@
    "genres": [
     "Lyric Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "genres": [
+    "Literary Manifesto",
+    "Prose Poetry",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Passing through Little Rock",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "From Sand Creek",
+   "genres": [
+    "Elegiac Poetry",
+    "Political Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "The Drowned Children",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Descending Figure",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Vespers",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
    ]
   }
  ],
@@ -5270,6 +5384,79 @@
     "Class, labour and social mobility",
     "Language, writing and the limits of representation"
    ]
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Art, the artist and the creative life",
+    "Decolonisation, the end of empire and the new nation"
+   ]
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "themes": [
+    "Class, labour and social mobility",
+    "Alienation, absurdity and existential freedom",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "themes": [
+    "Land, place and regional belonging",
+    "Nature, ecology and environmental crisis",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Passing through Little Rock",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "From Sand Creek",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Violence, crime and justice",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "The Drowned Children",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Descending Figure",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Vespers",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Family, marriage and domestic life"
+   ]
   }
  ],
  "work_movements": [
@@ -6670,6 +6857,61 @@
     "Chicano Movement Literature",
     "Postcolonial Literature"
    ]
+  },
+  {
+   "work": "[On Sycorax Video Style]",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "It's Alright, Ma (I'm Only Bleeding)",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "Like a Rolling Stone",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "Earth and Rain, the Plants & Sun",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Passing through Little Rock",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "From Sand Creek",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Drowned Children",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Descending Figure",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Vespers",
+   "movements": [
+    "Confessional Poetry"
+   ]
   }
  ],
  "work_periods": [
@@ -6931,7 +7173,16 @@
     "Jamaica Language",
     "The Tyre",
     "Exiles",
-    "Literary Asylums"
+    "Literary Asylums",
+    "[On Sycorax Video Style]",
+    "It's Alright, Ma (I'm Only Bleeding)",
+    "Like a Rolling Stone",
+    "Earth and Rain, the Plants & Sun",
+    "Passing through Little Rock",
+    "From Sand Creek",
+    "The Drowned Children",
+    "Descending Figure",
+    "Vespers"
    ]
   }
  ]
