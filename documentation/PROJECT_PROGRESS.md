@@ -1917,6 +1917,17 @@ with broader Anglophone writing out of scope.
   works and three authors, all partially verified, with twelve new sources.
   133 of the 255 selections now have records; 117 American selections remain.
 
+- **Wave 25:** John Barth ("Lost in the Funhouse", *The Atlantic Monthly*,
+  November 1967; collection 1968), Joan Didion ("The White Album", *New West*,
+  1979), James Baldwin ("Sonny's Blues", *Partisan Review*, Summer 1957;
+  "Going to Meet the Man", *Status*, October 1965; "Letter to My Nephew",
+  *The Progressive*, December 1962), Flannery O'Connor ("Good Country People",
+  *Harper's Bazaar*, June 1955; "A Good Man Is Hard to Find", *Modern Writing I*,
+  1953; "Everything That Rises Must Converge", *New World Writing*, October 1961)
+  and Allen Ginsberg ("Howl", City Lights, 1956). Nine works and five authors,
+  all partially verified, with fourteen new sources. 148 of the 255 selections
+  now have records; 108 American selections remain.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2024,4 +2035,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 183 works by 55 authors; 133 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 192 works by 60 authors; 148 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |

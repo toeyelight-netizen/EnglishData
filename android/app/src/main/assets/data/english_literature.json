@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 902,
-  "works": 3027
+  "authors": 907,
+  "works": 3036
  },
  "periods": [
   {
@@ -843,7 +843,9 @@
   "A Common Heritage: Noah Webster's Blue-Back Speller",
   "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
   "A Dark Green Counterculture in Ted Hughes's Crow (independent thesis, DiVA)",
+  "A Good Man Is Hard to Find (Wikipedia)",
   "A Guide to Old English, 8th edition",
+  "A Letter to My Nephew (The Progressive, via course reading)",
   "A Narrative of the Life and Adventures of Venture, a Native of Africa: But Resident above Sixty Years in the United States of America. Related by Himself",
   "A New England Nun and Other Stories",
   "A New View of Society and Other Writings (Penguin Classics)",
@@ -946,11 +948,13 @@
   "Esther Waters, first book edition",
   "Evening Standard Theatre Award for Best Play (Wikipedia)",
   "Evergreen Review, index 1957-1967",
+  "Everything That Rises Must Converge (Wikipedia)",
   "Fairy Legends and Traditions of the South of Ireland, with a Short Memoir of the Author by His Son",
   "Felicia Hemans: Selected Poems, Letters, Reception Materials",
   "Felicia Hemans: Selected Poems, Prose and Letters",
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
   "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
+  "Flannery O'Connor (Wikipedia)",
   "For Esmé—with Love and Squalor (Wikipedia)",
   "For the Union Dead (Wikipedia)",
   "Frank O'Hara (Poetry Foundation)",
@@ -964,6 +968,9 @@
   "George Orwell bibliography (Wikipedia)",
   "George Orwell published: list of works (orwell.ru)",
   "Giles Foden, For me, Meeting the British blew away the very idea of certainty (The Guardian)",
+  "Going to Meet the Man (Wikipedia)",
+  "Going to Meet the Man, short story (Wikipedia)",
+  "Good Country People (Wikipedia)",
   "Governor General's Award for English-language fiction (Wikipedia)",
   "Grace Nichols (Wikipedia)",
   "Grace Nichols, 'Epilogue', 'The Fat Black Woman Goes Shopping', 'Wherever I Hang' (readingnorton.wordpress.com)",
@@ -985,6 +992,7 @@
   "Highway in the Sun (Peepal Tree Press)",
   "Hobomok: A Tale of Early Times (Broadview Edition)",
   "Hope Leslie: Or, Early Times in the Massachusetts (American Women Writers series)",
+  "Howl (poem) (Wikipedia)",
   "Imaginary Homelands (Wikipedia)",
   "In Praise of Limestone (Wikipedia)",
   "In the Mecca: Poems (University of Pennsylvania Libraries, Franklin catalogue)",
@@ -997,11 +1005,14 @@
   "Jack Kerouac (Wikipedia)",
   "Jack London: Novels and Social Writings (Library of America, vol. 7)",
   "Jack Sheppard (Broadview Editions)",
+  "James Baldwin (Wikipedia)",
+  "James Baldwin bibliography (baldwinbibliography.com)",
   "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
   "James Kirke Paulding: The Last Republican",
   "James Nelson Barker, 1784-1858; With a Reprint of His Comedy \"Tears and Smiles\"",
   "Joanna Baillie: A Selection of Poems and Plays",
   "Joel Barlow's Columbiad: A Bicentennial Reading",
+  "John Barth (Wikipedia)",
   "John Cheever (Wikipedia)",
   "John Keats: The Complete Poems (Penguin Classics)",
   "Jonathan Swift: Critical, Scholastic, and Variorum Edition",
@@ -1037,6 +1048,7 @@
   "Lorraine Hansberry (Encyclopaedia Britannica)",
   "Lorraine Hansberry (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
   "Lorraine Hansberry Biography (Chicago Public Library)",
+  "Lost in the Funhouse (Wikipedia)",
   "Louise Bennett and the Mento Tradition (Eric Doumerc, via CORE)",
   "Louise Bennett-Coverley (Wikipedia)",
   "Lunch Poems (Wikipedia)",
@@ -1156,6 +1168,7 @@
   "Slaughterhouse-Five (Wikipedia)",
   "Sleep It Off Lady (Wikipedia)",
   "Sleep It Off Lady: Stories (Trove, National Library of Australia)",
+  "Sonny's Blues (Wikipedia)",
   "Sources and Style in Moore's Irish Melodies",
   "Stedman's Surinam: Life in an Eighteenth-Century Slave Society. An Abridged, Modernized Edition of Narrative of a Five Years Expedition against the Revolted Negroes of Surinam",
   "Stevie Smith (Wikipedia)",
@@ -1371,6 +1384,7 @@
   "The Walt Whitman Archive",
   "The Waste Land: A Facsimile and Transcript of the Original Drafts",
   "The Way We Live Now (Oxford World's Classics, 2nd edn)",
+  "The White Album (Wikipedia)",
   "The Whitsun Weddings (Wikipedia)",
   "The Whole Disgraceful Truth: Selected Letters of Lady Caroline Lamb",
   "The William Blake Archive",
@@ -1610,11 +1624,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2937,
+     "id": 2946,
      "title": "Elements of Composition"
     },
     {
-     "id": 2936,
+     "id": 2945,
      "title": "Self-Portrait"
     }
    ],
@@ -3045,7 +3059,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2957,
+     "id": 2966,
      "title": "Walker Brothers Cowboy"
     }
    ],
@@ -3100,6 +3114,46 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 905,
+   "name": "Allen Ginsberg",
+   "altNames": [],
+   "dates": "1926 – 1997",
+   "birthplace": "Newark, New Jersey, United States",
+   "nationality": "American; poet, essayist and activist writing in English",
+   "identity": "American poet of the Beat Generation whose long breath-lines and candour about sexuality, madness and empire made 'Howl' the founding poem of the postwar American counterculture",
+   "biography": "Irwin Allen Ginsberg was born in Newark, New Jersey, on 3 June 1926, the son of Louis Ginsberg, a poet and high-school teacher, and Naomi Levy Ginsberg, whose mental illness and early death marked his life and his work. He entered Columbia University in 1943, met Jack Kerouac, William Burroughs and Neal Cassady there, was suspended and later arrested in connection with a stolen car, spent eight months in a psychiatric institute in 1949 at his own request, and moved to San Francisco in 1954, where he read 'Howl' at the Six Gallery in October 1955 and saw it published by City Lights in 1956. Howl and Other Poems was the subject of an obscenity trial in 1957, which it won; Kaddish and Other Poems (1961), Reality Sandwiches (1963), Planet News (1968), The Fall of America (1972, National Book Award), Mind Breaths (1977), Plutonian Ode (1982), White Shroud (1986) and Cosmopolitan Greetings (1994) followed, with the essays of Deliberate Prose and the photographs and songs. He was a public figure of the anti-war and gay liberation movements, studied with Buddhist teachers from the 1970s, and died in New York on 5 April 1997.",
+   "profile": "Poetry: Howl and Other Poems (1956), Kaddish and Other Poems (1961), Reality Sandwiches (1963), Planet News (1968), The Fall of America (1972), Mind Breaths (1977), Plutonian Ode (1982), White Shroud (1986), Cosmopolitan Greetings (1994) and Death and Fame (1999), with Collected Poems 1947-1997 (2006). Prose: Deliberate Prose: Selected Essays (2000), Journals: Mid-Fifties (1995) and the letters with Kerouac and Cassady.",
+   "style": "The long breath-line: a line measured by the length of a single exhalation rather than by the foot, with parataxis in place of subordinate clauses; catalogues of people and things; a diction that mixes the prophetic, the obscene and the documentary; repetition and incantation derived from Hebrew liturgy and from jazz.",
+   "concerns": "Madness, confinement and the destruction of the gifted by American society; sexuality and the closet; war, empire and the military-industrial state; the sacred in the ordinary and in the body; friendship and the Beat community; Buddhism, chant and the discipline of attention; testimony, and the poet as witness.",
+   "significance": "Ginsberg is the most public poet of the American postwar avant-garde and 'Howl' the poem through which the Beat Generation is defined; the 1957 obscenity trial became a landmark of American free expression, the poem is a standard anthology and course text, and Ginsberg's readings, recordings and activism made him one of the best-known poets of the century.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ],
+   "movements": [
+    "The Beat Generation"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2876,
+     "title": "Howl"
+    }
+   ],
+   "sources": [
+    "Howl (poem) (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -3961,7 +4015,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2979,
+     "id": 2988,
      "title": "The Glass Essay"
     }
    ],
@@ -5018,7 +5072,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3007,
+     "id": 3016,
      "title": "Death of a Salesman"
     }
    ],
@@ -5322,7 +5376,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2972,
+     "id": 2981,
      "title": "The God of Small Things"
     }
    ],
@@ -5408,11 +5462,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3027,
+     "id": 3036,
      "title": "Black Mother Woman"
     },
     {
-     "id": 3025,
+     "id": 3034,
      "title": "Coal"
     },
     {
@@ -5420,7 +5474,7 @@
      "title": "The Master's Tools Will Never Dismantle the Master's House"
     },
     {
-     "id": 3026,
+     "id": 3035,
      "title": "The Woman Thing"
     },
     {
@@ -5863,7 +5917,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2971,
+     "id": 2980,
      "title": "What the Tapster Saw"
     }
    ],
@@ -6075,7 +6129,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2970,
+     "id": 2979,
      "title": "Looking for a Rain God"
     }
    ],
@@ -6272,7 +6326,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2984,
+     "id": 2993,
      "title": "First Screening"
     }
    ],
@@ -6744,19 +6798,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2988,
+     "id": 2997,
      "title": "Medusa"
     },
     {
-     "id": 2989,
+     "id": 2998,
      "title": "Mrs Lazarus"
     },
     {
-     "id": 2987,
+     "id": 2996,
      "title": "Valentine"
     },
     {
-     "id": 2986,
+     "id": 2995,
      "title": "Warming Her Pearls"
     }
    ],
@@ -6916,7 +6970,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2960,
+     "id": 2969,
      "title": "Top Girls"
     }
    ],
@@ -8570,7 +8624,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2953,
+     "id": 2962,
      "title": "Civil Peace"
     }
    ],
@@ -10284,19 +10338,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2943,
+     "id": 2952,
      "title": "A Far Cry from Africa"
     },
     {
-     "id": 2946,
+     "id": 2955,
      "title": "Omeros"
     },
     {
-     "id": 2944,
+     "id": 2953,
      "title": "The Schooner Flight"
     },
     {
-     "id": 2945,
+     "id": 2954,
      "title": "The Season of Phantasmal Peace"
     }
    ],
@@ -10526,7 +10580,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2935,
+     "id": 2944,
      "title": "To Room Nineteen"
     }
    ],
@@ -10938,7 +10992,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2922,
+     "id": 2931,
      "title": "Do Not Go Gentle into That Good Night"
     }
    ],
@@ -11338,15 +11392,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2976,
+     "id": 2985,
      "title": "Fond Memory"
     },
     {
-     "id": 2977,
+     "id": 2986,
      "title": "The Dolls Museum in Dublin"
     },
     {
-     "id": 2978,
+     "id": 2987,
      "title": "The Lost Land"
     }
    ],
@@ -13235,23 +13289,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2997,
+     "id": 3006,
      "title": "At the Fishhouses"
     },
     {
-     "id": 3000,
+     "id": 3009,
      "title": "In the Waiting Room"
     },
     {
-     "id": 3001,
+     "id": 3010,
      "title": "One Art"
     },
     {
-     "id": 2998,
+     "id": 3007,
      "title": "Questions of Travel"
     },
     {
-     "id": 2999,
+     "id": 3008,
      "title": "The Armadillo"
     }
    ],
@@ -15465,6 +15519,62 @@
    ]
   },
   {
+   "id": 904,
+   "name": "Flannery O'Connor",
+   "altNames": [],
+   "dates": "1925 – 1964",
+   "birthplace": "Savannah, Georgia, United States",
+   "nationality": "American; short-story writer and novelist writing in English",
+   "identity": "American short-story writer of the Georgia backcountry, a Roman Catholic whose comic and violent stories of the action of grace - 'A Good Man Is Hard to Find', 'Good Country People' - are among the most admired in the language",
+   "biography": "Mary Flannery O'Connor was born in Savannah, Georgia, on 25 March 1925, the only child of Edward Francis O'Connor and Regina Cline; the family moved to Milledgeville in 1940, her father died of lupus in 1941, and she took her degree at Georgia State College for Women in 1945 and studied at the Iowa Writers' Workshop, where she took her MFA in 1947. She wrote Wise Blood (1952) and The Violent Bear It Away (1960), the stories of A Good Man Is Hard to Find and Other Stories (1955) and Everything That Rises Must Converge (1965, posthumous), the essays and lectures of Mystery and Manners (1969) and the letters of The Habit of Being (1979). In 1950 she was diagnosed with disseminated lupus, the disease that had killed her father, and lived for the rest of her life at her mother's farm at Andalusia, near Milledgeville, raising peacocks and writing in the mornings; she died on 3 August 1964, at 39, and The Complete Stories won the National Book Award in 1972.",
+   "profile": "Novels: Wise Blood (1952) and The Violent Bear It Away (1960). Stories: A Good Man Is Hard to Find and Other Stories (1955), Everything That Rises Must Converge (1965) and The Complete Stories (1971). Non-fiction: Mystery and Manners: Occasional Prose (1969) and The Habit of Being: Letters (1979), with the early stories in The Geranium: A Collection of Short Stories (1975).",
+   "style": "A comic, exact and mercilessly flat style in which grotesque events are reported without comment; dialogue that reproduces the idiom of the rural South with great precision; a habit of ending a story with a single turn that reverses everything before it; violent imagery used as the instrument of revelation rather than of sensation.",
+   "concerns": "Grace and the resistance to it, in explicitly Catholic terms; sin, redemption and judgement; the grotesque body and the disabled body; race and the American South in the years of desegregation; mothers and daughters, and the family as a field of violence; the pretensions of the educated and the secular.",
+   "significance": "O'Connor is one of the great American short-story writers of the century and the central figure of the Southern Gothic after Faulkner; her stories are standard anthology texts, The Complete Stories won the National Book Award, and her essays on the writing of fiction, collected in Mystery and Manners, are among the most cited by American writers on craft.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Gothic Fiction",
+    "Realist Fiction",
+    "Satirical Fiction",
+    "Short Story",
+    "Social Criticism"
+   ],
+   "movements": [
+    "Southern Gothic"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2874,
+     "title": "A Good Man Is Hard to Find"
+    },
+    {
+     "id": 2875,
+     "title": "Everything That Rises Must Converge"
+    },
+    {
+     "id": 2873,
+     "title": "Good Country People"
+    }
+   ],
+   "sources": [
+    "A Good Man Is Hard to Find (Wikipedia)",
+    "Everything That Rises Must Converge (Wikipedia)",
+    "Flannery O'Connor (Wikipedia)",
+    "Good Country People (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 815,
    "name": "Ford Madox Ford",
    "altNames": [
@@ -16320,27 +16430,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3021,
+     "id": 3030,
      "title": "A Step Away from Them"
     },
     {
-     "id": 3023,
+     "id": 3032,
      "title": "Having a Coke with You"
     },
     {
-     "id": 3024,
+     "id": 3033,
      "title": "In Memory of My Feelings"
     },
     {
-     "id": 3019,
+     "id": 3028,
      "title": "Personism: A Manifesto"
     },
     {
-     "id": 3022,
+     "id": 3031,
      "title": "The Day Lady Died"
     },
     {
-     "id": 3020,
+     "id": 3029,
      "title": "Why I Am Not a Painter"
     }
    ],
@@ -16860,15 +16970,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2954,
+     "id": 2963,
      "title": "In Memory of Jane Fraser"
     },
     {
-     "id": 2955,
+     "id": 2964,
      "title": "Requiem for the Plantagenet Kings"
     },
     {
-     "id": 2956,
+     "id": 2965,
      "title": "September Song"
     }
    ],
@@ -18300,7 +18410,7 @@
      "title": "Coming Up for Air"
     },
     {
-     "id": 2874,
+     "id": 2883,
      "title": "Critical Essays"
     },
     {
@@ -18316,7 +18426,7 @@
      "title": "Inside the Whale and Other Essays"
     },
     {
-     "id": 2875,
+     "id": 2884,
      "title": "James Burnham and the Managerial Revolution"
     },
     {
@@ -18324,31 +18434,31 @@
      "title": "Keep the Aspidistra Flying"
     },
     {
-     "id": 2877,
+     "id": 2886,
      "title": "Nineteen Eighty-Four"
     },
     {
-     "id": 2905,
+     "id": 2914,
      "title": "Politics and the English Language"
     },
     {
-     "id": 2878,
+     "id": 2887,
      "title": "Shooting an Elephant and Other Essays"
     },
     {
-     "id": 2879,
+     "id": 2888,
      "title": "Such, Such Were the Joys"
     },
     {
-     "id": 2880,
+     "id": 2889,
      "title": "The Collected Essays, Journalism and Letters of George Orwell"
     },
     {
-     "id": 2876,
+     "id": 2885,
      "title": "The English People"
     },
     {
-     "id": 2881,
+     "id": 2890,
      "title": "The Freedom of the Press"
     },
     {
@@ -19293,15 +19403,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2931,
+     "id": 2940,
      "title": "Epilogue"
     },
     {
-     "id": 2932,
+     "id": 2941,
      "title": "The Fat Black Woman Goes Shopping"
     },
     {
-     "id": 2933,
+     "id": 2942,
      "title": "Wherever I Hang"
     }
    ],
@@ -19346,11 +19456,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3017,
+     "id": 3026,
      "title": "A Conversation with My Father"
     },
     {
-     "id": 3018,
+     "id": 3027,
      "title": "Zagrowsky Tells"
     }
    ],
@@ -19542,7 +19652,7 @@
    ],
    "works": [
     {
-     "id": 2915,
+     "id": 2924,
      "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon"
     },
     {
@@ -19550,27 +19660,27 @@
      "title": "A Street in Bronzeville"
     },
     {
-     "id": 2914,
+     "id": 2923,
      "title": "The Bean Eaters"
     },
     {
-     "id": 2917,
+     "id": 2926,
      "title": "The Blackstone Rangers"
     },
     {
-     "id": 2912,
+     "id": 2921,
      "title": "The Children of the Poor"
     },
     {
-     "id": 2916,
+     "id": 2925,
      "title": "The Last Quatrain of the Ballad of Emmett Till"
     },
     {
-     "id": 2918,
+     "id": 2927,
      "title": "To the Diaspora"
     },
     {
-     "id": 2913,
+     "id": 2922,
      "title": "We Real Cool"
     }
    ],
@@ -20018,7 +20128,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2985,
+     "id": 2994,
      "title": "My Son the Fanatic"
     }
    ],
@@ -23426,7 +23536,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3013,
+     "id": 3022,
      "title": "For Esmé—with Love and Squalor"
     }
    ],
@@ -23468,7 +23578,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2969,
+     "id": 2978,
      "title": "The Drowned World"
     }
    ],
@@ -23581,7 +23691,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2975,
+     "id": 2984,
      "title": "Waiting for the Barbarians"
     }
    ],
@@ -23814,7 +23924,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3014,
+     "id": 3023,
      "title": "On the Road"
     }
    ],
@@ -23904,6 +24014,66 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 903,
+   "name": "James Baldwin",
+   "altNames": [],
+   "dates": "1924 – 1987",
+   "birthplace": "New York City, New York, United States",
+   "nationality": "American; novelist, essayist, playwright and short-story writer writing in English",
+   "identity": "American writer and civil rights orator whose novels and essays on race, sexuality and the church - Go Tell It on the Mountain, Notes of a Native Son, The Fire Next Time - made him the conscience of American prose in the 1950s and 1960s",
+   "biography": "James Arthur Jones was born in Harlem Hospital, New York, on 2 August 1924, the son of Emma Berdis Jones; in 1927 his mother married David Baldwin, a Baptist preacher from Louisiana, whose name he took and against whose religion he defined himself. He was a preacher himself as a teenager at the Fireside Pentecostal Church, left home in 1943, worked in New Jersey and New York, and in 1948 left the United States for Paris with forty dollars and a manuscript, where he wrote Go Tell It on the Mountain (1953) and the essays of Notes of a Native Son (1955); Giovanni's Room (1956) was a novel about white gay expatriates, and Nobody Knows My Name (1961), Another Country (1962), The Fire Next Time (1963), Blues for Mister Charlie (1964, a play), Going to Meet the Man (1965), Tell Me How Long the Train's Been Gone (1968), No Name in the Street (1972), If Beale Street Could Talk (1974) and Just Above My Head (1979) followed. He was a public speaker for the civil rights movement, debated William F. Buckley at Cambridge in 1965, lived for years at Saint-Paul-de-Vence in the south of France, and died there on 1 December 1987.",
+   "profile": "Novels: Go Tell It on the Mountain (1953), Giovanni's Room (1956), Another Country (1962), Tell Me How Long the Train's Been Gone (1968), If Beale Street Could Talk (1974) and Just Above My Head (1979), with the unfinished Remember This House. Essays: Notes of a Native Son (1955), Nobody Knows My Name (1961), The Fire Next Time (1963), No Name in the Street (1972), The Devil Finds Work (1976) and The Price of the Ticket (1985). Stories: Going to Meet the Man (1965). Plays: The Amen Corner (1954) and Blues for Mister Charlie (1964).",
+   "style": "Long, cadenced sentences that move from the colloquial to the biblical within a paragraph; the preacher's rhetoric - direct address, repetition, antithesis - turned to secular argument; an essayistic first person that makes the writer's own history the evidence; dialogue that catches the music and the evasions of Harlem and of the South.",
+   "concerns": "Race, racism and the struggle for civil rights; the Black church, sin and salvation; sexuality, desire and the closet; family, fathers and sons; exile, Paris and the American abroad; the uses of history and the refusal of American innocence; suffering and the possibility of love.",
+   "significance": "Baldwin is the central American essayist of the civil rights era and one of the most quoted American writers of the century; his novels made Black Harlem and gay experience the matter of literary fiction, his essays are standard texts in American literature, history and law, and the 2016 film I Am Not Your Negro renewed his public presence a generation after his death.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Autobiographical Novel",
+    "Gothic Fiction",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay",
+    "Political Essay",
+    "Realist Fiction",
+    "Short Story"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Southern Gothic"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "Violence, crime and justice"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2871,
+     "title": "Going to Meet the Man"
+    },
+    {
+     "id": 2872,
+     "title": "Letter to My Nephew"
+    },
+    {
+     "id": 2870,
+     "title": "Sonny's Blues"
+    }
+   ],
+   "sources": [
+    "A Letter to My Nephew (The Progressive, via course reading)",
+    "Going to Meet the Man (Wikipedia)",
+    "James Baldwin (Wikipedia)",
+    "James Baldwin bibliography (baldwinbibliography.com)",
+    "Sonny's Blues (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -25547,7 +25717,7 @@
      "title": "Good Morning, Midnight"
     },
     {
-     "id": 2908,
+     "id": 2917,
      "title": "On Not Shooting Sitting Birds"
     },
     {
@@ -25555,7 +25725,7 @@
      "title": "Quartet"
     },
     {
-     "id": 2907,
+     "id": 2916,
      "title": "The Day They Burned the Books"
     },
     {
@@ -25903,6 +26073,46 @@
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 907,
+   "name": "Joan Didion",
+   "altNames": [],
+   "dates": "1934 – 2021",
+   "birthplace": "Sacramento, California, United States",
+   "nationality": "American; essayist, novelist and screenwriter writing in English",
+   "identity": "American essayist and novelist whose cool, fragmentary reports on California and on American politics - Slouching Towards Bethlehem, The White Album - made her the most imitated prose stylist of American non-fiction",
+   "biography": "Joan Didion was born in Sacramento, California, on 5 December 1934, into a family of California pioneers; she took her degree in English at the University of California, Berkeley, in 1956, won a Prize from Vogue for an essay and worked at the magazine in New York for eight years, and married the writer John Gregory Dunne in 1964, with whom she wrote screenplays and adopted a daughter, Quintana. Run River (1963) was her first novel; Slouching Towards Bethlehem (1968) made her reputation as an essayist, and Play It As It Lays (1970), A Book of Common Prayer (1977), Democracy (1984) and The Last Thing He Wanted (1996) are the later novels. The White Album (1979) collected the essays of the 1970s, followed by Salvador (1983), Miami (1987), After Henry (1992), Political Fictions (2001) and Where I Was From (2003); The Year of Magical Thinking (2005), written after Dunne's death in 2003, won the National Book Award, and Blue Nights (2011) followed the death of her daughter. She died in New York on 23 December 2021.",
+   "profile": "Non-fiction: Slouching Towards Bethlehem (1968), The White Album (1979), Salvador (1983), Miami (1987), After Henry (1992), Political Fictions (2001), Where I Was From (2003), The Year of Magical Thinking (2005), We Tell Ourselves Stories in Order to Live (2006) and Blue Nights (2011). Novels: Run River (1963), Play It As It Lays (1970), A Book of Common Prayer (1977), Democracy (1984) and The Last Thing He Wanted (1996). Screenplays, with John Gregory Dunne, include Panic in Needle Park (1971) and A Star Is Born (1976).",
+   "style": "Short declarative sentences and a deliberately flat rhythm; the repeated phrase and the returning motif as structure; juxtaposition of reportage and private recollection without transition; quotation of documents, testimony and song lyrics; a first person that is present but withheld, and an irony that never quite becomes judgement.",
+   "concerns": "California as a place and a state of mind; the 1960s and their aftermath, above all in Los Angeles; narrative itself and the stories people tell to survive; women's lives and the pressure of feminine roles; politics, media and the manipulation of images; grief, illness and memory.",
+   "significance": "Didion is the most influential American essayist of the last half-century and the model for the personal, reportorial non-fiction that followed her; The White Album was named by Publishers Weekly among the ten most important essays since 1950, The Year of Magical Thinking won the National Book Award, and her sentences are among the most quoted in modern American prose.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Cultural Criticism",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2869,
+     "title": "The White Album"
+    }
+   ],
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The White Album (Wikipedia)"
    ]
   },
   {
@@ -26406,6 +26616,47 @@
    ]
   },
   {
+   "id": 906,
+   "name": "John Barth",
+   "altNames": [],
+   "dates": "1930 – 2024",
+   "birthplace": "Cambridge, Maryland, United States",
+   "nationality": "American; novelist and short-story writer writing in English",
+   "identity": "American novelist and theorist of the exhausted mode, the most programmatic of the American postmodernists, whose Lost in the Funhouse (1968) turned the short story into an essay on its own making",
+   "biography": "John Simmons Barth was born in Cambridge, Maryland, on 27 May 1930, the son of a candy-store owner; he studied briefly at the Juilliard School, took his BA and MA at Johns Hopkins University, and taught at Pennsylvania State University from 1953 to 1965 and then at the State University of New York at Buffalo, before returning to Johns Hopkins in 1973 as Alumni Centennial Professor, retiring in 1995. The Floating Opera (1956) and The End of the Road (1958) are realist novels, The Sot-Weed Factor (1960) and Giles Goat-Boy (1966) mock-epic ones; Lost in the Funhouse (1968) followed his essay 'The Literature of Exhaustion' (1967) and made him the leading theorist of American metafiction, and Chimera (1972) won the National Book Award in 1973. LETTERS (1979), Sabbatical (1982), The Tidewater Tales (1987), The Last Voyage of Somebody the Sailor (1991), Once Upon a Time (1994) and Coming Soon!!! (2001) followed, with the non-fiction of The Friday Book (1984) and Further Fridays (1995). He died at Bonita Springs, Florida, on 2 April 2024.",
+   "profile": "Novels: The Floating Opera (1956), The End of the Road (1958), The Sot-Weed Factor (1960), Giles Goat-Boy (1966), Chimera (1972), LETTERS (1979), Sabbatical (1982), The Tidewater Tales (1987), The Last Voyage of Somebody the Sailor (1991), Once Upon a Time (1994), Coming Soon!!! (2001) and Every Third Thought (2015). Stories: Lost in the Funhouse (1968), On with the Story (1996) and The Development (2008). Non-fiction: The Friday Book (1984) and Further Fridays (1995).",
+   "style": "Stories that interrupt themselves to discuss their own construction, with footnotes, diagrams, blank pages and alternative endings; pastiche of earlier genres from the eighteenth-century novel to the detective story; a prose of great rhetorical energy and comic pedantry; the repeated figure of the author as a character in his own text.",
+   "concerns": "The exhaustion of literary forms and the possibility of writing after them; storytelling as a subject in itself; myth, epic and the oldest stories reused; identity as performance and as quotation; the artist's career and the relation of a writer to his own earlier books; the comic and the cosmic.",
+   "significance": "Barth is the figure through which American postmodernism and metafiction are usually taught, and 'The Literature of Exhaustion' is one of the most cited critical essays of the postwar decades; Lost in the Funhouse is a standard text in courses on the American short story and on experimental fiction, and his influence on the writers who followed him - from Barth's own students to the metafiction of the 1970s and 1980s - is widely acknowledged.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Experimental Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Language, writing and the limits of representation"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2868,
+     "title": "Lost in the Funhouse"
+    }
+   ],
+   "sources": [
+    "John Barth (Wikipedia)",
+    "Lost in the Funhouse (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 659,
    "name": "John Boynton Priestley",
    "altNames": [
@@ -26742,7 +26993,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3003,
+     "id": 3012,
      "title": "The Swimmer"
     }
    ],
@@ -31455,15 +31706,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2925,
+     "id": 2934,
      "title": "Calypso"
     },
     {
-     "id": 2924,
+     "id": 2933,
      "title": "History of the Voice"
     },
     {
-     "id": 2926,
+     "id": 2935,
      "title": "Letter SycoraX"
     }
    ],
@@ -31871,7 +32122,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2990,
+     "id": 2999,
      "title": "Hullabaloo in the Guava Orchard"
     }
    ],
@@ -31920,11 +32171,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3015,
+     "id": 3024,
      "title": "Harrison Bergeron"
     },
     {
-     "id": 3016,
+     "id": 3025,
      "title": "Slaughterhouse-Five"
     }
    ],
@@ -32586,11 +32837,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2968,
+     "id": 2977,
      "title": "Corniche"
     },
     {
-     "id": 2967,
+     "id": 2976,
      "title": "Morse"
     }
    ],
@@ -32893,7 +33144,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2934,
+     "id": 2943,
      "title": "Inglan Is a Bitch"
     }
    ],
@@ -33037,27 +33288,27 @@
      "title": "A Raisin in the Sun"
     },
     {
-     "id": 2871,
+     "id": 2880,
      "title": "Les Blancs"
     },
     {
-     "id": 2872,
+     "id": 2881,
      "title": "The Drinking Gourd"
     },
     {
-     "id": 2869,
+     "id": 2878,
      "title": "The Movement: Documentary of a Struggle for Equality"
     },
     {
-     "id": 2868,
+     "id": 2877,
      "title": "The Sign in Sidney Brustein's Window"
     },
     {
-     "id": 2870,
+     "id": 2879,
      "title": "To Be Young, Gifted and Black"
     },
     {
-     "id": 2873,
+     "id": 2882,
      "title": "What Use Are Flowers?"
     }
    ],
@@ -33244,7 +33495,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2923,
+     "id": 2932,
      "title": "Colonization in Reverse"
     }
    ],
@@ -33590,7 +33841,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2928,
+     "id": 2937,
      "title": "Discourse on the Logic of Language"
     }
    ],
@@ -33807,11 +34058,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2973,
+     "id": 2982,
      "title": "Death by Landscape"
     },
     {
-     "id": 2974,
+     "id": 2983,
      "title": "Miss July Grows Older"
     }
    ],
@@ -37412,7 +37663,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2927,
+     "id": 2936,
      "title": "Decolonising the Mind"
     }
    ],
@@ -38920,19 +39171,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2982,
+     "id": 2991,
      "title": "7, Middagh Street"
     },
     {
-     "id": 2980,
+     "id": 2989,
      "title": "Anseo"
     },
     {
-     "id": 2981,
+     "id": 2990,
      "title": "Meeting the British"
     },
     {
-     "id": 2983,
+     "id": 2992,
      "title": "Milkweed and Monarch"
     }
    ],
@@ -39209,7 +39460,7 @@
      "title": "Aubade"
     },
     {
-     "id": 2896,
+     "id": 2905,
      "title": "Church Going"
     },
     {
@@ -39217,7 +39468,7 @@
      "title": "Collected Poems"
     },
     {
-     "id": 2900,
+     "id": 2909,
      "title": "Going, Going"
     },
     {
@@ -39225,11 +39476,11 @@
      "title": "High Windows"
     },
     {
-     "id": 2899,
+     "id": 2908,
      "title": "High Windows (poem)"
     },
     {
-     "id": 2902,
+     "id": 2911,
      "title": "Homage to a Government"
     },
     {
@@ -39237,7 +39488,7 @@
      "title": "Jill"
     },
     {
-     "id": 2897,
+     "id": 2906,
      "title": "MCMXIV"
     },
     {
@@ -39245,7 +39496,7 @@
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
-     "id": 2901,
+     "id": 2910,
      "title": "Sad Steps"
     },
     {
@@ -39253,11 +39504,11 @@
      "title": "Selected Letters of Philip Larkin, 1940-1985"
     },
     {
-     "id": 2898,
+     "id": 2907,
      "title": "Talking in Bed"
     },
     {
-     "id": 2903,
+     "id": 2912,
      "title": "The Explosion"
     },
     {
@@ -39273,7 +39524,7 @@
      "title": "The Whitsun Weddings"
     },
     {
-     "id": 2904,
+     "id": 2913,
      "title": "This Be The Verse"
     },
     {
@@ -42192,11 +42443,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3005,
+     "id": 3014,
      "title": "Summertime and the Living . . ."
     },
     {
-     "id": 3004,
+     "id": 3013,
      "title": "Those Winter Sundays"
     }
    ],
@@ -42481,23 +42732,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3012,
+     "id": 3021,
      "title": "For the Union Dead"
     },
     {
-     "id": 3010,
+     "id": 3019,
      "title": "Memories of West Street and Lepke"
     },
     {
-     "id": 3008,
+     "id": 3017,
      "title": "Mr. Edwards and the Spider"
     },
     {
-     "id": 3011,
+     "id": 3020,
      "title": "Night Sweat"
     },
     {
-     "id": 3009,
+     "id": 3018,
      "title": "Skunk Hour"
     }
    ],
@@ -43697,11 +43948,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2930,
+     "id": 2939,
      "title": "Imaginary Homelands"
     },
     {
-     "id": 2929,
+     "id": 2938,
      "title": "The Prophet's Hair"
     }
    ],
@@ -43776,7 +44027,7 @@
      "title": "Murphy"
     },
     {
-     "id": 2909,
+     "id": 2918,
      "title": "Waiting for Godot"
     }
    ],
@@ -44501,63 +44752,63 @@
    ],
    "works": [
     {
-     "id": 2882,
+     "id": 2891,
      "title": "A Brighter Sun"
     },
     {
-     "id": 2883,
+     "id": 2892,
      "title": "An Island Is a World"
     },
     {
-     "id": 2893,
+     "id": 2902,
      "title": "Eldorado West One"
     },
     {
-     "id": 2894,
+     "id": 2903,
      "title": "Foreday Morning: Selected Prose 1946-1986"
     },
     {
-     "id": 2895,
+     "id": 2904,
      "title": "Highway in the Sun and Other Plays"
     },
     {
-     "id": 2887,
+     "id": 2896,
      "title": "I Hear Thunder"
     },
     {
-     "id": 2891,
+     "id": 2900,
      "title": "Moses Ascending"
     },
     {
-     "id": 2892,
+     "id": 2901,
      "title": "Moses Migrating"
     },
     {
-     "id": 2888,
+     "id": 2897,
      "title": "The Housing Lark"
     },
     {
-     "id": 2884,
+     "id": 2893,
      "title": "The Lonely Londoners"
     },
     {
-     "id": 2889,
+     "id": 2898,
      "title": "The Plains of Caroni"
     },
     {
-     "id": 2890,
+     "id": 2899,
      "title": "Those Who Eat the Cascadura"
     },
     {
-     "id": 2886,
+     "id": 2895,
      "title": "Turn Again Tiger"
     },
     {
-     "id": 2906,
+     "id": 2915,
      "title": "Waiting for Aunty to Cough"
     },
     {
-     "id": 2885,
+     "id": 2894,
      "title": "Ways of Sunlight"
     }
    ],
@@ -44981,7 +45232,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3006,
+     "id": 3015,
      "title": "Looking for Mr. Green"
     }
    ],
@@ -45036,27 +45287,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2964,
+     "id": 2973,
      "title": "Casualty"
     },
     {
-     "id": 2966,
+     "id": 2975,
      "title": "Clearances"
     },
     {
-     "id": 2961,
+     "id": 2970,
      "title": "Digging"
     },
     {
-     "id": 2963,
+     "id": 2972,
      "title": "Punishment"
     },
     {
-     "id": 2965,
+     "id": 2974,
      "title": "Station Island"
     },
     {
-     "id": 2962,
+     "id": 2971,
      "title": "The Grauballe Man"
     }
    ],
@@ -46908,15 +47159,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2920,
+     "id": 2929,
      "title": "Not Waving but Drowning"
     },
     {
-     "id": 2919,
+     "id": 2928,
      "title": "Our Bog Is Dood"
     },
     {
-     "id": 2921,
+     "id": 2930,
      "title": "Thoughts About the Person from Porlock"
     }
    ],
@@ -47759,27 +48010,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2952,
+     "id": 2961,
      "title": "Crow Tyrannosaurus"
     },
     {
-     "id": 2951,
+     "id": 2960,
      "title": "Crow's Last Stand"
     },
     {
-     "id": 2949,
+     "id": 2958,
      "title": "Out"
     },
     {
-     "id": 2948,
+     "id": 2957,
      "title": "Pike"
     },
     {
-     "id": 2950,
+     "id": 2959,
      "title": "Theology"
     },
     {
-     "id": 2947,
+     "id": 2956,
      "title": "Wind"
     }
    ],
@@ -47823,7 +48074,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3002,
+     "id": 3011,
      "title": "A Streetcar Named Desire"
     }
    ],
@@ -48103,23 +48354,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2992,
+     "id": 3001,
      "title": "Cuttings"
     },
     {
-     "id": 2993,
+     "id": 3002,
      "title": "Cuttings (later)"
     },
     {
-     "id": 2995,
+     "id": 3004,
      "title": "Elegy for Jane"
     },
     {
-     "id": 2996,
+     "id": 3005,
      "title": "I Knew a Woman"
     },
     {
-     "id": 2994,
+     "id": 3003,
      "title": "The Waking"
     }
    ],
@@ -48166,23 +48417,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2938,
+     "id": 2947,
      "title": "Black Jackets"
     },
     {
-     "id": 2940,
+     "id": 2949,
      "title": "From the Wave"
     },
     {
-     "id": 2939,
+     "id": 2948,
      "title": "My Sad Captains"
     },
     {
-     "id": 2941,
+     "id": 2950,
      "title": "Still Life"
     },
     {
-     "id": 2942,
+     "id": 2951,
      "title": "The Missing"
     }
    ],
@@ -51145,7 +51396,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2958,
+     "id": 2967,
      "title": "One Out of Many"
     }
    ],
@@ -51444,7 +51695,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2991,
+     "id": 3000,
      "title": "Signs and Symbols"
     }
    ],
@@ -51709,7 +51960,7 @@
      "title": "Another Time"
     },
     {
-     "id": 2910,
+     "id": 2919,
      "title": "In Praise of Limestone"
     },
     {
@@ -51729,7 +51980,7 @@
      "title": "The Orators: An English Study"
     },
     {
-     "id": 2911,
+     "id": 2920,
      "title": "The Shield of Achilles"
     }
    ],
@@ -56119,7 +56370,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2959,
+     "id": 2968,
      "title": "Death and the King's Horseman"
     }
    ],
@@ -58600,7 +58851,7 @@
    ]
   },
   {
-   "id": 2982,
+   "id": 2991,
    "title": "7, Middagh Street",
    "altTitles": [],
    "authorship": "single",
@@ -58919,7 +59170,7 @@
    ]
   },
   {
-   "id": 2882,
+   "id": 2891,
    "title": "A Brighter Sun",
    "altTitles": [],
    "authorship": "single",
@@ -58973,7 +59224,7 @@
    ]
   },
   {
-   "id": 2915,
+   "id": 2924,
    "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
    "altTitles": [
     "A Bronzeville Mother Loiters in Mississippi"
@@ -59633,7 +59884,7 @@
    ]
   },
   {
-   "id": 3017,
+   "id": 3026,
    "title": "A Conversation with My Father",
    "altTitles": [],
    "authorship": "single",
@@ -60674,7 +60925,7 @@
    ]
   },
   {
-   "id": 2943,
+   "id": 2952,
    "title": "A Far Cry from Africa",
    "altTitles": [],
    "authorship": "single",
@@ -61062,6 +61313,56 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2874,
+   "title": "A Good Man Is Hard to Find",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Flannery O'Connor"
+   ],
+   "authorIds": [
+    904
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1953",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story first printed in the anthology Modern Writing I (Avon, 1953) and collected in A Good Man Is Hard to Find and Other Stories (1955): a family driving to Florida is murdered by an escaped convict called the Misfit, and the grandmother's last gesture is one of recognition.",
+   "summary": "A story in a single day, from an Atlanta breakfast table through a car journey across Georgia and a dirt road, to a car accident and a clearing in the woods where a family of six is taken away and shot by three escaped convicts while the grandmother talks to their leader about Jesus.",
+   "plot": "The grandmother does not want to go to Florida, where a convict called the Misfit is at large, and would rather visit relatives in east Tennessee; her son Bailey ignores her, and the family sets out the next morning with the grandmother in the back seat, dressed as a lady in case anyone should find her body, and with her cat hidden in a basket. On the way she tells the children stories, complains about their manners, remembers a plantation she once visited, and suddenly insists that the house with its secret panel is on the road they are taking; Bailey turns off onto a dirt road, the grandmother realizes that she has remembered the wrong state, and the cat leaps onto Bailey's neck and the car overturns in a ditch. Three men in a car arrive: the Misfit, in a black hat and with no shirt, and two boys. While the others are taken into the woods and shot one by one, the grandmother talks to the Misfit about Jesus and about prayer, and he explains his own theology - that if Christ raised the dead there is nothing to do but follow him, and if he did not, there is nothing to do but enjoy the time you have. The grandmother, hearing the shots, calls him 'one of my own babies' and touches him, and he shoots her; the story closes with his remark that she would have been a good woman if there had been somebody there to shoot her every minute of her life.",
+   "significance": "O'Connor's most famous story and one of the most widely anthologised American short stories; it is a standard course text on the short story, on the Southern Gothic and on the literature of grace, and its last paragraph is one of the most frequently quoted endings in American fiction.",
+   "meter": "Comic and exact in its rendering of the family, then suddenly bare; dialogue that reproduces the idiom of the Georgia family and, in the Misfit, a flatness that is more frightening than any rhetoric; the violence is reported at a distance and without comment, in the manner of a newspaper report.",
+   "context": "First published in Modern Writing I (New York: Avon, 1953), a multi-author anthology, and collected in A Good Man Is Hard to Find and Other Stories (Harcourt, Brace, 1955); it is O'Connor's most anthologised story and one of the most anthologised American stories of the century, and it belongs to the Southern Gothic tradition of Flannery O'Connor, Carson McCullers and Faulkner.",
+   "characters": "",
+   "structure": "A single linear narrative in unbroken time, moving from the house to the road to the clearing; the story is full of foreshadowing (the Misfit in the newspaper, the grandmother's dress for burial, the hidden cat) and the reversal is prepared by the grandmother's own error; the final sentences are given to the Misfit.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Gothic Fiction",
+    "Realist Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Southern Gothic"
+   ],
+   "editions": [],
+   "sources": [
+    "A Good Man Is Hard to Find (Wikipedia)",
+    "Flannery O'Connor (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -66029,7 +66330,7 @@
    ]
   },
   {
-   "id": 3021,
+   "id": 3030,
    "title": "A Step Away from Them",
    "altTitles": [],
    "authorship": "single",
@@ -66134,7 +66435,7 @@
    ]
   },
   {
-   "id": 3002,
+   "id": 3011,
    "title": "A Streetcar Named Desire",
    "altTitles": [],
    "authorship": "single",
@@ -73199,7 +73500,7 @@
    ]
   },
   {
-   "id": 2883,
+   "id": 2892,
    "title": "An Island Is a World",
    "altTitles": [],
    "authorship": "single",
@@ -73905,7 +74206,7 @@
    ]
   },
   {
-   "id": 2980,
+   "id": 2989,
    "title": "Anseo",
    "altTitles": [],
    "authorship": "single",
@@ -75347,7 +75648,7 @@
    ]
   },
   {
-   "id": 2997,
+   "id": 3006,
    "title": "At the Fishhouses",
    "altTitles": [],
    "authorship": "single",
@@ -78340,7 +78641,7 @@
    ]
   },
   {
-   "id": 2938,
+   "id": 2947,
    "title": "Black Jackets",
    "altTitles": [],
    "authorship": "single",
@@ -78389,7 +78690,7 @@
    ]
   },
   {
-   "id": 3027,
+   "id": 3036,
    "title": "Black Mother Woman",
    "altTitles": [],
    "authorship": "single",
@@ -80013,7 +80314,7 @@
    ]
   },
   {
-   "id": 2925,
+   "id": 2934,
    "title": "Calypso",
    "altTitles": [],
    "authorship": "single",
@@ -80869,7 +81170,7 @@
    ]
   },
   {
-   "id": 2964,
+   "id": 2973,
    "title": "Casualty",
    "altTitles": [],
    "authorship": "single",
@@ -82902,7 +83203,7 @@
    ]
   },
   {
-   "id": 2896,
+   "id": 2905,
    "title": "Church Going",
    "altTitles": [],
    "authorship": "single",
@@ -82952,7 +83253,7 @@
    ]
   },
   {
-   "id": 2953,
+   "id": 2962,
    "title": "Civil Peace",
    "altTitles": [],
    "authorship": "single",
@@ -83222,7 +83523,7 @@
    ]
   },
   {
-   "id": 2966,
+   "id": 2975,
    "title": "Clearances",
    "altTitles": [],
    "authorship": "single",
@@ -83423,7 +83724,7 @@
    ]
   },
   {
-   "id": 3025,
+   "id": 3034,
    "title": "Coal",
    "altTitles": [],
    "authorship": "single",
@@ -84108,7 +84409,7 @@
    ]
   },
   {
-   "id": 2923,
+   "id": 2932,
    "title": "Colonization in Reverse",
    "altTitles": [],
    "authorship": "single",
@@ -85665,7 +85966,7 @@
    ]
   },
   {
-   "id": 2968,
+   "id": 2977,
    "title": "Corniche",
    "altTitles": [],
    "authorship": "single",
@@ -85948,7 +86249,7 @@
    ]
   },
   {
-   "id": 2874,
+   "id": 2883,
    "title": "Critical Essays",
    "altTitles": [
     "Dickens, Dali and Others: Studies in Popular Culture"
@@ -86221,7 +86522,7 @@
    ]
   },
   {
-   "id": 2952,
+   "id": 2961,
    "title": "Crow Tyrannosaurus",
    "altTitles": [],
    "authorship": "single",
@@ -86270,7 +86571,7 @@
    ]
   },
   {
-   "id": 2951,
+   "id": 2960,
    "title": "Crow's Last Stand",
    "altTitles": [],
    "authorship": "single",
@@ -86664,7 +86965,7 @@
    ]
   },
   {
-   "id": 2992,
+   "id": 3001,
    "title": "Cuttings",
    "altTitles": [],
    "authorship": "single",
@@ -86713,7 +87014,7 @@
    ]
   },
   {
-   "id": 2993,
+   "id": 3002,
    "title": "Cuttings (later)",
    "altTitles": [],
    "authorship": "single",
@@ -88229,7 +88530,7 @@
    ]
   },
   {
-   "id": 2959,
+   "id": 2968,
    "title": "Death and the King's Horseman",
    "altTitles": [],
    "authorship": "single",
@@ -88280,7 +88581,7 @@
    ]
   },
   {
-   "id": 2973,
+   "id": 2982,
    "title": "Death by Landscape",
    "altTitles": [],
    "authorship": "single",
@@ -88493,7 +88794,7 @@
    ]
   },
   {
-   "id": 3007,
+   "id": 3016,
    "title": "Death of a Salesman",
    "altTitles": [],
    "authorship": "single",
@@ -88715,7 +89016,7 @@
    ]
   },
   {
-   "id": 2927,
+   "id": 2936,
    "title": "Decolonising the Mind",
    "altTitles": [
     "Decolonising the Mind: The Politics of Language in African Literature"
@@ -89779,7 +90080,7 @@
    ]
   },
   {
-   "id": 2961,
+   "id": 2970,
    "title": "Digging",
    "altTitles": [],
    "authorship": "single",
@@ -89993,7 +90294,7 @@
    ]
   },
   {
-   "id": 2928,
+   "id": 2937,
    "title": "Discourse on the Logic of Language",
    "altTitles": [],
    "authorship": "single",
@@ -90353,7 +90654,7 @@
    ]
   },
   {
-   "id": 2922,
+   "id": 2931,
    "title": "Do Not Go Gentle into That Good Night",
    "altTitles": [],
    "authorship": "single",
@@ -92164,7 +92465,7 @@
    ]
   },
   {
-   "id": 2893,
+   "id": 2902,
    "title": "Eldorado West One",
    "altTitles": [],
    "authorship": "single",
@@ -92404,7 +92705,7 @@
    ]
   },
   {
-   "id": 2995,
+   "id": 3004,
    "title": "Elegy for Jane",
    "altTitles": [],
    "authorship": "single",
@@ -92584,7 +92885,7 @@
    ]
   },
   {
-   "id": 2937,
+   "id": 2946,
    "title": "Elements of Composition",
    "altTitles": [],
    "authorship": "single",
@@ -94279,7 +94580,7 @@
    ]
   },
   {
-   "id": 2931,
+   "id": 2940,
    "title": "Epilogue",
    "altTitles": [],
    "authorship": "single",
@@ -95957,6 +96258,56 @@
    ]
   },
   {
+   "id": 2875,
+   "title": "Everything That Rises Must Converge",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Flannery O'Connor"
+   ],
+   "authorIds": [
+    904
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1961",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in New World Writing in October 1961 and collected as the title story of Everything That Rises Must Converge (1965): a young man escorts his mother on a newly integrated bus in a Southern city, and his resentment of her racism ends in her death.",
+   "summary": "A single bus journey and the walk that follows it, in which Julian and his mother argue about race, manners and the family's lost status, a Black woman and her small son board the bus, and the mother's condescending gesture to the child ends in violence.",
+   "plot": "Julian, a would-be writer in his early twenties, lives with his widowed mother in a Southern city and takes her to her weight-reducing class at the YMCA every Wednesday evening; because the buses have been integrated, she will not ride alone, and he escorts her with a mixture of duty and resentment. On the bus he reflects on his own liberal enlightenment and on his mother's nostalgia for the family's plantation past - 'they should rise, yes, but on their own side of the fence' - and he tries, unsuccessfully, to make friends with a well-dressed Black man in order to annoy her. A large Black woman in an identical hat to his mother's gets on with her small son, Carver; Julian's mother, delighted, gives the child a penny, and the woman strikes her with her handbag and walks off. Julian, triumphant, lectures his mother on the lesson she has received, and she walks faster and faster, then sits down on the kerb and dies of a stroke. The story ends with Julian running for help, calling her 'Mamma' and entering 'the world of guilt and sorrow'.",
+   "significance": "One of O'Connor's most taught stories and the one through which her treatment of race is usually discussed; it is a standard anthology text on the Southern Gothic, on the short story and on the literature of the civil rights era, and its relation to the Teilhard de Chardin title is a set topic in courses on O'Connor.",
+   "meter": "Third-person narrative confined to Julian's consciousness, with an irony that turns against him; long stretches of dialogue in the idiom of the Southern middle class; the story's symbols (the hats, the penny, the family house) are placed without comment, and the last sentence is long and rhetorically weighted.",
+   "context": "First published in New World Writing in October 1961 and won the O. Henry Award in 1963; collected as the title story of Everything That Rises Must Converge (New York: Farrar, Straus and Giroux, 1965), published after O'Connor's death. It is one of the few stories in which O'Connor addresses the civil rights movement directly, and it was written in the years of the Montgomery bus boycott and the sit-ins.",
+   "characters": "",
+   "structure": "A single continuous scene, from the house to the bus to the kerb, with the story's action carried almost entirely by dialogue and by Julian's interior commentary; the climax is a physical gesture rather than an event, and the story closes in the last sentence with a reversal of its protagonist's whole position.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "Social Criticism"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Southern Gothic"
+   ],
+   "editions": [],
+   "sources": [
+    "Everything That Rises Must Converge (Wikipedia)",
+    "Flannery O'Connor (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 108,
    "title": "Exodus",
    "altTitles": [],
@@ -97476,7 +97827,7 @@
    ]
   },
   {
-   "id": 2984,
+   "id": 2993,
    "title": "First Screening",
    "altTitles": [],
    "authorship": "single",
@@ -97949,7 +98300,7 @@
    ]
   },
   {
-   "id": 2976,
+   "id": 2985,
    "title": "Fond Memory",
    "altTitles": [],
    "authorship": "single",
@@ -97999,7 +98350,7 @@
    ]
   },
   {
-   "id": 3013,
+   "id": 3022,
    "title": "For Esmé—with Love and Squalor",
    "altTitles": [],
    "authorship": "single",
@@ -98049,7 +98400,7 @@
    ]
   },
   {
-   "id": 3012,
+   "id": 3021,
    "title": "For the Union Dead",
    "altTitles": [],
    "authorship": "single",
@@ -98151,7 +98502,7 @@
    ]
   },
   {
-   "id": 2894,
+   "id": 2903,
    "title": "Foreday Morning: Selected Prose 1946-1986",
    "altTitles": [],
    "authorship": "single",
@@ -98946,7 +99297,7 @@
    ]
   },
   {
-   "id": 2940,
+   "id": 2949,
    "title": "From the Wave",
    "altTitles": [],
    "authorship": "single",
@@ -100296,6 +100647,58 @@
    ]
   },
   {
+   "id": 2871,
+   "title": "Going to Meet the Man",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "James Baldwin"
+   ],
+   "authorIds": [
+    903
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in Status in October 1965 and collected as the title story of Going to Meet the Man (1965): a white Southern deputy sheriff, impotent in bed, remembers his father taking him to a lynching when he was eight years old and finds himself excited by the memory.",
+   "summary": "A story that moves between a white sheriff's bedroom in the present and two memories - an assault on a young civil rights worker in his cell that day, and the lynching he was taken to watch as a child - and ends with the violence and the sexual excitement joined together.",
+   "plot": "Jesse, a deputy sheriff in a small Southern town, lies in bed with his wife Grace and cannot make love to her; his mind wanders to the black women he has known and to the day's work, when he and another officer arrested a young civil rights worker and Jesse beat him in his cell with a hose and a cattle prod. The prisoner, half conscious, asks him if he remembers 'Old Julia', and Jesse realizes that the young man is the grandson of a woman he once cheated in his mail-order business, and that he had known him as a boy. The beating resumes, and Jesse feels himself sexually aroused by it. The story then moves back to his childhood: the family car, a black neighbourhood singing 'Wade in the Water', his father's reassurances, and then the morning when the white people of the town gather to watch a black man burned and mutilated, with Jesse on his father's shoulders. In the last pages he comes back to the bedroom and finds that the memory has given him an erection, and the story ends with him turning to his wife.",
+   "significance": "One of the most discussed American short stories of the 1960s and the story through which Baldwin's treatment of white consciousness is usually taught; it is a standard anthology text on the literature of lynching and of American racism, and its narrative technique - full sympathetic access to a perpetrator - is regularly analysed in courses on point of view and on the ethics of representation.",
+   "meter": "A third-person narrative confined to Jesse's consciousness, in a flat demotic Southern idiom; the childhood memory is rendered with the sensory immediacy of a child's perception and without explanation; the violence is described in exact physical detail, and the story's refusal of authorial comment is itself the moral instrument.",
+   "context": "Published in the magazine Status in October 1965, one month before the collection, and collected as the title story of Going to Meet the Man (Dial Press, 1965), Baldwin's only collection of short stories; it appeared at the height of the civil rights movement, two years after The Fire Next Time and a year after the murders of Chaney, Goodman and Schwerner, and it is one of the few works by a major Black writer of the period to enter the mind of a white racist.",
+   "characters": "",
+   "structure": "A single continuous present-tense night interrupted by two flashbacks, one recent and one from childhood, with the second flashback occupying the centre of the story; the return to the bedroom in the last paragraph completes the frame and delivers the story's judgement without comment.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Gothic Fiction",
+    "Realist Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Black Arts Movement",
+    "Southern Gothic"
+   ],
+   "editions": [],
+   "sources": [
+    "Going to Meet the Man (Wikipedia)",
+    "Going to Meet the Man, short story (Wikipedia)",
+    "James Baldwin bibliography (baldwinbibliography.com)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2847,
    "title": "Going to the Territory",
    "altTitles": [],
@@ -100343,7 +100746,7 @@
    ]
   },
   {
-   "id": 2900,
+   "id": 2909,
    "title": "Going, Going",
    "altTitles": [],
    "authorship": "single",
@@ -100547,6 +100950,56 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2873,
+   "title": "Good Country People",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Flannery O'Connor"
+   ],
+   "authorIds": [
+    904
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1955",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in Harper's Bazaar in June 1955 and collected in A Good Man Is Hard to Find and Other Stories the same year: a one-legged philosophy doctor who calls herself Hulga is seduced and robbed of her wooden leg by a Bible salesman who turns out to be a collector of other people's prostheses.",
+   "summary": "A comic and violent story set on a Georgia tenant farm, in which Mrs. Hopewell's educated, angry daughter Hulga goes walking with a travelling Bible salesman, is seduced into removing her artificial leg, and is left stranded in a hayloft while he makes off with it.",
+   "plot": "Mrs. Hopewell owns a farm in rural Georgia and employs the tenants Mr. and Mrs. Freeman, whom she condescends to call 'good country people'. Her daughter Joy, thirty-two, unmarried and overweight, lost a leg in a shooting accident as a child, has a doctorate in philosophy, and has changed her name to Hulga in order to spite her mother; she is an atheist who believes in nothing and treats everyone with contempt. A young Bible salesman, Manley Pointer, arrives at the door, charms Mrs. Hopewell with his humility and his talk of missionary work, and is invited to stay for dinner; he mentions a heart condition and shows an interest in Hulga, who decides to seduce him in order to humiliate his faith. They arrange to meet, and he takes her into a hayloft, where he asks her to remove her wooden leg and then opens his Bible case to reveal whiskey, condoms and obscene playing cards. He tells her that he has been collecting such things for years, takes her leg, mocks her belief in nothing, and leaves her stranded in the loft. The story ends with Mrs. Hopewell and Mrs. Freeman watching Pointer walk away down the road and remarking on how simple and good the country people are. The story's ending is a judgement on them rather than on him: the salesman has taken the leg that stood for Hulga's self-sufficiency, and her mother and the tenant have seen nothing.",
+   "significance": "One of O'Connor's best-known stories and a standard anthology text; its handling of disability, gender and belief has made it one of the most discussed American short stories of the 1950s, and the figure of Hulga is central to the critical literature on O'Connor and on the Southern grotesque.",
+   "meter": "Comic and exact, with an eye for the absurd detail (the name Hulga, the 'nice girl' with a doctorate, the obscene cards in a Bible case); dialogue that reproduces the idiom of the rural South and the pretensions of the educated; a plain narrative voice that never comments on the atrocity it reports.",
+   "context": "First published in Harper's Bazaar in June 1955 and collected in A Good Man Is Hard to Find and Other Stories (New York: Harcourt, Brace, 1955); O'Connor was living at Andalusia, her mother's farm near Milledgeville, and the story's tenant farm, its peacocks and its Bible salesmen belong to that world.",
+   "characters": "",
+   "structure": "A story in three movements - the household and its classifications, the arrival of the salesman and the dinner, and the date in the hayloft - with a short coda on the road; the point of view is omniscient and shifts between the women and into Hulga's consciousness for the seduction, and the reversal comes in a single gesture when the case is opened.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Gothic Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self"
+   ],
+   "movements": [
+    "Southern Gothic"
+   ],
+   "editions": [],
+   "sources": [
+    "Flannery O'Connor (Wikipedia)",
+    "Good Country People (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -102161,7 +102614,7 @@
    ]
   },
   {
-   "id": 3015,
+   "id": 3024,
    "title": "Harrison Bergeron",
    "altTitles": [],
    "authorship": "single",
@@ -102314,7 +102767,7 @@
    ]
   },
   {
-   "id": 3023,
+   "id": 3032,
    "title": "Having a Coke with You",
    "altTitles": [],
    "authorship": "single",
@@ -103818,7 +104271,7 @@
    ]
   },
   {
-   "id": 2899,
+   "id": 2908,
    "title": "High Windows (poem)",
    "altTitles": [],
    "authorship": "single",
@@ -103922,7 +104375,7 @@
    ]
   },
   {
-   "id": 2895,
+   "id": 2904,
    "title": "Highway in the Sun and Other Plays",
    "altTitles": [],
    "authorship": "single",
@@ -104603,7 +105056,7 @@
    ]
   },
   {
-   "id": 2924,
+   "id": 2933,
    "title": "History of the Voice",
    "altTitles": [
     "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry"
@@ -104721,7 +105174,7 @@
    ]
   },
   {
-   "id": 2902,
+   "id": 2911,
    "title": "Homage to a Government",
    "altTitles": [],
    "authorship": "single",
@@ -105254,6 +105707,55 @@
    ]
   },
   {
+   "id": 2876,
+   "title": "Howl",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Allen Ginsberg"
+   ],
+   "authorIds": [
+    905
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1956",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, three parts)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Written in 1954-55, read at the Six Gallery in San Francisco in October 1955 and published in Howl and Other Poems (City Lights, 1956): a long poem in three parts and a footnote that names the generation destroyed by madness, denounces the god Moloch, and ends in the Rockland asylum with Carl Solomon.",
+   "summary": "A long poem in three parts plus a footnote: a catalogue of the 'best minds' of the postwar generation and their destruction in the cities, the prisons and the asylums; a litany of the god Moloch who consumes them; an address to Carl Solomon in the Rockland asylum; and a final declaration that everything is holy.",
+   "plot": "Part I is a long catalogue of the people Ginsberg knew or had heard of in the postwar American underground - 'I saw the best minds of my generation destroyed by madness, starving hysterical naked' - and it follows them through the cities, the colleges, the prisons, the psychiatric wards, the jazz clubs and the beds of the late 1940s and early 1950s: those who 'dragged themselves through the negro streets at dawn looking for an angry fix', who 'poverty and obscurity and sixty-five-dollar-a-week jobs', who took drugs, were arrested, were institutionalized, were lovers, were poets. Part II turns on Moloch, the god of the mechanical civilization, in an incantatory litany that names the buildings, the factories, the universities, the Pentagon, the prisons and the human sacrifice they require. Part III addresses Carl Solomon directly - 'Carl Solomon! I'm with you in Rockland' - and answers each of Solomon's statements with a declaration of solidarity that has the structure of a liturgy. The 'Footnote to Howl' adds a final litany in which everything - 'the world is holy! the soul is holy! the skin is holy! the nose is holy!' - is declared holy, ending the poem in affirmation rather than denunciation.",
+   "significance": "The founding poem of the Beat Generation and one of the most influential American poems of the century; the obscenity trial made it a cause and its publication a turning point in American literary censorship, it is a standard anthology and course text, and its first line is among the most recognisable in modern poetry.",
+   "meter": "The long breath-line, measured by the length of one exhalation rather than by foot or syllable; parataxis and catalogue; anaphora and repetition taken from Hebrew liturgy and from jazz; a diction that includes slang, obscenity, technical terms and the names of real people and places; spontaneity of composition (Ginsberg typed the first draft in a single session) with heavy subsequent revision.",
+   "context": "Begun in the autumn of 1954 and read in public for the first time at the Six Gallery in San Francisco on 7 October 1955, a reading now regarded as the founding event of the Beat movement; published by Lawrence Ferlinghetti's City Lights Books in Howl and Other Poems (1956), which was seized and prosecuted for obscenity, and cleared by Judge Clayton Horn on 3 October 1957 in a ruling that became a landmark of American free expression. The poem was written at the height of McCarthyism and of the conformity of the Eisenhower years, and it is dedicated to Carl Solomon, whom Ginsberg had met in the Columbia Presbyterian psychiatric institute in 1949.",
+   "characters": "",
+   "structure": "Three numbered parts and a footnote: Part I is a single sentence of some seventy-eight long lines with anaphora ('who...') as its organizing device; Part II is a shorter litany built on 'Moloch'; Part III is a dialogue-address to Solomon in the asylum, with the refrain 'I'm with you in Rockland'; the Footnote returns to the litany form and closes with 'Holy! Holy! Holy!' in a deliberate echo of religious chant.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ],
+   "movements": [
+    "The Beat Generation"
+   ],
+   "editions": [],
+   "sources": [
+    "Howl (poem) (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 675,
    "title": "Hudibras",
    "altTitles": [],
@@ -105369,7 +105871,7 @@
    ]
   },
   {
-   "id": 2990,
+   "id": 2999,
    "title": "Hullabaloo in the Guava Orchard",
    "altTitles": [],
    "authorship": "single",
@@ -106415,7 +106917,7 @@
    ]
   },
   {
-   "id": 2887,
+   "id": 2896,
    "title": "I Hear Thunder",
    "altTitles": [],
    "authorship": "single",
@@ -106466,7 +106968,7 @@
    ]
   },
   {
-   "id": 2996,
+   "id": 3005,
    "title": "I Knew a Woman",
    "altTitles": [],
    "authorship": "single",
@@ -106976,7 +107478,7 @@
    ]
   },
   {
-   "id": 2930,
+   "id": 2939,
    "title": "Imaginary Homelands",
    "altTitles": [
     "Imaginary Homelands: Essays and Criticism 1981-1991"
@@ -107573,7 +108075,7 @@
    ]
   },
   {
-   "id": 2954,
+   "id": 2963,
    "title": "In Memory of Jane Fraser",
    "altTitles": [],
    "authorship": "single",
@@ -107622,7 +108124,7 @@
    ]
   },
   {
-   "id": 3024,
+   "id": 3033,
    "title": "In Memory of My Feelings",
    "altTitles": [],
    "authorship": "single",
@@ -107783,7 +108285,7 @@
    ]
   },
   {
-   "id": 2910,
+   "id": 2919,
    "title": "In Praise of Limestone",
    "altTitles": [],
    "authorship": "single",
@@ -107980,7 +108482,7 @@
    ]
   },
   {
-   "id": 3000,
+   "id": 3009,
    "title": "In the Waiting Room",
    "altTitles": [],
    "authorship": "single",
@@ -108386,7 +108888,7 @@
    ]
   },
   {
-   "id": 2934,
+   "id": 2943,
    "title": "Inglan Is a Bitch",
    "altTitles": [],
    "authorship": "single",
@@ -109680,7 +110182,7 @@
    ]
   },
   {
-   "id": 2875,
+   "id": 2884,
    "title": "James Burnham and the Managerial Revolution",
    "altTitles": [
     "Second Thoughts on James Burnham"
@@ -113975,7 +114477,7 @@
    ]
   },
   {
-   "id": 2871,
+   "id": 2880,
    "title": "Les Blancs",
    "altTitles": [],
    "authorship": "single",
@@ -114082,7 +114584,7 @@
    ]
   },
   {
-   "id": 2926,
+   "id": 2935,
    "title": "Letter SycoraX",
    "altTitles": [],
    "authorship": "single",
@@ -114129,6 +114631,56 @@
     "Kamau Brathwaite (Wikipedia)",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
     "Versions of X/Self: Kamau Brathwaite's Caribbean Discourse (Semantic Scholar)"
+   ]
+  },
+  {
+   "id": 2872,
+   "title": "Letter to My Nephew",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "James Baldwin"
+   ],
+   "authorIds": [
+    903
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1962",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (open letter)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "An open letter published in The Progressive in December 1962, on the hundredth anniversary of the Emancipation Proclamation, and collected as 'My Dungeon Shook' at the head of The Fire Next Time (1963): Baldwin writes to his fourteen-year-old nephew about what America has done to him and what he must refuse.",
+   "summary": "A short letter in the second person, in which Baldwin addresses his nephew James by name on the centenary of emancipation, tells him that the country has set limits on his life before he was born, refuses both the hatred and the false innocence that the situation offers, and ends by asking him to accept his own history without accepting the definitions imposed on it.",
+   "plot": "The letter is addressed to Baldwin's nephew and namesake, James, on the hundredth anniversary of the Emancipation Proclamation, and it begins by acknowledging that the occasion offers no comfort: 'you were born into a society which spelled out with brutal clarity, and in as many ways as possible, that you were a worthless human being'. Baldwin tells his nephew what the country has done to his father and his grandfather, and what it is doing to him, and then makes the turn that the letter exists for: he must not believe it, and he must not hate, because the hatred would be a second submission to the same lie. He explains that the white American is also trapped, in a dream of innocence that requires the Black American to carry the burden of the history he refuses to know, and he asks his nephew to accept his own humanity and his own history without accepting the definitions offered to him. The letter ends with an exhortation to love and to persist, and with the famous sentence about the country's future being in the hands of those who can say 'we'. Its argument is conducted almost entirely through the second person: the uncle's authority comes from his love, and the letter's diagnosis of white innocence is delivered not as theory but as something the boy will need to know in order to live, which is why the letter reads as both a private gift and a public document.",
+   "significance": "One of the most quoted American essays of the century and the standard introduction to Baldwin's political thought; it is a set text in American literature, history and civics courses, the essay through which The Fire Next Time is usually taught, and the source of the phrases about innocence and about the 'we' that recur in American public argument.",
+   "meter": "Direct address in the second person, with the cadences of the pulpit - repetition, antithesis, long periodic sentences that resolve into short declaratives; the diction moves between the colloquial and the prophetic, and the letter's most famous sentences are short and absolute.",
+   "context": "Published in The Progressive in December 1962 and collected, slightly revised and retitled 'My Dungeon Shook: Letter to My Nephew on the One Hundredth Anniversary of the Emancipation', as the first of the two essays in The Fire Next Time (New York: Dial Press, 1963), which became a bestseller and one of the defining books of the civil rights movement; the letter was written at the height of the movement, after the Birmingham campaign and before the March on Washington.",
+   "characters": "",
+   "structure": "A single letter of a few pages, with no sections; it moves from the occasion and the diagnosis, through the history of the family, to the reversal in which the nephew is told what he must do, and ends with an exhortation; the second person is maintained throughout, so that the argument is always addressed to someone.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay",
+    "Political Essay"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black Arts Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "A Letter to My Nephew (The Progressive, via course reading)",
+    "James Baldwin (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -116794,7 +117346,7 @@
    ]
   },
   {
-   "id": 2970,
+   "id": 2979,
    "title": "Looking for a Rain God",
    "altTitles": [],
    "authorship": "single",
@@ -116844,7 +117396,7 @@
    ]
   },
   {
-   "id": 3006,
+   "id": 3015,
    "title": "Looking for Mr. Green",
    "altTitles": [],
    "authorship": "single",
@@ -117120,6 +117672,56 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 2868,
+   "title": "Lost in the Funhouse",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "John Barth"
+   ],
+   "authorIds": [
+    906
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1967",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story (metafiction)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story first printed in The Atlantic Monthly in November 1967 and collected as the title piece of Lost in the Funhouse (1968): a young boy's visit to a boardwalk funhouse at Ocean City, told by a narrator who keeps interrupting to discuss how the story is being told and how it might end.",
+   "summary": "A story of twenty-odd numbered sections in which Ambrose, thirteen, goes to a seaside funhouse with his family and the girl he loves, and in which the narration constantly breaks off to consider beginnings, middles, endings and the impossibility of the task it has set itself.",
+   "plot": "The story is set in 1962 at Ocean City, Maryland, where Ambrose - the same boy who appears in the other Ambrose stories of the collection - has come with his family for the summer. He is thirteen, self-conscious, in love with his brother Peter's girl Magda, and he finds himself inside the funhouse, a maze of mirrors, a hall of illusions, a spiral staircase and a 'sliding board into the Atlantic'. Around this small adventure the narrator builds an essay: he discusses where a story should begin, how a personage should be introduced, what a plot is, why the reader's desire for an ending is itself a subject, and whether the story we are reading can have an end at all. Sections are numbered and interrupted; the narrator addresses the reader and himself ('you'); alternative versions of a sentence are offered and rejected. Ambrose gets lost, as the title says, and at the end he is on the sliding board or in the water, and the story has done what it said it could not do.",
+   "significance": "One of the most anthologised American short stories of the postwar decades and the standard text through which metafiction is taught; the collection it names is a landmark of American postmodernism, and the story's devices passed into the common vocabulary of American fiction writing.",
+   "meter": "A deliberately literary, oral-sounding narrator with a taste for lists, rhetorical questions and essayistic commentary; parodies of nineteenth-century fictional address and of the conventions of the magazine story; long sentences that mimic the pace of a child's afternoon and short apophthegms about the art of fiction; typographic devices, including dotted lines and italics.",
+   "context": "Written in 1966-67 and printed in The Atlantic Monthly in November 1967, where it took third prize in the O. Henry Awards; collected as the title story of Lost in the Funhouse: Fiction for Print, Tape, Live Voice (New York: Doubleday, 1968). The collection followed Barth's essay 'The Literature of Exhaustion' (1967) and became, with the work of Barthelme and Coover, the standard instance of American metafiction.",
+   "characters": "",
+   "structure": "Numbered sections, some of them lines long, which break off, restart and comment on themselves; the narrative of Ambrose's afternoon and the essay on narration alternate; the story ends with several possible endings offered and one of them performed, so that the reader cannot tell whether the story has closed or merely stopped.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Experimental Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Language, writing and the limits of representation"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "John Barth (Wikipedia)",
+    "Lost in the Funhouse (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -121291,7 +121893,7 @@
    ]
   },
   {
-   "id": 2897,
+   "id": 2906,
    "title": "MCMXIV",
    "altTitles": [],
    "authorship": "single",
@@ -121565,7 +122167,7 @@
    ]
   },
   {
-   "id": 2988,
+   "id": 2997,
    "title": "Medusa",
    "altTitles": [],
    "authorship": "single",
@@ -121616,7 +122218,7 @@
    ]
   },
   {
-   "id": 2981,
+   "id": 2990,
    "title": "Meeting the British",
    "altTitles": [],
    "authorship": "single",
@@ -122039,7 +122641,7 @@
    ]
   },
   {
-   "id": 3010,
+   "id": 3019,
    "title": "Memories of West Street and Lepke",
    "altTitles": [],
    "authorship": "single",
@@ -122595,7 +123197,7 @@
    ]
   },
   {
-   "id": 2983,
+   "id": 2992,
    "title": "Milkweed and Monarch",
    "altTitles": [],
    "authorship": "single",
@@ -123082,7 +123684,7 @@
    ]
   },
   {
-   "id": 2974,
+   "id": 2983,
    "title": "Miss July Grows Older",
    "altTitles": [],
    "authorship": "single",
@@ -124128,7 +124730,7 @@
    ]
   },
   {
-   "id": 2967,
+   "id": 2976,
    "title": "Morse",
    "altTitles": [],
    "authorship": "single",
@@ -124178,7 +124780,7 @@
    ]
   },
   {
-   "id": 2891,
+   "id": 2900,
    "title": "Moses Ascending",
    "altTitles": [],
    "authorship": "single",
@@ -124232,7 +124834,7 @@
    ]
   },
   {
-   "id": 2892,
+   "id": 2901,
    "title": "Moses Migrating",
    "altTitles": [],
    "authorship": "single",
@@ -124694,7 +125296,7 @@
    ]
   },
   {
-   "id": 3008,
+   "id": 3017,
    "title": "Mr. Edwards and the Spider",
    "altTitles": [],
    "authorship": "single",
@@ -124851,7 +125453,7 @@
    ]
   },
   {
-   "id": 2989,
+   "id": 2998,
    "title": "Mrs Lazarus",
    "altTitles": [],
    "authorship": "single",
@@ -125814,7 +126416,7 @@
    ]
   },
   {
-   "id": 2939,
+   "id": 2948,
    "title": "My Sad Captains",
    "altTitles": [],
    "authorship": "single",
@@ -125863,7 +126465,7 @@
    ]
   },
   {
-   "id": 2985,
+   "id": 2994,
    "title": "My Son the Fanatic",
    "altTitles": [],
    "authorship": "single",
@@ -127274,7 +127876,7 @@
    ]
   },
   {
-   "id": 3011,
+   "id": 3020,
    "title": "Night Sweat",
    "altTitles": [],
    "authorship": "single",
@@ -127549,7 +128151,7 @@
    ]
   },
   {
-   "id": 2877,
+   "id": 2886,
    "title": "Nineteen Eighty-Four",
    "altTitles": [
     "1984"
@@ -128025,7 +128627,7 @@
    ]
   },
   {
-   "id": 2920,
+   "id": 2929,
    "title": "Not Waving but Drowning",
    "altTitles": [],
    "authorship": "single",
@@ -131348,7 +131950,7 @@
    ]
   },
   {
-   "id": 2946,
+   "id": 2955,
    "title": "Omeros",
    "altTitles": [],
    "authorship": "single",
@@ -131938,7 +132540,7 @@
    ]
   },
   {
-   "id": 2908,
+   "id": 2917,
    "title": "On Not Shooting Sitting Birds",
    "altTitles": [],
    "authorship": "single",
@@ -132170,7 +132772,7 @@
    ]
   },
   {
-   "id": 3014,
+   "id": 3023,
    "title": "On the Road",
    "altTitles": [],
    "authorship": "single",
@@ -132270,7 +132872,7 @@
    ]
   },
   {
-   "id": 3001,
+   "id": 3010,
    "title": "One Art",
    "altTitles": [],
    "authorship": "single",
@@ -132321,7 +132923,7 @@
    ]
   },
   {
-   "id": 2958,
+   "id": 2967,
    "title": "One Out of Many",
    "altTitles": [],
    "authorship": "single",
@@ -133167,7 +133769,7 @@
    ]
   },
   {
-   "id": 2919,
+   "id": 2928,
    "title": "Our Bog Is Dood",
    "altTitles": [],
    "authorship": "single",
@@ -133490,7 +134092,7 @@
    ]
   },
   {
-   "id": 2949,
+   "id": 2958,
    "title": "Out",
    "altTitles": [],
    "authorship": "single",
@@ -135620,7 +136222,7 @@
    ]
   },
   {
-   "id": 3019,
+   "id": 3028,
    "title": "Personism: A Manifesto",
    "altTitles": [],
    "authorship": "single",
@@ -136597,7 +137199,7 @@
    ]
   },
   {
-   "id": 2948,
+   "id": 2957,
    "title": "Pike",
    "altTitles": [],
    "authorship": "single",
@@ -140042,7 +140644,7 @@
    ]
   },
   {
-   "id": 2905,
+   "id": 2914,
    "title": "Politics and the English Language",
    "altTitles": [],
    "authorship": "single",
@@ -141657,7 +142259,7 @@
    ]
   },
   {
-   "id": 2963,
+   "id": 2972,
    "title": "Punishment",
    "altTitles": [],
    "authorship": "single",
@@ -141972,7 +142574,7 @@
    ]
   },
   {
-   "id": 2998,
+   "id": 3007,
    "title": "Questions of Travel",
    "altTitles": [],
    "authorship": "single",
@@ -143194,7 +143796,7 @@
    ]
   },
   {
-   "id": 2955,
+   "id": 2964,
    "title": "Requiem for the Plantagenet Kings",
    "altTitles": [],
    "authorship": "single",
@@ -145479,7 +146081,7 @@
    ]
   },
   {
-   "id": 2901,
+   "id": 2910,
    "title": "Sad Steps",
    "altTitles": [],
    "authorship": "single",
@@ -147052,7 +147654,7 @@
    ]
   },
   {
-   "id": 2936,
+   "id": 2945,
    "title": "Self-Portrait",
    "altTitles": [],
    "authorship": "single",
@@ -147283,7 +147885,7 @@
    ]
   },
   {
-   "id": 2956,
+   "id": 2965,
    "title": "September Song",
    "altTitles": [],
    "authorship": "single",
@@ -148530,7 +149132,7 @@
    ]
   },
   {
-   "id": 2878,
+   "id": 2887,
    "title": "Shooting an Elephant and Other Essays",
    "altTitles": [],
    "authorship": "single",
@@ -148630,7 +149232,7 @@
    ]
   },
   {
-   "id": 2991,
+   "id": 3000,
    "title": "Signs and Symbols",
    "altTitles": [],
    "authorship": "single",
@@ -149705,7 +150307,7 @@
    ]
   },
   {
-   "id": 3009,
+   "id": 3018,
    "title": "Skunk Hour",
    "altTitles": [],
    "authorship": "single",
@@ -149757,7 +150359,7 @@
    ]
   },
   {
-   "id": 3016,
+   "id": 3025,
    "title": "Slaughterhouse-Five",
    "altTitles": [],
    "authorship": "single",
@@ -151294,6 +151896,56 @@
    ]
   },
   {
+   "id": 2870,
+   "title": "Sonny's Blues",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "James Baldwin"
+   ],
+   "authorIds": [
+    903
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1957",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in Partisan Review in the summer of 1957 and collected in Going to Meet the Man (1965): a Harlem schoolteacher discovers that his younger brother, a jazz pianist and a heroin addict, has been arrested, and the two brothers slowly find their way back to one another.",
+   "summary": "A first-person story in two movements, from the narrator's reading of the news in the subway and his memories of their childhood, through the death of his small daughter and his letter to Sonny in prison, to the night in a Greenwich Village jazz club when he finally hears his brother play.",
+   "plot": "The story opens with the narrator, a teacher of algebra in a Harlem high school, reading in the subway that his younger brother Sonny has been arrested for possession of heroin. He remembers their childhood - the father's bitterness and early death, the mother's request that he look after Sonny, the boy's early obsession with the piano, his truancy and his wish to join the army - and then meets Sonny's friend, who warns him that the addiction will not end with the prison sentence. For a long time the brothers do not speak. The narrator's small daughter Grace dies of polio while he is away, and he writes to Sonny in prison; when Sonny is released the two meet in New York in an awkward, careful reunion, and Sonny explains what music means to him - that heroin was a way of feeling in control, and that playing is a way of making the suffering bearable. In the story's final movement the narrator goes to a jazz club in Greenwich Village where Sonny is playing with a group led by Creole; the music begins as something the narrator cannot follow and becomes, in the last pages, a blues in which the whole history of the family and of the people is audible, and the narrator sends a drink to his brother and understands at last what he has been listening to.",
+   "significance": "One of the finest American short stories of the century and Baldwin's most widely taught fiction; it is a standard anthology text and a set text in courses on the American short story, on African American literature and on the literature of music, and its last pages are among the most discussed in American fiction.",
+   "meter": "A measured, cadenced prose in the narrator's voice, with long sentences that reproduce the rhythms of thinking; dialogue in the idiom of Harlem and of musicians; the language of music used with technical precision; a final passage of great rhetorical power that describes a performance without quoting it.",
+   "context": "Published in Partisan Review, vol. 24, no. 3, in the summer of 1957, when Baldwin was already known for Go Tell It on the Mountain and Notes of a Native Son; collected in Going to Meet the Man (Dial Press, 1965). It belongs to the great period of American jazz writing and to the literature of Harlem at the beginning of the civil rights movement, and it is Baldwin's most widely anthologised short story.",
+   "characters": "",
+   "structure": "A first-person narrative in two large movements divided by a period of silence and a letter, with a long embedded recollection of childhood and a closing scene in the club; the story moves from the news of the arrest to the performance, and the two are joined thematically rather than chronologically.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Autobiographical Novel",
+    "Realist Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black Arts Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "James Baldwin (Wikipedia)",
+    "Sonny's Blues (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2361,
    "title": "Sons and Lovers",
    "altTitles": [],
@@ -152661,7 +153313,7 @@
    ]
   },
   {
-   "id": 2965,
+   "id": 2974,
    "title": "Station Island",
    "altTitles": [],
    "authorship": "single",
@@ -152775,7 +153427,7 @@
    ]
   },
   {
-   "id": 2941,
+   "id": 2950,
    "title": "Still Life",
    "altTitles": [],
    "authorship": "single",
@@ -153234,7 +153886,7 @@
    ]
   },
   {
-   "id": 2879,
+   "id": 2888,
    "title": "Such, Such Were the Joys",
    "altTitles": [],
    "authorship": "single",
@@ -153502,7 +154154,7 @@
    ]
   },
   {
-   "id": 3005,
+   "id": 3014,
    "title": "Summertime and the Living . . .",
    "altTitles": [],
    "authorship": "single",
@@ -154513,7 +155165,7 @@
    ]
   },
   {
-   "id": 2898,
+   "id": 2907,
    "title": "Talking in Bed",
    "altTitles": [],
    "authorship": "single",
@@ -157664,7 +158316,7 @@
    ]
   },
   {
-   "id": 2999,
+   "id": 3008,
    "title": "The Armadillo",
    "altTitles": [],
    "authorship": "single",
@@ -159265,7 +159917,7 @@
    ]
   },
   {
-   "id": 2914,
+   "id": 2923,
    "title": "The Bean Eaters",
    "altTitles": [],
    "authorship": "single",
@@ -160010,7 +160662,7 @@
    ]
   },
   {
-   "id": 2917,
+   "id": 2926,
    "title": "The Blackstone Rangers",
    "altTitles": [],
    "authorship": "single",
@@ -163393,7 +164045,7 @@
    ]
   },
   {
-   "id": 2912,
+   "id": 2921,
    "title": "The Children of the Poor",
    "altTitles": [],
    "authorship": "single",
@@ -164354,7 +165006,7 @@
    ]
   },
   {
-   "id": 2880,
+   "id": 2889,
    "title": "The Collected Essays, Journalism and Letters of George Orwell",
    "altTitles": [],
    "authorship": "single",
@@ -167310,7 +167962,7 @@
    ]
   },
   {
-   "id": 3022,
+   "id": 3031,
    "title": "The Day Lady Died",
    "altTitles": [],
    "authorship": "single",
@@ -167417,7 +168069,7 @@
    ]
   },
   {
-   "id": 2907,
+   "id": 2916,
    "title": "The Day They Burned the Books",
    "altTitles": [],
    "authorship": "single",
@@ -168917,7 +169569,7 @@
    ]
   },
   {
-   "id": 2977,
+   "id": 2986,
    "title": "The Dolls Museum in Dublin",
    "altTitles": [],
    "authorship": "single",
@@ -169634,7 +170286,7 @@
    ]
   },
   {
-   "id": 2872,
+   "id": 2881,
    "title": "The Drinking Gourd",
    "altTitles": [],
    "authorship": "single",
@@ -169681,7 +170333,7 @@
    ]
   },
   {
-   "id": 2969,
+   "id": 2978,
    "title": "The Drowned World",
    "altTitles": [],
    "authorship": "single",
@@ -171478,7 +172130,7 @@
    ]
   },
   {
-   "id": 2876,
+   "id": 2885,
    "title": "The English People",
    "altTitles": [],
    "authorship": "single",
@@ -172614,7 +173266,7 @@
    ]
   },
   {
-   "id": 2903,
+   "id": 2912,
    "title": "The Explosion",
    "altTitles": [],
    "authorship": "single",
@@ -173730,7 +174382,7 @@
    ]
   },
   {
-   "id": 2932,
+   "id": 2941,
    "title": "The Fat Black Woman Goes Shopping",
    "altTitles": [],
    "authorship": "single",
@@ -175637,7 +176289,7 @@
    ]
   },
   {
-   "id": 2881,
+   "id": 2890,
    "title": "The Freedom of the Press",
    "altTitles": [],
    "authorship": "single",
@@ -177246,7 +177898,7 @@
    ]
   },
   {
-   "id": 2979,
+   "id": 2988,
    "title": "The Glass Essay",
    "altTitles": [],
    "authorship": "single",
@@ -177346,7 +177998,7 @@
    ]
   },
   {
-   "id": 2972,
+   "id": 2981,
    "title": "The God of Small Things",
    "altTitles": [],
    "authorship": "single",
@@ -178173,7 +178825,7 @@
    ]
   },
   {
-   "id": 2962,
+   "id": 2971,
    "title": "The Grauballe Man",
    "altTitles": [],
    "authorship": "single",
@@ -182451,7 +183103,7 @@
    ]
   },
   {
-   "id": 2888,
+   "id": 2897,
    "title": "The Housing Lark",
    "altTitles": [],
    "authorship": "single",
@@ -185844,7 +186496,7 @@
    ]
   },
   {
-   "id": 2916,
+   "id": 2925,
    "title": "The Last Quatrain of the Ballad of Emmett Till",
    "altTitles": [],
    "authorship": "single",
@@ -188376,7 +189028,7 @@
    ]
   },
   {
-   "id": 2884,
+   "id": 2893,
    "title": "The Lonely Londoners",
    "altTitles": [],
    "authorship": "single",
@@ -188582,7 +189234,7 @@
    ]
   },
   {
-   "id": 2978,
+   "id": 2987,
    "title": "The Lost Land",
    "altTitles": [],
    "authorship": "single",
@@ -191798,7 +192450,7 @@
    ]
   },
   {
-   "id": 2942,
+   "id": 2951,
    "title": "The Missing",
    "altTitles": [],
    "authorship": "single",
@@ -192433,7 +193085,7 @@
    ]
   },
   {
-   "id": 2869,
+   "id": 2878,
    "title": "The Movement: Documentary of a Struggle for Equality",
    "altTitles": [],
    "authorship": "single",
@@ -197347,7 +197999,7 @@
    ]
   },
   {
-   "id": 2889,
+   "id": 2898,
    "title": "The Plains of Caroni",
    "altTitles": [],
    "authorship": "single",
@@ -199840,7 +200492,7 @@
    ]
   },
   {
-   "id": 2929,
+   "id": 2938,
    "title": "The Prophet's Hair",
    "altTitles": [],
    "authorship": "single",
@@ -204226,7 +204878,7 @@
    ]
   },
   {
-   "id": 2944,
+   "id": 2953,
    "title": "The Schooner Flight",
    "altTitles": [],
    "authorship": "single",
@@ -204581,7 +205233,7 @@
    ]
   },
   {
-   "id": 2945,
+   "id": 2954,
    "title": "The Season of Phantasmal Peace",
    "altTitles": [],
    "authorship": "single",
@@ -205705,7 +206357,7 @@
    ]
   },
   {
-   "id": 2911,
+   "id": 2920,
    "title": "The Shield of Achilles",
    "altTitles": [],
    "authorship": "single",
@@ -206132,7 +206784,7 @@
    ]
   },
   {
-   "id": 2868,
+   "id": 2877,
    "title": "The Sign in Sidney Brustein's Window",
    "altTitles": [],
    "authorship": "single",
@@ -209134,7 +209786,7 @@
    ]
   },
   {
-   "id": 3003,
+   "id": 3012,
    "title": "The Swimmer",
    "altTitles": [],
    "authorship": "single",
@@ -213604,7 +214256,7 @@
    ]
   },
   {
-   "id": 2994,
+   "id": 3003,
    "title": "The Waking",
    "altTitles": [],
    "authorship": "single",
@@ -214831,6 +215483,55 @@
    ]
   },
   {
+   "id": 2869,
+   "title": "The White Album",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Joan Didion"
+   ],
+   "authorIds": [
+    907
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1979",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essay (personal essay)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The long title essay of The White Album (Simon & Schuster, 1979), published complete in New West in 1979 from reporting done in 1968-69: a fragmentary account of Los Angeles at the end of the 1960s, opening with the sentence 'We tell ourselves stories in order to live'.",
+   "summary": "An essay in numbered fragments, moving between reportage - a Doors recording session, Black Panther meetings, a prison interview with Linda Kasabian, a murder trial, a psychiatric examination - and the narrator's own account of a breakdown she experienced in the summer of 1968.",
+   "plot": "The essay opens with the sentence that has become Didion's signature - 'We tell ourselves stories in order to live' - and immediately complicates it: the stories we tell are 'the imposition of a narrative line upon disparate images', and when that line fails, the images are all that is left. What follows is a sequence of such images, most of them drawn from the Los Angeles of 1968-69: the empty house on Franklin Avenue with its 'particular vanity' of black-and-white tiles; the recording studio where the Doors are at work; meetings with the Black Panthers; a prison interview with Linda Kasabian, who is testifying against Charles Manson, and the trial itself; a visit from a man with a gun. Between these scenes Didion places her own case history: the nausea, the spells of vertigo she began to have in the summer of 1968, the psychiatrist's report, the outpatient clinic in Santa Monica, the chemotherapy she was told she might need. The essay's movement is associational; it quotes song lyrics, newspaper clippings, police reports, the psychiatrist's report, and its refrain is the impossibility of the narrative it is nevertheless performing. It ends in a hospital, with Didion looking out at the city and acknowledging that the story she has told is one of many that could have been told.",
+   "significance": "One of the most influential American essays of the second half of the century and a standard text in courses on the essay, on New Journalism and on California; Publishers Weekly named it one of the ten most important essays since 1950, and its first sentence is among the most quoted in modern American prose.",
+   "meter": "Short declarative sentences with a falling rhythm; the present tense used for scenes and the past for reflection; documents and testimony quoted at length and without comment; a repeated first person that is reserved to the point of impersonality; the phrase set in italics or repeated as a refrain.",
+   "context": "The complete essay was published in New West in 1979, from reporting done in 1968-69, and became the first and title essay of The White Album (New York: Simon & Schuster, 1979); portions of the material had appeared earlier in magazines, and the Los Angeles of the essay is the city of the Manson trial, the Black Panthers, the Doors and the aftermath of the 1965 Watts rebellion.",
+   "characters": "",
+   "structure": "An essay in a series of untitled fragments, varying from a paragraph to several pages, with reportage, quotation, personal history and reflection interleaved; there is no argumentative progression and no resolution, and the essay's unity is tonal and thematic rather than narrative.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Cultural Criticism",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay"
+   ],
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The White Album (Wikipedia)"
+   ]
+  },
+  {
    "id": 1954,
    "title": "The White Company",
    "altTitles": [
@@ -216008,7 +216709,7 @@
    ]
   },
   {
-   "id": 3026,
+   "id": 3035,
    "title": "The Woman Thing",
    "altTitles": [],
    "authorship": "single",
@@ -217076,7 +217777,7 @@
    ]
   },
   {
-   "id": 2950,
+   "id": 2959,
    "title": "Theology",
    "altTitles": [],
    "authorship": "single",
@@ -217406,7 +218107,7 @@
    ]
   },
   {
-   "id": 2904,
+   "id": 2913,
    "title": "This Be The Verse",
    "altTitles": [
     "This Be the Verse"
@@ -217458,7 +218159,7 @@
    ]
   },
   {
-   "id": 2890,
+   "id": 2899,
    "title": "Those Who Eat the Cascadura",
    "altTitles": [],
    "authorship": "single",
@@ -217509,7 +218210,7 @@
    ]
   },
   {
-   "id": 3004,
+   "id": 3013,
    "title": "Those Winter Sundays",
    "altTitles": [],
    "authorship": "single",
@@ -217558,7 +218259,7 @@
    ]
   },
   {
-   "id": 2921,
+   "id": 2930,
    "title": "Thoughts About the Person from Porlock",
    "altTitles": [],
    "authorship": "single",
@@ -218796,7 +219497,7 @@
    ]
   },
   {
-   "id": 2870,
+   "id": 2879,
    "title": "To Be Young, Gifted and Black",
    "altTitles": [],
    "authorship": "single",
@@ -218974,7 +219675,7 @@
    ]
   },
   {
-   "id": 2935,
+   "id": 2944,
    "title": "To Room Nineteen",
    "altTitles": [],
    "authorship": "single",
@@ -219024,7 +219725,7 @@
    ]
   },
   {
-   "id": 2918,
+   "id": 2927,
    "title": "To the Diaspora",
    "altTitles": [],
    "authorship": "single",
@@ -219304,7 +220005,7 @@
    ]
   },
   {
-   "id": 2960,
+   "id": 2969,
    "title": "Top Girls",
    "altTitles": [],
    "authorship": "single",
@@ -220443,7 +221144,7 @@
    ]
   },
   {
-   "id": 2886,
+   "id": 2895,
    "title": "Turn Again Tiger",
    "altTitles": [],
    "authorship": "single",
@@ -222094,7 +222795,7 @@
    ]
   },
   {
-   "id": 2987,
+   "id": 2996,
    "title": "Valentine",
    "altTitles": [],
    "authorship": "single",
@@ -224116,7 +224817,7 @@
    ]
   },
   {
-   "id": 2906,
+   "id": 2915,
    "title": "Waiting for Aunty to Cough",
    "altTitles": [],
    "authorship": "single",
@@ -224165,7 +224866,7 @@
    ]
   },
   {
-   "id": 2909,
+   "id": 2918,
    "title": "Waiting for Godot",
    "altTitles": [
     "En attendant Godot"
@@ -224216,7 +224917,7 @@
    ]
   },
   {
-   "id": 2975,
+   "id": 2984,
    "title": "Waiting for the Barbarians",
    "altTitles": [],
    "authorship": "single",
@@ -224412,7 +225113,7 @@
    ]
   },
   {
-   "id": 2957,
+   "id": 2966,
    "title": "Walker Brothers Cowboy",
    "altTitles": [],
    "authorship": "single",
@@ -224794,7 +225495,7 @@
    ]
   },
   {
-   "id": 2986,
+   "id": 2995,
    "title": "Warming Her Pearls",
    "altTitles": [],
    "authorship": "single",
@@ -225062,7 +225763,7 @@
    ]
   },
   {
-   "id": 2885,
+   "id": 2894,
    "title": "Ways of Sunlight",
    "altTitles": [],
    "authorship": "single",
@@ -225167,7 +225868,7 @@
    ]
   },
   {
-   "id": 2913,
+   "id": 2922,
    "title": "We Real Cool",
    "altTitles": [],
    "authorship": "single",
@@ -225528,7 +226229,7 @@
    ]
   },
   {
-   "id": 2971,
+   "id": 2980,
    "title": "What the Tapster Saw",
    "altTitles": [],
    "authorship": "single",
@@ -225581,7 +226282,7 @@
    ]
   },
   {
-   "id": 2873,
+   "id": 2882,
    "title": "What Use Are Flowers?",
    "altTitles": [],
    "authorship": "single",
@@ -225628,7 +226329,7 @@
    ]
   },
   {
-   "id": 2933,
+   "id": 2942,
    "title": "Wherever I Hang",
    "altTitles": [],
    "authorship": "single",
@@ -226035,7 +226736,7 @@
    ]
   },
   {
-   "id": 3020,
+   "id": 3029,
    "title": "Why I Am Not a Painter",
    "altTitles": [],
    "authorship": "single",
@@ -226423,7 +227124,7 @@
    ]
   },
   {
-   "id": 2947,
+   "id": 2956,
    "title": "Wind",
    "altTitles": [],
    "authorship": "single",
@@ -228374,7 +229075,7 @@
    ]
   },
   {
-   "id": 3018,
+   "id": 3027,
    "title": "Zagrowsky Tells",
    "altTitles": [],
    "authorship": "single",

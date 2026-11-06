@@ -17,6 +17,14 @@
    ]
   },
   {
+   "author": "Allen Ginsberg",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "Anne Carson",
    "genres": [
     "Confessional Poetry",
@@ -146,6 +154,16 @@
    ]
   },
   {
+   "author": "Flannery O'Connor",
+   "genres": [
+    "Gothic Fiction",
+    "Realist Fiction",
+    "Satirical Fiction",
+    "Short Story",
+    "Social Criticism"
+   ]
+  },
+  {
    "author": "Frank O'Hara",
    "genres": [
     "Confessional Poetry",
@@ -254,8 +272,36 @@
    ]
   },
   {
+   "author": "James Baldwin",
+   "genres": [
+    "Autobiographical Novel",
+    "Gothic Fiction",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay",
+    "Political Essay",
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Jean Rhys",
    "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "genres": [
+    "Cultural Criticism",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "genres": [
+    "Experimental Fiction",
+    "Metafictional Novel",
     "Short Story"
    ]
   },
@@ -604,6 +650,12 @@
    ]
   },
   {
+   "author": "Allen Ginsberg",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
    "author": "Anne Carson",
    "movements": [
     "Second-Wave Feminist Writing"
@@ -696,6 +748,12 @@
    ]
   },
   {
+   "author": "Flannery O'Connor",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
    "author": "Frank O'Hara",
    "movements": [
     "The New York School"
@@ -767,10 +825,29 @@
    ]
   },
   {
+   "author": "James Baldwin",
+   "movements": [
+    "Black Arts Movement",
+    "Southern Gothic"
+   ]
+  },
+  {
    "author": "Jean Rhys",
    "movements": [
     "Caribbean Literature in English",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
    ]
   },
   {
@@ -1005,6 +1082,14 @@
    ]
   },
   {
+   "author": "Allen Ginsberg",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
    "author": "Anne Carson",
    "themes": [
     "Family, marriage and domestic life",
@@ -1143,6 +1228,17 @@
    ]
   },
   {
+   "author": "Flannery O'Connor",
+   "themes": [
+    "Class, labour and social mobility",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
+   ]
+  },
+  {
    "author": "Frank O'Hara",
    "themes": [
     "Art, the artist and the creative life",
@@ -1263,6 +1359,17 @@
    ]
   },
   {
+   "author": "James Baldwin",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "Violence, crime and justice"
+   ]
+  },
+  {
    "author": "Jean Rhys",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -1271,6 +1378,22 @@
     "Love, intimacy and loss",
     "Migration, exile and diaspora",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Language, writing and the limits of representation"
    ]
   },
   {
@@ -2187,6 +2310,49 @@
     "Against Interpretation (Wikipedia)",
     "Susan Sontag (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "James Baldwin",
+   "sources": [
+    "A Letter to My Nephew (The Progressive, via course reading)",
+    "Going to Meet the Man (Wikipedia)",
+    "James Baldwin (Wikipedia)",
+    "James Baldwin bibliography (baldwinbibliography.com)",
+    "Sonny's Blues (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Flannery O'Connor",
+   "sources": [
+    "A Good Man Is Hard to Find (Wikipedia)",
+    "Everything That Rises Must Converge (Wikipedia)",
+    "Flannery O'Connor (Wikipedia)",
+    "Good Country People (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Allen Ginsberg",
+   "sources": [
+    "Howl (poem) (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "John Barth",
+   "sources": [
+    "John Barth (Wikipedia)",
+    "Lost in the Funhouse (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Joan Didion",
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The White Album (Wikipedia)"
    ]
   }
  ]

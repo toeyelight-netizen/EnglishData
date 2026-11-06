@@ -914,6 +914,51 @@
    "work": "Against Interpretation",
    "author": "Susan Sontag",
    "contribution_type": "author"
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "author": "John Barth",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The White Album",
+   "author": "Joan Didion",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sonny's Blues",
+   "author": "James Baldwin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Going to Meet the Man",
+   "author": "James Baldwin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Letter to My Nephew",
+   "author": "James Baldwin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Good Country People",
+   "author": "Flannery O'Connor",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "author": "Flannery O'Connor",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "author": "Flannery O'Connor",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Howl",
+   "author": "Allen Ginsberg",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2277,6 +2322,78 @@
     "Cultural Criticism",
     "Literary Criticism and Theory (1946–2000)",
     "Literary Essay"
+   ]
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "genres": [
+    "Experimental Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ]
+  },
+  {
+   "work": "The White Album",
+   "genres": [
+    "Personal Essay",
+    "Cultural Criticism",
+    "Nonfiction Prose (1946–2000)"
+   ]
+  },
+  {
+   "work": "Sonny's Blues",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Autobiographical Novel"
+   ]
+  },
+  {
+   "work": "Going to Meet the Man",
+   "genres": [
+    "Short Story",
+    "Gothic Fiction",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "Letter to My Nephew",
+   "genres": [
+    "Personal Essay",
+    "Political Essay",
+    "Nonfiction Prose (1946–2000)"
+   ]
+  },
+  {
+   "work": "Good Country People",
+   "genres": [
+    "Short Story",
+    "Gothic Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "genres": [
+    "Short Story",
+    "Gothic Fiction",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Social Criticism"
+   ]
+  },
+  {
+   "work": "Howl",
+   "genres": [
+    "Free Verse",
+    "Political Poetry",
+    "Confessional Poetry"
    ]
   }
  ],
@@ -3734,6 +3851,78 @@
     "Language, writing and the limits of representation",
     "Technology, media and consumer society"
    ]
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "The White Album",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "The city, the suburb and modern space",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Sonny's Blues",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Going to Meet the Man",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Letter to My Nephew",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Good Country People",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Violence, crime and justice",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Howl",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Madness, breakdown and confinement",
+    "Sexuality, desire and the closet"
+   ]
   }
  ],
  "work_movements": [
@@ -4688,6 +4877,61 @@
    "movements": [
     "Postmodernism and Postmodern Fiction"
    ]
+  },
+  {
+   "work": "Lost in the Funhouse",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "The White Album",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Sonny's Blues",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Going to Meet the Man",
+   "movements": [
+    "Black Arts Movement",
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "Letter to My Nephew",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Good Country People",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "A Good Man Is Hard to Find",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "Everything That Rises Must Converge",
+   "movements": [
+    "Southern Gothic"
+   ]
+  },
+  {
+   "work": "Howl",
+   "movements": [
+    "The Beat Generation"
+   ]
   }
  ],
  "work_periods": [
@@ -4876,7 +5120,16 @@
     "Black Mother Woman",
     "Uses of the Erotic: The Erotic as Power",
     "The Master's Tools Will Never Dismantle the Master's House",
-    "Against Interpretation"
+    "Against Interpretation",
+    "Lost in the Funhouse",
+    "The White Album",
+    "Sonny's Blues",
+    "Going to Meet the Man",
+    "Letter to My Nephew",
+    "Good Country People",
+    "A Good Man Is Hard to Find",
+    "Everything That Rises Must Converge",
+    "Howl"
    ]
   }
  ]
