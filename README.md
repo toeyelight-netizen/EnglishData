@@ -8,6 +8,10 @@ The database is populated in **ten sequential research installments**, all
 writing to the same cumulative master database. No installment ever replaces
 or deletes earlier data.
 
+> Resuming this project, or working on it as an agent? Read
+> [`AGENT_HANDOVER.md`](AGENT_HANDOVER.md) first: it has the build chain in
+> order, the gate scripts, the database traps and where the work stands.
+
 ## Current status
 
 | Installment | Period | Status |
@@ -85,7 +89,7 @@ the detailed progress log.
 ## Setup
 
 ```bash
-cd English-Literature-Database
+cd EnglishData
 python -m pip install -r requirements.txt
 ```
 
@@ -101,10 +105,18 @@ schema idempotently (convenience path; migrations remain canonical).
 ## Standard workflow (per installment)
 
 ```bash
+# 0. Content changes only: build the installment JSON and run its strict checks.
+#    --check-only reports problems without writing; the build exits non-zero on
+#    a thin field, template text, an undefined taxonomy name or a duplicate title.
+python scripts/build_installment.py 10 --check-only
+python scripts/build_installment.py 10
+
 # 1. Import research JSON (idempotent: safe to re-run)
 python scripts/import_data.py
 
-# 2. Validate the database (writes documentation/validation_reports/)
+# 2. Check the installment's own integrity, then validate the database
+#    (validation writes documentation/validation_reports/)
+python scripts/check_installment.py 10
 python scripts/validate_database.py --installment NN
 
 # 3. Check for duplicates
@@ -116,6 +128,10 @@ python -m unittest discover -s tests -v
 # 5. Statistics and exports
 python scripts/generate_statistics.py
 python scripts/export_data.py
+python scripts/export_app_data.py
+
+# 6. Regenerate the installment audit and coverage matrix
+python scripts/audit_installment_10.py
 ```
 
 Back up the master database after every installment:
@@ -127,7 +143,7 @@ cp database/English_Literature_Master.db database/backups/English_Literature_Mas
 ## Directory structure
 
 ```
-English-Literature-Database/
+EnglishData/
 |-- database/            # English_Literature_Master.db + backups/
 |-- data/                # research JSON by entity + exports/
 |-- scripts/             # initialize, import, export, validate, duplicates, statistics

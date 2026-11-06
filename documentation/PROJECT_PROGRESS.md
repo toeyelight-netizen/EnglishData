@@ -2032,15 +2032,20 @@ lists that name no one, caught the fabricated record but would have missed
 the four bad plots, so it gives an order of work, not a filter.
 
 **Stopping point.** The ordered list of outstanding tasks is in
-`research/installment_10/report_notes.md`:
+`research/installment_10/report_notes.md`, kept current to wave 26:
 1. done in waves 13 and 14: the selections of the five recorded authors and
    of the installment-9 authors Rhys, Beckett, Auden and Brooks;
 2. (merged into 1);
-3. record the other Norton authors and their selections, in Norton's order
-   (wave 15 reached Salman Rushdie in the English anthology; next is Grace
-   Nichols);
-4. check every provisional date, including the 24 selections still to be
-   dated, and run the plot check of installments 8–9;
+3. record the remaining Norton authors and their selections, in Norton's order.
+   The English anthology is complete for the period: 90 of 90 in-scope
+   selections have records (waves 15–20, to Kiran Desai). The American
+   anthology is under way: waves 21–26 recorded 75 of its 165 unique in-scope
+   selections, and the next is Sylvia Plath's eight poems, followed by Toni
+   Morrison, John Updike, Philip Roth, Philip K. Dick, Ursula K. Le Guin and
+   Octavia E. Butler; 90 selections remain, with Jhumpa Lahiri and Junot Díaz
+   at the end;
+4. check every provisional date, including the 17 selections still to be dated
+   (11 English, 6 American), and run the plot check of installments 8–9;
 5. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
