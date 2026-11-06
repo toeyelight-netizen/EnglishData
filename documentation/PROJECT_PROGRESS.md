@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–10, giving **856 authors / 2942 works** across ten periods (c. 450–2000).
+  waves 01–11, giving **857 authors / 2954 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Ten research waves are built; see
+  **Installment 10 is in progress.** Eleven research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1511,7 +1511,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–10 are built (98 works by 10 authors). Not complete.**
+**Status: in progress. Waves 01–11 are built (110 works by 11 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1699,6 +1699,27 @@ with broader Anglophone writing out of scope.
     anthology are listed in his bibliography note but not recorded as works,
     because no source consulted describes their contents. Ten groups of
     discrepancies are recorded in limitation 20 of the audit report.
+- **Wave 11:** R. K. Narayan (India; Tamil novelist of Mysore), the first
+  South Asian author: the ten novels from *Mr. Sampath* (1949) to *The World
+  of Nagaraj* (1990) and the story collections *An Astrologer's Day* (1947)
+  and *A Horse and Two Goats* (1970). *The Guide* (1958) and *The Financial
+  Expert* (1952) have full major records; seven novels have significant
+  records. The audit's "other English-language" count moves from 5 to 6, and
+  genre-checklist coverage from 58 to 59 of 161.
+  - **Sources:** Gale's *Contemporary Authors* and *Contextual Encyclopedia*;
+    Wikipedia's articles on Narayan and on the ten novels; Paul Brians's study
+    guide to *The Guide*; the Post45 Playboy Fiction Index (used by discovery
+    since the pilot, now recorded); and labelled search extracts (Kirkus on
+    *Talkative Man*, *Contemporary Literary Criticism* via eNotes, a women's
+    studies article and Subarna Mondal's essay) (sources 143–152).
+  - **Verification:** the author record is verified and the 12 works are
+    partially verified; none of the books was read. His other eighteen books
+    of 1946–2000 (later stories, the retellings of myth and epic, travel
+    writing, essays, the memoir *My Days*) are listed in the bibliography note
+    and are the work of wave 12. Gale's summary of *The Guide* contradicts the
+    fuller plot and is not followed; this and seven other discrepancies or gaps
+    are recorded in limitation 21 of the audit report, including the absence of
+    his 1935–1945 books from installment 9.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1806,4 +1827,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–10: 98 works by 10 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–11: 110 works by 11 authors) |

@@ -76,4 +76,12 @@ MAP_B5 = {
         ["Children's Fiction"],
         ['Power, the state and surveillance', 'Violence, crime and justice'],
         ['African Literature in English']),
+    "An Astrologer's Day and Other Stories": (['R. K. Narayan'],
+        ['Short-Story Collection'],
+        ['Violence, crime and justice', 'Faith, doubt and the sacred', 'Identity, authenticity and the divided self'],
+        ['South Asian Literature in English']),
+    'Mr. Sampath': (['R. K. Narayan'],
+        ['Comic Novel', 'Social Novel'],
+        ['Art, the artist and the creative life', 'Technology, media and consumer society', 'Love, intimacy and loss', 'Faith, doubt and the sacred'],
+        ['South Asian Literature in English']),
 }

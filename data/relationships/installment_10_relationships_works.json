@@ -494,6 +494,66 @@
    "work": "King Forever!",
    "author": "Cyprian Ekwensi",
    "contribution_type": "author"
+  },
+  {
+   "work": "An Astrologer's Day and Other Stories",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mr. Sampath",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Financial Expert",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Waiting for the Mahatma",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Guide",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Man-Eater of Malgudi",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Vendor of Sweets",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Horse and Two Goats and Other Stories",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Painter of Signs",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Tiger for Malgudi",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Talkative Man",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The World of Nagaraj",
+   "author": "R. K. Narayan",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1188,6 +1248,85 @@
    "work": "King Forever!",
    "genres": [
     "Children's Fiction"
+   ]
+  },
+  {
+   "work": "An Astrologer's Day and Other Stories",
+   "genres": [
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "work": "Mr. Sampath",
+   "genres": [
+    "Comic Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "The Financial Expert",
+   "genres": [
+    "Comic Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Waiting for the Mahatma",
+   "genres": [
+    "Political Novel",
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "The Guide",
+   "genres": [
+    "Philosophical Fiction",
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "The Man-Eater of Malgudi",
+   "genres": [
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "The Vendor of Sweets",
+   "genres": [
+    "Domestic Fiction",
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "A Horse and Two Goats and Other Stories",
+   "genres": [
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "work": "The Painter of Signs",
+   "genres": [
+    "Comic Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "A Tiger for Malgudi",
+   "genres": [
+    "Philosophical Fiction"
+   ]
+  },
+  {
+   "work": "Talkative Man",
+   "genres": [
+    "Comic Novel"
+   ]
+  },
+  {
+   "work": "The World of Nagaraj",
+   "genres": [
+    "Comic Novel",
+    "Domestic Fiction"
    ]
   }
  ],
@@ -1961,6 +2100,111 @@
     "Power, the state and surveillance",
     "Violence, crime and justice"
    ]
+  },
+  {
+   "work": "An Astrologer's Day and Other Stories",
+   "themes": [
+    "Violence, crime and justice",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Mr. Sampath",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Technology, media and consumer society",
+    "Love, intimacy and loss",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "The Financial Expert",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Faith, doubt and the sacred",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Waiting for the Mahatma",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity",
+    "Love, intimacy and loss",
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Guide",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "The Man-Eater of Malgudi",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Violence, crime and justice",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "The Vendor of Sweets",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Faith, doubt and the sacred",
+    "Migration, exile and diaspora",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "A Horse and Two Goats and Other Stories",
+   "themes": [
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Painter of Signs",
+   "themes": [
+    "Love, intimacy and loss",
+    "Gender, feminism and women's lives",
+    "Art, the artist and the creative life",
+    "Faith, doubt and the sacred",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "A Tiger for Malgudi",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Faith, doubt and the sacred",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Talkative Man",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "The World of Nagaraj",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural"
+   ]
   }
  ],
  "work_movements": [
@@ -2350,6 +2594,78 @@
    "movements": [
     "African Literature in English"
    ]
+  },
+  {
+   "work": "An Astrologer's Day and Other Stories",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "Mr. Sampath",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "The Financial Expert",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "Waiting for the Mahatma",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "The Guide",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "The Man-Eater of Malgudi",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "The Vendor of Sweets",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "A Horse and Two Goats and Other Stories",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "The Painter of Signs",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "A Tiger for Malgudi",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "Talkative Man",
+   "movements": [
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "work": "The World of Nagaraj",
+   "movements": [
+    "South Asian Literature in English"
+   ]
   }
  ],
  "work_periods": [
@@ -2453,7 +2769,19 @@
     "Divided We Stand",
     "Jagua Nana's Daughter",
     "For a Roll of Parchment",
-    "King Forever!"
+    "King Forever!",
+    "An Astrologer's Day and Other Stories",
+    "Mr. Sampath",
+    "The Financial Expert",
+    "Waiting for the Mahatma",
+    "The Guide",
+    "The Man-Eater of Malgudi",
+    "The Vendor of Sweets",
+    "A Horse and Two Goats and Other Stories",
+    "The Painter of Signs",
+    "A Tiger for Malgudi",
+    "Talkative Man",
+    "The World of Nagaraj"
    ]
   }
  ]
