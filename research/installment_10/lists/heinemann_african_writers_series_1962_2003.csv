@@ -1,0 +1,642 @@
+number,year,author,role,genre,title,language,notes
+1,1962,Chinua Achebe,original,Novel,Things Fall Apart,English,
+2,1962,Cyprian Ekwensi,original,Novel,Burning Grass: a story of the Fulani of Northern Nigeria,English,
+3,1963,Chinua Achebe,original,Novel,No Longer at Ease,English,
+4,1962,Kenneth D. Kaunda,nonfiction,Autobiography,Zambia Shall Be Free: an autobiography,English,
+5,1963,Cyprian Ekwensi,original,Novel,People of the City,English,"revised edition; first published London: Dakers, 1954"
+6,1963,Peter Abrahams,original,Novel,Mine Boy,English,"first published London: Crisp, 1946"
+7,1964,Ngũgĩ wa Thiong'o,original,Novel,"Weep Not, Child",English,published as James Ngugi
+8,1964,John Reed and Clive Wake,editor,Poetry,A Book of African Verse,English,later edition (1984) as New Book of African Verse
+9,1964,Richard Rive,editor,Short Stories,Modern African Prose,English,anthology compiled and edited by Richard Rive
+9,1964,Peter Abrahams,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Chinua Achebe,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Es'kia Mphahlele,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Abioseh Nicol,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Alfred Hutchinson,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Efua Sutherland,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Jonathan Kariara,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Peter Clarke,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Luís Bernardo Honwana,contributor_translation,Short Stories,in: Modern African Prose (ed. Richard Rive),Portuguese,wrote in Portuguese (see no. 60); skipped as a translation
+9,1964,Jack Cope,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Cyprian Ekwensi,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Amos Tutuola,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Camara Laye,contributor_translation,Short Stories,in: Modern African Prose (ed. Richard Rive),French,wrote in French; skipped as a translation
+9,1964,James Matthews,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Alf Wannenburgh,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,William Conton,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Onuora Nzekwu,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+9,1964,Ngũgĩ wa Thiong'o,contributor,Short Stories,in: Modern African Prose (ed. Richard Rive),English,
+10,1967,Olaudah Equiano,reprint,Autobiography,Equiano's Travels: His Autobiography (abridged and edited by Paul Edwards),English,"eighteenth-century text; a reprint, not activity in 1946-2000"
+11,1965,T. M. Aluko,original,Novel,"One Man, One Matchet",English,
+12,1964,William Conton,original,Novel,The African,English,"first published London: Heinemann, 1960"
+13,1964,Mongo Beti,translation,Novel,Mission to Kala,French,translated by Peter Green from Mission terminée (1957)
+14,1963,Richard Rive,editor,Short Stories,Quartet: New Voices from South Africa,English,"stories by Alex La Guma, James Matthews, Richard Rive and Alf Wannenburgh"
+14,1963,Alex La Guma,contributor,Short Stories,in: Quartet: New Voices from South Africa (ed. Richard Rive),English,
+14,1963,James Matthews,contributor,Short Stories,in: Quartet: New Voices from South Africa (ed. Richard Rive),English,
+14,1963,Alf Wannenburgh,contributor,Short Stories,in: Quartet: New Voices from South Africa (ed. Richard Rive),English,
+15,1965,David Cook,editor,Various,Origin East Africa: a Makerere anthology,English,prose and verse
+16,1965,Chinua Achebe,original,Novel,Arrow of God,English,
+17,1965,Ngũgĩ wa Thiong'o,original,Novel,The River Between,English,published as James Ngugi
+18,1966,Obotunde Ijimere,original,Plays,"The Imprisonment of Obatala, and other plays",English,
+19,1966,Cyprian Ekwensi,original,Short Stories,Lokotown and Other Stories,English,
+20,1966,Mugo Gatheru,nonfiction,Autobiography,Child of Two Worlds,English,
+21,1966,John Munonye,original,Novel,The Only Son,English,
+22,1966,Lenrie Peters,original,Novel,The Second Round,English,
+23,1966,Ulli Beier,editor,Folklore,The Origin of Life and Death: African creation myths,English,
+24,1966,Aubrey Kachingwe,original,Novel,No Easy Task,English,
+25,1966,Elechi Amadi,original,Novel,The Concubine,English,
+26,1966,Flora Nwapa,original,Novel,Efuru,English,
+27,1967,Francis Selormey,original,Novel,The Narrow Path,English,
+28,1968,David Cook and Miles Lee,editor,Plays,Short East African Plays in English,English,ten plays in English
+29,1966,Ferdinand Oyono,translation,Novel,Houseboy,French,translated by John Reed from Une vie de boy
+30,1967,T. M. Aluko,original,Novel,"One Man, One Wife",English,
+31,1966,Chinua Achebe,original,Novel,A Man of the People,English,"the source's note ""originally published: Nigerian Printing and Publishing, 1959"" is not transcribed: it conflicts with the novel's 1966 first publication and appears misplaced (unresolved)"
+32,1967,T. M. Aluko,original,Novel,Kinsman and Foreman,English,
+33,1967,Stanlake Samkange,original,Novel,On Trial for my Country,English,
+34,1968,Cosmo Pieterse,editor,Plays,Ten One-Act Plays,English,
+34,1968,Kuldip Sondhi,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""Encounter""; ""With Strings""",English,
+34,1968,Pat Maddy,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""Yon Kon""",English,
+34,1968,Femi Euba,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""The Game""",English,
+34,1968,Ime Ikeddeh,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""Blind Cyclos""",English,
+34,1968,Ganesh Bagchi,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""The Deviant""",English,
+34,1968,Alfred Hutchinson,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""Fusane's Trial""",English,
+34,1968,Arthur Maimane,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""The Opportunity""",English,
+34,1968,Kwesi Kay,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""Maama""",English,
+34,1968,Athol Fugard,contributor,Plays,"in: Ten One-Act Plays (ed. Cosmo Pieterse): ""The Occupation""",English,
+35,1967,Alex La Guma,original,Short Stories,A Walk in the Night and other stories,English,
+36,1967,Ngũgĩ wa Thiong'o,original,Novel,A Grain of Wheat,English,published as James Ngugi
+37,1967,Lenrie Peters,original,Poetry,Satellites,English,
+38,1967,Oginga Odinga,nonfiction,Autobiography,Not Yet Uhuru: the autobiography of Oginga Odinga,English,foreword by Kwame Nkrumah
+39,1969,Ferdinand Oyono,translation,Novel,The Old Man and the Medal,French,translated by John Reed from Le vieux nègre et la médaille
+40,1967,Asare Konadu,original,Novel,A Woman in Her Prime,English,
+41,1968,Amu Djoleto,original,Novel,The Strange Man,English,
+42,1970,Kofi Awoonor and G. Adali-Mortty,original,Poetry,Messages: Poems from Ghana,English,
+43,1969,Ayi Kwei Armah,original,Novel,The Beautyful Ones Are Not Yet Born,English,"first published Boston: Houghton Mifflin, 1968"
+44,1969,Elechi Amadi,original,Novel,The Great Ponds,English,
+45,1969,John Munonye,original,Novel,Obi,English,
+46,1968,Dennis Brutus,original,Poetry,Letters to Martha: and other poems from a South African prison,English,
+47,1969,Tayeb Salih,translation,Short Stories,"The Wedding of Zein, and other stories",Arabic,translated by Denys Johnson-Davies
+48,1968,Bakare Gbadamosi and Ulli Beier,translation,Folklore,Not Even God Is Ripe Enough,Yoruba,translated from the Yoruba
+49,1968,Kwame Nkrumah,nonfiction,Nonfiction,Neo-colonialism: the last stage of imperialism,English,"first published London: Nelson, 1965"
+50,1968,J. P. Clark,nonfiction,Nonfiction,"America, Their America",English,"first published London: Deutsch, 1964"
+51,1968,Ngũgĩ wa Thiong'o,original,Play,The Black Hermit,English,published as James Ngugi
+52,1969,B. M. Sahle Sellassie,original,Novel,The Afersata: an Ethiopian novel,English,
+53,1968,Peter K. Palangyo,original,Novel,Dying in the Sun,English,
+54,1970,Robert Serumaga,original,Novel,Return to the Shadows,English,
+55,1969,Asare Konadu,original,Novel,Ordained by the Oracle,English,first published as Come Back Dora (Accra: Anowuo)
+56,1970,Flora Nwapa,original,Novel,Idu,English,
+57,1969,Mbella Sonne Dipoko,original,Novel,Because of Women,English,
+58,1969,Ulli Beier,editor,Short Stories,Political Spider: an anthology of stories from Black Orpheus,English,
+59,1971,Bediako Asare,original,Novel,Rebel,English,
+60,1969,Luís Bernardo Honwana,translation,Short Stories,We Killed Mangy Dog and Other Stories,Portuguese,translated by Dorothy Guedes
+61,1969,Rems Nna Umeasiegbu,nonfiction,Folklore,The Way We Lived: Ibo customs and stories,English,
+62,1971,Christopher Okigbo,original,Poetry,"Labyrinths, with Path of Thunder",English,
+63,1970,Sembene Ousmane,translation,Novel,God's Bits of Wood,French,translated by Francis Price
+64,1971,Cosmo Pieterse,editor,Poetry,7 South African Poets: poems of exile,English,
+66,1969,Tayeb Salih,translation,Novel,Season of Migration to the North,Arabic,translated by Denys Johnson-Davies
+67,1970,Nkem Nwankwo,original,Novel,Danda,English,"first published London: Deutsch, 1964"
+68,1970,Gabriel Okara,original,Novel,The Voice,English,"first published London: Deutsch, 1964"
+69,1969,Taban lo Liyong,original,Short Stories,"Fixions, and other stories",English,
+70,1970,T. M. Aluko,original,Novel,"Chief, The Honourable Minister",English,
+71,1969,Léopold Sédar Senghor,translation,Poetry,Nocturnes,French,translated by John Reed and Clive Wake
+72,1970,Felix U'tamsi,translation,Poetry,Selected Poems,French,translated by Gerald Moore
+73,1970,Len Ortzen,translation,Various,North African Writing,French,selected and translated by Len Ortzen
+74,1970,Taban lo Liyong,editor,Nonfiction,Eating Chiefs: Lwo culture from Lolwe to Malkal,English,
+75,1970,Jan Knappert,nonfiction,Folklore,Myths and Legends of the Swahili,English,
+76,1970,Wole Soyinka,original,Novel,The Interpreters,English,"first published London: Deutsch, 1965"
+77,1970,Mongo Beti,translation,Novel,King Lazarus,French,translated from Le roi miraculé (1958)
+78,1972,Cosmo Pieterse,anthology_compiler,Plays,Short African Plays,English,"named without ""ed."" in the source; also contributes ""Ballad of the Cells"""
+78,1972,Kofi Awoonor,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""Ancestral Power""; ""Lament""",English,
+78,1972,Kuldip Sondhi,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""Magic Pool""",English,
+78,1972,Sanya Dosunmu,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""God's Deputy""",English,
+78,1972,Richard Rive,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""Resurrection""",English,
+78,1972,Pat Amadu Maddy,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""Life Everlasting""",English,
+78,1972,Mbella Sonne Dipoko,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""Overseas""",English,
+78,1972,Ngũgĩ wa Thiong'o,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""This Time Tomorrow""",English,
+78,1972,David Lytton,contributor,Plays,"in: Short African Plays (Cosmo Pieterse): ""Episodes of an Easter Rising""",English,
+79,1972,Driss Chraibi,translation,Novel,Heirs to the Past,French,translated by Len Ortzen from Succession ouverte (1962)
+80,1970,Nuruddin Farah,original,Novel,From a Crooked Rib,English,
+81,1970,Tom Mboya,nonfiction,Nonfiction,The Challenge of Nationhood: a collection of speeches and writings,English,
+82,1970,Mbella Sonne Dipoko,original,Novel,A Few Nights and Days,English,"first published Harlow: Longmans, 1966"
+83,1971,Jan Knappert,nonfiction,Folklore,Myths and Legends of the Congo,English,
+84,1971,Cyprian Ekwensi,original,Novel,Beautiful Feathers,English,"first published London: Hutchinson, 1963"
+85,1971,Onuora Nzekwu,original,Novel,Wand of Noble Wood,English,
+86,1971,Francis Bebey,translation,Novel,Agatha Moudio's Son,French,translated by Joyce A. Hutchinson
+87,1971,Bernard B. Dadié,translation,Novel,Climbié,French,translated by Karen C. Chapman
+88,1971,Mongo Beti,translation,Novel,The Poor Christ of Bomba,French,translated by Gerald Moore (French original 1956)
+89,1971,Pat Amadu Maddy,original,Plays,Obasai and other plays,English,
+90,1971,Taban lo Liyong,original,Poetry,Frantz Fanon's Uneven Ribs: poems more and more,English,genre column blank in the source; the title identifies poems
+91,1972,Onuora Nzekwu,original,Novel,Blade Among the Boys,English,"first published London: Hutchinson, 1962"
+92,1972,Ousmane Sembène,translation,Novella,"The Money-Order; with, White Genesis",French,translated by Clive Wake
+93,1972,Jan Knappert,translation,Poetry,A Choice of Flowers: an anthology of Swahili love poetry,Swahili,edited and translated by Jan Knappert
+94,1971,John Munonye,original,Novel,Oil Man of Obange,English,
+95,1971,Sonallah Ibrahim,translation,Short Stories,"The Smell of It, and other stories",Arabic,translated by Denys Johnson-Davies
+96,1971,David Cook and David Rubadiri,editor,Poetry,Poems from East Africa,English,
+97,1971,Ali A. Mazrui,original,Novel,The Trial of Christopher Okigbo,English,
+98,1971,Dominic Mulaisho,original,Novel,The Tongue of the Dumb,English,
+99,1971,Yambo Ouologuem,translation,Novel,Bound to Violence,French,translated by Ralph Manheim
+100,1972,Chinua Achebe,original,Short Stories,Girls at War and Other Stories,English,
+101,1972,Bessie Head,original,Novel,Maru,English,
+102,1971,Kole Omotoso,original,Novel,The Edifice,English,
+103,1971,Lenrie Peters,original,Poetry,Katchikali,English,
+104,1972,Can Themba,original,Short Stories,The Will to Die,English,selected by Donald Stuart and Roy Holland
+105,1971,Bonnie Lubega,original,Novel,The Outcasts,English,
+106,1972,John Reed and Clive Wake,translation,Poetry,French African Verse,French,with English translations by John Reed and Clive Wake
+107,1972,Mbella Sonne Dipoko,original,Poetry,Black and White in Love: poems,English,
+108,1972,Kofi Awoonor,original,Novel,"This Earth, My Brother",English,"first published Garden City: Doubleday, 1971"
+109,1972,Emmanuel N. Obiechina,original,,Onitsha Market Literature,English,
+110,1972,Alex La Guma,original,Novel,In the Fog of the Seasons' End,English,
+111,1972,Jared Angira,original,Poetry,Silent Voices: poems,English,
+112,1972,Lawrence Vambe,nonfiction,Nonfiction,An Ill-Fated People: Zimbabwe before and after Rhodes,English,"first published with a foreword by Doris Lessing, London: Heinemann, 1972"
+113,1971,S. Okechukwu Mezu,original,Novel,Behind the Rising Sun,English,
+114,1972,Cosmo Pieterse,original,Plays,Five African Plays,English,
+115,1973,Dennis Brutus,original,Poetry,A Simple Lust: selected poems including Sirens Knuckles Boots; Letters to Martha; Poems from Algiers; Thoughts Abroad,English,
+116,1972,Taban lo Liyong,original,Poetry,Another Nigger Dead: poems,English,
+117,1973,Tawfiq al-Hakim,translation,Plays,Fate of a Cockroach: four plays of freedom,Arabic,selected and translated by Denys Johnson-Davies
+118,1972,Malum Amadu,translation,Folklore,Amadu's Bundle: Fulani tales of love and djinns,not stated,collected by Malum Amadu; edited by Gulla Kell; translated into English by Ronald Moody
+119,1972,Cheikh Hamidou Kane,translation,Novel,Ambiguous Adventure,French,"translated by Katherine Woods (New York: Walker, 1963) from L'Aventure ambiguë (Paris: Julliard, 1962)"
+120,1970,Chinua Achebe,original,Poetry,"Beware, Soul Brother",English,revised and enlarged edition
+121,1973,John Munonye,original,Novel,A Wreath for Maidens,English,
+122,1972,Kole Omotoso,original,Novel,The Combat,English,
+123,1973,Nelson Mandela,nonfiction,Autobiography,No Easy Walk to Freedom,English,
+124,1973,Modikwe Dikobe,original,Novel,The Marabi Dance,English,
+125,1973,Daniachew Worku,original,Novel,The Thirteenth Sun,English,
+126,1973,Syl Cheney-Coker,original,Poetry,Concerto for an Exile: poems,English,
+127,1973,Gwyneth Henderson and Cosmo Pieterse,editor,Plays,Nine African Plays for Radio,English,
+128,1973,D. M. Zwelonke,original,Novel,Robben Island,English,
+129,1973,Romanus Egudu and Donatus Nwoga,translation,Poetry,Igbo Traditional Verse,Igbo,compiled and translated by the editors; first published 1971 as Poetic Heritage
+130,1973,T. M. Aluko,original,Novel,His Worshipful Majesty,English,
+131,1973,Doris Lessing,original,Novel,The Grass is Singing,English,
+132,1973,Lalage Bown,nonfiction,Nonfiction,Two Centuries of African English: a survey and anthology of non-fictional English prose by African writers since 1769,English,
+133,1975,Ham Mukasa,reprint,Nonfiction,Sir Apolo Kagwa Discovers Britain,English,edited by Taban lo Liyong; first published in 1904 as Uganda's Katikiro in England
+134,1973,Gwyneth Henderson,editor,Plays,African Theatre: eight prize-winning plays for radio,English,
+134,1973,Richard Rive,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""Make Like Slaves""",English,
+134,1973,A. K. Mustapha,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""Station Street""",English,
+134,1973,J. Singh,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""Sweet Scum of Freedom""",English,
+134,1973,C. C. Umeh,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""Double Attack""",English,
+134,1973,D. Clems,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""Scholarship Woman""",English,
+134,1973,K. Tsaro-Wiwa,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""The Transistor Radio""",English,name as printed in the source
+134,1973,E. N. Zirimu,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""Family Spear""",English,
+134,1973,W. Ogunyemi,contributor,Plays,"in: African Theatre (ed. Gwyneth Henderson): ""Sign of the Rainbow""",English,
+135,1973,René Maran,translation,Novel,Batouala,French,translated by Barbara Beck and Alexandre Mboukou
+136,1974,Kobina Sekyi,original,,The Blinkards,English,
+137,1973,Yulisa Amadu Maddy,original,,"No Past, No Present, No Future",English,
+138,1973,Martin Owusu,original,Plays,"The Sudden Return, and other plays",English,
+139,1973,Mwangi Ruheni,original,Novel,The Future Leaders,English,
+140,1973,Elechi Amadi,nonfiction,Nonfiction,Sunset in Biafra: a civil war diary,English,
+141,1973,Arthur Nortje,original,Poetry,Dead Roots,English,
+142,1974,Ousmane Sembène,translation,Short Stories,Tribal Scars and other stories,French,translated by Len Ortzen
+143,1973,Meja Mwangi,original,,Kill Me Quick,English,
+144,1973,Malick Fall,translation,,The Wound,French,translated by Clive Wake from La plaie
+145,1974,Meja Mwangi,original,,Carcase for Hounds,English,
+146,1975,Cyprian Ekwensi,original,,Jagua Nana,English,"first published London: Hutchinson, 1961"
+147,1974,Okot p'Bitek,original,,The Horn of My Love,English,
+148,1974,I. N. C. Aniebo,original,,The Anonymity of Sacrifice,English,
+149,1974,Bessie Head,original,,A Question of Power,English,"first published London: Davis-Poynter, 1974"
+150,1975,Ngũgĩ wa Thiong'o,original,,"Secret Lives, and other stories",English,
+151,1975,Naguib Mahfouz,translation,,Midaq Alley,Arabic,translated by Trevor Le Gassick
+152,1974,Alex La Guma,original,,The Stone-Country,English,first published 1967
+153,1975,John Munonye,original,Novel,A Dancer of Fortune,English,
+154,1974,Ayi Kwei Armah,original,,Fragments,English,
+155,1974,Ayi Kwei Armah,original,Novel,Why Are We So Blest?: a novel,English,
+156,1975,Mwangi Ruheni,original,,The Minister's Daughter,English,
+157,1975,A. W. Kayper-Mensah,original,,The Drummer in Our Time,English,
+158,1974,Samuel Kahiga,original,,The Girl from Abroad,English,
+159,1975,Martha Mvungi,original,,Three Solid Stones,English,
+160,1975,George Simeon Mwase,original,,Strike a Blow and Die: the classic story of the Chilembwe Rising,English,edited and introduced by Robert I. Rotberg
+161,1975,Amu Djoleto,original,Novel,Money Galore,English,
+162,1974,Legson Kayira,original,,The Detainee,English,
+163,1974,B. M. Sahle Sellassie,original,,Warrior King,English,
+164,1974,Robert Royston,original,,Black Poets in South Africa,English,
+165,1975,Michael Etherton,editor,Plays,African Plays for Playing,English,"plays by Nuwa Sentongo, Jacob Hevi and Segun Ajibade"
+165,1975,Nuwa Sentongo,contributor,Plays,in: African Plays for Playing (ed. Michael Etherton),English,
+165,1975,Jacob Hevi,contributor,Plays,in: African Plays for Playing (ed. Michael Etherton),English,
+165,1975,Segun Ajibade,contributor,Plays,in: African Plays for Playing (ed. Michael Etherton),English,
+166,1975,Joe de Graft,original,,Beneath the Jazz and Brass,English,
+167,1975,Jean-Joseph Rabearivelo,translation,Poetry,Translations from the Night: selected poems of Jean-Joseph Rabearivelo,French,edited with English translations by Clive Wake and John Reed
+168,1976,T. Obinkaram Echewa,original,,The Land's Lord,English,
+169,1975,Stanlake Samkange,original,,The Mourned One,English,
+170,1975,Charles Mungoshi,original,,Waiting for the Rain,English,
+171,1975,Wole Soyinka,editor,Poetry,Poems of Black Africa,English,edited and introduced by Wole Soyinka
+172,1975,Cyprian Ekwensi,original,,Restless City and Christmas Gold,English,
+173,1975,Nkem Nwankwo,original,Novel,My Mercedes is Bigger Than Yours,English,
+174,1975,David Mandessi Diop,translation,,Hammer Blows,French,translated and edited by Simon Mpondo and Frank Jones
+175,1976,Ousmane Sembène,translation,,Xala,French,"translated by Clive Wake (Xala: roman, Paris: Présence Africaine, 1973)"
+176,1976,Meja Mwangi,original,,Going Down River Road,English,
+177,1976,Nadine Gordimer,original,,Some Monday for Sure,English,
+178,1976,R. L. Peteni,original,,Hill of Fools,English,
+179,1976,Michael Etherton,editor,Plays,African Plays for Playing 2,English,
+179,1976,Uwa Udensi,contributor,Plays,in: African Plays for Playing 2 (ed. Michael Etherton): Monkey on the Tree,English,
+179,1976,Godfrey Kabwe Kasoma,contributor,Plays,in: African Plays for Playing 2 (ed. Michael Etherton): Black Mamba Two,English,
+179,1976,Victor Eleame Musinga,contributor,Plays,in: African Plays for Playing 2 (ed. Michael Etherton): The Tragedy of Mr. No-Balance,English,"the source spells the title ""The tradedy of Mr. No-balance"""
+180,1976,Léopold Sédar Senghor,translation,Various,Prose and Poetry,French,selected and translated by John Reed and Clive Wake
+181,1978,Mongo Beti,translation,,Perpetua and the Habit of Unhappiness,French,translated by Clive Wake and John Reed from Perpétue et l'habitude du malheur (1974)
+182,1977,Bessie Head,original,,The Collector of Treasures,English,
+183,1978,Gabriel Okara,original,,The Fisherman's Invocation,English,
+184,1976,Nuruddin Farah,original,,A Naked Needle,English,
+185,1976,Cyprian Ekwensi,original,,Survive the Peace,English,
+186,1977,Yaw M. Boateng,original,,The Return,English,
+187,1977,Mukotani Rugyendo,original,Plays,Barbed Wire and Other Plays,English,
+188,1977,Ngũgĩ wa Thiong'o,original,,Petals of Blood,English,
+189,1976,Eddie Iroh,original,,Forty-eight Guns for the General,English,
+190,1978,Stanlake Samkange,original,,Year of the Uprising,English,
+191,1976,Ngũgĩ wa Thiong'o and Micere Githae Mugo,original,,The Trial of Dedan Kimathi,English,
+192,1977,Ali A. Jahadmy,translation,Poetry,Anthology of Swahili Poetry,Swahili,"parallel Swahili text and English translation, selected and translated by Ali A. Jahadmy"
+193,1978,Okot p'Bitek,translation,Folklore,Hare and Hornbill,Acholi,compiled and translated from the Acholi by Okot p'Bitek
+194,1979,Ayi Kwei Armah,original,Novel,The Healers: an historical novel,English,
+195,1978,John Munonye,original,Novel,Bridge to a Wedding,English,
+196,1978,Denys Johnson-Davies,translation,Short Stories,Egyptian Short Stories,Arabic,"seventeen stories in translation (Yusuf Idris, Naguib Mahfouz, Sonallah Ibrahim and others)"
+197,1978,Naguib Mahfouz,translation,,Miramar,Arabic,"edited and revised by Maged el Kommos and John Rodenbeck, introduced by John Fowles; the entry does not name the language"
+198,1979,Amilcar Cabral,translation,Nonfiction,Unity and Struggle: speeches and writings,Portuguese,translated by Michael Wolfers
+199,1980,Williams Sassine,translation,,Wirriyamu,French,translated by John Reed and Clive Wake
+200,1982,Ngũgĩ wa Thiong'o,original,,Devil on the Cross,English,the entry marks no translation; whether this text is a translation from Gikuyu is to be checked against another source
+201,1978,Sol T. Plaatje,reprint,,Mhudi: an epic of South African native life a hundred years ago,English,the entry lists four earlier editions (1970-1978); treated as a reissue
+202,1978,José Luandino Vieira,translation,Novella,The Real Life of Domingos Xavier,Portuguese,translated by Michael Wolfers
+203,1978,Rebeka Njau,original,,Ripples in the Pool,English,"first published Nairobi: Transafrica, 1975"
+204,1979,Dominic Mulaisho,original,,The Smoke that Thunders,English,
+205,1978,Francis Bebey,translation,,The Ashanti Doll,French,translated by Joyce A. Hutchinson
+206,1978,I. N. C. Aniebo,original,,The Journey Within,English,
+207,1978,Dambudzo Marechera,original,,The House of Hunger,English,
+208,1978,Dennis Brutus,original,Poetry,Stubborn Hope: new poems and selections,English,
+209,1978,Yusuf Idris,translation,Short Stories,"The Cheapest Nights, and other stories",Arabic,translated by Wadida Wassef
+210,1978,Elechi Amadi,original,,The Slave,English,
+211,1979,Mazisi Kunene,self_translation,,Emperor Shaka the Great: a Zulu epic,Zulu,translated from the Zulu by the author
+212,1979,Alex La Guma,original,,Time of the Butcherbird,English,
+213,1979,Eddie Iroh,original,,Toads of War,English,
+214,1980,Mongo Beti,translation,,Remember Ruben,French,translated by Gerald Moore
+215,1979,Michael Wolfers,translation,Poetry,Poems from Angola,not stated,"selected, translated and introduced by Michael Wolfers"
+216,1980,Asiedu Yirenkyi,original,Plays,Kivuli and other plays,English,
+217,1979,Steve Biko,nonfiction,,I Write What I Like: a selection of his writings,English,edited by Aelred Stubbs
+218,1979,Ayi Kwei Armah,original,,Two Thousand Seasons,English,
+219,1979,Jomo Kenyatta,nonfiction,Nonfiction,Facing Mount Kenya: the traditional life of the Gikuyu,English,"introduction by B. Malinowski; first published London: Secker and Warburg, 1938"
+220,1981,Bessie Head,original,,Serowe: Village of the Rain Wind,English,
+221,1980,Syl Cheney-Coker,original,Poetry,"The Graveyard Also Has Teeth, with Concerto for an Exile: poems",English,
+222,1980,José Luandino Vieira,translation,Short Stories,Luuanda,Portuguese,translated by Tamara L. Bender
+223,1980,Fathy Ghanem,translation,Novel,The Man Who Lost His Shadow: a novel in four books,Arabic,translated by Desmond Stewart
+224,1981,Gibson Kente,editor,Plays,South African People's Plays,English,
+224,1981,Credo V. Mutwa,contributor,Plays,in: South African People's Plays (ed. Gibson Kente): uNosilimela,English,
+224,1981,Mthuli Shezi,contributor,Plays,in: South African People's Plays (ed. Gibson Kente): Shanti,English,
+224,1981,Gibson Kente,contributor,Plays,in: South African People's Plays (ed. Gibson Kente): Too Late,English,
+224,1981,Workshop '71 Theatre Company,collective,Plays,in: South African People's Plays (ed. Gibson Kente): Survival,English,"a theatre company, not an individual author: not added to the inventory"
+225,1981,Naguib Mahfouz,translation_inferred,,Children of Gebelawi,Arabic,"no translation marked in this entry; the author's other entries (nos. 151, 197) are translations from Arabic"
+226,1980,Nuruddin Farah,original,,Sweet and Sour Milk,English,"first published London: Allison & Busby, 1979"
+227,1979,Buchi Emecheta,original,,The Joys of Motherhood,English,"first published London: Allison & Busby, 1979"
+228,1981,Taha Hussein,translation,Autobiography,An Egyptian Childhood: the autobiography of Taha Hussein,not stated,translated by E. H. Paxton
+229,1981,Thomas Mofolo,translation,Novel,Chaka: an historical romance,Sesotho,new translation by Daniel P. Kunene; first translated from the Sesuto by F. H. Dutton
+230,1980,Barry Feinberg,editor,Poetry,Poets to the People: South African Freedom Poems,English,
+231,1980,Kenjo Jumbam,original,,White Man of God,English,
+232,1981,Denys Johnson-Davies,translation,Plays,Egyptian One-Act Plays,Arabic,selected and translated by Denys Johnson-Davies
+233,1980,S. Nyamfukudza,original,,The Non-Believer's Journey,English,
+234,1981,Mazisi Kunene,self_translation,,Anthem of the Decades: a Zulu epic,Zulu,translated from Zulu by the author
+235,1982,Mazisi Kunene,translation,,The Ancestors and the Sacred Mountain: poems,Zulu,translated from Zulu; the entry does not name the translator
+236,1981,Jack Mapanje,original,,Of Chameleons and Gods,English,
+237,1980,Dambudzo Marechera,original,,Black Sunlight,English,
+238,1981,Lenrie Peters,original,Poetry,Selected Poetry,English,
+239,1981,Ahmadou Kourouma,translation,,The Suns of Independence,French,translated by Adrian Adams from Les soleils des indépendances
+240,1981,Ngũgĩ wa Thiong'o,nonfiction,,Detained: A Writer's Prison Diary,English,
+241,1981,Thomas Akare,original,,The Slums,English,
+242,1982,T. M. Aluko,original,,Wrong Ones in the Dock,English,
+243,1981,Mothobi Mutloatse,editor,Various,Africa South: contemporary writings,English,
+244,1982,John Ya-Otto with Ole Gjerstad and Michael Mercer,nonfiction,,Battlefront Namibia: an autobiography,English,
+245,,,never_assigned,,,,"number never assigned (the entry cites Matt Kibble, The Digitisation of the African Writers Series)"
+246,1982,Ngũgĩ wa Thiong'o,original,,I Will Marry When I Want,English,the entry marks no translation or co-author; to be checked against another source
+247,1987,Bessie Head,original,,When Rain Clouds Gather,English,
+248,1981,Mariama Bâ,translation,Novel,So Long a Letter,French,translated by Modupé Bodé-Thomas from Si longue lettre
+249,1981,Olusegun Obasanjo,nonfiction,Autobiography,"My Command: An Account of the Nigerian Civil War, 1967-1970",English,
+250,1981,Ousmane Sembène,translation_inferred,,The Last of the Empire,French,no translation marked in this entry; the author's other entries are translations from French
+251,1981,Hugh Lewin,original,,Bandiet: Seven Years in a South African Prison,English,
+252,1982,Nuruddin Farah,original,,Sardines,English,"first published London: Allison & Busby, 1981"
+253,1983,I. N. C. Aniebo,original,Short Stories,"Of Wives, Talismans, and the Dead: short stories",English,arranged by Willfred F. Feuser
+254,1983,Paul A. Scanlon,editor,Short Stories,Stories from Central and Southern Africa,English,
+254,1983,Dan Jacobson,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Beggar My Neighbour""",English,
+254,1983,Can Themba,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Kwashiorkor""",English,
+254,1983,Susheela Curtis,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""About a Girl Who Met a Dimo""",English,
+254,1983,Ahmed Essop,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Hajji Musa and the Hindu Fire-Walker""",English,
+254,1983,Pauline Smith,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""The Sisters""",English,"anthology year, not composition year"
+254,1983,B. L. Leshoai,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Tselane and the Giant""",English,
+254,1983,Nathaniel Nakasa,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Johannesburg, Johannesburg""",English,
+254,1983,Charles Mungoshi,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Coming of the Dry Season""",English,
+254,1983,Nadine Gordimer,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""A Soldier's Embrace""",English,
+254,1983,Bessie Head,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Witchcraft""",English,
+254,1983,Luis B. Honwana,contributor_translation,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""The Old Woman""",Portuguese,writes in Portuguese (see no. 60)
+254,1983,Herman C. Bosman,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Dopper and Papist""",English,"anthology year, not composition year"
+254,1983,Ellis Singano and A. A. Roscoe,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""The Dishonest Chief""",English,
+254,1983,Mbulelo Mzamane,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""The Soweto Bride""",English,
+254,1983,Doris Lessing,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""A Sunrise on the Veld""",English,
+254,1983,Paul Zeleza,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""The Soldier Without an Ear""",English,
+254,1983,Richard Rive,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Riva""",English,
+254,1983,Alan Paton,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Sunlight in Trebizond Street""",English,
+254,1983,Dambudzo Marechera,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""The Christmas Reunion""",English,
+254,1983,A. C. Jordan,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""The King of the Waters""",English,
+254,1983,Jack Cope,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""Power""",English,
+254,1983,Es'kia Mphahlele,contributor,Short Stories,"in: Stories from Central and Southern Africa (ed. Paul A. Scanlon): ""In Corner B""",English,"printed ""Es'kia (Zeke) Mphahlele"""
+255,1982,Eddie Iroh,original,,The Siren in the Night,English,
+256,1983,Charlotte H. Bruner,editor,Various,Unwinding Threads: Writing by Women in Africa,English,later edition 1994
+257,1983,Angus Calder,original,Poetry,Summer Fires: New Poetry of Africa,English,"credited to Angus Calder, Jack Mapanje and ""Cosmo Peterse"""
+257,1983,Jack Mapanje,original,Poetry,Summer Fires: New Poetry of Africa,English,
+257,1983,Cosmo Peterse,original,Poetry,Summer Fires: New Poetry of Africa,English,spelling as printed; the list has Pieterse elsewhere
+258,1985,Molefe Pheto,nonfiction,Autobiography,And Night Fell: Memoirs of a Political Prisoner in South Africa,English,"first published London: Allison & Busby, 1983"
+259,,,never_published,,This is the Time,,"advertised as no. 259 but never published; the projected anthology appeared as When My Brothers Come Home, ed. Frank M. Chipasula (Wesleyan University Press, 1985)"
+260,,,never_published,,Until the Morning After: Collected Poems 1963-1985,,"Kofi Awoonor's collection, withdrawn by the author and published by Greenfield Review Press, New York, 1987"
+261,1984,Kofi Anyidoho,original,Poetry,"A Harvest of Our Dreams, with Elegy for the Revolution: poems",English,
+262,1986,John Nagenda,original,,The Seasons of Thomas Tebo,English,
+263,1983,Mongane Serote,original,,To Every Birth Its Blood,English,
+264,1977,Joe de Graft,original,,Muntu,English,
+265,,,never_assigned,,,,
+266,1984,Okot p'Bitek,self_translation,,Song of Lawino & Song of Ocol,Acholi,"""translated from the Acholi by Okot p'Bitek""; introduction by G. A. Heron"
+267,1984,Yusuf Idris,translation_inferred,,Rings of Burnished Brass,Arabic,no translation marked in this entry; the author's other entry (no. 209) is a translation from Arabic
+268,1981,Sepho Sepamia,original,,A Ride on the Whirlwind: a novel,English,name as printed (see NAME_FIXES in scripts/i10_discovery.py)
+269,1984,Pepetela,translation_inferred,Novel,Mayombe,Portuguese,"no translation marked; Pepetela writes in Portuguese (general reference, not from this list)"
+270,1985,Chinua Achebe and C. L. Innes,editor,Short Stories,African Short Stories,English,
+270,1985,Ama Ata Aidoo,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Certain Winds from the South""",English,
+270,1985,Odun Balogun,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Apprentice""",English,
+270,1985,David Owoyele,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Will of Allah""",English,
+270,1985,Chinua Achebe,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Civil Peace""",English,
+270,1985,Jomo Kenyatta,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Gentlemen of the Jungle""",English,
+270,1985,Grace Ogot,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Green Leaves""",English,
+270,1985,Abdulrazak Gurnah,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Bossy""",English,
+270,1985,Leonard Kibera,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Spider's Web""",English,
+270,1985,Ngugi wa Thiong'o,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Minutes of Glory""",English,
+270,1985,Nadine Gordimer,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Bridegroom""",English,
+270,1985,Ahmed Essop,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Betrayal""",English,
+270,1985,Dambudzo Marechera,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Protista""",English,
+270,1985,Ezekiel Mphahlele,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The Coffee-Cart Girl""",English,
+270,1985,Bessie Head,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Snapshots of a Wedding""",English,
+270,1985,Mafika Gwala,contributor,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Reflections in a Cell""",English,
+270,1985,Sembene Ousmane,contributor_translation,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""The False Prophet""",French,
+270,1985,Alifa Rifaat,contributor_translation,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""An Incident in the Ghobashi Household""",Arabic,
+270,1985,Tayeb Salih,contributor_translation,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""A Handful of Dates""",Arabic,
+270,1985,Mohamed El-Bisatie,contributor_translation,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""A Conversation from the Third Floor""",Arabic,the same story appears in the translated Egyptian Short Stories (no. 196)
+270,1985,B. L. Honwana,contributor_translation,Short Stories,"in: African Short Stories (ed. Achebe and Innes): ""Papa, Snake & I""",Portuguese,
+u,1985,Alifa Rifaat,translation_inferred,,Distant View of a Minaret,Arabic,no translation marked; Rifaat wrote in Arabic (general reference)
+u,1986,Elechi Amadi,original,,Estrangement,English,
+u,1986,T. Obinkaram Echewa,original,,The Crippled Dancer,English,
+u,1987,Ousmane Sembène,translation_inferred,,Black Docker,French,no translation marked; the author's other entries are translations from French
+u,1987,Richard Rive,original,,"Buckingham Palace, District 6",English,
+u,1987,Henri Lopes,translation_inferred,,Tribaliks,French,no translation marked; Lopes wrote in French (general reference)
+u,1987,Oliver Tambo,nonfiction,,Oliver Tambo Speaks: Preparing for Power,English,speeches (from the title)
+u,1988,Chinua Achebe,original,,Anthills of the Savanna,English,title as printed
+u,1988,Farida Karodia,original,Short Stories,Coming Home and Other Stories,English,
+u,1989,Timothy Wangusa,original,,Upon This Mountain,English,
+u,1989,Charles Mungoshi,original,,The Setting Sun and the Rolling World,English,
+u,1989,Ngũgĩ wa Thiong'o,original,,Matigari,English,the entry marks no translation; to be checked against another source
+u,1989,M. G. Vassanji,original,,The Gunny Sack,English,
+u,1989,Kojo Laing,original,,Godhorse,English,
+u,1989,Musaemura Zimuya,editor,,The Fate of Vultures,English,edited with Peter Porter and Kofi Anyidoho; spelling as printed (Zimunya in the 1990 entry)
+u,1989,Peter Porter,editor,,The Fate of Vultures,English,
+u,1989,Kofi Anyidoho,editor,,The Fate of Vultures,English,
+u,1989,Afam Akeh,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Gichora Mwangi,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Ama Asantewa Ababio,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Alex Agyei-Agyiri,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Funso Aiyejina,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Richard Afari Baafour,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Biyi Bandele-Thomas,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Philip Bateman,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Charles Agboola Bodunde,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,John Murray Coates,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,James Putsch Commey,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Jonathan Cumming,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Achmat Dangor,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Kofi Dondo,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Patrick Ebewo,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Godwin Ede,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Ezenwa-Ohaeto,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Bode-Law Faleyimu,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Francis Faller,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Femi Fatoba,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Henry Garuba,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Arthur K. de Graft-Rosenior,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Martin Gwete,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Chenjerai Hove,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Esiaba Irobi,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Frederick Bobor James,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Beverley Jansen,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Wumi Kaji,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Ken N. Kamoche,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Lawrence Karanja,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Kolosa Kargbo,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Boyo Lawal,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Masango Lisongwe,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Don Mattera,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Zondi Mbano,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Bennet Leboni,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Buti Moleko,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Lupenga Mphande,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Edison Mpina,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Fekessa Mwada,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Crispin Namane,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Valerie Nkomeshya,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Pheroze Nowrojee,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Silas Obadiah,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Walter Odame,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Tanure Ojaide,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Felicity Atuki Okoth,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Isi Omoifo,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Thembile ka Pepeteka,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Sobhna Keshval Poona,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Kofi Sam,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Gloria Sandak-Lewin,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Erasmus Elikplim Forster Senaye,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Sam Ukal,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Michael Andrew Wakabi,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Timothy Wangusa,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Willie T. Zingani,contributor,,"in: The Fate of Vultures (ed. Zimunya, Porter and Anyidoho)",English,
+u,1989,Jamal Mahjoub,original,,Navigation of a Rainmaker,English,
+u,1990,Chenjerai Hove,original,Novel,Bones,English,
+u,1990,Syl Cheney-Coker,original,,The Last Harmattan of Alusine Dunbar,English,
+u,1990,Shimmer Chinodya,original,Novel,Harvest of Thorns,English,
+u,1990,Mia Couto,translation_inferred,,Voices Made Night,Portuguese,no translation marked; Couto writes in Portuguese (general reference)
+u,1990,Reshard Gool,original,,Cape Town Coolie,English,
+u,1990,Bessie Head,original,,A Woman Alone,English,
+u,1990,Bessie Head,original,,Tales of Tenderness and Power,English,
+u,1990,Adewale Maja-Pearce,editor,,The Heinemann Book of African Poetry in English,English,
+u,1990,Dennis Brutus,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Marjorie Oludhe Macgoye,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Christopher Okigbo,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Lenrie Peters,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Wole Soyinka,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Kofi Awoonor,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,JP Clark Bekederemo,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Syl Cheney-Coker,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Arthur Nortje,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Steve Chimombo,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Jack Mapanje,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Kojo Laing,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Niyi Osundare,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Tanure Ojaide,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Musaemura Zimunya,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Lupenga Mphande,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Frank Chipasula,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Molara Ogundipe-Leslie,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Odia Ofeimun,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Catherine Obianuju Acholonu,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Chenjerai Hove,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Gabriel Gbadamosi,contributor,Poetry,in: The Heinemann Book of African Poetry in English (ed. Adewale Maja-Pearce),English,
+u,1990,Syl Cheney-Coker,original,,The Blood in the Desert's Eye,English,
+u,1991,Frank M. Chipasula,original,,Whispers in the Wings,English,
+u,1991,Amechi Akwanya,original,,Orimili,English,
+u,1991,Nadine Gordimer,original,Short Stories,Crimes of Conscience: Selected Short Stories,English,
+u,1993,M. G. Vassanji,original,Short Stories,Uhuru Street & Other Stories,English,
+u,1991,Tanure Ojaide,original,Poetry,The Blood of Peace and other poems,English,
+u,1992,Chinua Achebe and C. L. Innes,editor,Short Stories,Book of Contemporary African Short Stories,English,
+u,1992,Niyi Osundare,original,Poetry,Selected Poems,English,
+u,1992,Ursula Mwangi,original,,Striving for the Wind,English,
+u,1992,Kojo Laing,original,,Major Gentl and Achimota Wars,English,
+u,1992,Biyi Bandele-Thomas,original,,The Man Who Came In From The Back Of Beyond,English,
+u,1992,Ousmane Sembène,translation_inferred,,Niiwam and Taaw,French,no translation marked; the author's other entries are translations from French
+u,1992,Chenjerai Hove,original,Novel,Shadows,English,
+u,1992,Tiyambe Zeleza,original,,Smouldering Charcoal,English,
+u,1993,Hama Tuma,original,Short Stories,The Case of the Socialist Witchdoctor and other stories,English,
+u,1993,Biyi Bandele-Thomas,original,,The Sympathetic Undertaker and Other Dreams,English,
+u,1993,Steve Jacobs,original,,Under the Lion,English,
+u,1993,W. P. B. Botha,original,,The Reluctant Playwright,English,
+u,1993,Farida Karodia,original,,A Shattering of Silence,English,
+u,1993,Charlotte H. Bruner,editor,Various,African Women's Writing,English,
+u,1993,Catherine Obianuju Acholonu,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Ifeoma Okoye,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Zaynab Alkali,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Awuor Ayoda,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Violet Dias Lannoy,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Daisy Kabagarama,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Tsitsi Dangarembga,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Bessie Head,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Jean Marquard,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Zoe Wicomb,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Sheila Fugard,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Farida Karodia,contributor,Various,in: African Women's Writing (ed. Charlotte H. Bruner),English,
+u,1993,Orlanda Amarilis,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),Portuguese,writes in Portuguese (general reference)
+u,1993,Aminata Maiga Ka,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),French,writes in French (general reference)
+u,1993,Lina Magaia,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),Portuguese,writes in Portuguese (general reference)
+u,1993,Ananda Devi,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),French,writes in French (general reference)
+u,1993,Nawal el Sadaawi,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),Arabic,writes in Arabic (general reference)
+u,1993,Assia Djebar,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),French,writes in French (general reference)
+u,1993,Gisele Halimi,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),French,writes in French (general reference)
+u,1993,Leila Sebbar,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),French,writes in French (general reference)
+u,1993,Andrée Chedid,contributor_translation,Various,in: African Women's Writing (ed. Charlotte H. Bruner),French,writes in French (general reference)
+u,1993,Jack Mapanje,original,,The Chattering Wagtails of Mikuyu Prison,English,
+u,1994,Jamal Mahjoub,original,,Wings of Dust,English,
+u,1994,Denis Hirson with Martin Trump,editor,Short Stories,South African Short Stories,English,
+u,1994,Njabulo Ndebele,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Dugmore Boetie,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Ernst Havemann,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Jack Cope,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Herman Charles Bosman,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Ivan Vladislavic,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Can Themba,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Bheki Maseko,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Mango Tshabangu,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Dan Jacobson,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Nadine Gordimer,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Ahmed Essop,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Bessie Head,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Christopher Hope,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Alan Paton,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Zoe Wicomb,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),English,
+u,1994,Breyten Breytenbach,contributor,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),not checked,writes in Afrikaans and English: language of this story not checked
+u,1994,Elise Muller,contributor_translation,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),Afrikaans,Afrikaans-language writer (general reference)
+u,1994,Hennie Aucamp,contributor_translation,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),Afrikaans,Afrikaans-language writer (general reference)
+u,1994,Etienne van Heerden,contributor_translation,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),Afrikaans,Afrikaans-language writer (general reference)
+u,1994,Bartho Smit,contributor_translation,Short Stories,in: South African Short Stories (ed. Denis Hirson with Martin Trump),Afrikaans,Afrikaans-language writer (general reference)
+u,1994,Buchi Emecheta,original,,In the Ditch,English,"first published London, 1972; revised edition Allison & Busby, 1979"
+u,1994,Buchi Emecheta,original,,Second Class Citizen,English,"first published London: Allison & Busby, 1974"
+u,1994,Buchi Emecheta,original,,Head above Water,English,
+u,1994,Buchi Emecheta,original,,Gwendolen,English,
+u,1994,Buchi Emecheta,original,,Kehinde,English,
+u,1994,Buchi Emecheta,original,,Destination Biafra,English,
+u,1994,Steve Chimombo,original,,Napolo and the Python,English,
+u,1994,Agnes Sam,original,Short Stories,Jesus is Indian and other stories,English,
+u,1994,Mia Couto,translation_inferred,,Every Man is a Race,Portuguese,no translation marked; Couto writes in Portuguese (general reference)
+u,1995,Sony Lab'ou Tansi,translation_inferred,,The Seven Solitudes of Lorsa Lopes,French,no translation marked; Tansi wrote in French (general reference)
+u,1995,Calixthe Beyala,translation_inferred,,"Loukoum, or the ""Little Prince"" of Belville",French,no translation marked; Beyala writes in French (general reference)
+u,1995,Amma Darko,original,,Beyond the Horizon,English,
+u,1995,Bessie Head,original,Short Stories,The Cardinals with Meditations and other stories,English,
+u,1995,Stella Chipasula and Frank Chipasula,editor,Poetry,African Women's Poetry,English,
+u,1995,Ama Ata Aidoo,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Abena P. A. Busia,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Rashidah Ismaili,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Molara Ogunidpe Leslie,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Marjorie Oludhe Macgoye,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Micere Githae Mugo,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Stella M. Chipasula,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Assumpta Acam-Oturu,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Gwendolen C. Konie,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Jeni Couzyn,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Ingrid de Kok,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Amelia Blossom Pegram,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Lindiwe Mabuza,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Zindzi Mandela,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Gcina Mhlophe,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Kristina Rungano,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),English,
+u,1995,Marina Gashe,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),not checked,language not checked
+u,1995,Shakuntala Hawoldar,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),not checked,language not checked
+u,1995,Phumzile Zulu,contributor,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),not checked,language not checked
+u,1995,Daniele Amrane,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Leila Djibali,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Ana Greki,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Malika O'Lahsen,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Andrée Chedid,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Malak 'Abd al-Aziz,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Arabic,writes in Arabic (general reference)
+u,1995,Joyce Mansour,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Rachida Madani,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Amina Said,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Irène Assiba d'Almeida,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Maria Manuela Margrido,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Portuguese,writes in Portuguese (general reference)
+u,1995,Alda do Espírito Santo,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Portuguese,writes in Portuguese (general reference)
+u,1995,Annette Mbaye d'Erneville,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),French,writes in French (general reference)
+u,1995,Alda Lara,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Portuguese,writes in Portuguese (general reference)
+u,1995,Maria Eugenia Lima,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Portuguese,writes in Portuguese (general reference)
+u,1995,Amélia Veiga,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Portuguese,writes in Portuguese (general reference)
+u,1995,Noemia de Sousa,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Portuguese,writes in Portuguese (general reference)
+u,1995,Ingrid Jonker,contributor_translation,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),Afrikaans,writes in Afrikaans (general reference)
+u,1995,Queen Hatshepsut,premodern,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),not stated,"a pre-modern author, not a 1946-2000 writer: not added to the inventory"
+u,1995,Mwana Kupona binti Msham,premodern,Poetry,in: African Women's Poetry (ed. Stella and Frank Chipasula),not stated,"a pre-modern author, not a 1946-2000 writer: not added to the inventory"
+u,1995,Lindsey Collen,original,,The Rape of Shavi,English,"unresolved: the entry's title, link and note (New York: Braziller, 1983) are those of Buchi Emecheta's The Rape of Shavi, while Collen's novel of the 1990s is The Rape of Sita"
+u,1995,Buchi Emecheta,original,,The Slave Girl,English,"first published London: Allison & Busby, 1977"
+u,1995,Buchi Emecheta,original,,The Bride Price,English,"first published London: Allison & Busby, 1976"
+u,1995,Steve Jacobs,original,,The Enemy Within,English,
+u,1995,W. P. B. Botha,original,,Wantok,English,
+u,1995,Gaele Sobott-Mogwe,original,,Colour Me Blue,English,
+u,1996,Calixthe Beyala,translation_inferred,,Your Name Shall Be Tanga,French,no translation marked; Beyala writes in French (general reference)
+u,1996,Calixthe Beyala,translation_inferred,,The Sun Hath Looked Upon Me,French,no translation marked; Beyala writes in French (general reference)
+u,1996,Evelyne Accad,translation_inferred,,Wounding Words: A Woman's Journal,French,no translation marked; Accad's book first appeared in French (general reference)
+u,1996,Pepetela,translation_inferred,,Yaka,Portuguese,no translation marked; Pepetela writes in Portuguese (general reference)
+u,1996,Jamal Mahjoub,original,,In the Hour of Signs,English,
+u,1996,Rayda Jacobs,original,,The Eyes of the Sky,English,
+u,1997,W. P. B. Botha,original,,A Duty of Memory,English,
+u,1998,Amma Darko,original,,The Housemaid,English,
+u,1998,Alexander Kanengoni,original,,Echoing Siliences,English,title as printed
+u,1998,Karen King-Aribisala,original,,Kicking Tongues,English,
+u,1998,Benjamin Kwakye,original,,The Clothes of Nakedness,English,
+u,1999,Yvonne Vera,anthology_compiler,,Opening Spaces: Contemporary African Women's Writing,English,"named without ""ed."" in the source"
+u,1999,Ama Ata Aidoo,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Melissa Tandiwe Myambo,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Lindsey Collen,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Farida Karodia,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Norma Kitson,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Leila Aboulela,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Ifeoma Okoye,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Sindiwe Magona,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Chiedza Musengezi,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Monde Sifusniso,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Gugu Ndlovu,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Milly Jafta,contributor,,in: Opening Spaces (Yvonne Vera),English,
+u,1999,Anna Dao,contributor,,in: Opening Spaces (Yvonne Vera),not checked,language not checked
+u,1999,Veronique Tadjo,contributor_translation,,in: Opening Spaces (Yvonne Vera),French,writes in French (general reference)
+u,1999,Lilia Momple,contributor_translation,,in: Opening Spaces (Yvonne Vera),Portuguese,writes in Portuguese (general reference)
+u,2000,Ike Oguine,original,,A Squatter's Tale,English,
+u,2000,Okey Ndibe,original,,Arrows of Rain,English,
+u,2000,Buchi Emecheta,original,,The New Tribe,English,
+u,2000,Binwell Sinyangwe,original,,A Cowrie of Hope,English,
+u,2001,Shimmer Chinodya,original,,Dew in the Morning,English,after 2000: outside the installment
+u,2001,Leila Aboulela,original,,The Translator,English,after 2000: outside the installment
+u,2001,Neshani Andreas,original,,The Purple Violet of Oshaantu,English,after 2000: outside the installment
+u,2001,Lilia Momplé,translation_inferred,,Neighbours: the story of a murder,Portuguese,after 2000; writes in Portuguese (general reference)
+u,2001,Shimmer Chinodya,original,Short Stories,Can We Talk and Other Stories,English,after 2000: outside the installment
+u,2001,Véronique Tadjo,translation_inferred,,As the Crow Flies,French,after 2000; writes in French (general reference)
+u,2002,Véronique Tadjo,translation_inferred,Nonfiction,The Shadow of Imana: Travels in the Heart of Rwanda,French,after 2000; writes in French (general reference)
+u,2002,Ama Ata Aidoo,original,Short Stories,The Girl Who Can and Other Stories,English,after 2000: outside the installment
+u,2002,Jack Mapanje,editor,,Gathering Seaweed: African Prison Writing,English,after 2000; the 50 contributors are not transcribed
+u,2002,Pepetela,translation_inferred,,Return of the Water Spirit,Portuguese,after 2000; writes in Portuguese (general reference)
+u,2003,Ama Ata Aidoo,original,,Changes: A Love Story,English,after 2000: outside the installment
+u,2003,Daniel Mengara,original,,Mema,not checked,after 2000: outside the installment

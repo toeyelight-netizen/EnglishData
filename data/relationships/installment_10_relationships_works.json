@@ -274,6 +274,51 @@
    "work": "The Village Witch Doctor and Other Stories",
    "author": "Amos Tutuola",
    "contribution_type": "author"
+  },
+  {
+   "work": "In the Castle of My Skin",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Emigrants",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Of Age and Innocence",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Season of Adventure",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Pleasures of Exile",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Water with Berries",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Natives of My Person",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990",
+   "author": "George Lamming",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Coming, Coming Home: Conversations II",
+   "author": "George Lamming",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -665,6 +710,72 @@
    "genres": [
     "Short-Story Collection",
     "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "In the Castle of My Skin",
+   "genres": [
+    "Bildungsroman",
+    "Autobiographical Novel",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "The Emigrants",
+   "genres": [
+    "Literary Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Of Age and Innocence",
+   "genres": [
+    "Political Novel",
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "Season of Adventure",
+   "genres": [
+    "Political Novel",
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "The Pleasures of Exile",
+   "genres": [
+    "Literary Essay",
+    "Postcolonial Criticism",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Water with Berries",
+   "genres": [
+    "Political Novel",
+    "Literary Novel"
+   ]
+  },
+  {
+   "work": "Natives of My Person",
+   "genres": [
+    "Historical Novel",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Coming, Coming Home: Conversations II",
+   "genres": [
+    "Political Essay",
+    "Cultural Criticism"
    ]
   }
  ],
@@ -1081,6 +1192,82 @@
    "themes": [
     "Myth, folklore and the supernatural"
    ]
+  },
+  {
+   "work": "In the Castle of My Skin",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Decolonisation, the end of empire and the new nation",
+    "Land, place and regional belonging",
+    "Class, labour and social mobility",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "The Emigrants",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Of Age and Innocence",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Season of Adventure",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Identity, authenticity and the divided self",
+    "Gender, feminism and women's lives",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "The Pleasures of Exile",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Decolonisation, the end of empire and the new nation",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Water with Berries",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Art, the artist and the creative life",
+    "Violence, crime and justice",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Natives of My Person",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Utopia, dystopia and imagined futures",
+    "Violence, crime and justice",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Coming, Coming Home: Conversations II",
+   "themes": [
+    "Education, institutions and the academy",
+    "Decolonisation, the end of empire and the new nation"
+   ]
   }
  ],
  "work_movements": [
@@ -1197,6 +1384,63 @@
    "movements": [
     "African Literature in English"
    ]
+  },
+  {
+   "work": "In the Castle of My Skin",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "The Emigrants",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Of Age and Innocence",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Season of Adventure",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "The Pleasures of Exile",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Water with Berries",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Natives of My Person",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Coming, Coming Home: Conversations II",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
   }
  ],
  "work_periods": [
@@ -1256,7 +1500,16 @@
     "The Wild Hunter in the Bush of the Ghosts",
     "Yoruba Folktales",
     "Pauper, Brawler and Slanderer",
-    "The Village Witch Doctor and Other Stories"
+    "The Village Witch Doctor and Other Stories",
+    "In the Castle of My Skin",
+    "The Emigrants",
+    "Of Age and Innocence",
+    "Season of Adventure",
+    "The Pleasures of Exile",
+    "Water with Berries",
+    "Natives of My Person",
+    "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990",
+    "Coming, Coming Home: Conversations II"
    ]
   }
  ]

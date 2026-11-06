@@ -31,6 +31,21 @@
    ]
   },
   {
+   "author": "George Lamming",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Cultural Criticism",
+    "Historical Novel",
+    "Literary Essay",
+    "Literary Novel",
+    "Political Essay",
+    "Political Novel",
+    "Postcolonial Criticism",
+    "Social Novel"
+   ]
+  },
+  {
    "author": "George Orwell",
    "genres": [
     "Collected Letters",
@@ -112,6 +127,13 @@
    ]
   },
   {
+   "author": "George Lamming",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ]
+  },
+  {
    "author": "George Orwell",
    "movements": []
   },
@@ -157,6 +179,27 @@
     "Death, illness and mourning",
     "Family, marriage and domestic life",
     "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "author": "George Lamming",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Myth, folklore and the supernatural",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Utopia, dystopia and imagined futures",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -319,6 +362,22 @@
     "Amos Tutuola (Wikipedia)",
     "Summary Bibliography: Amos Tutuola (ISFDB)",
     "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
+   "author": "George Lamming",
+   "sources": [
+    "Conversations: George Lamming: Essays, Addresses and Interviews, 1953-1990 (Google Books record)",
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "George Lamming Critical Essays (eNotes)",
+    "George Lamming: The Vocation of Writing and his Critical Social Engagement (Anthurium)",
+    "In the Castle of My Skin (Encyclopedia.com, compiling Gale's Novels for Students)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
+    "Season of Adventure by George Lamming (EBSCO Research Starters)",
+    "The Emigrants (Lamming novel) (Wikipedia)"
    ]
   }
  ]

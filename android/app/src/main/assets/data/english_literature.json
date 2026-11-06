@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 852,
-  "works": 2898
+  "authors": 853,
+  "works": 2907
  },
  "periods": [
   {
@@ -871,6 +871,7 @@
   "Byron's Letters and Journals (12 volumes with index and supplement)",
   "Charlotte Smith in British Romanticism",
   "Confessions of an English Opium-Eater and Other Writings (Oxford World's Classics)",
+  "Conversations: George Lamming: Essays, Addresses and Interviews, 1953-1990 (Google Books record)",
   "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
   "Culture and Anarchy and Other Writings (Cambridge Texts in the History of Political Thought)",
   "Darcy Moore, Orwell Collection (collector's list of first editions)",
@@ -897,6 +898,11 @@
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
   "Frankenstein; or, The Modern Prometheus: The 1818 Text",
   "Freedom's Journal (New York, 1827-1829): Digitised Run, Chronicling America",
+  "George Lamming (Encyclopaedia Britannica)",
+  "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+  "George Lamming (Wikipedia)",
+  "George Lamming Critical Essays (eNotes)",
+  "George Lamming: The Vocation of Writing and his Critical Social Engagement (Anthurium)",
   "George Orwell (Dictionary of Literary Biography entry, Gale Literature Resource Center)",
   "George Orwell Bibliography: Most referenced collections (orwell.ru)",
   "George Orwell bibliography (Wikipedia)",
@@ -905,10 +911,14 @@
   "Hansberry, Lorraine 1930-1965 (Encyclopedia.com, Gale entry with Leonard R. N. Ashley's 1990 essay)",
   "Hansberry, Lorraine: Introduction (Encyclopedia.com, Gale literary criticism entry)",
   "Heart of Darkness: A Norton Critical Edition, 3rd edn",
+  "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
   "Hobomok: A Tale of Early Times (Broadview Edition)",
   "Hope Leslie: Or, Early Times in the Massachusetts (American Women Writers series)",
+  "In the Castle of My Skin (Encyclopedia.com, compiling Gale's Novels for Students)",
+  "In the Castle of My Skin (Wikipedia)",
   "Inside the Whale (Wikipedia)",
   "Inside the Whale and Other Essays (Wikipedia)",
+  "Iowa Writers' Workshop (Post45 Data Collective; Program Era Project)",
   "Jack London: Novels and Social Writings (Library of America, vol. 7)",
   "Jack Sheppard (Broadview Editions)",
   "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
@@ -921,6 +931,8 @@
   "Journal of a Residence in Chile During the Year 1822, and a Voyage from Chile to Brazil in 1823",
   "Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse",
   "Lady Caroline Lamb: A Biography",
+  "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+  "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
   "Landor's Cleanness: A Study of Walter Savage Landor",
   "Leaves of Grass: A Textual Variorum of the Printed Poems, 3 vols (The Collected Writings of Walt Whitman)",
   "Les blancs: the collected last plays of Lorraine Hansberry (Internet Archive catalogue record)",
@@ -963,6 +975,7 @@
   "My Life in the Bush of Ghosts (novel) (Wikipedia)",
   "NEA Creative Writing Fellowships (Post45 Data Collective)",
   "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
+  "Natives of My Person: Analysis of Major Characters (EBSCO Research Starters)",
   "New Perspectives on Malthus: 250th Anniversary Essays",
   "Nightmare Abbey (The Cambridge Edition of the Novels of Thomas Love Peacock, volume 7)",
   "Nineteen Eighty-Four (Wikipedia)",
@@ -992,6 +1005,8 @@
   "Robert Bloomfield: Selected Poems (revised and enlarged edition)",
   "Rural Rides (Everyman's Library, 2 volumes)",
   "Rural Rides (Penguin English Library)",
+  "Season of Adventure (University of Michigan Press)",
+  "Season of Adventure by George Lamming (EBSCO Research Starters)",
   "Second Thoughts on James Burnham (Wikipedia)",
   "Selected British Literary Prizes, 1990-2022 (Post45 Data Collective)",
   "Selected Poems of Thomas Hood",
@@ -1094,6 +1109,7 @@
   "The Edinburgh Edition of Walter Scott's 'Minstrelsy of the Scottish Border' (3 volumes)",
   "The Edinburgh Edition of the Waverley Novels",
   "The Edinburgh Review",
+  "The Emigrants (Lamming novel) (Wikipedia)",
   "The English People (essay) (Wikipedia)",
   "The English People, 1947 (orwell.ru library record, with Daniel J. Leab's note)",
   "The English Poems of George Herbert",
@@ -17000,6 +17016,110 @@
     "The Cambridge History of Early Modern English Literature",
     "The English Poems of George Herbert",
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century"
+   ]
+  },
+  {
+   "id": 853,
+   "name": "George Lamming",
+   "altNames": [
+    "George William Lamming"
+   ],
+   "dates": "1927 – 2022",
+   "birthplace": "Carrington Village, near Bridgetown, Barbados",
+   "nationality": "Barbadian; Caribbean (West Indian) novelist, essayist and poet writing in English, in England from 1950 and later based again in Barbados",
+   "identity": "Barbadian novelist and essayist whose six novels (1953-1972) follow colonial Caribbean society from the plantation village to migration, independence and the slave-trading voyages of its origins, and whose The Pleasures of Exile (1960) reread The Tempest from Caliban's side.",
+   "biography": "George William Lamming was born on 8 June 1927 in Carrington Village, a former plantation settlement near Bridgetown, Barbados, of mixed African and English parentage, and was raised chiefly by his mother, Loretta Devonish. A scholarship took him from Roebuck Boys' School to Combermere School, where Frank Collymore, founder and editor of the magazine Bim, encouraged his writing; Bim published his early poems and prose. From 1946 to 1950 he taught at El Colegio de Venezuela, a boarding school for boys in Port of Spain, Trinidad. In 1950 he sailed to England on the same boat as Samuel Selvon, worked briefly in a factory, and from 1951 broadcast for the BBC's Colonial Service; its Caribbean Voices programme aired his poems and short prose. In the Castle of My Skin (1953) won a Somerset Maugham Award (1957), and fellowships from the Kenyon Review (1954) and the Guggenheim Foundation (1954 or 1955; sources differ) made him a professional writer. He travelled to the United States in 1955, the West Indies in 1956 and West Africa in 1958, and by 1960 had published four novels and The Pleasures of Exile. In the 1960s he published no novel: he co-edited the Barbados and Guyana independence issues of New World Quarterly (1965, 1967), wrote a television documentary script about the Freedom Riders, held a Canada Council fellowship (1962) and was writer-in-residence at the University of the West Indies, Mona, Jamaica (1967-68). Water with Berries (1971) and Natives of My Person (1972) were his last novels. He returned to Barbados in the late 1970s and held visiting posts at the universities of Texas at Austin, Pennsylvania and Connecticut, at Brown, Cornell and Duke, and lectured in Denmark, Tanzania and Australia. He was made a Companion of Honour of Barbados (1987), received the Langston Hughes Medal of the City University of New York (1998) and was awarded the Order of the Caribbean Community (2008). He died in Bridgetown on 4 June 2022.",
+   "profile": "Lamming's fiction follows the stages of Caribbean history and of his own life: a Barbadian village at the end of the plantation order (In the Castle of My Skin, 1953); the voyage to England and the migrants' disillusion there (The Emigrants, 1954); the imagined island of San Cristobal on the eve of independence and just after it (Of Age and Innocence, 1958; Season of Adventure, 1960); West Indian artists in London as Caliban's heirs (Water with Berries, 1971); and an early colonial voyage of slavers and settlers (Natives of My Person, 1972). He described his novels as parts of one book that need not be read in order. The Pleasures of Exile (1960) mixes autobiography and criticism, and later volumes of essays, addresses and interviews (1992, 1995) carry his concerns with politics, culture and the education of the Caribbean intellectual. His poems and stories appeared in Bim, on the BBC and in anthologies but were never collected.",
+   "style": "Dense, lyrical and often difficult prose with shifting points of view: villagers or emigrants speak in turn as in a play, dreams and reveries interrupt the narrative, an intrusive 'Author's Note' breaks into Season of Adventure, and Natives of My Person imitates early maritime prose. Gerald Moore, in Contemporary Novelists, found a complexity of form and texture that only Wilson Harris matched among West Indian novelists; Novels for Students points to the modernist devices of shifting perspective and unreliable narration in the first novel.",
+   "concerns": "Colonialism and its psychological legacy, which he called 'a terror of the mind'; land, labour and the end of the plantation village; colonial education; migration and the discovery of a West Indian identity in England; independence and the failures of nationalist leaders; the Caribbean's African inheritance and women's experience, both new in Season of Adventure; Caliban and Prospero as figures of the colonised and the coloniser; slavery, the Middle Passage and the founding violence of colonial society.",
+   "significance": "Lamming is a founding figure of modern Caribbean writing in English. In the Castle of My Skin, praised by Richard Wright and Jean-Paul Sartre and read by Ngugi wa Thiong'o as one of the great political novels of colonial literature, remains the most cited of his books; The Emigrants is among the first novels of Caribbean migration to Britain; and his rereading of Caliban in The Pleasures of Exile became, in the words of the Encyclopedia of African-American Culture and History, a representative symbol of anticolonial resistance and of postcolonial theory. Novels for Students ranks him with V. S. Naipaul and Derek Walcott among the most important figures of Anglophone Caribbean literature.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Cultural Criticism",
+    "Historical Novel",
+    "Literary Essay",
+    "Literary Novel",
+    "Political Essay",
+    "Political Novel",
+    "Postcolonial Criticism",
+    "Social Novel"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Myth, folklore and the supernatural",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Utopia, dystopia and imagined futures",
+    "Violence, crime and justice"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2907,
+     "title": "Coming, Coming Home: Conversations II"
+    },
+    {
+     "id": 2906,
+     "title": "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990"
+    },
+    {
+     "id": 2899,
+     "title": "In the Castle of My Skin"
+    },
+    {
+     "id": 2905,
+     "title": "Natives of My Person"
+    },
+    {
+     "id": 2901,
+     "title": "Of Age and Innocence"
+    },
+    {
+     "id": 2902,
+     "title": "Season of Adventure"
+    },
+    {
+     "id": 2900,
+     "title": "The Emigrants"
+    },
+    {
+     "id": 2903,
+     "title": "The Pleasures of Exile"
+    },
+    {
+     "id": 2904,
+     "title": "Water with Berries"
+    }
+   ],
+   "sources": [
+    "Conversations: George Lamming: Essays, Addresses and Interviews, 1953-1990 (Google Books record)",
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "George Lamming Critical Essays (eNotes)",
+    "George Lamming: The Vocation of Writing and his Critical Social Engagement (Anthurium)",
+    "In the Castle of My Skin (Encyclopedia.com, compiling Gale's Novels for Students)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
+    "Season of Adventure by George Lamming (EBSCO Research Starters)",
+    "The Emigrants (Lamming novel) (Wikipedia)"
    ]
   },
   {
@@ -80512,6 +80632,58 @@
    ]
   },
   {
+   "id": 2907,
+   "title": "Coming, Coming Home: Conversations II",
+   "altTitles": [
+    "Coming, Coming Home: Conversations II - Western Education and the Caribbean Intellectual",
+    "Western Education and the Caribbean Intellectual: Coming, Coming, Coming Home"
+   ],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1995",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essays",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A short book of essays published in 1995 by House of Nehesi in Philipsburg, St Martin, the second of Lamming's 'Conversations' volumes. Its subtitle names its subject, Western education and the Caribbean intellectual; a Spanish translation, Regreso, regreso al hogar: Conversaciones II, appeared in 2000.",
+   "summary": "Essays on Western education and the Caribbean intellectual, issued as the sequel to Conversations (1992).",
+   "plot": "As its subtitle announces, the book addresses Western education and the Caribbean intellectual, and Contemporary Black Biography describes it as dealing with Western education and Caribbean thought. The subject continues a concern present in Lamming's work since In the Castle of My Skin, which the Encyclopedia of African-American Culture and History reads as an examination of the ideological consequences of English colonial education. The Spanish translation was launched at Carifesta VII in St Kitts and Nevis in 2000.",
+   "significance": "With Conversations (1992) and The Sovereignty of the Imagination (2009) it forms the series in which Lamming's later thought was published; Wikipedia lists it as his later collection of essays.",
+   "meter": "Essayistic prose in Lamming's public voice as lecturer and critic, addressed to a Caribbean readership.",
+   "context": "Published in St Martin by House of Nehesi, a Caribbean publisher, in the mid-1990s, when Lamming, based again in Barbados, held visiting posts at American universities.",
+   "characters": "",
+   "structure": "A short collection of essays, numbered as the second of the 'Conversations' volumes.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Cultural Criticism",
+    "Political Essay"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)"
+   ]
+  },
+  {
    "id": 989,
    "title": "Commentaries on the Laws of England",
    "altTitles": [
@@ -81634,6 +81806,56 @@
     "The Collected Letters of Charlotte Smith",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period",
     "The Poems of Charlotte Smith"
+   ]
+  },
+  {
+   "id": 2906,
+   "title": "Conversations: George Lamming: Essays, Addresses and Interviews 1953-1990",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essays",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A collection of Lamming's essays, addresses and interviews from 1953 to 1990, edited by Richard Drayton and Andaiye and published by Karia Press in London in 1992 (300 pages). Britannica describes it as a volume of essays and interviews.",
+   "summary": "Essays, public addresses and interviews spanning Lamming's career from 1953 to 1990. Pieces cited from it include the essay 'Politics and Culture' (pp. 71-83) and '\"A Future They Must Learn\": An Interview by George Kent' (pp. 86-105).",
+   "plot": "The volume gathers nearly four decades of Lamming's non-fictional writing and speech, from the year of In the Castle of My Skin to 1990, into one book. Its contents include the essay 'Politics and Culture' and George Kent's interview '\"A Future They Must Learn\"', both cited in an Anthurium study of Lamming's vocation as a writer and his social engagement. It was the first of the 'Conversations' volumes, followed by Coming, Coming Home: Conversations II (1995) and The Sovereignty of the Imagination: Conversations III (2009).",
+   "significance": "The principal collection of Lamming's essays and interviews from his first four decades as a writer, cited by later scholarship as the source of texts such as 'Politics and Culture'; Britannica names it among his works.",
+   "meter": "Lamming's public voice as essayist, lecturer and interviewee, in texts written for print, delivered as speeches or recorded in conversation.",
+   "context": "Published in London two decades after Lamming's last novel, when his work was appearing mainly as essays and lectures. Its co-editor Andaiye was a political activist in Guyana, and Anthurium describes Lamming's solidarity with her work in the Working People's Alliance.",
+   "characters": "",
+   "structure": "An edited gathering of three kinds of text (essays, addresses and interviews) covering 1953 to 1990, selected by Richard Drayton and Andaiye.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Essay",
+    "Political Essay"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Decolonisation, the end of empire and the new nation"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Conversations: George Lamming: Essays, Addresses and Interviews, 1953-1990 (Google Books record)",
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming: The Vocation of Writing and his Critical Social Engagement (Anthurium)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)"
    ]
   },
   {
@@ -102271,6 +102493,62 @@
    ]
   },
   {
+   "id": 2899,
+   "title": "In the Castle of My Skin",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1953",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "George Lamming's first novel was published in London by Michael Joseph in 1953 and in New York by McGraw-Hill, with an introduction by Richard Wright. An autobiographical coming-of-age novel set in the 1930s and 1940s in Creighton Village, a Barbadian settlement modelled on Lamming's birthplace, Carrington Village, it follows a boy called G. from his ninth birthday to his departure in his late teens for a teaching post in Trinidad, and through him the break-up of the old plantation village. It won a Somerset Maugham Award in 1957. The title comes from Derek Walcott's early sequence Epitaph for the Young (1949): 'You in the castle of your skin / I the swineherd.'",
+   "summary": "Fourteen chapters. G. narrates the first and last chapters and others between them in the first person; elsewhere a detached, older voice takes over, the village's Old Man (Pa) and Old Woman (Ma) speak in dialogue set out as dramatic 'lines', the boys hold long conversations, or the narrative follows the thoughts of the head teacher. The action runs from the flood on G.'s ninth birthday through the Empire Day inspection at school, a day on the beach, a dock strike and the labour riots of the 1930s, and the Second World War as it is heard of on the island, to the sale of the village land, Trumper's return from America and G.'s farewell.",
+   "plot": "On his ninth birthday the boy G. watches floodwaters rise over Creighton Village, a cluster of houses on land owned by the white landlord, Mr Creighton, whose house stands on a hill above it, while his protective mother tells him about his relatives. Through G. and his friends Trumper, Boy Blue and Bob the novel shows the life of the village: mothers scolding their children; the overseers who keep order for the landlord; the village school, where an inspector's Empire Day speech celebrates the bond between Barbados and England while the boys learn nothing about slavery, and where the head teacher privately suffers the discovery of his wife's infidelity. The Old Man and Old Woman, Pa and Ma, comment on events. Mr Slime, a former teacher, has founded a Penny Bank and Friendly Society into which the villagers pay their savings in the hope of buying the land they live on, and he leads a strike at the docks in the capital, in a shipping company of which Creighton is part owner. On the beach the boys trade stories and Boy Blue is nearly drowned; spying on a party at the landlord's house, they see Creighton's daughter with a sailor, and Creighton later blames 'vagabonds' from the village. The strike becomes a riot; an old woman's son, Po King, is shot dead, and when armed men lie in wait for Creighton as he walks through the village, they let him pass because Slime does not approve. Years go by. Trumper emigrates to America, Boy Blue and Bob join the police, and G. wins a scholarship to the high school, which estranges him from his friends; the war in Europe reaches the island as news and a ship torpedoed in the harbour. Ma dies. Creighton sells the land and Slime's society buys it to resell; tenants are evicted, and houses being moved collapse. The head teacher tells Pa that his plot has been sold and that he must go to the almshouse. Trumper returns from America changed, more confident and with a black nationalist outlook formed by American racism; he tells G. that to understand himself he must understand his race, and plays him a recording of Paul Robeson. About to leave for a teaching post in Trinidad, G. meets Pa on the way to the almshouse. The old man dates all the village's changes from the flood of G.'s ninth birthday, and G. senses that he is saying farewell to the land.",
+   "significance": "The novel established Lamming's reputation, and Daryl Cumber Dance's Fifty Caribbean Writers, as cited by Wikipedia, notes that it has received more critical attention than any of his other works. The Encyclopedia of African-American Culture and History calls it an instant classic, still the most frequently cited of his novels, and the first in a series exploring the psychological, historical and political impact of European colonisation in the Americas. Gerald Moore reads it as at once an autobiography of childhood and 'the collective autobiography of a Barbadian village' passing from the Great House into an age of nationalism, industrial unrest and colonial repression. In 2022 it was chosen for the Big Jubilee Read list of seventy books by Commonwealth authors.",
+   "meter": "Novels for Students notes the modernist devices of shifting perspective and unreliable narration, applied to an otherwise traditional story of a gifted boy and his protective mother. Richard Wright praised 'Lamming's quietly melodious prose'. The villagers speak Barbadian English in dialogue ('there be only two great men round here, Mr. Slime and the landlord'), and long stretches read like drama or oral storytelling, as in the transcribed 'lines' of Pa and Ma and the tales the boys tell on the beach.",
+   "context": "Lamming wrote the novel in London, completing it within two years of his arrival in 1950, out of what he later called the 'tragic innocence' of a generation that thought of England as a heritage and a place of welcome. It looks back to Barbados in the 1930s and 1940s, years of economic hardship and labour unrest across the British Caribbean, when villagers who left went first to Panama and then to the United States. It appeared as other West Indian writers were making the same journey to London and the BBC's Caribbean Voices was broadcasting their work.",
+   "characters": "G., the narrator; his mother; Trumper, Boy Blue and Bob, his friends; Mr Creighton, the landlord, and his daughter; the overseer; Mr Slime, teacher turned strike leader and founder of the Penny Bank and Friendly Society; the Old Man (Pa) and the Old Woman (Ma); the head teacher; Miss Foster and Bob's mother; Savory, the food vendor; the shoemaker",
+   "structure": "The fourteen chapters alternate between G.'s first-person narration (chapters 1, 11 and 14 among others) and sections in which an older, impersonal voice describes the village, Pa and Ma speak in dramatic 'lines', the boys talk at length, or the head teacher's thoughts are followed. Chapters often open at dawn, and the image of flooding water that begins the book returns in its last scene, when Pa recalls the flood.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Political Novel"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Land, place and regional belonging"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "In the Castle of My Skin (Encyclopedia.com, compiling Gale's Novels for Students)",
+    "In the Castle of My Skin (Wikipedia)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)"
+   ]
+  },
+  {
    "id": 2171,
    "title": "In the Days When the World Was Wide",
    "altTitles": [],
@@ -120076,6 +120354,59 @@
    ]
   },
   {
+   "id": 2905,
+   "title": "Natives of My Person",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1972",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Lamming's sixth and last novel, published in 1972 by Longman in London and Holt, Rinehart and Winston in New York, goes back to the beginnings of colonial history: the unauthorised voyage of the ship Reconnaissance from the kingdom of Lime Stone, by way of the African coast, to the Isles of the Black Rock, newly named San Cristobal, where its Commandant means to found a free settlement. Jan Carew, reviewing it in The New York Times, called it 'undoubtedly George Lamming's finest novel'.",
+   "summary": "Three parts, as Avis G. McDonald describes them: 'Breaking Loose', the wait off the white cliffs of Lime Stone for the pilot Pinteados to join the ship; 'The Middle Passage', the voyage and its end at Dolores; and 'The Women', a brief dramatic dialogue of the officers' wives waiting in vain in a cave on San Cristobal.",
+   "plot": "The Commandant, a soldier of Lime Stone who has taken part in slave raids on the African coast and in the near extermination of the native tribes of San Cristobal, sets out to atone for his past by founding a new society on the island beyond the control of Lime Stone's House of Trade and Justice. His ship, the Reconnaissance, given to him by his mistress, the Lady of the House of Trade and Justice, sails without official sanction, with officers known by their posts (Boatswain, Surgeon, Steward and Priest) and the pilot Pinteados. The Commandant orders that no slaves be taken, so the ship crosses the Middle Passage without its usual cargo, while a second ship, the Penalty, carries the officers' wives and women for the crew to San Cristobal. Much of the voyage is taken up with memory: the Commandant's slaving past and his mistress, the Surgeon's and the Steward's bitter histories with their wives, and Pinteados's ambiguous connections with the women of Lime Stone. When the Commandant learns of his mistress's liaison with the Boatswain he halts the voyage, and the Surgeon and the Steward, unwilling to be reunited with the wives they have learned are waiting on the island, murder him. According to EBSCO's character guide, the cabin boy Sasha, who worshipped the Commandant, kills the two murderers, and Admiral Badaloza of the rival power Antarctica, investigating, decides to report to the Lady rather than to the House of Trade and Justice. The settlement is never founded: in the last part the women wait in vain for their men (Helen Tiffin and Avis G. McDonald, quoted by eNotes).",
+   "significance": "Jan Carew wrote that it 'succeeds in illuminating new areas of darkness in the colonial past that the colonizer has so far not dealt with' and called it 'a profoundly revolutionary and original work' (The New York Times, 27 February 1972, quoted by Wikipedia). Moore thought it might prove 'Lamming's most important achievement'. Lamming published no further novels; his later work took the form of essays, lectures and interviews.",
+   "meter": "In Moore's words the style is 'deliberately wrought from the timbers of seventeenth-century maritime prose', and the book treats the demonic captain, the slave ship, the imprisoned Amerindian prince and the haunted crew 'like themes in music'.",
+   "context": "Published a year after Water with Berries, after Lamming's period as writer-in-residence at the University of the West Indies (1967-68), it was his last novel. The sources disagree on the century of its setting: the sixteenth in Britannica and the eNotes introduction, the seventeenth in Tiffin, while Moore describes its prose as modelled on seventeenth-century maritime writing. The destination, San Cristobal, links it to Of Age and Innocence and Season of Adventure.",
+   "characters": "The Commandant; the Lady of the House of Trade and Justice, his mistress; Pinteados, the pilot; the Boatswain, the Surgeon, the Steward and the Priest; Sasha, the cabin boy; the Steward's wife; Admiral Badaloza",
+   "structure": "Three parts of very unequal length, the last a short dramatic dialogue of the waiting women. Moore describes a structure derived from the 'musical resolution of its dominant themes' rather than from plot, voyaging freely in space and time.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Historical Novel",
+    "Political Novel"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Utopia, dystopia and imagined futures",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Wikipedia)",
+    "George Lamming Critical Essays (eNotes)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
+    "Natives of My Person: Analysis of Major Characters (EBSCO Research Starters)"
+   ]
+  },
+  {
    "id": 1349,
    "title": "Natural Theology",
    "altTitles": [
@@ -123385,6 +123716,57 @@
     "The Cambridge Companion to Eighteenth-Century Poetry",
     "The Cambridge Companion to English Literature, 1650–1740",
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century"
+   ]
+  },
+  {
+   "id": 2901,
+   "title": "Of Age and Innocence",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1958",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Lamming's third novel, published by Michael Joseph in London in 1958 (first US edition, Schocken, 1981), is the first set on San Cristobal, an imagined Caribbean island colony approaching independence. Britannica calls it a microcosmic look at the problems of political independence.",
+   "summary": "A novel of San Cristobal on the eve of self-government, set between the generation of adults who lead or resist the nationalist movement and the generation of their children, and closing in a destructive fire.",
+   "plot": "On San Cristobal, a colony moving rapidly towards independence, the adult generation cannot break free of its class and racial identities to work together for a new society that would redeem the past of slavery and colonialism. The nationalist leader Shepherd glimpses a new meaning for his life and his people, having always lived 'in the shadow of a meaning which others had placed on my presence in the world', but he loses it again and is destroyed by the forces of the past. Against the adults stand their children, whose games already anticipate a different future; at the end they look out through the flames of destruction that close the novel towards that future (Gerald Moore, Contemporary Novelists).",
+   "significance": "By the time of this novel and Season of Adventure, Contemporary Black Biography observes, Lamming was recognised as a major writer. It introduced San Cristobal, the island to which Season of Adventure and Natives of My Person return.",
+   "meter": "Moore groups it with Season of Adventure as 'powerfully positive' books and quotes Shepherd's reflective speech, in which the simile of a chair made to another man's design carries the argument.",
+   "context": "With Season of Adventure and Water with Berries it marks, in the Encyclopedia of African-American Culture and History's account, Lamming's return to the Caribbean in fiction, engaging universal suffrage, independence struggles and interethnic tensions. It followed his journeys to the United States in 1955 and the West Indies in 1956.",
+   "characters": "",
+   "structure": "Built on the juxtaposition of two generations, the adults' politics and the children's games, and ending in catastrophe by fire.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Literary Novel",
+    "Political Novel"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)"
    ]
   },
   {
@@ -139692,6 +140074,59 @@
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2902,
+   "title": "Season of Adventure",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Lamming's fourth novel, published by Michael Joseph in London in 1960 and in the United States only in 1999 (University of Michigan Press), is set on San Cristobal two years after independence. Its heroine, Fola Piggott, a light-skinned middle-class girl raised in British ways, is awakened by a Ceremony of the Souls to the culture of the island's poor; Britannica summarises it as the story of a West Indian woman who discovers her African heritage.",
+   "summary": "Two parts, 'Arriving and Returning' and 'The Revolt of the Drums' (EBSCO Research Starters). The novel opens with the Ceremony of the Souls in the tonelle, follows Fola's break with her family and her search for her origins, the assassination of the vice president and the police hunt in the Forest Reserve, and ends with the steel drums playing in defiance of a ban. An 'Author's Note' interrupts the narrative to discuss the disappearance of the drummer Powell.",
+   "plot": "Fola Piggott, not quite eighteen, has grown up in the household of Piggott, a police officer, immersed in British culture at home and at school. She attends a Ceremony of the Souls, a ritual for raising the dead, only to please her history teacher from Britain, Charlot Pressior, who watches it with an anthropologist's curiosity; but the music of the drums reconnects her with the island's own culture and makes her dissatisfied with her sheltered life. She is drawn to the painter Chiki, who one day paints the portrait of a man neither he nor Fola has ever seen. When Vice President Raymond is assassinated, the police, under Piggott, round up and beat the men of the Forest Reserve. To save them, Fola announces that she knows the killer: her father, whose portrait Chiki has painted. The suspects are released and the portrait is posted across the island, but no one can put a name to the face. Piggott, relieved of his duties, beats Fola and throws her out; the Piggotts' servant takes her in and Chiki cares for her. Powell, leader of a steel band and the real assassin, tries to kill Fola, who stands for the authority he hates; Chiki saves her and Powell disappears for good. The government, blaming the island's 'backwardness', bans the steel drums, and Fola and Chiki send word across the island for the drums to play at an appointed hour in defiance (EBSCO Research Starters).",
+   "significance": "Moore judged it 'in some ways the finest of his novels'. EBSCO notes that critics have often compared Fola with Bita Plant, the heroine of Claude McKay's Banana Bottom (1933). With Of Age and Innocence it marked Lamming's recognition as a major writer (Contemporary Black Biography), and the University of Michigan Press brought it into print in the United States for the first time in 1999.",
+   "meter": "Moore credits 'the intensity of Lamming's lyrical style and the bizarre violence of much of the action' with saving the familiar motif of an awakening by ancestral drums from banality. The sound of the drums recurs throughout, and the University of Michigan Press calls the book a novel of magic, politics and cultural identity.",
+   "context": "Written after Lamming's stay in West Africa, which Contemporary Black Biography connects with his Guggenheim Fellowship and Wikipedia dates to 1958, it imagines the first years of an independent Caribbean republic at a time when none of the British Caribbean colonies was yet independent.",
+   "characters": "Fola Piggott; Piggott, the police officer in whose household she has grown up; Charlot Pressior, her history teacher from Britain; Chiki, a painter; Powell, leader of a steel band; Vice President Raymond; the Piggotts' servant",
+   "structure": "Two parts framed by the opening Ceremony of the Souls and the closing defiance of the drums. In the 'Author's Note', Lamming's narrating persona steps out of the fiction to argue that historians and analysts cannot fully explain Powell's disappearance.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Literary Novel",
+    "Political Novel"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
+    "Season of Adventure (University of Michigan Press)",
+    "Season of Adventure by George Lamming (EBSCO Research Starters)"
    ]
   },
   {
@@ -163276,6 +163711,59 @@
     "The Letters of William Cullen Bryant (6 volumes)",
     "The Norton Anthology of American Literature (9th edition)",
     "The Prose Writings of William Cullen Bryant (2 volumes)"
+   ]
+  },
+  {
+   "id": 2900,
+   "title": "The Emigrants",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1954",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Lamming's second novel, published by Michael Joseph in London in 1954 and by McGraw-Hill in New York, follows a shipload of West Indian emigrants from the Caribbean to England and their attempts to settle there. Wikipedia, citing the British Library, presents it as a sequel to In the Castle of My Skin whose protagonist makes the same journey; Britannica calls it 'a despairing, fragmentary work about Caribbean immigrants in post-World War II England'.",
+   "summary": "Two movements: the passage by sea, during which emigrants from different islands begin to think of themselves as West Indians, and their dispersal into English life, where that shared identity breaks apart. The University of Michigan Press describes the book as focusing first on the emigrant journey and then on the process of settling in.",
+   "plot": "A boatload of men and women from several Caribbean islands sails for England in search of work and better prospects. On board, in their talk and their common situation, the travellers discover a new identity as 'West Indians'. In England that identity fails them. Gerald Moore, in Contemporary Novelists, describes how the emigrants 'fly centrifugally apart under the stresses of life in an alien culture', and the episodes of resettlement become a record of disillusion: people who had thought of themselves as British subjects meet racism and hostility from those who see them as threatening outsiders (Encyclopedia of African-American Culture and History). Moore found almost no focus of hope in the book amid so much disillusionment and despair.",
+   "significance": "Robinette's description of it as an attempt to portray 'an original historical experience: the immigration of Caribbean peoples to Britain' places it among the first novels of that migration, two years before Samuel Selvon's The Lonely Londoners (1956). Moore judged it the saddest of Lamming's books and 'certainly the weakest'; Robinette's chapter in Realism, Form and the Postcolonial Novel (2014) reads it instead as a formal experiment.",
+   "meter": "Kirkus Reviews (1 April 1955), as quoted by Wikipedia, praised the evocation of mood and the power of presenting characters separately within a group, but noted 'Joycean and Existentialist' influences and an ambiguity that conveys a sense of groping. Britannica calls the book fragmentary.",
+   "context": "Written after Lamming's own voyage to England in 1950, on the boat that also carried Samuel Selvon, it appeared six years after the Empire Windrush, early in the migration from the Caribbean to Britain that Moore dates 1950-1962. Contemporary Black Biography observes that it forecast the social problems Britain's black residents would face in the following years.",
+   "characters": "",
+   "structure": "A design in two parts, journey and resettlement, carried by a group of characters rather than a single hero. Moore stresses its collective portrait, and Nicholas Robinette, cited by Wikipedia, describes Lamming experimenting with the form of the novel to render an unprecedented historical experience.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Literary Novel",
+    "Social Novel"
+   ],
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)",
+    "The Emigrants (Lamming novel) (Wikipedia)"
    ]
   },
   {
@@ -189472,6 +189960,60 @@
     "Selected Poems of Thomas Hood",
     "The Cambridge Companion to British Romanticism",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period"
+   ]
+  },
+  {
+   "id": 2903,
+   "title": "The Pleasures of Exile",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Essays",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A book of essays published by Michael Joseph in London in 1960 and reissued by Allison and Busby (1981) and the University of Michigan Press (1992). Mixing autobiography and criticism (Contemporary Black Biography), it attempts to define the place of the West Indian in the post-colonial world by rereading Shakespeare's The Tempest, and its Prospero and Caliban, in terms of personal identity and the history of the Caribbean (Wikipedia).",
+   "summary": "Essays that examine Caribbean politics, race and culture in an international context (Britannica), combining Lamming's own experience as a West Indian writer in England with criticism. At their centre is a reading of The Tempest in which Caliban, Shakespeare's 'monster', is reinterpreted as a revolutionary slave and a tragic hero (Encyclopedia of African-American Culture and History).",
+   "plot": "Lamming starts from his own condition as a colonial writer living in England and asks what exile means for the West Indian, whose language, schooling and literature came from the colonising power. His central device is The Tempest. The relation between Prospero, the master who has taught Caliban his language, and Caliban, the native of the island whom Prospero has enslaved, becomes a way of reading personal identity and the history of the Caribbean (Wikipedia). Rather than accepting Shakespeare's monster, Lamming reads Caliban as a revolutionary slave and a tragic hero (Encyclopedia of African-American Culture and History). The essays range over Caribbean politics, race and culture in an international frame (Britannica) and return to ideas raised in his novels. The framework is at once autobiographical, literary-critical and political. Its contribution, according to the Encyclopedia of African-American Culture and History, was one of the earliest challenges to the English canon: a reading of Caliban that became a representative symbol of anticolonial resistance in African, Caribbean and Latin American literatures and in postcolonial theory.",
+   "significance": "The Encyclopedia of African-American Culture and History calls Lamming's reading of Caliban one of the earliest challenges to the English canon, which went on to become a representative symbol of anticolonial resistance in African, Caribbean and Latin American literatures and for postcolonial theory in general. Wikipedia lists the book among his notable works, and it remains in print with the University of Michigan Press.",
+   "meter": "Personal, essayistic prose in which Lamming speaks in his own voice as a West Indian writer in exile, joining memoir and reflection to literary analysis rather than adopting academic argument.",
+   "context": "Written in London at the end of Lamming's first decade there and published in the same year as Season of Adventure, when the West Indian novelists who had migrated to England between 1948 and 1960 were establishing a literature of their own, and before any British Caribbean colony had become independent. The 1981 Allison and Busby reissue belonged to Margaret Busby's effort to bring his out-of-print titles back into print.",
+   "characters": "",
+   "structure": "A sequence of essays rather than a single argued treatise, moving between autobiography, cultural history and the reading of Shakespeare; Contemporary Black Biography calls its mixture of autobiography and criticism innovative.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Essay",
+    "Postcolonial Criticism"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "Lamming, George (Encyclopedia.com, compiling the Encyclopedia of African-American Culture and History)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)"
    ]
   },
   {
@@ -215907,6 +216449,59 @@
     "The Selected Works of Robert Owen (4 volumes)",
     "The Selected Writings of Leigh Hunt (6 volumes)",
     "The William Blake Archive"
+   ]
+  },
+  {
+   "id": 2904,
+   "title": "Water with Berries",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "George Lamming"
+   ],
+   "authorIds": [
+    853
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1971",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Lamming's fifth novel, published by Longman in London in 1971 and by Holt, Rinehart and Winston in New York in 1972, after more than ten years without a novel. Set among three West Indian artists in London, it is, in Britannica's words, a political allegory based on Shakespeare's The Tempest.",
+   "summary": "The lives of three West Indian artists in London, among them Teeton and Derek, whose crises at the end of the novel replay the relation of Caliban, Prospero and Miranda.",
+   "plot": "On the surface a naturalistic novel about three West Indian artists leading difficult and increasingly lonely lives in modern London, it gradually reveals itself as a study of what happens when Caliban comes to Prospero's original home (Gerald Moore). The revenges of history work themselves out through characters who cannot help completing the violent patterns of the past: each of the friends is an aspect of Caliban, and each passes through an extreme personal crisis at the end. Derek, an actor, stands on a stage before a howling audience, having at last completed the rape of Miranda; Teeton stands on a northern island after destroying his last links with the racial past. Moore reads both endings as sketches of a possible freedom from the tyrannies of history.",
+   "significance": "With The Pleasures of Exile it is Lamming's principal reworking of The Tempest, a play that, as Contemporary Black Biography puts it, he both used as a store of symbols for Caribbean experience and criticised as a text that had helped form Britain's imperialist mindset.",
+   "meter": "Moore contrasts its naturalistic manner with the deliberately archaic prose of Natives of My Person, published a year later. The title quotes Caliban's complaint to Prospero in The Tempest (Act 1, scene 2) about the man who once gave him 'water with berries in't'.",
+   "context": "It ended Lamming's longest silence as a novelist, during which he had taken up academic and editorial work in the Caribbean, and carried into fiction the rereading of The Tempest begun in The Pleasures of Exile (1960).",
+   "characters": "Teeton; Derek, an actor; a third West Indian artist, unnamed in the sources consulted",
+   "structure": "A naturalistic surface over an allegorical design taken from The Tempest; the three friends' stories converge on simultaneous crises at the close.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Literary Novel",
+    "Political Novel"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "History, truth and the uses of the past",
+    "Migration, exile and diaspora",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "George Lamming (Encyclopaedia Britannica)",
+    "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "George Lamming (Wikipedia)",
+    "In the Castle of My Skin (Encyclopedia.com, compiling Gale's Novels for Students)",
+    "Lamming, George (Eric) (Encyclopedia.com, compiling Contemporary Novelists)"
    ]
   },
   {

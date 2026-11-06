@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–06, giving **852 authors / 2898 works** across ten periods (c. 450–2000).
+  waves 01–07, giving **853 authors / 2907 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Six research waves are built; see
+  **Installment 10 is in progress.** Seven research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1511,7 +1511,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–06 are built (54 works by 6 authors). Not complete.**
+**Status: in progress. Waves 01–07 are built (63 works by 7 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1626,11 +1626,38 @@ with broader Anglophone writing out of scope.
   - **Not recorded as works:** the uncollected stories, the unpublished plays
     and the posthumous 2012 collection. They are listed in his bibliography
     note.
+- **Wave 07:** George Lamming (Barbados), the first Caribbean author: all six
+  novels, from *In the Castle of My Skin* (1953) to *Natives of My Person*
+  (1972), and three books of essays, *The Pleasures of Exile* (1960),
+  *Conversations* (1992) and *Coming, Coming Home* (1995). The audit's "other
+  English-language" count moves from 1 to 2, and genre-checklist coverage from
+  42 to 45 of 161.
+  - **Sources:** Wikipedia (three articles), Britannica, four Gale entries on
+    Encyclopedia.com (*Contemporary Black Biography*, *Contemporary Novelists*
+    with Gerald Moore's essay, the *Encyclopedia of African-American Culture and
+    History* and *Novels for Students*), and search extracts from EBSCO, eNotes
+    (Tiffin, McDonald), Google Books, *Anthurium* and the University of Michigan
+    Press (sources 78–91).
+  - **Verification:** 3 records are verified and 6 partially verified; none of
+    the books was read.
+  - **Not recorded as works:** five uncollected stories, the poems, the two
+    anthologies he edited and two co-authored books whose contents were not
+    examined. They are listed in his bibliography note.
 
-None of the wave 02–04 authors was in the discovery inventory, and neither is
-Tutuola. This is evidence that the inventory under-represents poetry, drama,
-criticism and pre-1969 Commonwealth writing; see the limitations in the audit
-report.
+**Discovery inventory (2026-11-06, second pass).** The Heinemann African
+Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
+Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
+were added. Surname-first names, which had made 162 authors appear twice, are
+now put in natural order, and the output no longer depends on Python's hash
+seed. The inventory now holds 6,045 candidates (P1 670, P2 1,720, P3 3,655),
+against 5,706. `tests/test_discovery.py` covers the name handling, the series
+list and the ordering.
+
+None of the wave 02–04 authors was in the discovery inventory, nor is Lamming;
+Tutuola appears only as a 1964 anthology contributor in the African Writers
+Series. This is evidence that the inventory under-represents poetry, drama,
+criticism and Commonwealth writing published outside that series, above all
+Caribbean and South Asian writing; see the limitations in the audit report.
 
 **Corrections to installments 8–9 (2026-11-06).** Found while building wave 05;
 each is listed with its source in section 13 of the audit report.
@@ -1692,4 +1719,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–06: 54 works by 6 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–07: 63 works by 7 authors) |
