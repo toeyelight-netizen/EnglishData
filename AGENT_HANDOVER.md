@@ -7,11 +7,11 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 28):** installments 1–9 are
-complete; installment 10 (1946–2000) is in progress at **223 works by 72
-authors**, with **178 of 255** in-scope Norton selections recorded (the English
-anthology complete at 89, the American at 89 of 165). The database holds **919
-authors, 3,067 works, 674 sources, 2,432 editions**. `python3
+**State at this handover (2026-11-06, wave 29):** installments 1–9 are
+complete; installment 10 (1946–2000) is in progress at **240 works by 81
+authors**, with **195 of 255** in-scope Norton selections recorded (the English
+anthology complete at 89, the American at 106 of 165). The database holds **923
+authors, 3,084 works, 688 sources, 2,432 editions**. `python3
 scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
 so they cannot drift from it.
 
@@ -30,7 +30,7 @@ alembic upgrade head
 python scripts/import_data.py
 ```
 
-This reproduces 919 / 3,067 / 674 / 2,432 exactly from a clean clone.
+This reproduces 923 / 3,084 / 688 / 2,432 exactly from a clean clone.
 
 ## 2. First run
 
@@ -150,12 +150,13 @@ Next in Norton's order (American anthology), from
 
 | Author | in-scope rows | note |
 |---|---|---|
-| Amiri Baraka | 4 | 2 undated — next in order |
-| N. Scott Momaday | 2 | |
-| Lucille Clifton | 7 | largest block after Dove |
 | Rita Dove | 10 | *Thomas and Beulah* counts once for three rows |
+| Li-Young Lee | 5 | |
+| Joy Harjo | 4 | |
+| Yusef Komunyakaa | 4 | |
+| Sherman Alexie | 4 | |
 
-78 selections remain: 35 authors, of whom 18 have a single selection. 17
+61 selections remain: 29 authors, of whom 16 have a single selection. 17
 selections are still undated (11 English, 6 American) and decide whether five
 more authors are in the period at all. The English anthology is complete for
 the period (89 of 89 unique selections).

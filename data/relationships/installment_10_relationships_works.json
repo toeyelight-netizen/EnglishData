@@ -1114,6 +1114,91 @@
    "work": "Bloodchild",
    "author": "Octavia E. Butler",
    "contribution_type": "author"
+  },
+  {
+   "work": "An Agony. As Now.",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Black Art",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "author": "Amiri Baraka",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Headwaters",
+   "author": "N. Scott Momaday",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "author": "N. Scott Momaday",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Summer Day",
+   "author": "Mary Oliver",
+   "contribution_type": "author"
+  },
+  {
+   "work": "miss rosie",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "the lost baby poem",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "homage to my hips",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "wishes for sons",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "blessing the boats",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "to my last period",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "wild blessings",
+   "author": "Lucille Clifton",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "author": "Audre Lorde",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Footnote to Howl",
+   "author": "Allen Ginsberg",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Supermarket in California",
+   "author": "Allen Ginsberg",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2804,6 +2889,142 @@
     "Short Story",
     "Science Fiction",
     "Soft Science Fiction"
+   ]
+  },
+  {
+   "work": "An Agony. As Now.",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "genres": [
+    "Narrative Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Black Art",
+   "genres": [
+    "Political Poetry",
+    "Free Verse",
+    "Black Arts Poetry"
+   ]
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Headwaters",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Memoir",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Summer Day",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "miss rosie",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "the lost baby poem",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "homage to my hips",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "wishes for sons",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "blessing the boats",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "to my last period",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "wild blessings",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Feminist Criticism"
+   ]
+  },
+  {
+   "work": "Footnote to Howl",
+   "genres": [
+    "Beat Poetry",
+    "Free Verse",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "A Supermarket in California",
+   "genres": [
+    "Beat Poetry",
+    "Free Verse",
+    "Elegiac Poetry"
    ]
   }
  ],
@@ -4581,6 +4802,142 @@
     "Power, the state and surveillance",
     "Family, marriage and domestic life"
    ]
+  },
+  {
+   "work": "An Agony. As Now.",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self",
+    "Alienation, absurdity and existential freedom"
+   ]
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Black Art",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "themes": [
+    "Death, illness and mourning",
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Headwaters",
+   "themes": [
+    "Land, place and regional belonging",
+    "Myth, folklore and the supernatural",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "themes": [
+    "Land, place and regional belonging",
+    "Myth, folklore and the supernatural",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "The Summer Day",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "miss rosie",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "the lost baby poem",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "homage to my hips",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "wishes for sons",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "blessing the boats",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Love, intimacy and loss",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "to my last period",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "wild blessings",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Footnote to Howl",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Counterculture, drugs and rebellion",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "A Supermarket in California",
+   "themes": [
+    "Art, the artist and the creative life",
+    "The city, the suburb and modern space",
+    "Sexuality, desire and the closet"
+   ]
   }
  ],
  "work_movements": [
@@ -5787,6 +6144,107 @@
     "Feminist Science Fiction",
     "New Wave Science Fiction"
    ]
+  },
+  {
+   "work": "An Agony. As Now.",
+   "movements": [
+    "The Beat Generation",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "A Poem for Willie Best",
+   "movements": [
+    "The Beat Generation",
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Black Art",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Will They Cry When You're Gone, You Bet",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "Headwaters",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Way to Rainy Mountain",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "miss rosie",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "the lost baby poem",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "homage to my hips",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "wishes for sons",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "blessing the boats",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "to my last period",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "wild blessings",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Poetry Is Not a Luxury",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Footnote to Howl",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "A Supermarket in California",
+   "movements": [
+    "The Beat Generation"
+   ]
   }
  ],
  "work_periods": [
@@ -6015,7 +6473,24 @@
     "The Conversion of the Jews",
     "Precious Artifact",
     "Schrödinger's Cat",
-    "Bloodchild"
+    "Bloodchild",
+    "An Agony. As Now.",
+    "A Poem for Willie Best",
+    "Black Art",
+    "Will They Cry When You're Gone, You Bet",
+    "Headwaters",
+    "The Way to Rainy Mountain",
+    "The Summer Day",
+    "miss rosie",
+    "the lost baby poem",
+    "homage to my hips",
+    "wishes for sons",
+    "blessing the boats",
+    "to my last period",
+    "wild blessings",
+    "Poetry Is Not a Luxury",
+    "Footnote to Howl",
+    "A Supermarket in California"
    ]
   }
  ]

@@ -1980,6 +1980,27 @@ with broader Anglophone writing out of scope.
   anthology's 89 are complete; the American is at 89 of 165), and the 17 undated
   rows still decide whether a further five authors are covered.
 
+- **Wave 29:** Amiri Baraka, N. Scott Momaday, Mary Oliver and Lucille Clifton, with
+  two poems restored to Audre Lorde and Allen Ginsberg. Seventeen works and four
+  new authors. Baraka's four selections are dated from their first printings:
+  "An Agony. As Now." and "A Poem for Willie Best" in *The Dead Lecturer* (Grove,
+  1964), "Black Art" in *The Liberator* for January 1966 (it had already
+  circulated in 1965 as a recording on Sonny Murray's *Sonny's Time Now*), and
+  "Will They Cry When You're Gone, You Bet", whose first book collection is
+  *Black Magic* (Bobbs-Merrill, 1969) and for which no earlier periodical
+  printing was found - the record says so rather than guessing. Momaday's
+  "Headwaters" is the framing poem of *The Way to Rainy Mountain* (University of
+  New Mexico Press, 1969), recorded beside the book itself, whose three-voice
+  triptych structure in three typefaces is documented from the scholarship on
+  it. Oliver's "The Summer Day" is from *House of Light* (Beacon, 1990) and
+  Clifton's seven selections are dated to *Good Times* (1969), *Good News About
+  the Earth* (1972), *Two-Headed Woman* (1980) and *Quilting* (1991). Lorde's
+  "Poetry Is Not a Luxury" (*Chrysalis*, 1977; *Sister Outsider*, 1984) and
+  Ginsberg's "Footnote to Howl" and "A Supermarket in California" (*Howl and
+  Other Poems*, City Lights, 1956) were missing from waves 24 and 25 and are
+  added here. Sixteen new sources. 240 works by 81 authors; 195 of the 255
+  selections recorded, 61 still to record across 29 authors.
+
 **Tooling (2026-11-06).** Three scripts now do work that was being done by hand,
 and all three are described in `AGENT_HANDOVER.md` §2:
 
@@ -2108,4 +2129,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 223 works by 72 authors; 178 of 255 selections recorded - the English anthology complete, the American at 89 of 165) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 240 works by 81 authors; 195 of 255 selections recorded - the English anthology complete at 89, the American at 106 of 165) |

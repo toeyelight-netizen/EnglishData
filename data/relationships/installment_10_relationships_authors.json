@@ -30,8 +30,23 @@
   {
    "author": "Allen Ginsberg",
    "genres": [
+    "Beat Poetry",
     "Confessional Poetry",
+    "Elegiac Poetry",
     "Free Verse",
+    "Political Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Amiri Baraka",
+   "genres": [
+    "Black Arts Poetry",
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
     "Political Poetry"
    ]
   },
@@ -433,6 +448,18 @@
    ]
   },
   {
+   "author": "Lucille Clifton",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Religious Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
    "author": "M. NourbeSe Philip",
    "genres": [
     "Experimental Poetry",
@@ -456,6 +483,25 @@
     "Personal Essay",
     "Political Essay",
     "Social Criticism"
+   ]
+  },
+  {
+   "author": "Mary Oliver",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "author": "N. Scott Momaday",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Memoir",
+    "Mythological Retelling",
+    "Nature Poetry",
+    "Nonfiction Prose (1946–2000)"
    ]
   },
   {
@@ -773,6 +819,13 @@
    ]
   },
   {
+   "author": "Amiri Baraka",
+   "movements": [
+    "Black Arts Movement",
+    "The Beat Generation"
+   ]
+  },
+  {
    "author": "Anne Carson",
    "movements": [
     "Second-Wave Feminist Writing"
@@ -803,6 +856,7 @@
    "author": "Audre Lorde",
    "movements": [
     "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics",
     "Second-Wave Feminist Writing"
    ]
   },
@@ -1054,6 +1108,13 @@
    ]
   },
   {
+   "author": "Lucille Clifton",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "M. NourbeSe Philip",
    "movements": [
     "Caribbean Literature in English",
@@ -1071,6 +1132,16 @@
    "author": "Martin Luther King Jr.",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Mary Oliver",
+   "movements": []
+  },
+  {
+   "author": "N. Scott Momaday",
+   "movements": [
+    "Native American Renaissance"
    ]
   },
   {
@@ -1285,8 +1356,25 @@
    "author": "Allen Ginsberg",
    "themes": [
     "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Counterculture, drugs and rebellion",
+    "Faith, doubt and the sacred",
     "Madness, breakdown and confinement",
-    "Sexuality, desire and the closet"
+    "Sexuality, desire and the closet",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Amiri Baraka",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -1333,6 +1421,7 @@
     "Family, marriage and domestic life",
     "Gender, feminism and women's lives",
     "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
     "Power, the state and surveillance",
     "Race, racism and the struggle for civil rights",
     "Sexuality, desire and the closet",
@@ -1727,6 +1816,21 @@
    ]
   },
   {
+   "author": "Lucille Clifton",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
    "author": "M. NourbeSe Philip",
    "themes": [
     "Gender, feminism and women's lives",
@@ -1751,6 +1855,22 @@
     "Faith, doubt and the sacred",
     "Power, the state and surveillance",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Mary Oliver",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "N. Scott Momaday",
+   "themes": [
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Myth, folklore and the supernatural"
    ]
   },
   {
@@ -2387,7 +2507,8 @@
    "author": "Bessie Head",
    "sources": [
     "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
-    "Bessie Head (Wikipedia)"
+    "Bessie Head (Wikipedia)",
+    "Good Times (Random House, 1969) and Two-Headed Woman (University of Massachusetts Press, 1980), catalogue records"
    ]
   },
   {
@@ -2649,6 +2770,7 @@
   {
    "author": "Allen Ginsberg",
    "sources": [
+    "Allen Ginsberg (Wikipedia)",
     "Howl (poem) (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
@@ -2799,6 +2921,43 @@
     "Bloodchild and Other Stories, first edition (Seven Stories Press, 1995)",
     "Metaphysical Lyrics and Poems of the Seventeenth Century: Donne to Butler",
     "Octavia E. Butler (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Amiri Baraka",
+   "sources": [
+    "Amiri Baraka (Wikipedia)",
+    "Amiri Baraka, Poetry Foundation author page and poem notes",
+    "Black Art (poem) (Wikipedia), with the Liberator and Sonny's Time Now first appearances",
+    "The Dead Lecturer (Grove Press, 1964), library catalogue record with contents",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "N. Scott Momaday",
+   "sources": [
+    "N. Scott Momaday (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Way to Rainy Mountain (University of New Mexico Press, 1969), bibliographic and contents record"
+   ]
+  },
+  {
+   "author": "Mary Oliver",
+   "sources": [
+    "House of Light (Beacon Press, 1990), publisher's note on 'The Summer Day'",
+    "Mary Oliver (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Poems of Thomas Gray, William Collins and Oliver Goldsmith"
+   ]
+  },
+  {
+   "author": "Lucille Clifton",
+   "sources": [
+    "Good Times (Random House, 1969) and Two-Headed Woman (University of Massachusetts Press, 1980), catalogue records",
+    "Lucille Clifton (Wikipedia)",
+    "Lucille Clifton, EBSCO Research Starters and Poetry Foundation author page",
+    "Quilting: Poems 1987-1990 (BOA Editions, 1991), contents and the collected-poems table of contents",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }
