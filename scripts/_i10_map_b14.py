@@ -32,7 +32,7 @@ MAP_B14 = {
         ['Short Story', 'Domestic Fiction', 'Regional Fiction'],
         ['Family, marriage and domestic life', 'Race, racism and the struggle for civil rights', 'History, truth and the uses of the past', 'Class, labour and social mobility'],
         ['Postwar African American Writing: Protest and Its Critics']),
-    "In Search of Our Mothers' Gardens: Womanist Prose": (['Alice Walker'],
+    "In Search of Our Mothers' Gardens": (['Alice Walker'],
         ['Personal Essay', 'Literary Essay', 'Cultural Criticism'],
         ["Gender, feminism and women's lives", 'Race, racism and the struggle for civil rights', 'Art, the artist and the creative life', 'Family, marriage and domestic life'],
         ['Postwar African American Writing: Protest and Its Critics', 'Second-Wave Feminist Writing']),

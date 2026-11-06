@@ -1336,7 +1336,7 @@
    "contribution_type": "author"
   },
   {
-   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "work": "In Search of Our Mothers' Gardens",
    "author": "Alice Walker",
    "contribution_type": "author"
   },
@@ -1428,6 +1428,126 @@
   {
    "work": "At Navajo Monument Valley Tribal School",
    "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Joy Luck Club",
+   "author": "Amy Tan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "author": "Sandra Cisneros",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Fleur",
+   "author": "Louise Erdrich",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Gift",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Persimmons",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eating Alone",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Eating Together",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "author": "Li-Young Lee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "author": "Lorrie Moore",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Domestic Work",
+   "author": "Natasha Trethewey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "author": "Jhumpa Lahiri",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Drown",
+   "author": "Junot Díaz",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Adolescence",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Parsley",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Rosa",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Geometry",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "author": "Rita Dove",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pawn Shop",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "author": "Sherman Alexie",
+   "contribution_type": "author"
+  },
+  {
+   "work": "White Lies",
+   "author": "Natasha Trethewey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Vignette",
+   "author": "Natasha Trethewey",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Sexy",
+   "author": "Jhumpa Lahiri",
    "contribution_type": "author"
   }
  ],
@@ -3468,7 +3588,7 @@
    ]
   },
   {
-   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "work": "In Search of Our Mothers' Gardens",
    "genres": [
     "Personal Essay",
     "Literary Essay",
@@ -3609,6 +3729,181 @@
    "genres": [
     "Lyric Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Joy Luck Club",
+   "genres": [
+    "Literary Novel",
+    "Domestic Fiction",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Fleur",
+   "genres": [
+    "Short Story",
+    "Literary Novel",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Gift",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Persimmons",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Eating Alone",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Eating Together",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Domestic Work",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Historical Writing"
+   ]
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Drown",
+   "genres": [
+    "Short Story",
+    "Bildungsroman",
+    "Autobiographical Novel"
+   ]
+  },
+  {
+   "work": "Adolescence",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Parsley",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Rosa",
+   "genres": [
+    "Lyric Poetry",
+    "Dramatic Monologue",
+    "Dramatic Poetry"
+   ]
+  },
+  {
+   "work": "Geometry",
+   "genres": [
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Pawn Shop",
+   "genres": [
+    "Prose Poetry",
+    "Short Story"
+   ]
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "genres": [
+    "Short Story",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "White Lies",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Vignette",
+   "genres": [
+    "Lyric Poetry",
+    "Visual Poetry"
+   ]
+  },
+  {
+   "work": "Sexy",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction"
    ]
   }
  ],
@@ -5744,7 +6039,7 @@
    ]
   },
   {
-   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "work": "In Search of Our Mothers' Gardens",
    "themes": [
     "Gender, feminism and women's lives",
     "Race, racism and the struggle for civil rights",
@@ -5916,6 +6211,224 @@
     "Indigenous survival, land and sovereignty",
     "Race, racism and the struggle for civil rights",
     "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "The Joy Luck Club",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Violence, crime and justice",
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Fleur",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Indigenous survival, land and sovereignty",
+    "Gender, feminism and women's lives",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "The Gift",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Love, intimacy and loss",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Persimmons",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Eating Alone",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Eating Together",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss",
+    "Death, illness and mourning",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Memory, trauma and testimony",
+    "Family, marriage and domestic life",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Domestic Work",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Drown",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Class, labour and social mobility",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Adolescence",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "Parsley",
+   "themes": [
+    "Violence, crime and justice",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Rosa",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Gender, feminism and women's lives",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Geometry",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Violence, crime and justice",
+    "Memory, trauma and testimony",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Pawn Shop",
+   "themes": [
+    "Class, labour and social mobility",
+    "Indigenous survival, land and sovereignty",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Indigenous survival, land and sovereignty",
+    "Death, illness and mourning",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "White Lies",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Childhood, adolescence and coming of age",
+    "Identity, authenticity and the divided self",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Vignette",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "History, truth and the uses of the past",
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Sexy",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Love, intimacy and loss",
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age"
    ]
   }
  ],
@@ -7388,7 +7901,7 @@
    ]
   },
   {
-   "work": "In Search of Our Mothers' Gardens: Womanist Prose",
+   "work": "In Search of Our Mothers' Gardens",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics",
     "Second-Wave Feminist Writing"
@@ -7505,6 +8018,160 @@
    "work": "At Navajo Monument Valley Tribal School",
    "movements": [
     "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Joy Luck Club",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Woman Hollering Creek",
+   "movements": [
+    "Chicano Movement Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Fleur",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "The Gift",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Persimmons",
+   "movements": [
+    "Postcolonial Literature",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Eating Alone",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Eating Together",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "I Ask My Mother to Sing",
+   "movements": [
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+   "movements": [
+    "Minimalism and Dirty Realism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Domestic Work",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Interpreter of Maladies",
+   "movements": [
+    "Postcolonial Literature",
+    "Asian American Literary Movement"
+   ]
+  },
+  {
+   "work": "Drown",
+   "movements": [
+    "Postcolonial Literature",
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "work": "Adolescence",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Parsley",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Rosa",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Geometry",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Poem in Which I Refuse Contemplation",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Pawn Shop",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Sister Fire, Brother Smoke",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "This Is What It Means to Say Phoenix, Arizona",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "White Lies",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Vignette",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "Sexy",
+   "movements": [
+    "Postcolonial Literature",
+    "Asian American Literary Movement"
    ]
   }
  ],
@@ -7779,7 +8446,7 @@
     "Vespers",
     "Borderlands/La Frontera: The New Mestiza",
     "Everyday Use",
-    "In Search of Our Mothers' Gardens: Womanist Prose",
+    "In Search of Our Mothers' Gardens",
     "Fences",
     "How to Tell a True War Story",
     "Facing It",
@@ -7797,7 +8464,31 @@
     "Thomas and Beulah",
     "The Business of Fancydancing",
     "The Summer of Black Widows",
-    "At Navajo Monument Valley Tribal School"
+    "At Navajo Monument Valley Tribal School",
+    "The Joy Luck Club",
+    "Woman Hollering Creek",
+    "Fleur",
+    "The Gift",
+    "Persimmons",
+    "Eating Alone",
+    "Eating Together",
+    "I Ask My Mother to Sing",
+    "People Like That Are the Only People Here: Canonical Babbling in Peed Onk",
+    "Domestic Work",
+    "Interpreter of Maladies",
+    "Drown",
+    "Adolescence",
+    "Parsley",
+    "Thomas and Beulah (The Event / The Zeppelin Factory / Dusting)",
+    "Rosa",
+    "Geometry",
+    "Poem in Which I Refuse Contemplation",
+    "Pawn Shop",
+    "Sister Fire, Brother Smoke",
+    "This Is What It Means to Say Phoenix, Arizona",
+    "White Lies",
+    "Vignette",
+    "Sexy"
    ]
   }
  ]

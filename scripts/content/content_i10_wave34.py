@@ -609,8 +609,9 @@ W10("Everyday Use", AW, "1973",
         "not examined and the exact page is not given. The date of first publication is the collection's "
         "1973 imprint.",
   ver="partially verified", sources=[W_AW, INLOVE, NAAL]),
-W10("In Search of Our Mothers' Gardens: Womanist Prose", AW, "1974",
-  "Essay (title essay, collected in book of the same name, 1983)", "significant",
+W10("In Search of Our Mothers' Gardens", AW, "1974",
+  "Essay (title essay, collected in Womanist Prose, 1983)", "significant",
+  alt=("In Search of Our Mothers' Gardens: Womanist Prose",),
   genres=G("Personal Essay", "Literary Essay", "Cultural Criticism"),
   themes=T("Gender, feminism and women's lives", "Race, racism and the struggle for civil rights",
            "Art, the artist and the creative life", "Family, marriage and domestic life"),
@@ -1697,8 +1698,9 @@ W10("The Summer of Black Widows", SA, "1996",
   themes_text="The first subject is the death of a sibling and the guilt of the survivor, which the "
               "sequence treats without consolation. The second is the relation of art to grief, since "
               "the brother is a writer and the poem knows it. The third is family and the reservation "
-              "world in which the loss happens. The fourth is form itself, since the villanelle's "
-              "refrains make repetition a figure for mourning.",
+              "world in which the loss happens. The fourth is the book's own arrangement, since the "
+              "sequences are ordered so that the poems of courtship and the poems of the fire sit in "
+              "the same volume without either explaining the other.",
   structure="A collection of sequences, with the sister poems forming the third and the villanelle "
             "placed last in it; the poems are short and the sequences are held together by recurring "
             "images rather than narrative.",

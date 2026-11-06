@@ -62,6 +62,14 @@
    ]
   },
   {
+   "author": "Amy Tan",
+   "genres": [
+    "Bildungsroman",
+    "Domestic Fiction",
+    "Literary Novel"
+   ]
+  },
+  {
    "author": "Anne Carson",
    "genres": [
     "Confessional Poetry",
@@ -399,6 +407,13 @@
    ]
   },
   {
+   "author": "Jhumpa Lahiri",
+   "genres": [
+    "Domestic Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Joan Didion",
    "genres": [
     "Cultural Criticism",
@@ -467,6 +482,14 @@
    ]
   },
   {
+   "author": "Junot Díaz",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "genres": [
     "Cultural Criticism",
@@ -517,6 +540,15 @@
    ]
   },
   {
+   "author": "Li-Young Lee",
+   "genres": [
+    "Elegiac Poetry",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "genres": [
     "Dub Poetry",
@@ -542,6 +574,14 @@
    ]
   },
   {
+   "author": "Lorrie Moore",
+   "genres": [
+    "Domestic Fiction",
+    "Satirical Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Louise Bennett",
    "genres": [
     "Folklore Collection",
@@ -550,6 +590,14 @@
     "Performance Poetry",
     "Political Poetry",
     "Social Poetry"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "genres": [
+    "Literary Novel",
+    "Mythological Retelling",
+    "Short Story"
    ]
   },
   {
@@ -623,6 +671,15 @@
     "Mythological Retelling",
     "Nature Poetry",
     "Nonfiction Prose (1946–2000)"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "genres": [
+    "Historical Writing",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Visual Poetry"
    ]
   },
   {
@@ -725,9 +782,12 @@
   {
    "author": "Rita Dove",
    "genres": [
+    "Dramatic Monologue",
+    "Dramatic Poetry",
     "Long Poem",
     "Lyric Poetry",
-    "Narrative Poetry"
+    "Narrative Poetry",
+    "Political Poetry"
    ]
   },
   {
@@ -787,6 +847,13 @@
    ]
   },
   {
+   "author": "Sandra Cisneros",
+   "genres": [
+    "Domestic Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Saul Bellow",
    "genres": [
     "Realist Fiction",
@@ -810,6 +877,9 @@
   {
    "author": "Sherman Alexie",
    "genres": [
+    "Bildungsroman",
+    "Elegiac Poetry",
+    "Formal Verse",
     "Lyric Poetry",
     "Narrative Poetry",
     "Political Poetry",
@@ -1040,6 +1110,13 @@
    "movements": [
     "Black Arts Movement",
     "The Beat Generation"
+   ]
+  },
+  {
+   "author": "Amy Tan",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -1282,6 +1359,13 @@
    ]
   },
   {
+   "author": "Jhumpa Lahiri",
+   "movements": [
+    "Asian American Literary Movement",
+    "Postcolonial Literature"
+   ]
+  },
+  {
    "author": "Joan Didion",
    "movements": [
     "Postmodernism and Postmodern Fiction"
@@ -1335,6 +1419,13 @@
    ]
   },
   {
+   "author": "Junot Díaz",
+   "movements": [
+    "Minimalism and Dirty Realism",
+    "Postcolonial Literature"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "movements": [
     "Caribbean Literature in English",
@@ -1371,6 +1462,13 @@
    ]
   },
   {
+   "author": "Li-Young Lee",
+   "movements": [
+    "Postcolonial Literature",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "movements": [
     "Black British Writing and the Windrush Generation",
@@ -1385,11 +1483,24 @@
    ]
   },
   {
+   "author": "Lorrie Moore",
+   "movements": [
+    "Minimalism and Dirty Realism",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Louise Bennett",
    "movements": [
     "Caribbean Literature in English",
     "Postcolonial Literature",
     "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "movements": [
+    "Native American Renaissance"
    ]
   },
   {
@@ -1440,6 +1551,13 @@
    "author": "N. Scott Momaday",
    "movements": [
     "Native American Renaissance"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   },
   {
@@ -1501,6 +1619,7 @@
    "author": "Rita Dove",
    "movements": [
     "Confessional Poetry",
+    "Postmodernism and Postmodern Fiction",
     "Postwar African American Writing: Protest and Its Critics"
    ]
   },
@@ -1536,6 +1655,13 @@
    "movements": [
     "Black British Writing and the Windrush Generation",
     "Caribbean Literature in English"
+   ]
+  },
+  {
+   "author": "Sandra Cisneros",
+   "movements": [
+    "Chicano Movement Literature",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -1744,6 +1870,16 @@
     "Power, the state and surveillance",
     "Race, racism and the struggle for civil rights",
     "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Amy Tan",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Migration, exile and diaspora"
    ]
   },
   {
@@ -2119,6 +2255,16 @@
    ]
   },
   {
+   "author": "Jhumpa Lahiri",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
    "author": "Joan Didion",
    "themes": [
     "Language, writing and the limits of representation",
@@ -2199,6 +2345,16 @@
    ]
   },
   {
+   "author": "Junot Díaz",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "themes": [
     "Art, the artist and the creative life",
@@ -2252,6 +2408,19 @@
    ]
   },
   {
+   "author": "Li-Young Lee",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "themes": [
     "Class, labour and social mobility",
@@ -2280,6 +2449,15 @@
    ]
   },
   {
+   "author": "Lorrie Moore",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
    "author": "Louise Bennett",
    "themes": [
     "Class, labour and social mobility",
@@ -2289,6 +2467,15 @@
     "Migration, exile and diaspora",
     "Nationhood and national identity",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Indigenous survival, land and sovereignty",
+    "Myth, folklore and the supernatural",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -2366,6 +2553,18 @@
     "Land, place and regional belonging",
     "Memory, trauma and testimony",
     "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -2480,10 +2679,15 @@
     "Class, labour and social mobility",
     "Death, illness and mourning",
     "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
     "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
     "Memory, trauma and testimony",
     "Migration, exile and diaspora",
-    "Race, racism and the struggle for civil rights"
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -2554,6 +2758,15 @@
    ]
   },
   {
+   "author": "Sandra Cisneros",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora",
+    "Violence, crime and justice"
+   ]
+  },
+  {
    "author": "Saul Bellow",
    "themes": [
     "Class, labour and social mobility",
@@ -2580,12 +2793,15 @@
   {
    "author": "Sherman Alexie",
    "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
     "Death, illness and mourning",
     "Education, institutions and the academy",
     "Family, marriage and domestic life",
     "Indigenous survival, land and sovereignty",
     "Language, writing and the limits of representation",
     "Madness, breakdown and confinement",
+    "Memory, trauma and testimony",
     "Myth, folklore and the supernatural",
     "Race, racism and the struggle for civil rights"
    ]
@@ -3426,6 +3642,7 @@
     "Adrienne Rich (Wikipedia)",
     "Adrienne Rich's Poetry and Prose, Norton Critical Edition, contents (library catalogue record)",
     "Diving into the Wreck: Poems 1971-1972 (Wikipedia)",
+    "Louise Erdrich (Wikipedia; Poetry Foundation author page)",
     "Richard Rodriguez (Wikipedia)",
     "The Dream of a Common Language (Wikipedia)",
     "The Long Awakening of Adrienne Rich (The New Yorker, 30 November 2020)",
@@ -3772,6 +3989,74 @@
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
     "The Yellow House on the Corner",
     "Thomas and Beulah"
+   ]
+  },
+  {
+   "author": "Amy Tan",
+   "sources": [
+    "Amy Tan (Wikipedia; Poetry Foundation author page)",
+    "The Joy Luck Club",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Sandra Cisneros",
+   "sources": [
+    "Sandra Cisneros (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Woman Hollering Creek and Other Stories"
+   ]
+  },
+  {
+   "author": "Louise Erdrich",
+   "sources": [
+    "Louise Erdrich (Wikipedia; Poetry Foundation author page)",
+    "Love Medicine",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Li-Young Lee",
+   "sources": [
+    "Li-Young Lee (Wikipedia; Poetry Foundation author page)",
+    "Rose",
+    "The City in Which I Love You",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Lorrie Moore",
+   "sources": [
+    "Birds of America",
+    "Darcy Moore, Orwell Collection (collector's list of first editions)",
+    "Lorrie Moore (Wikipedia; Poetry Foundation author page)",
+    "Sources and Style in Moore's Irish Melodies",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Poetical Works of Thomas Moore"
+   ]
+  },
+  {
+   "author": "Natasha Trethewey",
+   "sources": [
+    "Domestic Work",
+    "Natasha Trethewey (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Jhumpa Lahiri",
+   "sources": [
+    "Interpreter of Maladies",
+    "Jhumpa Lahiri (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Junot Díaz",
+   "sources": [
+    "Drown",
+    "Junot Díaz (Wikipedia; Poetry Foundation author page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }
  ]
