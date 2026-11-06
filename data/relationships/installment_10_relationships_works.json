@@ -414,6 +414,121 @@
    "work": "Imaginary Homelands",
    "author": "Salman Rushdie",
    "contribution_type": "author"
+  },
+  {
+   "work": "Epilogue",
+   "author": "Grace Nichols",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "author": "Grace Nichols",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Wherever I Hang",
+   "author": "Grace Nichols",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "author": "Linton Kwesi Johnson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "To Room Nineteen",
+   "author": "Doris Lessing",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Self-Portrait",
+   "author": "A. K. Ramanujan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Elements of Composition",
+   "author": "A. K. Ramanujan",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Black Jackets",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "My Sad Captains",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "From the Wave",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Still Life",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Missing",
+   "author": "Thom Gunn",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Schooner Flight",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Omeros",
+   "author": "Derek Walcott",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Wind",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pike",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Out",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Theology",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Crow's Last Stand",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "author": "Ted Hughes",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Civil Peace",
+   "author": "Chinua Achebe",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1005,6 +1120,173 @@
     "Literary Essay",
     "Political Essay",
     "Postcolonial Criticism"
+   ]
+  },
+  {
+   "work": "Epilogue",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Dramatic Poetry"
+   ]
+  },
+  {
+   "work": "Wherever I Hang",
+   "genres": [
+    "Lyric Poetry",
+    "Dub Poetry"
+   ]
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "genres": [
+    "Dub Poetry",
+    "Political Poetry",
+    "Performance Poetry"
+   ]
+  },
+  {
+   "work": "To Room Nineteen",
+   "genres": [
+    "Short Story",
+    "Psychological Novel",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Self-Portrait",
+   "genres": [
+    "Lyric Poetry",
+    "Modernist Poetry"
+   ]
+  },
+  {
+   "work": "Elements of Composition",
+   "genres": [
+    "Lyric Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "Black Jackets",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "My Sad Captains",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "From the Wave",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Still Life",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Missing",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "genres": [
+    "Political Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "The Schooner Flight",
+   "genres": [
+    "Narrative Poetry",
+    "Long Poem",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "genres": [
+    "Lyric Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Omeros",
+   "genres": [
+    "Epic Poetry",
+    "Long Poem",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Wind",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Pike",
+   "genres": [
+    "Nature Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Out",
+   "genres": [
+    "Lyric Poetry",
+    "Dark Fantasy"
+   ]
+  },
+  {
+   "work": "Theology",
+   "genres": [
+    "Religious Poetry",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Crow's Last Stand",
+   "genres": [
+    "Mythological Retelling",
+    "Dark Fantasy"
+   ]
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "genres": [
+    "Mythological Retelling",
+    "Dark Fantasy"
+   ]
+  },
+  {
+   "work": "Civil Peace",
+   "genres": [
+    "Short Story",
+    "War Novel",
+    "Realist Fiction"
    ]
   }
  ],
@@ -1670,6 +1952,184 @@
     "Language, writing and the limits of representation",
     "Nationhood and national identity"
    ]
+  },
+  {
+   "work": "Epilogue",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Gender, feminism and women's lives",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Wherever I Hang",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "To Room Nineteen",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Madness, breakdown and confinement",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Self-Portrait",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Elements of Composition",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Nature, ecology and environmental crisis",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Black Jackets",
+   "themes": [
+    "Class, labour and social mobility",
+    "Counterculture, drugs and rebellion",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "My Sad Captains",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "From the Wave",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Still Life",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "The Missing",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Decolonisation, the end of empire and the new nation",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Schooner Flight",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "themes": [
+    "War, combat and its aftermath",
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Omeros",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "Wind",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Pike",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "Out",
+   "themes": [
+    "Violence, crime and justice",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Theology",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Crow's Last Stand",
+   "themes": [
+    "Death, illness and mourning",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Civil Peace",
+   "themes": [
+    "War, combat and its aftermath",
+    "Family, marriage and domestic life",
+    "Faith, doubt and the sacred"
+   ]
   }
  ],
  "work_movements": [
@@ -1975,6 +2435,156 @@
     "South Asian Literature in English",
     "Postcolonial Literature"
    ]
+  },
+  {
+   "work": "Epilogue",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "The Fat Black Woman Goes Shopping",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation"
+   ]
+  },
+  {
+   "work": "Wherever I Hang",
+   "movements": [
+    "Caribbean Literature in English",
+    "Black British Writing and the Windrush Generation",
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "Inglan Is a Bitch",
+   "movements": [
+    "Dub Poetry",
+    "Black British Writing and the Windrush Generation",
+    "Performance and Spoken-Word Poetry"
+   ]
+  },
+  {
+   "work": "To Room Nineteen",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Self-Portrait",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Elements of Composition",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Black Jackets",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "My Sad Captains",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "From the Wave",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Still Life",
+   "movements": [
+    "Gay and Lesbian Literature after Stonewall"
+   ]
+  },
+  {
+   "work": "The Missing",
+   "movements": [
+    "Gay and Lesbian Literature after Stonewall"
+   ]
+  },
+  {
+   "work": "A Far Cry from Africa",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Schooner Flight",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Season of Phantasmal Peace",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Omeros",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Wind",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Pike",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Out",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Theology",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Crow's Last Stand",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Crow Tyrannosaurus",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Civil Peace",
+   "movements": [
+    "African Literature in English"
+   ]
   }
  ],
  "work_periods": [
@@ -2063,7 +2673,30 @@
     "Decolonising the Mind",
     "Discourse on the Logic of Language",
     "The Prophet's Hair",
-    "Imaginary Homelands"
+    "Imaginary Homelands",
+    "Epilogue",
+    "The Fat Black Woman Goes Shopping",
+    "Wherever I Hang",
+    "Inglan Is a Bitch",
+    "To Room Nineteen",
+    "Self-Portrait",
+    "Elements of Composition",
+    "Black Jackets",
+    "My Sad Captains",
+    "From the Wave",
+    "Still Life",
+    "The Missing",
+    "A Far Cry from Africa",
+    "The Schooner Flight",
+    "The Season of Phantasmal Peace",
+    "Omeros",
+    "Wind",
+    "Pike",
+    "Out",
+    "Theology",
+    "Crow's Last Stand",
+    "Crow Tyrannosaurus",
+    "Civil Peace"
    ]
   }
  ]

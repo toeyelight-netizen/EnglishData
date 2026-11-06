@@ -1,6 +1,41 @@
 {
  "author_genres": [
   {
+   "author": "A. K. Ramanujan",
+   "genres": [
+    "Experimental Poetry",
+    "Lyric Poetry",
+    "Modernist Poetry"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "War Novel"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "genres": [
+    "Epic Poetry",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "genres": [
+    "Domestic Fiction",
+    "Psychological Novel",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Dylan Thomas",
    "genres": [
     "Elegiac Poetry",
@@ -24,6 +59,15 @@
     "Political Novel",
     "Satirical Fiction",
     "Social Criticism"
+   ]
+  },
+  {
+   "author": "Grace Nichols",
+   "genres": [
+    "Dramatic Poetry",
+    "Dub Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
    ]
   },
   {
@@ -53,6 +97,14 @@
     "Political Poetry",
     "Postcolonial Criticism",
     "Visual Poetry"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "genres": [
+    "Dub Poetry",
+    "Performance Poetry",
+    "Political Poetry"
    ]
   },
   {
@@ -176,6 +228,26 @@
    ]
   },
   {
+   "author": "Ted Hughes",
+   "genres": [
+    "Dark Fantasy",
+    "Lyric Poetry",
+    "Mythological Retelling",
+    "Nature Poetry",
+    "Religious Poetry",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "genres": [
+    "Elegiac Poetry",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
    "author": "W. H. Auden",
    "genres": [
     "Formal Verse",
@@ -187,12 +259,46 @@
  ],
  "author_movements": [
   {
+   "author": "A. K. Ramanujan",
+   "movements": [
+    "Postcolonial Literature",
+    "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Dylan Thomas",
    "movements": []
   },
   {
    "author": "George Orwell",
    "movements": []
+  },
+  {
+   "author": "Grace Nichols",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Caribbean Literature in English",
+    "Performance and Spoken-Word Poetry"
+   ]
   },
   {
    "author": "Gwendolyn Brooks",
@@ -214,6 +320,14 @@
     "Caribbean Literature in English",
     "Postcolonial Literature",
     "Postcolonial Theory"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Dub Poetry",
+    "Performance and Spoken-Word Poetry"
    ]
   },
   {
@@ -281,11 +395,63 @@
    "movements": []
   },
   {
+   "author": "Ted Hughes",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "movements": [
+    "Gay and Lesbian Literature after Stonewall",
+    "The Movement"
+   ]
+  },
+  {
    "author": "W. H. Auden",
    "movements": []
   }
  ],
  "author_themes": [
+  {
+   "author": "A. K. Ramanujan",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Madness, breakdown and confinement"
+   ]
+  },
   {
    "author": "Dylan Thomas",
    "themes": [
@@ -310,6 +476,18 @@
     "Technology, media and consumer society",
     "Utopia, dystopia and imagined futures",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Grace Nichols",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
    ]
   },
   {
@@ -348,6 +526,14 @@
     "Language, writing and the limits of representation",
     "Nationhood and national identity",
     "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "themes": [
+    "Class, labour and social mobility",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -481,6 +667,30 @@
     "Identity, authenticity and the divided self",
     "Madness, breakdown and confinement",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Ted Hughes",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Land, place and regional belonging",
+    "Nature, ecology and environmental crisis",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet"
    ]
   },
   {
@@ -661,6 +871,76 @@
     "Imaginary Homelands (Wikipedia)",
     "Salman Rushdie (Wikipedia)",
     "The Prophet's Hair, by Salman Rushdie (London Review of Books, vol. 3, no. 7)"
+   ]
+  },
+  {
+   "author": "Grace Nichols",
+   "sources": [
+    "Grace Nichols (Wikipedia)",
+    "Grace Nichols, 'Epilogue', 'The Fat Black Woman Goes Shopping', 'Wherever I Hang' (readingnorton.wordpress.com)",
+    "Grace Nichols, I Have Crossed an Ocean: Selected Poems (contents listing)",
+    "Grace Nichols- born 1950 (greatbritishwriters blog)"
+   ]
+  },
+  {
+   "author": "Linton Kwesi Johnson",
+   "sources": [
+    "'I came to poetry through politics': Linton Kwesi Johnson's Other Lives (Presses universitaires de la Méditerranée)",
+    "Bass Culture - Linton Kwesi Johnson (reggaelyrics.info)",
+    "Linton Kwesi Johnson (Wikipedia)",
+    "The Cambridge Companion to Samuel Johnson",
+    "The Life of Samuel Johnson, 6 volumes (Birkbeck Hill edition)",
+    "The Yale Edition of the Works of Samuel Johnson (21 volumes)"
+   ]
+  },
+  {
+   "author": "Doris Lessing",
+   "sources": [
+    "Doris Lessing (Wikipedia)",
+    "To Room Nineteen by Doris Lessing, 1963 (The Encyclopedia of the Short Story, encyclopedia.com)"
+   ]
+  },
+  {
+   "author": "A. K. Ramanujan",
+   "sources": [
+    "A. K. Ramanujan (Wikipedia)",
+    "A. K. Ramanujan, Selected Poetry (PDF text of the poems, jpellegrino.com)",
+    "A.K. Ramanujan (Guillermo Rodríguez Martín, Indian Writing in English, University of Hyderabad)",
+    "Metaphor and postcoloniality: the poetry of A.K. Ramanujan (Gale Academic OneFile)"
+   ]
+  },
+  {
+   "author": "Thom Gunn",
+   "sources": [
+    "Thom Gunn (Wikipedia)",
+    "Thom Gunn, 'From the Wave', 'Still Life', 'The Missing' (readingnorton.wordpress.com)",
+    "Thom Gunn, Collected Poems (WorldCat contents listing)"
+   ]
+  },
+  {
+   "author": "Derek Walcott",
+   "sources": [
+    "Derek Walcott (Wikipedia)",
+    "Derek Walcott, Selected Poems (Barnes and Noble contents listing)",
+    "Myths of Identity in Derek Walcott's 'The Schooner Flight' (Mary C. Fuller, Connotations)",
+    "Walcott, Derek (Oxford Research Encyclopedia of Literature)"
+   ]
+  },
+  {
+   "author": "Ted Hughes",
+   "sources": [
+    "A Dark Green Counterculture in Ted Hughes's Crow (independent thesis, DiVA)",
+    "Ted Hughes (Wikipedia)",
+    "Ted Hughes, 'Wind' (text, The Wondering Minstrels)",
+    "Ted Hughes, Collected Poems, ed. Paul Keegan (Faber contents listing)",
+    "The Collected Poems of Langston Hughes"
+   ]
+  },
+  {
+   "author": "Chinua Achebe",
+   "sources": [
+    "Chinua Achebe (Wikipedia)",
+    "Civil Peace (Wikipedia)"
    ]
   }
  ]

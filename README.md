@@ -21,10 +21,10 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 83 works by 16 authors; 39 of 255 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 106 works by 19 authors; 63 of 255 selections recorded) |
 
-Cumulative totals: **858 authors, 2927 works** (147 anonymous), 10 periods, 179
-movements, 370 genres, 203 themes, 473 sources, 2432 recorded editions.
+Cumulative totals: **866 authors, 2950 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 502 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the
@@ -48,12 +48,14 @@ most of it is still to do.**
 - **Record standard.** A strict, template-free build: every work has a
   seven-part description, a bibliography status, a verification status and the
   sources actually consulted.
-- **Current state.** 83 works by Ralph Ellison, Philip Larkin, Lorraine
+- **Current state.** 106 works by Ralph Ellison, Philip Larkin, Lorraine
   Hansberry, Samuel Selvon, Stevie Smith, Dylan Thomas, Louise Bennett, Kamau
-  Brathwaite, Ngũgĩ wa Thiong'o, M. NourbeSe Philip and Salman Rushdie, and by
-  George Orwell, Jean Rhys, Samuel Beckett, W. H. Auden and Gwendolyn Brooks
-  (their installment 9 author records, extended). 39 of the 255 selections in
-  the period are recorded so far.
+  Brathwaite, Ngũgĩ wa Thiong'o, M. NourbeSe Philip, Salman Rushdie, Grace
+  Nichols, Linton Kwesi Johnson, Doris Lessing, A. K. Ramanujan, Thom Gunn,
+  Derek Walcott, Ted Hughes and Chinua Achebe, and by George Orwell, Jean
+  Rhys, Samuel Beckett, W. H. Auden and Gwendolyn Brooks (their installment 9
+  author records, extended). 63 of the 255 selections in the period are
+  recorded so far.
   The measured state, the eight audits, the corrections made to installments
   8–9 and the exact stopping point are in
   [documentation/INSTALLMENT_10_AUDIT_REPORT.md](documentation/INSTALLMENT_10_AUDIT_REPORT.md).
