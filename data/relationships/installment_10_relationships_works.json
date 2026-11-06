@@ -789,6 +789,41 @@
    "work": "Summertime and the Living . . .",
    "author": "Robert Hayden",
    "contribution_type": "author"
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "author": "Saul Bellow",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Death of a Salesman",
+   "author": "Arthur Miller",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Skunk Hour",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Night Sweat",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "For the Union Dead",
+   "author": "Robert Lowell",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1952,6 +1987,62 @@
     "Free Verse",
     "Narrative Poetry",
     "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Social Criticism"
+   ]
+  },
+  {
+   "work": "Death of a Salesman",
+   "genres": [
+    "Modern Tragedy",
+    "Domestic Drama",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "genres": [
+    "Formal Verse",
+    "Religious Poetry",
+    "Dramatic Monologue"
+   ]
+  },
+  {
+   "work": "Skunk Hour",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Night Sweat",
+   "genres": [
+    "Confessional Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "For the Union Dead",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
    ]
   }
  ],
@@ -3211,6 +3302,62 @@
     "Race, racism and the struggle for civil rights",
     "Land, place and regional belonging"
    ]
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Race, racism and the struggle for civil rights",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "Death of a Salesman",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Skunk Hour",
+   "themes": [
+    "Madness, breakdown and confinement",
+    "Land, place and regional belonging",
+    "Alienation, absurdity and existential freedom"
+   ]
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "themes": [
+    "Memory, trauma and testimony",
+    "Violence, crime and justice",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Night Sweat",
+   "themes": [
+    "Madness, breakdown and confinement",
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "For the Union Dead",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "War, combat and its aftermath"
+   ]
   }
  ],
  "work_movements": [
@@ -4003,6 +4150,53 @@
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
    ]
+  },
+  {
+   "work": "Looking for Mr. Green",
+   "movements": [
+    "Late Modernism",
+    "Jewish American Fiction"
+   ]
+  },
+  {
+   "work": "Death of a Salesman",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Mr. Edwards and the Spider",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Skunk Hour",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Memories of West Street and Lepke",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "Night Sweat",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "For the Union Dead",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
   }
  ],
  "work_periods": [
@@ -4166,7 +4360,14 @@
     "A Streetcar Named Desire",
     "The Swimmer",
     "Those Winter Sundays",
-    "Summertime and the Living . . ."
+    "Summertime and the Living . . .",
+    "Looking for Mr. Green",
+    "Death of a Salesman",
+    "Mr. Edwards and the Spider",
+    "Skunk Hour",
+    "Memories of West Street and Lepke",
+    "Night Sweat",
+    "For the Union Dead"
    ]
   }
  ]

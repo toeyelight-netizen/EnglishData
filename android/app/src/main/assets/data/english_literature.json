@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 892,
-  "works": 3002
+  "authors": 895,
+  "works": 3009
  },
  "periods": [
   {
@@ -868,12 +868,14 @@
   "An Essay on the Slavery and Commerce of the Human Species, Particularly the African, Translated from a Latin Dissertation, Which Was Honoured with the First Prize in the University of Cambridge, for the Year 1785",
   "An Inquiry into the Nature and Causes of the Wealth of Nations, 2 volumes",
   "An Island Is a World (Mawenzi House)",
+  "Analysis of Saul Bellow's Looking for Mr Green (Literary Theory and Criticism)",
   "Anglo-Saxon Poetry",
   "Animal Farm (Wikipedia)",
   "Annals of the Parish (The Edinburgh Edition of the Works of John Galt)",
   "Anne Carson (Wikipedia)",
   "Annie Allen (Wikipedia)",
   "Apologia Pro Vita Sua",
+  "Arthur Miller (Wikipedia)",
   "Arundhati Roy (Wikipedia)",
   "Asian American Literary Canon (Post45 Data Collective)",
   "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
@@ -885,6 +887,7 @@
   "Beowulf: A Verse Translation",
   "Bessie Head (Wikipedia)",
   "Bibliography of Dame Ngaio Marsh's Published Works",
+  "Bibliography of Saul Bellow (Wikipedia)",
   "Biographia Literaria (The Collected Works of Samuel Taylor Coleridge, volume 7)",
   "Blackwood's Edinburgh Magazine",
   "BpNichol (Wikipedia)",
@@ -907,6 +910,7 @@
   "Culture and Anarchy and Other Writings (Cambridge Texts in the History of Political Thought)",
   "Darcy Moore, Orwell Collection (collector's list of first editions)",
   "David Walker's Appeal to the Coloured Citizens of the World",
+  "Death of a Salesman (Wikipedia)",
   "Decolonising the Mind (Wikipedia)",
   "Denis Donoghue, House of the spirits (review of February House, The Boston Globe)",
   "Derek Walcott (Wikipedia)",
@@ -942,6 +946,7 @@
   "Felicia Hemans: Selected Poems, Prose and Letters",
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
   "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
+  "For the Union Dead (Wikipedia)",
   "Frankenstein; or, The Modern Prometheus: The 1818 Text",
   "Freedom's Journal (New York, 1827-1829): Digitised Run, Chronicling America",
   "Geoffrey Hill, 'Requiem for the Plantagenet Kings' (poeticous text)",
@@ -1005,12 +1010,14 @@
   "Letitia Elizabeth Landon: Selected Writings",
   "Letters and Other Unpublished Writings of Walter Savage Landor",
   "Leviathan: The English and Latin Texts",
+  "Life Studies (Wikipedia)",
   "Linton Kwesi Johnson (Wikipedia)",
   "List of Sahitya Akademi Award winners for English (Wikipedia)",
   "List of poems by Philip Larkin (Wikipedia)",
   "List of winners and nominated authors of the Booker Prize (Wikipedia)",
   "Little Women, Little Men, Jo's Boys (Library of America)",
   "Lord Byron: The Major Works",
+  "Lord Weary's Castle (Wikipedia)",
   "Lorraine Hansberry (AmericanLiterature.com)",
   "Lorraine Hansberry (Encyclopaedia Britannica)",
   "Lorraine Hansberry (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
@@ -1070,6 +1077,7 @@
   "Pamphlets on West Indian Slavery",
   "Papers of Philip Arthur Larkin, file 'High Windows' (Hull History Centre, via Archives Hub)",
   "Parson Weems: A Biographical and Critical Study",
+  "Partisan Review, Vol. XII, No. 2 (Spring 1945), table of contents (Boston University)",
   "Pastors and Masters (Wikipedia)",
   "Paul Muldoon (Wikipedia)",
   "Perdita: The Life of Mary Robinson",
@@ -1094,6 +1102,7 @@
   "Review of These Sad But Glorious Days (Journal of American Studies)",
   "Robert Bloomfield: Selected Poems (revised and enlarged edition)",
   "Robert Hayden (Wikipedia)",
+  "Robert Lowell (Wikipedia)",
   "Rural Rides (Everyman's Library, 2 volumes)",
   "Rural Rides (Penguin English Library)",
   "Salman Rushdie (Wikipedia)",
@@ -1105,6 +1114,7 @@
   "Samuel Selvon (Encyclopaedia Britannica)",
   "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
   "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)",
+  "Saul Bellow (Wikipedia)",
   "Seamus Heaney (Wikipedia)",
   "Seamus Heaney's principal poems (reading site, irisharoundtheworld)",
   "Seamus Heaney, 'Clearances' (reading site, fawbie.info)",
@@ -1123,6 +1133,7 @@
   "Signs and Symbols (Wikipedia)",
   "Sir Thomas Wyatt: The Complete Poems",
   "Sketches of American Character",
+  "Skunk Hour (Wikipedia)",
   "Sleep It Off Lady (Wikipedia)",
   "Sleep It Off Lady: Stories (Trove, National Library of Australia)",
   "Sources and Style in Moore's Irish Melodies",
@@ -1316,6 +1327,7 @@
   "The Private Memoirs and Confessions of a Justified Sinner (Oxford World's Classics)",
   "The Prophet's Hair, by Salman Rushdie (London Review of Books, vol. 3, no. 7)",
   "The Prose Writings of William Cullen Bryant (2 volumes)",
+  "The Quaker Graveyard in Nantucket (Wikipedia)",
   "The Quarterly Review",
   "The Religious Poetry of Stevie Smith and Emily Brontë (RepositoriUM, University of Minho)",
   "The Renaissance: Studies in Art and Poetry — the 1893 Text",
@@ -4951,6 +4963,48 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 894,
+   "name": "Arthur Miller",
+   "altNames": [],
+   "dates": "1915 – 2005",
+   "birthplace": "New York City, New York, United States",
+   "nationality": "American; playwright, essayist and screenwriter writing in English",
+   "identity": "American playwright whose tragedies of the ordinary man - above all Death of a Salesman, All My Sons and The Crucible - made him, with Tennessee Williams, the defining dramatist of the postwar American stage",
+   "biography": "Arthur Asher Miller was born in Harlem, New York, on 17 October 1915, the son of a Polish Jewish manufacturer; the family lost its business in the crash of 1929 and moved to Brooklyn, and Miller worked in a warehouse and for a radio station before taking a BA at the University of Michigan in 1938, where he won the Hopwood Award twice. The Man Who Had All the Luck (1944) failed on Broadway; All My Sons (1947) established him, and Death of a Salesman opened at the Morosco Theatre on 10 February 1949, ran for 742 performances and won the Pulitzer Prize for Drama. The Crucible (1953), a play about the Salem witch trials written against McCarthyism, A View from the Bridge (1955), A Memory of Two Mondays (1955), After the Fall (1964), Incident at Vichy (1964), The Price (1968), The Creation of the World and Other Business (1972) and Playing for Time (1980) followed, with the screenplays of The Misfits (1961) and others, the reportage of Situation Normal (1944) and the essays and memoir Timebends (1987). He refused to name names before the House Un-American Activities Committee in 1956 and was convicted of contempt of Congress, a conviction overturned in 1958; he was married to Marilyn Monroe from 1956 to 1961. He died at Roxbury, Connecticut, on 10 February 2005, the fifty-sixth anniversary of the premiere of Death of a Salesman.",
+   "profile": "Plays: The Man Who Had All the Luck (1944), All My Sons (1947), Death of a Salesman (1949), An Enemy of the People (1950, adaptation of Ibsen), The Crucible (1953), A View from the Bridge (1955), A Memory of Two Mondays (1955), After the Fall (1964), Incident at Vichy (1964), The Price (1968), The Creation of the World and Other Business (1972), The Archbishop's Ceiling (1977), The American Clock (1980), Playing for Time (1980), Broken Glass (1994) and Resurrection Blues (2002). Screenplays: The Misfits (1961) and Everybody Wins (1990). Prose: Situation Normal (1944), Focus (1945, novel), The Misfits (1961, novella), In Russia (1969), In the Country (1977), 'Salesman' in Beijing (1984) and Timebends (1987, memoir).",
+   "style": "Plain, muscular, colloquial dialogue that rises to a rhetorical and sometimes lyrical intensity; monologues and confessional arias set against short, hard exchanges; a dramaturgy of memory in which past and present occupy the same stage; realistic sets used as memory-spaces; the language of the salesman, the immigrant and the working man made tragic.",
+   "concerns": "The American Dream and its collapse; the failure of fathers and the disappointment of sons; the ordinary man as tragic hero; guilt, betrayal and the corruption of the past; McCarthyism, informers and the tyranny of the community; the immigrant family and social mobility; time, memory and the refusal to accept one's own life.",
+   "significance": "Miller is, with Williams, the major American dramatist of the postwar decades, and Death of a Salesman is the play through which American tragedy after 1945 is usually taught: it won the Pulitzer Prize, ran for 742 performances, has been revived on Broadway repeatedly, has been filmed ten times and has sold some eleven million copies, and its Willy Loman became the representative figure of the ordinary man in modern drama.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Domestic Drama",
+    "Full-Length Play",
+    "Modern Tragedy"
+   ],
+   "movements": [
+    "Late Modernism"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3004,
+     "title": "Death of a Salesman"
+    }
+   ],
+   "sources": [
+    "Arthur Miller (Wikipedia)",
+    "Death of a Salesman (Wikipedia)",
+    "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -42034,6 +42088,85 @@
    ]
   },
   {
+   "id": 895,
+   "name": "Robert Lowell",
+   "altNames": [],
+   "dates": "1917 – 1977",
+   "birthplace": "Boston, Massachusetts, United States",
+   "nationality": "American; poet, translator, playwright and teacher writing in English",
+   "identity": "American poet and the central figure of confessional poetry, whose formal Catholic verse of the 1940s gave way to the autobiographical free verse of Life Studies and to a public poetry of history and civil rights",
+   "biography": "Robert Traill Spence Lowell IV was born in Boston on 1 March 1917 into a Boston Brahmin family descended from the Mayflower; his father was a naval commander and his mother a Winslow. He studied at Harvard, left to study with Allen Tate and John Crowe Ransom, and took a BA at Kenyon College in 1940, converting to Catholicism in 1941 and refusing military service in the Second World War - he served five months in prison as a conscientious objector in 1943. Land of Unlikeness (1944), Lord Weary's Castle (1946, Pulitzer Prize), The Mills of the Kavanaughs (1951), Life Studies (1959, National Book Award), Imitations (1961), For the Union Dead (1964), Near the Ocean (1967), Notebook 1967-68 (1969), The Dolphin (1973, Pulitzer Prize), History (1973) and Day by Day (1977) are the books, with the verse translations and the plays of The Old Glory (1965). He taught at Boston University, where his students included Sylvia Plath and Anne Sexton, was Consultant in Poetry to the Library of Congress in 1947-48, and died in New York on 12 September 1977.",
+   "profile": "Poetry: Land of Unlikeness (1944), Lord Weary's Castle (1946), The Mills of the Kavanaughs (1951), Life Studies (1959), Imitations (1961), For the Union Dead (1964), Near the Ocean (1967), Notebook 1967-68 (1969), Notebook (1970), The Dolphin (1973), History (1973) and Day by Day (1977), with Collected Poems (2003, ed. Frank Bidart and David Gewanter). Plays: The Old Glory (1965). Prose: Collected Prose (1987). Translations: Phaedra (1961), Imitations (1961) and Prometheus Bound (1969).",
+   "style": "A dense, allusive, heavily stressed formal verse in the early books, with violent imagery, enjambment and an unusual mixture of pentameter and trimeter; from Life Studies a loose, conversational free verse and irregular stanza that keeps the rhythm of speech; rhyme used sparingly and often ironically; a rhetoric that moves between the private and the public within a single poem.",
+   "concerns": "History and the American past, above all the Puritan inheritance, the Civil War and the Second World War; family, ancestry and the decline of the Boston Brahmins; mental illness, hospital and confinement; marriage, divorce and the betrayals of the intimate life; Catholicism, guilt and the possibility of grace; the modern city, civil rights and the corruption of public memory.",
+   "significance": "Lowell is the most influential American poet of the postwar era: Life Studies changed what American poetry was permitted to say about the self, and his teaching at Boston University made him the centre of the confessional generation; his public poems of the 1960s, above all 'For the Union Dead', are the central American examples of the poetry of history, and his letters and drafts are among the most studied documents of modern poetry.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Religious Poetry"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Madness, breakdown and confinement",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3009,
+     "title": "For the Union Dead"
+    },
+    {
+     "id": 3007,
+     "title": "Memories of West Street and Lepke"
+    },
+    {
+     "id": 3005,
+     "title": "Mr. Edwards and the Spider"
+    },
+    {
+     "id": 3008,
+     "title": "Night Sweat"
+    },
+    {
+     "id": 3006,
+     "title": "Skunk Hour"
+    }
+   ],
+   "sources": [
+    "For the Union Dead (Wikipedia)",
+    "Life Studies (Wikipedia)",
+    "Lord Weary's Castle (Wikipedia)",
+    "Partisan Review, Vol. XII, No. 2 (Spring 1945), table of contents (Boston University)",
+    "Robert Lowell (Wikipedia)",
+    "Skunk Hour (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Quaker Graveyard in Nantucket (Wikipedia)"
+   ]
+  },
+  {
    "id": 27,
    "name": "Robert Mannyng",
    "altNames": [
@@ -44468,6 +44601,49 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 893,
+   "name": "Saul Bellow",
+   "altNames": [],
+   "dates": "1915 – 2005",
+   "birthplace": "Lachine, Quebec, Canada",
+   "nationality": "Canadian-born American; novelist, short-story writer, essayist and playwright writing in English",
+   "identity": "Canadian-born American novelist and Nobel laureate whose picaresque, intellectually restless fiction - Augie March, Herzog, Humboldt's Gift - made the immigrant city and the arguing mind the subject of postwar American prose",
+   "biography": "Saul Bellow was born Solomon Bellows at Lachine, Quebec, on 10 June 1915, the son of Russian Jewish immigrants from Saint Petersburg, and grew up in the Humboldt Park district of Chicago after the family moved there in 1924. He studied at the University of Chicago and took a BA in anthropology at Northwestern University in 1937, worked briefly as a teacher and editor, served in the merchant marine in the Second World War, and taught at the University of Minnesota, Boston University, the University of Chicago and elsewhere. Dangling Man (1944), The Victim (1947), The Adventures of Augie March (1953, National Book Award), Seize the Day (1956), Henderson the Rain King (1959), Herzog (1964, National Book Award), Mr. Sammler's Planet (1970, National Book Award), Humboldt's Gift (1975, Pulitzer Prize) and The Dean's December (1982) are the novels, with the stories of Mosby's Memoirs (1968), Him with His Foot in His Mouth (1984) and Collected Stories (2001). He was awarded the Nobel Prize in Literature in 1976, the only writer to win the National Book Award for Fiction three times, and died at Brookline, Massachusetts, on 5 April 2005.",
+   "profile": "Novels: Dangling Man (1944), The Victim (1947), The Adventures of Augie March (1953), Seize the Day (1956), Henderson the Rain King (1959), Herzog (1964), Mr. Sammler's Planet (1970), Humboldt's Gift (1975), The Dean's December (1982), More Die of Heartbreak (1987), A Theft (1989), The Bellarosa Connection (1989), Ravelstein (2000). Stories: Mosby's Memoirs and Other Stories (1968), Him with His Foot in His Mouth (1984), Something to Remember Me By (1991) and Collected Stories (2001). Non-fiction: To Jerusalem and Back (1976) and It All Adds Up (1994).",
+   "style": "A voluble, energetic, digressive prose that mixes high argument with the slang of the Chicago streets; first-person narrators who talk their way through experience; long sentences with a comic and rhapsodic swell; sudden shifts from philosophy to farce; a gift for the monologue of the self-educated immigrant.",
+   "concerns": "The immigrant city and the American promise; the argument between the intellectual and the practical life; Jewish identity, the Holocaust and the moral inheritance of the diaspora; love, marriage and the comedy of sexual entanglement; money, ambition and the illusions of success; death and the search for transcendence in a secular age.",
+   "significance": "Bellow is the central American novelist of the postwar decades and the writer through whom the Jewish American novel became a national literature; his Nobel Prize in 1976 confirmed a reputation built on Augie March and Herzog, and his prose - its energy, its learning and its emotional range - is the standard against which Philip Roth, Malamud, Ozick and a generation of successors are measured.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "Social Criticism"
+   ],
+   "movements": [
+    "Jewish American Fiction",
+    "Late Modernism"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3003,
+     "title": "Looking for Mr. Green"
+    }
+   ],
+   "sources": [
+    "Analysis of Saul Bellow's Looking for Mr Green (Literary Theory and Criticism)",
+    "Bibliography of Saul Bellow (Wikipedia)",
+    "Saul Bellow (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -87675,6 +87851,56 @@
    ]
   },
   {
+   "id": 3004,
+   "title": "Death of a Salesman",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Arthur Miller"
+   ],
+   "authorIds": [
+    894
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1949",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Play (two acts and a requiem)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The play that opened on Broadway on 10 February 1949: Willy Loman, a sixty-year-old travelling salesman who has spent his life believing in the American Dream, is fired, quarrels with his sons, revisits his memories and kills himself so that his family can collect the insurance.",
+   "summary": "Two acts and a requiem, set in the Lomans' Brooklyn house and in Willy's memories of Boston and of the road, in which the failure of a salesman's career and the failure of his sons' lives unfold through a montage of present scenes, flashbacks and hallucinations.",
+   "plot": "Willy Loman comes home late at night with his suitcases, having failed to drive to New England; his wife Linda persuades him to ask his boss Howard for a job in New York, and the couple talk about their sons, Biff, thirty-four, who has drifted through the West doing farm work, and Happy, who has a job and an apartment and no satisfaction. In the boys' bedroom Biff and Happy remember their father's ambitions for them and Biff's high-school glory as a football player, ended when he failed mathematics and did not graduate; Willy, overhearing, is angry and then hopeful when Biff says he will see a former employer, Bill Oliver, about a business loan. The second act takes Willy to Howard's office, where he is humiliated, told to take a rest and fired; Biff's interview with Oliver fails and he steals a fountain pen; at Charley's office Willy meets Bernard, the swot of Biff's schooldays, now a successful lawyer, and Charley offers him a job that Willy refuses. In the restaurant where the family meet, Biff tries to tell the truth about himself and Willy, unable to bear it, retreats into the memory of the day in Boston when Biff found him with a woman and called him a fake - the moment that broke the boy's belief in him. At home the quarrel ends with Biff's tearful admission that they are ordinary men and Willy's sudden conviction that his son loves him; then Willy, talking to the ghost of his brother Ben, decides that his life insurance, twenty thousand dollars, is worth more than his life. He drives away and crashes the car. The requiem is the funeral, poorly attended; Linda, who has made the last payment on the house, cannot understand why Willy did it, and asks the empty air 'We're free'.",
+   "significance": "One of the two or three most important American plays of the twentieth century and the most influential American tragedy: it made the ordinary salesman a tragic protagonist, changed the American theatre's use of memory and stage time, has been revived repeatedly on Broadway and filmed ten times, and is a standard text in the study of American drama, of tragedy and of the critique of the American Dream.",
+   "meter": "A colloquial, rhythmical American speech - the salesman's patter, the immigrant's malapropism, the kitchen quarrel - that becomes lyrical in Willy's monologues; short exchanges and overlapping dialogue; the expressionist devices of light, music and half-transparent walls; a tone that moves between pathos and comedy without letting either settle.",
+   "context": "First performed at the Morosco Theatre, New York, on 10 February 1949, directed by Elia Kazan, with Lee J. Cobb as Willy, Mildred Dunnock as Linda and Arthur Kennedy as Biff; it won the Pulitzer Prize for Drama and the Tony Award for Best Play, and was published by Viking Press in 1949. Miller wrote it out of the encounter with his uncle Manny Newman, a salesman, in Boston in 1947, and out of his interest in the simultaneity of past and present; the play belongs to the postwar American theatre of social criticism and to the debate about whether tragedy is possible for the common man.",
+   "characters": "Willy Loman, a sixty-year-old travelling salesman in the Wagner Company, exhausted, deluded and proud; Linda Loman, his wife, loyal, practical and clear-sighted; Biff Loman, the elder son, a former high-school football star who has drifted and steals; Happy Loman, the younger son, superficially successful and morally adrift; Ben Loman, Willy's dead brother, who went to Alaska and made a fortune, appearing in Willy's memories; Charley, the neighbour whose success Willy cannot bear; Bernard, Charley's son, now a lawyer; Howard Wagner, Willy's employer; the Woman, with whom Willy had an affair in Boston; Miss Forsythe and Letta, the women Happy picks up; and Stanley, the waiter.",
+   "structure": "Two acts and a requiem, played without scene changes on a single set of the frame house, with the actors' movement into and out of the lit areas making the transitions; time is not linear, since Willy's memories and hallucinations invade the present action; the play's climax is internal, a decision made in solitude, and the requiem is a coda in which the survivors try to make sense of it.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Domestic Drama",
+    "Full-Length Play",
+    "Modern Tragedy"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self"
+   ],
+   "movements": [
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "Arthur Miller (Wikipedia)",
+    "Death of a Salesman (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2554,
    "title": "Death Under Sail",
    "altTitles": [],
@@ -97128,6 +97354,57 @@
     "'Chronicles of Impeded Growth: Eavan Boland and the Reconstruction of Identity' (Post Identity, University of Michigan)",
     "Eavan Boland (Wikipedia)",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 3009,
+   "title": "For the Union Dead",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Robert Lowell"
+   ],
+   "authorIds": [
+    895
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1964",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (eight eight-line stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The title poem of For the Union Dead (1964), first read at the Boston Arts Festival in 1960: standing on Boston Common beside Saint-Gaudens's monument to Colonel Shaw and the 54th Massachusetts, the poet remembers the Civil War, the demolished South Boston Aquarium of his childhood and the civil-rights struggle on television, and ends with the traffic.",
+   "summary": "Eight eight-line stanzas of loose rhymed verse in which the poet describes the excavation of the Common for an underground garage, the 'shaking' monument, the story of Shaw and his Black regiment, the loss of the Aquarium, a remembered childhood street, and the cars that 'nose forward like fish' at the end.",
+   "plot": "'Relinquunt Omnia Servare Rem Publicam' reads the epigraph, the monument's inscription rewritten by Lowell to say that Shaw's soldiers gave up everything to serve the state. The poem opens on the Common, where 'the old South Boston Aquarium stands / in a Sahara of snow now' and where a 'commercial photograph' shows the excavation for a garage; the poet watches the bronze relief of Shaw on his horse, 'He has an angry wrenlike vigilance, / a greyhound's gentle tautness', and remembers that 'on a thousand small-town New England greens' there are their stone statues of the abstract Union Soldier. The fourth and fifth stanzas retell the charge of the 54th on Fort Wagner, 'the bell-cheeked Negro infantry' who 'waded in the blood of their brothers', and the moment when 'Colonel Shaw / is riding on his bubble, / he waits / for the blessèd break.' Then the poem moves to the poet's childhood: the Aquarium, where 'my hand draws back from the fish', and the 'cowed, / loyal / and black' faces of the prisoners in the county jail. The seventh stanza turns to the present - 'The Aquarium is gone. Everywhere, / giant finned cars nose forward like fish; / a savage servility / slides by on grease' - and the final image of the poem is the traffic on the new road, indifferent to the monument above it.",
+   "significance": "Lowell's best-known public poem and one of the central American poems of the 1960s; it is a standard text in the study of the poetry of history and of civil rights, it gave its name to one of the defining books of his career, and its closing image of 'a savage servility' is among the most quoted endings in modern American verse.",
+   "meter": "A formal but flexible verse - rhyme and metre present but irregular - with a diction that moves between the journalistic ('a commercial photograph'), the historical ('bell-cheeked Negro infantry') and the visionary ('the blessèd break'); short lines and heavy stresses in the climactic stanzas; the last three lines are among the most famous in postwar American poetry.",
+   "context": "First read at the Boston Arts Festival in June 1960 and collected as the title poem of For the Union Dead (Farrar, Straus and Giroux, 1964); its occasion was the excavation of Boston Common for an underground garage and the demolition of the South Boston Aquarium in 1954, and its monument is Augustus Saint-Gaudens's bronze relief of Colonel Robert Gould Shaw and the 54th Massachusetts Volunteer Infantry, dedicated in 1897. The title echoes Allen Tate's 'Ode to the Confederate Dead', and the poem belongs to the civil-rights years in which Lowell marched in Washington and wrote against the war in Vietnam.",
+   "characters": "",
+   "structure": "Eight eight-line stanzas with irregular rhyme and a loose pentameter; the poem moves from the present scene to history, back to childhood, and forward to the traffic, and its stanzas are units of association rather than of argument; the epigraph's Latin and the monument's bronze are the poem's two fixed points, and the last stanza enforces a break between them and the modern street.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ],
+   "themes": [
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "For the Union Dead (Wikipedia)",
+    "Robert Lowell (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -115722,6 +115999,57 @@
    ]
   },
   {
+   "id": 3003,
+   "title": "Looking for Mr. Green",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Saul Bellow"
+   ],
+   "authorIds": [
+    893
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1951",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story first published in Commentary in March 1951 and collected in Mosby's Memoirs and Other Stories (1968): George Grebe, a classics graduate reduced to relief work in Depression Chicago, spends a day trying to deliver a welfare cheque to a man named Tulliver Green in a Black neighbourhood he does not know.",
+   "summary": "A single day's narrative in which Grebe takes over a colleague's caseload, walks the South Side streets with a list of names, is mocked, threatened and befriended by the people he asks, and ends the day without having found his man, having learned something about the limits of his own competence.",
+   "plot": "George Grebe is a slight, scholarly man of about thirty-five who has a degree in classics, no job to match it, and a temporary post with the relief administration; he is given a district he has never worked and a batch of cheques, among them one for Tulliver Green, who cannot be found. The story follows him through one day in a poor Black neighbourhood of Chicago: he climbs tenement stairs, knocks on doors, consults a janitor, is directed to a basement church, is taken for a policeman or a rent collector, and meets a series of people - a woman who wants to sell him something, a man who lectures him on the race question, a preacher, a boy who offers to guide him - each of whom has his own relation to the missing man and to the money. Grebe, whose classical education and good manners are both useless and a kind of protection, keeps trying to do his job properly and keeps being told that he cannot understand the place he is in. By the end of the day he has not found Green, and the cheque goes back into his pocket; the story's last movement is his recognition that the city has defeated his methods and that the man he was looking for may not want to be found.",
+   "significance": "One of Bellow's best early stories and the one most often anthologised from his first phase; it is a standard text for the study of the American urban story of the 1950s and of Bellow's Chicago, and it anticipates the energetic first-person narration that Augie March would make his signature.",
+   "meter": "Bellow's early realism: exact notation of streets, stairs, smells and accents; dialogue rendered in the cadences of the neighbourhood; a third person that stays close to Grebe's educated, slightly fastidious consciousness; an epigraph from Ecclesiastes set against the day's futility.",
+   "context": "Published in Commentary in March 1951, in the years when Bellow was teaching at the University of Minnesota and writing The Adventures of Augie March, and collected in Mosby's Memoirs and Other Stories (Viking, 1968); its Depression Chicago, the relief administration and the South Side belong to the city of Bellow's childhood and to his first attempts at the picaresque novel of American urban life.",
+   "characters": "",
+   "structure": "A single continuous narrative, close to Grebe's point of view and ordered by the sequence of addresses and encounters rather than by plot; the day's structure is picaresque, one door after another, and the story withholds the meeting its title promises, ending on an unresolved errand.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "Social Criticism"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Jewish American Fiction",
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "Analysis of Saul Bellow's Looking for Mr Green (Literary Theory and Criticism)",
+    "Bibliography of Saul Bellow (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1128,
    "title": "Lord Byron and Some of His Contemporaries",
    "altTitles": [
@@ -120866,6 +121194,58 @@
    ]
   },
   {
+   "id": 3007,
+   "title": "Memories of West Street and Lepke",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Robert Lowell"
+   ],
+   "authorIds": [
+    895
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1958",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (nine five-line stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem first printed in the Partisan Review in January 1958 and collected in Life Studies (1959): the poet, now a suburban father with a teaching job, remembers the winter of 1943-44 when he was a conscientious objector in a New York jail and shared a corridor with the murderer Lepke Buchalter.",
+   "summary": "Nine five-line stanzas of loose free verse in which the poet describes his present domestic life, recalls the West Street jail, the 'stain of the oldness' of the building, his fellow prisoners - the 'victims of murder' and the gangster Louis 'Lepke' Buchalter, waiting for electrocution - and admits the distance between the man he was and the man he has become.",
+   "plot": "'Only teaching on Tuesdays, book-worming / in pajamas fresh from the washer each morning, / I hog a whole house on Marlborough Street.' The poem opens in the poet's comfortable present - a house in Boston, a teaching job, a wife and daughter, the Sunday papers - and its tone is wry and guilty: 'I feel like the prices of my poems are rising, / and I am a book-worming / Harvard man.' Then the poem goes back fifteen years: 'In the fun of the jail-yard... / I was a fire-breathing / Catholic convert'. He describes the West Street jail, 'the stain of the oldness' of its walls, the prisoners 'fresh from the courts', the 'muggers' and the 'victims of murder' he met there, and then the corridor's most famous occupant: 'Also, in the West Street Jail, 'Lepke' Buchalter, / the only man in the ward who could tell us / the date of his death, / with his 'Biro' pen / writing his last letters.' Lepke is described with a strange tenderness - 'a psychopathic murderer, / the man in charge of Murder, Incorporated' - who 'was fly-weight, / bald and voluble, and looked like the theatre's idea / of a Jewish comedian'. The poem ends with a meditation on the difference between the 'fire-breathing' convert of 1943 and the 'book-worming Harvard man' of 1958, and with the thought that the age of the double agent is over - a line whose irony is that the poet's own life has been a series of transformations.",
+   "significance": "One of the central poems of Life Studies and the one that most clearly connects Lowell's public and private histories; it is a standard anthology text and is much discussed for its treatment of imprisonment, capital punishment and the poet's own privilege, and its portrait of Lepke is among the most memorable in postwar American poetry.",
+   "meter": "Conversational, ironic, heavily enjambed free verse, with a diction that mixes the domestic and the journalistic ('book-worming', 'Biro pen', 'the man in charge of Murder, Incorporated'); a flat tone that makes the horror of the prison material more rather than less; the short five-line stanza gives each observation its own weight.",
+   "context": "First printed in the Partisan Review in January 1958 with 'Skunk Hour' and 'Man and Wife', and collected in Life Studies (1959); Lowell's imprisonment at the West Street jail in 1943, his refusal of military service and his testimony at the trial of Lepke Buchalter belong to the war years, and the poem belongs to the sequence of autobiographical poems in Life Studies that made the book a landmark.",
+   "characters": "",
+   "structure": "Nine five-line stanzas of loose free verse, moving between the present and 1943-44 without transitions; the poem is a montage of scenes - the Marlborough Street house, the jail corridor, Lepke's cell - and its last stanza returns to the present with a judgment on the self that has survived.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Memory, trauma and testimony",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "Life Studies (Wikipedia)",
+    "Robert Lowell (Wikipedia)",
+    "Skunk Hour (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1660,
    "title": "Men and Women",
    "altTitles": [],
@@ -123469,6 +123849,56 @@
    ]
   },
   {
+   "id": 3005,
+   "title": "Mr. Edwards and the Spider",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Robert Lowell"
+   ],
+   "authorIds": [
+    895
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1946",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (six-line stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem printed in Poetry in the winter of 1946 and collected in Lord Weary's Castle the same year: Jonathan Edwards, the New England theologian, watches spiders spin and considers the soul's precariousness, and the poem ends by asking that his own heart be 'not hardened'.",
+   "summary": "Six-line stanzas in rhymed iambic pentameter, in which the octogenarian Edwards observes a spider spinning its web, sees in it an image of the soul suspended over damnation, remembers the death of a young woman and prays for a heart that will not harden.",
+   "plot": "'I saw the spiders marching through the air, / Swimming from tree to tree that mildewed day / In latter August when the hay / Came creaking to the barn.' The poem opens with Edwards's own natural observation - the 'flying spiders' of a late-summer afternoon - and turns it into theology: the spider hangs above the void as the soul hangs above damnation, and its 'thread' is the thin line of grace. The second stanza moves to the human case: 'And there's the man who fought the wilderness / Of his own heart, and tamed it to the yoke' - Edwards himself, the theologian of the will. The poem then remembers 'the widow' and a girl who died unregenerate, and the young man 'who was the wildest of us all' and drowned; the last stanza asks, in an old man's voice, for the one thing the preacher cannot give himself: 'Let me not lose / the memory of that first affliction, Lord, / and let my heart be broken by the Word, / not hardened.' The poem's power is in the way its Calvinist imagery - the spider, the web, the abyss, the 'thin thread' of the creature's spinning - is exact natural observation and exact theological figure at once.",
+   "significance": "One of the best-known poems in Lord Weary's Castle and a standard example of Lowell's early formal manner; it is anthologised as a study in the modern dramatic monologue and in the American Puritan inheritance, and it shows the historical and theological ambition that would reappear, transformed, in the public poems of the 1960s.",
+   "meter": "Dense, allusive, heavily stressed pentameter with a knotty syntax that imitates the preacher's reasoning; violent and exact natural imagery ('mildewed day', 'mulberry spiders', 'the whited monster'); archaism and biblical phrasing used without irony; a tone of grim, controlled intensity.",
+   "context": "Printed in Poetry in the winter of 1946 and collected in Lord Weary's Castle (Harcourt, Brace, 1946), the book that won the Pulitzer Prize in 1947; the poem belongs to Lowell's early Catholic phase, in which he wrote dramatic monologues and historical poems under the influence of Allen Tate, John Crowe Ransom and the New Critics, and it is one of the poems through which that phase is taught.",
+   "characters": "",
+   "structure": "Six-line stanzas of rhymed pentameter in a variety of rhyme schemes, with the argument moving from the spider to the soul, from the soul to particular sinners, and from them to the speaker's prayer; the poem's last stanza turns outward into petition, so that the monologue ends as a prayer.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Dramatic Monologue",
+    "Formal Verse",
+    "Religious Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "Lord Weary's Castle (Wikipedia)",
+    "Robert Lowell (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2357,
    "title": "Mrs Dalloway",
    "altTitles": [],
@@ -125996,6 +126426,57 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 3008,
+   "title": "Night Sweat",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Robert Lowell"
+   ],
+   "authorIds": [
+    895
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1964",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (twenty-eight lines in two parts)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem collected in For the Union Dead (1964): a writer lies awake night after night in a sweat, unable to work, and is brought back to himself by the memory of his wife's presence - the poem's 'dear heart' - in the second half.",
+   "summary": "Twenty-eight lines in two parts, the first a nightmarish account of insomnia, night sweats and creative sterility, the second a turn toward the wife whose patience and warmth the poet invokes as the only thing that can 'bear' him.",
+   "plot": "'Work-table, litter, books and standing lamp, / plain things, my stalled equipment, the old broom - / but I am lying in a tidied room, / for ten nights now I've felt the creeping damp / that seeps into the mattress...' The opening describes the poet's study as 'stalled equipment' and the bedroom as a place of nightly terror; the sweat is the body's symptom of a mind unable to write, and the poem's imagery is one of drowning, smothering and being 'worn ... to the bone'. The first part ends with the poet's recognition that 'I am tired. Everyone's tired of my turmoil' - a line that is also a confession of the burden he is on others. The second part turns to the wife: 'When I was troubled, you were my health, / and I was your fever; / you were the cool of the evening... / at the end of the day, / my dear heart, / you were the good of my life.' The poem's resolution is not a cure but a gratitude, and the address to 'my dear heart' - Elizabeth Hardwick, from whom Lowell was shortly to separate - gives the ending its pathos.",
+   "significance": "One of the most anthologised poems of For the Union Dead and a standard text for the study of confessional poetry and of the literature of mental illness; its 'I am tired. Everyone's tired of my turmoil' is among the most quoted lines in Lowell's work, and the poem is central to accounts of his late style.",
+   "meter": "Loose rhymed verse with an irregular but audible pattern of rhyme and half-rhyme; a diction that mixes the domestic ('work-table, litter, books') with the medical ('sweat', 'damp', 'fever'); long sentences that imitate the insomnia they describe, and short lines at the end that slow into the address to the wife.",
+   "context": "Collected in For the Union Dead (Farrar, Straus and Giroux, 1964), Lowell's sixth book, which followed Life Studies and in which he returned to stricter forms and to public themes; the poem belongs to the sequence of poems about his marriage to Elizabeth Hardwick, whom he was to leave for Caroline Blackwood in 1970, and it was later revised as a sonnet for Notebook (1970).",
+   "characters": "",
+   "structure": "Twenty-eight lines in two parts, the first twenty lines unbroken and the second eight; the division is marked by the turn from the bedroom to the wife, and the poem's only full stop falls at the halfway point, so that the syntax itself enacts the break between the night and the memory.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss",
+    "Madness, breakdown and confinement"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "For the Union Dead (Wikipedia)",
+    "Robert Lowell (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -148277,6 +148758,58 @@
     "Oxford Dictionary of National Biography",
     "The Cambridge Companion to Eighteenth-Century Poetry",
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century"
+   ]
+  },
+  {
+   "id": 3006,
+   "title": "Skunk Hour",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Robert Lowell"
+   ],
+   "authorIds": [
+    895
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1958",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (eight six-line stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The last poem of Life Studies, first printed in the Partisan Review in January 1958 and dedicated to Elizabeth Bishop: a portrait of a declining Maine sea town, a night of insomnia and despair, and a family of skunks that comes down the street to feed.",
+   "summary": "Eight six-line stanzas in loose rhymed verse, moving from the town's summer people and its decaying proprietors, through the poet's night drive and his confession of a mind 'not gracious', to the skunks who march up Main Street as the poem's strange, unsentimental consolation.",
+   "plot": "'Nautilus Island's hermit / heiress still lives through winter in her Spartan cottage; / her sheep still graze the graveyard hill.' The first four stanzas are a social survey of a dying Maine resort: the heiress, the 'summer millionaire' and his 'ill-fated' marriage, the 'fairy decorator' and the 'graveyard' hill, the town's 'eyesores' and the 'thousand-threaded paintwork' peeling from the church. Then the poem turns inward and the tone changes: 'One dark night, / my Tudor Ford climbed the hill's skull; / I watched for love-cars. Lights turned down, / they lay together in their cars, / and I would see them, / a red-fox stain / in the back seat, then a love-crazed stare / and the shot of my love's... / My mind's not right.' The fifth and sixth stanzas are the poem's celebrated 'dark night' session: 'I hear my ill spirit sob in each blood cell, / as if my hand were at its throat... / I myself am hell; / nobody's here - '. The seventh stanza describes the skunks: 'only skunks, that search / in the moonlight for a bite / to eat. They march on their soles up Main Street... / I stand on top / of our back steps and breathe the rich air - / a mother skunk with her column of kittens swills / the garbage pail. / She jabs her wedge-head in a cup / of sour cream, drops her ostrich tail / and will not scare.' The poem's ending does not console and does not judge; the skunks are both ridiculous and heroic, and the poet's identification with them is the poem's final, unsentimental movement.",
+   "significance": "One of the most anthologised American poems of the postwar period and the poem through which confessional poetry and Life Studies are usually introduced; it is the first poem of the book to be completed and the last to be printed, it named a whole manner of American verse, and its 'I myself am hell' is among the defining lines of modern American poetry.",
+   "meter": "A loose, conversational line that keeps the rhythm of speech while rhyming irregularly; a mixture of social satire ('fairy / decorator'), raw confession ('My mind's not right'), and dense alliteration ('a red-fox stain', 'the rich air'); the stanza is the poem's unit of attention, and the last stanza's short lines break the measure into something like observation itself.",
+   "context": "First printed in the Partisan Review in January 1958, with 'Man and Wife' and 'Memories of West Street and Lepke', and collected as the last poem of Life Studies (Farrar, Straus and Cudahy, 1959), which won the National Book Award in 1960; Lowell began it in August 1957 and said that rereading Elizabeth Bishop showed him a way 'of breaking through the shell of my old manner'. It is dedicated to Bishop, whose 'The Armadillo' is dedicated to him.",
+   "characters": "",
+   "structure": "Eight six-line stanzas with irregular but persistent rhyme and a loose iambic measure; the first four stanzas survey the town in a drifting, 'dawdling' manner, the fifth and sixth turn inward and intensively lyric, and the last two return to the street for the skunks, so that the poem's shape is a descent and a return.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Land, place and regional belonging",
+    "Madness, breakdown and confinement"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "Life Studies (Wikipedia)",
+    "Robert Lowell (Wikipedia)",
+    "Skunk Hour (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {

@@ -25,6 +25,14 @@
    ]
   },
   {
+   "author": "Arthur Miller",
+   "genres": [
+    "Domestic Drama",
+    "Full-Length Play",
+    "Modern Tragedy"
+   ]
+  },
+  {
    "author": "Arundhati Roy",
    "genres": [
     "Family Saga",
@@ -357,6 +365,19 @@
    ]
   },
   {
+   "author": "Robert Lowell",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
    "author": "Salman Rushdie",
    "genres": [
     "Literary Essay",
@@ -388,6 +409,14 @@
     "Short-Story Collection",
     "Social Novel",
     "Television Drama"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "Social Criticism"
    ]
   },
   {
@@ -512,6 +541,12 @@
    "author": "Anne Carson",
    "movements": [
     "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "author": "Arthur Miller",
+   "movements": [
+    "Late Modernism"
    ]
   },
   {
@@ -737,6 +772,13 @@
    ]
   },
   {
+   "author": "Robert Lowell",
+   "movements": [
+    "Confessional Poetry",
+    "Late Modernism"
+   ]
+  },
+  {
    "author": "Salman Rushdie",
    "movements": [
     "Magical Realism in English",
@@ -755,6 +797,13 @@
    "movements": [
     "Black British Writing and the Windrush Generation",
     "Caribbean Literature in English"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "movements": [
+    "Jewish American Fiction",
+    "Late Modernism"
    ]
   },
   {
@@ -849,6 +898,14 @@
     "Family, marriage and domestic life",
     "Language, writing and the limits of representation",
     "Love, intimacy and loss"
+   ]
+  },
+  {
+   "author": "Arthur Miller",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self"
    ]
   },
   {
@@ -1223,6 +1280,25 @@
    ]
   },
   {
+   "author": "Robert Lowell",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Madness, breakdown and confinement",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
    "author": "Salman Rushdie",
    "themes": [
     "Faith, doubt and the sacred",
@@ -1256,6 +1332,14 @@
     "Nationhood and national identity",
     "Race, racism and the struggle for civil rights",
     "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "themes": [
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights",
     "The city, the suburb and modern space"
    ]
   },
@@ -1828,6 +1912,37 @@
     "Middle Passage (poem) (Wikipedia)",
     "Robert Hayden (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Saul Bellow",
+   "sources": [
+    "Analysis of Saul Bellow's Looking for Mr Green (Literary Theory and Criticism)",
+    "Bibliography of Saul Bellow (Wikipedia)",
+    "Saul Bellow (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Arthur Miller",
+   "sources": [
+    "Arthur Miller (Wikipedia)",
+    "Death of a Salesman (Wikipedia)",
+    "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Robert Lowell",
+   "sources": [
+    "For the Union Dead (Wikipedia)",
+    "Life Studies (Wikipedia)",
+    "Lord Weary's Castle (Wikipedia)",
+    "Partisan Review, Vol. XII, No. 2 (Spring 1945), table of contents (Boston University)",
+    "Robert Lowell (Wikipedia)",
+    "Skunk Hour (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Quaker Graveyard in Nantucket (Wikipedia)"
    ]
   }
  ]

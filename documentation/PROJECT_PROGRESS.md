@@ -1883,6 +1883,21 @@ with broader Anglophone writing out of scope.
   both in *Lord Weary's Castle* (1946) and are therefore in period. 114 of the
   255 selections now have records; 144 American selections remain.
 
+- **Wave 22:** Saul Bellow ("Looking for Mr. Green", *Commentary*, March 1951,
+  collected in *Mosby's Memoirs*, 1968), Arthur Miller (*Death of a Salesman*,
+  1949, major record) and Robert Lowell, with five of his six selections:
+  "Mr. Edwards and the Spider" (*Poetry*, Winter 1946; *Lord Weary's Castle*,
+  1946), "Skunk Hour" (major record) and "Memories of West Street and Lepke"
+  (*Partisan Review*, January 1958; *Life Studies*, 1959), "Night Sweat" and
+  "For the Union Dead" (major record, *For the Union Dead*, 1964). Seven works
+  and three authors, all partially verified, with twelve new sources - among
+  them the digitised *Partisan Review* contents page. That page settles a date
+  the list had left open: "The Quaker Graveyard in Nantucket" was first printed
+  in the *Partisan Review* for Spring 1945, not in 1946, so it is before the
+  period and is not recorded. The two *Life Studies* poems were also re-dated
+  from 1959 (the book) to 1958 (the periodical). 121 of the 255 selections now
+  have records; 128 American selections remain.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -1990,4 +2005,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 158 works by 45 authors; 114 of 255 selections recorded; the English anthology's in-scope list complete, the American begun) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 165 works by 48 authors; 121 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |

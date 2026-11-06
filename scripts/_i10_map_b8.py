@@ -76,4 +76,12 @@ MAP_B8 = {
         ['Free Verse', 'Narrative Poetry', 'Lyric Poetry'],
         ['Childhood, adolescence and coming of age', 'Race, racism and the struggle for civil rights', 'Land, place and regional belonging'],
         ['Postwar African American Writing: Protest and Its Critics']),
+    'Looking for Mr. Green': (['Saul Bellow'],
+        ['Short Story', 'Realist Fiction', 'Social Criticism'],
+        ['The city, the suburb and modern space', 'Race, racism and the struggle for civil rights', 'Class, labour and social mobility'],
+        ['Late Modernism', 'Jewish American Fiction']),
+    'Death of a Salesman': (['Arthur Miller'],
+        ['Modern Tragedy', 'Domestic Drama', 'Full-Length Play'],
+        ['Class, labour and social mobility', 'Family, marriage and domestic life', 'Identity, authenticity and the divided self'],
+        ['Late Modernism']),
 }
