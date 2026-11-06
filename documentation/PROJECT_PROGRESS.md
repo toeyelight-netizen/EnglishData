@@ -1652,6 +1652,11 @@ installments 8–9 are outstanding:
 - every plot against a source;
 - first-edition dates for books first published in the United States.
 
+`scripts/i08_i09_check_queue.py` orders the 1,389 records for these checks
+(`research/installment_10/i08_i09_check_queue.csv`). Its signal, character
+lists that name no one, caught the fabricated record but would have missed
+the four bad plots, so it gives an order of work, not a filter.
+
 **Stopping point.** The ordered list of outstanding tasks is in
 `research/installment_10/report_notes.md`:
 1. compile the poetry, drama and Commonwealth inventories (the Booker list is

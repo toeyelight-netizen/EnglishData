@@ -529,6 +529,11 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
    - African, Caribbean and South Asian founders;
    - then on through the 1960s–1990s, with genre fiction, children's literature and criticism and theory interleaved.
 3. **Earlier-installment authors.** Add the 1946–2000 works of Beckett, Tolkien, Rhys, Welty, Auden, Isherwood, Brooks, Christie, Marsh (19 novels of 1947–1982 and the autobiography *Black Beech and Honeydew*, 1965) and others through extensions.
-4. **Installments 8–9.** Check every title against an external bibliography (a fabricated title was found) and every plot against a source, starting with the later installment 9 batches, and check first-edition dates against US-first publication.
+4. **Installments 8–9.** Check every title against an external bibliography (a fabricated title was found) and every plot against a source, starting with the later installment 9 batches, and check first-edition dates against US-first publication. `scripts/i08_i09_check_queue.py` writes the order of work to `research/installment_10/i08_i09_check_queue.csv`:
+   - priority 1: 83 unchecked records whose characters name no one (60 in installment 9, 23 in installment 8);
+   - priority 2: the other 1,295 unchecked records;
+   - priority 3: the 11 already rewritten from a source.
+
+   The signal is weak. It would not have caught the four bad plots, whose character lists included invented names, so every priority 1 and 2 record still needs checking.
 5. **After the reconstruction.** Run Audit 8 (the second pass) and the external bibliographic comparison of Audit 3, then regenerate this report.
 
