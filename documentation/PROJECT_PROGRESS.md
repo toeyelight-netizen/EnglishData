@@ -2140,9 +2140,17 @@ and all three are described in `AGENT_HANDOVER.md` §2:
   pressing, and the identity of the woman in "Like a Rolling Stone" is left
   unasserted because it has never been established.
 
-  The measured position: **265 works by 94 authors**, **220 recorded against 265
-  in-scope selections** (English 95 of 96, American 125 of 169), **43 remaining,
-  none undated** - 42 American and one English.
+  The measured position: **265 works by 94 authors**. **The English volume is
+  complete - 96 of 96 in-scope selections recorded.** The American volume stands
+  at **126 of 169**, with **43 remaining, none undated**.
+
+  *A correction to the previous figure.* Waves 29-32 reported the English volume
+  as "94 of 96" and wave 33 was written to close the last of those two rows. It
+  was never open. The 96 was a count of anthology **rows** and the 94 a count of
+  **works**, and the two differ legitimately: Rushdie's *Imaginary Homelands* is
+  printed twice in the volume (pp. 747 and 750) and Kingston's *The Woman Warrior*
+  twice in the American one, so one record answers two rows. `i10_state.py` now
+  counts rows, prints `NAEL 96 of 96`, and cannot repeat the error.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -2256,4 +2264,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 265 works by 94 authors; 220 works recorded against 265 in-scope selections - English 95 of 96, American 125 of 169; 43 remain, none undated) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 265 works by 94 authors; **the English volume is complete, 96 of 96 selections**; American 126 of 169; 43 American selections remain, none undated) |

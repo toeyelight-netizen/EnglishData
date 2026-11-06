@@ -269,8 +269,8 @@ W10("[On Sycorax Video Style]", KB, "1999", "Prose statement on poetics (extract
   sig="The passage is the clearest short statement Brathwaite made of the Sycorax video style, and the "
       "eleventh edition's decision to open its 'Born-Digital Literature' cluster with it is the first time "
       "the Norton Anthology of English Literature has treated a Caribbean poet's typographic practice as "
-      "the origin of digital literature in English. It is the anthology's last outstanding selection in "
-      "the period, and the one this installment records after it was recovered from a wrong date.",
+      "the origin of digital literature in English. It is the latest addition to the English volume's "
+      "period, and the one this installment records after it was recovered from a wrong date.",
   canon="Minor canon",
   crit="Criticism of the video style is extensive - Stewart Brown's 'Writin in Light' (1995), Nicholas "
        "Laughlin's 'Notes on videolectics' (2007) and the work of Elaine Savory - and it is generally read "
@@ -291,9 +291,9 @@ W10("It's Alright, Ma (I'm Only Bleeding)", BD, "1965", "Song lyric (long stanza
   themes=T("Alienation, absurdity and existential freedom", "Technology, media and consumer society",
            "Violence, crime and justice"),
   movements=M(BEAT),
-  overview="'It's Alright, Ma (I'm Only Bleeding)' closes the acoustic side of Bringing It All Back Home, "
-           "released by Columbia on 22 March 1965, and it is the song in which Dylan's writing leaves the "
-           "protest song behind. Its long stanzas are a catalogue of what American society does to the "
+  overview="'It's Alright, Ma (I'm Only Bleeding)' is the third song of the acoustic second side of Bringing "
+           "It All Back Home, released by Columbia on 22 March 1965, and it is the song in which Dylan's "
+           "writing leaves the protest song behind. Its long stanzas are a catalogue of what American society does to the "
            "people in it, delivered without a chorus until the refrain arrives at the end of each stanza, "
            "and it is the densest lyric he had written.",
   content="The song opens with 'Darkness at the break of noon' and a sequence of images in which nothing "
@@ -317,7 +317,7 @@ W10("It's Alright, Ma (I'm Only Bleeding)", BD, "1965", "Song lyric (long stanza
           "from the song and become proverbs of the 1960s, 'he not busy being born is busy dying' among "
           "them. The organised religion of the middle stanzas gets the hardest treatment, and the song's "
           "anti-clericalism is the place where its later Christian phase looks most surprising. Formally, "
-          "the song's achievement is to make a six-minute lyric with no chorus hold a listening audience, "
+          "the song's achievement is to make a lyric of seven and a half minutes with no chorus hold a listening audience, "
           "and to do it with an acoustic guitar and a harmonica: the refrain is the only thing repeated, "
           "and it refuses consolation. 'It's alright, ma' is the voice of someone reassuring a mother "
           "while telling her that nothing is alright at all, and that double register - the intimate and "
@@ -334,9 +334,10 @@ W10("It's Alright, Ma (I'm Only Bleeding)", BD, "1965", "Song lyric (long stanza
   style="Dense, allusive, epigrammatic; internal rhyme and assonance rather than end-rhyme; a nasal, "
         "half-spoken delivery that pushes the lines toward speech; imagery drawn from the Bible, the "
         "fairground, the courtroom and the advertisement; and a refrain whose plainness is its point.",
-  ctx="Bringing It All Back Home was released on 22 March 1965, with a largely acoustic first side and an "
-      "electric second; the song belongs to the months in which Dylan was breaking with the folk revival, "
-      "and it was written at Woodstock in the winter of 1964-65. The escalation of the Vietnam War, the "
+  ctx="Bringing It All Back Home was released on 22 March 1965, with an electric first side and a "
+      "largely acoustic second; the song belongs to the months in which Dylan was breaking with the folk "
+      "revival. It was written in the summer of 1964, first performed at a concert in New York on 10 "
+      "October 1964, and recorded on 15 January 1965. The escalation of the Vietnam War, the "
       "assassination of Kennedy two years earlier and the civil rights movement's turn to the North form "
       "its public context; the folk revival's argument about what a political song should be is its "
       "immediate literary one.",
@@ -349,11 +350,12 @@ W10("It's Alright, Ma (I'm Only Bleeding)", BD, "1965", "Song lyric (long stanza
        "talking-blues catalogue as its formal model; Christopher Ricks's close reading in Dylan's Visions "
        "of Sin treats its metaphors as a sustained argument about the value of persons. The song's "
        "anti-clerical stanzas are usually discussed with the Christian albums of 1979-81.",
-  biblio="Released on Bringing It All Back Home (Columbia, 22 March 1965), the last song of side one; "
-         "collected in Lyrics 1962-1985 (1985) and every subsequent collection. A selection of The "
+  biblio="Released on Bringing It All Back Home (Columbia, 22 March 1965), track three of the acoustic "
+         "side two; collected in Lyrics 1962-1985 (1985) and every subsequent collection. A selection of The "
          "Norton Anthology of American Literature, 11th edition, vol. E.",
-  notes="The release date is given consistently by contemporary trade advertising and sessionography "
-        "summaries; the lyric was not transcribed from a first pressing for this record.",
+  notes="The recording date, first performance and release date are given consistently by contemporary "
+        "trade advertising and sessionography summaries; the lyric was not transcribed from a first "
+        "pressing for this record.",
   ver="partially verified", sources=[BIABH, W_BD, NAAL]),
 W10("Like a Rolling Stone", BD, "1965", "Song lyric (six-minute single, verse and refrain)", "major",
   genres=G("Lyric Poetry", "Narrative Poetry", "Performance Poetry"),
@@ -361,7 +363,7 @@ W10("Like a Rolling Stone", BD, "1965", "Song lyric (six-minute single, verse an
            "Identity, authenticity and the divided self"),
   movements=M(BEAT),
   overview="'Like a Rolling Stone' was released as a single by Columbia on 20 July 1965, at six minutes "
-           "and one second, at a time when radio would not play a record that long; it is the song on "
+           "and a half, at a time when radio would not play a record that long; it is the song on "
            "which Dylan's move to electric music and to a new kind of lyric both became public, and it is "
            "regularly called the greatest record in the history of rock music. It opens Highway 61 "
            "Revisited, released the following month.",
@@ -531,8 +533,8 @@ W10("Passing through Little Rock", SJO, "1977", "Poem (free verse, short lines)"
       "removed from and the places they are driven through. Little Rock carries its own history of "
       "segregation, which the poem leaves implicit.",
   sig="The poem is a frequent anthology choice for the political side of Ortiz's work and is one of the "
-      "three Ortiz selections in the Norton's period. Its record is also the one in which the "
-      "installment's last American date was settled, from the contents of Woven Stone.",
+      "three Ortiz selections in the Norton's period. Its record is also one of the two in which the "
+      "last American dates were settled, from the contents of Woven Stone.",
   canon="Secondary canon",
   crit="Kenneth Lincoln's early survey of Ortiz reads the poem within the A Good Journey sequence as one "
        "of its encounters with the non-Indian world; critics of the anthology have used it to make the "

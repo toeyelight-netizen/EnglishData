@@ -9,9 +9,12 @@ outstanding work).
 
 **State at this handover (2026-11-06, wave 33):** installments 1–9 are
 complete; installment 10 (1946–2000) is in progress at **265 works by 94
-authors**, with **220 works recorded against 265 in-scope Norton selections**
-(English 95 of 96, American 125 of 169), leaving **43 selections, none of them
-undated**. The database holds **936
+authors**. **The Norton Anthology of English Literature volume is complete: all
+96 in-scope selections are recorded.** The American volume has **126 of its 169
+in-scope selections**, leaving **43, none of them undated**. The 220 figure is
+*works* matched to the anthologies and is not a row count: two records answer two
+rows each (Rushdie's *Imaginary Homelands*, printed twice; Kingston's *The Woman
+Warrior*, two chapters). The database holds **936
 authors, 3,109 works, 736 sources, 2,432 editions**. `python3
 scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
 so they cannot drift from it.

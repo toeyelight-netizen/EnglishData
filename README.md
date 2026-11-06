@@ -25,7 +25,7 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 265 works by 94 authors; 220 works recorded against 265 in-scope selections - English 95 of 96, American 125 of 169; 43 remain, none undated) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 265 works by 94 authors; **the English volume is complete, 96 of 96 selections**; American 126 of 169; 43 American selections remain, none undated) |
 
 Cumulative totals: **913 authors, 3061 works** (147 anonymous), 10 periods, 179
 movements, 370 genres, 203 themes, 656 sources, 2432 recorded editions.

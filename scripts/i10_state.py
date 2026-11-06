@@ -74,6 +74,17 @@ def main():
     prefixes = collections.Counter(r["norton_selection"].split(":")[0] for r in works
                                    if ":" in r["norton_selection"])
 
+    # Count anthology ROWS, not works. Two records legitimately answer two rows
+    # each (Rushdie's Imaginary Homelands is printed twice in NAEL, Kingston's
+    # The Woman Warrior twice in NAAL), so a work count understates coverage and
+    # the gap it leaves is not the number of selections still to record.
+    rows_done = collections.Counter()
+    for r in works:
+        for label in (r["norton_selection"] or "").split("; "):
+            if label.startswith("NAEL: ") or label.startswith("NAAL: "):
+                rows_done[label.split(":")[0]] += 1
+    rows_todo = collections.Counter(r["norton_selection"].split(":")[0] for r in todo)
+
     if args.next:
         order = {}
         for i, r in enumerate(load_list("norton_naal_11e_vol_e.csv")):
@@ -87,6 +98,10 @@ def main():
     print("works recorded            %d" % len(works))
     print("  of them Norton selections %d (%s)" % (recorded_sels, ", ".join(
         "%s %d" % (k, v) for k, v in sorted(prefixes.items()))))
+    for short in ("NAEL", "NAAL"):
+        done, total = rows_done[short], rows_done[short] + rows_todo[short]
+        print("  %s rows recorded        %d of %d%s" % (short, done, total,
+              "  COMPLETE" if done == total else ""))
     print("selections still to record %d" % len(pending))
     print("  undated (may be out of period) %d" % len(undated))
     by_auth_author = collections.Counter()
@@ -105,9 +120,12 @@ def main():
         print("  %-22s %d" % (a, n))
 
     if args.figures:
-        print("WORKS=%d SEL=%d PENDING=%d AUTHORS=%d AUTH_PENDING=%d UNDATED=%d"
+        print("WORKS=%d SEL=%d PENDING=%d AUTHORS=%d AUTH_PENDING=%d UNDATED=%d "
+              "NAEL=%d/%d NAAL=%d/%d"
               % (len(works), recorded_sels, len(pending), len(by_auth_author),
-                 len(by_author), len(undated)))
+                 len(by_author), len(undated),
+                 rows_done["NAEL"], rows_done["NAEL"] + rows_todo["NAEL"],
+                 rows_done["NAAL"], rows_done["NAAL"] + rows_todo["NAAL"]))
         return 0
 
     if args.stale:

@@ -442,6 +442,17 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
     Of the nine works, none is marked *verified*: the tenth, Glueck's author record,
     is, on the strength of her collection list checked against the Nobel citation.
 
+    *A correction that affects this wave's framing.* Wave 33 was undertaken to
+    record "the English anthology's last outstanding row". There was no such row:
+    all 96 in-scope NAEL selections had been recorded before the wave began, and
+    the "95 of 96" of earlier reports compared a count of works against a count of
+    anthology rows. Two records answer two rows each - Rushdie's *Imaginary
+    Homelands* is printed at pp. 747 and 750, and Kingston's *The Woman Warrior*
+    contributes two chapters - so the work count was two short of the row count
+    with nothing missing. `i10_state.py` now reports rows as well as works and
+    prints NAEL 96 of 96; the Brathwaite record remains a genuine selection and is
+    the anthology's latest addition to the period, but it closed no gap.
+
     *A correction carried into the report:* the Norton's own annotation of Ortiz's
     "Passing through Little Rock" identifies the Quapaw and Waccamaw as tribes of
     Arizona; both are peoples of Arkansas, as Camille Paglia pointed out in 2001. The
