@@ -7,11 +7,11 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 29):** installments 1–9 are
-complete; installment 10 (1946–2000) is in progress at **240 works by 81
-authors**, with **195 of 255** in-scope Norton selections recorded (the English
-anthology complete at 89, the American at 106 of 165). The database holds **923
-authors, 3,084 works, 688 sources, 2,432 editions**. `python3
+**State at this handover (2026-11-06, wave 30):** installments 1–9 are
+complete; installment 10 (1946–2000) is in progress at **249 works by 89
+authors**, with **204 of 255** in-scope Norton selections recorded (the English
+anthology complete at 89, the American at 115 of 165). The database holds **931
+authors, 3,093 works, 704 sources, 2,432 editions**. `python3
 scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
 so they cannot drift from it.
 
@@ -30,7 +30,7 @@ alembic upgrade head
 python scripts/import_data.py
 ```
 
-This reproduces 923 / 3,084 / 688 / 2,432 exactly from a clean clone.
+This reproduces 931 / 3,093 / 704 / 2,432 exactly from a clean clone.
 
 ## 2. First run
 
@@ -155,8 +155,10 @@ Next in Norton's order (American anthology), from
 | Joy Harjo | 4 | |
 | Yusef Komunyakaa | 4 | |
 | Sherman Alexie | 4 | |
+| Simon J. Ortiz | 3 | |
+| Louise Glück | 3 | |
 
-61 selections remain: 29 authors, of whom 16 have a single selection. 17
+51 selections remain: 21 authors, of whom 10 have a single selection. 17
 selections are still undated (11 English, 6 American) and decide whether five
 more authors are in the period at all. The English anthology is complete for
 the period (89 of 89 unique selections).

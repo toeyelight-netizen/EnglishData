@@ -2001,6 +2001,24 @@ with broader Anglophone writing out of scope.
   added here. Sixteen new sources. 240 works by 81 authors; 195 of the 255
   selections recorded, 61 still to record across 29 authors.
 
+- **Wave 30:** the American prose block - Don DeLillo, Thomas Pynchon, Raymond
+  Carver, Toni Cade Bambara, Maxine Hong Kingston, Leslie Marmon Silko, Ishmael
+  Reed and Richard Rodriguez. Eight authors, eight works, ten Norton rows (both
+  of Kingston's selections map to *The Woman Warrior*, as the coverage matrix
+  records). DeLillo's *White Noise* (Viking, 1985) is recorded as one work with
+  the Norton excerpt - Part II, "The Airborne Toxic Event" - named in the
+  bibliography statement; Pynchon's "Entropy" is from *The Kenyon Review* for
+  Spring 1960, written at Cornell before *V*; Carver's "Cathedral" is from *The
+  Atlantic Monthly* for September 1981 and *Cathedral* (Knopf, 1983), with a
+  note that some accounts give March 1981 and the record states the
+  discrepancy rather than resolving it. Bambara's "The Lesson" is from
+  *Gorilla, My Love* (1972); Silko's "Lullaby" from *Laguna Woman* (1974) and
+  "Language and Literature from a Pueblo Indian Perspective" from the 1981
+  Buffalo conference volume; Reed's "Neo-HooDoo Manifesto" opens *Conjure*
+  (1972); Rodriguez's *Hunger of Memory* is from Godine, 1982. Sixteen new
+  sources. 249 works by 89 authors; 204 of the 255 selections recorded, 51
+  still to record across 21 authors.
+
 **Tooling (2026-11-06).** Three scripts now do work that was being done by hand,
 and all three are described in `AGENT_HANDOVER.md` §2:
 
@@ -2129,4 +2147,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 240 works by 81 authors; 195 of 255 selections recorded - the English anthology complete at 89, the American at 106 of 165) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 249 works by 89 authors; 204 of 255 selections recorded - the English anthology complete at 89, the American at 115 of 165) |

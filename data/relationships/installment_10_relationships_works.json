@@ -1199,6 +1199,51 @@
    "work": "A Supermarket in California",
    "author": "Allen Ginsberg",
    "contribution_type": "author"
+  },
+  {
+   "work": "White Noise",
+   "author": "Don DeLillo",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Entropy",
+   "author": "Thomas Pynchon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Cathedral",
+   "author": "Raymond Carver",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Lesson",
+   "author": "Toni Cade Bambara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Woman Warrior",
+   "author": "Maxine Hong Kingston",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lullaby",
+   "author": "Leslie Marmon Silko",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "author": "Leslie Marmon Silko",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "author": "Ishmael Reed",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hunger of Memory",
+   "author": "Richard Rodriguez",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -3025,6 +3070,76 @@
     "Beat Poetry",
     "Free Verse",
     "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "White Noise",
+   "genres": [
+    "Postmodern Fiction",
+    "Satirical Fiction",
+    "Campus Novel"
+   ]
+  },
+  {
+   "work": "Entropy",
+   "genres": [
+    "Short Story",
+    "Postmodern Fiction",
+    "Science Fiction"
+   ]
+  },
+  {
+   "work": "Cathedral",
+   "genres": [
+    "Short Story",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "The Lesson",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "The Woman Warrior",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Memoir",
+    "Autobiographical Novel"
+   ]
+  },
+  {
+   "work": "Lullaby",
+   "genres": [
+    "Short Story",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "genres": [
+    "Literary Manifesto",
+    "Postmodern Poetry",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Hunger of Memory",
+   "genres": [
+    "Nonfiction Prose (1946–2000)",
+    "Memoir",
+    "Personal Essay"
    ]
   }
  ],
@@ -4938,6 +5053,78 @@
     "The city, the suburb and modern space",
     "Sexuality, desire and the closet"
    ]
+  },
+  {
+   "work": "White Noise",
+   "themes": [
+    "Technology, media and consumer society",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Entropy",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "work": "Cathedral",
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "The Lesson",
+   "themes": [
+    "Class, labour and social mobility",
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "The Woman Warrior",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Lullaby",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "Death, illness and mourning",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "themes": [
+    "Indigenous survival, land and sovereignty",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Hunger of Memory",
+   "themes": [
+    "Class, labour and social mobility",
+    "Migration, exile and diaspora",
+    "Education, institutions and the academy"
+   ]
   }
  ],
  "work_movements": [
@@ -6245,6 +6432,57 @@
    "movements": [
     "The Beat Generation"
    ]
+  },
+  {
+   "work": "White Noise",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Entropy",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Cathedral",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "work": "The Lesson",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Woman Warrior",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Lullaby",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Language and Literature from a Pueblo Indian Perspective",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
+   "work": "Neo-HooDoo Manifesto",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
   }
  ],
  "work_periods": [
@@ -6490,7 +6728,16 @@
     "wild blessings",
     "Poetry Is Not a Luxury",
     "Footnote to Howl",
-    "A Supermarket in California"
+    "A Supermarket in California",
+    "White Noise",
+    "Entropy",
+    "Cathedral",
+    "The Lesson",
+    "The Woman Warrior",
+    "Lullaby",
+    "Language and Literature from a Pueblo Indian Perspective",
+    "Neo-HooDoo Manifesto",
+    "Hunger of Memory"
    ]
   }
  ]

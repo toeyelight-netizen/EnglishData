@@ -151,6 +151,14 @@
    ]
   },
   {
+   "author": "Don DeLillo",
+   "genres": [
+    "Campus Novel",
+    "Postmodern Fiction",
+    "Satirical Fiction"
+   ]
+  },
+  {
    "author": "Donald Barthelme",
    "genres": [
     "Experimental Fiction",
@@ -286,6 +294,14 @@
    ]
   },
   {
+   "author": "Ishmael Reed",
+   "genres": [
+    "Literary Manifesto",
+    "Postmodern Poetry",
+    "Satirical Fiction"
+   ]
+  },
+  {
    "author": "J. D. Salinger",
    "genres": [
     "Realist Fiction",
@@ -415,6 +431,16 @@
    ]
   },
   {
+   "author": "Leslie Marmon Silko",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Essay",
+    "Personal Essay",
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "genres": [
     "Dub Poetry",
@@ -491,6 +517,14 @@
     "Free Verse",
     "Lyric Poetry",
     "Nature Poetry"
+   ]
+  },
+  {
+   "author": "Maxine Hong Kingston",
+   "genres": [
+    "Autobiographical Novel",
+    "Memoir",
+    "Nonfiction Prose (1946–2000)"
    ]
   },
   {
@@ -584,6 +618,21 @@
     "Political Novel",
     "Satirical Fiction",
     "Short-Story Collection"
+   ]
+  },
+  {
+   "author": "Raymond Carver",
+   "genres": [
+    "Realist Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "genres": [
+    "Memoir",
+    "Nonfiction Prose (1946–2000)",
+    "Personal Essay"
    ]
   },
   {
@@ -730,6 +779,22 @@
     "Lyric Poetry",
     "Nature Poetry",
     "Social Poetry"
+   ]
+  },
+  {
+   "author": "Thomas Pynchon",
+   "genres": [
+    "Postmodern Fiction",
+    "Science Fiction",
+    "Short Story"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "genres": [
+    "Realist Fiction",
+    "Satirical Fiction",
+    "Short Story"
    ]
   },
   {
@@ -903,6 +968,12 @@
    ]
   },
   {
+   "author": "Don DeLillo",
+   "movements": [
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
    "author": "Donald Barthelme",
    "movements": [
     "Black Humour and the Absurdist Novel",
@@ -982,6 +1053,13 @@
    "movements": [
     "Black British Writing and the Windrush Generation",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Ishmael Reed",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   },
   {
@@ -1087,6 +1165,12 @@
    ]
   },
   {
+   "author": "Leslie Marmon Silko",
+   "movements": [
+    "Native American Renaissance"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "movements": [
     "Black British Writing and the Windrush Generation",
@@ -1139,6 +1223,13 @@
    "movements": []
   },
   {
+   "author": "Maxine Hong Kingston",
+   "movements": [
+    "Asian American Literary Movement",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "N. Scott Momaday",
    "movements": [
     "Native American Renaissance"
@@ -1188,6 +1279,16 @@
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
    ]
+  },
+  {
+   "author": "Raymond Carver",
+   "movements": [
+    "Minimalism and Dirty Realism"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "movements": []
   },
   {
    "author": "Robert Hayden",
@@ -1277,6 +1378,19 @@
    "movements": [
     "Gay and Lesbian Literature after Stonewall",
     "The Movement"
+   ]
+  },
+  {
+   "author": "Thomas Pynchon",
+   "movements": [
+    "New Wave Science Fiction",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
    ]
   },
   {
@@ -1487,6 +1601,14 @@
    ]
   },
   {
+   "author": "Don DeLillo",
+   "themes": [
+    "Death, illness and mourning",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
    "author": "Donald Barthelme",
    "themes": [
     "Art, the artist and the creative life",
@@ -1640,6 +1762,14 @@
    ]
   },
   {
+   "author": "Ishmael Reed",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Myth, folklore and the supernatural",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "J. D. Salinger",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -1780,6 +1910,16 @@
    ]
   },
   {
+   "author": "Leslie Marmon Silko",
+   "themes": [
+    "Death, illness and mourning",
+    "Indigenous survival, land and sovereignty",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
    "author": "Linton Kwesi Johnson",
    "themes": [
     "Class, labour and social mobility",
@@ -1863,6 +2003,14 @@
     "Death, illness and mourning",
     "Faith, doubt and the sacred",
     "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Maxine Hong Kingston",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora"
    ]
   },
   {
@@ -1959,6 +2107,22 @@
     "Race, racism and the struggle for civil rights",
     "The city, the suburb and modern space",
     "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Raymond Carver",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "themes": [
+    "Class, labour and social mobility",
+    "Education, institutions and the academy",
+    "Migration, exile and diaspora"
    ]
   },
   {
@@ -2133,6 +2297,22 @@
     "Love, intimacy and loss",
     "Nature, ecology and environmental crisis",
     "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "author": "Thomas Pynchon",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -2315,7 +2495,8 @@
     "The Poetical Works of Thomas Lovell Beddoes (2 volumes)",
     "The Poetical Works of Thomas Moore",
     "The Works of Thomas De Quincey (21 volumes)",
-    "Thomas Chalmers and the Godly Commonwealth in Scotland"
+    "Thomas Chalmers and the Godly Commonwealth in Scotland",
+    "Thomas Pynchon (Wikipedia)"
    ]
   },
   {
@@ -2822,6 +3003,7 @@
     "Adrienne Rich (Wikipedia)",
     "Adrienne Rich's Poetry and Prose, Norton Critical Edition, contents (library catalogue record)",
     "Diving into the Wreck: Poems 1971-1972 (Wikipedia)",
+    "Richard Rodriguez (Wikipedia)",
     "The Dream of a Common Language (Wikipedia)",
     "The Long Awakening of Adrienne Rich (The New Yorker, 30 November 2020)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
@@ -2958,6 +3140,73 @@
     "Lucille Clifton (Wikipedia)",
     "Lucille Clifton, EBSCO Research Starters and Poetry Foundation author page",
     "Quilting: Poems 1987-1990 (BOA Editions, 1991), contents and the collected-poems table of contents",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Don DeLillo",
+   "sources": [
+    "Don DeLillo (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "White Noise (Viking Press, 1985), publication and National Book Award records"
+   ]
+  },
+  {
+   "author": "Thomas Pynchon",
+   "sources": [
+    "Entropy (short story) (Wikipedia) and The Kenyon Review, Spring 1960",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Thomas Pynchon (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Raymond Carver",
+   "sources": [
+    "Cathedral (Knopf, 1983) and the Atlantic Monthly printing of September 1981",
+    "Raymond Carver (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Toni Cade Bambara",
+   "sources": [
+    "Gorilla, My Love (Random House, 1972), catalogue and contents record",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Toni Cade Bambara (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Maxine Hong Kingston",
+   "sources": [
+    "Maxine Hong Kingston (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "The Woman Warrior (Alfred A. Knopf, 1976), copyright page and publication records"
+   ]
+  },
+  {
+   "author": "Leslie Marmon Silko",
+   "sources": [
+    "Laguna Woman (1974) and Storyteller (1981), bibliographic records",
+    "Leslie Marmon Silko (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Ishmael Reed",
+   "sources": [
+    "'Sing the Bones Home': Material Memory and the Project of Freedom in M. NourbeSe Philip's Zong! (Humanities, MDPI)",
+    "Conjure: Selected Poems 1963-1970 (University of Massachusetts Press, 1972), catalogue record",
+    "Freedom's Journal (New York, 1827-1829): Digitised Run, Chronicling America",
+    "Ishmael Reed (Wikipedia)",
+    "The Freedom of the Press (The Orwell Foundation)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Richard Rodriguez",
+   "sources": [
+    "Hunger of Memory (David R. Godine, 1982), publication records",
+    "Richard Rodriguez (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }
