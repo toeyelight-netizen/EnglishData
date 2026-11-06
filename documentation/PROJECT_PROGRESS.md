@@ -1947,6 +1947,20 @@ with broader Anglophone writing out of scope.
   Ashbery's "How to Continue" 1992. 165 of the 255 selections now have records;
   90 American selections remain.
 
+- **Wave 27:** Sylvia Plath, the eight poems of the American anthology, and with
+  them the whole Plath block dated. "Morning Song" (1961), "Lady Lazarus"
+  (1965), "Ariel" (1965), "Daddy" (1965), "Words" (1965), "Blackberrying"
+  (1962), "The Applicant" (1963) and "Child" (1971): eight works and one author.
+  All eight rows had carried only "written 1961-1963" and no first-publication
+  date. The dates are now settled from first printings: "Blackberrying" in
+  *The New Yorker*, 15 September 1962 (the one selection printed in a periodical
+  in her lifetime); "The Applicant" in *The London Magazine*, January 1963; the
+  five *Ariel* poems in Faber's *Ariel* of 1965; "Child" not in *Ariel* at all
+  but in *Winter Trees* (Faber, 1971). Composition dates from the manuscripts at
+  Smith College and the appendix to *Ariel: The Restored Edition* are recorded
+  in each research note. Fifteen new sources. 173 of the 255 selections now have
+  records; 82 American selections remain.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2039,11 +2053,10 @@ the four bad plots, so it gives an order of work, not a filter.
 3. record the remaining Norton authors and their selections, in Norton's order.
    The English anthology is complete for the period: 90 of 90 in-scope
    selections have records (waves 15–20, to Kiran Desai). The American
-   anthology is under way: waves 21–26 recorded 75 of its 165 unique in-scope
-   selections, and the next is Sylvia Plath's eight poems, followed by Toni
-   Morrison, John Updike, Philip Roth, Philip K. Dick, Ursula K. Le Guin and
-   Octavia E. Butler; 90 selections remain, with Jhumpa Lahiri and Junot Díaz
-   at the end;
+   anthology is under way: waves 21–27 recorded 83 of its 165 unique in-scope
+   selections, and the next is Toni Morrison's Nobel lecture, followed by John
+   Updike, Philip Roth, Philip K. Dick, Ursula K. Le Guin and Octavia E. Butler;
+   82 selections remain, with Jhumpa Lahiri and Junot Díaz at the end;
 4. check every provisional date, including the 17 selections still to be dated
    (11 English, 6 American), and run the plot check of installments 8–9;
 5. run Audits 3 and 8 and regenerate the report.
@@ -2059,4 +2072,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 209 works by 65 authors; 165 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 217 works by 66 authors; 173 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |

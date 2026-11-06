@@ -25,10 +25,10 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 209 works by 65 authors; 165 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 217 works by 66 authors; 173 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
 
-Cumulative totals: **912 authors, 3053 works** (147 anonymous), 10 periods, 179
-movements, 370 genres, 203 themes, 641 sources, 2432 recorded editions.
+Cumulative totals: **913 authors, 3061 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 656 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the
@@ -65,10 +65,10 @@ most of it is still to do.**
   Robert Lowell, J. D. Salinger, Jack Kerouac, Kurt Vonnegut, Grace Paley, Frank
   O'Hara, Audre Lorde, Susan Sontag, John Barth, Joan Didion, James Baldwin,
   Flannery O'Connor, Allen Ginsberg, John Ashbery, Anne Sexton, Adrienne Rich,
-  Martin Luther King Jr. and Donald Barthelme, and by George Orwell, Jean
-  Rhys, Samuel Beckett, W. H. Auden and Gwendolyn Brooks (their installment 9
-  author records, extended). 165 of the 255 selections in the period are
-  recorded so far.
+  Martin Luther King Jr., Donald Barthelme and Sylvia Plath, and by George
+  Orwell, Jean Rhys, Samuel Beckett, W. H. Auden and Gwendolyn Brooks (their
+  installment 9 author records, extended). 173 of the 255 selections in the
+  period are recorded so far.
   The measured state, the eight audits, the corrections made to installments
   8–9 and the exact stopping point are in
   [documentation/INSTALLMENT_10_AUDIT_REPORT.md](documentation/INSTALLMENT_10_AUDIT_REPORT.md).

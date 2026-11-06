@@ -1044,6 +1044,46 @@
    "work": "The School",
    "author": "Donald Barthelme",
    "contribution_type": "author"
+  },
+  {
+   "work": "Morning Song",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Blackberrying",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Applicant",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lady Lazarus",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ariel",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Daddy",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Words",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Child",
+   "author": "Sylvia Plath",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2620,6 +2660,71 @@
     "Short Story",
     "Postmodern Fiction",
     "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Morning Song",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Blackberrying",
+   "genres": [
+    "Lyric Poetry",
+    "Free Verse",
+    "Nature Poetry",
+    "Pastoral and Rural Poetry"
+   ]
+  },
+  {
+   "work": "The Applicant",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Lady Lazarus",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Ariel",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Daddy",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Words",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Child",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Free Verse"
    ]
   }
  ],
@@ -4285,6 +4390,70 @@
     "Education, institutions and the academy",
     "Childhood, adolescence and coming of age"
    ]
+  },
+  {
+   "work": "Morning Song",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Blackberrying",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Death, illness and mourning",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "The Applicant",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Family, marriage and domestic life",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Lady Lazarus",
+   "themes": [
+    "Death, illness and mourning",
+    "Madness, breakdown and confinement",
+    "The Holocaust, atrocity and historical memory"
+   ]
+  },
+  {
+   "work": "Ariel",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Nature, ecology and environmental crisis",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Daddy",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Death, illness and mourning",
+    "The Holocaust, atrocity and historical memory"
+   ]
+  },
+  {
+   "work": "Words",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Child",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Childhood, adolescence and coming of age",
+    "Art, the artist and the creative life"
+   ]
   }
  ],
  "work_movements": [
@@ -5404,6 +5573,56 @@
     "Postmodernism and Postmodern Fiction",
     "Black Humour and the Absurdist Novel"
    ]
+  },
+  {
+   "work": "Morning Song",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Blackberrying",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "The Applicant",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Lady Lazarus",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Ariel",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Daddy",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Words",
+   "movements": [
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Child",
+   "movements": [
+    "Confessional Poetry"
+   ]
   }
  ],
  "work_periods": [
@@ -5618,7 +5837,15 @@
     "Transcendental Etude",
     "Letter from Birmingham Jail",
     "The Balloon",
-    "The School"
+    "The School",
+    "Morning Song",
+    "Blackberrying",
+    "The Applicant",
+    "Lady Lazarus",
+    "Ariel",
+    "Daddy",
+    "Words",
+    "Child"
    ]
   }
  ]

@@ -603,6 +603,18 @@
    ]
   },
   {
+   "author": "Sylvia Plath",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Pastoral and Rural Poetry"
+   ]
+  },
+  {
    "author": "Ted Hughes",
    "genres": [
     "Dark Fantasy",
@@ -1087,6 +1099,13 @@
    "author": "Susan Sontag",
    "movements": [
     "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "author": "Sylvia Plath",
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -1813,6 +1832,23 @@
     "Art, the artist and the creative life",
     "Language, writing and the limits of representation",
     "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Sylvia Plath",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Nature, ecology and environmental crisis",
+    "Technology, media and consumer society",
+    "The Holocaust, atrocity and historical memory"
    ]
   },
   {
@@ -2547,6 +2583,19 @@
     "Donald Barthelme (Wikipedia)",
     "Donald Barthelme bibliography (Wikipedia)",
     "The Balloon, The New Yorker, 16 April 1966 (newyorker.com archive)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Sylvia Plath",
+   "sources": [
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Morning Song (Poetry Foundation poem page)",
+    "Sylvia Plath (Wikipedia)",
+    "Sylvia Plath bibliography (Wikipedia)",
+    "The Colossus and Other Poems (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }

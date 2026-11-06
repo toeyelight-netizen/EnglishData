@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 912,
-  "works": 3053
+  "authors": 913,
+  "works": 3061
  },
  "periods": [
   {
@@ -883,6 +883,10 @@
   "Anne Sexton (Wikipedia)",
   "Annie Allen (Wikipedia)",
   "Apologia Pro Vita Sua",
+  "Ariel (Britannica entry)",
+  "Ariel (Poetry Foundation poem page)",
+  "Ariel, poetry collection (Wikipedia)",
+  "Ariel: The Restored Edition, appendix of composition dates",
   "Arthur Miller (Wikipedia)",
   "Arundhati Roy (Wikipedia)",
   "Ashbery's Pastoral Art (The Yale Review)",
@@ -899,6 +903,8 @@
   "Bibliography of Dame Ngaio Marsh's Published Works",
   "Bibliography of Saul Bellow (Wikipedia)",
   "Biographia Literaria (The Collected Works of Samuel Taylor Coleridge, volume 7)",
+  "Blackberrying (Poetry Foundation poem page)",
+  "Blackberrying, The New Yorker, 15 September 1962 (newyorker.com archive)",
   "Blackwood's Edinburgh Magazine",
   "BpNichol (Wikipedia)",
   "British Library Digitised Manuscripts",
@@ -919,6 +925,7 @@
   "Confessions of an English Opium-Eater and Other Writings (Oxford World's Classics)",
   "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
   "Culture and Anarchy and Other Writings (Cambridge Texts in the History of Political Thought)",
+  "Daddy (Poetry Foundation poem page)",
   "Darcy Moore, Orwell Collection (collector's list of first editions)",
   "David Walker's Appeal to the Coloured Citizens of the World",
   "Death of a Salesman (Wikipedia)",
@@ -1007,6 +1014,7 @@
   "Imaginary Homelands (Wikipedia)",
   "In Praise of Limestone (Wikipedia)",
   "In the Mecca: Poems (University of Pennsylvania Libraries, Franklin catalogue)",
+  "Index of Works by Sylvia Plath (sylviaplath.info)",
   "Inside the Whale (Wikipedia)",
   "Inside the Whale and Other Essays (Wikipedia)",
   "Iowa Writers' Workshop (Post45 Data Collective; Program Era Project)",
@@ -1037,6 +1045,7 @@
   "Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse",
   "Kurt Vonnegut (Wikipedia)",
   "Lady Caroline Lamb: A Biography",
+  "Lady Lazarus (Poetry Foundation poem page)",
   "Landor's Cleanness: A Study of Walter Savage Landor",
   "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
   "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
@@ -1100,6 +1109,7 @@
   "Modern Chivalry: Containing the Adventures of Captain John Farrago, and Teague O'Regan, His Servant",
   "Modernism: A Guide to European Literature 1890–1930",
   "Monk Lewis: A Critical Biography",
+  "Morning Song (Poetry Foundation poem page)",
   "Moses Ascending (Penguin Modern Classics description, as reproduced by booksellers)",
   "Mrs. Sherwood and Her Books for Children",
   "Myths of Identity in Derek Walcott's 'The Schooner Flight' (Mary C. Fuller, Connotations)",
@@ -1193,6 +1203,8 @@
   "Such, Such Were the Joys (Wikipedia)",
   "Surfeit of Lampreys (Wikipedia)",
   "Susan Sontag (Wikipedia)",
+  "Sylvia Plath (Wikipedia)",
+  "Sylvia Plath bibliography (Wikipedia)",
   "Sylvia's Death (Wikipedia)",
   "Sylvia's Death, Poetry, January 1964 (Poetry Foundation archive)",
   "TEAMS Middle English Texts Series",
@@ -1203,6 +1215,7 @@
   "The Anglo-Saxon Chronicle: A Revised Translation",
   "The Anglo-Saxon Poetic Records: A Collective Edition",
   "The Annotated Origin: A Facsimile of the First Edition of On the Origin of Species",
+  "The Applicant (Poetry Foundation poem page)",
   "The Ashgate Research Companion to Thomas Lovell Beddoes (The Nineteenth Century Series)",
   "The Autobiography of W. B. Yeats",
   "The Awakening: A Norton Critical Edition, 2nd edn",
@@ -1265,6 +1278,7 @@
   "The Collected Works of Samuel Taylor Coleridge (16 volumes)",
   "The Collected Works of William Morris, 24 vols",
   "The Collected Writings of Charles Brockden Brown",
+  "The Colossus and Other Poems (Wikipedia)",
   "The Columbia Literary History of the United States",
   "The Complete Letters of Henry James, 12 vols (ongoing)",
   "The Complete Poems of D. H. Lawrence",
@@ -1463,6 +1477,7 @@
   "William Harrison Ainsworth (Twayne's English Authors Series, no. 138)",
   "William Harrison Ainsworth and His Friends (2 volumes)",
   "William Wordsworth: The Major Works",
+  "Winter Trees, first edition (Faber and Faber, 1971), bookseller records",
   "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)",
   "Wole Soyinka (Wikipedia)",
   "Woman in the Nineteenth Century: A Norton Critical Edition",
@@ -1649,11 +1664,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2963,
+     "id": 2971,
      "title": "Elements of Composition"
     },
     {
-     "id": 2962,
+     "id": 2970,
      "title": "Self-Portrait"
     }
    ],
@@ -3156,7 +3171,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2983,
+     "id": 2991,
      "title": "Walker Brothers Cowboy"
     }
    ],
@@ -4112,7 +4127,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3005,
+     "id": 3013,
      "title": "The Glass Essay"
     }
    ],
@@ -5239,7 +5254,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3033,
+     "id": 3041,
      "title": "Death of a Salesman"
     }
    ],
@@ -5543,7 +5558,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2998,
+     "id": 3006,
      "title": "The God of Small Things"
     }
    ],
@@ -5629,11 +5644,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3053,
+     "id": 3061,
      "title": "Black Mother Woman"
     },
     {
-     "id": 3051,
+     "id": 3059,
      "title": "Coal"
     },
     {
@@ -5641,7 +5656,7 @@
      "title": "The Master's Tools Will Never Dismantle the Master's House"
     },
     {
-     "id": 3052,
+     "id": 3060,
      "title": "The Woman Thing"
     },
     {
@@ -6084,7 +6099,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2997,
+     "id": 3005,
      "title": "What the Tapster Saw"
     }
    ],
@@ -6296,7 +6311,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2996,
+     "id": 3004,
      "title": "Looking for a Rain God"
     }
    ],
@@ -6493,7 +6508,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3010,
+     "id": 3018,
      "title": "First Screening"
     }
    ],
@@ -6965,19 +6980,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3014,
+     "id": 3022,
      "title": "Medusa"
     },
     {
-     "id": 3015,
+     "id": 3023,
      "title": "Mrs Lazarus"
     },
     {
-     "id": 3013,
+     "id": 3021,
      "title": "Valentine"
     },
     {
-     "id": 3012,
+     "id": 3020,
      "title": "Warming Her Pearls"
     }
    ],
@@ -7137,7 +7152,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2986,
+     "id": 2994,
      "title": "Top Girls"
     }
    ],
@@ -8791,7 +8806,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2979,
+     "id": 2987,
      "title": "Civil Peace"
     }
    ],
@@ -10505,19 +10520,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2969,
+     "id": 2977,
      "title": "A Far Cry from Africa"
     },
     {
-     "id": 2972,
+     "id": 2980,
      "title": "Omeros"
     },
     {
-     "id": 2970,
+     "id": 2978,
      "title": "The Schooner Flight"
     },
     {
-     "id": 2971,
+     "id": 2979,
      "title": "The Season of Phantasmal Peace"
     }
    ],
@@ -10800,7 +10815,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2961,
+     "id": 2969,
      "title": "To Room Nineteen"
     }
    ],
@@ -11212,7 +11227,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2948,
+     "id": 2956,
      "title": "Do Not Go Gentle into That Good Night"
     }
    ],
@@ -11612,15 +11627,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3002,
+     "id": 3010,
      "title": "Fond Memory"
     },
     {
-     "id": 3003,
+     "id": 3011,
      "title": "The Dolls Museum in Dublin"
     },
     {
-     "id": 3004,
+     "id": 3012,
      "title": "The Lost Land"
     }
    ],
@@ -13509,23 +13524,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3023,
+     "id": 3031,
      "title": "At the Fishhouses"
     },
     {
-     "id": 3026,
+     "id": 3034,
      "title": "In the Waiting Room"
     },
     {
-     "id": 3027,
+     "id": 3035,
      "title": "One Art"
     },
     {
-     "id": 3024,
+     "id": 3032,
      "title": "Questions of Travel"
     },
     {
-     "id": 3025,
+     "id": 3033,
      "title": "The Armadillo"
     }
    ],
@@ -16650,27 +16665,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3047,
+     "id": 3055,
      "title": "A Step Away from Them"
     },
     {
-     "id": 3049,
+     "id": 3057,
      "title": "Having a Coke with You"
     },
     {
-     "id": 3050,
+     "id": 3058,
      "title": "In Memory of My Feelings"
     },
     {
-     "id": 3045,
+     "id": 3053,
      "title": "Personism: A Manifesto"
     },
     {
-     "id": 3048,
+     "id": 3056,
      "title": "The Day Lady Died"
     },
     {
-     "id": 3046,
+     "id": 3054,
      "title": "Why I Am Not a Painter"
     }
    ],
@@ -17190,15 +17205,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2980,
+     "id": 2988,
      "title": "In Memory of Jane Fraser"
     },
     {
-     "id": 2981,
+     "id": 2989,
      "title": "Requiem for the Plantagenet Kings"
     },
     {
-     "id": 2982,
+     "id": 2990,
      "title": "September Song"
     }
    ],
@@ -18630,7 +18645,7 @@
      "title": "Coming Up for Air"
     },
     {
-     "id": 2900,
+     "id": 2908,
      "title": "Critical Essays"
     },
     {
@@ -18646,7 +18661,7 @@
      "title": "Inside the Whale and Other Essays"
     },
     {
-     "id": 2901,
+     "id": 2909,
      "title": "James Burnham and the Managerial Revolution"
     },
     {
@@ -18654,31 +18669,31 @@
      "title": "Keep the Aspidistra Flying"
     },
     {
-     "id": 2903,
+     "id": 2911,
      "title": "Nineteen Eighty-Four"
     },
     {
-     "id": 2931,
+     "id": 2939,
      "title": "Politics and the English Language"
     },
     {
-     "id": 2904,
+     "id": 2912,
      "title": "Shooting an Elephant and Other Essays"
     },
     {
-     "id": 2905,
+     "id": 2913,
      "title": "Such, Such Were the Joys"
     },
     {
-     "id": 2906,
+     "id": 2914,
      "title": "The Collected Essays, Journalism and Letters of George Orwell"
     },
     {
-     "id": 2902,
+     "id": 2910,
      "title": "The English People"
     },
     {
-     "id": 2907,
+     "id": 2915,
      "title": "The Freedom of the Press"
     },
     {
@@ -19623,15 +19638,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2957,
+     "id": 2965,
      "title": "Epilogue"
     },
     {
-     "id": 2958,
+     "id": 2966,
      "title": "The Fat Black Woman Goes Shopping"
     },
     {
-     "id": 2959,
+     "id": 2967,
      "title": "Wherever I Hang"
     }
    ],
@@ -19676,11 +19691,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3043,
+     "id": 3051,
      "title": "A Conversation with My Father"
     },
     {
-     "id": 3044,
+     "id": 3052,
      "title": "Zagrowsky Tells"
     }
    ],
@@ -19872,7 +19887,7 @@
    ],
    "works": [
     {
-     "id": 2941,
+     "id": 2949,
      "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon"
     },
     {
@@ -19880,27 +19895,27 @@
      "title": "A Street in Bronzeville"
     },
     {
-     "id": 2940,
+     "id": 2948,
      "title": "The Bean Eaters"
     },
     {
-     "id": 2943,
+     "id": 2951,
      "title": "The Blackstone Rangers"
     },
     {
-     "id": 2938,
+     "id": 2946,
      "title": "The Children of the Poor"
     },
     {
-     "id": 2942,
+     "id": 2950,
      "title": "The Last Quatrain of the Ballad of Emmett Till"
     },
     {
-     "id": 2944,
+     "id": 2952,
      "title": "To the Diaspora"
     },
     {
-     "id": 2939,
+     "id": 2947,
      "title": "We Real Cool"
     }
    ],
@@ -20348,7 +20363,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3011,
+     "id": 3019,
      "title": "My Son the Fanatic"
     }
    ],
@@ -23756,7 +23771,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3039,
+     "id": 3047,
      "title": "For Esmé—with Love and Squalor"
     }
    ],
@@ -23798,7 +23813,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2995,
+     "id": 3003,
      "title": "The Drowned World"
     }
    ],
@@ -23911,7 +23926,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3001,
+     "id": 3009,
      "title": "Waiting for the Barbarians"
     }
    ],
@@ -24144,7 +24159,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3040,
+     "id": 3048,
      "title": "On the Road"
     }
    ],
@@ -25937,7 +25952,7 @@
      "title": "Good Morning, Midnight"
     },
     {
-     "id": 2934,
+     "id": 2942,
      "title": "On Not Shooting Sitting Birds"
     },
     {
@@ -25945,7 +25960,7 @@
      "title": "Quartet"
     },
     {
-     "id": 2933,
+     "id": 2941,
      "title": "The Day They Burned the Books"
     },
     {
@@ -27275,7 +27290,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3029,
+     "id": 3037,
      "title": "The Swimmer"
     }
    ],
@@ -31988,15 +32003,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2951,
+     "id": 2959,
      "title": "Calypso"
     },
     {
-     "id": 2950,
+     "id": 2958,
      "title": "History of the Voice"
     },
     {
-     "id": 2952,
+     "id": 2960,
      "title": "Letter SycoraX"
     }
    ],
@@ -32404,7 +32419,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3016,
+     "id": 3024,
      "title": "Hullabaloo in the Guava Orchard"
     }
    ],
@@ -32453,11 +32468,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3041,
+     "id": 3049,
      "title": "Harrison Bergeron"
     },
     {
-     "id": 3042,
+     "id": 3050,
      "title": "Slaughterhouse-Five"
     }
    ],
@@ -33119,11 +33134,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2994,
+     "id": 3002,
      "title": "Corniche"
     },
     {
-     "id": 2993,
+     "id": 3001,
      "title": "Morse"
     }
    ],
@@ -33426,7 +33441,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2960,
+     "id": 2968,
      "title": "Inglan Is a Bitch"
     }
    ],
@@ -33570,27 +33585,27 @@
      "title": "A Raisin in the Sun"
     },
     {
-     "id": 2897,
+     "id": 2905,
      "title": "Les Blancs"
     },
     {
-     "id": 2898,
+     "id": 2906,
      "title": "The Drinking Gourd"
     },
     {
-     "id": 2895,
+     "id": 2903,
      "title": "The Movement: Documentary of a Struggle for Equality"
     },
     {
-     "id": 2894,
+     "id": 2902,
      "title": "The Sign in Sidney Brustein's Window"
     },
     {
-     "id": 2896,
+     "id": 2904,
      "title": "To Be Young, Gifted and Black"
     },
     {
-     "id": 2899,
+     "id": 2907,
      "title": "What Use Are Flowers?"
     }
    ],
@@ -33777,7 +33792,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2949,
+     "id": 2957,
      "title": "Colonization in Reverse"
     }
    ],
@@ -34123,7 +34138,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2954,
+     "id": 2962,
      "title": "Discourse on the Logic of Language"
     }
    ],
@@ -34340,11 +34355,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2999,
+     "id": 3007,
      "title": "Death by Landscape"
     },
     {
-     "id": 3000,
+     "id": 3008,
      "title": "Miss July Grows Older"
     }
    ],
@@ -37986,7 +38001,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2953,
+     "id": 2961,
      "title": "Decolonising the Mind"
     }
    ],
@@ -39494,19 +39509,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3008,
+     "id": 3016,
      "title": "7, Middagh Street"
     },
     {
-     "id": 3006,
+     "id": 3014,
      "title": "Anseo"
     },
     {
-     "id": 3007,
+     "id": 3015,
      "title": "Meeting the British"
     },
     {
-     "id": 3009,
+     "id": 3017,
      "title": "Milkweed and Monarch"
     }
    ],
@@ -39783,7 +39798,7 @@
      "title": "Aubade"
     },
     {
-     "id": 2922,
+     "id": 2930,
      "title": "Church Going"
     },
     {
@@ -39791,7 +39806,7 @@
      "title": "Collected Poems"
     },
     {
-     "id": 2926,
+     "id": 2934,
      "title": "Going, Going"
     },
     {
@@ -39799,11 +39814,11 @@
      "title": "High Windows"
     },
     {
-     "id": 2925,
+     "id": 2933,
      "title": "High Windows (poem)"
     },
     {
-     "id": 2928,
+     "id": 2936,
      "title": "Homage to a Government"
     },
     {
@@ -39811,7 +39826,7 @@
      "title": "Jill"
     },
     {
-     "id": 2923,
+     "id": 2931,
      "title": "MCMXIV"
     },
     {
@@ -39819,7 +39834,7 @@
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
-     "id": 2927,
+     "id": 2935,
      "title": "Sad Steps"
     },
     {
@@ -39827,11 +39842,11 @@
      "title": "Selected Letters of Philip Larkin, 1940-1985"
     },
     {
-     "id": 2924,
+     "id": 2932,
      "title": "Talking in Bed"
     },
     {
-     "id": 2929,
+     "id": 2937,
      "title": "The Explosion"
     },
     {
@@ -39847,7 +39862,7 @@
      "title": "The Whitsun Weddings"
     },
     {
-     "id": 2930,
+     "id": 2938,
      "title": "This Be The Verse"
     },
     {
@@ -42766,11 +42781,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3031,
+     "id": 3039,
      "title": "Summertime and the Living . . ."
     },
     {
-     "id": 3030,
+     "id": 3038,
      "title": "Those Winter Sundays"
     }
    ],
@@ -43055,23 +43070,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3038,
+     "id": 3046,
      "title": "For the Union Dead"
     },
     {
-     "id": 3036,
+     "id": 3044,
      "title": "Memories of West Street and Lepke"
     },
     {
-     "id": 3034,
+     "id": 3042,
      "title": "Mr. Edwards and the Spider"
     },
     {
-     "id": 3037,
+     "id": 3045,
      "title": "Night Sweat"
     },
     {
-     "id": 3035,
+     "id": 3043,
      "title": "Skunk Hour"
     }
    ],
@@ -44271,11 +44286,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2956,
+     "id": 2964,
      "title": "Imaginary Homelands"
     },
     {
-     "id": 2955,
+     "id": 2963,
      "title": "The Prophet's Hair"
     }
    ],
@@ -44350,7 +44365,7 @@
      "title": "Murphy"
     },
     {
-     "id": 2935,
+     "id": 2943,
      "title": "Waiting for Godot"
     }
    ],
@@ -45075,63 +45090,63 @@
    ],
    "works": [
     {
-     "id": 2908,
+     "id": 2916,
      "title": "A Brighter Sun"
     },
     {
-     "id": 2909,
+     "id": 2917,
      "title": "An Island Is a World"
     },
     {
-     "id": 2919,
+     "id": 2927,
      "title": "Eldorado West One"
     },
     {
-     "id": 2920,
+     "id": 2928,
      "title": "Foreday Morning: Selected Prose 1946-1986"
     },
     {
-     "id": 2921,
+     "id": 2929,
      "title": "Highway in the Sun and Other Plays"
     },
     {
-     "id": 2913,
+     "id": 2921,
      "title": "I Hear Thunder"
     },
     {
-     "id": 2917,
+     "id": 2925,
      "title": "Moses Ascending"
     },
     {
-     "id": 2918,
+     "id": 2926,
      "title": "Moses Migrating"
     },
     {
-     "id": 2914,
+     "id": 2922,
      "title": "The Housing Lark"
     },
     {
-     "id": 2910,
+     "id": 2918,
      "title": "The Lonely Londoners"
     },
     {
-     "id": 2915,
+     "id": 2923,
      "title": "The Plains of Caroni"
     },
     {
-     "id": 2916,
+     "id": 2924,
      "title": "Those Who Eat the Cascadura"
     },
     {
-     "id": 2912,
+     "id": 2920,
      "title": "Turn Again Tiger"
     },
     {
-     "id": 2932,
+     "id": 2940,
      "title": "Waiting for Aunty to Cough"
     },
     {
-     "id": 2911,
+     "id": 2919,
      "title": "Ways of Sunlight"
     }
    ],
@@ -45555,7 +45570,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3032,
+     "id": 3040,
      "title": "Looking for Mr. Green"
     }
    ],
@@ -45610,27 +45625,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2990,
+     "id": 2998,
      "title": "Casualty"
     },
     {
-     "id": 2992,
+     "id": 3000,
      "title": "Clearances"
     },
     {
-     "id": 2987,
+     "id": 2995,
      "title": "Digging"
     },
     {
-     "id": 2989,
+     "id": 2997,
      "title": "Punishment"
     },
     {
-     "id": 2991,
+     "id": 2999,
      "title": "Station Island"
     },
     {
-     "id": 2988,
+     "id": 2996,
      "title": "The Grauballe Man"
     }
    ],
@@ -47482,15 +47497,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2946,
+     "id": 2954,
      "title": "Not Waving but Drowning"
     },
     {
-     "id": 2945,
+     "id": 2953,
      "title": "Our Bog Is Dood"
     },
     {
-     "id": 2947,
+     "id": 2955,
      "title": "Thoughts About the Person from Porlock"
     }
    ],
@@ -47950,6 +47965,94 @@
    ]
   },
   {
+   "id": 913,
+   "name": "Sylvia Plath",
+   "altNames": [],
+   "dates": "1932 – 1963",
+   "birthplace": "Boston, Massachusetts, United States",
+   "nationality": "American; poet, novelist and short-story writer writing in English",
+   "identity": "American poet whose posthumous Ariel (1965) and The Collected Poems (1981) made her the central confessional poet of the postwar period and the most discussed woman poet of the twentieth century",
+   "biography": "Sylvia Plath was born in the Jamaica Plain district of Boston on 27 October 1932, the daughter of Otto Plath, a German-born professor of biology at Boston University, and Aurelia Schober Plath, a teacher of Austrian descent. Her father died in November 1940, when she was eight, and the grief and anger of that loss became the matter of her best-known poem nineteen years later. She grew up in Wellesley, wrote and published precociously, won a scholarship to Smith College, and in 1953, after a month in New York as a guest editor at Mademoiselle, suffered the first of the breakdowns and suicide attempts that The Bell Jar (1963) describes. She returned to Smith, graduated summa cum laude in 1955, and took a Fulbright to Newnham College, Cambridge, where she met the poet Ted Hughes; they married in June 1956. After two years teaching at Smith she and Hughes moved back to England, and in 1960, after the birth of their daughter Frieda, Heinemann published The Colossus and Other Poems, the only collection of her poetry to appear in her lifetime. In 1961 they settled at Court Green in North Tawton, Devon, where their son Nicholas was born; in the autumn of 1962, after Hughes's affair with Assia Wevill, the marriage broke up and Plath moved with the children to a flat in Fitzroy Road, London. In the last five months of her life she wrote at extraordinary speed - the poems of October and November 1962, including 'Daddy', 'Lady Lazarus', 'Ariel' and 'The Applicant', and the winter poems 'Child' and 'Words' - and in January 1963 published The Bell Jar under the pseudonym Victoria Lucas. She died by suicide in London on 11 February 1963, aged thirty, and is buried at Heptonstall in West Yorkshire. Ariel appeared in 1965 in a text arranged by Hughes, who reordered the manuscript and added poems; Ariel: The Restored Edition (2004) printed her own selection and sequence for the first time. The Collected Poems (1981), also edited by Hughes, won the Pulitzer Prize for Poetry in 1982, the first awarded posthumously to a poet.",
+   "profile": "Poetry: The Colossus and Other Poems (1960), Ariel (1965), Uncollected Poems (1965), Crossing the Water (1971), Winter Trees (1971), The Collected Poems (1981, Pulitzer Prize 1982), Selected Poems (1985) and Ariel: The Restored Edition (2004). Novel: The Bell Jar (1963, as Victoria Lucas). Prose and letters: Letters Home (1975), Johnny Panic and the Bible of Dreams (1977), The Journals of Sylvia Plath (1982), The Unabridged Journals (2000) and The Letters of Sylvia Plath (2 vols, 2017-2018). Children's books: The Bed Book (1976) and The It-Doesn't-Matter Suit (1996).",
+   "style": "Short stanzas, usually tercets, quintains or loose quatrains, with lines that run over the stanza break and a rhyme that is heard in the vowel rather than at the line end; a diction that moves without warning between the nursery and the clinic, the lyric and the obscene; a first person that is at once exhibitionistic and defensive; repetition and refrain used as a formal device, as in 'Daddy' and 'Lady Lazarus'; the homeliest domestic object - a watch, a shoe, a telephone, a paperweight - made to carry the whole weight of the poem.",
+   "concerns": "The father as the dead origin of speech; the wish to die and the theatrical refusal to stay dead; motherhood, childbirth and the body as the site of another's life; marriage, betrayal and the humiliation of dependence; the Holocaust and the concentration camp as figures for domestic power; the English and American landscape as an image of the mind; the materials of a woman's art - sewing, cooking, beekeeping, riding, drawing - turned into the machinery of vision.",
+   "significance": "Plath is the poet through whom confessional poetry and the literature of the 1960s are taught, and 'Daddy', 'Lady Lazarus' and 'Ariel' are among the most anthologised and most argued-over poems of the century. Her posthumous reputation - the Pulitzer of 1982, the biographies, the controversy over the editing of Ariel, the part she plays in feminist criticism from the 1970s onward - has made her a case study in the making of a literary reputation as well as a body of work, and her influence on later women poets in English is acknowledged almost everywhere it is discussed.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Pastoral and Rural Poetry"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Madness, breakdown and confinement",
+    "Nature, ecology and environmental crisis",
+    "Technology, media and consumer society",
+    "The Holocaust, atrocity and historical memory"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2898,
+     "title": "Ariel"
+    },
+    {
+     "id": 2895,
+     "title": "Blackberrying"
+    },
+    {
+     "id": 2901,
+     "title": "Child"
+    },
+    {
+     "id": 2899,
+     "title": "Daddy"
+    },
+    {
+     "id": 2897,
+     "title": "Lady Lazarus"
+    },
+    {
+     "id": 2894,
+     "title": "Morning Song"
+    },
+    {
+     "id": 2896,
+     "title": "The Applicant"
+    },
+    {
+     "id": 2900,
+     "title": "Words"
+    }
+   ],
+   "sources": [
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Morning Song (Poetry Foundation poem page)",
+    "Sylvia Plath (Wikipedia)",
+    "Sylvia Plath bibliography (Wikipedia)",
+    "The Colossus and Other Poems (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 702,
    "name": "Sylvia Townsend Warner",
    "altNames": [
@@ -48333,27 +48436,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2978,
+     "id": 2986,
      "title": "Crow Tyrannosaurus"
     },
     {
-     "id": 2977,
+     "id": 2985,
      "title": "Crow's Last Stand"
     },
     {
-     "id": 2975,
+     "id": 2983,
      "title": "Out"
     },
     {
-     "id": 2974,
+     "id": 2982,
      "title": "Pike"
     },
     {
-     "id": 2976,
+     "id": 2984,
      "title": "Theology"
     },
     {
-     "id": 2973,
+     "id": 2981,
      "title": "Wind"
     }
    ],
@@ -48397,7 +48500,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3028,
+     "id": 3036,
      "title": "A Streetcar Named Desire"
     }
    ],
@@ -48677,23 +48780,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3018,
+     "id": 3026,
      "title": "Cuttings"
     },
     {
-     "id": 3019,
+     "id": 3027,
      "title": "Cuttings (later)"
     },
     {
-     "id": 3021,
+     "id": 3029,
      "title": "Elegy for Jane"
     },
     {
-     "id": 3022,
+     "id": 3030,
      "title": "I Knew a Woman"
     },
     {
-     "id": 3020,
+     "id": 3028,
      "title": "The Waking"
     }
    ],
@@ -48740,23 +48843,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2964,
+     "id": 2972,
      "title": "Black Jackets"
     },
     {
-     "id": 2966,
+     "id": 2974,
      "title": "From the Wave"
     },
     {
-     "id": 2965,
+     "id": 2973,
      "title": "My Sad Captains"
     },
     {
-     "id": 2967,
+     "id": 2975,
      "title": "Still Life"
     },
     {
-     "id": 2968,
+     "id": 2976,
      "title": "The Missing"
     }
    ],
@@ -51719,7 +51822,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2984,
+     "id": 2992,
      "title": "One Out of Many"
     }
    ],
@@ -52018,7 +52121,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3017,
+     "id": 3025,
      "title": "Signs and Symbols"
     }
    ],
@@ -52283,7 +52386,7 @@
      "title": "Another Time"
     },
     {
-     "id": 2936,
+     "id": 2944,
      "title": "In Praise of Limestone"
     },
     {
@@ -52303,7 +52406,7 @@
      "title": "The Orators: An English Study"
     },
     {
-     "id": 2937,
+     "id": 2945,
      "title": "The Shield of Achilles"
     }
    ],
@@ -56693,7 +56796,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2985,
+     "id": 2993,
      "title": "Death and the King's Horseman"
     }
    ],
@@ -59224,7 +59327,7 @@
    ]
   },
   {
-   "id": 3008,
+   "id": 3016,
    "title": "7, Middagh Street",
    "altTitles": [],
    "authorship": "single",
@@ -59543,7 +59646,7 @@
    ]
   },
   {
-   "id": 2908,
+   "id": 2916,
    "title": "A Brighter Sun",
    "altTitles": [],
    "authorship": "single",
@@ -59597,7 +59700,7 @@
    ]
   },
   {
-   "id": 2941,
+   "id": 2949,
    "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
    "altTitles": [
     "A Bronzeville Mother Loiters in Mississippi"
@@ -60257,7 +60360,7 @@
    ]
   },
   {
-   "id": 3043,
+   "id": 3051,
    "title": "A Conversation with My Father",
    "altTitles": [],
    "authorship": "single",
@@ -61298,7 +61401,7 @@
    ]
   },
   {
-   "id": 2969,
+   "id": 2977,
    "title": "A Far Cry from Africa",
    "altTitles": [],
    "authorship": "single",
@@ -66703,7 +66806,7 @@
    ]
   },
   {
-   "id": 3047,
+   "id": 3055,
    "title": "A Step Away from Them",
    "altTitles": [],
    "authorship": "single",
@@ -66808,7 +66911,7 @@
    ]
   },
   {
-   "id": 3028,
+   "id": 3036,
    "title": "A Streetcar Named Desire",
    "altTitles": [],
    "authorship": "single",
@@ -73923,7 +74026,7 @@
    ]
   },
   {
-   "id": 2909,
+   "id": 2917,
    "title": "An Island Is a World",
    "altTitles": [],
    "authorship": "single",
@@ -74629,7 +74732,7 @@
    ]
   },
   {
-   "id": 3006,
+   "id": 3014,
    "title": "Anseo",
    "altTitles": [],
    "authorship": "single",
@@ -75294,6 +75397,59 @@
     "The Cambridge Companion to Milton, 2nd edition",
     "The Complete Poetry and Essential Prose of John Milton",
     "The Norton Anthology of English Literature, 10th edition, Volume C: Restoration and the Eighteenth Century"
+   ]
+  },
+  {
+   "id": 2898,
+   "title": "Ariel",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (ten tercets with a closing single line)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Ariel' was written on 27 October 1962, Plath's thirtieth birthday, and first published in Ariel (Faber and Faber, 1965), the collection that took its title from it. Ten tercets and a single closing line describe a dawn horse ride: 'Stasis in darkness. / Then the substanceless blue / Pour of tor and distances.' The rider becomes one with the horse, then with the drive itself - 'God's lioness', 'White / Godiva', 'the arrow, / The dew that flies / Suicidal' - and the poem ends in 'the red / Eye, the cauldron of morning'. It is Plath's most concentrated lyric and the one that gives its name to the whole of her late work.",
+   "summary": "The poem opens in stillness and darkness, then in the 'substanceless blue' of distance and the 'Pour of tor and distances' - the tors of Dartmoor. The rider and horse grow one: 'God's lioness, / How one we grow, / Pivot of heels and knees! - The furrow // Splits and passes, sister to / The brown arc / Of the neck I cannot catch'. Berries cast dark hooks, 'Black sweet blood mouthfuls'; something else 'hauls me through air - / Thighs, hair; / Flakes from my heels'. The rider becomes 'White / Godiva', unpeeling 'Dead hands, dead stringencies', then 'Foam to wheat, a glitter of seas'; the child's cry 'melts in the wall'; and the last four stanzas give the poem its terrible speed: 'And I / Am the arrow, // The dew that flies / Suicidal, at one with the drive / Into the red // Eye, the cauldron of morning.'",
+   "plot": "'Ariel' compresses the whole of Plath's late manner into thirty-one lines. It begins with a stasis that is also an unmaking - darkness, then a blue with no substance - and every stage of the ride is a further shedding: the rider loses the horse's neck, then her dead 'stringencies', then her body, until the only thing left is motion. The poem's pronouns matter: 'I cannot catch' and 'I unpeel' give way to 'And I / Am the arrow', a predication rather than an action, so that the self at the end is not a rider but the ride. The images are drawn from the stable, the harvest and the Christian martyrdom - God's lioness, Godiva, the dew, the red eye - and they are held in tercets whose line breaks keep interrupting the sentence at the point of greatest speed. The famous 'Suicidal' is both literal and descriptive of the drive: the poem was written on Plath's birthday, five months after her separation, and it is hard not to read the line biographically; but within the poem it names the impersonality the whole ride has been reaching for. The poem's extraordinary economy is worth stating plainly: in thirty-one lines it moves through five distinct states - stasis, the blue of distance, the merging with the horse, the shedding of the rider's body, and the final identification with the arrow - and it does so without a single connective to explain the transitions. Plath wrote it on her thirtieth birthday, and the coincidence of the birthday with the poem's theme of rebirth has governed its reception; but the poem's own logic is not the logic of an autobiography. It is the logic of a ride, in which the rider's will is progressively handed over to the animal's speed, and the last line arrives at a colour - red - that is also the colour of the sun and of blood, and a word, 'cauldron', that belongs to the kitchen and to witchcraft at once.",
+   "significance": "'Ariel' is the poem that named the most influential posthumous collection in modern English poetry, and its title has become the shorthand for Plath's late manner; it is a set text in the teaching of twentieth-century lyric and the poem most often used to demonstrate her mastery of the short, driven stanza.",
+   "meter": "Extremely compressed free verse with a strong, almost chant-like rhythm; heavy alliteration and assonance ('substanceless blue', 'Pivot of heels and knees'); ellipsis and parataxis, with verbs often omitted; a diction that is archaic and liturgical ('God's lioness', 'Godiva', 'stringencies') set against the physical detail of the ride; and a closing image of pure colour.",
+   "context": "Written on 27 October 1962, Plath's thirtieth birthday, at Court Green; 'Ariel' was the name of the horse she rode at a riding school on Dartmoor, and Ted Hughes recorded that she had ridden a bolting horse as a student at Cambridge. The poem was first published in Ariel (London: Faber and Faber, 1965) and gives the collection its title; in the restored edition of 2004 it stands in the middle of Plath's own sequence, where she had placed it.",
+   "characters": "",
+   "structure": "Ten unrhymed tercets and a single closing line, each stanza a breath-length unit with the sentence running across the breaks; the movement is chronological (darkness to sunrise) but the stages are metamorphic rather than narrative, and the final line stands alone as the arrival the whole poem has been riding towards.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Ariel (Poetry Foundation poem page)",
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Sylvia Plath (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -76071,7 +76227,7 @@
    ]
   },
   {
-   "id": 3023,
+   "id": 3031,
    "title": "At the Fishhouses",
    "altTitles": [],
    "authorship": "single",
@@ -79064,7 +79220,7 @@
    ]
   },
   {
-   "id": 2964,
+   "id": 2972,
    "title": "Black Jackets",
    "altTitles": [],
    "authorship": "single",
@@ -79113,7 +79269,7 @@
    ]
   },
   {
-   "id": 3053,
+   "id": 3061,
    "title": "Black Mother Woman",
    "altTitles": [],
    "authorship": "single",
@@ -79327,6 +79483,59 @@
     "Oxford Dictionary of National Biography",
     "The Cambridge Companion to British Romanticism",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period"
+   ]
+  },
+  {
+   "id": 2895,
+   "title": "Blackberrying",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1962",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (three long free-verse stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Blackberrying' was written on 23 September 1961 at Court Green and first published in The New Yorker of 15 September 1962, which makes it the one Norton selection of Plath's that appeared in a periodical in her lifetime and the only one with a first printing before the posthumous books. Three long unrhymed stanzas follow a walk down a lane between blackberry hedges towards a sea that may or may not appear; what begins as a nature poem about abundance turns, at the last hook of the lane, into a poem about nothing at all - 'a great space / Of white and pewter lights'.",
+   "summary": "The first stanza establishes the lane: 'Nobody in the lane, and nothing, nothing but blackberries', on either side, 'a blackberry alley, going down in hooks, and a sea / Somewhere at the end of it, heaving'. The berries are 'big as the ball of my thumb, and dumb as eyes', fat with 'blue-red juices' that squander themselves on the picker's fingers; the picker had not asked for 'such a blood sisterhood' and packs the fruit into a milk bottle. Overhead the choughs go 'in black, cacophonous flocks - / Bits of burnt paper wheeling in a blown sky', the only voice, 'protesting, protesting'; and the picker doubts the sea will appear at all. The second stanza reaches a bush so ripe it is 'a bush of flies', their blue-green bellies and wing panes hung 'in a Chinese screen', stunned by the honey of the berries into believing in heaven. The third: one more hook and the berries and bushes end; a wind funnels between two hills, slapping 'its phantom laundry' in the face; the hills are too green and sweet to have tasted salt; the sheep path leads to the hills' northern face, 'orange rock / That looks out on nothing, nothing but a great space / Of white and pewter lights, and a din like silversmiths / Beating and beating at an intractable metal'.",
+   "plot": "The poem is built as a walk with three stages, and each stage is a different relation between the eye and what it sees. In the lane the world is all nearness and excess: the berries push themselves into the hand, stain it, and ask to be eaten or carried home, and the only sound is the picker's own; the choughs are the first warning, a voice that protests without saying what. At the flies' bush the abundance becomes a parody of communion - the insects drunk on the fruit, 'they believe in heaven' - and the poem's irony is at its driest. Then the lane ends, and the third stage reverses everything: the hills are too sweet to have known the sea, the wind is a laundry slapped in the face, and the view from the northern face is not a prospect but a void. The famous last line gives that void a sound - a din 'like silversmiths / Beating and beating at an intractable metal' - which is the sound of work that will not be finished, and the poem ends there, without consolation, having travelled from plenitude to vacancy in twenty-seven lines.",
+   "significance": "'Blackberrying' is the best known of Plath's English landscape poems and the one most often used to show that her gift was not confined to the confessional mode; it is a standing exhibit in discussions of postwar nature poetry, and its last line is among the most frequently quoted in her work.",
+   "meter": "Long free-verse lines with a heavy, list-like syntax and internal rhyming ('big as the ball of my thumb, and dumb as eyes'); a diction drawn from the kitchen, the market and the workshop; similes that turn the natural world into manufactured objects ('a Chinese screen', 'phantom laundry', 'an intractable metal'); and a refusal of the closing image that a nature poem is expected to supply.",
+   "context": "Written on 23 September 1961 at Court Green, North Tawton, and published in The New Yorker for 15 September 1962, during Plath's lifetime and a few weeks before the poems of October 1962 changed her manner completely. It was not in the 1965 Ariel; it was collected in Crossing the Water (1971) and then in The Collected Poems (1981). The Devon lane, the blackberry hedges and the walk to the coast belong to the same landscape as 'Letter in November' and 'Winter Trees'.",
+   "characters": "",
+   "structure": "Three long unrhymed stanzas of nine, eight and ten lines, each a single sentence extended by commas and semicolons; the walk supplies the structure, and the repeated phrase 'nothing, nothing' at the opening and near the close marks the symmetry of the emptiness at either end.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Free Verse",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Pastoral and Rural Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Land, place and regional belonging",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Blackberrying (Poetry Foundation poem page)",
+    "Blackberrying, The New Yorker, 15 September 1962 (newyorker.com archive)",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Sylvia Plath (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -80737,7 +80946,7 @@
    ]
   },
   {
-   "id": 2951,
+   "id": 2959,
    "title": "Calypso",
    "altTitles": [],
    "authorship": "single",
@@ -81593,7 +81802,7 @@
    ]
   },
   {
-   "id": 2990,
+   "id": 2998,
    "title": "Casualty",
    "altTitles": [],
    "authorship": "single",
@@ -82665,6 +82874,58 @@
    ]
   },
   {
+   "id": 2901,
+   "title": "Child",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1971",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (eight lines in two sentences)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Child' was written on 28 January 1963, two weeks before Plath's death, and was not printed in Ariel; it first appeared in Winter Trees (Faber and Faber, 1971). Eight lines address the child's 'clear eye' as 'the one absolutely beautiful thing', and the poem asks to fill it with 'color and ducks, / The zoo of the new', before closing on the single word 'Wringing' and the line 'Your clear eye is the one absolutely beautiful thing.' It is the last of Plath's poems about her children and the shortest of the Norton selections.",
+   "summary": "The poem in full: 'Your clear eye is the one absolutely beautiful thing. / I want to fill it with color and ducks, / The zoo of the new // Whose name you meditate - / April snowdrop, Indian pipe, / Little // Stalk without wrinkle, / Pool in which images / Should be grand and classical, not this troublous // Wringing of hands, this dark / Ceiling without a star.' Its two sentences move from the child's eye as the one beautiful thing to the adult's 'troublous / Wringing of hands' and the 'dark / Ceiling without a star' that the child's eye is reflecting, and the poem's whole argument is carried by the contrast between the zoo of the new and the room in which it is being imagined.",
+   "plot": "'Child' is a poem of two rooms. The first is the child's eye, which the mother wants to fill with the names of flowers and animals; the second is the room they are actually in, with its dark ceiling and the mother's wringing hands. The poem's movement is from the wish to the admission, and its brevity is the point: there is no time, and no room, for anything between them. Plath wrote it on 28 January 1963, a fortnight before her death, and it belongs with 'Edge' and 'Words' to the last week's poems; the tenderness is undiminished and the despair is unargued, and the poem ends not on the child's eye but on the ceiling it is reflecting.",
+   "significance": "'Child' is the best known of Plath's poems about her children after 'Morning Song' and the one most often set beside it to show how far the two years between them had taken her; it is a standard anthology poem and its opening line is among the most quoted in her work.",
+   "meter": "Extremely short free-verse lines with a high proportion of monosyllables; a diction of flowers and animals ('snowdrop', 'Indian pipe', 'ducks') set against a diction of the sickroom ('troublous', 'Wringing', 'dark'); a single long sentence interrupted by a dash; and an almost entire absence of the figurative language that the rest of the late poems rely on.",
+   "context": "Written on 28 January 1963 at Fitzroy Road, London, two weeks before Plath's death, and not included in the 1965 Ariel; first published in Winter Trees (London: Faber and Faber, 1971) and reprinted in The Collected Poems (1981). Its subject is Plath's son Nicholas, born in January 1962, and it belongs to the last group of poems in which she wrote about her children.",
+   "characters": "",
+   "structure": "Eight unrhymed short lines, run as two sentences across four and four, with the poem turning at 'not this troublous' and the last two lines falling into the dark ceiling; there is no stanza division, so the turn is carried entirely by syntax.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Sylvia Plath (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "Winter Trees, first edition (Faber and Faber, 1971), bookseller records"
+   ]
+  },
+  {
    "id": 1171,
    "title": "Childe Harold's Pilgrimage, Canto the Fourth",
    "altTitles": [],
@@ -83626,7 +83887,7 @@
    ]
   },
   {
-   "id": 2922,
+   "id": 2930,
    "title": "Church Going",
    "altTitles": [],
    "authorship": "single",
@@ -83676,7 +83937,7 @@
    ]
   },
   {
-   "id": 2979,
+   "id": 2987,
    "title": "Civil Peace",
    "altTitles": [],
    "authorship": "single",
@@ -83946,7 +84207,7 @@
    ]
   },
   {
-   "id": 2992,
+   "id": 3000,
    "title": "Clearances",
    "altTitles": [],
    "authorship": "single",
@@ -84147,7 +84408,7 @@
    ]
   },
   {
-   "id": 3051,
+   "id": 3059,
    "title": "Coal",
    "altTitles": [],
    "authorship": "single",
@@ -84832,7 +85093,7 @@
    ]
   },
   {
-   "id": 2949,
+   "id": 2957,
    "title": "Colonization in Reverse",
    "altTitles": [],
    "authorship": "single",
@@ -86389,7 +86650,7 @@
    ]
   },
   {
-   "id": 2994,
+   "id": 3002,
    "title": "Corniche",
    "altTitles": [],
    "authorship": "single",
@@ -86672,7 +86933,7 @@
    ]
   },
   {
-   "id": 2900,
+   "id": 2908,
    "title": "Critical Essays",
    "altTitles": [
     "Dickens, Dali and Others: Studies in Popular Culture"
@@ -86945,7 +87206,7 @@
    ]
   },
   {
-   "id": 2978,
+   "id": 2986,
    "title": "Crow Tyrannosaurus",
    "altTitles": [],
    "authorship": "single",
@@ -86994,7 +87255,7 @@
    ]
   },
   {
-   "id": 2977,
+   "id": 2985,
    "title": "Crow's Last Stand",
    "altTitles": [],
    "authorship": "single",
@@ -87388,7 +87649,7 @@
    ]
   },
   {
-   "id": 3018,
+   "id": 3026,
    "title": "Cuttings",
    "altTitles": [],
    "authorship": "single",
@@ -87437,7 +87698,7 @@
    ]
   },
   {
-   "id": 3019,
+   "id": 3027,
    "title": "Cuttings (later)",
    "altTitles": [],
    "authorship": "single",
@@ -87646,6 +87907,59 @@
    "sources": [
     "The Anglo-Saxon Poetic Records: A Collective Edition",
     "The Norton Anthology of English Literature, 10th edition, Volume A: The Middle Ages"
+   ]
+  },
+  {
+   "id": 2899,
+   "title": "Daddy",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (sixteen quintains with irregular rhyme)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Daddy' was written on 12 October 1962, a day after 'The Applicant' and one month after Plath's separation from Ted Hughes, and first published in Ariel (Faber and Faber, 1965). Its sixteen quintains address the father who died when she was eight, and they move through idolatry, German and Polish memory, the Nazi and the Jew, the blackboard and the black telephone, to the vampire staked in the heart and the last line, 'Daddy, daddy, you bastard, I'm through.' The rhyme is carried by the long 'oo' vowel that closes most of the stanzas, so that the poem sounds like a nursery rhyme while it performs a symbolic murder.",
+   "summary": "The first quintain establishes the address and the image: 'You do not do, you do not do / Any more, black shoe / In which I have lived like a foot / For thirty years, poor and white, / Barely daring to breathe or Achoo.' The second: 'Daddy, I have had to kill you. / You died before I had time', and the father is a 'Marble-heavy, a bag full of God, / Ghastly statue with one gray toe / Big as a Frisco seal'. The poem goes to the German tongue and the Polish town 'scraped flat by the roller / Of wars', to the father's 'Ach, du', and to the speaker's inability to speak: 'The tongue stuck in my jaw. / It stuck in a barb wire snare. / Ich, ich, ich, ich, / I could hardly speak.' Every German was the father, and the language 'an engine, an engine / Chuffing me off like a Jew', 'A Jew to Dachau, Auschwitz, Belsen'. The middle stanzas give the father as 'Panzer-man', 'Not God but a swastika', and the notorious line 'Every woman adores a Fascist'. Then the photograph on the blackboard, the cleft chin, the father as 'the black man who / Bit my pretty red heart in two'; the burial when she was ten, the attempted suicide at twenty ('And get back, back, back to you'), the glue that stuck her together; the model of the father made in a husband, 'A man in black with a Meinkampf look // And a love of the rack and the screw', and the marriage vow, 'And I said I do, I do.' The close cuts the black telephone off at the root, and ends: 'There's a stake in your fat black heart / And the villagers never liked you... Daddy, daddy, you bastard, I'm through.'",
+   "plot": "'Daddy' is a poem of exorcism built on a child's chant. Its engine is the long 'oo' rhyme - shoe, do, Achoo, you, blue, two, through - which recurs in most of the sixteen quintains and gives the poem the momentum of a skipping game even at its most violent. Against that music Plath sets a sequence of increasingly extreme identifications: the father as black shoe, as statue, as Nazi, as vampire; the daughter as foot, as Jew, as the one who made a model of him and married it. The poem's controversial middle - the camps, the swastika, 'Every woman adores a Fascist' - is not decoration but the logic of the child's overestimation: if the father was everything, he was also the state, the army and the executioner, and the only way to be free of him is to make him a monster and then kill the monster. The last movement turns from the father to the husband who replaced him, and the closing 'I'm through' is at once a telephone disconnection and a declaration that the poem is finished and the mourning with it. The poem's formal signature is the vowel rhyme, and it is worth naming what it does: because the rhyme is carried by a single sound and not by a pattern of consonants, the stanzas feel both closed and endlessly repeatable, like the verses of a counting-out game, and the reader is carried from one enormity to the next on a rhythm that will not let them stop to object. That is the poem's ethical problem and its technical achievement at the same moment. The sixteen quintains are also a history in miniature: the father's death, the town in Poland, the train to the camps, the photograph on the blackboard, the suicide attempt at twenty, the husband made in the father's image, and the stake through the heart - each a scene the poem will not explain, arranged in the order a child might remember them rather than the order an analyst would reconstruct.",
+   "significance": "'Daddy' is the most famous poem Plath wrote and one of the most anthologised poems in English of the twentieth century; it is a set text wherever confessional poetry is taught, and its use of Holocaust imagery has made it a permanent case in the ethics of poetic metaphor.",
+   "meter": "Short trimeter and dimeter lines in quintains, with a rhyme scheme carried by the 'oo' vowel rather than by exact rhyme; a diction that mixes the nursery ('Achoo', 'black shoe') with German and with the machinery of war; heavy repetition ('back, back, back', 'ich, ich, ich, ich'); and a tone that shifts without transition between the child's and the executioner's.",
+   "context": "Written on 12 October 1962 at Court Green, a day after 'The Applicant' and a month after Hughes's departure; first published in Ariel (London: Faber and Faber, 1965). Otto Plath, born in Grabow in Prussia, died of undiagnosed diabetes in November 1940, when Plath was eight; the poem's Polish town and its German are his, and the 'gipsy ancestress' is a family story. Plath read 'Daddy' on the BBC in October 1962, and it is the poem most often cited in the argument about the editing of Ariel.",
+   "characters": "",
+   "structure": "Sixteen unrhymed quintains (the first and last of five lines, with an extra section break before the final three stanzas), held together by a single vowel rhyme that returns at the end of most stanzas; the movement is from the father's death to the attempt to recover him to the husband who replaces him, and the last three stanzas stage the exorcism.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Formal Verse"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "The Holocaust, atrocity and historical memory"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Daddy (Poetry Foundation poem page)",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Sylvia Plath (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -88953,7 +89267,7 @@
    ]
   },
   {
-   "id": 2985,
+   "id": 2993,
    "title": "Death and the King's Horseman",
    "altTitles": [],
    "authorship": "single",
@@ -89004,7 +89318,7 @@
    ]
   },
   {
-   "id": 2999,
+   "id": 3007,
    "title": "Death by Landscape",
    "altTitles": [],
    "authorship": "single",
@@ -89217,7 +89531,7 @@
    ]
   },
   {
-   "id": 3033,
+   "id": 3041,
    "title": "Death of a Salesman",
    "altTitles": [],
    "authorship": "single",
@@ -89439,7 +89753,7 @@
    ]
   },
   {
-   "id": 2953,
+   "id": 2961,
    "title": "Decolonising the Mind",
    "altTitles": [
     "Decolonising the Mind: The Politics of Language in African Literature"
@@ -90503,7 +90817,7 @@
    ]
   },
   {
-   "id": 2987,
+   "id": 2995,
    "title": "Digging",
    "altTitles": [],
    "authorship": "single",
@@ -90717,7 +91031,7 @@
    ]
   },
   {
-   "id": 2954,
+   "id": 2962,
    "title": "Discourse on the Logic of Language",
    "altTitles": [],
    "authorship": "single",
@@ -91128,7 +91442,7 @@
    ]
   },
   {
-   "id": 2948,
+   "id": 2956,
    "title": "Do Not Go Gentle into That Good Night",
    "altTitles": [],
    "authorship": "single",
@@ -92939,7 +93253,7 @@
    ]
   },
   {
-   "id": 2919,
+   "id": 2927,
    "title": "Eldorado West One",
    "altTitles": [],
    "authorship": "single",
@@ -93179,7 +93493,7 @@
    ]
   },
   {
-   "id": 3021,
+   "id": 3029,
    "title": "Elegy for Jane",
    "altTitles": [],
    "authorship": "single",
@@ -93359,7 +93673,7 @@
    ]
   },
   {
-   "id": 2963,
+   "id": 2971,
    "title": "Elements of Composition",
    "altTitles": [],
    "authorship": "single",
@@ -95054,7 +95368,7 @@
    ]
   },
   {
-   "id": 2957,
+   "id": 2965,
    "title": "Epilogue",
    "altTitles": [],
    "authorship": "single",
@@ -98301,7 +98615,7 @@
    ]
   },
   {
-   "id": 3010,
+   "id": 3018,
    "title": "First Screening",
    "altTitles": [],
    "authorship": "single",
@@ -98774,7 +99088,7 @@
    ]
   },
   {
-   "id": 3002,
+   "id": 3010,
    "title": "Fond Memory",
    "altTitles": [],
    "authorship": "single",
@@ -98824,7 +99138,7 @@
    ]
   },
   {
-   "id": 3039,
+   "id": 3047,
    "title": "For Esmé—with Love and Squalor",
    "altTitles": [],
    "authorship": "single",
@@ -98874,7 +99188,7 @@
    ]
   },
   {
-   "id": 3038,
+   "id": 3046,
    "title": "For the Union Dead",
    "altTitles": [],
    "authorship": "single",
@@ -98976,7 +99290,7 @@
    ]
   },
   {
-   "id": 2920,
+   "id": 2928,
    "title": "Foreday Morning: Selected Prose 1946-1986",
    "altTitles": [],
    "authorship": "single",
@@ -99771,7 +100085,7 @@
    ]
   },
   {
-   "id": 2966,
+   "id": 2974,
    "title": "From the Wave",
    "altTitles": [],
    "authorship": "single",
@@ -101220,7 +101534,7 @@
    ]
   },
   {
-   "id": 2926,
+   "id": 2934,
    "title": "Going, Going",
    "altTitles": [],
    "authorship": "single",
@@ -103088,7 +103402,7 @@
    ]
   },
   {
-   "id": 3041,
+   "id": 3049,
    "title": "Harrison Bergeron",
    "altTitles": [],
    "authorship": "single",
@@ -103241,7 +103555,7 @@
    ]
   },
   {
-   "id": 3049,
+   "id": 3057,
    "title": "Having a Coke with You",
    "altTitles": [],
    "authorship": "single",
@@ -104796,7 +105110,7 @@
    ]
   },
   {
-   "id": 2925,
+   "id": 2933,
    "title": "High Windows (poem)",
    "altTitles": [],
    "authorship": "single",
@@ -104900,7 +105214,7 @@
    ]
   },
   {
-   "id": 2921,
+   "id": 2929,
    "title": "Highway in the Sun and Other Plays",
    "altTitles": [],
    "authorship": "single",
@@ -105581,7 +105895,7 @@
    ]
   },
   {
-   "id": 2950,
+   "id": 2958,
    "title": "History of the Voice",
    "altTitles": [
     "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry"
@@ -105699,7 +106013,7 @@
    ]
   },
   {
-   "id": 2928,
+   "id": 2936,
    "title": "Homage to a Government",
    "altTitles": [],
    "authorship": "single",
@@ -106448,7 +106762,7 @@
    ]
   },
   {
-   "id": 3016,
+   "id": 3024,
    "title": "Hullabaloo in the Guava Orchard",
    "altTitles": [],
    "authorship": "single",
@@ -107494,7 +107808,7 @@
    ]
   },
   {
-   "id": 2913,
+   "id": 2921,
    "title": "I Hear Thunder",
    "altTitles": [],
    "authorship": "single",
@@ -107545,7 +107859,7 @@
    ]
   },
   {
-   "id": 3022,
+   "id": 3030,
    "title": "I Knew a Woman",
    "altTitles": [],
    "authorship": "single",
@@ -108106,7 +108420,7 @@
    ]
   },
   {
-   "id": 2956,
+   "id": 2964,
    "title": "Imaginary Homelands",
    "altTitles": [
     "Imaginary Homelands: Essays and Criticism 1981-1991"
@@ -108703,7 +109017,7 @@
    ]
   },
   {
-   "id": 2980,
+   "id": 2988,
    "title": "In Memory of Jane Fraser",
    "altTitles": [],
    "authorship": "single",
@@ -108752,7 +109066,7 @@
    ]
   },
   {
-   "id": 3050,
+   "id": 3058,
    "title": "In Memory of My Feelings",
    "altTitles": [],
    "authorship": "single",
@@ -108913,7 +109227,7 @@
    ]
   },
   {
-   "id": 2936,
+   "id": 2944,
    "title": "In Praise of Limestone",
    "altTitles": [],
    "authorship": "single",
@@ -109110,7 +109424,7 @@
    ]
   },
   {
-   "id": 3026,
+   "id": 3034,
    "title": "In the Waiting Room",
    "altTitles": [],
    "authorship": "single",
@@ -109516,7 +109830,7 @@
    ]
   },
   {
-   "id": 2960,
+   "id": 2968,
    "title": "Inglan Is a Bitch",
    "altTitles": [],
    "authorship": "single",
@@ -110810,7 +111124,7 @@
    ]
   },
   {
-   "id": 2901,
+   "id": 2909,
    "title": "James Burnham and the Managerial Revolution",
    "altTitles": [
     "Second Thoughts on James Burnham"
@@ -113670,6 +113984,60 @@
    ]
   },
   {
+   "id": 2897,
+   "title": "Lady Lazarus",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (twenty-eight tercet stanzas in free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Lady Lazarus' was written between 23 and 29 October 1962 and first published in Ariel (Faber and Faber, 1965). It is a dramatic monologue spoken by a woman who has died and come back three times, addressing 'Herr Doktor', 'Herr Enemy' and finally 'Herr God, Herr Lucifer' from the stage of a public spectacle; its twenty-eight tercets end with the most quoted lines Plath wrote: 'Out of the ash / I rise with my red hair / And I eat men like air.' The poem fuses the biblical Lazarus who was raised from the dead with the myth of the phoenix and with the imagery of the concentration camp, and it is the boldest of the poems in which she made her own suffering into theatre.",
+   "summary": "The speaker begins by boasting that she has 'done it again', once every ten years, and describes herself as 'a sort of walking miracle' with skin 'bright as a Nazi lampshade' and a face 'a featureless, fine / Jew linen'. She invites the crowd to 'peel off the napkin', asks 'Do I terrify?', and catalogues her body - nose, eye pits, teeth, sour breath - before promising that the flesh the grave ate will be at home on her again and she will be 'a smiling woman'. She is 'only thirty' and has, like a cat, nine times to die: 'This is Number Three.' The 'peanut-crunching crowd' shoves in to see her unwrapped 'hand and foot', the 'big strip tease'; she displays her hands and knees and insists that she is 'the same, identical woman'. The first death, at ten, was 'an accident'; the second she meant, rocking shut 'as a seashell' while they called and picked the worms off her 'like sticky pearls'. Then the poem's most famous turn: 'Dying / Is an art, like everything else. / I do it exceptionally well.' She does it 'so it feels like hell', 'so it feels real', and says, 'I guess you could say I've a call.' The comeback in broad day is 'the theatrical' - 'A miracle!' - and there is a charge for the eyeing of her scars, for the hearing of her heart, for 'a piece of my hair or my clothes'. The final movement addresses 'Herr Doktor' and 'Herr Enemy' - 'I am your opus, / I am your valuable, / The pure gold baby / That melts to a shriek' - and passes through ash and bone ('A cake of soap, / A wedding ring, / A gold filling') to the last three stanzas, in which she warns 'Herr God, Herr Lucifer' to beware and rises from the ash with her red hair to eat men like air.",
+   "plot": "'Lady Lazarus' is a resurrection poem told from the wrong side of the miracle. Its speaker has not been restored to life but put back on display, and she understands that her deaths have made her valuable: the crowd pays to see the scars, the doctors own the case, and even God and Lucifer are addressed as rival proprietors of the exhibit. The poem's triple structure - the parade of the body, the history of three deaths, and the revenge - is held in tercets so short that each stanza lands like a beat, and the rhyme is carried by the vowel rather than by the line end, giving the whole a nursery-rhyme jauntiness that makes the horror harder to refuse. The Holocaust imagery is the most contested thing in it: the lampshade, the Jew linen, the soap and the gold filling are images of what the camps made of human bodies, and Plath uses them to describe what has been made of hers. The poem does not apologise for the comparison or explain it, and the last stanza refuses consolation altogether: the speaker does not rise into heaven but into appetite, 'and I eat men like air'. The poem's rhetoric is that of the stage, and it is worth being exact about the audience: the 'peanut-crunching crowd' is not a metaphor for readers but for the spectators of a miracle, and the speaker's complaint is that her suffering has been converted into a spectacle that pays. That is why the poem's revenge is also a claim about art: to 'eat men like air' is to become the thing that consumes rather than the thing consumed, and the closing image is deliberately less consoling than triumphant.",
+   "significance": "'Lady Lazarus' is one of the two or three poems by which Plath is known, and its closing lines are among the most recognised in twentieth-century English poetry; it is central to the feminist criticism of the 1970s that made Plath a public figure, to the study of confessional writing, and to the continuing argument about the uses of Holocaust imagery in postwar literature.",
+   "meter": "Very short lines, often of two or three words, with heavy internal rhyme and assonance ('Do I terrify?', 'the peanut-crunching crowd'); a diction that mixes the circus barker, the medical report and the nursery rhyme; direct address used as a weapon; and a use of proper names - Lazarus, God, Lucifer - that keeps the poem at the scale of myth even when it is most confessional.",
+   "context": "Written between 23 and 29 October 1962 at Court Green, in the weeks after the break-up of Plath's marriage and in the middle of the sequence of poems, including 'Daddy' and 'Ariel', that made her late manner; first published in Ariel (London: Faber and Faber, 1965). Its 'Herr Doktor' belongs to the German and Austrian doctors of Plath's biography - her father Otto Plath's German origins and her own memories of the American hospital in which she was treated after her 1953 suicide attempt. The poem's Holocaust imagery was written in the knowledge of the Eichmann trial of 1961, and the argument about its propriety began almost as soon as the poem was published.",
+   "characters": "",
+   "structure": "Twenty-eight unrhymed tercets, mostly one sentence per stanza, with a refrain-like repetition of 'Herr' in the closing addresses and a movement from the public display of the first half to the private history of the second and the revenge of the last three stanzas; the poem has no stanza breaks beyond the tercet, so the escalation is continuous.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Free Verse"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Madness, breakdown and confinement",
+    "The Holocaust, atrocity and historical memory"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Lady Lazarus (Poetry Foundation poem page)",
+    "Sylvia Plath (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1217,
    "title": "Lady Susan",
    "altTitles": [],
@@ -115105,7 +115473,7 @@
    ]
   },
   {
-   "id": 2897,
+   "id": 2905,
    "title": "Les Blancs",
    "altTitles": [],
    "authorship": "single",
@@ -115262,7 +115630,7 @@
    ]
   },
   {
-   "id": 2952,
+   "id": 2960,
    "title": "Letter SycoraX",
    "altTitles": [],
    "authorship": "single",
@@ -118076,7 +118444,7 @@
    ]
   },
   {
-   "id": 2996,
+   "id": 3004,
    "title": "Looking for a Rain God",
    "altTitles": [],
    "authorship": "single",
@@ -118126,7 +118494,7 @@
    ]
   },
   {
-   "id": 3032,
+   "id": 3040,
    "title": "Looking for Mr. Green",
    "altTitles": [],
    "authorship": "single",
@@ -122623,7 +122991,7 @@
    ]
   },
   {
-   "id": 2923,
+   "id": 2931,
    "title": "MCMXIV",
    "altTitles": [],
    "authorship": "single",
@@ -122897,7 +123265,7 @@
    ]
   },
   {
-   "id": 3014,
+   "id": 3022,
    "title": "Medusa",
    "altTitles": [],
    "authorship": "single",
@@ -122948,7 +123316,7 @@
    ]
   },
   {
-   "id": 3007,
+   "id": 3015,
    "title": "Meeting the British",
    "altTitles": [],
    "authorship": "single",
@@ -123371,7 +123739,7 @@
    ]
   },
   {
-   "id": 3036,
+   "id": 3044,
    "title": "Memories of West Street and Lepke",
    "altTitles": [],
    "authorship": "single",
@@ -123927,7 +124295,7 @@
    ]
   },
   {
-   "id": 3009,
+   "id": 3017,
    "title": "Milkweed and Monarch",
    "altTitles": [],
    "authorship": "single",
@@ -124414,7 +124782,7 @@
    ]
   },
   {
-   "id": 3000,
+   "id": 3008,
    "title": "Miss July Grows Older",
    "altTitles": [],
    "authorship": "single",
@@ -125460,7 +125828,60 @@
    ]
   },
   {
-   "id": 2993,
+   "id": 2894,
+   "title": "Morning Song",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1961",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (six tercet stanzas in free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Morning Song' is the poem with which Ariel opens, written on 19 February 1961, ten months after the birth of Plath's daughter Frieda, and first collected in Ariel (Faber and Faber, 1965). Six tercets follow a mother through the first hours of a night with a new baby: the child's cry, the mother's stumbling from bed, the window whitening towards morning, and the infant's 'handful of notes' rising 'like balloons'. It is the tenderest poem in the book and the one that most exactly states the book's argument about the self, since the mother announces that she is 'no more your mother / Than the cloud that distills a mirror to reflect its own slow / Effacement at the wind's hand'.",
+   "summary": "The poem begins in the register of an address to the newborn: 'Love set you going like a fat gold watch. / The midwife slapped your footsoles, and your bald cry / Took its place among the elements.' The second tercet answers the birth with a museum: 'New statue', the child's nakedness in a drafty museum, the family standing 'round blankly as walls'. The third rejects the title of mother in the metaphor of the cloud and the mirror, and the fourth turns to the night feeding, the baby's 'moth-breath' flickering 'among the flat pink roses', the mother waking to listen and hearing 'a far sea'. The fifth is the physical comedy of the nursing mother: 'One cry, and I stumble from bed, cow-heavy and floral / In my Victorian nightgown'; the baby's mouth opens 'clean as a cat's', the window whitens and swallows its dull stars. The last tercet gives the child the poem's title and its closing image: 'And now you try / Your handful of notes; / The clear vowels rise like balloons.'",
+   "plot": "'Morning Song' works by refusing the two obvious poems about a newborn - the lullaby and the confession of maternal inadequacy - and writing a third, in which the mother is a medium rather than an origin. Its movement is from sound to sound: the 'bald cry' of the first stanza, the echoing voices of the second, the 'moth-breath' and the 'far sea' of the fourth, and at last the child's own 'handful of notes'. Between them Plath places three images of detachment: the watch that love winds up, the statue in the museum, and the cloud that distils a mirror only to efface itself. The mother's body is then given back to her in the fifth stanza as something comic and animal - 'cow-heavy and floral' - and the poem's final gesture is generous because it is not sentimental: the child's vowels are balloons because they rise, and because they are loosed from the hand that made them. The tercets are unrhymed but not shapeless; the line breaks fall in the middle of phrases, so that each stanza ends on an image rather than a statement, and the whole poem has the even, forward tread of a song sung while walking. It is worth noticing how little the poem asks of the reader: there is no allusion to decode, no proper name, and the only difficulty is the emotional one of a mother who says she is not a mother. The three images of detachment do the work that a confessional poem would do with confession - the watch, the statue and the cloud - and each of them is an image of something made and then left behind, which is what the poem thinks a child is, and what it fears a poem is too.",
+   "significance": "'Morning Song' is the poem that opens the most influential posthumous collection in twentieth-century English poetry, and it is the standard counter-example to the idea that Plath's late work is only a literature of extremity: anthologies of motherhood, of the family and of women's writing place it beside Sexton's 'Little Girl, My String Bean' and Sylvia's own later poems, and its cloud-and-mirror stanza is one of the most quoted statements in postwar poetry about what it means to make another person.",
+   "meter": "Free verse tercets with a loose, predominantly iambic tread and occasional rhyme heard inside the line ('watch' / 'slapped', 'floral' / 'cat's'); a diction that mixes the nursery ('fat gold watch', 'balloons') with the laboratory and the museum ('elements', 'statue', 'distills a mirror'); similes drawn from animals and weather; and a syntax that keeps the mother's 'I' in subordinate clauses, so that the child's cry has the grammatical initiative.",
+   "context": "Written on 19 February 1961 at Court Green, North Tawton, ten months after the birth of Frieda Plath on 1 April 1960, and two months after Plath had suffered a miscarriage (the subject of 'Barren Woman', written two days later). It was first collected as the opening poem of Ariel (London: Faber and Faber, 1965), in the text arranged by Ted Hughes after her death; the restored edition of 2004 keeps it in first place, where Plath herself had put it. Plath had read Robert Lowell's Life Studies in 1959 and studied in his Boston University seminar with Anne Sexton; the domestic intimacies of 'Morning Song' belong to the moment when American confessional poetry and the English lyric of the 1960s met.",
+   "characters": "",
+   "structure": "Six unrhymed tercets, each a complete sentence or a pair of sentences, with the line running on across the stanza break; the poem moves from birth (stanzas one to three) to night feeding (four and five) to dawn (six), and its last line is the shortest and the only one that names the child's utterance as the poem's subject.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Identity, authenticity and the divided self"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Ariel (Britannica entry)",
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Morning Song (Poetry Foundation poem page)",
+    "Sylvia Plath (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 3001,
    "title": "Morse",
    "altTitles": [],
    "authorship": "single",
@@ -125510,7 +125931,7 @@
    ]
   },
   {
-   "id": 2917,
+   "id": 2925,
    "title": "Moses Ascending",
    "altTitles": [],
    "authorship": "single",
@@ -125564,7 +125985,7 @@
    ]
   },
   {
-   "id": 2918,
+   "id": 2926,
    "title": "Moses Migrating",
    "altTitles": [],
    "authorship": "single",
@@ -126026,7 +126447,7 @@
    ]
   },
   {
-   "id": 3034,
+   "id": 3042,
    "title": "Mr. Edwards and the Spider",
    "altTitles": [],
    "authorship": "single",
@@ -126183,7 +126604,7 @@
    ]
   },
   {
-   "id": 3015,
+   "id": 3023,
    "title": "Mrs Lazarus",
    "altTitles": [],
    "authorship": "single",
@@ -127146,7 +127567,7 @@
    ]
   },
   {
-   "id": 2965,
+   "id": 2973,
    "title": "My Sad Captains",
    "altTitles": [],
    "authorship": "single",
@@ -127195,7 +127616,7 @@
    ]
   },
   {
-   "id": 3011,
+   "id": 3019,
    "title": "My Son the Fanatic",
    "altTitles": [],
    "authorship": "single",
@@ -128606,7 +129027,7 @@
    ]
   },
   {
-   "id": 3037,
+   "id": 3045,
    "title": "Night Sweat",
    "altTitles": [],
    "authorship": "single",
@@ -128881,7 +129302,7 @@
    ]
   },
   {
-   "id": 2903,
+   "id": 2911,
    "title": "Nineteen Eighty-Four",
    "altTitles": [
     "1984"
@@ -129357,7 +129778,7 @@
    ]
   },
   {
-   "id": 2946,
+   "id": 2954,
    "title": "Not Waving but Drowning",
    "altTitles": [],
    "authorship": "single",
@@ -132680,7 +133101,7 @@
    ]
   },
   {
-   "id": 2972,
+   "id": 2980,
    "title": "Omeros",
    "altTitles": [],
    "authorship": "single",
@@ -133270,7 +133691,7 @@
    ]
   },
   {
-   "id": 2934,
+   "id": 2942,
    "title": "On Not Shooting Sitting Birds",
    "altTitles": [],
    "authorship": "single",
@@ -133502,7 +133923,7 @@
    ]
   },
   {
-   "id": 3040,
+   "id": 3048,
    "title": "On the Road",
    "altTitles": [],
    "authorship": "single",
@@ -133602,7 +134023,7 @@
    ]
   },
   {
-   "id": 3027,
+   "id": 3035,
    "title": "One Art",
    "altTitles": [],
    "authorship": "single",
@@ -133653,7 +134074,7 @@
    ]
   },
   {
-   "id": 2984,
+   "id": 2992,
    "title": "One Out of Many",
    "altTitles": [],
    "authorship": "single",
@@ -134499,7 +134920,7 @@
    ]
   },
   {
-   "id": 2945,
+   "id": 2953,
    "title": "Our Bog Is Dood",
    "altTitles": [],
    "authorship": "single",
@@ -134822,7 +135243,7 @@
    ]
   },
   {
-   "id": 2975,
+   "id": 2983,
    "title": "Out",
    "altTitles": [],
    "authorship": "single",
@@ -136952,7 +137373,7 @@
    ]
   },
   {
-   "id": 3045,
+   "id": 3053,
    "title": "Personism: A Manifesto",
    "altTitles": [],
    "authorship": "single",
@@ -137929,7 +138350,7 @@
    ]
   },
   {
-   "id": 2974,
+   "id": 2982,
    "title": "Pike",
    "altTitles": [],
    "authorship": "single",
@@ -141374,7 +141795,7 @@
    ]
   },
   {
-   "id": 2931,
+   "id": 2939,
    "title": "Politics and the English Language",
    "altTitles": [],
    "authorship": "single",
@@ -143039,7 +143460,7 @@
    ]
   },
   {
-   "id": 2989,
+   "id": 2997,
    "title": "Punishment",
    "altTitles": [],
    "authorship": "single",
@@ -143354,7 +143775,7 @@
    ]
   },
   {
-   "id": 3024,
+   "id": 3032,
    "title": "Questions of Travel",
    "altTitles": [],
    "authorship": "single",
@@ -144576,7 +144997,7 @@
    ]
   },
   {
-   "id": 2981,
+   "id": 2989,
    "title": "Requiem for the Plantagenet Kings",
    "altTitles": [],
    "authorship": "single",
@@ -146861,7 +147282,7 @@
    ]
   },
   {
-   "id": 2927,
+   "id": 2935,
    "title": "Sad Steps",
    "altTitles": [],
    "authorship": "single",
@@ -148434,7 +148855,7 @@
    ]
   },
   {
-   "id": 2962,
+   "id": 2970,
    "title": "Self-Portrait",
    "altTitles": [],
    "authorship": "single",
@@ -148718,7 +149139,7 @@
    ]
   },
   {
-   "id": 2982,
+   "id": 2990,
    "title": "September Song",
    "altTitles": [],
    "authorship": "single",
@@ -149965,7 +150386,7 @@
    ]
   },
   {
-   "id": 2904,
+   "id": 2912,
    "title": "Shooting an Elephant and Other Essays",
    "altTitles": [],
    "authorship": "single",
@@ -150065,7 +150486,7 @@
    ]
   },
   {
-   "id": 3017,
+   "id": 3025,
    "title": "Signs and Symbols",
    "altTitles": [],
    "authorship": "single",
@@ -151140,7 +151561,7 @@
    ]
   },
   {
-   "id": 3035,
+   "id": 3043,
    "title": "Skunk Hour",
    "altTitles": [],
    "authorship": "single",
@@ -151192,7 +151613,7 @@
    ]
   },
   {
-   "id": 3042,
+   "id": 3050,
    "title": "Slaughterhouse-Five",
    "altTitles": [],
    "authorship": "single",
@@ -154199,7 +154620,7 @@
    ]
   },
   {
-   "id": 2991,
+   "id": 2999,
    "title": "Station Island",
    "altTitles": [],
    "authorship": "single",
@@ -154313,7 +154734,7 @@
    ]
   },
   {
-   "id": 2967,
+   "id": 2975,
    "title": "Still Life",
    "altTitles": [],
    "authorship": "single",
@@ -154772,7 +155193,7 @@
    ]
   },
   {
-   "id": 2905,
+   "id": 2913,
    "title": "Such, Such Were the Joys",
    "altTitles": [],
    "authorship": "single",
@@ -155040,7 +155461,7 @@
    ]
   },
   {
-   "id": 3031,
+   "id": 3039,
    "title": "Summertime and the Living . . .",
    "altTitles": [],
    "authorship": "single",
@@ -156103,7 +156524,7 @@
    ]
   },
   {
-   "id": 2924,
+   "id": 2932,
    "title": "Talking in Bed",
    "altTitles": [],
    "authorship": "single",
@@ -159198,6 +159619,60 @@
    ]
   },
   {
+   "id": 2896,
+   "title": "The Applicant",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1963",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (eight quintains in free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'The Applicant' was written on 11 October 1962, the day Ted Hughes left for London, and first published in The London Magazine in January 1963; it was collected in Ariel (1965). A salesman interviews a man who has come to be supplied with a wife, and the poem conducts the interview in the language of advertising and of the medical catalogue: 'Do you wear / A glass eye, false teeth or a crutch, / A brace or a hook, / Rubber breasts or a rubber crotch, / Stitches to show something's missing?' The wife, when she is produced, is 'a living doll' who 'can sew, it can cook, / It can talk, talk, talk', and the poem ends with the salesman's refrain, 'Will you marry it, marry it, marry it.'",
+   "summary": "The poem is an interrogation. The first three quintains ask whether the applicant is 'our sort of a person', listing prostheses and surgical repairs in the flat tones of a form; the fourth turns to the empty hand, and the salesman fills it: 'Here is a hand / To fill it and willing / To bring teacups and roll away headaches / And do whatever you tell it. / Will you marry it?' The fifth advertises the suit the wife is compared to - 'Black and stiff, but not a bad fit', waterproof, shatterproof, 'proof / Against fire and bombs through the roof' - and promises, 'Believe me, they'll bury you in it.' The sixth finds the applicant's head empty and produces 'the ticket for that', then calls the wife out of the closet: 'Come here, sweetie, out of the closet.' The seventh answers the objection that she is new with the wedding anniversaries: 'Naked as paper to start // But in twenty-five years she'll be silver, / In fifty, gold.' The eighth gives the catalogue of her functions - 'A living doll, everywhere you look. / It can sew, it can cook, / It can talk, talk, talk' - and the close: 'My boy, it's your last resort. / Will you marry it, marry it, marry it.'",
+   "plot": "The poem's method is to let a commercial voice describe a marriage and never interrupt it. Everything the salesman says is true to the language of advertising - the guarantees, the materials, the anniversary schedule, the promise that the product will outlast the buyer - and the horror comes from the fit between that language and the institution it is selling. The applicant is described as damaged stock, his missing parts catalogued as disqualifications; the wife is described as stock, 'naked as paper to start', blank for the husband to fill in, and then as the ideal employee, sewing, cooking, talking, with 'nothing wrong with it'. The poem's repetitions do the work of the refrain in a ballad: 'Will you marry it' returns five times, and the closing line triples it into a threat. Plath said that she wrote the poem as light verse, and its jaunty, nursery-rhymed surface is exactly what makes it difficult to dismiss: the reader is placed in the position of the customer who is being sold the arrangement the poem is condemning. The catalogue is also a precise piece of social observation: the glass eye, the false teeth, the crutch and the rubber limbs are the stock of the postwar rehabilitation hospital, and the wife's guarantees - waterproof, shatterproof, proof against fire and bombs - are the language of the civil-defence advertisement. Plath wrote the poem the day Hughes left, and its coldest move is to give the abandoning husband no line at all: he is the customer, and the poem's satire is aimed at the market that supplies him rather than at the man who complains.",
+   "significance": "'The Applicant' is Plath's most sustained satire and one of the founding texts of the feminist critique of marriage in postwar poetry; it is a standard anthology piece and the poem most often taught beside 'Daddy' to show that Plath's anger could be directed outward, at an institution, rather than only inward at her own family.",
+   "meter": "Short lines with a jaunty, heavily stressed rhythm close to doggerel; internal rhyme and alliteration ('Black and stiff, but not a bad fit'); diction lifted from advertising, insurance and medicine; the second person used as the salesman's instrument, so that the reader is addressed as the customer; and a refusal of metaphor in favour of the literal catalogue, which is the poem's central irony.",
+   "context": "Written on 11 October 1962, the day Ted Hughes left Court Green for London, and a day before 'Daddy'; first published in The London Magazine in January 1963, a month before Plath's death, and collected in Ariel (London: Faber and Faber, 1965). It belongs to the extraordinary sequence of October 1962 poems in which Plath's manner changed, and its subject - the wife as manufactured goods - belongs to the moment of Betty Friedan's The Feminine Mystique (1963) and of the postwar advertising boom that Friedan attacked.",
+   "characters": "",
+   "structure": "Eight unrhymed quintains in the voice of the salesman, with the applicant and the wife given no speech at all; the questions of the first half ('Will you marry it?') are answered by the catalogue of the second, and the poem's only progression is the escalation of the sales pitch, from enquiry to guarantee to threat.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Free Verse"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Technology, media and consumer society"
+   ],
+   "movements": [
+    "Confessional Poetry",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Sylvia Plath (Wikipedia)",
+    "The Applicant (Poetry Foundation poem page)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2464,
    "title": "The Aran Islands",
    "altTitles": [
@@ -159254,7 +159729,7 @@
    ]
   },
   {
-   "id": 3025,
+   "id": 3033,
    "title": "The Armadillo",
    "altTitles": [],
    "authorship": "single",
@@ -160961,7 +161436,7 @@
    ]
   },
   {
-   "id": 2940,
+   "id": 2948,
    "title": "The Bean Eaters",
    "altTitles": [],
    "authorship": "single",
@@ -161706,7 +162181,7 @@
    ]
   },
   {
-   "id": 2943,
+   "id": 2951,
    "title": "The Blackstone Rangers",
    "altTitles": [],
    "authorship": "single",
@@ -165089,7 +165564,7 @@
    ]
   },
   {
-   "id": 2938,
+   "id": 2946,
    "title": "The Children of the Poor",
    "altTitles": [],
    "authorship": "single",
@@ -166050,7 +166525,7 @@
    ]
   },
   {
-   "id": 2906,
+   "id": 2914,
    "title": "The Collected Essays, Journalism and Letters of George Orwell",
    "altTitles": [],
    "authorship": "single",
@@ -169006,7 +169481,7 @@
    ]
   },
   {
-   "id": 3048,
+   "id": 3056,
    "title": "The Day Lady Died",
    "altTitles": [],
    "authorship": "single",
@@ -169113,7 +169588,7 @@
    ]
   },
   {
-   "id": 2933,
+   "id": 2941,
    "title": "The Day They Burned the Books",
    "altTitles": [],
    "authorship": "single",
@@ -170613,7 +171088,7 @@
    ]
   },
   {
-   "id": 3003,
+   "id": 3011,
    "title": "The Dolls Museum in Dublin",
    "altTitles": [],
    "authorship": "single",
@@ -171330,7 +171805,7 @@
    ]
   },
   {
-   "id": 2898,
+   "id": 2906,
    "title": "The Drinking Gourd",
    "altTitles": [],
    "authorship": "single",
@@ -171377,7 +171852,7 @@
    ]
   },
   {
-   "id": 2995,
+   "id": 3003,
    "title": "The Drowned World",
    "altTitles": [],
    "authorship": "single",
@@ -173174,7 +173649,7 @@
    ]
   },
   {
-   "id": 2902,
+   "id": 2910,
    "title": "The English People",
    "altTitles": [],
    "authorship": "single",
@@ -174310,7 +174785,7 @@
    ]
   },
   {
-   "id": 2929,
+   "id": 2937,
    "title": "The Explosion",
    "altTitles": [],
    "authorship": "single",
@@ -175426,7 +175901,7 @@
    ]
   },
   {
-   "id": 2958,
+   "id": 2966,
    "title": "The Fat Black Woman Goes Shopping",
    "altTitles": [],
    "authorship": "single",
@@ -177333,7 +177808,7 @@
    ]
   },
   {
-   "id": 2907,
+   "id": 2915,
    "title": "The Freedom of the Press",
    "altTitles": [],
    "authorship": "single",
@@ -178942,7 +179417,7 @@
    ]
   },
   {
-   "id": 3005,
+   "id": 3013,
    "title": "The Glass Essay",
    "altTitles": [],
    "authorship": "single",
@@ -179042,7 +179517,7 @@
    ]
   },
   {
-   "id": 2998,
+   "id": 3006,
    "title": "The God of Small Things",
    "altTitles": [],
    "authorship": "single",
@@ -179869,7 +180344,7 @@
    ]
   },
   {
-   "id": 2988,
+   "id": 2996,
    "title": "The Grauballe Man",
    "altTitles": [],
    "authorship": "single",
@@ -184147,7 +184622,7 @@
    ]
   },
   {
-   "id": 2914,
+   "id": 2922,
    "title": "The Housing Lark",
    "altTitles": [],
    "authorship": "single",
@@ -187540,7 +188015,7 @@
    ]
   },
   {
-   "id": 2942,
+   "id": 2950,
    "title": "The Last Quatrain of the Ballad of Emmett Till",
    "altTitles": [],
    "authorship": "single",
@@ -190072,7 +190547,7 @@
    ]
   },
   {
-   "id": 2910,
+   "id": 2918,
    "title": "The Lonely Londoners",
    "altTitles": [],
    "authorship": "single",
@@ -190278,7 +190753,7 @@
    ]
   },
   {
-   "id": 3004,
+   "id": 3012,
    "title": "The Lost Land",
    "altTitles": [],
    "authorship": "single",
@@ -193494,7 +193969,7 @@
    ]
   },
   {
-   "id": 2968,
+   "id": 2976,
    "title": "The Missing",
    "altTitles": [],
    "authorship": "single",
@@ -194129,7 +194604,7 @@
    ]
   },
   {
-   "id": 2895,
+   "id": 2903,
    "title": "The Movement: Documentary of a Struggle for Equality",
    "altTitles": [],
    "authorship": "single",
@@ -199043,7 +199518,7 @@
    ]
   },
   {
-   "id": 2915,
+   "id": 2923,
    "title": "The Plains of Caroni",
    "altTitles": [],
    "authorship": "single",
@@ -201536,7 +202011,7 @@
    ]
   },
   {
-   "id": 2955,
+   "id": 2963,
    "title": "The Prophet's Hair",
    "altTitles": [],
    "authorship": "single",
@@ -205974,7 +206449,7 @@
    ]
   },
   {
-   "id": 2970,
+   "id": 2978,
    "title": "The Schooner Flight",
    "altTitles": [],
    "authorship": "single",
@@ -206329,7 +206804,7 @@
    ]
   },
   {
-   "id": 2971,
+   "id": 2979,
    "title": "The Season of Phantasmal Peace",
    "altTitles": [],
    "authorship": "single",
@@ -207453,7 +207928,7 @@
    ]
   },
   {
-   "id": 2937,
+   "id": 2945,
    "title": "The Shield of Achilles",
    "altTitles": [],
    "authorship": "single",
@@ -207880,7 +208355,7 @@
    ]
   },
   {
-   "id": 2894,
+   "id": 2902,
    "title": "The Sign in Sidney Brustein's Window",
    "altTitles": [],
    "authorship": "single",
@@ -210932,7 +211407,7 @@
    ]
   },
   {
-   "id": 3029,
+   "id": 3037,
    "title": "The Swimmer",
    "altTitles": [],
    "authorship": "single",
@@ -215402,7 +215877,7 @@
    ]
   },
   {
-   "id": 3020,
+   "id": 3028,
    "title": "The Waking",
    "altTitles": [],
    "authorship": "single",
@@ -217855,7 +218330,7 @@
    ]
   },
   {
-   "id": 3052,
+   "id": 3060,
    "title": "The Woman Thing",
    "altTitles": [],
    "authorship": "single",
@@ -218923,7 +219398,7 @@
    ]
   },
   {
-   "id": 2976,
+   "id": 2984,
    "title": "Theology",
    "altTitles": [],
    "authorship": "single",
@@ -219253,7 +219728,7 @@
    ]
   },
   {
-   "id": 2930,
+   "id": 2938,
    "title": "This Be The Verse",
    "altTitles": [
     "This Be the Verse"
@@ -219305,7 +219780,7 @@
    ]
   },
   {
-   "id": 2916,
+   "id": 2924,
    "title": "Those Who Eat the Cascadura",
    "altTitles": [],
    "authorship": "single",
@@ -219356,7 +219831,7 @@
    ]
   },
   {
-   "id": 3030,
+   "id": 3038,
    "title": "Those Winter Sundays",
    "altTitles": [],
    "authorship": "single",
@@ -219405,7 +219880,7 @@
    ]
   },
   {
-   "id": 2947,
+   "id": 2955,
    "title": "Thoughts About the Person from Porlock",
    "altTitles": [],
    "authorship": "single",
@@ -220643,7 +221118,7 @@
    ]
   },
   {
-   "id": 2896,
+   "id": 2904,
    "title": "To Be Young, Gifted and Black",
    "altTitles": [],
    "authorship": "single",
@@ -220821,7 +221296,7 @@
    ]
   },
   {
-   "id": 2961,
+   "id": 2969,
    "title": "To Room Nineteen",
    "altTitles": [],
    "authorship": "single",
@@ -220871,7 +221346,7 @@
    ]
   },
   {
-   "id": 2944,
+   "id": 2952,
    "title": "To the Diaspora",
    "altTitles": [],
    "authorship": "single",
@@ -221151,7 +221626,7 @@
    ]
   },
   {
-   "id": 2986,
+   "id": 2994,
    "title": "Top Girls",
    "altTitles": [],
    "authorship": "single",
@@ -222340,7 +222815,7 @@
    ]
   },
   {
-   "id": 2912,
+   "id": 2920,
    "title": "Turn Again Tiger",
    "altTitles": [],
    "authorship": "single",
@@ -223991,7 +224466,7 @@
    ]
   },
   {
-   "id": 3013,
+   "id": 3021,
    "title": "Valentine",
    "altTitles": [],
    "authorship": "single",
@@ -226013,7 +226488,7 @@
    ]
   },
   {
-   "id": 2932,
+   "id": 2940,
    "title": "Waiting for Aunty to Cough",
    "altTitles": [],
    "authorship": "single",
@@ -226062,7 +226537,7 @@
    ]
   },
   {
-   "id": 2935,
+   "id": 2943,
    "title": "Waiting for Godot",
    "altTitles": [
     "En attendant Godot"
@@ -226113,7 +226588,7 @@
    ]
   },
   {
-   "id": 3001,
+   "id": 3009,
    "title": "Waiting for the Barbarians",
    "altTitles": [],
    "authorship": "single",
@@ -226309,7 +226784,7 @@
    ]
   },
   {
-   "id": 2983,
+   "id": 2991,
    "title": "Walker Brothers Cowboy",
    "altTitles": [],
    "authorship": "single",
@@ -226691,7 +227166,7 @@
    ]
   },
   {
-   "id": 3012,
+   "id": 3020,
    "title": "Warming Her Pearls",
    "altTitles": [],
    "authorship": "single",
@@ -226959,7 +227434,7 @@
    ]
   },
   {
-   "id": 2911,
+   "id": 2919,
    "title": "Ways of Sunlight",
    "altTitles": [],
    "authorship": "single",
@@ -227064,7 +227539,7 @@
    ]
   },
   {
-   "id": 2939,
+   "id": 2947,
    "title": "We Real Cool",
    "altTitles": [],
    "authorship": "single",
@@ -227425,7 +227900,7 @@
    ]
   },
   {
-   "id": 2997,
+   "id": 3005,
    "title": "What the Tapster Saw",
    "altTitles": [],
    "authorship": "single",
@@ -227478,7 +227953,7 @@
    ]
   },
   {
-   "id": 2899,
+   "id": 2907,
    "title": "What Use Are Flowers?",
    "altTitles": [],
    "authorship": "single",
@@ -227525,7 +228000,7 @@
    ]
   },
   {
-   "id": 2959,
+   "id": 2967,
    "title": "Wherever I Hang",
    "altTitles": [],
    "authorship": "single",
@@ -227932,7 +228407,7 @@
    ]
   },
   {
-   "id": 3046,
+   "id": 3054,
    "title": "Why I Am Not a Painter",
    "altTitles": [],
    "authorship": "single",
@@ -228320,7 +228795,7 @@
    ]
   },
   {
-   "id": 2973,
+   "id": 2981,
    "title": "Wind",
    "altTitles": [],
    "authorship": "single",
@@ -229519,6 +229994,58 @@
    ]
   },
   {
+   "id": 2900,
+   "title": "Words",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Sylvia Plath"
+   ],
+   "authorIds": [
+    913
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1965",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (six quatrains)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Words' was written on 1 February 1963, ten days before Plath's death, and first published in Ariel (Faber and Faber, 1965) as the last poem in the 1965 text. Six quatrains compare words to the rings a stone makes in water, to the echo of hoof-beats, and finally to stars that are 'fixed and moving' and govern a life without being asked; it is the shortest and the most impersonal of her late poems, and it stands as her ars poetica.",
+   "summary": "The first quatrain sets the comparison: 'Axes / After whose stroke the wood rings, / And the echoes / Travel outward like horses.' The second: 'Then the sap rises, / Weeping like tears, like water / Striving to re-cover / The rock that is the centre.' The third turns to the approach of a rider: 'More silent than the tramp of horses, / And more distant than the storm, / The words dry and riderless, / And the hoof-taps of horses.' The fourth has the stars, 'fixed and moving', and the fifth and sixth close the poem with the stars 'governing a life' and the lines 'From the bottom of the pool, fixed stars / Govern a life.'",
+   "plot": "'Words' is a poem about what poems do after they are written, and it is unusually free of the confessional apparatus of Plath's other late work: there is no father, no husband and no hospital, only the axe, the sap, the horses and the stars. Its movement is a sequence of similes that get further away from the speaker - the axe-stroke is close and violent, the sap rises and weeps, the horses grow distant and silent, and the stars are fixed at the bottom of a pool. The last two quatrains abandon simile altogether and state the moral: words are 'fixed and moving', they do not answer, and they govern a life. Read as the poem Plath put last in the 1965 Ariel, it is a leave-taking of poetry written by a poet ten days from death, and it has often been read as her most serene statement about her own art.",
+   "significance": "'Words' is Plath's most quoted statement about poetry and the poem that critics use to argue that her late work is not only confessional; it closes the 1965 Ariel and is therefore the last word of the collection that made her reputation, and it is a standard anthology poem in the teaching of twentieth-century poetics.",
+   "meter": "Short, regular quatrains with an almost entirely end-stopped syntax; a diction drawn from woodwork, riding and astronomy rather than from the clinic; simile used as the poem's whole structure, then dropped for the last plain statements; and an absence of the first person that is unusual in Plath's late work.",
+   "context": "Written on 1 February 1963 at Fitzroy Road, London, ten days before Plath's death, and placed last in the 1965 Ariel, where it closes the collection; reprinted in The Collected Poems (1981). It is one of the poems of the final week, with 'Edge', 'Balloons' and 'Contusion', and it belongs to the winter sequence in which the earlier, driven manner gives way to a sparer one.",
+   "characters": "",
+   "structure": "Six unrhymed quatrains, largely in trimeter and tetrameter, with each stanza a complete sentence or a pair of sentences and a movement of withdrawal from the axe to the stars; the poem's last line falls at the very end of the sentence it completes.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Formal Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Language, writing and the limits of representation"
+   ],
+   "movements": [
+    "Confessional Poetry"
+   ],
+   "editions": [],
+   "sources": [
+    "Ariel, poetry collection (Wikipedia)",
+    "Ariel: The Restored Edition, appendix of composition dates",
+    "Index of Works by Sylvia Plath (sylviaplath.info)",
+    "Sylvia Plath (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2227,
    "title": "Work: A Story of Experience",
    "altTitles": [],
@@ -230271,7 +230798,7 @@
    ]
   },
   {
-   "id": 3044,
+   "id": 3052,
    "title": "Zagrowsky Tells",
    "altTitles": [],
    "authorship": "single",

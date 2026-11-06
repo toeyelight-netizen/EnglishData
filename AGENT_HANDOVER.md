@@ -7,10 +7,10 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 26 merged):** installments 1–9 are
-complete; installment 10 (1946–2000) is in progress at **209 works by 65
-authors**, with **165 of 255** in-scope Norton selections recorded. The
-database holds **912 authors, 3,053 works, 641 sources, 2,432 editions**.
+**State at this handover (2026-11-06, wave 27):** installments 1–9 are
+complete; installment 10 (1946–2000) is in progress at **217 works by 66
+authors**, with **173 of 255** in-scope Norton selections recorded. The
+database holds **913 authors, 3,061 works, 656 sources, 2,432 editions**.
 
 ---
 
@@ -136,8 +136,7 @@ Next in Norton's order (American anthology), from
 
 | Author | in-scope rows | note |
 |---|---|---|
-| Sylvia Plath | 8 | **all eight still undated** — the first job is dating them |
-| Toni Morrison | 1 | |
+| Toni Morrison | 1 | the Nobel lecture, 1993 — next in order |
 | John Updike | 1 | |
 | Philip Roth | 1 | |
 | Philip K. Dick | 1 | |
@@ -145,7 +144,7 @@ Next in Norton's order (American anthology), from
 | Octavia E. Butler | 1 | |
 | Amiri Baraka | 4 | 2 undated |
 
-90 American selections remain; 17 selections are undated overall (11 English,
+82 American selections remain; 17 selections are undated overall (11 English,
 6 American). The English anthology is complete for the period (90 of 90).
 
 ## 8. Source policy
