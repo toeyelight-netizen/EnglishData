@@ -1626,16 +1626,22 @@ each is listed with its source in section 13 of the audit report.
 - **Fuller:** *These Sad but Glorious Days* corrected. The complete edition is
   dated 1991, the composition start is 1846, and unsupported claims were
   removed.
-- **Invented plots:** three installment 9 records had them and were rewritten
-  from sources: *Pastors and Masters* (also redated 1941 → 1925), *The Nebuly
-  Coat* and *The Fashion in Shrouds*.
+- **Wrong plots:** four installment 9 records were rewritten from sources.
+  Three plots were invented: *Pastors and Masters* (also redated 1941 → 1925),
+  *The Nebuly Coat* and *The Fashion in Shrouds*. *Surfeit of Lampreys* was
+  wrong on motive and murderer, and is redated 1941 → 1940 (first published in
+  Boston as *Death of a Peer*).
+- **Ngaio Marsh's bibliography:** six novels carried their London dates
+  although they first appeared in Boston or Auckland, and the list omitted her
+  last eight novels. Both are corrected from the Ngaio Marsh House bibliography.
 - **Text defects:**
   - 42 installment 8 historical contexts began "The 1837, …";
   - 157 composed bibliographical notes had lowercased the names inside a work's
     form.
 
-Finding invented plots incidentally means more are likely. A record-by-record
-plot check of installments 8–9 is outstanding.
+Finding these errors incidentally means more are likely. A record-by-record
+plot check of installments 8–9, and a check of first-edition dates for books
+first published in the United States, are outstanding.
 
 **Stopping point.** The ordered list of outstanding tasks is in
 `research/installment_10/report_notes.md`:

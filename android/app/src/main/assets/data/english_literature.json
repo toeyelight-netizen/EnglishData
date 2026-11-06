@@ -857,6 +857,7 @@
   "Asian American Literary Canon (Post45 Data Collective)",
   "Aubade (The Philip Larkin Society, philiplarkin.com)",
   "Beowulf: A Verse Translation",
+  "Bibliography of Dame Ngaio Marsh's Published Works",
   "Biographia Literaria (The Collected Works of Samuel Taylor Coleridge, volume 7)",
   "Blackwood's Edinburgh Magazine",
   "British Library Digitised Manuscripts",
@@ -990,6 +991,7 @@
   "Sources and Style in Moore's Irish Melodies",
   "Stedman's Surinam: Life in an Eighteenth-Century Slave Society. An Abridged, Modernized Edition of Narrative of a Five Years Expedition against the Revolted Negroes of Surinam",
   "Such, Such Were the Joys (Wikipedia)",
+  "Surfeit of Lampreys (Wikipedia)",
   "TEAMS Middle English Texts Series",
   "Tales of Wonder (Broadview Editions)",
   "The Anglo-Saxon Chronicle: A Revised Translation",
@@ -35399,7 +35401,7 @@
    "concerns": "Class, the servant problem, and the new democracy; the theatre and the actor's world; the countryside, the vanishing rural world, and the motor road; empire, the imperial idea, and its discontents.",
    "significance": "Ngaio Marsh was one of the four Queens of Crime and the creator of Inspector Roderick Alleyn: her detective novels brought the theatre into the Golden Age mystery, and her thirty-two novels made her one of the most admired writers of the classical detective story.",
    "tier": "Major / canonical",
-   "uncertainty": "21 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1934 and 1941.",
+   "uncertainty": "38 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1934 and 1940.",
    "genres": [
     "Comic Novel and the Satire of Manners",
     "Detective Novel and the Golden Age Mystery"
@@ -145743,7 +145745,9 @@
   {
    "id": 2838,
    "title": "Surfeit of Lampreys",
-   "altTitles": [],
+   "altTitles": [
+    "Death of a Peer"
+   ],
    "authorship": "single",
    "authors": [
     "Ngaio Marsh"
@@ -145751,41 +145755,40 @@
    "authorIds": [
     722
    ],
-   "compositionStart": "1940",
-   "compositionEnd": "1941",
+   "compositionStart": "",
+   "compositionEnd": "",
    "compositionCirca": false,
-   "dates": "1940 – 1941",
-   "publicationDate": "1941",
+   "dates": "",
+   "publicationDate": "1940",
    "manuscriptDate": "",
    "language": "English",
-   "form": "Detective Novel and the Golden Age Mystery",
+   "form": "Detective novel, first issued in 1940",
    "period": "Edwardian, Georgian and Modernist Period (1901–1945)",
-   "description": "Marsh's comedy of the impoverished aristocratic family and a murder in the lift. It is a prose fiction work of 1941 by Ngaio Marsh; it belongs to The Golden Age of Detective Fiction and it is catalogued here under Detective Novel and the Golden Age Mystery; Comic Novel and the Satire of Manners and the record grades it as major canon and its author standing in the first rank of this corpus.",
+   "description": "Ngaio Marsh's tenth Roderick Alleyn novel, first published in Boston in 1940 as Death of a Peer and in London by the Collins Crime Club in 1941 as Surfeit of Lampreys: a peer is murdered in the lift outside the London flat of his younger brother's spendthrift family, and their friend from New Zealand, Roberta Grey, is drawn into Alleyn's investigation.",
    "summary": "",
-   "plot": "The Lampreys, a charming, penniless, aristocratic family living on the charity of relations, are suspected when Lord Wutherwood is stabbed in the lift of their London building, and Inspector Alleyn must establish which of the family, all of whom had opportunity and none of whom had an obvious motive, killed him.",
-   "significance": "Surfeit of Lampreys is Ngaio Marsh's finest comedy and one of the great detective novels of the war years: its Lamprey family, its lift and its affectionate satire of the charming improvident English made it the book that lifted Marsh above the puzzle and into the novel of manners.",
+   "plot": "Roberta Grey comes to London from New Zealand to see the Lampreys, a minor aristocratic family she knew there, whose spendthrift ways have always been rescued by the timely death of a relative. She finds them in the worst trouble yet. Charles Lamprey appeals for money to his elder brother Gabriel, Lord Wutherwood; a charade of Jael and Sisera put on by the children, with a skewer for the tent peg, fails to soften him, and he refuses. Leaving their top-floor flat, he is skewered through the eye in the lift and dies soon afterwards. Chief Inspector Alleyn and Inspector Fox find the Lampreys the obvious suspects, since the death ends their money troubles and makes Charles heir to the title; the family try to steer suspicion towards Gabriel's eccentric wife Violet, and Roberta lies to Alleyn on their behalf. After Gabriel's chauffeur Giggle is found with his throat cut, Alleyn shows that Violet's maid Tinkerton had manipulated Giggle into killing his employer, so that he would inherit a valuable parcel of land that she hoped to secure for herself. She had sent the lift down to him and back up again to make it seem that both of them were already on the stairs, persuaded Violet into acts, such as cutting off her dead husband's hand, that made her look guilty, and killed Giggle when his conscience began to trouble him.",
+   "significance": "Erik Routley, in The Puritan Pleasures of the Detective Story (1972), found Marsh here 'at the top of her form', calling the novel 'her longest and I think her richest story'. The murder of a peer was a subject to which Marsh would return, and the youngest Lamprey, Michael, reappears in the short story 'I Can Find My Way Out' and, as a police constable, in Opening Night (1951). A stage adaptation by Owen Howell, revised by Marsh, was produced in London in 1950 without success.",
    "meter": "Prose. Prose of the fair-play mystery: the puzzle is stated in plain narrative prose, the clues are given to the reader as they are given to the investigator, the timetable and the plan are exact, and the solution is delivered in a set-piece explanation. The author's characteristic manner is the theatre and the country house as the setting of murder.",
-   "context": "London and New Zealand in the early 1940s, and the world of the impoverished English family. The record dates the work as composed between 1940 and 1941 and first published in 1941 and the corpus places it within The Golden Age of Detective Fiction, it is catalogued under detective novel and the golden age mystery; comic novel and the satire of manners.",
-   "characters": "Inspector Alleyn; Charles Lamprey; the Lamprey children; Lord Wutherwood; Frieda; Michael",
-   "structure": "A detective novel of a family and a murder in a London lift. A novel in chapters: the crime is stated early, the investigation proceeds by interview and document, and the solution is delivered in a set-piece explanation before the close.",
+   "context": "Marsh, a New Zealander, had arrived in England in the late 1920s; Earl F. Bargainnier, who also identified the real family that inspired the Lampreys, called Roberta Grey 'obviously Marsh's view of herself on her arrival in England in the late 1920s'. The title alludes both to Henry I, said to have died of a surfeit of lampreys, and to the family under suspicion.",
+   "characters": "Chief Inspector Roderick Alleyn; Inspector Fox; Nigel Bathgate; Roberta Grey; Charles and Imogen Lamprey; Henry, Frid, Colin, Stephen, Patricia and Michael Lamprey; Gabriel Lamprey, Lord Wutherwood; Violet, his wife; Lady Katherine Lobe; Giggle; Tinkerton; Baskett; Grimball",
+   "structure": "A detective novel that follows the Lampreys' friend Roberta Grey from her arrival in London through the murder in the lift and Alleyn's investigation to his explanation.",
    "attributionNotes": "Attribution is secure: the work was published under the author's name, also recorded as Edith Ngaio Marsh. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
    "canonicalStatus": "Major canon",
    "genres": [
-    "Comic Novel and the Satire of Manners",
     "Detective Novel and the Golden Age Mystery"
    ],
    "themes": [
-    "Class, the servant problem, and the new democracy",
     "Leisure class, the idle rich, and the unearned income",
-    "Money, credit, speculation, and the joint-stock imagination",
-    "The absurd, the void, and the failure of meaning"
+    "Money, credit, speculation, and the joint-stock imagination"
    ],
    "movements": [
     "The Golden Age of Detective Fiction"
    ],
    "editions": [],
    "sources": [
+    "Bibliography of Dame Ngaio Marsh's Published Works",
     "Modernism: A Guide to European Literature 1890–1930",
+    "Surfeit of Lampreys (Wikipedia)",
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",

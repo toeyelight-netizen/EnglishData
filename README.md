@@ -24,7 +24,7 @@ or deletes earlier data.
 | 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–05: 43 works by 5 authors) |
 
 Cumulative totals: **851 authors, 2884 works** (147 anonymous), 10 periods, 179
-movements, 370 genres, 203 themes, 389 sources, 2432 recorded editions.
+movements, 370 genres, 203 themes, 391 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the
