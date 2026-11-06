@@ -19,6 +19,24 @@
    ]
   },
   {
+   "author": "Gwendolyn Brooks",
+   "genres": [
+    "Black Arts Poetry",
+    "Formal Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry",
+    "Social Poetry",
+    "Sonnet"
+   ]
+  },
+  {
+   "author": "Jean Rhys",
+   "genres": [
+    "Short Story"
+   ]
+  },
+  {
    "author": "Lorraine Hansberry",
    "genres": [
     "Domestic Drama",
@@ -74,6 +92,14 @@
    ]
   },
   {
+   "author": "Samuel Beckett",
+   "genres": [
+    "Absurdist Drama",
+    "Full-Length Play",
+    "Modern Tragicomedy"
+   ]
+  },
+  {
    "author": "Samuel Selvon",
    "genres": [
     "Bildungsroman",
@@ -88,12 +114,35 @@
     "Social Novel",
     "Television Drama"
    ]
+  },
+  {
+   "author": "W. H. Auden",
+   "genres": [
+    "Formal Verse",
+    "Lyric Poetry",
+    "Pastoral and Rural Poetry",
+    "Political Poetry"
+   ]
   }
  ],
  "author_movements": [
   {
    "author": "George Orwell",
    "movements": []
+  },
+  {
+   "author": "Gwendolyn Brooks",
+   "movements": [
+    "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Jean Rhys",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
   },
   {
    "author": "Lorraine Hansberry",
@@ -114,11 +163,21 @@
    ]
   },
   {
+   "author": "Samuel Beckett",
+   "movements": [
+    "Theatre of the Absurd"
+   ]
+  },
+  {
    "author": "Samuel Selvon",
    "movements": [
     "Black British Writing and the Windrush Generation",
     "Caribbean Literature in English"
    ]
+  },
+  {
+   "author": "W. H. Auden",
+   "movements": []
   }
  ],
  "author_themes": [
@@ -139,6 +198,32 @@
     "Technology, media and consumer society",
     "Utopia, dystopia and imagined futures",
     "War, combat and its aftermath"
+   ]
+  },
+  {
+   "author": "Gwendolyn Brooks",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Jean Rhys",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Decolonisation, the end of empire and the new nation",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -202,6 +287,14 @@
    ]
   },
   {
+   "author": "Samuel Beckett",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
    "author": "Samuel Selvon",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -217,6 +310,17 @@
     "Race, racism and the struggle for civil rights",
     "Technology, media and consumer society",
     "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "author": "W. H. Auden",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Power, the state and surveillance",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
    ]
   }
  ],

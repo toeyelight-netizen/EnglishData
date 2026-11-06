@@ -294,6 +294,66 @@
    "work": "Waiting for Aunty to Cough",
    "author": "Samuel Selvon",
    "contribution_type": "author"
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "author": "Jean Rhys",
+   "contribution_type": "author"
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "author": "Jean Rhys",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Waiting for Godot",
+   "author": "Samuel Beckett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "In Praise of Limestone",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Shield of Achilles",
+   "author": "W. H. Auden",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Children of the Poor",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "We Real Cool",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Bean Eaters",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
+  },
+  {
+   "work": "To the Diaspora",
+   "author": "Gwendolyn Brooks",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -712,6 +772,92 @@
    "work": "Waiting for Aunty to Cough",
    "genres": [
     "Short Story"
+   ]
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "genres": [
+    "Short Story"
+   ]
+  },
+  {
+   "work": "Waiting for Godot",
+   "genres": [
+    "Absurdist Drama",
+    "Modern Tragicomedy",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "In Praise of Limestone",
+   "genres": [
+    "Lyric Poetry",
+    "Pastoral and Rural Poetry"
+   ]
+  },
+  {
+   "work": "The Shield of Achilles",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Children of the Poor",
+   "genres": [
+    "Sonnet",
+    "Formal Verse",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "We Real Cool",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "The Bean Eaters",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ]
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "genres": [
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "genres": [
+    "Political Poetry",
+    "Social Poetry",
+    "Black Arts Poetry"
+   ]
+  },
+  {
+   "work": "To the Diaspora",
+   "genres": [
+    "Lyric Poetry",
+    "Black Arts Poetry"
    ]
   }
  ],
@@ -1186,6 +1332,102 @@
     "The city, the suburb and modern space",
     "Love, intimacy and loss"
    ]
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Race, racism and the struggle for civil rights",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "themes": [
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Waiting for Godot",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "In Praise of Limestone",
+   "themes": [
+    "Land, place and regional belonging",
+    "Faith, doubt and the sacred",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "The Shield of Achilles",
+   "themes": [
+    "War, combat and its aftermath",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "The Children of the Poor",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "We Real Cool",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "The Bean Eaters",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "To the Diaspora",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "Race, racism and the struggle for civil rights"
+   ]
   }
  ],
  "work_movements": [
@@ -1375,6 +1617,67 @@
     "Caribbean Literature in English",
     "Black British Writing and the Windrush Generation"
    ]
+  },
+  {
+   "work": "The Day They Burned the Books",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "On Not Shooting Sitting Birds",
+   "movements": [
+    "Caribbean Literature in English"
+   ]
+  },
+  {
+   "work": "Waiting for Godot",
+   "movements": [
+    "Theatre of the Absurd"
+   ]
+  },
+  {
+   "work": "The Children of the Poor",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "We Real Cool",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Bean Eaters",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Last Quatrain of the Ballad of Emmett Till",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Blackstone Rangers",
+   "movements": [
+    "Black Arts Movement"
+   ]
+  },
+  {
+   "work": "To the Diaspora",
+   "movements": [
+    "Black Arts Movement"
+   ]
   }
  ],
  "work_periods": [
@@ -1439,7 +1742,19 @@
     "The Explosion",
     "This Be The Verse",
     "Politics and the English Language",
-    "Waiting for Aunty to Cough"
+    "Waiting for Aunty to Cough",
+    "The Day They Burned the Books",
+    "On Not Shooting Sitting Birds",
+    "Waiting for Godot",
+    "In Praise of Limestone",
+    "The Shield of Achilles",
+    "The Children of the Poor",
+    "We Real Cool",
+    "The Bean Eaters",
+    "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+    "The Last Quatrain of the Ballad of Emmett Till",
+    "The Blackstone Rangers",
+    "To the Diaspora"
    ]
   }
  ]

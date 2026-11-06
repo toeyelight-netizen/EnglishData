@@ -80,4 +80,8 @@ MAP_B3 = {
         ['Short Story'],
         ['Migration, exile and diaspora', 'The city, the suburb and modern space', 'Love, intimacy and loss'],
         ['Caribbean Literature in English', 'Black British Writing and the Windrush Generation']),
+    'The Day They Burned the Books': (['Jean Rhys'],
+        ['Short Story'],
+        ['Decolonisation, the end of empire and the new nation', 'Race, racism and the struggle for civil rights', 'Childhood, adolescence and coming of age'],
+        ['Caribbean Literature in English', 'Postcolonial Literature']),
 }

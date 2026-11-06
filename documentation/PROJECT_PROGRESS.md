@@ -10,8 +10,9 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  (five authors kept from waves 01–12 under the third scope decision), giving
-  **851 authors / 2903 works** across ten periods (c. 450–2000).
+  (the five authors kept from waves 01–12 under the third scope decision and
+  the Norton selections of waves 13–14, by nine authors in all), giving
+  **851 authors / 2915 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
@@ -1783,6 +1784,15 @@ with broader Anglophone writing out of scope.
   and the English Language" (major record); Selvon's "Waiting for Aunty to
   Cough". Eleven works, all partially verified; 14 of the 254 selections
   in the period now have records.
+- **Wave 14:** the selections of the installment-9 authors, linked to
+  their records with installment-10 extensions: Jean Rhys's "The Day They
+  Burned the Books" and "On Not Shooting Sitting Birds"; Samuel Beckett's
+  *Waiting for Godot* (his English text, 1954; major record); W. H. Auden's
+  "In Praise of Limestone" and "The Shield of Achilles"; Gwendolyn Brooks's
+  "The Children of the Poor", "We Real Cool", "The Bean Eaters", "A
+  Bronzeville Mother Loiters in Mississippi", "The Last Quatrain of the
+  Ballad of Emmett Till", "The Blackstone Rangers" and "To the Diaspora".
+  Twelve works; 26 of the 254 selections now have records.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1870,11 +1880,9 @@ the four bad plots, so it gives an order of work, not a filter.
 
 **Stopping point.** The ordered list of outstanding tasks is in
 `research/installment_10/report_notes.md`:
-1. record the unrecorded selections of the five recorded authors (Larkin's
-   nine poems, Orwell's "Politics and the English Language", Selvon's
-   "Waiting for Aunty to Cough");
-2. add the selections of the installment-9 authors Rhys, Beckett, Auden and
-   Brooks through extensions;
+1. done in waves 13 and 14: the selections of the five recorded authors and
+   of the installment-9 authors Rhys, Beckett, Auden and Brooks;
+2. (merged into 1);
 3. record the other Norton authors and their selections, in Norton's order;
 4. check every provisional date, including the 27 selections still to be
    dated, and run the plot check of installments 8–9;
@@ -1891,4 +1899,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 59 works by 5 authors; 14 of 254 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 71 works by 9 authors; 26 of 254 selections recorded) |

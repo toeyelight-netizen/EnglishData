@@ -149,10 +149,12 @@
    "Gustave Flaubert",
    "D. H. Lawrence"
   ],
-  "biographical_uncertainty": "7 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1928 and 1939.",
+  "biographical_uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1928 and 1939.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Left Bank and Other Stories (1927); After Leaving Mr Mackenzie (1931); Wide Sargasso Sea (1966); Tigers Are Better-Looking (1968); Sleep It Off Lady (1976); Smile Please (1979); Letters 1931-1966 (1984)."
+  "bibliographical_notes": "Whole-career bibliography, stated across installments 9 and 10. Books: The Left Bank and Other Stories (1927), Quartet (1928), After Leaving Mr Mackenzie (1931), Voyage in the Dark (1934), Good Morning, Midnight (1939), Wide Sargasso Sea (1966), Tigers Are Better-Looking (1968, stories), Sleep It Off Lady (1976, stories), Smile Please (1979, unfinished autobiography, posthumous) and Letters 1931-1966 (1984, posthumous). Installment 9 holds work records for Quartet, Voyage in the Dark and Good Morning, Midnight. Installment 10, which since 2026-11-06 records only the selections of the Norton anthologies, holds the stories 'The Day They Burned the Books' (1960, collected in Tigers Are Better-Looking) and 'On Not Shooting Sitting Birds' (collected in Sleep It Off Lady, 1976). Wide Sargasso Sea and the other books of 1946-1984 have no work records, so the bibliography is incomplete.",
+  "bibliography_status": "incomplete",
+  "verification_status": "partially verified"
  },
  {
   "full_name": "Stella Gibbons",

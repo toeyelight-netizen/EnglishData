@@ -3,7 +3,7 @@
  "installments": "1-10",
  "counts": {
   "authors": 851,
-  "works": 2903
+  "works": 2915
  },
  "periods": [
   {
@@ -828,6 +828,7 @@
  "sources": [
   "'Lyrical Ballads,' and Other Poems, 1797-1800",
   "'Sad Steps' toward a Sedate Style (3 Quarks Daily)",
+  "'The Day They Burned the Books' (chapter 6 of a Cambridge University Press study of Jean Rhys, Cambridge Core)",
   "A Book of Middle English, 4th edition",
   "A Brighter Sun Summary (eNotes)",
   "A Clergyman's Daughter (Wikipedia)",
@@ -855,6 +856,7 @@
   "Anglo-Saxon Poetry",
   "Animal Farm (Wikipedia)",
   "Annals of the Parish (The Edinburgh Edition of the Works of John Galt)",
+  "Annie Allen (Wikipedia)",
   "Apologia Pro Vita Sua",
   "Asian American Literary Canon (Post45 Data Collective)",
   "Aubade (The Philip Larkin Society, philiplarkin.com)",
@@ -863,6 +865,7 @@
   "Biographia Literaria (The Collected Works of Samuel Taylor Coleridge, volume 7)",
   "Blackwood's Edinburgh Magazine",
   "British Library Digitised Manuscripts",
+  "Brooks, Gwendolyn (SAGE Encyclopedia of Motherhood)",
   "Byron's Letters and Journals (12 volumes with index and supplement)",
   "Charlotte Smith in British Romanticism",
   "Church Going (Wikipedia)",
@@ -900,6 +903,7 @@
   "George Orwell bibliography (Wikipedia)",
   "George Orwell published: list of works (orwell.ru)",
   "Governor General's Award for English-language fiction (Wikipedia)",
+  "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
   "H. G. Wells (Wikipedia)",
   "Hansberry, Lorraine 1930-1965 (Encyclopedia.com, Gale entry with Leonard R. N. Ashley's 1990 essay)",
   "Hansberry, Lorraine: Introduction (Encyclopedia.com, Gale literary criticism entry)",
@@ -911,6 +915,8 @@
   "Highway in the Sun (Peepal Tree Press)",
   "Hobomok: A Tale of Early Times (Broadview Edition)",
   "Hope Leslie: Or, Early Times in the Massachusetts (American Women Writers series)",
+  "In Praise of Limestone (Wikipedia)",
+  "In the Mecca: Poems (University of Pennsylvania Libraries, Franklin catalogue)",
   "Inside the Whale (Wikipedia)",
   "Inside the Whale and Other Essays (Wikipedia)",
   "Iowa Writers' Workshop (Post45 Data Collective; Program Era Project)",
@@ -948,6 +954,7 @@
   "Lydia Sigourney: Selected Poetry and Prose (Broadview Editions)",
   "MCMXIV (Wikipedia)",
   "Macaulay: Prose and Poetry",
+  "Maids Mild and Dark Villains, Sweet Magnolias and Seeping Blood: Gwendolyn Brooks's Poetic Response to the Lynching of Emmett Till (ResearchGate abstract)",
   "Major Literary Prizes (Post45 Data Collective)",
   "Malcolm Muggeridge (Wikipedia)",
   "Maria Edgeworth: A Literary Biography",
@@ -1027,6 +1034,8 @@
   "Shooting an elephant, and other essays (WorldCat record, OCLC 2552523)",
   "Sir Thomas Wyatt: The Complete Poems",
   "Sketches of American Character",
+  "Sleep It Off Lady (Wikipedia)",
+  "Sleep It Off Lady: Stories (Trove, National Library of Australia)",
   "Sources and Style in Moore's Irish Melodies",
   "Stedman's Surinam: Life in an Eighteenth-Century Slave Society. An Abridged, Modernized Edition of Narrative of a Five Years Expedition against the Revolted Negroes of Surinam",
   "Such, Such Were the Joys (Wikipedia)",
@@ -1039,6 +1048,7 @@
   "The Ashgate Research Companion to Thomas Lovell Beddoes (The Nineteenth Century Series)",
   "The Autobiography of W. B. Yeats",
   "The Awakening: A Norton Critical Edition, 2nd edn",
+  "The Bean Eaters (Gale, Poetry for Students, via Encyclopedia.com)",
   "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition",
   "The Book of Common Prayer: The Texts of 1549, 1559, and 1662",
   "The Boyne Water: A Tale (3 volumes)",
@@ -1220,6 +1230,7 @@
   "The Rossetti Archive",
   "The Selected Works of Robert Owen (4 volumes)",
   "The Selected Writings of Leigh Hunt (6 volumes)",
+  "The Shield of Achilles (Wikipedia)",
   "The Spectator, 4 volumes",
   "The Struggles of John Brown Russwurm: The Life and Writings of a Pan-Africanist Pioneer, 1799-1851",
   "The Symbolist Movement in Literature",
@@ -1248,14 +1259,17 @@
   "Thomas Chalmers and the Godly Commonwealth in Scotland",
   "Timothy Dwight (Twayne's United States Authors Series, No. 145)",
   "Timothy Dwight, 1752-1817: A Biography",
+  "To The Diaspora (work) (Black Bibliography Project, Rutgers University)",
   "Translation of the Letters of a Hindoo Rajah (Broadview Editions)",
   "Travels in New England and New York (4 volumes)",
   "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
   "Ulysses: A Critical and Synoptic Edition",
   "Vanity Fair: A Novel without a Personality (Riverside Edition)",
   "Victorian Studies: A Journal of the Humanities, Arts, and Sciences",
+  "Waiting for Godot (Wikipedia)",
   "Washington Irving: History, Tales, and Sketches (Library of America)",
   "Washington Irving: Three Western Narratives (Library of America)",
+  "We Real Cool (Wikipedia)",
   "William Cobbett: Selected Writings (The Pickering Masters, 6 volumes)",
   "William Cobbett: The Politics of Style (Cambridge Studies in Romanticism)",
   "William Ellery Channing: An Essay on the Liberal Spirit in America",
@@ -18265,17 +18279,37 @@
    "concerns": "Race, the colour line, and the New Negro; the American city, the machine, and the moneyed metropolis; the Depression, unemployment, and the hunger march; childhood, the nursery, and the Edwardian idyll.",
    "significance": "Gwendolyn Brooks was the first Black American to win the Pulitzer Prize for poetry and the great poet of Black urban life: A Street in Bronzeville and Annie Allen made the Black neighbourhood into a literary country and made her the central Black poet of the century after Hughes.",
    "tier": "Major / canonical",
-   "uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+   "uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution.",
    "genres": [
+    "Black Arts Poetry",
+    "Formal Verse",
+    "Lyric Poetry",
     "Modernist Lyric and the New Idiom",
-    "New Negro Lyric and the Harlem Renaissance Poem"
+    "Narrative Poetry",
+    "New Negro Lyric and the Harlem Renaissance Poem",
+    "Political Poetry",
+    "Social Poetry",
+    "Sonnet"
    ],
-   "movements": [],
+   "movements": [
+    "Black Arts Movement",
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
    "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning",
     "Death, the soul, and the afterlife",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights",
     "Race, the colour line, and the New Negro",
     "The American city, the machine, and the moneyed metropolis",
-    "The woman question, married disability, and the New Woman"
+    "The city, the suburb and modern space",
+    "The woman question, married disability, and the New Woman",
+    "Violence, crime and justice"
    ],
    "influencedBy": [
     "Countee Cullen",
@@ -18285,18 +18319,50 @@
    ],
    "works": [
     {
+     "id": 2912,
+     "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon"
+    },
+    {
      "id": 2830,
      "title": "A Street in Bronzeville"
+    },
+    {
+     "id": 2911,
+     "title": "The Bean Eaters"
+    },
+    {
+     "id": 2914,
+     "title": "The Blackstone Rangers"
+    },
+    {
+     "id": 2909,
+     "title": "The Children of the Poor"
+    },
+    {
+     "id": 2913,
+     "title": "The Last Quatrain of the Ballad of Emmett Till"
+    },
+    {
+     "id": 2915,
+     "title": "To the Diaspora"
+    },
+    {
+     "id": 2910,
+     "title": "We Real Cool"
     }
    ],
    "sources": [
+    "Annie Allen (Wikipedia)",
+    "In the Mecca: Poems (University of Pennsylvania Libraries, Franklin catalogue)",
     "Modernism: A Guide to European Literature 1890–1930",
     "The Cambridge History of Twentieth-Century English Literature",
     "The Columbia Literary History of the United States",
     "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Dictionary of National Biography, 60 vols"
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "To The Diaspora (work) (Black Bibliography Project, Rutgers University)",
+    "We Real Cool (Wikipedia)"
    ]
   },
   {
@@ -24016,19 +24082,28 @@
    "concerns": "Sexuality, the new psychology; exile, expatriation, and the lost generation; the woman question, married disability, and the New Woman; empire, the imperial idea, and its discontents.",
    "significance": "Jean Rhys was the great novelist of the woman alone in Paris and London: her early novels made the modern novel of the exploited woman, and Wide Sargasso Sea gave the colonial woman and the mad wife of Jane Eyre their own voice, becoming one of the central English novels of the century.",
    "tier": "Major / canonical",
-   "uncertainty": "7 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1928 and 1939.",
+   "uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1928 and 1939.",
    "genres": [
     "Experimental Novel and the Modernist Form",
     "Jazz-Age Novel and the Expatriate Romance",
-    "Novel of Consciousness and the Stream of Mind"
+    "Novel of Consciousness and the Stream of Mind",
+    "Short Story"
    ],
    "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature",
     "The Bloomsbury Group and the Novel of Consciousness"
    ],
    "themes": [
+    "Childhood, adolescence and coming of age",
+    "Decolonisation, the end of empire and the new nation",
     "Empire, the imperial idea, and its discontents",
     "Exile, expatriation, and the lost generation",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
     "Poverty, dependence, and the professional writer",
+    "Race, racism and the struggle for civil rights",
     "Self-destruction, melancholy, and the coroner's verdict",
     "Sexuality, the new psychology, and the Freudian century",
     "The woman question, married disability, and the New Woman"
@@ -24043,8 +24118,16 @@
      "title": "Good Morning, Midnight"
     },
     {
+     "id": 2905,
+     "title": "On Not Shooting Sitting Birds"
+    },
+    {
      "id": 2800,
      "title": "Quartet"
+    },
+    {
+     "id": 2904,
+     "title": "The Day They Burned the Books"
     },
     {
      "id": 2801,
@@ -24052,7 +24135,10 @@
     }
    ],
    "sources": [
+    "'The Day They Burned the Books' (chapter 6 of a Cambridge University Press study of Jean Rhys, Cambridge Core)",
     "Modernism: A Guide to European Literature 1890–1930",
+    "Sleep It Off Lady (Wikipedia)",
+    "Sleep It Off Lady: Stories (Trove, National Library of Australia)",
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
@@ -41470,19 +41556,27 @@
    "concerns": "The mind and the body and the little world of the former; Joyce and the poetics of the wake; the comic and the elegiac in the same sentence; paralysis and the refusal of the will; the war and the Resistance as the break of the career.",
    "significance": "Samuel Beckett is the central writer of the twentieth century: the English books of the 1930s - the Joyce essay, More Pricks Than Kicks, Echo's Bones and Murphy - are the first act of the career that the French trilogy and the plays would complete.",
    "tier": "Major / canonical",
-   "uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1929 and 1938.",
+   "uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1929 and 1938.",
    "genres": [
+    "Absurdist Drama",
     "Critical Essay and the Modern Review",
     "Experimental Novel and the Modernist Form",
+    "Full-Length Play",
     "Modern Short Story and the Magazine Tale",
+    "Modern Tragicomedy",
     "Modernist Lyric and the New Idiom",
     "Novel of Consciousness and the Stream of Mind",
     "Review Essay and Quarterly Argument"
    ],
-   "movements": [],
+   "movements": [
+    "Theatre of the Absurd"
+   ],
    "themes": [
+    "Alienation, absurdity and existential freedom",
     "Art versus life, and the romance of the artist",
     "Death, elegy, and the modern funeral",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
     "Mass society, the crowd, and the individual talent",
     "Sexuality, the new psychology, and the Freudian century",
     "The absurd, the void, and the failure of meaning",
@@ -41509,6 +41603,10 @@
     {
      "id": 2494,
      "title": "Murphy"
+    },
+    {
+     "id": 2906,
+     "title": "Waiting for Godot"
     }
    ],
    "sources": [
@@ -41519,7 +41617,8 @@
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
-    "The Oxford Dictionary of National Biography, 60 vols"
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "Waiting for Godot (Wikipedia)"
    ]
   },
   {
@@ -48855,9 +48954,13 @@
    "concerns": "Totalitarianism and the coming war; class, the public school and the English ruling order; love, anxiety and the divided self; the modern city, the aeroplane and the machine; faith, the Church and the possibility of belief; history and the individual's place in it.",
    "significance": "Auden is the central English poet of the period after Eliot: he gave the thirties its public voice, invented the political poem as a modern form, wrote the great elegies and meditations of the century, and his technical range made him the model for every English poet since. He is the period's most influential poet after Eliot and Yeats.",
    "tier": "Major / canonical",
-   "uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1940.",
+   "uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1940.",
    "genres": [
+    "Formal Verse",
+    "Lyric Poetry",
     "Modernist Long Poem and the Mythical Method",
+    "Pastoral and Rural Poetry",
+    "Political Poetry",
     "Thirties Political Lyric and the Auden Generation"
    ],
    "movements": [
@@ -48867,11 +48970,17 @@
     "Class, the servant problem, and the new democracy",
     "Death, elegy, and the modern funeral",
     "Exile, expatriation, and the lost generation",
+    "Faith, doubt and the sacred",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
     "Mass society, the crowd, and the individual talent",
+    "Power, the state and surveillance",
     "Sexuality, the new psychology, and the Freudian century",
     "The First World War and the myth of sacrifice",
     "The machine, the motor car, and the modern tempo",
-    "Totalitarianism, propaganda, and the political novel"
+    "Totalitarianism, propaganda, and the political novel",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
    ],
    "influencedBy": [
     "Edward Lear",
@@ -48884,6 +48993,10 @@
     {
      "id": 2687,
      "title": "Another Time"
+    },
+    {
+     "id": 2907,
+     "title": "In Praise of Limestone"
     },
     {
      "id": 2685,
@@ -48900,16 +49013,22 @@
     {
      "id": 2684,
      "title": "The Orators: An English Study"
+    },
+    {
+     "id": 2908,
+     "title": "The Shield of Achilles"
     }
    ],
    "sources": [
+    "In Praise of Limestone (Wikipedia)",
     "Modernism: A Guide to European Literature 1890–1930",
     "The Cambridge History of Twentieth-Century English Literature",
     "The Columbia Literary History of the United States",
     "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Dictionary of National Biography, 60 vols"
+    "The Oxford Dictionary of National Biography, 60 vols",
+    "The Shield of Achilles (Wikipedia)"
    ]
   },
   {
@@ -56044,6 +56163,58 @@
     "Samuel Selvon (Asian Heritage in Canada, Toronto Metropolitan University Library)",
     "Samuel Selvon (Encyclopaedia Britannica)",
     "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)"
+   ]
+  },
+  {
+   "id": 2912,
+   "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
+   "altTitles": [
+    "A Bronzeville Mother Loiters in Mississippi"
+   ],
+   "authorship": "single",
+   "authors": [
+    "Gwendolyn Brooks"
+   ],
+   "authorIds": [
+    715
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (long narrative and dramatic poem in free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A long poem by Gwendolyn Brooks on the murder of Emmett Till, published in The Bean Eaters (1960). It is told through the consciousness of a white woman modelled on Carolyn Bryant, whose husband was one of the men accused of killing the fourteen-year-old Chicago boy in Mississippi in 1955, as she makes breakfast in her kitchen after the acquittal.",
+   "summary": "The young wife's reflections on the ballad she had imagined herself in, on the 'Dark Villain' who turned out to be a child, on her husband and her own children, and on the boy's mother; her growing revulsion from her husband.",
+   "plot": "From childhood the woman has imagined life as a ballad, with herself as the milk-white maid, a Dark Villain and a Fine Prince who rescues her. Now, in her kitchen, burning the bacon as she makes breakfast after the trial, she finds the story will not fit: the villain was a child of fourteen, his eyes and his mother's grief haunt her, and the prince is her husband, who has killed and been acquitted. When he slaps one of their small children across the face, the blood she has been imagining seems to rise in the room, and as he embraces her she can think only of the killing. She does not scream, but a hatred for him bursts into glorious flower, bigger than all magnolias. The poem ends by pointing to the last bleak news of the ballad: 'The last quatrain.'",
+   "significance": "Brooks's most ambitious poem in The Bean Eaters and one of the major literary responses to the Till case, unusual in imagining it through the white wife.",
+   "meter": "Interior monologue in the third person, mixing fairy-tale and ballad diction with domestic realism and newspaper fact; recurrent imagery of red, blood and magnolias.",
+   "context": "Emmett Till, a black Chicago teenager visiting relatives, was murdered in August 1955 after being accused of whistling at Carolyn Bryant; his mother's open-casket funeral and the acquittal of the killers made the case a catalyst of the civil rights movement. Brooks, a mother in Chicago, published the poem five years later.",
+   "characters": "",
+   "structure": "Long free-verse paragraphs of varying line length following the woman's thoughts through a single morning, with the ballad as a frame she keeps testing; the title's full stop divides it into two headline-like sentences, and the last line hands over to 'The Last Quatrain of the Ballad of Emmett Till'.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Narrative Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "Brooks, Gwendolyn (SAGE Encyclopedia of Motherhood)",
+    "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
+    "Maids Mild and Dark Villains, Sweet Magnolias and Seeping Blood: Gwendolyn Brooks's Poetic Response to the Lynching of Emmett Till (ResearchGate abstract)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -102650,6 +102821,52 @@
    ]
   },
   {
+   "id": 2907,
+   "title": "In Praise of Limestone",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "W. H. Auden"
+   ],
+   "authorIds": [
+    835
+   ],
+   "compositionStart": "1948",
+   "compositionEnd": "1948",
+   "compositionCirca": false,
+   "dates": "1948",
+   "publicationDate": "1948",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (meditative and topographical, in long and short unrhymed lines)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem by W. H. Auden, written on Ischia in May 1948, the first he wrote in Italy, and published in Horizon in July 1948 before its collection in Nones (1951). A meditation on the Mediterranean limestone landscape as the one human landscape, it is regarded as central to his canon and one of his finest poems.",
+   "summary": "A description of a limestone landscape and of the people it forms, set against the granite, clay and ocean that tempt saints, tyrants and romantic solitaries, and ending in a vision of faultless love and the life to come as a limestone landscape.",
+   "plot": "If there is one landscape that 'we, the inconstant ones' are consistently homesick for, the poem begins, it is because limestone dissolves in water: its rounded hills, caves, springs and short distances shape a people who are local, sensual, quarrelsome and unable to imagine a god of rage. The best and worst never stayed there long but sought immoderate soils: granite wastes for the saints-to-be, clays and gravels for the would-be tyrants, who left slamming the door, and the oceanic whisper for the really reckless: 'I am the solitude that asks and promises nothing'. The speaker admits that the landscape seems historically unimportant, and that the poet, admired for calling the sun the sun, is made uneasy by it. Yet it makes a further point: in a world where sins can be forgiven and bodies rise from the dead, the blessed will not care from what angle they are seen, having nothing to hide. Dear, he ends, I know nothing of either, but when I try to imagine a faultless love or the life to come, what I hear is the murmur of underground streams, what I see is a limestone landscape.",
+   "significance": "Called sui generis and even the first postmodern pastoral, it is one of the most studied of Auden's later poems and a central text for his post-war turn to the body, the ordinary and Christian belief.",
+   "meter": "Conversational, discursive and witty, with long sentences and a relaxed, unrhymed line; a mixture of plain speech and theological vocabulary.",
+   "context": "Auden, who had moved to the United States in 1939 and returned to Christianity, spent the spring and summer of 1948 on Ischia with Chester Kallman; the poem opens the Italian phase of his work. He revised it from 1958 and gave it a prominent place in Collected Shorter Poems, 1922-1957 (1966).",
+   "characters": "",
+   "structure": "A single long verse paragraph moving from description through the catalogue of other soils and the poet's unease to the theological turn and the closing confession.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Pastoral and Rural Poetry"
+   ],
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss"
+   ],
+   "movements": [],
+   "editions": [],
+   "sources": [
+    "In Praise of Limestone (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2171,
    "title": "In the Days When the World Was Wide",
    "altTitles": [],
@@ -125846,6 +126063,54 @@
    "sources": [
     "The Cambridge History of Early Modern English Literature",
     "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+   ]
+  },
+  {
+   "id": 2905,
+   "title": "On Not Shooting Sitting Birds",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Jean Rhys"
+   ],
+   "authorIds": [
+    696
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1976",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A short story by Jean Rhys, collected in Sleep It Off Lady (1976), her last collection, after an earlier printing in The New Yorker: a young West Indian woman in London recalls an evening with an Englishman that goes wrong over a story about shooting birds.",
+   "summary": "An evening out between a young woman from the Caribbean and an Englishman she hopes to impress, and the remark about shooting birds at home that ends his interest in her.",
+   "plot": "The narrator, a young woman from the West Indies living in London, goes out with an Englishman she wants to please. Trying to interest him, she talks about her island and about going out shooting there; when he gathers that she has shot sitting birds, the one thing his sporting code forbids, he is put off, the evening falls flat and he drops her for good.",
+   "significance": "One of the late stories that confirmed Rhys's revival after Wide Sargasso Sea; Norton pairs it with \"The Day They Burned the Books\".",
+   "meter": "Spare, understated prose and dialogue in which the comedy of manners is barely distinguished from humiliation.",
+   "context": "Sleep It Off Lady, published by André Deutsch in October 1976, arranges sixteen stories chronologically from the Dominica of the 1890s to the old age of its last heroines; Rhys died in 1979.",
+   "characters": "",
+   "structure": "A brief first-person reminiscence, one of the stories of Sleep It Off Lady that follow a Caribbean heroine from girlhood through Edwardian London.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Short Story"
+   ],
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora"
+   ],
+   "movements": [
+    "Caribbean Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Sleep It Off Lady (Wikipedia)",
+    "Sleep It Off Lady: Stories (Trove, National Library of Australia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -152189,6 +152454,54 @@
    ]
   },
   {
+   "id": 2911,
+   "title": "The Bean Eaters",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gwendolyn Brooks"
+   ],
+   "authorIds": [
+    715
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (three short stanzas)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The title poem of Gwendolyn Brooks's third collection, The Bean Eaters (1960): an old couple eat their dinner of beans in a rented back room crowded with the keepsakes of their life.",
+   "summary": "An elderly couple at a plain meal; their routine of dressing and tidying; their memories, stirred by the objects that fill their room.",
+   "plot": "'They eat beans mostly, this old yellow pair.' Dinner is a casual affair of plain chipware, creaking wood and tin flatware. They are two who are 'Mostly Good', two who have lived their day but keep on putting on their clothes and putting things away, and remembering, with twinklings and twinges, as they lean over the beans in their rented back room full of beads and receipts and dolls and cloths, tobacco crumbs, vases and fringes.",
+   "significance": "One of Brooks's most anthologised short poems; Gale's Poetry for Students gives it an entry of its own.",
+   "meter": "Plain description with ironic touches ('Dinner is a casual affair') and the closing list of objects, which holds the couple's past.",
+   "context": "The Bean Eaters (1960) is the collection in which Brooks turned increasingly to the lives of poor Chicagoans and to the public events of the civil rights years.",
+   "characters": "",
+   "structure": "Three brief stanzas of irregular line length and loose rhyme, ending in a long catalogue line.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "The Bean Eaters (Gale, Poetry for Students, via Encyclopedia.com)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1586,
    "title": "The Beautiful",
    "altTitles": [
@@ -152883,6 +153196,55 @@
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2914,
+   "title": "The Blackstone Rangers",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gwendolyn Brooks"
+   ],
+   "authorIds": [
+    715
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1968",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (sequence in three parts)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem in three parts by Gwendolyn Brooks on the Blackstone Rangers, a Chicago street gang, published in In the Mecca (1968), the book of her turn towards the Black Arts Movement.",
+   "summary": "The gang as seen by those who would discipline it; its leaders; and a 'Rangerette', one of the gang girls.",
+   "plot": "In 'As Seen by Disciplines' the Rangers are thirty at the corner, black, raw, ready, sores in the city that do not want to heal. 'The Leaders' names Jeff, Gene, Geronimo and Bop, who are hardly the dupes of downtown, hardly Belafonte, King or Malcolm X, and whose country is a nation on no map. 'Gang Girls' follows Mary Ann, a rose in a whiskey glass, whose year passes in the narrow world of the gang, save for her love.",
+   "significance": "A key poem of Brooks's late-1960s transformation and of the Black Arts era's attention to the black city.",
+   "meter": "Compressed, inventive diction and wordplay ('They cancel, cure and curry'), mixing street names and lyrical figures; freer forms than her earlier work.",
+   "context": "In the Mecca (Harper and Row, 1968), Brooks's first new collection in nearly ten years, pairs its long title poem with shorter poems on contemporary figures and events, among them Medgar Evers, Malcolm X, the Chicago Picasso, the Wall mural and the Blackstone Rangers.",
+   "characters": "",
+   "structure": "Three titled sections of different length and manner, moving from the outside view to the leaders and then to a single girl.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Black Arts Poetry",
+    "Political Poetry",
+    "Social Poetry"
+   ],
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Black Arts Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "In the Mecca: Poems (University of Pennsylvania Libraries, Franklin catalogue)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -156217,6 +156579,55 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2909,
+   "title": "The Children of the Poor",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gwendolyn Brooks"
+   ],
+   "authorIds": [
+    715
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1949",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Sonnet sequence (in 'The Womanhood', the last part of Annie Allen)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A sequence of sonnets by Gwendolyn Brooks that opens 'The Womanhood', the final part of Annie Allen (1949), the book that made her the first African American to win the Pulitzer Prize. A mother asks what she can give her children, who are poor and black, to carry them through the world.",
+   "summary": "A mother's meditation, in sonnets, on what she can give her poor children, on whether to teach them to pray, and on what they must do to survive.",
+   "plot": "The sonnets speak as a mother. In the best-known, she asks what she can give her children, who are poor, 'adjudged the leastwise of the land', her 'sweetest lepers', who demand no luxuries but have begged her for a firm shape, crying that they are unfinished, made by a hand less than sure. Her hand is full of mode, design and device, but she lacks access to her proper stone, and no plan, grief or love will be enough to ratify her little halves as they cross an autumn freezing everywhere. Other sonnets ask whether she should teach them to pray, and urge that they first fight, then fiddle.",
+   "significance": "The sonnets are among Brooks's most admired formal achievements and a key text of mid-century African American poetry; Norton prints the sequence, or part of it, as its representation of Annie Allen.",
+   "meter": "Dense, Latinate diction and inversions ('My hand is stuffed with mode, design, device') set against plain speech; the formal sonnet bent to a mother's anger and tenderness.",
+   "context": "Annie Allen, published by Harper and Brothers on 1 October 1949, follows its heroine from girlhood through the mock epic 'The Anniad' to 'The Womanhood', where she looks at a world she would like to change; it won Poetry's Eunice Tietjens Prize and the 1950 Pulitzer Prize.",
+   "characters": "",
+   "structure": "Petrarchan and Shakespearean sonnets, compressed and syntactically intricate, in the sequence that begins the volume's final part.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Formal Verse",
+    "Social Poetry",
+    "Sonnet"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "Annie Allen (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -160141,6 +160552,54 @@
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2904,
+   "title": "The Day They Burned the Books",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Jean Rhys"
+   ],
+   "authorIds": [
+    696
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A short story by Jean Rhys, set in the Dominica of her childhood around the turn of the twentieth century and told by a white Creole girl who remembers her friend Eddie and the day his mother burned his dead father's books. Rhys wrote it while she was working on Wide Sargasso Sea, and it was published in 1960, six years before the novel; it was collected in Tigers Are Better-Looking (1968).",
+   "summary": "The narrator's friendship with Eddie Sawyer, the son of an Englishman and a coloured wife; Mr Sawyer's room of books from England; his death, and the afternoon when Mrs Sawyer clears the room, sorting the books to be sold or burned; the two children's attempt to save a book each.",
+   "plot": "The narrator, a white Creole girl of twelve on a West Indian island, recalls her friend Eddie, small, consumptive and precocious, the son of Mr Sawyer, an Englishman who works as an agent for a steamship line and has settled on the island for no reason anyone can see. He is not a gentleman by colonial standards, and he treats his pretty, nicely educated coloured wife with insulting contempt. His one passion is the room of books he has had sent out from England, which Eddie calls his own and where the children read; through Eddie the narrator first comes to doubt the England the colonials call home. After Mr Sawyer dies suddenly, Mrs Sawyer and her servant clear the room, sorting the books into those to be sold and those to be burned, and Mrs Sawyer tears and pitches them with evident satisfaction. Eddie protests and rushes at her, and in the confusion the two children each snatch a book and run. Eddie's is Kim, torn; the narrator's turns out to be Maupassant's Fort comme la mort, in French.",
+   "significance": "One of Rhys's most discussed stories and a companion piece to Wide Sargasso Sea, it is a frequently anthologised text of Caribbean and postcolonial writing; Norton prints it with \"On Not Shooting Sitting Birds\".",
+   "meter": "Plain, exact and economical prose; imagistic detail of heat, light and the room; the child's half-understanding of adult tensions conveyed without commentary.",
+   "context": "Written in the years when Rhys, long out of print and thought by many to be dead, was working on Wide Sargasso Sea, and drawing on her childhood in Dominica, where she was born in 1890; the story looks back to the colonial society of about 1900.",
+   "characters": "",
+   "structure": "A first-person reminiscence told from an unspecified later date but through the child's eyes, as a cluster of vivid memories; brief scenes build to the single afternoon of the burning and end abruptly with the two rescued books.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Short Story"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Decolonisation, the end of empire and the new nation",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "'The Day They Burned the Books' (chapter 6 of a Cambridge University Press study of Jean Rhys, Cambridge Core)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -178216,6 +178675,55 @@
     "Oxford Dictionary of National Biography",
     "The Letters and Journals of James Fenimore Cooper (6 volumes)",
     "The Norton Anthology of American Literature (9th edition)"
+   ]
+  },
+  {
+   "id": 2913,
+   "title": "The Last Quatrain of the Ballad of Emmett Till",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gwendolyn Brooks"
+   ],
+   "authorIds": [
+    715
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (short free-verse lyric)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A short poem by Gwendolyn Brooks that follows 'A Bronzeville Mother Loiters in Mississippi' in The Bean Eaters (1960) and completes its ballad: Emmett Till's mother, after the murder and the burial, alone in a red room.",
+   "summary": "Till's mother in Chicago after her son's funeral: her appearance, her red room, her black coffee, her kiss for her killed boy, and the chaos of the landscape.",
+   "plot": "Subtitled 'after the murder, after the burial', the poem shows Emmett's mother, a pretty-faced woman the tint of pulled taffy, sitting in a red room drinking black coffee. She kisses her killed boy, and she is sorry. The poem closes on chaos in windy grays through a red prairie.",
+   "significance": "Paired with 'A Bronzeville Mother' as Brooks's response to the Till case, it is among her most frequently anthologised short poems.",
+   "meter": "Understated, almost flat statement ('And she is sorry') and a closing image of colour and weather.",
+   "context": "Mamie Till Bradley's insistence on an open casket made her son's murder in 1955 a national cause; Brooks, writing from Chicago, gives her the last word of the pair of poems.",
+   "characters": "",
+   "structure": "A handful of very short lines, presented as the 'last quatrain' that the preceding poem announces.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
+    "Maids Mild and Dark Villains, Sweet Magnolias and Seeping Blood: Gwendolyn Brooks's Poetic Response to the Lynching of Emmett Till (ResearchGate abstract)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -197730,6 +198238,53 @@
    ]
   },
   {
+   "id": 2908,
+   "title": "The Shield of Achilles",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "W. H. Auden"
+   ],
+   "authorIds": [
+    835
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1952",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (two alternating stanza forms, one in rhyme royal)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem by W. H. Auden, first published in 1952 and the title poem of his collection The Shield of Achilles (1955), which won the National Book Award for Poetry in 1956. It rewrites Homer's description of the shield of Achilles in the Iliad: Thetis looks for scenes of peace and plenty and finds the barren, impersonal violence of the modern world.",
+   "summary": "Thetis watches Hephaestus making the shield for her son; the scenes she expects and the scenes he makes: a faceless army, an execution watched by a passive crowd, a ragged urchin in a vacant field; her dismay.",
+   "plot": "Thetis looks over Hephaestus's shoulder for vines and olive trees, marble cities and ships on untamed seas, but on the shining metal he has put an artificial wilderness under a sky like lead. An unintelligible multitude, a million eyes and boots in line, waits on a featureless plain while a voice without a face proves by statistics that some cause was just; they march away enduring a belief whose logic brings them somewhere else to grief. She looks for ritual pieties, white flower-garlanded heifers and libation, and sees instead a barbed-wire enclosure where bored officials lounge and sentries sweat, while a crowd of ordinary decent folk watch three pale figures led forth and bound to posts, unable to hope for help. She looks for athletes at their games and dancers moving to music, and sees a weed-choked field where a ragged urchin, aimless and alone, throws a stone at a bird; he takes for granted that girls are raped and that two boys knife a third, and has never heard of any world where promises are kept or one could weep because another wept. The thin-lipped armourer limps away, and Thetis cries out in dismay at what the god has made to please her son, the strong, iron-hearted, man-slaying Achilles, who would not live long.",
+   "significance": "One of Auden's best-known poems and a classic modern ekphrasis, widely anthologised as a poem about war and atrocity; the collection it names won the National Book Award.",
+   "meter": "The lyric, ballad-like short stanzas contrast with the grave, documentary long stanzas; flat, abstract diction for the modern scenes, sensuous imagery for the Homeric ones.",
+   "context": "Written in the aftermath of the Second World War, the camps and the show trials, and published in the first years of the Cold War; the 1955 collection gathers poems of about 1951-1954, including the sequences Bucolics and Horae Canonicae.",
+   "characters": "",
+   "structure": "Short-lined eight-line stanzas, giving what Thetis looks for, alternate with seven-line stanzas of longer lines in rhyme royal (ababbcc), describing what Hephaestus makes; a final short-lined stanza gives Thetis's cry.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Formal Verse",
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Power, the state and surveillance",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
+   ],
+   "movements": [],
+   "editions": [],
+   "sources": [
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "The Shield of Achilles (Wikipedia)"
+   ]
+  },
+  {
    "id": 297,
    "title": "The Ship of Fools",
    "altTitles": [
@@ -210657,6 +211212,54 @@
    ]
   },
   {
+   "id": 2915,
+   "title": "To the Diaspora",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gwendolyn Brooks"
+   ],
+   "authorIds": [
+    715
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1981",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem by Gwendolyn Brooks in To Disembark (1981), published by Third World Press, subtitled 'you did not know you were Afrika': an address to black people of the diaspora on a journey towards Africa that turns out to be a journey into themselves.",
+   "summary": "An address to 'you', who set out for Africa without knowing that the black continent to be reached was yourself; the speaker's earlier, disbelieved prophecy; a call to the hard work still to be done.",
+   "plot": "When you set out for Afrika, the speaker tells the diaspora, you did not know you were going, because you did not know you were Afrika, that the black continent that had to be reached was you. The speaker could not have told you then that some sun would come, evoking the diamonds of you; you would not have believed it, and when told you smiled and thanked her but hardly believed. Here is some sun, the poem says, and now off into the places rough to reach: your work, that was done, to be done to be done to be done.",
+   "significance": "A representative late poem of Brooks's Black Arts commitment, and the latest of her poems that Norton prints.",
+   "meter": "Direct address, the spelling 'Afrika', repetition and incantation in the closing line.",
+   "context": "After 1967 Brooks left Harper and published with black presses such as Broadside Press and Third World Press; To Disembark gathers poems of this period.",
+   "characters": "",
+   "structure": "Free-verse paragraphs addressed to 'you', moving from the journey to the speaker's prophecy and to the repeated, open-ended last line.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Black Arts Poetry",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Black Arts Movement"
+   ],
+   "editions": [],
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "To The Diaspora (work) (Black Bibliography Project, Rutgers University)"
+   ]
+  },
+  {
    "id": 956,
    "title": "To the Ladies",
    "altTitles": [],
@@ -215598,6 +216201,57 @@
    ]
   },
   {
+   "id": 2906,
+   "title": "Waiting for Godot",
+   "altTitles": [
+    "En attendant Godot"
+   ],
+   "authorship": "single",
+   "authors": [
+    "Samuel Beckett"
+   ],
+   "authorIds": [
+    760
+   ],
+   "compositionStart": "1948",
+   "compositionEnd": "1949",
+   "compositionCirca": false,
+   "dates": "1948 – 1949",
+   "publicationDate": "1954",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Play (tragicomedy in two acts; the author's English version of En attendant Godot)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Samuel Beckett's tragicomedy in two acts, in which two tramps, Vladimir and Estragon, wait by a leafless tree on a country road for a Mr Godot, who never comes. Beckett wrote it in French between October 1948 and January 1949; En attendant Godot was published in 1952 and first performed in Paris in January 1953, and his own English version, recorded here because it is the text Norton prints, was published in 1954 and first staged in London in 1955. It is his best-known work and one of the most influential plays of the century.",
+   "summary": "Two acts on two successive evenings, each with the same shape: Vladimir and Estragon pass the time waiting for Godot; the master Pozzo and his servant Lucky pass by; a boy brings word that Godot will not come today but surely tomorrow; the two decide to go and do not move. Between the acts Pozzo has gone blind and Lucky dumb, and the tree has put out a few leaves.",
+   "plot": "Act I. On a country road by a bare tree, in the evening, Estragon struggles to pull off his boot and tells Vladimir that he spent the night in a ditch and was beaten. They talk at length, about the two thieves crucified with Christ and why only one gospel says one was saved, about hanging themselves from the tree, and about the man they are waiting for, Godot, though they are not sure they have ever met him, whether this is the right place or the right day, or what they asked him for. Pozzo arrives, driving Lucky before him on a rope and laden with his bags. Pozzo eats chicken while Estragon begs for the bones, lectures on the twilight, and says he is taking Lucky to the fair to sell him. At Pozzo's order Lucky dances and then, told to think, pours out a torrent of broken academic and theological speech about a personal God and a shrinking, petrifying humanity, which ends only when the others seize his hat. Pozzo and Lucky leave. A boy comes with a message from Mr Godot: he will not come this evening but surely tomorrow. The boy minds the goats; his brother, who minds the sheep, is beaten. Night falls and the moon rises. 'Well, shall we go?' 'Yes, let's go.' They do not move.\n\nAct II. The next day, the same time and place; the tree has a few leaves. Vladimir sings a circular song about a dog; Estragon has been beaten again and remembers little of yesterday. To pass the time they abuse each other, make up, exercise, play at being Pozzo and Lucky and juggle hats, including the one Lucky left behind. Pozzo and Lucky return: Pozzo is now blind and Lucky dumb, and they fall in a heap from which Vladimir and Estragon, after much delay, raise them. Pozzo remembers nothing of the day before and, asked when his blindness came, rages that one day is like any other: they give birth astride of a grave, the light gleams an instant, then it is night once more. When they have gone Vladimir, watching Estragon sleep, wonders whether he too is asleep and what he will remember of today. The boy returns, or another like him, says he did not come yesterday and repeats the message: Mr Godot will not come this evening but tomorrow. Godot, the boy says, does nothing, and his beard is white. The two try to hang themselves with the cord that holds up Estragon's trousers, which breaks, and the trousers fall. They will hang themselves tomorrow, unless Godot comes; then they will be saved. 'Well? Shall we go?' 'Yes, let's go.' They do not move.",
+   "significance": "Voted the most significant English-language play of the twentieth century in a 1998 poll by the Royal National Theatre, the play transformed modern drama in Britain, Ireland, Europe and America, freeing the stage from plot and psychological realism and influencing Pinter, Stoppard and generations of dramatists. It made Beckett famous and was central to the case for his Nobel Prize in Literature (1969). It is constantly revived, adapted and studied, and Norton prints it entire.",
+   "meter": "Spare, rhythmic dialogue built from short exchanges, repetitions and echoes; the comedy of the music hall, the circus and silent film (hats, boots, falling trousers) set against lyrical and philosophical passages; an English version that keeps the French text's plainness while adding its own idiom.",
+   "context": "Beckett, an Irish writer living in Paris, turned to writing in French after the Second World War, in which he had served in the Resistance; he wrote the play between his novels Malone meurt and L'Innommable. Roger Blin directed the premiere at the Théâtre de Babylone in January 1953. Martin Esslin later placed it at the head of what he called the Theatre of the Absurd.",
+   "characters": "Vladimir (Didi); Estragon (Gogo); Pozzo; Lucky; a Boy",
+   "structure": "Two acts of nearly identical design, the second a variation of the first with the decline of Pozzo and Lucky; a single setting (a country road, a tree, evening); cross-talk, repetition, routines, pauses and silences; Lucky's monologue as the one unbroken torrent of speech; each act ends with an exchange contradicted by the stage direction 'They do not move'.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Absurdist Drama",
+    "Full-Length Play",
+    "Modern Tragicomedy"
+   ],
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ],
+   "movements": [
+    "Theatre of the Absurd"
+   ],
+   "editions": [],
+   "sources": [
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Waiting for Godot (Wikipedia)"
+   ]
+  },
+  {
    "id": 2232,
    "title": "Waiting for the Verdict",
    "altTitles": [],
@@ -216394,6 +217048,54 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2910,
+   "title": "We Real Cool",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gwendolyn Brooks"
+   ],
+   "authorIds": [
+    715
+   ],
+   "compositionStart": "1959",
+   "compositionEnd": "1959",
+   "compositionCirca": false,
+   "dates": "1959",
+   "publicationDate": "1960",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (four rhymed couplets)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem by Gwendolyn Brooks, written in 1959 and published in her third collection, The Bean Eaters (1960). In eight short lines, seven young pool players boast of the life they lead and arrive at its end, 'We / Die soon.' It is one of the most famous and most taught American poems of the century.",
+   "summary": "Under the heading 'The Pool Players. / Seven at the Golden Shovel', the players list what they do: leave school, lurk late, strike straight, sing sin, thin gin, jazz June, and die soon.",
+   "plot": "The poem is spoken by seven pool players at a hall called the Golden Shovel. 'We real cool,' they begin, and in short boasts they say what they do: they left school, they lurk late, they strike straight, they sing sin and thin gin, they jazz June. Each line ends on 'We', so that every boast is carried over into the next line, until the last, which has no 'We' after it: 'We / Die soon.' The swagger collapses into the knowledge, or the fate, the boasting has concealed.",
+   "significance": "Cited as one of the most celebrated examples of jazz poetry, it has been printed on broadsides, reprinted in textbooks, banned in places for 'jazz', and answered by later writers; Terrance Hayes's 'golden shovel' form takes its name from it.",
+   "meter": "Monosyllabic, vernacular speech with the syncopation of jazz; alliteration ('strike straight', 'sing sin') and the dropped copula of Black English.",
+   "context": "Brooks said the poem came from passing a pool hall full of boys in her Chicago neighbourhood and wondering how they felt about themselves. The Bean Eaters (1960) takes many of its subjects from the news of the civil rights years.",
+   "characters": "",
+   "structure": "Four couplets of three-word lines (after the two-line heading), with internal and end rhyme and the pronoun 'We' placed at the end of each line but the last, so that the enjambment enacts the players' hesitation.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Social Poetry"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Counterculture, drugs and rebellion",
+    "Death, illness and mourning"
+   ],
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ],
+   "editions": [],
+   "sources": [
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
+    "We Real Cool (Wikipedia)"
    ]
   },
   {

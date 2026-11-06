@@ -71,4 +71,58 @@ X10("George Orwell",
         "the Joys, the other two are compilations and a critical edition. Dates and publishers were "
         "checked against the Wikipedia and orwell.ru bibliographies and WorldCat; the Wikipedia list's "
         "1958 date for the American Dickens, Dali and Others is an error for 1946.")),
+X10("Jean Rhys",
+    bib_status="incomplete", ver="partially verified",
+    sources=["'The Day They Burned the Books' (chapter 6 of a Cambridge University Press study of Jean Rhys, Cambridge Core)",
+             "Sleep It Off Lady (Wikipedia)", "Sleep It Off Lady: Stories (Trove, National Library of Australia)"],
+    bib_note=("Whole-career bibliography, stated across installments 9 and 10. Books: The Left Bank and Other Stories "
+        "(1927), Quartet (1928), After Leaving Mr Mackenzie (1931), Voyage in the Dark (1934), Good Morning, Midnight "
+        "(1939), Wide Sargasso Sea (1966), Tigers Are Better-Looking (1968, stories), Sleep It Off Lady (1976, stories), "
+        "Smile Please (1979, unfinished autobiography, posthumous) and Letters 1931-1966 (1984, posthumous). Installment 9 "
+        "holds work records for Quartet, Voyage in the Dark and Good Morning, Midnight. Installment 10, which since "
+        "2026-11-06 records only the selections of the Norton anthologies, holds the stories 'The Day They Burned the "
+        "Books' (1960, collected in Tigers Are Better-Looking) and 'On Not Shooting Sitting Birds' (collected in Sleep It "
+        "Off Lady, 1976). Wide Sargasso Sea and the other books of 1946-1984 have no work records, so the bibliography "
+        "is incomplete.")),
+X10("Samuel Beckett",
+    bib_status="incomplete", ver="partially verified",
+    sources=["Waiting for Godot (Wikipedia)"],
+    bib_note=("Whole-career bibliography, stated across installments 9 and 10, and incomplete. Installment 9 holds work "
+        "records for the essay 'Dante...Bruno. Vico..Joyce' (1929), More Pricks Than Kicks (1934), Echo's Bones and Other "
+        "Precipitates (1935) and Murphy (1938), and lists Molloy (1951, in French), Watt (1953), The Unnamable (1953) and "
+        "Endgame (1957). Installment 10, which since 2026-11-06 records only the selections of the Norton anthologies, "
+        "holds Waiting for Godot, recorded as Beckett's English version (1954) of En attendant Godot (written 1948-1949, "
+        "published 1952, first performed 1953). His other prose, plays, poems and translations, in French and English, "
+        "of 1946-1989 are neither listed in full nor recorded.")),
+X10("W. H. Auden",
+    bib_status="incomplete", ver="partially verified",
+    sources=["In Praise of Limestone (Wikipedia)", "The Shield of Achilles (Wikipedia)"],
+    bib_note=("Whole-career bibliography, stated across installments 9 and 10. Installment 9 holds work records for "
+        "Poems (1930), The Orators (1932), Look, Stranger! (1936), Spain (1937) and Another Time (1940), and lists Poems "
+        "(1928, privately printed), the plays written with Christopher Isherwood (The Dog Beneath the Skin, 1935; The "
+        "Ascent of F6, 1936; On the Frontier, 1938) and The Dance of Death (1933), Letters from Iceland (1937, with Louis "
+        "MacNeice), Journey to a War (1939, with Isherwood), The Double Man (1941; UK title New Year Letter), For the Time "
+        "Being and The Sea and the Mirror (1944), The Age of Anxiety (1947), The Shield of Achilles (1955), Homage to Clio "
+        "(1960), About the House (1965), City Without Walls (1969), Epistle to a Godson (1972), Thank You, Fog (1974, "
+        "posthumous) and Collected Poems (1976, posthumous); Nones (1951) and Collected Shorter Poems, 1922-1957 (1966) "
+        "are added here. Installment 10, which since 2026-11-06 records only the selections of the Norton anthologies, "
+        "holds 'In Praise of Limestone' (1948, collected in Nones) and 'The Shield of Achilles' (1952, title poem of the "
+        "1955 collection). The books of 1941-1976 have no work records, and the prose (The Enchafed Flood, The Dyer's "
+        "Hand and others) and libretti are not listed, so the bibliography is incomplete.")),
+X10("Gwendolyn Brooks",
+    bib_status="incomplete", ver="partially verified",
+    sources=["Annie Allen (Wikipedia)", "We Real Cool (Wikipedia)",
+             "In the Mecca: Poems (University of Pennsylvania Libraries, Franklin catalogue)",
+             "To The Diaspora (work) (Black Bibliography Project, Rutgers University)"],
+    bib_note=("Whole-career bibliography, stated across installments 9 and 10. Books: A Street in Bronzeville (1945), "
+        "Annie Allen (1949; Pulitzer Prize 1950), Maud Martha (1953, novel), Bronzeville Boys and Girls (1956, for "
+        "children), The Bean Eaters (1960), Selected Poems (1963), In the Mecca (1968), Riot (1969), Family Pictures "
+        "(1970), Report from Part One (1972, autobiography), Beckonings (1975), To Disembark (1981), The Near-Johannesburg "
+        "Boy (1986) and Children Coming Home (1991). Installment 9 holds the record for A Street in Bronzeville. "
+        "Installment 10, which since 2026-11-06 records only the selections of the Norton anthologies, holds seven "
+        "poems: 'The Children of the Poor' (Annie Allen, 1949); 'We Real Cool', 'The Bean Eaters', 'A Bronzeville Mother "
+        "Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon' and 'The Last Quatrain of the Ballad of "
+        "Emmett Till' (The Bean Eaters, 1960); 'The Blackstone Rangers' (In the Mecca, 1968); and 'To the Diaspora' (To "
+        "Disembark, 1981). The books of 1949-1991 have no work records of their own, so the bibliography is "
+        "incomplete.")),
 ]
