@@ -125,6 +125,12 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
   - the WorldCat record of *Shooting an Elephant* (OCLC 2552523); Darcy Moore's collector's list of first editions;
   - the texts of "The Freedom of the Press" published by the Orwell Foundation and the Marxists Internet Archive;
   - the Gale *Dictionary of Literary Biography* entry (seen only as a search extract, and labelled so in the source record).
+- **Wave 06 (Tutuola):**
+  - Wikipedia (raw wikitext): "Amos Tutuola", "The Palm-Wine Drinkard", "My Life in the Bush of Ghosts (novel)"; Encyclopaedia Britannica, "Amos Tutuola";
+  - four Gale entries compiled on Encyclopedia.com: *Contemporary Black Biography* (Carol Brennan, drawing on Bernth Lindfors's *Dictionary of Literary Biography* essay), the *Gale Contextual Encyclopedia of World Literature*, the *Encyclopedia of World Biography*, and *Contemporary Literary Criticism*. Of the last, chunks 0 and 8 of 13 were read, including part of Chris Dunton's 2006 essay on the unpublished plays; some of its *Ajaiyi* detail was seen only as a search extract;
+  - ISFDB: the summary bibliography and the contents of *Yoruba Folktales* (data from OCLC 16907864) and *The Village Witch Doctor & Other Stories*;
+  - Faber's descriptions of the reissues of *The Brave African Huntress*, *Ajaiyi and His Inherited Poverty*, *Feather Woman of the Jungle* and *Pauper, Brawler and Slanderer*, used only for plot outlines;
+  - not used: an unauthorised online copy of Lindfors's *Critical Perspectives on Amos Tutuola* (1975) that appeared in search results; Britannica's AI-generated *Simbi* summary; LibraryThing reader reviews; and the *New York Times* review of *The Brave African Huntress*, which returned HTTP 403.
 - **Corrections to installments 8–9:**
   - Wikipedia (raw wikitext): "H. G. Wells" (lead and early life), "Pastors and Masters", "The Nebuly Coat", "The Fashion in Shrouds", "Surfeit of Lampreys", "Down and Out in Paris and London", "A Clergyman's Daughter", "Inside the Whale and Other Essays", "Inside the Whale", "The Lion and the Unicorn: Socialism and the English Genius" and "Malcolm Muggeridge" (lead, early career, Moscow and list of works);
   - the Ngaio Marsh House bibliography of Marsh's published works (ngaiomarsh.org), which gives the first US and UK editions of every novel. For *Death of a Peer* (Boston 1940) it is corroborated by bookseller listings of the first edition, seen as search extracts only;
@@ -133,9 +139,10 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 
 ## 15. Remaining limitations and unresolved issues
 
-1. **Coverage is at the very beginning.** Installment 10 holds 43 works by 5 authors: waves 01–04 (Ellison, Larkin, Hansberry and Murray, who have installment-10 author records) and wave 05 (Orwell, whose record belongs to installment 9). The discovery baseline lists 5,706 candidate authors, and the movement, genre and theme taxonomies are defined, but almost all of the reconstruction is still to do.
+1. **Coverage is at the very beginning.** Installment 10 holds 54 works by 6 authors: waves 01–04 (Ellison, Larkin, Hansberry and Murray), wave 05 (Orwell, whose record belongs to installment 9) and wave 06 (Amos Tutuola, the first author from outside the British and American traditions). The discovery baseline lists 5,706 candidate authors, and the movement, genre and theme taxonomies are defined, but almost all of the reconstruction is still to do.
 2. **Gaps in the baseline itself.** The Post45 datasets are overwhelmingly American, and their British data begin in 1990. The Booker list now covers British, Irish and Commonwealth *novels* from 1969, but only novels by Commonwealth and Irish citizens; it contains no poetry, drama or criticism.
    - **Evidence:** none of the three authors added in waves 02–04 was in the inventory: Larkin (poetry), Hansberry (drama) and Murray (criticism and jazz writing). The inventory therefore cannot serve as the denominator of completeness for poetry, drama or criticism.
+   - **Further evidence (wave 06):** Amos Tutuola is not in the inventory either, although the movement taxonomy dates African literature in English from his first book (1952). The prize-based baseline misses African, Caribbean and South Asian writing before the Booker list begins in 1969. A publishers'-series inventory (for example Heinemann's African Writers Series) and the national bibliographies are needed for those traditions.
    - **Planned inventories:**
      - Whitbread from 1971, the Hawthornden Prize, the James Tait Black and Somerset Maugham awards, the Cholmondeley Award, the Queen's Gold Medal for Poetry, and the Carnegie and Kate Greenaway Medals;
      - the Governor General's Awards, the Miles Franklin Award, the New Zealand book awards, the Sahitya Akademi Award for English, the Noma Award and the Commonwealth Writers' Prize;
@@ -144,7 +151,8 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 3. **Name variants in the inventory.** For example "Angela Thirkell" and "Angela Mackail Thirkell". They are folded only by punctuation and accents, so a few authors appear twice; these are merged by hand when a wave reaches them.
 4. **Translated foreign authors** (for example Camus and Moravia) appear among the bestsellers. They are out of scope unless they are theorists covered by Part VII.
 5. **Partial verification.**
-   - All 43 work records are *partially verified*: their bibliographic facts were checked, but their plot and critical texts were not checked against a source in this pass.
+   - The 43 work records of waves 01–05 are *partially verified*: their bibliographic facts were checked, but their plot and critical texts were not checked against a source in this pass.
+   - Of wave 06's 11 records, 4 are *verified*, their plots corroborated by two or more reference sources (*The Palm-Wine Drinkard*, *My Life in the Bush of Ghosts*, *Simbi* and *The Witch-Herbalist*). 7 are *partially verified*, their content known only from a publisher's description or a single summary (*The Brave African Huntress*, *Feather Woman of the Jungle*, *Ajaiyi*, *The Wild Hunter*, *Yoruba Folktales*, *Pauper, Brawler and Slanderer* and *The Village Witch Doctor*). None of the eleven books was read.
    - Open bibliographic questions are written into the records' research notes. Examples: the first-edition publisher of *A Raisin in the Sun*; the 1971 or 1972 date of *South to a Very Old Place*; the publisher of *The Movement* (1964); the network behind *The Drinking Gourd*; the lecture series behind *The Hero and the Blues*.
    - Orwell's sources disagree on several points, each recorded on the record concerned: the Wikipedia bibliography dates the American *Such, Such Were the Joys* 1958 (Harcourt, Brace published it on 26 February 1953) and names a publisher that did not yet exist; the preface's typescript is said to have been found in 1971 or in 1972; "I Write As I Please" appears in WorldCat but not in orwell.ru's lists; the two orwell.ru lists differ on the contents of the 1953 collection; the *Collected Essays, Journalism and Letters* is dated "1968" or "1968–1970".
 6. **Unresolved attributions:** *Reflections on Logic, Politics, and Reality* (1989), listed under Albert Murray by Gale and the Alabama Authors database, and *The Fantasy Poets No. 21* (1954, contents unverified) are named in the authors' bibliography notes but have no work records.
@@ -155,6 +163,22 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 11. **Earlier-installment authors.** The method is settled: an author keeps the single record of the installment that first recorded them, installment 10 links its works to that record, and the bibliography statement reaches it through `scripts/content/i10_extensions.py`, merged when the earlier installment is built. Orwell is the only author done so far.
 12. **Whole-database integrity residuals (Audit 6).** 23 works have no author link (anonymous works excluded), and 4 authors have no works: Ranulf Higden (installment 2), Andrew Bell and Thomas Babington Macaulay (installment 7), and A. J. Cronin (installment 9), whose novels have no work records; those of 1946 onwards belong to installment 10.
 13. **The Android app was not run.** Its data file was regenerated and checked against the database record by record (Audit 7), but the app was not rebuilt, and its screens and filters were not tested in this session.
+14. **Wave 06 discrepancies (Tutuola), recorded and not resolved:**
+    - *Simbi*: 1955, or 1956 in the *Encyclopedia of World Biography* and *Contemporary Literary Criticism*.
+    - *The Witch-Herbalist*: 1981, or 1980 in the *Encyclopedia of World Biography*.
+    - The narrator's years in the Bush of Ghosts: twenty-four, or twenty in *Contemporary Literary Criticism*.
+    - *The Village Witch Doctor*: twelve stories in ISFDB, eighteen in the Gale Contextual Encyclopedia.
+    - Birthplace: Wasinmi in Wikipedia, Ipose-Ake in *Contemporary Black Biography*.
+    - RAF service: 1942–45 in Wikipedia, 1943–45 in the Gale entries.
+    - *The Wild Hunter* is classed as a single narrative by two Gale entries and as short stories by a third.
+    - The Gale Contextual Encyclopedia places the "television-handed goddess" in two different books.
+    - Faber's author note says T. S. Eliot acquired *The Palm-Wine Drinkard*; this is uncorroborated and not used.
+
+    Not recorded as works, but listed in the bibliography note:
+    - twelve stories that ISFDB dates 1952–1984; their venues were not read. Four were later collected in *The Village Witch Doctor*, and one was revised for *Yoruba Folktales*;
+    - three unpublished plays (Dunton);
+    - a 1958 drama titled *The Palm-Wine Drinkard* (*Contemporary Literary Criticism*);
+    - the posthumous collection *Don't Pay Bad for Bad* (2012).
 
 ## Stopping point and outstanding tasks (2026-11-06)
 
@@ -175,6 +199,8 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 - the corrections to installments 8–9 listed in section 13, and a stale-row check for the database.
 - the Android app export: it had exported unrelated link lists since installment 7. It is now fixed and regenerated, and Audit 7 checks it against the database.
 - installment 9 corrections from sources: *Surfeit of Lampreys* and Ngaio Marsh's first-edition dates; Orwell's four missing books; the fabricated Muggeridge title removed and his records corrected.
+- the installments 8–9 check queue (`research/installment_10/i08_i09_check_queue.csv`).
+- wave 06: Amos Tutuola, all 11 books of 1952–1990 and the first author from an "other English-language" tradition. Audit: other traditions 0 → 1; genre checklist 36 → 42 of 161.
 
 **Next, in order:**
 1. **Inventories for poetry, drama and the Commonwealth.** The gap in point 2 comes first: the Commonwealth Writers' Prize, the Governor General's and Miles Franklin awards, the poetry and drama prizes, and the movement anthologies.
@@ -182,7 +208,7 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
    - complete the Movement (Amis, Wain, Jennings, Conquest, Enright, Davie, Gunn, Holloway) and the Angry Young Men;
    - 1950s American: the Beats, confessional poetry and Jewish American fiction;
    - post-war drama;
-   - African, Caribbean and South Asian founders;
+   - African, Caribbean and South Asian founders: begun with Tutuola (wave 06). These authors are largely absent from the inventory (§15 point 2), so they are chosen from the reference sources until a series or national-bibliography inventory exists;
    - then on through the 1960s–1990s, with genre fiction, children's literature and criticism and theory interleaved.
 3. **Earlier-installment authors.** Add the 1946–2000 works of Beckett, Tolkien, Rhys, Welty, Auden, Isherwood, Brooks, Christie, Marsh (19 novels of 1947–1982 and the autobiography *Black Beech and Honeydew*, 1965) and others through extensions.
 4. **Installments 8–9.** Check every title against an external bibliography (a fabricated title was found) and every plot against a source, starting with the later installment 9 batches, and check first-edition dates against US-first publication. `scripts/i08_i09_check_queue.py` writes the order of work to `research/installment_10/i08_i09_check_queue.csv`:

@@ -19,6 +19,18 @@
    ]
   },
   {
+   "author": "Amos Tutuola",
+   "genres": [
+    "Adventure Fiction",
+    "Children's Fiction",
+    "Fantasy",
+    "Folklore Collection",
+    "Mythological Retelling",
+    "Short-Story Collection",
+    "Supernatural Fiction"
+   ]
+  },
+  {
    "author": "George Orwell",
    "genres": [
     "Collected Letters",
@@ -94,6 +106,12 @@
    ]
   },
   {
+   "author": "Amos Tutuola",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
    "author": "George Orwell",
    "movements": []
   },
@@ -129,6 +147,16 @@
     "Myth, folklore and the supernatural",
     "Nationhood and national identity",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Amos Tutuola",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Myth, folklore and the supernatural"
    ]
   },
   {
@@ -228,6 +256,12 @@
    "influenced_by": [
     "Langston Hughes"
    ]
+  },
+  {
+   "author": "Amos Tutuola",
+   "influenced_by": [
+    "John Bunyan"
+   ]
   }
  ],
  "author_sources": [
@@ -273,6 +307,18 @@
     "Albert Murray obituary (The Guardian, 23 August 2013)",
     "Murray, Albert (Alabama Authors database)",
     "Murray, Albert 1916- (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
+   "author": "Amos Tutuola",
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
    ]
   }
  ]

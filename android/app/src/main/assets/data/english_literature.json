@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 851,
-  "works": 2887
+  "authors": 852,
+  "works": 2898
  },
  "periods": [
   {
@@ -838,12 +838,18 @@
   "A Treatise of Human Nature (Clarendon Edition of the Works of David Hume)",
   "Adeline Mowbray: or, The Mother and Daughter (Broadview Editions)",
   "Adventures of Huckleberry Finn (Mark Twain Library edition)",
+  "Ajaiyi and His Inherited Poverty (Faber and Faber product page)",
   "Albert L. Murray (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
   "Albert Murray (EBSCO Research Starters)",
   "Albert Murray (LibraryThing author page)",
   "Albert Murray obituary (The Guardian, 23 August 2013)",
   "All What Jazz, first edition (Jonkers Rare Books catalogue record)",
   "American Literature: A Journal of Literary History, Criticism, and Bibliography",
+  "Amos Tutuola (Encyclopaedia Britannica)",
+  "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+  "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+  "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+  "Amos Tutuola (Wikipedia)",
   "An American Dictionary of the English Language (2 volumes)",
   "An Appeal in Favor of That Class of Americans Called Africans",
   "An Enquiry Concerning Political Justice (Oxford World's Classics)",
@@ -885,6 +891,7 @@
   "Essays in the History of Ideas",
   "Esther Waters, first book edition",
   "Fairy Legends and Traditions of the South of Ireland, with a Short Memoir of the Author by His Son",
+  "Feather Woman of the Jungle (Faber and Faber product page)",
   "Felicia Hemans: Selected Poems, Letters, Reception Materials",
   "Felicia Hemans: Selected Poems, Prose and Letters",
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
@@ -953,6 +960,7 @@
   "Mrs. Sherwood and Her Books for Children",
   "Murray, Albert (Alabama Authors database)",
   "Murray, Albert 1916- (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)",
+  "My Life in the Bush of Ghosts (novel) (Wikipedia)",
   "NEA Creative Writing Fellowships (Post45 Data Collective)",
   "NYT Hardcover Fiction Bestsellers, 1931-2020 (Post45 Data Collective)",
   "New Perspectives on Malthus: 250th Anniversary Essays",
@@ -964,6 +972,7 @@
   "Pamphlets on West Indian Slavery",
   "Parson Weems: A Biographical and Critical Study",
   "Pastors and Masters (Wikipedia)",
+  "Pauper, Brawler and Slanderer (Faber and Faber product page)",
   "Perdita: The Life of Mary Robinson",
   "Philip Larkin (EBSCO Research Starters)",
   "Philip Larkin (New World Encyclopedia)",
@@ -972,6 +981,8 @@
   "Poems",
   "Poems and Ballads, first edition",
   "Poetry and Politics in the English Renaissance, revised edition",
+  "Publication: The Village Witch Doctor & Other Stories (ISFDB record 409845)",
+  "Publication: Yoruba Folktales (ISFDB record 411186)",
   "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)",
   "Ralph Ellison (New World Encyclopedia)",
   "Ralph Ellison (Wikipedia)",
@@ -996,6 +1007,7 @@
   "Sources and Style in Moore's Irish Melodies",
   "Stedman's Surinam: Life in an Eighteenth-Century Slave Society. An Abridged, Modernized Edition of Narrative of a Five Years Expedition against the Revolted Negroes of Surinam",
   "Such, Such Were the Joys (Wikipedia)",
+  "Summary Bibliography: Amos Tutuola (ISFDB)",
   "Surfeit of Lampreys (Wikipedia)",
   "TEAMS Middle English Texts Series",
   "Tales of Wonder (Broadview Editions)",
@@ -1008,6 +1020,7 @@
   "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition",
   "The Book of Common Prayer: The Texts of 1549, 1559, and 1662",
   "The Boyne Water: A Tale (3 volumes)",
+  "The Brave African Huntress (Faber and Faber product page)",
   "The Cambridge Companion to Alexander Pope",
   "The Cambridge Companion to Ben Jonson",
   "The Cambridge Companion to British Literature of the 1930s",
@@ -1139,6 +1152,7 @@
   "The Oxford Handbook of Modernisms",
   "The Oxford Handbook of Tudor Literature, 1485–1603",
   "The Oxford Shakespeare: The Complete Works, 2nd edition",
+  "The Palm-Wine Drinkard (Wikipedia)",
   "The Papers of Thomas Jefferson",
   "The Penguin Classics editions of the individual novels and poems cited",
   "The Picture of Dorian Gray (Oxford World's Classics)",
@@ -1209,6 +1223,7 @@
   "Translation of the Letters of a Hindoo Rajah (Broadview Editions)",
   "Travels in New England and New York (4 volumes)",
   "Tudor Drama before Shakespeare, 1485–1590: New Directions for Research, Criticism, and Pedagogy",
+  "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)",
   "Ulysses: A Critical and Synoptic Edition",
   "Vanity Fair: A Novel without a Personality (Riverside Edition)",
   "Victorian Studies: A Journal of the Humanities, Arts, and Sciences",
@@ -3027,6 +3042,101 @@
     "Oxford Dictionary of National Biography",
     "The Cambridge Companion to British Romanticism",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period"
+   ]
+  },
+  {
+   "id": 852,
+   "name": "Amos Tutuola",
+   "altNames": [
+    "Amos Olatubosun Tutuola"
+   ],
+   "dates": "1920 – 1997",
+   "birthplace": "Abeokuta, Nigeria",
+   "nationality": "Nigerian; Yoruba (Egba) novelist and short-story writer writing in English",
+   "identity": "Novelist and storyteller whose The Palm-Wine Drinkard (1952) was the first Nigerian book to win international fame; author of eleven books (1952-1990) that rework Yoruba folktales as quest romances in an idiosyncratic West African English.",
+   "biography": "Amos Olatubosun Tutuola was born on 20 June 1920 at or near Abeokuta, in the Egba country of Yorubaland, then under British rule; Wikipedia names the village of Wasinmi, Gale's Contemporary Black Biography the Ipose-Ake quarter of Abeokuta. His parents, Charles and Esther Tutuola, were Yoruba Christian cocoa farmers. He had about six years of schooling, including the Salvation Army primary school and the Anglican Central School in Abeokuta, which ended when his father died in 1939. He then trained as a smith and worked as a blacksmith (some accounts say coppersmith) for the Royal Air Force in Nigeria during the Second World War (1942-45 in Wikipedia, 1943-45 in the Gale entries). After failing to set up his own smithy, he became a messenger in the Department of Labour in Lagos in 1948, having married Victoria Alake in 1947. In the idle hours of that job he began writing English versions of Yoruba tales. His first manuscript, The Wild Hunter in the Bush of the Ghosts, was sent to the London photographic publisher Focal Press in the late 1940s and not printed until 1982. The Palm-Wine Drinkard, passed to Faber and Faber by the United Society for Christian Literature, appeared in London in 1952 and New York in 1953. From 1956 he worked as a storekeeper for the Nigerian Broadcasting Corporation in Ibadan. He was a founding member of the Mbari Club, a visiting research fellow at the University of Ife in 1979 and an associate of the International Writing Program at the University of Iowa in 1983. In retirement he lived between Ibadan and Ago-Odo. He died at Ibadan on 8 June 1997, of hypertension and diabetes. His papers are held by the Harry Ransom Center at the University of Texas at Austin.",
+   "profile": "Tutuola's books retell and recombine Yoruba folktales as long episodic quests: a naive, idle or headstrong hero or heroine travels into the bush of spirits, survives monsters and captivities by cunning, magic or a protector's help, and comes home changed. Eight novels, an early manuscript published late (Contemporary Black Biography counts nine 'epic novels' in all), a school collection of traditional tales and a final book of stories make up the published output. He also wrote short stories for periodicals and anthologies and unpublished plays reworking the same material.",
+   "style": "First-person oral narration in the early books (Simbi, 1955, is the first in the third person), in an English shaped by Yoruba syntax and idiom, with coinages, irregular grammar and spelling, and objects of modern life set in a world of spirits. Episodes are loosely linked, and Tutuola himself declined to call his books novels. The register changes in Yoruba Folktales (1986), written for schools in standard English.",
+   "concerns": "Journeys to the land of the dead and the bush of ghosts; death, famine and poverty, including poverty inherited and apparently permanent; greed, betrayal and trickery; the testing and education of a weak or disobedient protagonist; parents who fail or are lost; the preservation and performance of Yoruba oral tradition.",
+   "significance": "Tutuola was the first Nigerian writer to achieve international recognition. The reception of The Palm-Wine Drinkard became a test case for African writing in English: acclaim in Britain and the United States, hostility among educated Nigerians who thought its language and spirits shamed the country on the eve of independence, and later reassessment of his work as a creative transmission of oral tradition into print. The taxonomy of this database dates African literature in English from his first book.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Adventure Fiction",
+    "Children's Fiction",
+    "Fantasy",
+    "Folklore Collection",
+    "Mythological Retelling",
+    "Short-Story Collection",
+    "Supernatural Fiction"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Myth, folklore and the supernatural"
+   ],
+   "influencedBy": [
+    "John Bunyan"
+   ],
+   "works": [
+    {
+     "id": 2893,
+     "title": "Ajaiyi and His Inherited Poverty"
+    },
+    {
+     "id": 2892,
+     "title": "Feather Woman of the Jungle"
+    },
+    {
+     "id": 2889,
+     "title": "My Life in the Bush of Ghosts"
+    },
+    {
+     "id": 2897,
+     "title": "Pauper, Brawler and Slanderer"
+    },
+    {
+     "id": 2890,
+     "title": "Simbi and the Satyr of the Dark Jungle"
+    },
+    {
+     "id": 2891,
+     "title": "The Brave African Huntress"
+    },
+    {
+     "id": 2888,
+     "title": "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Deads' Town"
+    },
+    {
+     "id": 2898,
+     "title": "The Village Witch Doctor and Other Stories"
+    },
+    {
+     "id": 2895,
+     "title": "The Wild Hunter in the Bush of the Ghosts"
+    },
+    {
+     "id": 2894,
+     "title": "The Witch-Herbalist of the Remote Town"
+    },
+    {
+     "id": 2896,
+     "title": "Yoruba Folktales"
+    }
+   ],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
    ]
   },
   {
@@ -65628,6 +65738,58 @@
    ]
   },
   {
+   "id": 2893,
+   "title": "Ajaiyi and His Inherited Poverty",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1967",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Ajaiyi and His Inherited Poverty, published by Faber and Faber in London in 1967, is the story of a man born into the poverty his parents leave him. He travels through supernatural lands in search of a way out of it.",
+   "summary": "The death of Ajaiyi's parents and the poverty they leave him; his pawning of his own labour; journeys through unfamiliar lands peopled by strange creatures such as the Spirit of Fire; help from a wizard and a unicorn; and a final reckoning, close to home, with the trickster who has kept the family poor.",
+   "plot": "Ajaiyi is born into poverty, and when his parents die it is all they leave him. Determined to improve his lot, he pawns his labour and then travels through unfamiliar lands full of strange creatures. Among them is the Spirit of Fire, with its huge feathered head and flaming body, and he is helped by a wizard and a unicorn. In the end the answer to his troubles lies near home. Chris Dunton's account of the novel and its stage versions shows that a dishonest witch doctor has caused the family's poverty by trickery, taking the rams offered on the father's grave among other things. Ajaiyi discovers the deception and confronts him, and the story ends with forgiveness and communal reconciliation.",
+   "significance": "It closes the first phase of Tutuola's career and shows his habit of recycling material across story, play and novel. He later drew on it for an unpublished play, The Sword of Vengeance, and for two pieces in The Village Witch Doctor and Other Stories (1990).",
+   "meter": "Tutuola's Yoruba-inflected English carries both the supernatural journeys and the everyday business of pawnbrokers and debts that frames them.",
+   "context": "Published in 1967, the year the Nigerian civil war began, five years after Feather Woman of the Jungle. Fourteen years passed before Tutuola's next book, The Witch-Herbalist of the Remote Town (1981). Dunton notes how little critical attention the novel has received; Harold Collins's Twayne study (1969) could give it only a brief summary.",
+   "characters": "Ajaiyi; the dishonest witch doctor; the Spirit of Fire; a wizard; a unicorn",
+   "structure": "An episodic quest in Tutuola's usual form, assembled, as Dunton shows, from material written over thirteen years. A five-page story of 1959 supplied two major episodes, and a play, a story of 1960 and an earlier radio tale fed into others.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Ajaiyi and His Inherited Poverty (Faber and Faber product page)",
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
    "id": 1321,
    "title": "Al Aaraaf, Tamerlane, and Minor Poems",
    "altTitles": [
@@ -92290,6 +92452,58 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2892,
+   "title": "Feather Woman of the Jungle",
+   "altTitles": [
+    "The Feather Woman of the Jungle"
+   ],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1962",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A frame-tale novel published by Faber and Faber in London in 1962. In it an elderly chief entertains the people of his Yoruba village on ten nights with the story of his past adventures.",
+   "summary": "Ten nights of storytelling, in which the chief recounts adventures that include his meeting with the Jungle Witch and her ostrich, his visit to the town of the water people and his imprisonment by the Goddess of Diamonds.",
+   "plot": "The people of a Yoruba village gather on ten nights to hear the stories and wisdom of their chief. Night after night he tells them of his adventures, among them his encounter with the Jungle Witch and her ostrich, his visit to the town of the water people and his imprisonment by the Goddess of Diamonds. Each evening the listeners return, eager to learn whether the story will end happily.",
+   "significance": "Its frame of storyteller and audience makes visible the oral model behind all Tutuola's fiction. ISFDB records an excerpt published separately in 1962 as 'The Town of Famine (Feather Woman of a Jungle)'.",
+   "meter": "The Gale Contextual Encyclopedia calls it Tutuola's most stylised work. The chief's first-person tales are set inside the communal occasion of a storytelling performance.",
+   "context": "Published in 1962, two years after Nigerian independence. According to the Gale Contextual Encyclopedia, this was the period in which Nigerian critics began to view Tutuola more favourably.",
+   "characters": "The village chief, who tells the story; the Jungle Witch; the Goddess of Diamonds; the villagers who listen",
+   "structure": "A frame narrative which, as the Gale Contextual Encyclopedia notes, is modelled on the Arabian Nights. The chief's tale is divided among ten nights of telling before an audience, a device taken from oral storytelling.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ],
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Feather Woman of the Jungle (Faber and Faber product page)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)"
    ]
   },
   {
@@ -119060,6 +119274,60 @@
    ]
   },
   {
+   "id": 2889,
+   "title": "My Life in the Bush of Ghosts",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1954",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Tutuola's second book is a novel of 174 pages, published in 1954 by Faber and Faber in London and Grove Press in New York. Its unnamed narrator recalls how, as a small boy, he strayed into the Bush of Ghosts, the realm of the spirits. He spent twenty-four years wandering through its towns before he found his way home.",
+   "summary": "A first-person account in related episodes that do not always keep to chronological order. A small boy flees during a war and enters the Bush of Ghosts. He passes through its many towns, with their rulers, ceremonies and courts, undergoing trials and transformations, and marries in the bush. He stays with his dead cousin in the Tenth Town of Ghosts. A goddess sends him back to the human world, and the book closes with a moral on hatred.",
+   "plot": "The narrator is seven years old when war and slave raiding reach his home. His stepmothers have mistreated him and his elder brother and abandon them, and the boys flee from the slave traders. Too young to understand the dangers the bush holds for mortals, the narrator runs in terror into the Bush of Ghosts. He spends twenty-four years there, in a spirit world that Bernth Lindfors describes as 'replete with towns, kings, civic ceremonies, festivals, law courts, and even his cousin's Methodist church'. Passing from one ghost town to the next, he undergoes trials and transformations, marries in the bush, and has experiences 'both harrowing and happy'. In the Tenth Town of Ghosts he finds his dead cousin and thinks of settling there for good. He cannot bring himself to do it, because he longs for his earthly home. At last a 'television-handed' goddess offers him a way back to an ordinary life with his mother and brother, and he accepts. The book ends with the narrator's reflection on hatred, the force that drove him out.",
+   "significance": "With The Palm-Wine Drinkard it is one of the two books on which Tutuola's reputation chiefly rests. The two won second-place awards in a literary contest in Turin in 1985 and were reissued together by Grove Press in 1994. Time named it among the 100 best fantasy books (2020), and David Byrne and Brian Eno took its title for their album of 1981. Achille Mbembe's essay on life, sovereignty and terror in Tutuola's fiction (2003) is among later studies that return to it.",
+   "meter": "A naive young narrator tells his adventures in Tutuola's Yoruba-inflected English. Traditional spirit lore is mixed with the furniture of modern life, a Methodist church and a goddess with a television for a hand. The Gale Contextual Encyclopedia treats this mixture as Tutuola's characteristic way of updating ancestral tales.",
+   "context": "Published two years after The Palm-Wine Drinkard by the same London and New York houses, it appeared while Tutuola was still a messenger in Lagos and while educated Nigerians were still attacking his first book. The slave raids that open the story have drawn scholarly attention, notably in Thomas Jay Lynn's essay on slavery's disruption in the novel (2016).",
+   "characters": "The unnamed narrator, a boy of seven at the start; his elder brother; his stepmothers; his mother; his dead cousin in the Tenth Town of Ghosts; the television-handed goddess",
+   "structure": "A retrospective first-person narrative of related episodes, not always in chronological order. The narrator reckons his progress through the bush town by town, up to the Tenth Town of Ghosts, and like The Palm-Wine Drinkard the book has no numbered chapters.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling",
+    "Supernatural Fiction"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "My Life in the Bush of Ghosts (novel) (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
    "id": 2321,
    "title": "My Literary Life",
    "altTitles": [],
@@ -127736,6 +128004,55 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 2897,
+   "title": "Pauper, Brawler and Slanderer",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1987",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A late Tutuola romance, published by Faber and Faber in London and Boston in 1987. Its three title characters are forced to set out on journeys of no return.",
+   "summary": "The adventures of the three title characters on their journeys, including a ploughing competition for the hand of the beautiful Popondoro and a short-lived reign of Pauper and Slanderer over a town of women.",
+   "plot": "Pauper, Brawler and Slanderer are each forced to set out on a journey from which there is no return, and their travels lead them through incidents and adventures in the manner of Tutuola's earlier romances. Among them is a ploughing competition for the hand of the beautiful Popondoro. Pauper and Slanderer also rule for a while over a town of women, a reign that does not last.",
+   "significance": "The Encyclopedia of World Biography lists it among the 'similar romances' in which Tutuola kept to his established method. Faber reissued it in 2014 with the rest of his fiction.",
+   "meter": "Folktale idiom in Tutuola's late English; the publisher's description stresses the humour of its episodes.",
+   "context": "Published in 1987, six years after The Witch-Herbalist of the Remote Town and a year after Yoruba Folktales. Tutuola was then in his late sixties and living between Ibadan and Ago-Odo.",
+   "characters": "Pauper; Brawler; Slanderer; Popondoro",
+   "structure": "Three protagonists rather than one, whose journeys of no return form an episodic sequence on the pattern of Tutuola's earlier quest romances.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ],
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+    "Amos Tutuola (Wikipedia)",
+    "Pauper, Brawler and Slanderer (Faber and Faber product page)"
    ]
   },
   {
@@ -141227,6 +141544,58 @@
    ]
   },
   {
+   "id": 2890,
+   "title": "Simbi and the Satyr of the Dark Jungle",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1955",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Tutuola's third book, published by Faber and Faber in London in 1955, and his first with a heroine. Simbi, a rich and pampered only child, leaves home against her parents' wishes to learn what poverty and punishment are.",
+   "summary": "A third-person quest narrative in numbered chapters. It follows Simbi from her parents' house through slavery and a long series of ordeals, in places such as the Town of the Multi-Coloured People and the Dark Jungle of the Satyr, and back to her village.",
+   "plot": "Curious about how others live, Simbi resolves to experience the poverty and punishment she has never known, and leaves home in spite of her parents' warnings. In Bernth Lindfors's list she is 'kidnapped, sold into slavery, beaten, starved, almost beheaded, set afloat on a river in a sealed coffin, carried off by an eagle, imprisoned in a tree trunk, half-swallowed by a boa constrictor, attacked by a satyr, shrunk and put in a bottle, bombarded by a stone-carrying phoenix, and petrified into a rock'. She comes through by her wits and her voice, singing to summon the dead to her aid. When she reaches home she rests, then goes out to warn her playmates to heed their parents.",
+   "significance": "The book marks the formal change, to chapters and third-person narration, that the Gale entries read as evidence of Tutuola's literary self-consciousness. It is also the first of his books with a female hero, a line continued in The Brave African Huntress.",
+   "meter": "Tutuola's Yoruba-inflected English in third-person narration. Song is the heroine's means of calling on the dead for help.",
+   "context": "Written in his spare time while Tutuola was still a Labour Department messenger, and published three years after The Palm-Wine Drinkard, when he was famous abroad and still under attack from educated Nigerian critics.",
+   "characters": "Simbi; her parents; the Satyr of the Dark Jungle",
+   "structure": "The Gale Contextual Encyclopedia notes that this was Tutuola's first book divided into numbered chapters and his first told in the third person. It takes both as signs of his wider reading and growing sense of himself as an author.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
    "id": 1693,
    "title": "Sing-Song: A Nursery Rhyme Book",
    "altTitles": [
@@ -153112,6 +153481,57 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 2891,
+   "title": "The Brave African Huntress",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1958",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Tutuola's fourth book, published in 1958 with illustrations by the Nigerian artist Ben Enwonwu. It is his second with a heroine: Adebisi, a huntress who goes into the Jungle of the Pigmies to rescue her four brothers.",
+   "summary": "The story of Adebisi's expedition into the Jungle of the Pigmies, with Ben Enwonwu's illustrations. It covers her victory over a giant, her service as barber to a king, her time in the pigmies' prison and the rescue of her brothers.",
+   "plot": "Adebisi, a huntress, sets out for the Jungle of the Pigmies to rescue her four brothers. On the way she overcomes a giant, serves as barber to a king and suffers the horrors of the pigmies' prison, but she refuses to give up. Using both her strength and her intelligence, she finds a way to free her brothers and returns home to a hero's welcome.",
+   "significance": "With Simbi it forms the pair of Tutuola's books with female heroes. The Gale Contextual Encyclopedia observes that his later books were received less warmly in Britain and America than his first two.",
+   "meter": "Episodic adventure in Tutuola's Yoruba-inflected English. The first edition was illustrated by the Nigerian artist Ben Enwonwu.",
+   "context": "Published in 1958, the year of Chinua Achebe's Things Fall Apart, two years after Tutuola moved to the Nigerian Broadcasting Corporation in Ibadan and two before Nigerian independence. The New York Times reviewed it on 2 November 1958 under the heading 'Adebisi's Odyssey'.",
+   "characters": "Adebisi, the huntress; her four brothers; a giant; a king; the pigmies",
+   "structure": "An outward journey into a hostile jungle and a return, marked by a series of trials (the giant, the king's court, the prison) in Tutuola's usual episodic manner.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Adventure Fiction",
+    "Fantasy"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "The Brave African Huntress (Faber and Faber product page)"
    ]
   },
   {
@@ -187059,6 +187479,62 @@
    ]
   },
   {
+   "id": 2888,
+   "title": "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Deads' Town",
+   "altTitles": [
+    "The Palm-Wine Drinkard",
+    "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Dead's Town"
+   ],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1952",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Amos Tutuola's first published book is a short novel of 125 pages, issued by Faber and Faber in London in 1952 and by Grove Press in New York in 1953. Told in the first person in an unconventional English shaped by Yoruba idiom, it is a quest tale assembled from Yoruba folktales: a drinker whose palm-wine tapster has died follows him to the town of the dead and comes home again. Britannica calls it the first Nigerian book to achieve international fame. Wikipedia describes it as the first African novel in English published outside Africa.",
+   "summary": "A continuous first-person narrative without numbered chapters, made of a chain of adventures. It opens with the narrator's life of drinking and his tapster's fatal fall from a palm tree, then follows his tests by an old man who is a god, including the capture of Death in a net. Next come the rescue of a town head's daughter from the Complete Gentleman in the forest, and the birth of the monstrous child Zurrjir and how the narrator deals with him. A long journey with his wife through bush and towns of spirits includes the Red Fish. After a stay in the Deads' Town and the gift of a magic egg, he returns home to a famine caused by a quarrel between Heaven and Land.",
+   "plot": "The narrator, son of a rich man, is a drinker of palm wine whose father has hired an expert tapster to keep him supplied. When the tapster falls from a palm tree and dies, the supply stops, and no other tapster can match him. The narrator, who calls himself the 'Father of gods who could do anything in this world', sets out with his magical powers to find where the dead man has gone.\n\nSeven months after leaving home he meets an old man, in fact a god, who promises to tell him where the tapster is if he will perform a task: to bring Death from his house in a net. The narrator does so, in the episode anthologised as 'How I Brought Death into the World', and the terrified old man runs away without keeping his promise. Five months later another town head offers the same information if the narrator will rescue his daughter, who has followed a handsome stranger from the market into the forest. The stranger is the Complete Gentleman: a skull who had hired his limbs and body from their owners and returns each part on the way home until only a humming skull is left. The narrator rescues the girl and marries her, but her father withholds the information until the narrator has dealt with Zurrjir, the child she bears, who terrorises the town. Only then is he told that the tapster lives in the Deads' Town.\n\nHusband and wife travel together through forests and towns of spirits, some hostile and some hospitable, helping each other through trial after trial. Among them is the Red Fish, a monster with thirty horns and many eyes that open and shut 'as if a man was pressing a switch on and off'. In the Deads' Town they find the tapster, who is unable to leave it. He gives the narrator an egg that will provide whatever its owner asks for.\n\nAt home the narrator finds a famine: Heaven and Land have quarrelled, and Heaven is withholding rain. For a time the egg feeds his town and the country around with food and palm wine. Then the crowds break it in their excitement and turn on him when it can produce nothing more. He glues the egg together and uses it to punish them. Finally he settles the quarrel between Heaven and Land with a ritual, and the drought ends.",
+   "significance": "The book made Tutuola the first Nigerian writer with an international reputation. It also opened the controversy that shaped the early reception of African writing in English: should an African author write standard English for foreign readers, or could the language and forms of oral tradition be carried into print? Its later standing depends on the second answer. Wikipedia counts it among the most important texts of the African literary canon. It has been translated into many languages (eleven in Britannica, fifteen in one Gale entry). E. K. Ogunmola's Yoruba folk-opera version (1963) was performed with great success across Nigeria. It appears on Time's list of the 100 best fantasy books (2020) and the BBC's Big Jubilee Read (2022).",
+   "meter": "First-person storytelling in an English that Dylan Thomas called 'young English' and others called pidgin or broken English. Yoruba syntax and idiom are carried into English, adjectives serve as verbs ('I would jealous him more than that'), and words are coined or spelled anew. Modern things appear among the spirits, as in the Red Fish's switch-like eyes. Raymond Queneau's French translation, L'Ivrogne dans la brousse (1953), deliberately kept something of this irregularity.",
+   "context": "Tutuola wrote the book as a messenger in the Labour Department in Lagos, after Focal Press had received but not published his first manuscript. Answering an advertisement, he sent it to the United Society for Christian Literature, which passed it to Faber and Faber. It appeared in 1952, near the end of colonial rule, while Nigerian nationalists were pressing for self-government. The Gale entries connect the hostility of educated Nigerians to that moment, when they were anxious about how Africa was seen abroad. Its material comes from Yoruba oral tradition and the Yoruba-language fantasies of D. O. Fagunwa. Bunyan's Pilgrim's Progress and the Arabian Nights, read at school, are possible models for the extended quest.",
+   "characters": "The narrator, the palm-wine drinkard ('Father of gods who could do anything in this world'); his dead palm-wine tapster; an old man who is a god; Death; the Complete Gentleman; a town head's daughter, who becomes the narrator's wife; Zurrjir, their child; the Red Fish",
+   "structure": "An episodic quest. Departure, journey and return frame a chain of largely self-contained adventures, each built on a folktale motif and linked mainly by the narrator and his count of the months. Bernth Lindfors compared its episodes to the boxes of a freight train, 'independent units coupled with a minimum of apparatus'. Gale's Contextual Encyclopedia notes that Simbi (1955) was Tutuola's first book to use numbered chapters.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "The Palm-Wine Drinkard (Wikipedia)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
    "id": 104,
    "title": "The Panther",
    "altTitles": [
@@ -204425,6 +204901,59 @@
    ]
   },
   {
+   "id": 2898,
+   "title": "The Village Witch Doctor and Other Stories",
+   "altTitles": [
+    "The Village Witch Doctor & Other Stories"
+   ],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1990",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short-story collection",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Tutuola's last book, published by Faber and Faber in London in 1990. It collects short stories based on traditional Yoruba tales, four of them first published in periodicals or anthologies between 1960 and 1974.",
+   "summary": "ISFDB lists twelve stories in 90 pages. They are 'The Village Witch Doctor', 'A Short Biography of Tortoise', 'A Short Biography of Yanribo, Tortoise's Wife', 'Ajao and the Active Bone', 'Don't Pay Bad for Bad' (first published 1960), 'Akanke and the Jealous Pawnbroker' (1974), 'Remember the Day After Tomorrow' (1969), 'Ade, the Traitor', 'Rere, the Disobedient Son', 'The Duckling Brothers and Their Disobedient Sister' (1961), 'The Rich Husbandman and his Odd-looking Pawn' and 'The Greedy Tortoise and the Orisa-Oko'.",
+   "plot": "The stories retell Yoruba fables of greed, betrayal and trickery. Three belong to what ISFDB groups as Tutuola's Tortoise stories, about Tortoise and his wife Yanribo. Others concern disobedient children, pawns and pawnbrokers, a traitor and a village witch doctor. According to Chris Dunton, the title story and 'Remember the Day After Tomorrow' rework material from Ajaiyi and His Inherited Poverty. 'Don't Pay Bad for Bad' descends from a tale broadcast by the BBC West Africa Service in 1954.",
+   "significance": "As his final book it confirms the continuity of Tutuola's practice over forty years, the reworking of Yoruba tales in his own English, and it gathers in book form stories first scattered in periodicals and anthologies.",
+   "meter": "Lindfors, in the Dictionary of Literary Biography as quoted by Contemporary Black Biography, found in it 'the same buoyant imagination' and 'fascination with comically grotesque fantasy worlds' as in the first books. Richard Bauerle (World Literature Today, 1991) thought the style still 'fresh'.",
+   "context": "Published seven years before Tutuola's death and his final publication, it gathers work from three decades, from stories of the early 1960s to new pieces.",
+   "characters": "",
+   "structure": "Twelve self-contained tales of six to eleven pages each, closing with a Tortoise story, with no frame.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Mythological Retelling",
+    "Short-Story Collection"
+   ],
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Publication: The Village Witch Doctor & Other Stories (ISFDB record 409845)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
    "id": 1477,
    "title": "The Virginians: A Tale of the Last Century",
    "altTitles": [
@@ -206330,6 +206859,58 @@
    ]
   },
   {
+   "id": 2895,
+   "title": "The Wild Hunter in the Bush of the Ghosts",
+   "altTitles": [
+    "The Wild Hunter in the Bush of Ghosts"
+   ],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1982",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel (facsimile of an early manuscript)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Tutuola's first book-length manuscript, written in the late 1940s and sent to the London photographic publisher Focal Press. It was published only in 1982, when Three Continents Press issued a facsimile edited by Bernth Lindfors.",
+   "summary": "A handwritten narrative of 76 pages, sent with photographic negatives of artists' drawings of the spirits it describes. It is reproduced in facsimile with Lindfors's introduction and postscript; a second edition followed in 1989.",
+   "plot": "As Contemporary Black Biography outlines it, the hero sets out on a perilous epic journey, witnesses many ghastly events, and survives by his own intelligence or, when that fails, by the intervention of a protective spirit. This is the pattern of all Tutuola's later fiction. The Gale Contextual Encyclopedia calls it a mythological adventure story about spirits in the Nigerian bush.",
+   "significance": "Published thirty years after The Palm-Wine Drinkard, it documents the starting point of Tutuola's career. Nancy J. Schmidt reviewed it in Africa Today (1984) under the title 'The First Shall Be Last: Tutuola's Forgotten Story'.",
+   "meter": "A handwritten English narrative illustrated with photographs of artists' drawings of the spirits, the device by which Tutuola hoped to interest a photographic publisher.",
+   "context": "Tutuola wrote to Focal Press, a London publisher of photography books, asking whether it would consider a book of Nigerian bush tales with pictures of the spirits. An editor agreed to look, and the manuscript then lay unpublished for more than thirty years.",
+   "characters": "",
+   "structure": "A journey narrative of episodes. The Gale Contextual Encyclopedia calls it clearly the work of a novice, and Gale's Contemporary Literary Criticism lists it as short stories.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ],
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
+   ]
+  },
+  {
    "id": 1248,
    "title": "The Wild Irish Girl",
    "altTitles": [
@@ -206996,6 +207577,58 @@
     "The Cambridge Companion to English Renaissance Drama, 2nd edition",
     "The Cambridge History of Early Modern English Literature",
     "The Norton Anthology of English Literature, 10th edition, Volume B: The Sixteenth Century and the Early Seventeenth Century"
+   ]
+  },
+  {
+   "id": 2894,
+   "title": "The Witch-Herbalist of the Remote Town",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1981",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Tutuola's first book in fourteen years, published by Faber and Faber in London in 1981; Contemporary Black Biography counts it as his seventh novel. It tells of a hunter's six-year quest for a cure for his wife's childlessness.",
+   "summary": "A hunter's six-year journey through towns and jungles of fantastic beings, among them the Abnormal Squatting Man of the Jungle, to the Remote Town. The witch-herbalist there gives him a medicine, and the book follows what happens at home after he tastes it on the way back.",
+   "plot": "A hunter and his wife cannot have a child. The husband sets out to find a cure, and after six years of bizarre and sometimes frightening encounters, among them the Abnormal Squatting Man of the Jungle, he reaches the Remote Town. There the witch-herbalist gives him a broth for his wife. Famished on the way home, he sips some of it himself. His wife drinks the rest and soon becomes pregnant. So does he, and he must undergo further trials and torments before he is cured.",
+   "significance": "The book showed Tutuola's manner unchanged after fourteen years, and Western reviewers still admired it. Blishen wrote that 'the imagination at work is always astonishing'.",
+   "meter": "Reviewing it in the Times Educational Supplement (26 February 1982), Edward Blishen described its language as 'a mixture of straight translation from Yoruba, and everyday modern Nigerian idiom, and grand epical English'.",
+   "context": "Tutuola published it after his term as a visiting writer at the University of Ife in 1979, following a long silence since Ajaiyi (1967). The Gale Contextual Encyclopedia found that the gap had made no discernible difference to his methods.",
+   "characters": "The hunter; his wife; the witch-herbalist of the Remote Town; the Abnormal Squatting Man of the Jungle",
+   "structure": "A single six-year journey to a distant town and back, with a sequence of encounters on the way and further trials after the homecoming. Tutuola's quest pattern is carried on past its goal.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Encyclopedia of World Biography)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
    ]
   },
   {
@@ -218328,6 +218961,56 @@
    "sources": [
     "A Book of Middle English, 4th edition",
     "The Cambridge History of Medieval English Literature"
+   ]
+  },
+  {
+   "id": 2896,
+   "title": "Yoruba Folktales",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Amos Tutuola"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1986",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Folktale collection",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A short collection of seven traditional Yoruba tales retold by Tutuola for Nigerian schoolchildren, published by Ibadan University Press in 1986. It was his first book to preserve the communal stories rather than build new fictions from them.",
+   "summary": "Seven tales in 57 pages, with interior illustrations by Kola Adesokan and a cover by Bayo Ogundele: 'Ajantala, the Noxious Guest, Is Born', 'Ajantala and the Three Brothers', 'Antere, the Child of the Goddess of the River', 'Too Much of Indulgence', 'The Elephant Woman and the Hunter' (a version of his story 'The Elephant Woman', 1956), 'Segi and the Boa Constrictor' and 'The Shell-Man and the Terror of the Bush'.",
+   "plot": "The Gale Contextual Encyclopedia says the tales keep faithfully to tradition, with an occasional touch of 'zaniness' in character and plot. Going by their titles, two follow Ajantala, the 'noxious guest', from his birth to his dealings with three brothers. The others concern the child of a river goddess, over-indulgence, a hunter and an elephant woman, Segi and a boa constrictor, and the Shell-Man, Tortoise, facing a terror of the bush. In the Segi story a character cries, 'Ah, I am finished today!' (p. 38).",
+   "significance": "The book marks a shift from reworking folklore into extended fiction to preserving the tales themselves. It also shows Tutuola adapting his English to a school audience.",
+   "meter": "The Gale Contextual Encyclopedia notes that the grammatical irregularities and stylistic inventions of the earlier books are absent: the book was written for primary-school classrooms, in standard English.",
+   "context": "Published in Ibadan, where Tutuola lived, for the Nigerian school market. It is the only one of his books recorded here that was first published in Nigeria.",
+   "characters": "",
+   "structure": "Seven separate tales of six to about twelve pages each, arranged as a school reader rather than linked by a frame.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Children's Fiction",
+    "Folklore Collection"
+   ],
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Amos Tutuola (Encyclopaedia Britannica)",
+    "Amos Tutuola (Encyclopedia.com, compiling the Gale Contextual Encyclopedia of World Literature)",
+    "Amos Tutuola (Wikipedia)",
+    "Publication: Yoruba Folktales (ISFDB record 411186)",
+    "Summary Bibliography: Amos Tutuola (ISFDB)",
+    "Tutuola, Amos 1920-1997 (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
    ]
   },
   {

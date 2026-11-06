@@ -219,6 +219,61 @@
    "work": "The Freedom of the Press",
    "author": "George Orwell",
    "contribution_type": "author"
+  },
+  {
+   "work": "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Deads' Town",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "My Life in the Bush of Ghosts",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Simbi and the Satyr of the Dark Jungle",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Brave African Huntress",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Feather Woman of the Jungle",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ajaiyi and His Inherited Poverty",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Witch-Herbalist of the Remote Town",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Wild Hunter in the Bush of the Ghosts",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Yoruba Folktales",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Pauper, Brawler and Slanderer",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Village Witch Doctor and Other Stories",
+   "author": "Amos Tutuola",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -532,6 +587,84 @@
    "work": "The Freedom of the Press",
    "genres": [
     "Political Essay"
+   ]
+  },
+  {
+   "work": "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Deads' Town",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "My Life in the Bush of Ghosts",
+   "genres": [
+    "Fantasy",
+    "Supernatural Fiction",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "Simbi and the Satyr of the Dark Jungle",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Brave African Huntress",
+   "genres": [
+    "Fantasy",
+    "Adventure Fiction"
+   ]
+  },
+  {
+   "work": "Feather Woman of the Jungle",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "Ajaiyi and His Inherited Poverty",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Witch-Herbalist of the Remote Town",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Wild Hunter in the Bush of the Ghosts",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "Yoruba Folktales",
+   "genres": [
+    "Folklore Collection",
+    "Children's Fiction"
+   ]
+  },
+  {
+   "work": "Pauper, Brawler and Slanderer",
+   "genres": [
+    "Fantasy",
+    "Mythological Retelling"
+   ]
+  },
+  {
+   "work": "The Village Witch Doctor and Other Stories",
+   "genres": [
+    "Short-Story Collection",
+    "Mythological Retelling"
    ]
   }
  ],
@@ -875,6 +1008,79 @@
     "Power, the state and surveillance",
     "History, truth and the uses of the past"
    ]
+  },
+  {
+   "work": "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Deads' Town",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "My Life in the Bush of Ghosts",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Childhood, adolescence and coming of age",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Simbi and the Satyr of the Dark Jungle",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "The Brave African Huntress",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Feather Woman of the Jungle",
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Ajaiyi and His Inherited Poverty",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "The Witch-Herbalist of the Remote Town",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "The Wild Hunter in the Bush of the Ghosts",
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Yoruba Folktales",
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Pauper, Brawler and Slanderer",
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "The Village Witch Doctor and Other Stories",
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ]
   }
  ],
  "work_movements": [
@@ -925,6 +1131,72 @@
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
    ]
+  },
+  {
+   "work": "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Deads' Town",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "My Life in the Bush of Ghosts",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Simbi and the Satyr of the Dark Jungle",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Brave African Huntress",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Feather Woman of the Jungle",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Ajaiyi and His Inherited Poverty",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Witch-Herbalist of the Remote Town",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Wild Hunter in the Bush of the Ghosts",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Yoruba Folktales",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Pauper, Brawler and Slanderer",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Village Witch Doctor and Other Stories",
+   "movements": [
+    "African Literature in English"
+   ]
   }
  ],
  "work_periods": [
@@ -973,7 +1245,18 @@
     "Shooting an Elephant and Other Essays",
     "Such, Such Were the Joys",
     "The Collected Essays, Journalism and Letters of George Orwell",
-    "The Freedom of the Press"
+    "The Freedom of the Press",
+    "The Palm-Wine Drinkard and His Dead Palm-Wine Tapster in the Deads' Town",
+    "My Life in the Bush of Ghosts",
+    "Simbi and the Satyr of the Dark Jungle",
+    "The Brave African Huntress",
+    "Feather Woman of the Jungle",
+    "Ajaiyi and His Inherited Poverty",
+    "The Witch-Herbalist of the Remote Town",
+    "The Wild Hunter in the Bush of the Ghosts",
+    "Yoruba Folktales",
+    "Pauper, Brawler and Slanderer",
+    "The Village Witch Doctor and Other Stories"
    ]
   }
  ]

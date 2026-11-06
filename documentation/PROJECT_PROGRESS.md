@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–05, giving **851 authors / 2887 works** across ten periods (c. 450–2000).
+  waves 01–06, giving **852 authors / 2898 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Five research waves are built; see
+  **Installment 10 is in progress.** Six research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1511,7 +1511,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–05 are built (43 works by 5 authors). Not complete.**
+**Status: in progress. Waves 01–06 are built (54 works by 6 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1614,10 +1614,23 @@ with broader Anglophone writing out of scope.
   and London* (1933), *A Clergyman's Daughter* (1935), *Inside the Whale and
   Other Essays* (1940) and *The Lion and the Unicorn* (1941). Every book Orwell
   wrote that was published in his lifetime now has a record.
+- **Wave 06:** Amos Tutuola (Nigeria), all eleven books of 1952–1990, from *The
+  Palm-Wine Drinkard* (1952) to *The Village Witch Doctor and Other Stories*
+  (1990). He is the first installment 10 author from outside the British and
+  American traditions; the audit's "other English-language" count moves from
+  0 to 1, and genre-checklist coverage from 36 to 42 of 161.
+  - **Sources:** Wikipedia, Britannica, four Gale reference entries, ISFDB
+    and Faber's reissue descriptions (sources 61–75).
+  - **Verification:** 4 records are verified and 7 partially verified; none of
+    the books was read.
+  - **Not recorded as works:** the uncollected stories, the unpublished plays
+    and the posthumous 2012 collection. They are listed in his bibliography
+    note.
 
-None of the wave 02–04 authors was in the discovery inventory. This is evidence
-that the inventory under-represents poetry, drama and criticism; see the
-limitations in the audit report.
+None of the wave 02–04 authors was in the discovery inventory, and neither is
+Tutuola. This is evidence that the inventory under-represents poetry, drama,
+criticism and pre-1969 Commonwealth writing; see the limitations in the audit
+report.
 
 **Corrections to installments 8–9 (2026-11-06).** Found while building wave 05;
 each is listed with its source in section 13 of the audit report.
@@ -1679,4 +1692,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–05: 43 works by 5 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–06: 54 works by 6 authors) |
