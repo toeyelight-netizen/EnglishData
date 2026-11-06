@@ -1244,6 +1244,41 @@
    "work": "Hunger of Memory",
    "author": "Richard Rodriguez",
    "contribution_type": "author"
+  },
+  {
+   "work": "Pretty",
+   "author": "Stevie Smith",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Jamaica Oman",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Jamaica Language",
+   "author": "Louise Bennett",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Tyre",
+   "author": "Simon Armitage",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Exiles",
+   "author": "Juan Felipe Herrera",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Literary Asylums",
+   "author": "Juan Felipe Herrera",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -3140,6 +3175,60 @@
     "Nonfiction Prose (1946–2000)",
     "Memoir",
     "Personal Essay"
+   ]
+  },
+  {
+   "work": "Pretty",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "genres": [
+    "Performance Poetry",
+    "Light Verse",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "Jamaica Oman",
+   "genres": [
+    "Performance Poetry",
+    "Social Poetry",
+    "Light Verse"
+   ]
+  },
+  {
+   "work": "Jamaica Language",
+   "genres": [
+    "Performance Poetry",
+    "Political Poetry",
+    "Folklore Collection"
+   ]
+  },
+  {
+   "work": "The Tyre",
+   "genres": [
+    "Narrative Poetry",
+    "Regional Poetry",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Exiles",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "Literary Asylums",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
    ]
   }
  ],
@@ -5125,6 +5214,62 @@
     "Migration, exile and diaspora",
     "Education, institutions and the academy"
    ]
+  },
+  {
+   "work": "Pretty",
+   "themes": [
+    "Nature, ecology and environmental crisis",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Jamaica Oman",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Class, labour and social mobility",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Jamaica Language",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights",
+    "Decolonisation, the end of empire and the new nation"
+   ]
+  },
+  {
+   "work": "The Tyre",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Land, place and regional belonging",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "Exiles",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Identity, authenticity and the divided self",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Literary Asylums",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
   }
  ],
  "work_movements": [
@@ -6483,6 +6628,48 @@
     "Postmodernism and Postmodern Fiction",
     "Postwar African American Writing: Protest and Its Critics"
    ]
+  },
+  {
+   "work": "Dry-Foot Bwoy",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Jamaica Oman",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Jamaica Language",
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "The Tyre",
+   "movements": [
+    "The British Poetry Revival"
+   ]
+  },
+  {
+   "work": "Exiles",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Literary Asylums",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ]
   }
  ],
  "work_periods": [
@@ -6737,7 +6924,14 @@
     "Lullaby",
     "Language and Literature from a Pueblo Indian Perspective",
     "Neo-HooDoo Manifesto",
-    "Hunger of Memory"
+    "Hunger of Memory",
+    "Pretty",
+    "Dry-Foot Bwoy",
+    "Jamaica Oman",
+    "Jamaica Language",
+    "The Tyre",
+    "Exiles",
+    "Literary Asylums"
    ]
   }
  ]

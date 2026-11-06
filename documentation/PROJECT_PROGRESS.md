@@ -2086,6 +2086,35 @@ and all three are described in `AGENT_HANDOVER.md` §2:
   Anzaldua's *Borderlands/La Frontera* supplies two. **No row is undated.** Every
   remaining record now rests on a checked date rather than a guess.
 
+- **Wave 32 (the seven).** The selections wave 31 brought into the period, all built:
+  Stevie Smith's "Pretty" (*Scorpion and Other Poems*, 1972); Louise Bennett's
+  "Dry-Foot Bwoy" and "Jamaica Oman" (*Jamaica Labrish*, 1966) and "Jamaica
+  Language"; Simon Armitage's "The Tyre" (*Cloudcuckooland*, 1997); and Juan
+  Felipe Herrera's "Exiles" and "Literary Asylums" (*Exiles of Desire*, 1983).
+  Two new authors (Armitage, Herrera), seven works, six new sources. The English
+  anthology is now complete but for Brathwaite's "[On Sycorax Video Style]".
+
+  The wave caught one more dating error of its own making. Wave 31 had dated all
+  four Bennett rows to *Jamaica Labrish* (1966). Three are poems in that book;
+  "Jamaica Language" is not. It is a monologue in the voice of Aunty Roachy from
+  *Miss Lou's Views*, the radio programme Bennett ran from 1965 to 1982, and it was
+  first printed in *Aunty Roachy Seh*, edited by Mervyn Morris (Kingston:
+  Sangster's, 1993), where it opens the book at page 1. The Norton list and the
+  record now both give 1993. The lesson is the one wave 31 had already taught:
+  a selection's anthology heading is not its first printing, and the book that
+  collects a poet's poems need not collect a poet's monologues.
+
+  Two of the seven records are honest about what was not read. The full texts of
+  Herrera's "Exiles" and "Literary Asylums" were not examined; their descriptions
+  rest on the Norton's own accounts of the two poems and on the contents of *Half
+  of the World in Light*, which places both in the *Exiles of Desire* sequence,
+  and both records say so. "Dry-Foot Bwoy" is the only one of the seven marked
+  *verified*, because its text and page reference were both confirmed.
+
+  The measured position: **256 works by 91 authors**, **211 recorded against 265
+  in-scope selections** (English 94 of 96, American 117 of 169), **52 remaining,
+  none undated** - 51 American and one English.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2198,4 +2227,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 249 works by 89 authors; 204 works recorded against 265 in-scope selections - English 89 of 96, American 115 of 169; 58 remain, none undated) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 256 works by 91 authors; 211 works recorded against 265 in-scope selections - English 94 of 96, American 117 of 169; 52 remain, none undated) |

@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 931,
-  "works": 3093
+  "authors": 933,
+  "works": 3100
  },
  "periods": [
   {
@@ -897,6 +897,7 @@
   "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
   "Aubade (The Philip Larkin Society, philiplarkin.com)",
   "Audre Lorde (Wikipedia)",
+  "Aunty Roachy Seh",
   "Bass Culture - Linton Kwesi Johnson (reggaelyrics.info)",
   "Ben Okri (Wikipedia)",
   "Ben Okri's 'What the Tapster Saw' (Niger Delta Black Gold Blues, University of Southern California)",
@@ -929,6 +930,7 @@
   "Chrysalis and 'Poetry Is Not a Luxury' (Library of Congress blog)",
   "Church Going (Wikipedia)",
   "Civil Peace (Wikipedia)",
+  "Cloudcuckooland",
   "Commonwealth Foundation prizes (Wikipedia), sections on the Commonwealth Writers' Prize and the Commonwealth Short Story Competition",
   "Confessions of an English Opium-Eater and Other Writings (Oxford World's Classics)",
   "Conjure: Selected Poems 1963-1970 (University of Massachusetts Press, 1972), catalogue record",
@@ -1045,6 +1047,7 @@
   "Jack Kerouac (Wikipedia)",
   "Jack London: Novels and Social Writings (Library of America, vol. 7)",
   "Jack Sheppard (Broadview Editions)",
+  "Jamaica Labrish",
   "James Baldwin (Wikipedia)",
   "James Baldwin bibliography (baldwinbibliography.com)",
   "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
@@ -1060,6 +1063,7 @@
   "Jonathan Swift: Critical, Scholastic, and Variorum Edition",
   "Journal of West Indian Literature 24.2 (November 2016), Caribbean Ecocriticism special issue",
   "Journal of a Residence in Chile During the Year 1822, and a Voyage from Chile to Brazil in 1823",
+  "Juan Felipe Herrera",
   "Kamau Brathwaite (Wikipedia)",
   "King's Gold Medal for Poetry (Wikipedia; formerly Queen's Gold Medal for Poetry)",
   "Kiran Desai (Wikipedia)",
@@ -1107,6 +1111,7 @@
   "M. NourbeSe Philip's She Tries her Tongue, her Silence Softly Breaks and the Possibilities of Language (Revista Anglo Saxonica)",
   "MCMXIV (Wikipedia)",
   "Macaulay: Prose and Poetry",
+  "Magnetic Field: The Marsden Poems, context and critical discussion",
   "Maids Mild and Dark Villains, Sweet Magnolias and Seeping Blood: Gwendolyn Brooks's Poetic Response to the Lynching of Emmett Till (ResearchGate abstract)",
   "Major Literary Prizes (Post45 Data Collective)",
   "Malcolm Muggeridge (Wikipedia)",
@@ -1133,6 +1138,7 @@
   "Middle Passage (poem) (Wikipedia)",
   "Middlemarch: A Norton Critical Edition",
   "Miles Franklin Award (Wikipedia)",
+  "Miss Lou Matters (Mervyn Morris, National Library of Jamaica lecture, 2016)",
   "Moby-Dick; or, The Whale, vol. 6 of the Northwestern-Newberry Edition of the Writings of Herman Melville",
   "Modern Chivalry (American Fiction Series)",
   "Modern Chivalry: Containing the Adventures of Captain John Farrago, and Teague O'Regan, His Servant",
@@ -1212,6 +1218,7 @@
   "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)",
   "Sandettie Light Vessel Automatic",
   "Saul Bellow (Wikipedia)",
+  "Scorpion and Other Poems",
   "Seamus Heaney (Wikipedia)",
   "Seamus Heaney's principal poems (reading site, irisharoundtheworld)",
   "Seamus Heaney, 'Clearances' (reading site, fawbie.info)",
@@ -1229,6 +1236,7 @@
   "Shooting an Elephant and Other Essays, 1950 (orwell.ru library record)",
   "Shooting an elephant, and other essays (WorldCat record, OCLC 2552523)",
   "Signs and Symbols (Wikipedia)",
+  "Simon Armitage",
   "Sir Thomas Wyatt: The Complete Poems",
   "Sister Outsider (The Crossing Press, 1984), contents and publication records",
   "Sister Outsider (Wikipedia)",
@@ -1394,6 +1402,7 @@
   "The Nobel Lecture in Literature, 1993, first edition (Alfred A. Knopf, 1994)",
   "The North American Review",
   "The Norton Anthology of American Literature (9th edition)",
+  "The Norton Anthology of American Literature, 11th edition, vol. E: publisher's audio and contents pages",
   "The Norton Anthology of American Literature, 9th edn",
   "The Norton Anthology of American Literature, Vol. D: 1914–1945, 10th edn",
   "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
@@ -1461,6 +1470,7 @@
   "The Selected Works of Robert Owen (4 volumes)",
   "The Selected Writings of Leigh Hunt (6 volumes)",
   "The Shield of Achilles (Wikipedia)",
+  "The Shout Heard across the Atlantic (Poetry Foundation profile of Simon Armitage)",
   "The Spectator, 4 volumes",
   "The Stanza Stones project and In Memory of Water",
   "The Struggles of John Brown Russwurm: The Life and Writings of a Pan-Africanist Pioneer, 1799-1851",
@@ -1721,11 +1731,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3003,
+     "id": 3010,
      "title": "Elements of Composition"
     },
     {
-     "id": 3002,
+     "id": 3009,
      "title": "Self-Portrait"
     }
    ],
@@ -3229,7 +3239,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3023,
+     "id": 3030,
      "title": "Walker Brothers Cowboy"
     }
    ],
@@ -4266,7 +4276,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3045,
+     "id": 3052,
      "title": "The Glass Essay"
     }
    ],
@@ -5393,7 +5403,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3073,
+     "id": 3080,
      "title": "Death of a Salesman"
     }
    ],
@@ -5697,7 +5707,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3038,
+     "id": 3045,
      "title": "The God of Small Things"
     }
    ],
@@ -5785,11 +5795,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3093,
+     "id": 3100,
      "title": "Black Mother Woman"
     },
     {
-     "id": 3091,
+     "id": 3098,
      "title": "Coal"
     },
     {
@@ -5801,7 +5811,7 @@
      "title": "The Master's Tools Will Never Dismantle the Master's House"
     },
     {
-     "id": 3092,
+     "id": 3099,
      "title": "The Woman Thing"
     },
     {
@@ -6244,7 +6254,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3037,
+     "id": 3044,
      "title": "What the Tapster Saw"
     }
    ],
@@ -6456,7 +6466,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3036,
+     "id": 3043,
      "title": "Looking for a Rain God"
     }
    ],
@@ -6654,7 +6664,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3050,
+     "id": 3057,
      "title": "First Screening"
     }
    ],
@@ -7126,19 +7136,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3054,
+     "id": 3061,
      "title": "Medusa"
     },
     {
-     "id": 3055,
+     "id": 3062,
      "title": "Mrs Lazarus"
     },
     {
-     "id": 3053,
+     "id": 3060,
      "title": "Valentine"
     },
     {
-     "id": 3052,
+     "id": 3059,
      "title": "Warming Her Pearls"
     }
    ],
@@ -7298,7 +7308,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3026,
+     "id": 3033,
      "title": "Top Girls"
     }
    ],
@@ -8952,7 +8962,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3019,
+     "id": 3026,
      "title": "Civil Peace"
     }
    ],
@@ -10666,19 +10676,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3009,
+     "id": 3016,
      "title": "A Far Cry from Africa"
     },
     {
-     "id": 3012,
+     "id": 3019,
      "title": "Omeros"
     },
     {
-     "id": 3010,
+     "id": 3017,
      "title": "The Schooner Flight"
     },
     {
-     "id": 3011,
+     "id": 3018,
      "title": "The Season of Phantasmal Peace"
     }
    ],
@@ -11002,7 +11012,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3001,
+     "id": 3008,
      "title": "To Room Nineteen"
     }
    ],
@@ -11414,7 +11424,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2988,
+     "id": 2995,
      "title": "Do Not Go Gentle into That Good Night"
     }
    ],
@@ -11815,15 +11825,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3042,
+     "id": 3049,
      "title": "Fond Memory"
     },
     {
-     "id": 3043,
+     "id": 3050,
      "title": "The Dolls Museum in Dublin"
     },
     {
-     "id": 3044,
+     "id": 3051,
      "title": "The Lost Land"
     }
    ],
@@ -13712,23 +13722,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3063,
+     "id": 3070,
      "title": "At the Fishhouses"
     },
     {
-     "id": 3066,
+     "id": 3073,
      "title": "In the Waiting Room"
     },
     {
-     "id": 3067,
+     "id": 3074,
      "title": "One Art"
     },
     {
-     "id": 3064,
+     "id": 3071,
      "title": "Questions of Travel"
     },
     {
-     "id": 3065,
+     "id": 3072,
      "title": "The Armadillo"
     }
    ],
@@ -16853,27 +16863,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3087,
+     "id": 3094,
      "title": "A Step Away from Them"
     },
     {
-     "id": 3089,
+     "id": 3096,
      "title": "Having a Coke with You"
     },
     {
-     "id": 3090,
+     "id": 3097,
      "title": "In Memory of My Feelings"
     },
     {
-     "id": 3085,
+     "id": 3092,
      "title": "Personism: A Manifesto"
     },
     {
-     "id": 3088,
+     "id": 3095,
      "title": "The Day Lady Died"
     },
     {
-     "id": 3086,
+     "id": 3093,
      "title": "Why I Am Not a Painter"
     }
    ],
@@ -17393,15 +17403,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3020,
+     "id": 3027,
      "title": "In Memory of Jane Fraser"
     },
     {
-     "id": 3021,
+     "id": 3028,
      "title": "Requiem for the Plantagenet Kings"
     },
     {
-     "id": 3022,
+     "id": 3029,
      "title": "September Song"
     }
    ],
@@ -18833,7 +18843,7 @@
      "title": "Coming Up for Air"
     },
     {
-     "id": 2940,
+     "id": 2947,
      "title": "Critical Essays"
     },
     {
@@ -18849,7 +18859,7 @@
      "title": "Inside the Whale and Other Essays"
     },
     {
-     "id": 2941,
+     "id": 2948,
      "title": "James Burnham and the Managerial Revolution"
     },
     {
@@ -18857,31 +18867,31 @@
      "title": "Keep the Aspidistra Flying"
     },
     {
-     "id": 2943,
+     "id": 2950,
      "title": "Nineteen Eighty-Four"
     },
     {
-     "id": 2971,
+     "id": 2978,
      "title": "Politics and the English Language"
     },
     {
-     "id": 2944,
+     "id": 2951,
      "title": "Shooting an Elephant and Other Essays"
     },
     {
-     "id": 2945,
+     "id": 2952,
      "title": "Such, Such Were the Joys"
     },
     {
-     "id": 2946,
+     "id": 2953,
      "title": "The Collected Essays, Journalism and Letters of George Orwell"
     },
     {
-     "id": 2942,
+     "id": 2949,
      "title": "The English People"
     },
     {
-     "id": 2947,
+     "id": 2954,
      "title": "The Freedom of the Press"
     },
     {
@@ -19826,15 +19836,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2997,
+     "id": 3004,
      "title": "Epilogue"
     },
     {
-     "id": 2998,
+     "id": 3005,
      "title": "The Fat Black Woman Goes Shopping"
     },
     {
-     "id": 2999,
+     "id": 3006,
      "title": "Wherever I Hang"
     }
    ],
@@ -19879,11 +19889,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3083,
+     "id": 3090,
      "title": "A Conversation with My Father"
     },
     {
-     "id": 3084,
+     "id": 3091,
      "title": "Zagrowsky Tells"
     }
    ],
@@ -20075,7 +20085,7 @@
    ],
    "works": [
     {
-     "id": 2981,
+     "id": 2988,
      "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon"
     },
     {
@@ -20083,27 +20093,27 @@
      "title": "A Street in Bronzeville"
     },
     {
-     "id": 2980,
+     "id": 2987,
      "title": "The Bean Eaters"
     },
     {
-     "id": 2983,
+     "id": 2990,
      "title": "The Blackstone Rangers"
     },
     {
-     "id": 2978,
+     "id": 2985,
      "title": "The Children of the Poor"
     },
     {
-     "id": 2982,
+     "id": 2989,
      "title": "The Last Quatrain of the Ballad of Emmett Till"
     },
     {
-     "id": 2984,
+     "id": 2991,
      "title": "To the Diaspora"
     },
     {
-     "id": 2979,
+     "id": 2986,
      "title": "We Real Cool"
     }
    ],
@@ -20551,7 +20561,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3051,
+     "id": 3058,
      "title": "My Son the Fanatic"
     }
    ],
@@ -24004,7 +24014,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3079,
+     "id": 3086,
      "title": "For Esmé—with Love and Squalor"
     }
    ],
@@ -24046,7 +24056,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3035,
+     "id": 3042,
      "title": "The Drowned World"
     }
    ],
@@ -24159,7 +24169,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3041,
+     "id": 3048,
      "title": "Waiting for the Barbarians"
     }
    ],
@@ -24392,7 +24402,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3080,
+     "id": 3087,
      "title": "On the Road"
     }
    ],
@@ -26185,7 +26195,7 @@
      "title": "Good Morning, Midnight"
     },
     {
-     "id": 2974,
+     "id": 2981,
      "title": "On Not Shooting Sitting Birds"
     },
     {
@@ -26193,7 +26203,7 @@
      "title": "Quartet"
     },
     {
-     "id": 2973,
+     "id": 2980,
      "title": "The Day They Burned the Books"
     },
     {
@@ -27523,7 +27533,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3069,
+     "id": 3076,
      "title": "The Swimmer"
     }
    ],
@@ -32061,6 +32071,57 @@
    ]
   },
   {
+   "id": 933,
+   "name": "Juan Felipe Herrera",
+   "altNames": [],
+   "dates": "1948",
+   "birthplace": "Fowler, California, United States",
+   "nationality": "American; poet, performer, children's writer and teacher writing in English and Spanish",
+   "identity": "Chicano poet, performer and activist, the first Latino Poet Laureate of the United States, whose bilingual, typographically restless poems make migration, the border and the campesino childhood of the San Joaquin Valley into a public American poetry",
+   "biography": "Juan Felipe Herrera was born in Fowler, California, on 27 December 1948, the son of migrant farmworkers from Mexico, and spent his childhood in trailers and tents along the roads of the San Joaquin Valley; he has said that he attended more than forty schools. He took a B.A. in social anthropology at UCLA in 1972, an M.A. in the same subject at Stanford in 1980, and an MFA from the Iowa Writers' Workshop in 1990, and was involved in the Chicano civil rights movement and in experimental theatre in San Francisco in the 1970s. His first books came from small presses - Rebozos of Love (1974), Exiles of Desire (1983), Facegames (1987) and Akrilica (1989) - and he went on to publish more than thirty, including Border-Crosser with a Lamborghini Dream (1999), Notebooks of a Chile Verde Smuggler (2002), 187 Reasons Mexicanos Can't Cross the Border (2007), Half of the World in Light: New and Selected Poems (2008), which won the National Book Critics Circle Award, Senegal Taxi (2013), Notes on the Assemblage (2015), Every Day We Get More Illegal (2020) and the young-adult prose books and picture books for which he is also known. He taught at California State University, Fresno and held the Tomas Rivera Endowed Chair at UC Riverside until his retirement in 2015; he was Poet Laureate of California from 2012 to 2014 and the 21st Poet Laureate of the United States from 2015 to 2017, the first Latino to hold the office.",
+   "profile": "Poetry: Rebozos of Love (1974), Exiles of Desire (1983; reissued by Arte Publico Press, 1985), Facegames (1987), Akrilica (1989), Night Train to Tuxtla (1994), Border-Crosser with a Lamborghini Dream (1999), Loteria Cards and Fortune Poems (1999), Giraffe on Fire (2001), Notebooks of a Chile Verde Smuggler (2002), 187 Reasons Mexicanos Can't Cross the Border (2007), Half of the World in Light: New and Selected Poems (2008), Senegal Taxi (2013), Notes on the Assemblage (2015) and Every Day We Get More Illegal (2020). Prose and books for younger readers: Calling the Doves (1995), The Upside Down Boy (2000), Mayan Drifter (1997), Cinnamon Girl (2005), SkateFate (2011) and Jabberwalking (2018).",
+   "style": "Code-switching between English and Spanish without translation or apology; long incantatory lines of accumulation and list; typographical experiment, including drawings and lettering, carried over from his work as a performance poet; the prose poem and the documentary fragment; and a public, declamatory register that is equally at home in the classroom and the protest.",
+   "concerns": "Migration, the border and the undocumented; the Mexican and Chicano past, from the pyramids to the farmworkers' strikes; the family, and especially the mother's voice; political violence and the disappeared; language itself, as a possession that is taken away and reclaimed; and, in the late work, the poet's public office and the dead of the present.",
+   "significance": "Herrera's laureateship in 2015 was the first for a Latino poet and made a bilingual, small-press, performance-trained writer the public face of American poetry; Half of the World in Light won the National Book Critics Circle Award and he received the Ruth Lilly Poetry Prize in 2022. Within the Norton Anthology of American Literature he is one of the Chicano writers - with Anzaldua and Cisneros - by whom the postwar canon admits Spanish-language American poetry, and two of the five poems printed there, 'Exiles' and 'Literary Asylums', date from his first collection and fall inside the period.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Experimental Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2939,
+     "title": "Exiles"
+    },
+    {
+     "id": 2940,
+     "title": "Literary Asylums"
+    }
+   ],
+   "sources": [
+    "Exiles of Desire",
+    "Guide to the Juan Felipe Herrera Papers, ca. 1970-2017 (M1043)",
+    "Half of the World in Light: New and Selected Poems",
+    "Juan Felipe Herrera",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 733,
    "name": "Julian Grenfell",
    "altNames": [
@@ -32278,15 +32339,15 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2991,
+     "id": 2998,
      "title": "Calypso"
     },
     {
-     "id": 2990,
+     "id": 2997,
      "title": "History of the Voice"
     },
     {
-     "id": 2992,
+     "id": 2999,
      "title": "Letter SycoraX"
     }
    ],
@@ -32694,7 +32755,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3056,
+     "id": 3063,
      "title": "Hullabaloo in the Guava Orchard"
     }
    ],
@@ -32743,11 +32804,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3081,
+     "id": 3088,
      "title": "Harrison Bergeron"
     },
     {
-     "id": 3082,
+     "id": 3089,
      "title": "Slaughterhouse-Five"
     }
    ],
@@ -33409,11 +33470,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3034,
+     "id": 3041,
      "title": "Corniche"
     },
     {
-     "id": 3033,
+     "id": 3040,
      "title": "Morse"
     }
    ],
@@ -33765,7 +33826,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3000,
+     "id": 3007,
      "title": "Inglan Is a Bitch"
     }
    ],
@@ -33909,27 +33970,27 @@
      "title": "A Raisin in the Sun"
     },
     {
-     "id": 2937,
+     "id": 2944,
      "title": "Les Blancs"
     },
     {
-     "id": 2938,
+     "id": 2945,
      "title": "The Drinking Gourd"
     },
     {
-     "id": 2935,
+     "id": 2942,
      "title": "The Movement: Documentary of a Struggle for Equality"
     },
     {
-     "id": 2934,
+     "id": 2941,
      "title": "The Sign in Sidney Brustein's Window"
     },
     {
-     "id": 2936,
+     "id": 2943,
      "title": "To Be Young, Gifted and Black"
     },
     {
-     "id": 2939,
+     "id": 2946,
      "title": "What Use Are Flowers?"
     }
    ],
@@ -34100,24 +34161,44 @@
    "tier": "Significant / secondary",
    "uncertainty": "",
    "genres": [
+    "Folklore Collection",
     "Light Verse",
+    "Narrative Poetry",
     "Performance Poetry",
-    "Political Poetry"
+    "Political Poetry",
+    "Social Poetry"
    ],
    "movements": [
     "Caribbean Literature in English",
-    "Postcolonial Literature"
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
    ],
    "themes": [
+    "Class, labour and social mobility",
     "Decolonisation, the end of empire and the new nation",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
     "Migration, exile and diaspora",
-    "Nationhood and national identity"
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
    ],
    "influencedBy": [],
    "works": [
     {
-     "id": 2989,
+     "id": 2996,
      "title": "Colonization in Reverse"
+    },
+    {
+     "id": 2935,
+     "title": "Dry-Foot Bwoy"
+    },
+    {
+     "id": 2937,
+     "title": "Jamaica Language"
+    },
+    {
+     "id": 2936,
+     "title": "Jamaica Oman"
     }
    ],
    "sources": [
@@ -34541,7 +34622,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2994,
+     "id": 3001,
      "title": "Discourse on the Logic of Language"
     }
    ],
@@ -34762,11 +34843,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3039,
+     "id": 3046,
      "title": "Death by Landscape"
     },
     {
-     "id": 3040,
+     "id": 3047,
      "title": "Miss July Grows Older"
     }
    ],
@@ -38538,7 +38619,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2993,
+     "id": 3000,
      "title": "Decolonising the Mind"
     }
    ],
@@ -40089,19 +40170,19 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3048,
+     "id": 3055,
      "title": "7, Middagh Street"
     },
     {
-     "id": 3046,
+     "id": 3053,
      "title": "Anseo"
     },
     {
-     "id": 3047,
+     "id": 3054,
      "title": "Meeting the British"
     },
     {
-     "id": 3049,
+     "id": 3056,
      "title": "Milkweed and Monarch"
     }
    ],
@@ -40424,7 +40505,7 @@
      "title": "Aubade"
     },
     {
-     "id": 2962,
+     "id": 2969,
      "title": "Church Going"
     },
     {
@@ -40432,7 +40513,7 @@
      "title": "Collected Poems"
     },
     {
-     "id": 2966,
+     "id": 2973,
      "title": "Going, Going"
     },
     {
@@ -40440,11 +40521,11 @@
      "title": "High Windows"
     },
     {
-     "id": 2965,
+     "id": 2972,
      "title": "High Windows (poem)"
     },
     {
-     "id": 2968,
+     "id": 2975,
      "title": "Homage to a Government"
     },
     {
@@ -40452,7 +40533,7 @@
      "title": "Jill"
     },
     {
-     "id": 2963,
+     "id": 2970,
      "title": "MCMXIV"
     },
     {
@@ -40460,7 +40541,7 @@
      "title": "Required Writing: Miscellaneous Pieces 1955-1982"
     },
     {
-     "id": 2967,
+     "id": 2974,
      "title": "Sad Steps"
     },
     {
@@ -40468,11 +40549,11 @@
      "title": "Selected Letters of Philip Larkin, 1940-1985"
     },
     {
-     "id": 2964,
+     "id": 2971,
      "title": "Talking in Bed"
     },
     {
-     "id": 2969,
+     "id": 2976,
      "title": "The Explosion"
     },
     {
@@ -40488,7 +40569,7 @@
      "title": "The Whitsun Weddings"
     },
     {
-     "id": 2970,
+     "id": 2977,
      "title": "This Be The Verse"
     },
     {
@@ -43529,11 +43610,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3071,
+     "id": 3078,
      "title": "Summertime and the Living . . ."
     },
     {
-     "id": 3070,
+     "id": 3077,
      "title": "Those Winter Sundays"
     }
    ],
@@ -43818,23 +43899,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3078,
+     "id": 3085,
      "title": "For the Union Dead"
     },
     {
-     "id": 3076,
+     "id": 3083,
      "title": "Memories of West Street and Lepke"
     },
     {
-     "id": 3074,
+     "id": 3081,
      "title": "Mr. Edwards and the Spider"
     },
     {
-     "id": 3077,
+     "id": 3084,
      "title": "Night Sweat"
     },
     {
-     "id": 3075,
+     "id": 3082,
      "title": "Skunk Hour"
     }
    ],
@@ -45034,11 +45115,11 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 2996,
+     "id": 3003,
      "title": "Imaginary Homelands"
     },
     {
-     "id": 2995,
+     "id": 3002,
      "title": "The Prophet's Hair"
     }
    ],
@@ -45113,7 +45194,7 @@
      "title": "Murphy"
     },
     {
-     "id": 2975,
+     "id": 2982,
      "title": "Waiting for Godot"
     }
    ],
@@ -45838,63 +45919,63 @@
    ],
    "works": [
     {
-     "id": 2948,
+     "id": 2955,
      "title": "A Brighter Sun"
     },
     {
-     "id": 2949,
+     "id": 2956,
      "title": "An Island Is a World"
     },
     {
-     "id": 2959,
+     "id": 2966,
      "title": "Eldorado West One"
     },
     {
-     "id": 2960,
+     "id": 2967,
      "title": "Foreday Morning: Selected Prose 1946-1986"
     },
     {
-     "id": 2961,
+     "id": 2968,
      "title": "Highway in the Sun and Other Plays"
     },
     {
-     "id": 2953,
+     "id": 2960,
      "title": "I Hear Thunder"
     },
     {
-     "id": 2957,
+     "id": 2964,
      "title": "Moses Ascending"
     },
     {
-     "id": 2958,
+     "id": 2965,
      "title": "Moses Migrating"
     },
     {
-     "id": 2954,
+     "id": 2961,
      "title": "The Housing Lark"
     },
     {
-     "id": 2950,
+     "id": 2957,
      "title": "The Lonely Londoners"
     },
     {
-     "id": 2955,
+     "id": 2962,
      "title": "The Plains of Caroni"
     },
     {
-     "id": 2956,
+     "id": 2963,
      "title": "Those Who Eat the Cascadura"
     },
     {
-     "id": 2952,
+     "id": 2959,
      "title": "Turn Again Tiger"
     },
     {
-     "id": 2972,
+     "id": 2979,
      "title": "Waiting for Aunty to Cough"
     },
     {
-     "id": 2951,
+     "id": 2958,
      "title": "Ways of Sunlight"
     }
    ],
@@ -46318,7 +46399,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3072,
+     "id": 3079,
      "title": "Looking for Mr. Green"
     }
    ],
@@ -46373,27 +46454,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3030,
+     "id": 3037,
      "title": "Casualty"
     },
     {
-     "id": 3032,
+     "id": 3039,
      "title": "Clearances"
     },
     {
-     "id": 3027,
+     "id": 3034,
      "title": "Digging"
     },
     {
-     "id": 3029,
+     "id": 3036,
      "title": "Punishment"
     },
     {
-     "id": 3031,
+     "id": 3038,
      "title": "Station Island"
     },
     {
-     "id": 3028,
+     "id": 3035,
      "title": "The Grauballe Man"
     }
    ],
@@ -46769,6 +46850,49 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 932,
+   "name": "Simon Armitage",
+   "altNames": [],
+   "dates": "1963",
+   "birthplace": "Huddersfield, West Riding of Yorkshire, England",
+   "nationality": "English; poet, playwright, novelist and translator writing in English",
+   "identity": "English poet of the West Yorkshire Pennines whose plain, wry, often violent narratives in contemporary speech made him the most widely read British poet of his generation, and the Poet Laureate since 2019",
+   "biography": "Simon Robert Armitage was born in Huddersfield on 26 May 1963 and grew up in the village of Marsden, on the edge of the Pennines, where his family still lived and where most of his poems are set; his father wrote pantomimes for a local all-male troupe. He read geography at Portsmouth Polytechnic and took a master's degree in social work at the University of Manchester, and worked for several years as a probation officer, an experience that later underpins poems such as 'Remains' and the television work he did with soldiers. Zoom! (Bloodaxe, 1989) was his first collection; Kid (1992) won the Forward Prize for Best First Collection's successor, Book of Matches (1993) and The Dead Sea Poems (1995) established him, and Cloudcuckooland (1997) was shortlisted for the Whitbread Prize. The millennium poem Killing Time, broadcast and printed in 1999, made him a public figure, and the sequence of prose poems in Seeing Stars (2010) and the translations of Sir Gawain and the Green Knight (2007), the Alliterative Morte Arthure (2012) and Pearl (2016) extended his range. He was Professor of Poetry at Oxford from 2015 to 2019, has been Professor of Poetry at Leeds since 2017, and was appointed Poet Laureate on 10 May 2019; he was awarded the CBE in 2010 and the Queen's Gold Medal for Poetry in 2018. His prose includes All Points North (1998), the Pennine Way account Walking Home (2012) and its sequel Walking Away, and the novels Little Green Man (2001) and The White Stuff (2004).",
+   "profile": "Collections: Zoom! (1989), Kid (1992), Book of Matches (1993), The Dead Sea Poems (1995), Cloudcuckooland (1997), Killing Time (1999), Selected Poems (2001), The Universal Home Doctor (2002), Travelling Songs (2002), The Shout: Selected Poems (2005), Tyrannosaurus Rex Versus the Corduroy Kid (2006), Seeing Stars (2010), The Death of King Arthur (2012), Paper Aeroplane: Selected Poems 1989-2014 (2014), The Unaccompanied (2017), Sandettie Light Vessel Automatic (2019), Magnetic Field: The Marsden Poems (2020) and Blossomise (2024). Translations: Sir Gawain and the Green Knight (2007), The Alliterative Morte Arthure (2012), Pearl (2016), The Odyssey (2016). Prose: All Points North (1998), Walking Home (2012), Walking Away (2015). Novels: Little Green Man (2001), The White Stuff (2004).",
+   "style": "A conversational, usually first-person line that sounds like speech but is metrically exact; short sentences; a Yorkshire vocabulary kept without ornament; sudden shifts of register from the demotic to the literary; narrative poems that withhold their moral; and endings that turn on a plain statement or a single image rather than a summary.",
+   "concerns": "Adolescence and the remembered places of a northern childhood; class, work and the probation service; the borderland between town and moor; violence, often casual and domestic; the body and its failures; the First World War and its commemorations; and, in the later work, the environment and the public poem.",
+   "significance": "Armitage is the most widely taught British poet of his generation and, since 2019, the official one. The directness of his line made him the standard counter-example to the difficulty of the modernist and Language poets, and his public standing - the millennium poem, the laureateship, the translations - has made him a test case for what a laureate can do. His poems are on the English school syllabus and the Norton Anthology of English Literature prints four of them, of which one, 'The Tyre', falls inside the period.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Regional Poetry"
+   ],
+   "movements": [
+    "The British Poetry Revival"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Land, place and regional belonging",
+    "Technology, media and consumer society"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2938,
+     "title": "The Tyre"
+    }
+   ],
+   "sources": [
+    "Cloudcuckooland",
+    "Magnetic Field: The Marsden Poems, context and critical discussion",
+    "Simon Armitage",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "The Shout Heard across the Atlantic (Poetry Foundation profile of Simon Armitage)"
    ]
   },
   {
@@ -48230,6 +48354,7 @@
     "Elegiac Poetry",
     "Light Verse",
     "Lyric Poetry",
+    "Nature Poetry",
     "Religious Poetry"
    ],
    "movements": [],
@@ -48240,20 +48365,25 @@
     "Faith, doubt and the sacred",
     "Identity, authenticity and the divided self",
     "Madness, breakdown and confinement",
+    "Nature, ecology and environmental crisis",
     "Power, the state and surveillance"
    ],
    "influencedBy": [],
    "works": [
     {
-     "id": 2986,
+     "id": 2993,
      "title": "Not Waving but Drowning"
     },
     {
-     "id": 2985,
+     "id": 2992,
      "title": "Our Bog Is Dood"
     },
     {
-     "id": 2987,
+     "id": 2934,
+     "title": "Pretty"
+    },
+    {
+     "id": 2994,
      "title": "Thoughts About the Person from Porlock"
     }
    ],
@@ -49184,27 +49314,27 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3018,
+     "id": 3025,
      "title": "Crow Tyrannosaurus"
     },
     {
-     "id": 3017,
+     "id": 3024,
      "title": "Crow's Last Stand"
     },
     {
-     "id": 3015,
+     "id": 3022,
      "title": "Out"
     },
     {
-     "id": 3014,
+     "id": 3021,
      "title": "Pike"
     },
     {
-     "id": 3016,
+     "id": 3023,
      "title": "Theology"
     },
     {
-     "id": 3013,
+     "id": 3020,
      "title": "Wind"
     }
    ],
@@ -49248,7 +49378,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3068,
+     "id": 3075,
      "title": "A Streetcar Named Desire"
     }
    ],
@@ -49528,23 +49658,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3058,
+     "id": 3065,
      "title": "Cuttings"
     },
     {
-     "id": 3059,
+     "id": 3066,
      "title": "Cuttings (later)"
     },
     {
-     "id": 3061,
+     "id": 3068,
      "title": "Elegy for Jane"
     },
     {
-     "id": 3062,
+     "id": 3069,
      "title": "I Knew a Woman"
     },
     {
-     "id": 3060,
+     "id": 3067,
      "title": "The Waking"
     }
    ],
@@ -49591,23 +49721,23 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3004,
+     "id": 3011,
      "title": "Black Jackets"
     },
     {
-     "id": 3006,
+     "id": 3013,
      "title": "From the Wave"
     },
     {
-     "id": 3005,
+     "id": 3012,
      "title": "My Sad Captains"
     },
     {
-     "id": 3007,
+     "id": 3014,
      "title": "Still Life"
     },
     {
-     "id": 3008,
+     "id": 3015,
      "title": "The Missing"
     }
    ],
@@ -52744,7 +52874,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3024,
+     "id": 3031,
      "title": "One Out of Many"
     }
    ],
@@ -53043,7 +53173,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3057,
+     "id": 3064,
      "title": "Signs and Symbols"
     }
    ],
@@ -53308,7 +53438,7 @@
      "title": "Another Time"
     },
     {
-     "id": 2976,
+     "id": 2983,
      "title": "In Praise of Limestone"
     },
     {
@@ -53328,7 +53458,7 @@
      "title": "The Orators: An English Study"
     },
     {
-     "id": 2977,
+     "id": 2984,
      "title": "The Shield of Achilles"
     }
    ],
@@ -57718,7 +57848,7 @@
    "influencedBy": [],
    "works": [
     {
-     "id": 3025,
+     "id": 3032,
      "title": "Death and the King's Horseman"
     }
    ],
@@ -60249,7 +60379,7 @@
    ]
   },
   {
-   "id": 3048,
+   "id": 3055,
    "title": "7, Middagh Street",
    "altTitles": [],
    "authorship": "single",
@@ -60568,7 +60698,7 @@
    ]
   },
   {
-   "id": 2948,
+   "id": 2955,
    "title": "A Brighter Sun",
    "altTitles": [],
    "authorship": "single",
@@ -60622,7 +60752,7 @@
    ]
   },
   {
-   "id": 2981,
+   "id": 2988,
    "title": "A Bronzeville Mother Loiters in Mississippi. Meanwhile, a Mississippi Mother Burns Bacon",
    "altTitles": [
     "A Bronzeville Mother Loiters in Mississippi"
@@ -61282,7 +61412,7 @@
    ]
   },
   {
-   "id": 3083,
+   "id": 3090,
    "title": "A Conversation with My Father",
    "altTitles": [],
    "authorship": "single",
@@ -62323,7 +62453,7 @@
    ]
   },
   {
-   "id": 3009,
+   "id": 3016,
    "title": "A Far Cry from Africa",
    "altTitles": [],
    "authorship": "single",
@@ -67780,7 +67910,7 @@
    ]
   },
   {
-   "id": 3087,
+   "id": 3094,
    "title": "A Step Away from Them",
    "altTitles": [],
    "authorship": "single",
@@ -67885,7 +68015,7 @@
    ]
   },
   {
-   "id": 3068,
+   "id": 3075,
    "title": "A Streetcar Named Desire",
    "altTitles": [],
    "authorship": "single",
@@ -75102,7 +75232,7 @@
    ]
   },
   {
-   "id": 2949,
+   "id": 2956,
    "title": "An Island Is a World",
    "altTitles": [],
    "authorship": "single",
@@ -75808,7 +75938,7 @@
    ]
   },
   {
-   "id": 3046,
+   "id": 3053,
    "title": "Anseo",
    "altTitles": [],
    "authorship": "single",
@@ -77303,7 +77433,7 @@
    ]
   },
   {
-   "id": 3063,
+   "id": 3070,
    "title": "At the Fishhouses",
    "altTitles": [],
    "authorship": "single",
@@ -80348,7 +80478,7 @@
    ]
   },
   {
-   "id": 3004,
+   "id": 3011,
    "title": "Black Jackets",
    "altTitles": [],
    "authorship": "single",
@@ -80397,7 +80527,7 @@
    ]
   },
   {
-   "id": 3093,
+   "id": 3100,
    "title": "Black Mother Woman",
    "altTitles": [],
    "authorship": "single",
@@ -82175,7 +82305,7 @@
    ]
   },
   {
-   "id": 2991,
+   "id": 2998,
    "title": "Calypso",
    "altTitles": [],
    "authorship": "single",
@@ -83031,7 +83161,7 @@
    ]
   },
   {
-   "id": 3030,
+   "id": 3037,
    "title": "Casualty",
    "altTitles": [],
    "authorship": "single",
@@ -85165,7 +85295,7 @@
    ]
   },
   {
-   "id": 2962,
+   "id": 2969,
    "title": "Church Going",
    "altTitles": [],
    "authorship": "single",
@@ -85215,7 +85345,7 @@
    ]
   },
   {
-   "id": 3019,
+   "id": 3026,
    "title": "Civil Peace",
    "altTitles": [],
    "authorship": "single",
@@ -85485,7 +85615,7 @@
    ]
   },
   {
-   "id": 3032,
+   "id": 3039,
    "title": "Clearances",
    "altTitles": [],
    "authorship": "single",
@@ -85686,7 +85816,7 @@
    ]
   },
   {
-   "id": 3091,
+   "id": 3098,
    "title": "Coal",
    "altTitles": [],
    "authorship": "single",
@@ -86371,7 +86501,7 @@
    ]
   },
   {
-   "id": 2989,
+   "id": 2996,
    "title": "Colonization in Reverse",
    "altTitles": [],
    "authorship": "single",
@@ -87928,7 +88058,7 @@
    ]
   },
   {
-   "id": 3034,
+   "id": 3041,
    "title": "Corniche",
    "altTitles": [],
    "authorship": "single",
@@ -88211,7 +88341,7 @@
    ]
   },
   {
-   "id": 2940,
+   "id": 2947,
    "title": "Critical Essays",
    "altTitles": [
     "Dickens, Dali and Others: Studies in Popular Culture"
@@ -88484,7 +88614,7 @@
    ]
   },
   {
-   "id": 3018,
+   "id": 3025,
    "title": "Crow Tyrannosaurus",
    "altTitles": [],
    "authorship": "single",
@@ -88533,7 +88663,7 @@
    ]
   },
   {
-   "id": 3017,
+   "id": 3024,
    "title": "Crow's Last Stand",
    "altTitles": [],
    "authorship": "single",
@@ -88927,7 +89057,7 @@
    ]
   },
   {
-   "id": 3058,
+   "id": 3065,
    "title": "Cuttings",
    "altTitles": [],
    "authorship": "single",
@@ -88976,7 +89106,7 @@
    ]
   },
   {
-   "id": 3059,
+   "id": 3066,
    "title": "Cuttings (later)",
    "altTitles": [],
    "authorship": "single",
@@ -90545,7 +90675,7 @@
    ]
   },
   {
-   "id": 3025,
+   "id": 3032,
    "title": "Death and the King's Horseman",
    "altTitles": [],
    "authorship": "single",
@@ -90596,7 +90726,7 @@
    ]
   },
   {
-   "id": 3039,
+   "id": 3046,
    "title": "Death by Landscape",
    "altTitles": [],
    "authorship": "single",
@@ -90809,7 +90939,7 @@
    ]
   },
   {
-   "id": 3073,
+   "id": 3080,
    "title": "Death of a Salesman",
    "altTitles": [],
    "authorship": "single",
@@ -91031,7 +91161,7 @@
    ]
   },
   {
-   "id": 2993,
+   "id": 3000,
    "title": "Decolonising the Mind",
    "altTitles": [
     "Decolonising the Mind: The Politics of Language in African Literature"
@@ -92095,7 +92225,7 @@
    ]
   },
   {
-   "id": 3027,
+   "id": 3034,
    "title": "Digging",
    "altTitles": [],
    "authorship": "single",
@@ -92309,7 +92439,7 @@
    ]
   },
   {
-   "id": 2994,
+   "id": 3001,
    "title": "Discourse on the Logic of Language",
    "altTitles": [],
    "authorship": "single",
@@ -92720,7 +92850,7 @@
    ]
   },
   {
-   "id": 2988,
+   "id": 2995,
    "title": "Do Not Go Gentle into That Good Night",
    "altTitles": [],
    "authorship": "single",
@@ -93794,6 +93924,58 @@
    ]
   },
   {
+   "id": 2935,
+   "title": "Dry-Foot Bwoy",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Louise Bennett"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1966",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (ballad stanzas in Jamaican Creole)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Dry-Foot Bwoy' is one of the two or three poems on which Louise Bennett's reputation rests, and it is in Jamaica Labrish (Kingston: Sangster's Book Stores, 1966), the collection that first gathered twenty-five years of her verse. It is a comic ballad about a young Jamaican who comes back from England with an English accent, and it is the sharpest thing she wrote about the shame that colonialism taught.",
+   "summary": "The speaker asks what is wrong with Mary's 'dry-foot bwoy' - the thin-legged, inexperienced boy - whom the girls mock, and says that when she met him the other night he gave her a shock. She passed on his aunt's and cousins' greetings and asked how he was getting on; he answered 'Oh, jolley, jolley!' She began to feel sorry for the poor unlucky soul, thinking he had gone to a foreign country and caught a bad foreign cold. Then he speaks again, and the poem gives him his new voice: 'How siiley! I don't think that I really understand you, actually.' The speaker loses her temper and tells him to get out, not to talk to her with hot potato in his mouth; he stands 'like him stunted', then says 'Actually', and she asks what happened to the sweet Jamaican jokes he used to tell. He walks out with his head in the air, the girls shout after him, and from that night to this they have kept mocking him: 'Miss Mary dry-foot bwoy! Cyaan get over de shock!'",
+   "plot": "The poem's joke is a stratification joke, and its precision is sociolinguistic. The boy has not simply learned English; he has learned one variety of it - the 'actually' of middle-class English speech - and the poem marks the distance by putting his lines in quotation marks and in a different orthography from everyone else's. Bennett's creole narrator is not a neutral observer: she is mocked by the poem too, for her first assumption that the boy is ill, and her anger is the anger of someone whose own speech has been implicitly judged. What the poem diagnoses is not affectation but the internalised hierarchy that makes a Jamaican accent a thing to be lost - the 'bad foreign cold' is a good joke because it is exact: the accent is caught abroad and it makes him ill at home. The ballad stanza, the staple of English comic verse, is stretched to carry creole syntax and creole vowels, so that the form itself makes Bennett's argument: the language can do what the tradition does, and it can do it better. The ending refuses to resolve. The boy is not corrected and the girls do not stop; the poem leaves him walking out with his head in the air, which is at once ridiculous and entirely understandable.",
+   "significance": "'Dry-Foot Bwoy' is a set text throughout the Caribbean and one of the poems by which Bennett's argument for nation language was made before the term existed; it is printed in the Norton Anthology of English Literature and in the Norton Anthology of Modern and Contemporary Poetry, and it is among the most anthologised Caribbean poems of the century.",
+   "meter": "Creole orthography used consistently; ballad measure with the stresses moved to fit creole speech rhythm; dialogue in two varieties of English set against each other; comic hyperbole ('hot pittata eena yuh mout'); and a refrain-like closing line.",
+   "context": "Jamaica Labrish (1966) appeared four years after Jamaican independence and gathered poems written from the early 1940s; Rex Nettleford's introduction placed Bennett in a tradition of the spoken word. The poem belongs to the great period of Caribbean migration to Britain, and its subject - what leaving does to the way a person speaks - was live for its first readers in a way it is not always now.",
+   "characters": "",
+   "structure": "Ballad quatrains in Jamaican Creole, alternating narration and quoted speech, with the boy's English lines set off in quotation marks; a framed anecdote ('when me meet him tarra night') with a coda in the present tense.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Light Verse",
+    "Narrative Poetry",
+    "Performance Poetry"
+   ],
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "Jamaica Labrish",
+    "Louise Bennett-Coverley (Wikipedia)",
+    "Miss Lou Matters (Mervyn Morris, National Library of Jamaica lecture, 2016)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 438,
    "title": "Du Bartas His Divine Weeks and Works",
    "altTitles": [
@@ -94531,7 +94713,7 @@
    ]
   },
   {
-   "id": 2959,
+   "id": 2966,
    "title": "Eldorado West One",
    "altTitles": [],
    "authorship": "single",
@@ -94771,7 +94953,7 @@
    ]
   },
   {
-   "id": 3061,
+   "id": 3068,
    "title": "Elegy for Jane",
    "altTitles": [],
    "authorship": "single",
@@ -94951,7 +95133,7 @@
    ]
   },
   {
-   "id": 3003,
+   "id": 3010,
    "title": "Elements of Composition",
    "altTitles": [],
    "authorship": "single",
@@ -96697,7 +96879,7 @@
    ]
   },
   {
-   "id": 2997,
+   "id": 3004,
    "title": "Epilogue",
    "altTitles": [],
    "authorship": "single",
@@ -98425,6 +98607,59 @@
    ]
   },
   {
+   "id": 2939,
+   "title": "Exiles",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Juan Felipe Herrera"
+   ],
+   "authorIds": [
+    933
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1983",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, incantatory)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Exiles' is the opening poem of Juan Felipe Herrera's first collection, Exiles of Desire (La Jolla, CA: Lalo Press, 1983), and the earliest of his poems the Norton Anthology of American Literature prints. It is a poem about refugees in American cities, and it is written in the voice of someone who is neither at home nor yet arrived.",
+   "summary": "The poem speaks of the exiled as people who move through the cities of the United States in a condition the poem names in Spanish - 'en exilio' - and it holds them there, between a homeland that has been left and an America that has not yet received them. Its method is accumulation rather than argument: the poem builds its subject out of repeated phrases, addresses and images of transit, of doors, streets and waiting, and it returns to the Spanish word for exile as a refrain. The exiles of the title are not named individuals but a condition that the poem distributes across the urban landscape, and the poem's speaker is inside that condition rather than observing it.",
+   "plot": "The poem's structural decision is to refuse the narrative of arrival. Much of the American poetry of immigration that precedes Herrera ends with the immigrant's naturalisation, or with the second generation's success; 'Exiles' stays in the middle passage between two countries, and its repetitions are the formal equivalent of that suspension - the poem cannot get past the condition it is describing because the condition is not over. The Spanish phrase the poem returns to is not glossed, which is the second decision: the reader who does not have Spanish is placed where the exile is placed, inside a language that is not fully available. Herrera's later work would develop the typographical and bilingual experiments that are only sketched here, and 'Exiles' is the poem in which the political subject - the refugee, the undocumented, the one who is neither here nor there - first became his subject. The Norton's own teaching pages describe it as a meditation on the condition of exile, which is the right description of a poem that declines to resolve into a story.",
+   "significance": "'Exiles' is the poem by which Herrera's first collection is known and the earliest of his work in the Norton Anthology of American Literature; its recovery for this installment matters because a first pass had dated it from its 2008 reprint and dropped it as post-2000.",
+   "meter": "Incantatory repetition; list and catalogue; a syntax of accumulation rather than subordination; Spanish and English in the same breath; direct address; and a rhythm derived from performance and from the preaching and song traditions Herrera grew up with.",
+   "context": "Exiles of Desire was published by Lalo Press in La Jolla in 1983, while Herrera was working in the Chicano movement and in San Francisco performance poetry; it was reissued by Arte Publico Press in Houston in 1985. The Central American refugee crisis of the 1980s, and the sanctuary movement it produced in American cities, is the poem's immediate context.",
+   "characters": "",
+   "structure": "A free-verse poem in long accumulating lines, without stanza divisions, built on repetition and refrain, with Spanish phrases carried without translation.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Experimental Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ],
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "Exiles of Desire",
+    "Half of the World in Light: New and Selected Poems",
+    "Juan Felipe Herrera",
+    "The Norton Anthology of American Literature, 11th edition, vol. E: publisher's audio and contents pages",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 108,
    "title": "Exodus",
    "altTitles": [],
@@ -99944,7 +100179,7 @@
    ]
   },
   {
-   "id": 3050,
+   "id": 3057,
    "title": "First Screening",
    "altTitles": [],
    "authorship": "single",
@@ -100417,7 +100652,7 @@
    ]
   },
   {
-   "id": 3042,
+   "id": 3049,
    "title": "Fond Memory",
    "altTitles": [],
    "authorship": "single",
@@ -100517,7 +100752,7 @@
    ]
   },
   {
-   "id": 3079,
+   "id": 3086,
    "title": "For Esmé—with Love and Squalor",
    "altTitles": [],
    "authorship": "single",
@@ -100567,7 +100802,7 @@
    ]
   },
   {
-   "id": 3078,
+   "id": 3085,
    "title": "For the Union Dead",
    "altTitles": [],
    "authorship": "single",
@@ -100669,7 +100904,7 @@
    ]
   },
   {
-   "id": 2960,
+   "id": 2967,
    "title": "Foreday Morning: Selected Prose 1946-1986",
    "altTitles": [],
    "authorship": "single",
@@ -101464,7 +101699,7 @@
    ]
   },
   {
-   "id": 3006,
+   "id": 3013,
    "title": "From the Wave",
    "altTitles": [],
    "authorship": "single",
@@ -102913,7 +103148,7 @@
    ]
   },
   {
-   "id": 2966,
+   "id": 2973,
    "title": "Going, Going",
    "altTitles": [],
    "authorship": "single",
@@ -104781,7 +105016,7 @@
    ]
   },
   {
-   "id": 3081,
+   "id": 3088,
    "title": "Harrison Bergeron",
    "altTitles": [],
    "authorship": "single",
@@ -104934,7 +105169,7 @@
    ]
   },
   {
-   "id": 3089,
+   "id": 3096,
    "title": "Having a Coke with You",
    "altTitles": [],
    "authorship": "single",
@@ -106539,7 +106774,7 @@
    ]
   },
   {
-   "id": 2965,
+   "id": 2972,
    "title": "High Windows (poem)",
    "altTitles": [],
    "authorship": "single",
@@ -106643,7 +106878,7 @@
    ]
   },
   {
-   "id": 2961,
+   "id": 2968,
    "title": "Highway in the Sun and Other Plays",
    "altTitles": [],
    "authorship": "single",
@@ -107324,7 +107559,7 @@
    ]
   },
   {
-   "id": 2990,
+   "id": 2997,
    "title": "History of the Voice",
    "altTitles": [
     "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry"
@@ -107442,7 +107677,7 @@
    ]
   },
   {
-   "id": 2968,
+   "id": 2975,
    "title": "Homage to a Government",
    "altTitles": [],
    "authorship": "single",
@@ -108243,7 +108478,7 @@
    ]
   },
   {
-   "id": 3056,
+   "id": 3063,
    "title": "Hullabaloo in the Guava Orchard",
    "altTitles": [],
    "authorship": "single",
@@ -109337,7 +109572,7 @@
    ]
   },
   {
-   "id": 2953,
+   "id": 2960,
    "title": "I Hear Thunder",
    "altTitles": [],
    "authorship": "single",
@@ -109388,7 +109623,7 @@
    ]
   },
   {
-   "id": 3062,
+   "id": 3069,
    "title": "I Knew a Woman",
    "altTitles": [],
    "authorship": "single",
@@ -109949,7 +110184,7 @@
    ]
   },
   {
-   "id": 2996,
+   "id": 3003,
    "title": "Imaginary Homelands",
    "altTitles": [
     "Imaginary Homelands: Essays and Criticism 1981-1991"
@@ -110546,7 +110781,7 @@
    ]
   },
   {
-   "id": 3020,
+   "id": 3027,
    "title": "In Memory of Jane Fraser",
    "altTitles": [],
    "authorship": "single",
@@ -110595,7 +110830,7 @@
    ]
   },
   {
-   "id": 3090,
+   "id": 3097,
    "title": "In Memory of My Feelings",
    "altTitles": [],
    "authorship": "single",
@@ -110756,7 +110991,7 @@
    ]
   },
   {
-   "id": 2976,
+   "id": 2983,
    "title": "In Praise of Limestone",
    "altTitles": [],
    "authorship": "single",
@@ -110953,7 +111188,7 @@
    ]
   },
   {
-   "id": 3066,
+   "id": 3073,
    "title": "In the Waiting Room",
    "altTitles": [],
    "authorship": "single",
@@ -111359,7 +111594,7 @@
    ]
   },
   {
-   "id": 3000,
+   "id": 3007,
    "title": "Inglan Is a Bitch",
    "altTitles": [],
    "authorship": "single",
@@ -112653,7 +112888,112 @@
    ]
   },
   {
-   "id": 2941,
+   "id": 2937,
+   "title": "Jamaica Language",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Louise Bennett"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1993",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Radio monologue (prose in Jamaican Creole, with quoted English)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Jamaica Language' is a monologue in the voice of Aunty Roachy, the persona Bennett used in her radio programme Miss Lou's Views, and it is her most direct argument for Jamaican Creole. It was broadcast in the 1960s or 1970s and first printed in Aunty Roachy Seh, edited by Mervyn Morris (Kingston: Sangster's Book Stores, 1993), where it opens the book at page 1.",
+   "summary": "Aunty Roachy says that it boils her temper and really vexes her whenever she hears anybody describe Jamaican dialect as a 'corruption of the English language'; if that is the case, she says, then they should call English a corruption of Norman French and Latin and all the other languages English is said to be derived from. 'English is a derivation but Jamaican Dialec is corruption!' She argues that Jamaican is more direct and to the point than English - where an English speaker says 'Go away', a Jamaican says 'Gweh!' - and that the only time Jamaican uses more words than English is when it wants to make something sound strong, as when a thing is 'batter-batter' up, which is more expressive than saying it is battered. So Jamaican is not an English corruption at all, and Jamaicans need not be ashamed of it - unlike the woman who went to England and rendered the folk song 'One shif me got' as 'The sole underwear garment I possess', and sang 'Mumma, Mumma, dem ketch Puppa' as 'Mother, Mother, they apprehended Father'.",
+   "plot": "The monologue's method is to reverse the charge rather than to deny it. Bennett does not argue that Jamaican is pure; she grants the premise - that languages are derived from other languages - and shows that it applies to English at least as much as to Jamaican, so that the word 'corruption' turns out to be a judgement about power and not about linguistic history. The examples are chosen to make the point unanswerable in the register of ordinary speech: 'Gweh' really is shorter than 'Go away', and 'batter-batter' really does say something that 'battered' does not. The two translated folk-song titles at the end are the monologue's comic climax and its real argument: the woman who translates 'One shif me got' into 'The sole underwear garment I possess' has not improved the language, she has destroyed the song, and Bennett lets the absurdity make the case that a language is not a defective version of another one but a working system with its own economy. The persona matters: Aunty Roachy is an old woman speaking in her own idiom, and the monologue's authority comes from her being the kind of speaker that the language prejudice dismisses.",
+   "significance": "'Jamaica Language' is the most quoted of Bennett's monologues and one of the founding texts of the Caribbean argument for Creole as a literary language; it is printed in the Norton Anthology of English Literature, where it stands beside Brathwaite's '[Nation Language]', and it is standard in courses on Caribbean language and literature.",
+   "meter": "Jamaican Creole throughout, with English quoted only to be mocked; direct address to a listener; proverbial phrasing; comic exaggeration; and an orthography that represents pronunciation rather than standard spelling.",
+   "context": "Bennett wrote and broadcast Miss Lou's Views from 1965 to 1982, often three times a week, and Aunty Roachy was its persona; fifty of the monologues were collected in 1993. The argument belongs to the years around independence, when the status of Jamaican Creole was being argued in education and broadcasting, and it anticipates Kamau Brathwaite's theorising of nation language in the 1970s and 1980s.",
+   "characters": "",
+   "structure": "A single prose monologue in the first person, framed by 'My Aunty Roachy seh', built as a series of examples and concluding with two comic mistranslations; no stanza form, but a clear rhetorical arc from provocation to demonstration to joke.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Folklore Collection",
+    "Performance Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Language, writing and the limits of representation",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "Aunty Roachy Seh",
+    "Louise Bennett-Coverley (Wikipedia)",
+    "Miss Lou Matters (Mervyn Morris, National Library of Jamaica lecture, 2016)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 2936,
+   "title": "Jamaica Oman",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Louise Bennett"
+   ],
+   "authorIds": [
+    854
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1966",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (ballad stanzas in Jamaican Creole, praise poem)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Jamaica Oman' is Bennett's praise poem for Jamaican women, printed in Jamaica Labrish (1966). It argues, in creole and in ballad stanzas, that Jamaican women were liberated long before the Western women's movement existed, and that they have had to be liberated quietly, so that the men would not notice.",
+   "summary": "The poem begins 'Jamaica oman cunny, sah! / Is how dem jinnal so?' - how are they so clever? - and observes that they have been liberated so long that the men never noticed. It runs through their roles as mother, sister, wife and sweetheart, dominating their part both in the street and in the yard, and anchors them in history: from Maroon Nanny, who bounced bullets back at the men, to the present-day girl who becomes a spelling-bee champion. From the grass root to the hill-top, in profession, skill and trade, the Jamaican woman takes her time and makes the grade; some push a man from behind, some hold his hand, some knock sense into his head, some guide him through his plan. Neck and neck with him, she holds her own, and while man calls her 'so-so rib' the woman becomes the backbone. Long before Women's Lib broke out over foreign lands, the Jamaican woman was working her liberated plan. She knows she is strong and tallawah, but she does not want her children to call her 'Puppa', so she goes on as though a trouser suit were merely a fashion, and the Jamaican man never knows she is wearing the trousers all the while. She coaxes the family budget and keeps it from exploding, and so the Jamaican man sings 'Oman a heaby load!'",
+   "plot": "The poem is a praise song with a sting in it, and the sting is aimed at what the praise costs. Its central term, 'cunny' (cunning), is offered as admiration and as diagnosis: the Jamaican woman's strength is real, but it has had to be exercised by indirection, because a woman who took power openly would be called 'Puppa' and would lose her children's name for her. Bennett's figure for this is the trouser suit, worn as fashion so that the trousers can be worn as fact. The historical argument is carried by Maroon Nanny, the eighteenth-century leader of the Windward Maroons, whose name gives the poem its proof that Jamaican women's authority is older than the movement that had recently arrived from abroad. The stanza form is the English ballad, and its use is the argument the poem makes in form: the creole can carry the metre, and the metre can be made to carry a Jamaican history. The ending turns the praise outward into a proverb the men sing - 'Oman a heaby load', woman is a heavy load - and leaves it there, so that the poem's last word about what men think is theirs, not hers.",
+   "significance": "'Jamaica Oman' is Bennett's most quoted poem on women, and it is the poem through which Caribbean feminism has most often read her; it gave Jamaica Woman (1980), the first all-women Caribbean poetry anthology, its title, and it is a Norton selection.",
+   "meter": "Ballad measure adjusted to creole stress; proverb and folk song quoted directly ('Oman a heaby load'); comic diminutives and asides; the rhetorical question as a structural device; and a diction that moves between mock-formal and demotic within a single stanza.",
+   "context": "Jamaica Labrish appeared in 1966, four years after independence and in the decade in which the women's liberation movement was forming in Britain and the United States; Bennett's point is that the Jamaican woman's version of it was already long established and had never needed the name. The poem is one of the texts by which the anthology of Caribbean women's poetry Jamaica Woman (1980) took its title.",
+   "characters": "",
+   "structure": "Sixteen ballad quatrains in Jamaican Creole, moving from the opening proposition through historical exempla and a series of domestic vignettes to the closing proverb, with the phrase 'Jamaica oman' recurring as a refrain.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Light Verse",
+    "Performance Poetry",
+    "Social Poetry"
+   ],
+   "themes": [
+    "Class, labour and social mobility",
+    "Gender, feminism and women's lives",
+    "Nationhood and national identity"
+   ],
+   "movements": [
+    "Caribbean Literature in English",
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Jamaica Labrish",
+    "Louise Bennett-Coverley (Wikipedia)",
+    "Miss Lou Matters (Mervyn Morris, National Library of Jamaica lecture, 2016)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 2948,
    "title": "James Burnham and the Managerial Revolution",
    "altTitles": [
     "Second Thoughts on James Burnham"
@@ -117052,7 +117392,7 @@
    ]
   },
   {
-   "id": 2937,
+   "id": 2944,
    "title": "Les Blancs",
    "altTitles": [],
    "authorship": "single",
@@ -117209,7 +117549,7 @@
    ]
   },
   {
-   "id": 2992,
+   "id": 2999,
    "title": "Letter SycoraX",
    "altTitles": [],
    "authorship": "single",
@@ -119073,6 +119413,58 @@
    ]
   },
   {
+   "id": 2940,
+   "title": "Literary Asylums",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Juan Felipe Herrera"
+   ],
+   "authorIds": [
+    933
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1983",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (free verse, ars poetica)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Literary Asylums' is the other poem of Herrera's first collection that the Norton Anthology of American Literature prints: it too is in Exiles of Desire (La Jolla, CA: Lalo Press, 1983), and the contents of Half of the World in Light (2008) place it in that sequence. It is a poem about who gets to write, and for whom.",
+   "summary": "The poem turns on the relation between writing and audience, and between the literary institution and the people outside it - the Norton's own teaching page describes it as 'a look at writing and audience, power and class'. Its title joins the literary to the asylum, and the poem works that conjunction: the places where writing is sheltered are also the places where it is confined, and the poet who has been admitted to them is asked to give an account of who he is writing for. Like 'Exiles' it proceeds by accumulation and address rather than narrative, and like 'Exiles' it carries Spanish without translation and refuses the consolations of arrival.",
+   "plot": "Where 'Exiles' is about the displacement of a people, 'Literary Asylums' is about the displacement of a writer, and the two poems make the collection's argument together. The title's pun is the poem's structure: an asylum is a refuge and a place of detention, and Herrera's subject is the position of the Chicano poet who is invited into the literary institution on condition that he explain himself. The poem is an ars poetica that refuses to be one, since the account of writing it gives is inseparable from the account of class and power it gives, and it does not end by choosing between the refuge and the detention. Read with 'Exiles' it shows that Herrera's first book had already made the move his later work would develop - the political subject and the aesthetic question treated as one question - and it is the reason the recovery of these two poems matters more than their number: without them the Norton's Herrera begins in 2015, with a poet already laureate, and the 1983 small-press book disappears from the canon's account of him.",
+   "significance": "'Literary Asylums' is one of the two Herrera poems in the Norton's selection that fall inside the period, and the one that states the collection's argument about writing and power; the anthology prints it immediately after 'Exiles', and the pairing is how the poem is now most often read.",
+   "meter": "Conversational and declamatory by turns; bilingual phrasing without gloss; the institutional vocabulary of the title put under pressure by the poem's demotic; repetition; and an unresolved ending.",
+   "context": "Exiles of Desire (1983) belongs to the years of the Chicano movement's institutionalisation, when Mexican American writing was entering the university and the anthology while remaining outside the centres of literary power; the poem's subject is exactly that threshold. Arte Publico Press's reissue in 1985 put the book into the circuit that would make it a standard reference for Chicano poetry of the period.",
+   "characters": "",
+   "structure": "A free-verse poem of accumulating statements and questions, without stanza divisions, organised by the pun in its title and by recurring addresses to an unnamed listener.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ],
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ],
+   "editions": [],
+   "sources": [
+    "Exiles of Desire",
+    "Half of the World in Light: New and Selected Poems",
+    "Juan Felipe Herrera",
+    "The Norton Anthology of American Literature, 11th edition, vol. E: publisher's audio and contents pages",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1684,
    "title": "Literature and Dogma: An Essay towards a Better Apprehension of the Bible",
    "altTitles": [
@@ -120023,7 +120415,7 @@
    ]
   },
   {
-   "id": 3036,
+   "id": 3043,
    "title": "Looking for a Rain God",
    "altTitles": [],
    "authorship": "single",
@@ -120073,7 +120465,7 @@
    ]
   },
   {
-   "id": 3072,
+   "id": 3079,
    "title": "Looking for Mr. Green",
    "altTitles": [],
    "authorship": "single",
@@ -124619,7 +125011,7 @@
    ]
   },
   {
-   "id": 2963,
+   "id": 2970,
    "title": "MCMXIV",
    "altTitles": [],
    "authorship": "single",
@@ -124893,7 +125285,7 @@
    ]
   },
   {
-   "id": 3054,
+   "id": 3061,
    "title": "Medusa",
    "altTitles": [],
    "authorship": "single",
@@ -124944,7 +125336,7 @@
    ]
   },
   {
-   "id": 3047,
+   "id": 3054,
    "title": "Meeting the British",
    "altTitles": [],
    "authorship": "single",
@@ -125367,7 +125759,7 @@
    ]
   },
   {
-   "id": 3076,
+   "id": 3083,
    "title": "Memories of West Street and Lepke",
    "altTitles": [],
    "authorship": "single",
@@ -125923,7 +126315,7 @@
    ]
   },
   {
-   "id": 3049,
+   "id": 3056,
    "title": "Milkweed and Monarch",
    "altTitles": [],
    "authorship": "single",
@@ -126410,7 +126802,7 @@
    ]
   },
   {
-   "id": 3040,
+   "id": 3047,
    "title": "Miss July Grows Older",
    "altTitles": [],
    "authorship": "single",
@@ -127560,7 +127952,7 @@
    ]
   },
   {
-   "id": 3033,
+   "id": 3040,
    "title": "Morse",
    "altTitles": [],
    "authorship": "single",
@@ -127610,7 +128002,7 @@
    ]
   },
   {
-   "id": 2957,
+   "id": 2964,
    "title": "Moses Ascending",
    "altTitles": [],
    "authorship": "single",
@@ -127664,7 +128056,7 @@
    ]
   },
   {
-   "id": 2958,
+   "id": 2965,
    "title": "Moses Migrating",
    "altTitles": [],
    "authorship": "single",
@@ -128126,7 +128518,7 @@
    ]
   },
   {
-   "id": 3074,
+   "id": 3081,
    "title": "Mr. Edwards and the Spider",
    "altTitles": [],
    "authorship": "single",
@@ -128283,7 +128675,7 @@
    ]
   },
   {
-   "id": 3055,
+   "id": 3062,
    "title": "Mrs Lazarus",
    "altTitles": [],
    "authorship": "single",
@@ -129246,7 +129638,7 @@
    ]
   },
   {
-   "id": 3005,
+   "id": 3012,
    "title": "My Sad Captains",
    "altTitles": [],
    "authorship": "single",
@@ -129295,7 +129687,7 @@
    ]
   },
   {
-   "id": 3051,
+   "id": 3058,
    "title": "My Son the Fanatic",
    "altTitles": [],
    "authorship": "single",
@@ -130808,7 +131200,7 @@
    ]
   },
   {
-   "id": 3077,
+   "id": 3084,
    "title": "Night Sweat",
    "altTitles": [],
    "authorship": "single",
@@ -131083,7 +131475,7 @@
    ]
   },
   {
-   "id": 2943,
+   "id": 2950,
    "title": "Nineteen Eighty-Four",
    "altTitles": [
     "1984"
@@ -131611,7 +132003,7 @@
    ]
   },
   {
-   "id": 2986,
+   "id": 2993,
    "title": "Not Waving but Drowning",
    "altTitles": [],
    "authorship": "single",
@@ -134934,7 +135326,7 @@
    ]
   },
   {
-   "id": 3012,
+   "id": 3019,
    "title": "Omeros",
    "altTitles": [],
    "authorship": "single",
@@ -135524,7 +135916,7 @@
    ]
   },
   {
-   "id": 2974,
+   "id": 2981,
    "title": "On Not Shooting Sitting Birds",
    "altTitles": [],
    "authorship": "single",
@@ -135756,7 +136148,7 @@
    ]
   },
   {
-   "id": 3080,
+   "id": 3087,
    "title": "On the Road",
    "altTitles": [],
    "authorship": "single",
@@ -135856,7 +136248,7 @@
    ]
   },
   {
-   "id": 3067,
+   "id": 3074,
    "title": "One Art",
    "altTitles": [],
    "authorship": "single",
@@ -135907,7 +136299,7 @@
    ]
   },
   {
-   "id": 3024,
+   "id": 3031,
    "title": "One Out of Many",
    "altTitles": [],
    "authorship": "single",
@@ -136753,7 +137145,7 @@
    ]
   },
   {
-   "id": 2985,
+   "id": 2992,
    "title": "Our Bog Is Dood",
    "altTitles": [],
    "authorship": "single",
@@ -137076,7 +137468,7 @@
    ]
   },
   {
-   "id": 3015,
+   "id": 3022,
    "title": "Out",
    "altTitles": [],
    "authorship": "single",
@@ -139206,7 +139598,7 @@
    ]
   },
   {
-   "id": 3085,
+   "id": 3092,
    "title": "Personism: A Manifesto",
    "altTitles": [],
    "authorship": "single",
@@ -140183,7 +140575,7 @@
    ]
   },
   {
-   "id": 3014,
+   "id": 3021,
    "title": "Pike",
    "altTitles": [],
    "authorship": "single",
@@ -143679,7 +144071,7 @@
    ]
   },
   {
-   "id": 2971,
+   "id": 2978,
    "title": "Politics and the English Language",
    "altTitles": [],
    "authorship": "single",
@@ -144850,6 +145242,53 @@
    ]
   },
   {
+   "id": 2934,
+   "title": "Pretty",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Stevie Smith"
+   ],
+   "authorIds": [
+    852
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1972",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (five unrhymed verse paragraphs)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'Pretty' is the last poem of consequence Stevie Smith published, and it appeared after her death: it is in Scorpion and Other Poems (London: Longman, 1972), the collection she was finishing when she died in March 1971. It begins as a question about a word and ends as a poem about the cost of finding the world beautiful, and it is the most unsettling thing she wrote about nature.",
+   "summary": "The poem opens by asking why the word 'pretty' is so underrated, and answers with a November leaf, a stream deepening after rain, and a pike stalking in a pool - 'and this is pretty too'. The pike takes its prey; the water rat, which cannot shut its nostrils like an otter, is 'torn between the land and the water' and, the poem corrects itself, does not mind. An owl hunts at evening over a lake that rustles with ice, and 'all this is pretty, it could not be prettier'. Then the argument turns: it is 'careless, and that is always pretty', because nature is careless and indifferent, and 'who sees, who steps, means nothing, and this is pretty'. In the last movement a person comes along 'like a thief - pretty!', stealing a look and 'pinching the sound and feel', licks an icicle broken from the bank, and says nothing, only cries pretty. Cry pretty often enough, the poem says, and you will soon not be able to cry pretty at all, 'and so to be delivered entirely from humanity. This is prettiest of all, it is very pretty.'",
+   "plot": "The poem is built as a demonstration that keeps outrunning its own thesis. Each example is offered as evidence that 'pretty' is an adequate word - and each one is a scene of killing, indifference or exposure. The pike is pretty in the act of taking its prey; the owl is pretty hunting; the field is pretty because it does not care who crosses it. By the fourth movement the speaker has stopped pretending that the beauty is separable from the indifference, and the word has become a way of not seeing: the person who cries pretty is a thief who takes the sensation and gives nothing back, and the poem's most frightening proposition is that this can be practised until the capacity to feel anything else has gone - until one is 'delivered entirely from humanity'. The last line, 'This is prettiest of all, it is very pretty', is spoken in the voice the poem has just diagnosed, which is what makes it land: the poem ends by using the word it has destroyed. Smith's drawings accompany the collection, and the flatness of the diction - 'it could not be prettier', 'this is pretty too' - is a deliberate refusal of the lyric vocabulary that would normally be brought to such a scene.",
+   "significance": "'Pretty' is the poem by which Smith's late manner is usually represented, and critics treat it as her most radical piece of nature writing - Calvin Bedient called it the most remarkable of the poems in other people's voices. It is a Norton selection, the last of the five Smith poems the anthology prints.",
+   "meter": "Conversational and flat, with the flatness insisted on; short declaratives; a single governing adjective repeated until it empties; exact natural notation (the water rat's nostrils, the ice on the lake); and an ending in which the poem's irony closes over the speaker.",
+   "context": "Scorpion and Other Poems was published by Longman in 1972, the year after Smith's death, and gathered the poems she wrote at the end of her life; 'Pretty' had appeared in The Times before the book. It belongs to the late-1960s and early-1970s moment in which English poetry of nature was being written against the pastoral tradition, and it is a poem of the same years as the ecological turn in public argument.",
+   "characters": "",
+   "structure": "Five unrhymed verse paragraphs of uneven length, moving from question to examples to the human observer to a closing judgement; the repeated 'this is pretty' acts as a refrain and a moving target.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [],
+   "editions": [],
+   "sources": [
+    "Scorpion and Other Poems",
+    "Stevie Smith (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1212,
    "title": "Pride and Prejudice",
    "altTitles": [
@@ -145395,7 +145834,7 @@
    ]
   },
   {
-   "id": 3029,
+   "id": 3036,
    "title": "Punishment",
    "altTitles": [],
    "authorship": "single",
@@ -145710,7 +146149,7 @@
    ]
   },
   {
-   "id": 3064,
+   "id": 3071,
    "title": "Questions of Travel",
    "altTitles": [],
    "authorship": "single",
@@ -146932,7 +147371,7 @@
    ]
   },
   {
-   "id": 3021,
+   "id": 3028,
    "title": "Requiem for the Plantagenet Kings",
    "altTitles": [],
    "authorship": "single",
@@ -149217,7 +149656,7 @@
    ]
   },
   {
-   "id": 2967,
+   "id": 2974,
    "title": "Sad Steps",
    "altTitles": [],
    "authorship": "single",
@@ -150840,7 +151279,7 @@
    ]
   },
   {
-   "id": 3002,
+   "id": 3009,
    "title": "Self-Portrait",
    "altTitles": [],
    "authorship": "single",
@@ -151124,7 +151563,7 @@
    ]
   },
   {
-   "id": 3022,
+   "id": 3029,
    "title": "September Song",
    "altTitles": [],
    "authorship": "single",
@@ -152371,7 +152810,7 @@
    ]
   },
   {
-   "id": 2944,
+   "id": 2951,
    "title": "Shooting an Elephant and Other Essays",
    "altTitles": [],
    "authorship": "single",
@@ -152471,7 +152910,7 @@
    ]
   },
   {
-   "id": 3057,
+   "id": 3064,
    "title": "Signs and Symbols",
    "altTitles": [],
    "authorship": "single",
@@ -153546,7 +153985,7 @@
    ]
   },
   {
-   "id": 3075,
+   "id": 3082,
    "title": "Skunk Hour",
    "altTitles": [],
    "authorship": "single",
@@ -153598,7 +154037,7 @@
    ]
   },
   {
-   "id": 3082,
+   "id": 3089,
    "title": "Slaughterhouse-Five",
    "altTitles": [],
    "authorship": "single",
@@ -156605,7 +157044,7 @@
    ]
   },
   {
-   "id": 3031,
+   "id": 3038,
    "title": "Station Island",
    "altTitles": [],
    "authorship": "single",
@@ -156719,7 +157158,7 @@
    ]
   },
   {
-   "id": 3007,
+   "id": 3014,
    "title": "Still Life",
    "altTitles": [],
    "authorship": "single",
@@ -157178,7 +157617,7 @@
    ]
   },
   {
-   "id": 2945,
+   "id": 2952,
    "title": "Such, Such Were the Joys",
    "altTitles": [],
    "authorship": "single",
@@ -157446,7 +157885,7 @@
    ]
   },
   {
-   "id": 3071,
+   "id": 3078,
    "title": "Summertime and the Living . . .",
    "altTitles": [],
    "authorship": "single",
@@ -158509,7 +158948,7 @@
    ]
   },
   {
-   "id": 2964,
+   "id": 2971,
    "title": "Talking in Bed",
    "altTitles": [],
    "authorship": "single",
@@ -161714,7 +162153,7 @@
    ]
   },
   {
-   "id": 3065,
+   "id": 3072,
    "title": "The Armadillo",
    "altTitles": [],
    "authorship": "single",
@@ -163421,7 +163860,7 @@
    ]
   },
   {
-   "id": 2980,
+   "id": 2987,
    "title": "The Bean Eaters",
    "altTitles": [],
    "authorship": "single",
@@ -164166,7 +164605,7 @@
    ]
   },
   {
-   "id": 2983,
+   "id": 2990,
    "title": "The Blackstone Rangers",
    "altTitles": [],
    "authorship": "single",
@@ -167549,7 +167988,7 @@
    ]
   },
   {
-   "id": 2978,
+   "id": 2985,
    "title": "The Children of the Poor",
    "altTitles": [],
    "authorship": "single",
@@ -168510,7 +168949,7 @@
    ]
   },
   {
-   "id": 2946,
+   "id": 2953,
    "title": "The Collected Essays, Journalism and Letters of George Orwell",
    "altTitles": [],
    "authorship": "single",
@@ -171517,7 +171956,7 @@
    ]
   },
   {
-   "id": 3088,
+   "id": 3095,
    "title": "The Day Lady Died",
    "altTitles": [],
    "authorship": "single",
@@ -171624,7 +172063,7 @@
    ]
   },
   {
-   "id": 2973,
+   "id": 2980,
    "title": "The Day They Burned the Books",
    "altTitles": [],
    "authorship": "single",
@@ -173124,7 +173563,7 @@
    ]
   },
   {
-   "id": 3043,
+   "id": 3050,
    "title": "The Dolls Museum in Dublin",
    "altTitles": [],
    "authorship": "single",
@@ -173841,7 +174280,7 @@
    ]
   },
   {
-   "id": 2938,
+   "id": 2945,
    "title": "The Drinking Gourd",
    "altTitles": [],
    "authorship": "single",
@@ -173888,7 +174327,7 @@
    ]
   },
   {
-   "id": 3035,
+   "id": 3042,
    "title": "The Drowned World",
    "altTitles": [],
    "authorship": "single",
@@ -175685,7 +176124,7 @@
    ]
   },
   {
-   "id": 2942,
+   "id": 2949,
    "title": "The English People",
    "altTitles": [],
    "authorship": "single",
@@ -176821,7 +177260,7 @@
    ]
   },
   {
-   "id": 2969,
+   "id": 2976,
    "title": "The Explosion",
    "altTitles": [],
    "authorship": "single",
@@ -177937,7 +178376,7 @@
    ]
   },
   {
-   "id": 2998,
+   "id": 3005,
    "title": "The Fat Black Woman Goes Shopping",
    "altTitles": [],
    "authorship": "single",
@@ -179844,7 +180283,7 @@
    ]
   },
   {
-   "id": 2947,
+   "id": 2954,
    "title": "The Freedom of the Press",
    "altTitles": [],
    "authorship": "single",
@@ -181453,7 +181892,7 @@
    ]
   },
   {
-   "id": 3045,
+   "id": 3052,
    "title": "The Glass Essay",
    "altTitles": [],
    "authorship": "single",
@@ -181553,7 +181992,7 @@
    ]
   },
   {
-   "id": 3038,
+   "id": 3045,
    "title": "The God of Small Things",
    "altTitles": [],
    "authorship": "single",
@@ -182380,7 +182819,7 @@
    ]
   },
   {
-   "id": 3028,
+   "id": 3035,
    "title": "The Grauballe Man",
    "altTitles": [],
    "authorship": "single",
@@ -186658,7 +187097,7 @@
    ]
   },
   {
-   "id": 2954,
+   "id": 2961,
    "title": "The Housing Lark",
    "altTitles": [],
    "authorship": "single",
@@ -190051,7 +190490,7 @@
    ]
   },
   {
-   "id": 2982,
+   "id": 2989,
    "title": "The Last Quatrain of the Ballad of Emmett Till",
    "altTitles": [],
    "authorship": "single",
@@ -192633,7 +193072,7 @@
    ]
   },
   {
-   "id": 2950,
+   "id": 2957,
    "title": "The Lonely Londoners",
    "altTitles": [],
    "authorship": "single",
@@ -192891,7 +193330,7 @@
    ]
   },
   {
-   "id": 3044,
+   "id": 3051,
    "title": "The Lost Land",
    "altTitles": [],
    "authorship": "single",
@@ -196107,7 +196546,7 @@
    ]
   },
   {
-   "id": 3008,
+   "id": 3015,
    "title": "The Missing",
    "altTitles": [],
    "authorship": "single",
@@ -196742,7 +197181,7 @@
    ]
   },
   {
-   "id": 2935,
+   "id": 2942,
    "title": "The Movement: Documentary of a Struggle for Equality",
    "altTitles": [],
    "authorship": "single",
@@ -201656,7 +202095,7 @@
    ]
   },
   {
-   "id": 2955,
+   "id": 2962,
    "title": "The Plains of Caroni",
    "altTitles": [],
    "authorship": "single",
@@ -204149,7 +204588,7 @@
    ]
   },
   {
-   "id": 2995,
+   "id": 3002,
    "title": "The Prophet's Hair",
    "altTitles": [],
    "authorship": "single",
@@ -208587,7 +209026,7 @@
    ]
   },
   {
-   "id": 3010,
+   "id": 3017,
    "title": "The Schooner Flight",
    "altTitles": [],
    "authorship": "single",
@@ -208942,7 +209381,7 @@
    ]
   },
   {
-   "id": 3011,
+   "id": 3018,
    "title": "The Season of Phantasmal Peace",
    "altTitles": [],
    "authorship": "single",
@@ -210066,7 +210505,7 @@
    ]
   },
   {
-   "id": 2977,
+   "id": 2984,
    "title": "The Shield of Achilles",
    "altTitles": [],
    "authorship": "single",
@@ -210493,7 +210932,7 @@
    ]
   },
   {
-   "id": 2934,
+   "id": 2941,
    "title": "The Sign in Sidney Brustein's Window",
    "altTitles": [],
    "authorship": "single",
@@ -213593,7 +214032,7 @@
    ]
   },
   {
-   "id": 3069,
+   "id": 3076,
    "title": "The Swimmer",
    "altTitles": [],
    "authorship": "single",
@@ -216978,6 +217417,58 @@
    ]
   },
   {
+   "id": 2938,
+   "title": "The Tyre",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Simon Armitage"
+   ],
+   "authorIds": [
+    932
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1997",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (fourteen-line stanzas, loose pentameter)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "'The Tyre' is in Simon Armitage's fourth collection, Cloudcuckooland (London: Faber and Faber, 1997), and it is the poem most often used to describe what his Marsden poems are about. It tells how a group of children found a lorry tyre on the moor above the village and rolled it down towards the houses, and it turns that afternoon into an allegory about the border between the country and the town.",
+   "summary": "The poem begins with a question - how the tyre came to rest where it rested, miles out on the moor, miles from the last farmhouse - and offers hurricane, aeroplane or cairn as impossible explanations before settling on the tyre as an object 'nursing a gallon of rain in its gut', lashed to the planet with grasses and roots and wanting nothing more than to slump back into its nest of peat. The children bully it over the moor, pushing from behind and turning it from the side, rolling its weight through broken walls and guiding its sleepwalk down to the meadows and onto level ground, until 'we were one connected thing, / five of us, all hands steering a tall ship'. On the road it picks up pace, free-wheels, moves up through the gears and will not give to shoulder-charges or kicks, so that to tangle with it would be to test bone against engine - so they let it go, leaning into the bends, carried away with its own momentum. They picture an incident ahead: a life carved open, gardens in half, a man on a motorbike taken down, a phone-box upended, children erased, police and an ambulance in attendance, the tyre embedded in a house or lying in a gutter 'playing dead'. But in the village the tyre is gone - not curled like a cat in the graveyard, not cornered in the playground like a reptile, not kept like a giant fossil - 'not there or anywhere. No trace. Thin air.' Being more in tune with the feel of things than with science and facts, the children knew the tyre had travelled too fast for its size and mass, broken through some barrier of speed and, 'gone beyond itself', disappeared.",
+   "plot": "The poem is in two halves and the hinge is the moment the tyre gets away. In the first half it is an object of the moor, half-buried, 'sewn to the earth' in Armitage's own prose account in All Points North, and the children are its labourers; in the second it is a machine with momentum, and the children become spectators of something they set going. Armitage's rhyme and half-rhyme keep the narrative moving at the speed of the thing being described - 'free-wheeled', 'give', 'kicks', 'force' - and the syntax shortens as the tyre accelerates, so that the poem's form mimes the loss of control it is about. What the poem does with the imagined accident is characteristic: it gives the children a fully cinematic disaster, complete with police and ambulance, and then refuses it. The tyre does not crash into the village; it disappears. That disappearance is the poem's real subject, and it converts a memory of childhood into a small myth: the object went faster than it could be, passed beyond the conditions that made it a tyre, and left no evidence. The last lines, which prefer 'the feel of things' to 'science and facts', are the children's explanation and the poem's own method - the poem also refuses the documentary account in favour of the one that cannot be checked. Marion Thain reads the tyre as the interface between the urban and the rural, and the poem's ending as refusing closure so that the geographical borderland and the natural-supernatural one become the same border.",
+   "significance": "'The Tyre' is the poem most often cited as the centre of Armitage's Marsden sequence; it is the example Marion Thain uses in her study of his borderlands, and it was chosen for inclusion in Magnetic Field: The Marsden Poems (2020) and in Paper Aeroplane: Selected Poems 1989-2014. It is a Norton selection.",
+   "meter": "Conversational pentameters with a flat Yorkshire delivery; exact technical verbs ('free-wheeled', 'riding the camber', 'shoulder-charges'); compound and hyphenated epithets; a mock-heroic simile ('all hands steering a tall ship'); and a closing cadence that turns colloquial ('Thin air') and then metaphysical.",
+   "context": "Cloudcuckooland (1997) was Armitage's fourth Faber collection and was shortlisted for the Whitbread Poetry Prize; the Marsden of the poem is the village where he grew up, on the Yorkshire side of the Pennines, and the poem belongs to the mid-1990s boom in British poetry of place that also produced the work of Ted Hughes's successors and the New Generation list of 1994, on which Armitage appeared.",
+   "characters": "",
+   "structure": "Narrative in loose pentameter stanzas, unrhymed but heavily consonantal, moving from a question about origin through the labour of moving the tyre, the loss of control, the imagined accident and the discovery of the disappearance, to the children's explanation.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Regional Poetry"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Land, place and regional belonging",
+    "Technology, media and consumer society"
+   ],
+   "movements": [
+    "The British Poetry Revival"
+   ],
+   "editions": [],
+   "sources": [
+    "Cloudcuckooland",
+    "Magnetic Field: The Marsden Poems, context and critical discussion",
+    "Simon Armitage",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "The Shout Heard across the Atlantic (Poetry Foundation profile of Simon Armitage)"
+   ]
+  },
+  {
    "id": 1416,
    "title": "The Undying One, and Other Poems",
    "altTitles": [
@@ -218063,7 +218554,7 @@
    ]
   },
   {
-   "id": 3060,
+   "id": 3067,
    "title": "The Waking",
    "altTitles": [],
    "authorship": "single",
@@ -220566,7 +221057,7 @@
    ]
   },
   {
-   "id": 3092,
+   "id": 3099,
    "title": "The Woman Thing",
    "altTitles": [],
    "authorship": "single",
@@ -221685,7 +222176,7 @@
    ]
   },
   {
-   "id": 3016,
+   "id": 3023,
    "title": "Theology",
    "altTitles": [],
    "authorship": "single",
@@ -222015,7 +222506,7 @@
    ]
   },
   {
-   "id": 2970,
+   "id": 2977,
    "title": "This Be The Verse",
    "altTitles": [
     "This Be the Verse"
@@ -222067,7 +222558,7 @@
    ]
   },
   {
-   "id": 2956,
+   "id": 2963,
    "title": "Those Who Eat the Cascadura",
    "altTitles": [],
    "authorship": "single",
@@ -222118,7 +222609,7 @@
    ]
   },
   {
-   "id": 3070,
+   "id": 3077,
    "title": "Those Winter Sundays",
    "altTitles": [],
    "authorship": "single",
@@ -222167,7 +222658,7 @@
    ]
   },
   {
-   "id": 2987,
+   "id": 2994,
    "title": "Thoughts About the Person from Porlock",
    "altTitles": [],
    "authorship": "single",
@@ -223405,7 +223896,7 @@
    ]
   },
   {
-   "id": 2936,
+   "id": 2943,
    "title": "To Be Young, Gifted and Black",
    "altTitles": [],
    "authorship": "single",
@@ -223633,7 +224124,7 @@
    ]
   },
   {
-   "id": 3001,
+   "id": 3008,
    "title": "To Room Nineteen",
    "altTitles": [],
    "authorship": "single",
@@ -223683,7 +224174,7 @@
    ]
   },
   {
-   "id": 2984,
+   "id": 2991,
    "title": "To the Diaspora",
    "altTitles": [],
    "authorship": "single",
@@ -223963,7 +224454,7 @@
    ]
   },
   {
-   "id": 3026,
+   "id": 3033,
    "title": "Top Girls",
    "altTitles": [],
    "authorship": "single",
@@ -225152,7 +225643,7 @@
    ]
   },
   {
-   "id": 2952,
+   "id": 2959,
    "title": "Turn Again Tiger",
    "altTitles": [],
    "authorship": "single",
@@ -226803,7 +227294,7 @@
    ]
   },
   {
-   "id": 3053,
+   "id": 3060,
    "title": "Valentine",
    "altTitles": [],
    "authorship": "single",
@@ -228825,7 +229316,7 @@
    ]
   },
   {
-   "id": 2972,
+   "id": 2979,
    "title": "Waiting for Aunty to Cough",
    "altTitles": [],
    "authorship": "single",
@@ -228874,7 +229365,7 @@
    ]
   },
   {
-   "id": 2975,
+   "id": 2982,
    "title": "Waiting for Godot",
    "altTitles": [
     "En attendant Godot"
@@ -228925,7 +229416,7 @@
    ]
   },
   {
-   "id": 3041,
+   "id": 3048,
    "title": "Waiting for the Barbarians",
    "altTitles": [],
    "authorship": "single",
@@ -229121,7 +229612,7 @@
    ]
   },
   {
-   "id": 3023,
+   "id": 3030,
    "title": "Walker Brothers Cowboy",
    "altTitles": [],
    "authorship": "single",
@@ -229503,7 +229994,7 @@
    ]
   },
   {
-   "id": 3052,
+   "id": 3059,
    "title": "Warming Her Pearls",
    "altTitles": [],
    "authorship": "single",
@@ -229771,7 +230262,7 @@
    ]
   },
   {
-   "id": 2951,
+   "id": 2958,
    "title": "Ways of Sunlight",
    "altTitles": [],
    "authorship": "single",
@@ -229876,7 +230367,7 @@
    ]
   },
   {
-   "id": 2979,
+   "id": 2986,
    "title": "We Real Cool",
    "altTitles": [],
    "authorship": "single",
@@ -230237,7 +230728,7 @@
    ]
   },
   {
-   "id": 3037,
+   "id": 3044,
    "title": "What the Tapster Saw",
    "altTitles": [],
    "authorship": "single",
@@ -230290,7 +230781,7 @@
    ]
   },
   {
-   "id": 2939,
+   "id": 2946,
    "title": "What Use Are Flowers?",
    "altTitles": [],
    "authorship": "single",
@@ -230337,7 +230828,7 @@
    ]
   },
   {
-   "id": 2999,
+   "id": 3006,
    "title": "Wherever I Hang",
    "altTitles": [],
    "authorship": "single",
@@ -230794,7 +231285,7 @@
    ]
   },
   {
-   "id": 3086,
+   "id": 3093,
    "title": "Why I Am Not a Painter",
    "altTitles": [],
    "authorship": "single",
@@ -231283,7 +231774,7 @@
    ]
   },
   {
-   "id": 3013,
+   "id": 3020,
    "title": "Wind",
    "altTitles": [],
    "authorship": "single",
@@ -233336,7 +233827,7 @@
    ]
   },
   {
-   "id": 3084,
+   "id": 3091,
    "title": "Zagrowsky Tells",
    "altTitles": [],
    "authorship": "single",

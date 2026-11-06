@@ -4134,5 +4134,115 @@
     "doi_or_identifier": "London: Faber and Faber, 2019 (ISBN 9780571334964)",
     "accessed_date": "2026-11-06",
     "reliability_notes": "First book collection of 'Beck', listed at p. 53 within the In Memory of Water sequence. Its publisher's contents listing is the evidence used; the poem is outside the period on either date, so the exact first printing is recorded but not relied on."
+  },
+  {
+    "title": "Cloudcuckooland",
+    "author_or_editor": "Simon Armitage",
+    "publisher": "Faber and Faber",
+    "publication_year": 1997,
+    "source_type": "book (poetry collection)",
+    "url": "",
+    "doi_or_identifier": "London: Faber and Faber, 1997",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "First collection of 'The Tyre', whose text was read for this record. The collection's date is corroborated by the Poetry Foundation and Faber author pages and by the contents of Paper Aeroplane: Selected Poems 1989-2014, which assigns the poem to it."
+  },
+  {
+    "title": "Scorpion and Other Poems",
+    "author_or_editor": "Stevie Smith",
+    "publisher": "Longman",
+    "publication_year": 1972,
+    "source_type": "book (poetry collection)",
+    "url": "",
+    "doi_or_identifier": "London: Longman, 1972 (ISBN 0582127084)",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Posthumous last collection: Smith died on 7 March 1971 and the book appeared in 1972. Google Books' catalogue record and Wikipedia's list of her collections agree. First book printing of 'Pretty', which had appeared in The Times earlier; the poem's text was read for this record."
+  },
+  {
+    "title": "Jamaica Labrish",
+    "author_or_editor": "Louise Bennett; introduction by Rex Nettleford",
+    "publisher": "Sangster's Book Stores",
+    "publication_year": 1966,
+    "source_type": "book (poetry collection)",
+    "url": "",
+    "doi_or_identifier": "Kingston, Jamaica: Sangster's Book Stores, 1966 (OCLC 1968770)",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "First collection of 'Dry-Foot Bwoy' (pp. 275-6 in the 2005 reprint) and 'Jamaica Oman'. Page references come from Mervyn Morris's National Library of Jamaica lecture and from his Selected Poems notes; the collection's four sections are City Life, War-Time, Politics and Jamaica - Now An' Then. The texts of both poems were read for this record."
+  },
+  {
+    "title": "Aunty Roachy Seh",
+    "author_or_editor": "Louise Bennett; edited by Mervyn Morris",
+    "publisher": "Sangster's Book Stores",
+    "publication_year": 1993,
+    "source_type": "book (radio monologues)",
+    "url": "",
+    "doi_or_identifier": "Kingston: Sangster's Book Stores, 1993 (ISBN 9768005025)",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Prints fifty of the monologues Bennett wrote and broadcast for Miss Lou's Views (1965-1982). Google Books' contents list places 'Jamaica Language' at p. 1. This, not Jamaica Labrish (1966), is the first book printing of 'Jamaica Language', which an earlier pass had mis-dated; both dates are inside the period. The monologue's text was read for this record."
+  },
+  {
+    "title": "Simon Armitage",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikipedia",
+    "publication_year": 2026,
+    "source_type": "encyclopedia article",
+    "url": "https://en.wikipedia.org/wiki/Simon_Armitage",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Used for biography and the sequence of collections only, and checked against the Faber, Poetry Foundation and University of Leeds author pages. Not a source for the poems' texts."
+  },
+  {
+    "title": "Juan Felipe Herrera",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikipedia",
+    "publication_year": 2026,
+    "source_type": "encyclopedia article",
+    "url": "https://en.wikipedia.org/wiki/Juan_Felipe_Herrera",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Used for biography and the list of collections only, and checked against Encyclopaedia Britannica's entry, the Library of Congress author page and the Gilder Lehrman essay by Francisco A. Lomeli. Not a source for the poems' texts."
+  },
+  {
+    "title": "The Norton Anthology of American Literature, 11th edition, vol. E: publisher's audio and contents pages",
+    "author_or_editor": "W. W. Norton & Company",
+    "publisher": "W. W. Norton",
+    "publication_year": 2027,
+    "source_type": "publisher's anthology apparatus",
+    "url": "https://wwnorton.com/college/english/latino-literature/ch/04/media.aspx",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "The publisher's own teaching pages describe Herrera's 'Exiles' as a meditation on the condition of exile and 'Literary Asylums' as a poem about writing and audience, power and class, and give the pages on which the anthology prints them. Used for the poems' subjects where their full texts were not examined, and identified as such in the records."
+  },
+  {
+    "title": "Miss Lou Matters (Mervyn Morris, National Library of Jamaica lecture, 2016)",
+    "author_or_editor": "Mervyn Morris",
+    "publisher": "National Library of Jamaica",
+    "publication_year": 2016,
+    "source_type": "public lecture",
+    "url": "https://nlj.gov.jm/miss-lou-matters-presentation-professor-mervyn-morris-poet-laureate-jamaica-launch-miss-lou-archives-thursday-oct-20-2016/",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "By the editor of Bennett's Selected Poems and Aunty Roachy Seh, and the leading authority on her texts. Supplies the page references to Jamaica Labrish (pp. 275-6 for 'Dry Foot Bwoy') and records that the poem was originally set in England."
+  },
+  {
+    "title": "Magnetic Field: The Marsden Poems, context and critical discussion",
+    "author_or_editor": "Wikipedia contributors, citing Marion Thain",
+    "publisher": "Wikipedia",
+    "publication_year": 2026,
+    "source_type": "encyclopedia article",
+    "url": "https://en.wikipedia.org/wiki/Magnetic_Field:_The_Marsden_Poems",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Reports Marion Thain's reading of 'The Tyre' in Worldviews, including her quotation of Armitage's All Points North on finding the tyre. Used for the critical context only; Thain's essay itself was not consulted."
+  },
+  {
+    "title": "The Shout Heard across the Atlantic (Poetry Foundation profile of Simon Armitage)",
+    "author_or_editor": "Emily White",
+    "publisher": "Poetry Foundation",
+    "publication_year": 2006,
+    "source_type": "author profile",
+    "url": "https://www.poetryfoundation.org/articles/68502/the-shout-heard-across-the-atlantic",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Institutional author profile; used for the description of 'The Tyre' as a boyhood narrative that opens into violence, and for Armitage's biography. Not a source for the poem's text."
   }
 ]

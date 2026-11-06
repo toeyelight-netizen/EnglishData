@@ -1,19 +1,19 @@
 # Database Statistics
 
-Generated: 2026-11-06 15:40
+Generated: 2026-11-06 15:52
 
 ## Totals
 
 | Entity | Count |
 |---|---|
-| Authors | 931 |
-| Works | 3093 |
+| Authors | 933 |
+| Works | 3100 |
 | Anonymous works | 147 |
 | Periods | 10 |
 | Movements | 179 |
 | Genres | 370 |
 | Themes | 203 |
-| Sources | 713 |
+| Sources | 723 |
 | Editions recorded | 2432 |
 | Author influence links | 1952 |
 
@@ -27,7 +27,7 @@ Generated: 2026-11-06 15:40
 | Elizabethan and Jacobean Period | 153 |
 | Middle English Period | 132 |
 | Old English Period (Anglo-Saxon) | 128 |
-| Postwar and Contemporary Period (1946–2000) | 249 |
+| Postwar and Contemporary Period (1946–2000) | 256 |
 | Renaissance and Early Tudor Period | 92 |
 | Romantic Period | 390 |
 | Victorian Period (1832–1901) | 887 |
@@ -58,12 +58,12 @@ Generated: 2026-11-06 15:40
 | Bryant and the American Nature Lyric | 4 |
 | Byron and the Byronic Revolt | 24 |
 | Canadian Literary Nationalism | 3 |
-| Caribbean Literature in English | 29 |
+| Caribbean Literature in English | 32 |
 | Carlyle and the Hero-Worship Lecture | 13 |
 | Cavalier Poetry | 22 |
 | Charles Brockden Brown and the American Gothic | 5 |
 | Chartism and the Condition-of-England Novel | 44 |
-| Chicano Movement Literature | 0 |
+| Chicano Movement Literature | 2 |
 | Civil War Radicalism: The Levellers and the Diggers | 3 |
 | Comedy of Manners | 28 |
 | Commonwealth and Interregnum Literature | 38 |
@@ -123,7 +123,7 @@ Generated: 2026-11-06 15:40
 | Performance and Spoken-Word Poetry | 2 |
 | Philosophical Fiction and the Godwin Circle | 30 |
 | Political Theatre and the Fringe | 1 |
-| Postcolonial Literature | 21 |
+| Postcolonial Literature | 26 |
 | Postcolonial Theory | 2 |
 | Postmodernism and Postmodern Fiction | 14 |
 | Poststructuralism and Deconstruction | 0 |
@@ -138,7 +138,7 @@ Generated: 2026-11-06 15:40
 | Romantic Essay, Criticism and the Review | 51 |
 | Ruskin and the Political Economy of Art | 9 |
 | Scott, the Ballad Revival and the Historical Novel | 39 |
-| Second-Wave Feminist Writing | 37 |
+| Second-Wave Feminist Writing | 38 |
 | Sensation Fiction and the Serial Plot | 56 |
 | Sentimentalism and the Culture of Feeling | 89 |
 | Shelley and Radical Romanticism | 18 |
@@ -158,7 +158,7 @@ Generated: 2026-11-06 15:40
 | The Beat Generation | 6 |
 | The Bloomsbury Group and the Novel of Consciousness | 20 |
 | The Bluestockings and Women's Letters | 30 |
-| The British Poetry Revival | 0 |
+| The British Poetry Revival | 1 |
 | The Cambridge Platonists | 4 |
 | The Caroline Theatre | 32 |
 | The Celtic Twilight and the Irish Short Story | 8 |
@@ -224,8 +224,8 @@ Generated: 2026-11-06 15:40
 | Realist Novel of Common Life | 192 |
 | Novel of Development and the Growth Story | 159 |
 | Local-Colour Sketch and the Regional Portrait | 125 |
+| Lyric Poetry | 98 |
 | Comedy | 97 |
-| Lyric Poetry | 94 |
 | Sensation Novel | 93 |
 | Pastoral Elegy and the Mourning Sequence | 92 |
 | Social Inquiry and the Documented Survey | 92 |
@@ -271,10 +271,10 @@ Generated: 2026-11-06 15:40
 | Short Story | 35 |
 | Naturalist and Determinist Novel | 34 |
 | Novel of Manners and Fashion | 34 |
+| Political Poetry | 34 |
 | Complaint and Satire | 33 |
 | Gothic Novel and Romance of Terror | 33 |
 | Provincial Novel and the British Rural Chronicle | 33 |
-| Political Poetry | 31 |
 | Comedy of Manners | 30 |
 | Condition-of-England Novel and the Edwardian Social Panorama | 30 |
 | Confessional Poetry | 30 |
@@ -320,6 +320,7 @@ Generated: 2026-11-06 15:40
 | Literary Biography and Prefatory Commentary | 20 |
 | Peasant Play and the Irish Dramatic Movement | 20 |
 | Grammar and Didactic Prose | 19 |
+| Narrative Poetry | 19 |
 | Reformation Polemic and Controversy | 19 |
 | Trench Lyric and the War Poem | 19 |
 | Anthology, Reliques, and Editorial Collection | 18 |
@@ -331,7 +332,6 @@ Generated: 2026-11-06 15:40
 | Victorian Verse Drama and Revived Tragedy | 18 |
 | War Memoir and the Autobiographical Testimony | 18 |
 | Modernist Long Poem and the Mythical Method | 17 |
-| Narrative Poetry | 17 |
 | Prose Romance | 17 |
 | Tudor Interlude | 17 |
 | Wisdom Poetry | 17 |
@@ -359,17 +359,18 @@ Generated: 2026-11-06 15:40
 | Vision Literature | 13 |
 | Domestic and Sentimental Tragedy | 12 |
 | Morality Play | 12 |
+| Nature Poetry | 12 |
 | Romantic Sonnet Revival | 12 |
 | Tragicomedy | 12 |
 | Autobiography and the Modern Memoir | 11 |
 | Fable and Apologue | 11 |
 | Fairy Tale and Romantic Legend | 11 |
-| Nature Poetry | 11 |
 | Sonnet Sequence | 11 |
 | Imagist Lyric and the Free-Verse Line | 10 |
 | Philosophical Tale and Oriental Fiction | 10 |
 | Religious Poetry | 10 |
 | Scientific Romance and the Utopian Tale | 10 |
+| Social Poetry | 10 |
 | Thirties Political Lyric and the Auden Generation | 10 |
 | Cultural Criticism | 9 |
 | Jazz-Age Novel and the Expatriate Romance | 9 |
@@ -377,7 +378,6 @@ Generated: 2026-11-06 15:40
 | National Epic and Didactic Poem | 9 |
 | Political and Revolutionary Verse | 9 |
 | Romantic Ode | 9 |
-| Social Poetry | 9 |
 | The Sketch and Character Tale | 9 |
 | Diary and Journal | 8 |
 | Dramatic Monologue | 8 |
@@ -400,8 +400,10 @@ Generated: 2026-11-06 15:40
 | Conversation Poem and Lyric Meditation | 6 |
 | Dramatic Opera and Semi-Opera | 6 |
 | English Epic and Allegorical Romance | 6 |
+| Experimental Poetry | 6 |
 | Frontier and Maritime Romance | 6 |
 | Full-Length Play | 6 |
+| Light Verse | 6 |
 | Local Guide and Topographical Prose | 6 |
 | Metrical Psalter | 6 |
 | Nonfiction Prose (1946–2000) | 6 |
@@ -414,11 +416,11 @@ Generated: 2026-11-06 15:40
 | Comic Novel | 5 |
 | Comic Novel and the New Humour | 5 |
 | Courtesy Book and Household Manual | 5 |
-| Experimental Poetry | 5 |
 | Lexicography and Philological Writing | 5 |
 | Love Poetry | 5 |
 | Memoir | 5 |
 | Mythological Retelling | 5 |
+| Performance Poetry | 5 |
 | Political Novel | 5 |
 | Postmodern Fiction | 5 |
 | Riddle | 5 |
@@ -432,7 +434,6 @@ Generated: 2026-11-06 15:40
 | Irish Revival Lyric and the Celtic Twilight | 4 |
 | Law Code | 4 |
 | Lay (Breton Lai) | 4 |
-| Light Verse | 4 |
 | Melodrama and Nautical Drama | 4 |
 | Modern Tragedy | 4 |
 | Mystery Play | 4 |
@@ -472,10 +473,10 @@ Generated: 2026-11-06 15:40
 | One-Act Play | 2 |
 | Pamphlet | 2 |
 | Pastoral and Rural Poetry | 2 |
-| Performance Poetry | 2 |
 | Philosophical Fiction | 2 |
 | Prose Romance and Euphuism | 2 |
 | Radio Drama | 2 |
+| Regional Poetry | 2 |
 | Short-Story Collection | 2 |
 | Social Realist Drama | 2 |
 | Soft Science Fiction | 2 |
@@ -487,6 +488,7 @@ Generated: 2026-11-06 15:40
 | Concrete Poetry | 1 |
 | Epic Poetry | 1 |
 | Family Saga | 1 |
+| Folklore Collection | 1 |
 | Historical Novel | 1 |
 | Hybrid Forms | 1 |
 | Inward Confession and Opium Narrative | 1 |
@@ -496,7 +498,6 @@ Generated: 2026-11-06 15:40
 | Novella | 1 |
 | Political Publication | 1 |
 | Post-Apocalyptic Fiction | 1 |
-| Regional Poetry | 1 |
 | Sonnet | 1 |
 | Speculative Fiction (1946–2000) | 1 |
 | Stage Comedy | 1 |
@@ -528,7 +529,6 @@ Generated: 2026-11-06 15:40
 | Fairy-Tale Fiction | 0 |
 | Fantasy | 0 |
 | Flash Fiction | 0 |
-| Folklore Collection | 0 |
 | Formalist Criticism | 0 |
 | Ghost Story | 0 |
 | Graphic Novel | 0 |
@@ -642,23 +642,23 @@ Generated: 2026-11-06 15:40
 | The literature of the nations: Scotland, Ireland, and Wales | 65 |
 | The First World War and the myth of sacrifice | 64 |
 | Self-knowledge and the philosophy of the mind | 63 |
-| Death, illness and mourning | 60 |
+| Death, illness and mourning | 61 |
+| Race, racism and the struggle for civil rights | 59 |
 | The public sphere, print, and the periodical | 59 |
 | Madness, the asylum, and the diagnosis of the will | 58 |
 | Conscience and moral self-examination | 57 |
 | Mission, conversion, and the Church | 57 |
-| Race, racism and the struggle for civil rights | 57 |
 | Slavery, emancipation, and the unfinished Reconstruction | 57 |
 | Myth, ritual, and the primitive imagination | 56 |
 | Heroism and the heroic code | 55 |
 | Death, elegy, and the modern funeral | 54 |
 | Time, memory, and the duration of consciousness | 54 |
 | Politeness, fashion, and the codes of conduct | 52 |
+| Art, the artist and the creative life | 51 |
 | Order and degree: the body politic | 51 |
 | Totalitarianism, propaganda, and the political novel | 51 |
 | Ecclesiastical reform and criticism | 50 |
 | Seduction and the betrayed heroine | 50 |
-| Art, the artist and the creative life | 49 |
 | Death, mourning, and the graveyard meditation | 47 |
 | Ireland, Home Rule, and the national question | 47 |
 | Enthusiasm and the disease of the imagination | 46 |
@@ -676,23 +676,23 @@ Generated: 2026-11-06 15:40
 | Exile, expatriation, and the lost generation | 40 |
 | Nature, landscape, and the shaping mind | 39 |
 | Faith, grace, and the pilgrim's journey | 38 |
+| Language, writing and the limits of representation | 38 |
 | Slavery, empire, and the Atlantic world | 38 |
 | The English vernacular and national letters | 38 |
 | Colonial enterprise and the New World | 37 |
 | Primitive genius and national poetry | 37 |
 | Progress, decay, and the philosophy of history | 37 |
 | The closing of the American frontier | 37 |
+| Class, labour and social mobility | 36 |
 | Idealized love and the lost beloved | 36 |
 | Reformation faith and the authority of scripture | 36 |
 | The transience of earthly glory (ubi sunt) | 36 |
 | Faith, doubt and the sacred | 35 |
-| Language, writing and the limits of representation | 35 |
+| Gender, feminism and women's lives | 35 |
 | Liberty of conscience and religious toleration | 35 |
 | Women's education and intellectual friendship | 35 |
 | Childhood, the nursery, and the Edwardian idyll | 34 |
-| Class, labour and social mobility | 34 |
 | Exile and homelessness | 34 |
-| Gender, feminism and women's lives | 34 |
 | Judgment Day and eschatology | 34 |
 | Rebellion, guilt, and the outcast hero | 34 |
 | The New Science and experimental philosophy | 34 |
@@ -701,16 +701,16 @@ Generated: 2026-11-06 15:40
 | The contemplative life | 33 |
 | Women, chastity, and constancy | 33 |
 | Chivalry and knighthood | 32 |
+| Identity, authenticity and the divided self | 32 |
 | Love, intimacy and loss | 32 |
 | Time, death, and immortality through verse | 32 |
-| Identity, authenticity and the divided self | 31 |
 | Melancholy and self-analysis | 31 |
 | Religious persecution and martyrdom | 31 |
 | The suburb, the villa, and the new domesticity | 31 |
+| Migration, exile and diaspora | 30 |
 | The Depression, unemployment, and the hunger march | 30 |
 | Rural labour, depopulation, and the deserted village | 29 |
 | Sensibility, feeling, and its critics | 29 |
-| Migration, exile and diaspora | 28 |
 | Sea voyage and seafaring | 28 |
 | Shell shock, mourning, and the unquiet dead | 28 |
 | Divine love and holy desire | 27 |
@@ -719,29 +719,29 @@ Generated: 2026-11-06 15:40
 | The machinery of print: the serial, the magazine, and the book trade | 27 |
 | The public theatre and the players' world | 27 |
 | Wit, libertinism, and the rake | 27 |
+| Childhood, adolescence and coming of age | 26 |
 | Country retirement and the estate poem | 26 |
 | Humanist education and the ideal commonwealth | 26 |
 | Monsters and the marvellous | 26 |
-| Childhood, adolescence and coming of age | 25 |
 | Science, technology, and the machine age | 25 |
 | Suffrage, feminism, and the woman's work | 25 |
 | The slave trade and abolition | 25 |
 | Courtly service and courtly danger | 24 |
 | Gothic confinement and the pursued heroine | 24 |
 | Industry, enclosure, and the changed countryside | 24 |
+| Nature, ecology and environmental crisis | 24 |
 | Power, the state and surveillance | 24 |
 | Ambition and the overreacher | 23 |
 | Exile, travel, and the southern sojourn | 23 |
-| Nature, ecology and environmental crisis | 23 |
 | Doubt, faith, and secular questioning | 22 |
 | History, truth and the uses of the past | 22 |
 | Industrial wealth, accumulation, and the gospel of accumulation | 22 |
+| Land, place and regional belonging | 22 |
 | Republican nationhood and the claim to a national literature | 22 |
+| The city, the suburb and modern space | 22 |
 | Border, ballad, and national memory | 21 |
-| Land, place and regional belonging | 21 |
+| Nationhood and national identity | 21 |
 | The American city, the machine, and the moneyed metropolis | 21 |
-| The city, the suburb and modern space | 21 |
-| Nationhood and national identity | 20 |
 | Evangelical experience and assurance | 19 |
 | Innocence, experience, and the lost American Eden | 19 |
 | Poetic solitude and the conversation with nature | 19 |
@@ -764,17 +764,17 @@ Generated: 2026-11-06 15:40
 | Carpe diem and the pleasures of the present | 14 |
 | Memory, trauma and testimony | 14 |
 | War, combat and its aftermath | 14 |
+| Technology, media and consumer society | 13 |
 | Wyrd (fate) and providence | 13 |
 | Bohemia, the professional writer, and the Grub Street market | 12 |
 | Familiar prose and the essayist's persona | 12 |
-| Technology, media and consumer society | 12 |
 | Transatlantic exchange and cultural dependence | 12 |
 | Alienation, absurdity and existential freedom | 11 |
 | Arthurian legend | 11 |
 | Blood-feud, vengeance, and kinship | 11 |
+| Decolonisation, the end of empire and the new nation | 11 |
 | Dream, intoxication, and the divided mind | 11 |
 | Wales, Scotland, and the Celtic periphery | 11 |
-| Decolonisation, the end of empire and the new nation | 10 |
 | Madness, breakdown and confinement | 10 |
 | Petrarchan desire and the sonnet mistress | 10 |
 | Monasticism and the religious life | 9 |

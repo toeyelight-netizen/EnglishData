@@ -399,6 +399,28 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
 
     *A defect repaired on the way:* three rows in the two lists were malformed against the fifteen-field header - two carried a sixteenth cell written by an earlier patch of this pass, and one carried fourteen, an older corruption that predated it. All three are fixed and both files now parse to a uniform fifteen fields, checked by a byte-identical round trip through the csv module. The earlier attempt at the same edit used text replacement, which is what desynchronised the rows.
 
+16. **Wave 32, and the dating error it caught in wave 31.** All seven selections that
+    wave 31 brought into the period were built: Smith's "Pretty", Bennett's
+    "Dry-Foot Bwoy", "Jamaica Oman" and "Jamaica Language", Armitage's "The Tyre", and
+    Herrera's "Exiles" and "Literary Asylums". Writing them exposed a mistake in the
+    dating pass itself. Wave 31 had dated all four Bennett rows to *Jamaica Labrish*
+    (1966); three are poems in that collection, but "Jamaica Language" is a radio
+    monologue from *Miss Lou's Views* and was first printed in *Aunty Roachy Seh*, ed.
+    Mervyn Morris (Sangster's, 1993), p. 1. Both dates are inside the period, so the
+    scope never changed - which is exactly why the error could survive an audit that
+    only asks whether a selection is in the period. It is corrected in the list and in
+    the record.
+
+    *What remains uncertain:* the full texts of Herrera's two poems were not examined.
+    Their records describe the poems from the Norton's own teaching pages - "Exiles" as
+    a meditation on exile, "Literary Asylums" as a poem about writing, audience, power
+    and class - and from the contents of *Half of the World in Light*, which places both
+    in the *Exiles of Desire* sequence; both records say so and neither is marked
+    verified. Bennett's "Dry-Foot Bwoy" is the only one of the seven whose text and page
+    reference were both confirmed, and it is the only one marked verified. "Pretty"'s
+    earlier appearance in *The Times* was not dated, and the first broadcast date of
+    "Jamaica Language" within the programme's 1965-1982 run was not established.
+
 ## Stopping point and outstanding tasks (2026-11-06)
 
 **Done:**

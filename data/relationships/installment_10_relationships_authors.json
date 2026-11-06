@@ -394,6 +394,14 @@
    ]
   },
   {
+   "author": "Juan Felipe Herrera",
+   "genres": [
+    "Experimental Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "genres": [
     "Experimental Poetry",
@@ -468,9 +476,12 @@
   {
    "author": "Louise Bennett",
    "genres": [
+    "Folklore Collection",
     "Light Verse",
+    "Narrative Poetry",
     "Performance Poetry",
-    "Political Poetry"
+    "Political Poetry",
+    "Social Poetry"
    ]
   },
   {
@@ -713,11 +724,20 @@
    ]
   },
   {
+   "author": "Simon Armitage",
+   "genres": [
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Regional Poetry"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "genres": [
     "Elegiac Poetry",
     "Light Verse",
     "Lyric Poetry",
+    "Nature Poetry",
     "Religious Poetry"
    ]
   },
@@ -1135,6 +1155,13 @@
    ]
   },
   {
+   "author": "Juan Felipe Herrera",
+   "movements": [
+    "Chicano Movement Literature",
+    "Postcolonial Literature"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "movements": [
     "Caribbean Literature in English",
@@ -1188,7 +1215,8 @@
    "author": "Louise Bennett",
    "movements": [
     "Caribbean Literature in English",
-    "Postcolonial Literature"
+    "Postcolonial Literature",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -1335,6 +1363,12 @@
    "author": "Seamus Heaney",
    "movements": [
     "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "author": "Simon Armitage",
+   "movements": [
+    "The British Poetry Revival"
    ]
   },
   {
@@ -1868,6 +1902,17 @@
    ]
   },
   {
+   "author": "Juan Felipe Herrera",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Migration, exile and diaspora",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
    "author": "Kamau Brathwaite",
    "themes": [
     "Class, labour and social mobility",
@@ -1950,9 +1995,13 @@
   {
    "author": "Louise Bennett",
    "themes": [
+    "Class, labour and social mobility",
     "Decolonisation, the end of empire and the new nation",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
     "Migration, exile and diaspora",
-    "Nationhood and national identity"
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
    ]
   },
   {
@@ -2217,6 +2266,14 @@
    ]
   },
   {
+   "author": "Simon Armitage",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Land, place and regional belonging",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
    "author": "Stevie Smith",
    "themes": [
     "Art, the artist and the creative life",
@@ -2225,6 +2282,7 @@
     "Faith, doubt and the sacred",
     "Identity, authenticity and the divided self",
     "Madness, breakdown and confinement",
+    "Nature, ecology and environmental crisis",
     "Power, the state and surveillance"
    ]
   },
@@ -3207,6 +3265,26 @@
    "sources": [
     "Hunger of Memory (David R. Godine, 1982), publication records",
     "Richard Rodriguez (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Simon Armitage",
+   "sources": [
+    "Cloudcuckooland",
+    "Magnetic Field: The Marsden Poems, context and critical discussion",
+    "Simon Armitage",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "The Shout Heard across the Atlantic (Poetry Foundation profile of Simon Armitage)"
+   ]
+  },
+  {
+   "author": "Juan Felipe Herrera",
+   "sources": [
+    "Exiles of Desire",
+    "Guide to the Juan Felipe Herrera Papers, ca. 1970-2017 (M1043)",
+    "Half of the World in Light: New and Selected Poems",
+    "Juan Felipe Herrera",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }

@@ -7,12 +7,12 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 31):** installments 1–9 are
-complete; installment 10 (1946–2000) is in progress at **249 works by 89
-authors**, with **204 works recorded against 265 in-scope Norton selections**
-(English 89 of 96, American 115 of 169), leaving **58 selections, none of them
-undated**. The database holds **931
-authors, 3,093 works, 704 sources, 2,432 editions**. `python3
+**State at this handover (2026-11-06, wave 32):** installments 1–9 are
+complete; installment 10 (1946–2000) is in progress at **256 works by 91
+authors**, with **211 works recorded against 265 in-scope Norton selections**
+(English 94 of 96, American 117 of 169), leaving **52 selections, none of them
+undated**. The database holds **933
+authors, 3,100 works, 723 sources, 2,432 editions**. `python3
 scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
 so they cannot drift from it.
 
@@ -31,7 +31,7 @@ alembic upgrade head
 python scripts/import_data.py
 ```
 
-This reproduces 931 / 3,093 / 704 / 2,432 exactly from a clean clone.
+This reproduces 933 / 3,100 / 723 / 2,432 exactly from a clean clone.
 
 ## 2. First run
 
@@ -160,15 +160,16 @@ Next in Norton's order (American anthology), from
 | Simon J. Ortiz | 3 | |
 | Louise Glück | 3 | |
 
-58 selections remain across 26 authors, of whom 13 have a single selection. Wave
-31 settled every remaining undated row: ten rows left the period (Cusk, three of
-Armitage's, three of Herrera's, Trethewey's, Hill's and Brathwaite's) and seven
-came into it (Smith's "Pretty", Bennett's three, Armitage's "The Tyre", and two
-Herrera poems), so no selection is now undated. Brathwaite's "[On Sycorax Video
-Style]" was **moved back into the period** (1999) on evidence that the earlier
-pass had misread, and is the only row left of the English anthology's 96.
-Two Herrera poems were recovered the same way: "Exiles" and "Literary Asylums"
-both date from *Exiles of Desire* (1983), not from the 2008 selected volume.
+52 selections remain across 22 authors, of whom 11 have a single selection - 51 of them American and one English. Wave
+31 settled every remaining undated row - ten left the period, seven came into it -
+and **wave 32 built all seven**, so no selection is undated and none is missed.
+Wave 32 added Simon Armitage and Juan Felipe Herrera as new authors and gave
+Smith "Pretty", Bennett three poems and Herrera two. Bennett's "Jamaica Language"
+was **re-dated again** during that wave: it is a radio monologue first printed in
+*Aunty Roachy Seh* (1993), not in *Jamaica Labrish* (1966), so its date in the
+Norton list and its record both use 1993. The English anthology has **one row left of 96** -
+Brathwaite's "[On Sycorax Video Style]", dated 1999 and in scope but not yet
+recorded; the American has 51.
 
 **Batch the small authors.** Waves 21–28 averaged about nine minutes of wall
 clock each, and almost all of it was research and prose, not machinery. The
@@ -203,3 +204,19 @@ Foundation and *New Yorker* URLs 404, so verify a URL before citing it.
 - Read the last ~40 lines of `documentation/PROJECT_PROGRESS.md` before starting
   work: the wave log at the top of this file is authoritative, but older
   hand-written summaries further down can still describe an earlier wave.
+
+**After a sandbox restore, rebuild the environment before the first gate run.**
+The restore can remove `database/` entirely and drop `alembic` and `sqlalchemy`,
+and `i10_gates.py` builds the JSON *before* it migrates, so a missing database
+fails at the build step with `no such table: movements` rather than at the
+migrate step. The sequence that works, in about a minute:
+
+```bash
+pip install --quiet --break-system-packages alembic sqlalchemy   # PEP 668 host
+mkdir -p database && python3 -m alembic upgrade head             # create schema
+python3 scripts/import_data.py                                   # load all JSON
+python3 scripts/i10_gates.py
+```
+
+Skipping the import leaves a schema-only database, and the build then fails on
+"unknown author" for every earlier-installment author.
