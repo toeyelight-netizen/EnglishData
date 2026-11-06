@@ -414,6 +414,86 @@
    "work": "An Adventure to Juju Island",
    "author": "Gabriel Okara",
    "contribution_type": "author"
+  },
+  {
+   "work": "When Love Whispers",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Ikolo the Wrestler and Other Ibo Tales",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "People of the City",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Drummer Boy",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Passport of Mallam Ilia",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Jagua Nana",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Burning Grass",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "An African Night's Entertainment",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Beautiful Feathers",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Iska",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Lokotown and Other Stories",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Survive the Peace",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Divided We Stand",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Jagua Nana's Daughter",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "For a Roll of Parchment",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "King Forever!",
+   "author": "Cyprian Ekwensi",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -997,6 +1077,117 @@
    "genres": [
     "Children's Fiction",
     "Adventure Fiction"
+   ]
+  },
+  {
+   "work": "When Love Whispers",
+   "genres": [
+    "Novella",
+    "Popular Romance Fiction"
+   ]
+  },
+  {
+   "work": "Ikolo the Wrestler and Other Ibo Tales",
+   "genres": [
+    "Folklore Collection",
+    "Children's Fiction"
+   ]
+  },
+  {
+   "work": "People of the City",
+   "genres": [
+    "Social Novel",
+    "Naturalist Fiction",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "The Drummer Boy",
+   "genres": [
+    "Novella",
+    "Juvenile Fiction"
+   ]
+  },
+  {
+   "work": "The Passport of Mallam Ilia",
+   "genres": [
+    "Novella",
+    "Historical Adventure"
+   ]
+  },
+  {
+   "work": "Jagua Nana",
+   "genres": [
+    "Social Novel",
+    "Political Novel",
+    "Naturalist Fiction"
+   ]
+  },
+  {
+   "work": "Burning Grass",
+   "genres": [
+    "Regional Fiction",
+    "Adventure Fiction"
+   ]
+  },
+  {
+   "work": "An African Night's Entertainment",
+   "genres": [
+    "Novella",
+    "Retelling and Adaptation"
+   ]
+  },
+  {
+   "work": "Beautiful Feathers",
+   "genres": [
+    "Political Novel",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Iska",
+   "genres": [
+    "Social Novel",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "Lokotown and Other Stories",
+   "genres": [
+    "Short-Story Collection"
+   ]
+  },
+  {
+   "work": "Survive the Peace",
+   "genres": [
+    "War Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Divided We Stand",
+   "genres": [
+    "War Novel",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "Jagua Nana's Daughter",
+   "genres": [
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "For a Roll of Parchment",
+   "genres": [
+    "Autobiographical Novel",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "King Forever!",
+   "genres": [
+    "Children's Fiction"
    ]
   }
  ],
@@ -1643,6 +1834,133 @@
     "Violence, crime and justice",
     "Land, place and regional belonging"
    ]
+  },
+  {
+   "work": "When Love Whispers",
+   "themes": [
+    "Love, intimacy and loss",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Ikolo the Wrestler and Other Ibo Tales",
+   "themes": [
+    "Myth, folklore and the supernatural",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "People of the City",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Decolonisation, the end of empire and the new nation",
+    "Love, intimacy and loss",
+    "Violence, crime and justice",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "The Drummer Boy",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility"
+   ]
+  },
+  {
+   "work": "The Passport of Mallam Ilia",
+   "themes": [
+    "Violence, crime and justice",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Jagua Nana",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Gender, feminism and women's lives",
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Burning Grass",
+   "themes": [
+    "Land, place and regional belonging",
+    "Myth, folklore and the supernatural",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "An African Night's Entertainment",
+   "themes": [
+    "Violence, crime and justice",
+    "Myth, folklore and the supernatural",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Beautiful Feathers",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Decolonisation, the end of empire and the new nation",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "Iska",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Gender, feminism and women's lives",
+    "Nationhood and national identity",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Lokotown and Other Stories",
+   "themes": [
+    "The city, the suburb and modern space",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Survive the Peace",
+   "themes": [
+    "War, combat and its aftermath",
+    "Memory, trauma and testimony",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Divided We Stand",
+   "themes": [
+    "War, combat and its aftermath",
+    "Nationhood and national identity",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "Jagua Nana's Daughter",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Migration, exile and diaspora"
+   ]
+  },
+  {
+   "work": "For a Roll of Parchment",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Migration, exile and diaspora",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "King Forever!",
+   "themes": [
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
+   ]
   }
  ],
  "work_movements": [
@@ -1936,6 +2254,102 @@
    "movements": [
     "African Literature in English"
    ]
+  },
+  {
+   "work": "When Love Whispers",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Ikolo the Wrestler and Other Ibo Tales",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "People of the City",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Drummer Boy",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Passport of Mallam Ilia",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Jagua Nana",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Burning Grass",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "An African Night's Entertainment",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Beautiful Feathers",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Iska",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Lokotown and Other Stories",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Survive the Peace",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Divided We Stand",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Jagua Nana's Daughter",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "For a Roll of Parchment",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "King Forever!",
+   "movements": [
+    "African Literature in English"
+   ]
   }
  ],
  "work_periods": [
@@ -2023,7 +2437,23 @@
     "The Voice",
     "The Fisherman's Invocation",
     "Little Snake and Little Frog",
-    "An Adventure to Juju Island"
+    "An Adventure to Juju Island",
+    "When Love Whispers",
+    "Ikolo the Wrestler and Other Ibo Tales",
+    "People of the City",
+    "The Drummer Boy",
+    "The Passport of Mallam Ilia",
+    "Jagua Nana",
+    "Burning Grass",
+    "An African Night's Entertainment",
+    "Beautiful Feathers",
+    "Iska",
+    "Lokotown and Other Stories",
+    "Survive the Peace",
+    "Divided We Stand",
+    "Jagua Nana's Daughter",
+    "For a Roll of Parchment",
+    "King Forever!"
    ]
   }
  ]

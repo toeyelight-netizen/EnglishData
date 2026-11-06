@@ -21,10 +21,10 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–09: 82 works by 9 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–10: 98 works by 10 authors) |
 
-Cumulative totals: **855 authors, 2926 works** (147 anonymous), 10 periods, 179
-movements, 370 genres, 203 themes, 462 sources, 2432 recorded editions.
+Cumulative totals: **856 authors, 2942 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 479 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the

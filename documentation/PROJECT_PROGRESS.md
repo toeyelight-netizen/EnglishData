@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–09, giving **855 authors / 2926 works** across ten periods (c. 450–2000).
+  waves 01–10, giving **856 authors / 2942 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Nine research waves are built; see
+  **Installment 10 is in progress.** Ten research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1511,7 +1511,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–09 are built (82 works by 9 authors). Not complete.**
+**Status: in progress. Waves 01–10 are built (98 works by 10 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1679,6 +1679,26 @@ with broader Anglophone writing out of scope.
     war poems and the radio work are listed but not recorded as works,
     because their first publication was not established. Eight discrepancies
     are recorded in limitation 19 of the audit report.
+- **Wave 10:** Cyprian Ekwensi (Nigeria; Igbo novelist born and raised in the
+  North), the first Nigerian popular novelist: sixteen works, from the Onitsha
+  novella *When Love Whispers* (1947) to the children's parable *King
+  Forever!* (1992). *People of the City* (1954) and *Jagua Nana* (1961) have
+  full major records; *Burning Grass*, *Beautiful Feathers*, *Iska* and
+  *Survive the Peace* have significant records. The audit's "other
+  English-language" count moves from 4 to 5, and genre-checklist coverage from
+  50 to 58 of 161.
+  - **Sources:** Gale's *Contemporary Authors*, *Contemporary Black
+    Biography*, *Encyclopedia of World Biography* and *Contextual Encyclopedia*;
+    Donald Cosentino's profile of *Jagua Nana*; Emmanuel Iduma's essay on
+    *People of the City*; six Wikipedia articles; the African Writers Series
+    text of *Beautiful Feathers*; and labelled search extracts for *Iska*,
+    *Survive the Peace*, *Divided We Stand* and *Lokotown* (sources 126–142).
+  - **Verification:** the author record is verified and the 16 works are
+    partially verified; only the opening of *Beautiful Feathers* was read.
+    About twenty books for young readers, two story collections and an edited
+    anthology are listed in his bibliography note but not recorded as works,
+    because no source consulted describes their contents. Ten groups of
+    discrepancies are recorded in limitation 20 of the audit report.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1786,4 +1806,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–09: 82 works by 9 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–10: 98 works by 10 authors) |

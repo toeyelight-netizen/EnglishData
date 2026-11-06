@@ -31,6 +31,28 @@
    ]
   },
   {
+   "author": "Cyprian Ekwensi",
+   "genres": [
+    "Adventure Fiction",
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Children's Fiction",
+    "Domestic Fiction",
+    "Folklore Collection",
+    "Historical Adventure",
+    "Juvenile Fiction",
+    "Naturalist Fiction",
+    "Novella",
+    "Political Novel",
+    "Popular Romance Fiction",
+    "Regional Fiction",
+    "Retelling and Adaptation",
+    "Short-Story Collection",
+    "Social Novel",
+    "War Novel"
+   ]
+  },
+  {
    "author": "Gabriel Okara",
    "genres": [
     "Adventure Fiction",
@@ -155,6 +177,12 @@
    ]
   },
   {
+   "author": "Cyprian Ekwensi",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
    "author": "Gabriel Okara",
    "movements": [
     "African Literature in English"
@@ -220,6 +248,28 @@
     "Death, illness and mourning",
     "Family, marriage and domestic life",
     "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "author": "Cyprian Ekwensi",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Myth, folklore and the supernatural",
+    "Nationhood and national identity",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "The city, the suburb and modern space",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -390,6 +440,13 @@
    "influenced_by": [
     "William Wordsworth"
    ]
+  },
+  {
+   "author": "Cyprian Ekwensi",
+   "influenced_by": [
+    "H. Rider Haggard",
+    "Robert Louis Stevenson"
+   ]
   }
  ],
  "author_sources": [
@@ -491,6 +548,23 @@
     "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)",
     "The Voice (novel) (Wikipedia)",
     "You Laughed and Laughed and Laughed (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Cyprian Ekwensi",
+   "sources": [
+    "Arthur E. E. Smith, \"Social Consciousness in the Writings of Cyprian Ekwensi\" (ChickenBones: A Journal, 2007)",
+    "Cyprian Ekwensi (Encyclopedia of World Biography, via Encyclopedia.com)",
+    "Cyprian Ekwensi (Wikipedia)",
+    "Cyprian Ekwensi, Beautiful Feathers (African Writers Series text, Eswatini Heritage Digital Library)",
+    "Ekwensi, Chief Cyprian D. (The Writers Directory, via Encyclopedia.com)",
+    "Ekwensi, Cyprian (Gale Contextual Encyclopedia of World Literature, via Encyclopedia.com)",
+    "Ekwensi, Cyprian (Odiatu Duaka) 1921- (Contemporary Authors, New Revision Series, via Encyclopedia.com)",
+    "Ekwensi, Cyprian 1921-, by Jeanne Lesinski (Contemporary Black Biography, vol. 37, via Encyclopedia.com)",
+    "Emmanuel Iduma, \"Cyprian Ekwensi's Lagos Noir\" (NYR Daily, The New York Review of Books, 2 June 2020)",
+    "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
+    "Iska: critical extracts (Virginia U. Ola, \"Cyprian Ekwensi's Iska Revisited\", Utafiti; Ulf Hannerz, \"The City, According to Ekwensi... and Onuzo\", Afropolitan, Berghahn)",
+    "Jagua Nana, by Donald Cosentino (World Literature and Its Times, via Encyclopedia.com)"
    ]
   }
  ]
