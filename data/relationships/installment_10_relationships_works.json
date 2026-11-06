@@ -654,6 +654,66 @@
    "work": "The Lost Land",
    "author": "Eavan Boland",
    "contribution_type": "author"
+  },
+  {
+   "work": "The Glass Essay",
+   "author": "Anne Carson",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Anseo",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Meeting the British",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "7, Middagh Street",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "author": "Paul Muldoon",
+   "contribution_type": "author"
+  },
+  {
+   "work": "First Screening",
+   "author": "bpNichol",
+   "contribution_type": "author"
+  },
+  {
+   "work": "My Son the Fanatic",
+   "author": "Hanif Kureishi",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Warming Her Pearls",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Valentine",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Medusa",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Mrs Lazarus",
+   "author": "Carol Ann Duffy",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "author": "Kiran Desai",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1601,6 +1661,102 @@
     "Lyric Poetry",
     "Elegiac Poetry",
     "Free Verse"
+   ]
+  },
+  {
+   "work": "The Glass Essay",
+   "genres": [
+    "Narrative Poetry",
+    "Confessional Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "Anseo",
+   "genres": [
+    "Narrative Poetry",
+    "Lyric Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Meeting the British",
+   "genres": [
+    "Narrative Poetry",
+    "Dramatic Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "7, Middagh Street",
+   "genres": [
+    "Dramatic Poetry",
+    "Narrative Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "genres": [
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "First Screening",
+   "genres": [
+    "Concrete Poetry",
+    "Visual Poetry",
+    "Experimental Poetry"
+   ]
+  },
+  {
+   "work": "My Son the Fanatic",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Social Novel"
+   ]
+  },
+  {
+   "work": "Warming Her Pearls",
+   "genres": [
+    "Dramatic Monologue",
+    "Lyric Poetry",
+    "Love Poetry"
+   ]
+  },
+  {
+   "work": "Valentine",
+   "genres": [
+    "Lyric Poetry",
+    "Love Poetry",
+    "Free Verse"
+   ]
+  },
+  {
+   "work": "Medusa",
+   "genres": [
+    "Dramatic Monologue",
+    "Mythological Retelling",
+    "Lyric Poetry"
+   ]
+  },
+  {
+   "work": "Mrs Lazarus",
+   "genres": [
+    "Dramatic Monologue",
+    "Mythological Retelling",
+    "Elegiac Poetry"
+   ]
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "genres": [
+    "Comic Novel",
+    "Satirical Fiction",
+    "Regional Fiction"
    ]
   }
  ],
@@ -2644,6 +2800,102 @@
     "Memory, trauma and testimony",
     "Land, place and regional belonging"
    ]
+  },
+  {
+   "work": "The Glass Essay",
+   "themes": [
+    "Love, intimacy and loss",
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Anseo",
+   "themes": [
+    "Nationhood and national identity",
+    "Education, institutions and the academy",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "Meeting the British",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "7, Middagh Street",
+   "themes": [
+    "Art, the artist and the creative life",
+    "War, combat and its aftermath",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "themes": [
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "First Screening",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "My Son the Fanatic",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "work": "Warming Her Pearls",
+   "themes": [
+    "Class, labour and social mobility",
+    "Sexuality, desire and the closet",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Valentine",
+   "themes": [
+    "Love, intimacy and loss",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Medusa",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss",
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "Mrs Lazarus",
+   "themes": [
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance"
+   ]
   }
  ],
  "work_movements": [
@@ -3262,6 +3514,85 @@
    "movements": [
     "Second-Wave Feminist Writing"
    ]
+  },
+  {
+   "work": "The Glass Essay",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "Anseo",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Meeting the British",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "7, Middagh Street",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "Milkweed and Monarch",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group"
+   ]
+  },
+  {
+   "work": "First Screening",
+   "movements": [
+    "Concrete Poetry"
+   ]
+  },
+  {
+   "work": "My Son the Fanatic",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Warming Her Pearls",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Valentine",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Medusa",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Mrs Lazarus",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
+   ]
+  },
+  {
+   "work": "Hullabaloo in the Guava Orchard",
+   "movements": [
+    "South Asian Literature in English",
+    "Postcolonial Literature"
+   ]
   }
  ],
  "work_periods": [
@@ -3398,7 +3729,19 @@
     "Waiting for the Barbarians",
     "Fond Memory",
     "The Dolls Museum in Dublin",
-    "The Lost Land"
+    "The Lost Land",
+    "The Glass Essay",
+    "Anseo",
+    "Meeting the British",
+    "7, Middagh Street",
+    "Milkweed and Monarch",
+    "First Screening",
+    "My Son the Fanatic",
+    "Warming Her Pearls",
+    "Valentine",
+    "Medusa",
+    "Mrs Lazarus",
+    "Hullabaloo in the Guava Orchard"
    ]
   }
  ]

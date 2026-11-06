@@ -1851,6 +1851,19 @@ with broader Anglophone writing out of scope.
   (*Vendange Tardive*, 2010) and Muldoon's "Turtles" (*Horse Latitudes*, 2006)
   are all post-2000, so three authors leave the in-scope list.
 
+- **Wave 20:** the last six in-scope authors of the English anthology, with one
+  record per selection: Anne Carson ("The Glass Essay", major record), Paul
+  Muldoon ("Anseo", "Meeting the British", "7, Middagh Street" and "Milkweed
+  and Monarch"), bpNichol (*First Screening*), Hanif Kureishi ("My Son the
+  Fanatic"), Carol Ann Duffy ("Warming Her Pearls", "Valentine", "Medusa" and
+  "Mrs Lazarus") and Kiran Desai (*Hullabaloo in the Guava Orchard*, printed as
+  the extract "The Sermon in the Guava Tree"). Twelve works and six authors,
+  all partially verified. With this wave every English-anthology selection
+  first published 1946-2000 has a record: 90 of 90, and 99 of the 255
+  selections across both anthologies. Muldoon's "Turtles" was dated to *Horse
+  Latitudes* (2006) and is out of the period. The American anthology - 156
+  selections - is what remains.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -1958,4 +1971,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 131 works by 33 authors; 87 of 255 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 143 works by 39 authors; 99 of 255 selections recorded; the English anthology's in-scope list complete) |

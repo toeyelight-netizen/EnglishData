@@ -17,6 +17,14 @@
    ]
   },
   {
+   "author": "Anne Carson",
+   "genres": [
+    "Confessional Poetry",
+    "Long Poem",
+    "Narrative Poetry"
+   ]
+  },
+  {
    "author": "Arundhati Roy",
    "genres": [
     "Family Saga",
@@ -37,6 +45,17 @@
    "genres": [
     "Regional Fiction",
     "Short Story"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "genres": [
+    "Dramatic Monologue",
+    "Elegiac Poetry",
+    "Free Verse",
+    "Love Poetry",
+    "Lyric Poetry",
+    "Mythological Retelling"
    ]
   },
   {
@@ -143,6 +162,14 @@
    ]
   },
   {
+   "author": "Hanif Kureishi",
+   "genres": [
+    "Domestic Fiction",
+    "Short Story",
+    "Social Novel"
+   ]
+  },
+  {
    "author": "J. G. Ballard",
    "genres": [
     "Apocalyptic Fiction",
@@ -173,6 +200,14 @@
     "Political Poetry",
     "Postcolonial Criticism",
     "Visual Poetry"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "genres": [
+    "Comic Novel",
+    "Regional Fiction",
+    "Satirical Fiction"
    ]
   },
   {
@@ -239,6 +274,19 @@
    "genres": [
     "Political Essay",
     "Postcolonial Criticism"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Long Poem",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
    ]
   },
   {
@@ -379,6 +427,14 @@
     "Modern Tragedy",
     "Political Theatre"
    ]
+  },
+  {
+   "author": "bpNichol",
+   "genres": [
+    "Concrete Poetry",
+    "Experimental Poetry",
+    "Visual Poetry"
+   ]
   }
  ],
  "author_movements": [
@@ -393,6 +449,12 @@
    "author": "Alice Munro",
    "movements": [
     "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "author": "Anne Carson",
+   "movements": [
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -416,6 +478,13 @@
    "movements": [
     "African Literature in English",
     "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "The Scottish Literary Revival of the 1980s and 1990s"
    ]
   },
   {
@@ -480,6 +549,13 @@
    ]
   },
   {
+   "author": "Hanif Kureishi",
+   "movements": [
+    "Black British Writing and the Windrush Generation",
+    "Postcolonial Literature"
+   ]
+  },
+  {
    "author": "J. G. Ballard",
    "movements": [
     "Contemporary Gothic",
@@ -506,6 +582,13 @@
     "Caribbean Literature in English",
     "Postcolonial Literature",
     "Postcolonial Theory"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "movements": [
+    "Postcolonial Literature",
+    "South Asian Literature in English"
    ]
   },
   {
@@ -555,6 +638,13 @@
    "movements": [
     "African Literature in English",
     "Postcolonial Theory"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "movements": [
+    "Northern Irish Poetry and the Belfast Group",
+    "Postcolonial Literature"
    ]
   },
   {
@@ -630,6 +720,12 @@
     "African Literature in English",
     "Postcolonial Literature"
    ]
+  },
+  {
+   "author": "bpNichol",
+   "movements": [
+    "Concrete Poetry"
+   ]
   }
  ],
  "author_themes": [
@@ -648,6 +744,14 @@
     "Childhood, adolescence and coming of age",
     "Class, labour and social mobility",
     "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Anne Carson",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
    ]
   },
   {
@@ -672,6 +776,18 @@
     "Faith, doubt and the sacred",
     "Family, marriage and domestic life",
     "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "themes": [
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Myth, folklore and the supernatural",
+    "Sexuality, desire and the closet"
    ]
   },
   {
@@ -790,6 +906,14 @@
    ]
   },
   {
+   "author": "Hanif Kureishi",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "J. G. Ballard",
    "themes": [
     "Alienation, absurdity and existential freedom",
@@ -826,6 +950,14 @@
     "Language, writing and the limits of representation",
     "Nationhood and national identity",
     "Technology, media and consumer society"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis",
+    "Power, the state and surveillance"
    ]
   },
   {
@@ -900,6 +1032,22 @@
     "Decolonisation, the end of empire and the new nation",
     "Language, writing and the limits of representation",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "History, truth and the uses of the past",
+    "Love, intimacy and loss",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -1056,6 +1204,14 @@
     "Faith, doubt and the sacred",
     "History, truth and the uses of the past",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "bpNichol",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Language, writing and the limits of representation",
+    "Technology, media and consumer society"
    ]
   }
  ],
@@ -1409,6 +1565,60 @@
     "Eavan Boland (Wikipedia)",
     "Eavan Boland, 'The Dolls Museum in Dublin' (course page, Michigan State University)",
     "Eavan Boland, 'The Lost Land' (Poetry Foundation)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Anne Carson",
+   "sources": [
+    "Anne Carson (Wikipedia)",
+    "The Glass Essay (Britannica)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Paul Muldoon",
+   "sources": [
+    "7, Middagh Street (database entry, University of Galway)",
+    "Chapter 3, Why Brownlee Left, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
+    "Chapter 5, Meeting the British, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
+    "Chapter 7, The Annals of Chile, in Paul Muldoon and the Language of Poetry (Brill, 2019)",
+    "Meeting the British (poem guide, Encyclopedia.com)",
+    "Paul Muldoon (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "bpNichol",
+   "sources": [
+    "BpNichol (Wikipedia)",
+    "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Hanif Kureishi",
+   "sources": [
+    "Hanif Kureishi (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Carol Ann Duffy",
+   "sources": [
+    "Carol Ann Duffy (Wikipedia)",
+    "Carol Ann Duffy, Medusa and Mrs Lazarus (Genius annotations)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Valentine by Carol Ann Duffy (revision notes, Save My Exams)",
+    "Warming Her Pearls by Carol Ann Duffy (poem analysis page)"
+   ]
+  },
+  {
+   "author": "Kiran Desai",
+   "sources": [
+    "'Searching for an Environmental Identity: Hullabaloo in the Guava Orchard by Kiran Desai' (ResearchGate article)",
+    "Kiran Desai (Wikipedia)",
+    "Kiran Desai, 'The Sermon in the Guava Tree' (extract, The New Yorker, 23 June 1997)",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   }
