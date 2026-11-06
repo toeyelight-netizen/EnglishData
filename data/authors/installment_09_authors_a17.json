@@ -1,34 +1,5 @@
 [
  {
-  "full_name": "Phyllis Bentley",
-  "alternative_names": [
-   "Phyllis Eleanor Bentley"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1894",
-  "birth_date_approximate": false,
-  "death_date": "1977",
-  "death_date_approximate": false,
-  "birthplace": "Halifax, Yorkshire, England",
-  "nationality_or_literary_tradition": "British; the Yorkshire novelist of Inheritance and the woollen chronicle",
-  "literary_identity": "Novelist; the Yorkshire chronicler of Inheritance and of the woollen families.",
-  "biography": "Born Phyllis Eleanor Bentley at Halifax, Yorkshire, on 19 November 1894, the daughter of a partner in a woollen mill; she taught after war work in munitions and published from 1922 with Gollancz. Inheritance (1932), the chronicle of the Oldroyd family and of the woollen trade across the century, made her the Yorkshire novelist of the industrial family; A Modern Tragedy (1934) and the later Oldroyd books followed; she died at Halifax on 27 June 1977.",
-  "literary_profile": "Phyllis Bentley is the Yorkshire novelist of the woollen chronicle: Inheritance, the saga of the Oldroyd family and of the mill across the nineteenth century, made the industrial family the matter of the regional novel and was the most read of the Yorkshire sagas of the 1930s.",
-  "stylistic_characteristics": "The chronicle of the family and the mill across the generations; the woollen trade and its machinery reported from the partner's daughter's eye; the Halifax of the west riding as the world; the plain narrative sentence of the saga; the industrial town and its owners.",
-  "intellectual_concerns": "The woollen trade and the mill; the industrial family across the generations; Halifax and the west riding; the owner and the hand; the regional saga as the form of the industrial novel.",
-  "historical_significance": "Phyllis Bentley is the Yorkshire novelist of the woollen chronicle: Inheritance, the saga of the Oldroyd family and of the mill, made the industrial family the matter of the regional novel and was the most read of the Yorkshire sagas of the 1930s.",
-  "major_influences": [
-   "the Halifax woollen mill",
-   "the Brontës",
-   "the industrial novel of Gaskell",
-   "the west riding"
-  ],
-  "biographical_uncertainty": "6 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1928 and 1934.",
-  "research_status": "complete",
-  "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Partnership (1928); Carr (1929); Trio (1930); Freedom Farewell (1936); The Rise of Henry Morcar (1946); A Man of His Time (1966)."
- },
- {
   "full_name": "Ethel Mannin",
   "alternative_names": [
    "Ethel Edith Mannin"
@@ -235,5 +206,34 @@
   "research_status": "complete",
   "significance_tier": "Major / canonical",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Dunwich Horror (1929); The Shadow Out of Time (1936); The Case of Charles Dexter Ward (written 1927, published 1943); the pulp letters."
+ },
+ {
+  "full_name": "Arthur Koestler",
+  "alternative_names": [
+   "Artúr Kösztler"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1905",
+  "birth_date_approximate": false,
+  "death_date": "1983",
+  "death_date_approximate": false,
+  "birthplace": "Budapest, Hungary",
+  "nationality_or_literary_tradition": "British; the novelist of Darkness at Noon and the testament of Spain",
+  "literary_identity": "Novelist and political writer; the author of Spanish Testament and Darkness at Noon.",
+  "biography": "Born Artúr Kösztler at Budapest on 5 September 1905; he worked as a journalist in Palestine and Berlin, joined the Communist Party in 1931, and was imprisoned by the Francoists in Spain, the experience of Spanish Testament (1937). Leaving the party, he wrote Darkness at Noon (1940), the great novel of the Moscow trials, in German and had it translated by Daphne Hardy; Arrival and Departure (1943) carried the war's refugees into the novel of the psychoanalysis. He took his own life in London on 1 March 1983.",
+  "literary_profile": "Arthur Koestler is the novelist of the totalitarian century: Darkness at Noon made Rubashov's cell and its confession the definitive novel of the show trials, and Spanish Testament is the testimony of the party's disillusion in the decade of the Popular Front.",
+  "stylistic_characteristics": "The argument carried in the cell and the interrogation; the plain analytical prose of the political mind; the confession as the moral problem; the refugee's war in the psychoanalytic novel; the essay and the testament beside the fiction.",
+  "intellectual_concerns": "Totalitarianism and the show trial; the party and the disillusion; the Spain of the Popular Front; the refugee and the war; the confession and the conscience of the revolutionary.",
+  "historical_significance": "Arthur Koestler is the novelist of the totalitarian century: Darkness at Noon made the cell and its confession the definitive novel of the show trials, and Spanish Testament is the testimony of the party's disillusion.",
+  "major_influences": [
+   "the Communist Party and its break",
+   "the Spanish imprisonment",
+   "Dostoevsky",
+   "the Budapest assimilated Jewry"
+  ],
+  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1937 and 1943.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Yogi and the Commissar (1945); Thieves in the Night (1946); the essays of the war years."
  }
 ]

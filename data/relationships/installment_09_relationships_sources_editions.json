@@ -69,12 +69,9 @@
    "work": "Tono-Bungay",
    "sources": [
     "Modernism: A Guide to European Literature 1890–1930",
-    "The Cambridge Companion to Modernism, 2nd edn",
-    "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
    ]
   },
@@ -82,12 +79,9 @@
    "work": "The Outline of History: Being a Plain History of Life and Mankind",
    "sources": [
     "Modernism: A Guide to European Literature 1890–1930",
-    "The Cambridge Companion to Modernism, 2nd edn",
-    "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
    ]
   },
@@ -95,12 +89,9 @@
    "work": "The Shape of Things to Come: The Ultimate Revolution",
    "sources": [
     "Modernism: A Guide to European Literature 1890–1930",
-    "The Cambridge Companion to Modernism, 2nd edn",
-    "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
    ]
   },
@@ -108,12 +99,9 @@
    "work": "The History of Mr Polly",
    "sources": [
     "Modernism: A Guide to European Literature 1890–1930",
-    "The Cambridge Companion to Modernism, 2nd edn",
-    "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
    ]
   },
@@ -1850,6 +1838,7 @@
    "work": "Pastors and Masters",
    "sources": [
     "Modernism: A Guide to European Literature 1890–1930",
+    "Pastors and Masters (Wikipedia)",
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
@@ -2290,6 +2279,7 @@
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
+    "The Fashion in Shrouds (Wikipedia)",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
@@ -2368,6 +2358,7 @@
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
+    "The Nebuly Coat (Wikipedia)",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
@@ -6354,6 +6345,22 @@
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
+    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
+    "The Oxford Companion to English Literature, 7th edn",
+    "The Oxford Companion to Twentieth-Century Literature in English",
+    "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "work": "Animal Farm",
+   "sources": [
+    "Animal Farm (Wikipedia)",
+    "George Orwell bibliography (Wikipedia)",
+    "Modernism: A Guide to European Literature 1890–1930",
+    "The Cambridge Companion to Modernism, 2nd edn",
+    "The Cambridge Companion to the Modernist Novel",
+    "The Cambridge History of Twentieth-Century English Literature",
+    "The Freedom of the Press (The Orwell Foundation)",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",

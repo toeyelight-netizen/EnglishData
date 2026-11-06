@@ -425,5 +425,30 @@
   "bibliographical_notes": "Published by Victor Gollancz for the Left Book Club in London on 12 March 1937; the second half, the essay on socialism, was printed in the club edition and in the trade edition of 1938. The record grades the work as major canon.",
   "canonical_status": "Major canon",
   "research_status": "complete"
+ },
+ {
+  "title": "Animal Farm",
+  "alternative_titles": [
+   "Animal Farm: A Fairy Story"
+  ],
+  "authorship_status": "single",
+  "composition_date_start": "1943",
+  "composition_date_end": "1944",
+  "publication_date": "1945",
+  "first_performance_date": null,
+  "manuscript_date": null,
+  "original_language": "English",
+  "description": "Orwell's beast fable of a revolution betrayed: the animals of Manor Farm drive out their drunken farmer and found a commonwealth of equals, which the pigs turn step by step into a tyranny indistinguishable from the one it replaced. Written in 1943-44 as an allegory of the Russian Revolution and the Stalin era, it was refused by several publishers while the Soviet Union was Britain's ally and became Orwell's first great success.",
+  "plot_or_argument": "Old Major, a prize boar, tells the animals of Manor Farm of his dream of a world without men and teaches them the song 'Beasts of England'. After his death the pigs Snowball and Napoleon lead a rising that drives out the farmer Mr Jones; the farm is renamed Animal Farm and governed by the Seven Commandments of Animalism, summed up in 'All animals are equal'. Snowball teaches the animals to read, plans a windmill and leads the defence in the Battle of the Cowshed, but Napoleon, who has reared a litter of puppies in secret, uses them as an armed guard to chase Snowball off the farm and takes sole power. The pig Squealer explains away every privilege the pigs award themselves; the windmill, built by the animals' labour and above all by the devoted cart-horse Boxer, collapses and is blamed on Snowball; animals confess to imaginary plots and are killed by the dogs, and the commandments are secretly rewritten. After the neighbouring farmer Frederick blows up the rebuilt windmill, the worn-out Boxer is sold to the knacker while the pigs buy whisky with the proceeds. Years later the pigs walk on two legs and carry whips, the commandments have become the single maxim 'All animals are equal, but some animals are more equal than others', and the animals watching a card game between the pigs and the neighbouring farmers can no longer tell pig from man.",
+  "narrative_structure": "Ten chapters of plain third-person narrative, moving from the rebellion through Snowball's expulsion, the purges and the building of the windmill to the final scene at the farmhouse window.",
+  "principal_characters": "Old Major; Napoleon; Snowball; Squealer; Boxer; Clover; Benjamin; Mollie; Moses the raven; Mr Jones; Mr Frederick; Mr Pilkington; Mr Whymper",
+  "literary_form": "Novella (beast fable; first edition subtitled 'A Fairy Story')",
+  "meter_and_prosody": "The level, simple sentences of a children's fable, told by an unobtrusive narrator who reports what the animals see and believe; the irony lies in the gap between their understanding and the reader's, and in the slogans ('Four legs good, two legs bad') and commandments that are altered as the story proceeds.",
+  "historical_context": "Written between November 1943 and February 1944, when Britain was allied with the Soviet Union and Stalin was widely admired by the British intelligentsia; Orwell's hostility to Stalinism had been formed by the Communist suppression of the POUM in Barcelona in 1937. The manuscript was refused by several British and American publishers, including Gollancz, and Orwell's unused preface records that one publisher withdrew after consulting the Ministry of Information. By the time it appeared, in August 1945, the wartime alliance was giving way to the Cold War.",
+  "literary_significance": "Animal Farm is the most widely read political fable in English and the book that made Orwell famous: its allegory of the Russian Revolution (Old Major as Marx and Lenin, Napoleon as Stalin, Snowball as Trotsky, Squealer as the official press) gave the age of totalitarianism a form a child can follow, and 'some animals are more equal than others' entered the language. In 'Why I Write' Orwell called it the first book in which he tried, with full consciousness of what he was doing, to fuse political purpose and artistic purpose into one whole; it prepared the way for Nineteen Eighty-Four.",
+  "attribution_notes": "Attribution is secure: the work was published under the author's name, also recorded as Eric Arthur Blair. No competing attribution or spurious edition is recorded for this title. The work is catalogued here as major canon.",
+  "bibliographical_notes": "First published by Secker and Warburg, London, on 17 August 1945 as Animal Farm: A Fairy Story; the American edition of 1946 dropped the subtitle. Orwell's proposed preface, 'The Freedom of the Press', was not printed with it and first appeared in the Times Literary Supplement on 15 September 1972 (recorded in installment 10).",
+  "canonical_status": "Major canon",
+  "research_status": "complete"
  }
 ]

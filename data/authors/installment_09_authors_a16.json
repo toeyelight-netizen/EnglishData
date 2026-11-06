@@ -1,36 +1,5 @@
 [
  {
-  "full_name": "Naomi Mitchison",
-  "alternative_names": [
-   "Naomi Mary Margaret Haldane",
-   "Naomi Mitchison"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1897",
-  "birth_date_approximate": false,
-  "death_date": "1999",
-  "death_date_approximate": false,
-  "birthplace": "Edinburgh, Scotland",
-  "nationality_or_literary_tradition": "Scottish; the historical novelist of The Corn King and the socialist novelist of the thirties",
-  "literary_identity": "Novelist; the author of The Conquered, The Corn King and the Spring Queen and We Have Been Warned.",
-  "biography": "Born Naomi Mary Margaret Haldane at Edinburgh on 1 November 1897, the sister of the biologist J. B. S. Haldane; she married the Labour lawyer Dick Mitchison and published The Conquered (1923), The Corn King and the Spring Queen (1931) and the socialist novel We Have Been Warned (1935). Her long career of the historical and the Scottish novel ran to the end of the century; she died at Tarbert, Argyll, on 11 January 1999.",
-  "literary_profile": "Naomi Mitchison is the historical novelist of the Scottish renaissance and the socialist novelist of the thirties: The Corn King and the Spring Queen made the ancient world of Sparta and the corn king the matter of the modern historical novel, and We Have Been Warned carried the politics of the decade into the novel of the family.",
-  "stylistic_characteristics": "The historical novel of the ancient world in the anthropologist's eye; the corn king and the ritual of the year; the socialist novel of the thirties in the family; the Scottish novel of Argyll; the plain prose of the argument and the rite.",
-  "intellectual_concerns": "The ancient world and the ritual of the year; the conquered and the conqueror; socialism and the politics of the thirties; the family and the woman's work; Argyll and the Scottish west.",
-  "historical_significance": "Naomi Mitchison is the historical novelist of the Scottish renaissance and the socialist novelist of the thirties: The Corn King and the Spring Queen made the ritual of the ancient year the matter of the modern historical novel.",
-  "major_influences": [
-   "the anthropology of Jane Harrison",
-   "D. H. Lawrence",
-   "the socialism of the thirties",
-   "Argyll",
-   "her brother J. B. S. Haldane"
-  ],
-  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1923 and 1935.",
-  "research_status": "complete",
-  "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Bull Calves (1947); The Big House (1925); Travel Light (1952)."
- },
- {
   "full_name": "Teresa Deevy",
   "alternative_names": [
    "Teresa Deevy"
@@ -238,5 +207,34 @@
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Cousin Honoré (1940); The Journal of Mary Hervey (1925)."
+ },
+ {
+  "full_name": "Phyllis Bentley",
+  "alternative_names": [
+   "Phyllis Eleanor Bentley"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1894",
+  "birth_date_approximate": false,
+  "death_date": "1977",
+  "death_date_approximate": false,
+  "birthplace": "Halifax, Yorkshire, England",
+  "nationality_or_literary_tradition": "British; the Yorkshire novelist of Inheritance and the woollen chronicle",
+  "literary_identity": "Novelist; the Yorkshire chronicler of Inheritance and of the woollen families.",
+  "biography": "Born Phyllis Eleanor Bentley at Halifax, Yorkshire, on 19 November 1894, the daughter of a partner in a woollen mill; she taught after war work in munitions and published from 1922 with Gollancz. Inheritance (1932), the chronicle of the Oldroyd family and of the woollen trade across the century, made her the Yorkshire novelist of the industrial family; A Modern Tragedy (1934) and the later Oldroyd books followed; she died at Halifax on 27 June 1977.",
+  "literary_profile": "Phyllis Bentley is the Yorkshire novelist of the woollen chronicle: Inheritance, the saga of the Oldroyd family and of the mill across the nineteenth century, made the industrial family the matter of the regional novel and was the most read of the Yorkshire sagas of the 1930s.",
+  "stylistic_characteristics": "The chronicle of the family and the mill across the generations; the woollen trade and its machinery reported from the partner's daughter's eye; the Halifax of the west riding as the world; the plain narrative sentence of the saga; the industrial town and its owners.",
+  "intellectual_concerns": "The woollen trade and the mill; the industrial family across the generations; Halifax and the west riding; the owner and the hand; the regional saga as the form of the industrial novel.",
+  "historical_significance": "Phyllis Bentley is the Yorkshire novelist of the woollen chronicle: Inheritance, the saga of the Oldroyd family and of the mill, made the industrial family the matter of the regional novel and was the most read of the Yorkshire sagas of the 1930s.",
+  "major_influences": [
+   "the Halifax woollen mill",
+   "the Brontës",
+   "the industrial novel of Gaskell",
+   "the west riding"
+  ],
+  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1928 and 1934.",
+  "research_status": "complete",
+  "significance_tier": "Significant / secondary",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Carr (1929); Trio (1930); Freedom Farewell (1936); The Rise of Henry Morcar (1946); A Man of His Time (1966)."
  }
 ]

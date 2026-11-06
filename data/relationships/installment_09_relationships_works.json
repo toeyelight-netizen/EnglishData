@@ -2489,6 +2489,11 @@
    "work": "The Road to Wigan Pier",
    "author": "George Orwell",
    "contribution_type": "author"
+  },
+  {
+   "work": "Animal Farm",
+   "author": "George Orwell",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -3717,8 +3722,7 @@
   {
    "work": "The Fashion in Shrouds",
    "genres": [
-    "Detective Novel and the Golden Age Mystery",
-    "Comic Novel and the Satire of Manners"
+    "Detective Novel and the Golden Age Mystery"
    ]
   },
   {
@@ -3757,8 +3761,8 @@
   {
    "work": "The Nebuly Coat",
    "genres": [
-    "Ghost Story and the Modern Weird Tale",
-    "Historical Novel and Romance"
+    "Detective Story and the Tale of Detection",
+    "Provincial Novel and the British Rural Chronicle"
    ]
   },
   {
@@ -5841,6 +5845,12 @@
     "Documentary Prose and the Reportage Book",
     "Critical Essay and the Modern Review"
    ]
+  },
+  {
+   "work": "Animal Farm",
+   "genres": [
+    "Dystopian Fiction and the Anti-Utopian Satire"
+   ]
   }
  ],
  "work_themes": [
@@ -7109,10 +7119,10 @@
   {
    "work": "Pastors and Masters",
    "themes": [
-    "Class, the servant problem, and the new democracy",
     "Education, the schools, and the cultivation of the self",
-    "Money, credit, speculation, and the joint-stock imagination",
-    "The absurd, the void, and the failure of meaning"
+    "Art versus life, and the romance of the artist",
+    "Tyranny and the abuse of power",
+    "Sexuality, the new psychology, and the Freudian century"
    ]
   },
   {
@@ -7424,10 +7434,9 @@
   {
    "work": "The Fashion in Shrouds",
    "themes": [
-    "Sexuality, the new psychology, and the Freudian century",
+    "Suffrage, feminism, and the woman's work",
     "Leisure class, the idle rich, and the unearned income",
-    "The woman question, married disability, and the New Woman",
-    "Class, the servant problem, and the new democracy"
+    "The machine, the motor car, and the modern tempo"
    ]
   },
   {
@@ -7478,10 +7487,7 @@
   {
    "work": "The Nebuly Coat",
    "themes": [
-    "Religion, doubt, and the post-war faith",
-    "Dream, intoxication, and the divided mind",
-    "Death, the soul, and the afterlife",
-    "The countryside, the vanishing rural world, and the motor road"
+    "Appearance, dissembling, and self-fashioning"
    ]
   },
   {
@@ -9956,6 +9962,13 @@
     "Class, the servant problem, and the new democracy",
     "The countryside, the vanishing rural world, and the motor road"
    ]
+  },
+  {
+   "work": "Animal Farm",
+   "themes": [
+    "Totalitarianism, propaganda, and the political novel",
+    "Class, the servant problem, and the new democracy"
+   ]
   }
  ],
  "work_movements": [
@@ -10696,12 +10709,6 @@
    "work": "The Three Taps",
    "movements": [
     "The Golden Age of Detective Fiction"
-   ]
-  },
-  {
-   "work": "The Nebuly Coat",
-   "movements": [
-    "The Ghost Story and the Modern Weird Tale"
    ]
   },
   {
@@ -12291,7 +12298,8 @@
     "Burmese Days",
     "Keep the Aspidistra Flying",
     "Coming Up for Air",
-    "The Road to Wigan Pier"
+    "The Road to Wigan Pier",
+    "Animal Farm"
    ]
   }
  ]

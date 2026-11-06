@@ -179,6 +179,46 @@
    "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
    "author": "Albert Murray",
    "contribution_type": "co-author and co-editor"
+  },
+  {
+   "work": "Critical Essays",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "James Burnham and the Managerial Revolution",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The English People",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Nineteen Eighty-Four",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Shooting an Elephant and Other Essays",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Such, Such Were the Joys",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Collected Essays, Journalism and Letters of George Orwell",
+   "author": "George Orwell",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Freedom of the Press",
+   "author": "George Orwell",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -432,6 +472,66 @@
    "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
    "genres": [
     "Collected Letters"
+   ]
+  },
+  {
+   "work": "Critical Essays",
+   "genres": [
+    "Literary Criticism",
+    "Cultural Criticism",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "James Burnham and the Managerial Revolution",
+   "genres": [
+    "Political Essay",
+    "Pamphlet"
+   ]
+  },
+  {
+   "work": "The English People",
+   "genres": [
+    "Social Criticism",
+    "Pamphlet"
+   ]
+  },
+  {
+   "work": "Nineteen Eighty-Four",
+   "genres": [
+    "Dystopian Fiction",
+    "Political Novel",
+    "Satirical Fiction"
+   ]
+  },
+  {
+   "work": "Shooting an Elephant and Other Essays",
+   "genres": [
+    "Literary Essay",
+    "Political Essay",
+    "Personal Essay"
+   ]
+  },
+  {
+   "work": "Such, Such Were the Joys",
+   "genres": [
+    "Memoir",
+    "Personal Essay",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "The Collected Essays, Journalism and Letters of George Orwell",
+   "genres": [
+    "Collected Letters",
+    "Literary Journalism",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "The Freedom of the Press",
+   "genres": [
+    "Political Essay"
    ]
   }
  ],
@@ -708,6 +808,73 @@
     "Race, racism and the struggle for civil rights",
     "Nationhood and national identity"
    ]
+  },
+  {
+   "work": "Critical Essays",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Technology, media and consumer society",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "James Burnham and the Managerial Revolution",
+   "themes": [
+    "Power, the state and surveillance",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "The English People",
+   "themes": [
+    "Nationhood and national identity",
+    "Class, labour and social mobility",
+    "Language, writing and the limits of representation"
+   ]
+  },
+  {
+   "work": "Nineteen Eighty-Four",
+   "themes": [
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Shooting an Elephant and Other Essays",
+   "themes": [
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance",
+    "Decolonisation, the end of empire and the new nation",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Such, Such Were the Joys",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy",
+    "Class, labour and social mobility",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "The Collected Essays, Journalism and Letters of George Orwell",
+   "themes": [
+    "Power, the state and surveillance",
+    "Language, writing and the limits of representation",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "The Freedom of the Press",
+   "themes": [
+    "Power, the state and surveillance",
+    "History, truth and the uses of the past"
+   ]
   }
  ],
  "work_movements": [
@@ -798,7 +965,15 @@
     "The Spyglass Tree",
     "The Seven League Boots",
     "The Blue Devils of Nada: A Contemporary American Approach to Aesthetic Statement",
-    "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray"
+    "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+    "Critical Essays",
+    "James Burnham and the Managerial Revolution",
+    "The English People",
+    "Nineteen Eighty-Four",
+    "Shooting an Elephant and Other Essays",
+    "Such, Such Were the Joys",
+    "The Collected Essays, Journalism and Letters of George Orwell",
+    "The Freedom of the Press"
    ]
   }
  ]

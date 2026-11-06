@@ -498,6 +498,7 @@
     "Condition-of-England Novel and the Edwardian Social Panorama",
     "Critical Essay and the Modern Review",
     "Documentary Prose and the Reportage Book",
+    "Dystopian Fiction and the Anti-Utopian Satire",
     "Novel of Consciousness and the Stream of Mind",
     "Novel of Development and the Growth Story",
     "War Memoir and the Autobiographical Testimony"
@@ -792,7 +793,7 @@
   {
    "author": "John Meade Falkner",
    "genres": [
-    "Ghost Story and the Modern Weird Tale",
+    "Detective Story and the Tale of Detection",
     "Historical Novel and Romance",
     "Provincial Novel and the British Rural Chronicle"
    ]
@@ -2120,9 +2121,7 @@
   },
   {
    "author": "John Meade Falkner",
-   "movements": [
-    "The Ghost Story and the Modern Weird Tale"
-   ]
+   "movements": []
   },
   {
    "author": "John Steinbeck",
@@ -3512,11 +3511,14 @@
   {
    "author": "Ivy Compton-Burnett",
    "themes": [
+    "Art versus life, and the romance of the artist",
     "Class, the servant problem, and the new democracy",
     "Education, the schools, and the cultivation of the self",
     "Money, credit, speculation, and the joint-stock imagination",
+    "Sexuality, the new psychology, and the Freudian century",
     "The absurd, the void, and the failure of meaning",
-    "The woman question, married disability, and the New Woman"
+    "The woman question, married disability, and the New Woman",
+    "Tyranny and the abuse of power"
    ]
   },
   {
@@ -3707,11 +3709,9 @@
   {
    "author": "John Meade Falkner",
    "themes": [
+    "Appearance, dissembling, and self-fashioning",
     "Class, the servant problem, and the new democracy",
-    "Death, the soul, and the afterlife",
-    "Dream, intoxication, and the divided mind",
     "Money, credit, speculation, and the joint-stock imagination",
-    "Religion, doubt, and the post-war faith",
     "Sea voyage and seafaring",
     "The countryside, the vanishing rural world, and the motor road"
    ]
@@ -3894,10 +3894,10 @@
     "Class, the servant problem, and the new democracy",
     "Leisure class, the idle rich, and the unearned income",
     "Money, credit, speculation, and the joint-stock imagination",
-    "Sexuality, the new psychology, and the Freudian century",
+    "Suffrage, feminism, and the woman's work",
     "The absurd, the void, and the failure of meaning",
     "The countryside, the vanishing rural world, and the motor road",
-    "The woman question, married disability, and the New Woman"
+    "The machine, the motor car, and the modern tempo"
    ]
   },
   {
@@ -4762,14 +4762,6 @@
     "Charles Dickens",
     "Robert Louis Stevenson",
     "Henry James"
-   ]
-  },
-  {
-   "author": "Herbert George Wells",
-   "influenced_by": [
-    "Jonathan Swift",
-    "George Bernard Shaw",
-    "Charles Dickens"
    ]
   },
   {
@@ -6276,19 +6268,6 @@
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
     "The Collected Letters of Joseph Conrad",
-    "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
-    "The Oxford Companion to English Literature, 7th edn",
-    "The Oxford Companion to Twentieth-Century Literature in English",
-    "The Oxford Dictionary of National Biography, 60 vols"
-   ]
-  },
-  {
-   "author": "Herbert George Wells",
-   "sources": [
-    "Modernism: A Guide to European Literature 1890–1930",
-    "The Cambridge Companion to Modernism, 2nd edn",
-    "The Cambridge Companion to the Modernist Novel",
-    "The Cambridge History of Twentieth-Century English Literature",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
@@ -8754,10 +8733,16 @@
   {
    "author": "George Orwell",
    "sources": [
+    "Darcy Moore, Orwell Collection (collector's list of first editions)",
+    "George Orwell Bibliography: Most referenced collections (orwell.ru)",
+    "George Orwell bibliography (Wikipedia)",
+    "George Orwell published: list of works (orwell.ru)",
     "Modernism: A Guide to European Literature 1890–1930",
+    "Shooting an elephant, and other essays (WorldCat record, OCLC 2552523)",
     "The Cambridge Companion to Modernism, 2nd edn",
     "The Cambridge Companion to the Modernist Novel",
     "The Cambridge History of Twentieth-Century English Literature",
+    "The Freedom of the Press (The Orwell Foundation)",
     "The Norton Anthology of English Literature, Vol. F: The Twentieth and Twenty-First Centuries, 11th edn",
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",

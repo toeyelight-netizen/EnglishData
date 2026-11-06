@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–04, giving **851 authors / 2875 works** across ten periods (c. 450–2000).
+  waves 01–05, giving **851 authors / 2884 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Four research waves are built; see
+  **Installment 10 is in progress.** Five research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1501,15 +1501,17 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
      - *A Sheaf Gleaned* takes its metre text from Idyll.
      - *Invictus* and *The Black Riders* carry only Dramatic Monologue.
      - *The Amateur Poacher* could add Nature Essay.
-   - H. G. Wells has an author record in both installments. The database keeps
-     one row (author 603), written from whichever record is imported last.
+   - *Resolved 2026-11-06:* H. G. Wells had an author record in both
+     installments, and the database kept whichever was imported last. The two
+     are merged into one installment 8 record, and the build now refuses to let
+     a later installment redefine an earlier author (see *Installment 10*).
    - Code: `scripts/content_enrich.py` still contains dead duplicate
      definitions of `compose_structure` and `compose_description_extra` (only
      the last of each is live).
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–04 are built (4 authors, 35 works). Not complete.**
+**Status: in progress. Waves 01–05 are built (43 works by 5 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1570,6 +1572,27 @@ with broader Anglophone writing out of scope.
   `documentation/INSTALLMENT_10_AUDIT_REPORT.md` from the actual records. The
   report's method, corrections, limitations and stopping-point text comes from
   `research/installment_10/report_notes.md`.
+- **One record per author.** The importer upserts authors by name, so an author
+  defined by two installments is silently overwritten by the later one. The
+  build therefore reads every installment's built JSON and blocks a name that
+  an earlier installment defines (the old guard, based on the database, could
+  not see the 433 authors graded by installments 8–9). An earlier author's
+  1946–2000 works are linked to the existing record, and installment 10's
+  bibliography statement for that author lives in
+  `scripts/content/i10_extensions.py`. It is merged into the defining record
+  when that installment is built (order: 08, 09, 10, then import), and the
+  installment 10 build checks that each extension is valid and already merged.
+  Tests: `tests/test_extensions_i10.py`.
+- **Stale rows.** The importer never deletes, so correcting a work's
+  composition date leaves the old row behind. `scripts/check_duplicates.py` now
+  lists every row that no installment file defines; after such corrections the
+  database is rebuilt from the JSON.
+- **App export.** Since installment 7, `scripts/export_app_data.py` had read
+  the owner column of each link table. The app therefore showed each work and
+  author with unrelated genres, themes, movements and sources, and every author
+  as influenced by himself; the database was never affected. This was fixed on
+  2026-11-06 and the asset regenerated. Audit 7 now compares the asset with the
+  database record by record, and `tests/test_export_app_data.py` covers the fix.
 
 **Waves.** Each wave is built, imported and audited before the next starts.
 - **Wave 01 (pilot):** Ralph Ellison, seven works. They include *Trading Twelves*
@@ -1582,19 +1605,48 @@ with broader Anglophone writing out of scope.
 - **Wave 04:** Albert Murray, nine works under his own name: essays, the first
   three Scooter novels, jazz writing, and Count Basie's autobiography, with
   Murray as as-told-to collaborator.
+- **Wave 05:** George Orwell, eight works of 1946–1972 (*Critical Essays*, the
+  Burnham pamphlet, *The English People*, *Nineteen Eighty-Four*, *Shooting an
+  Elephant*, *Such, Such Were the Joys*, the *Collected Essays, Journalism and
+  Letters* and *The Freedom of the Press*), linked to his installment 9 record,
+  which now carries a whole-career bibliography statement. *Animal Farm* (1945)
+  was added to installment 9, where it had been missing.
 
 None of the wave 02–04 authors was in the discovery inventory. This is evidence
 that the inventory under-represents poetry, drama and criticism; see the
 limitations in the audit report.
+
+**Corrections to installments 8–9 (2026-11-06).** Found while building wave 05;
+each is listed with its source in section 13 of the audit report.
+- **Wells:** the duplicate record merged, his parentage corrected, and his
+  composed text made true of both installments.
+- **Bibliography headings:** 343 author notes had listed recorded works as
+  having no record (876 titles). The build now filters them out, and four
+  same-work items were removed by hand.
+- **Fuller:** *These Sad but Glorious Days* corrected. The complete edition is
+  dated 1991, the composition start is 1846, and unsupported claims were
+  removed.
+- **Invented plots:** three installment 9 records had them and were rewritten
+  from sources: *Pastors and Masters* (also redated 1941 → 1925), *The Nebuly
+  Coat* and *The Fashion in Shrouds*.
+- **Text defects:**
+  - 42 installment 8 historical contexts began "The 1837, …";
+  - 157 composed bibliographical notes had lowercased the names inside a work's
+    form.
+
+Finding invented plots incidentally means more are likely. A record-by-record
+plot check of installments 8–9 is outstanding.
 
 **Stopping point.** The ordered list of outstanding tasks is in
 `research/installment_10/report_notes.md`:
 1. compile the poetry, drama and Commonwealth inventories (the Booker list is
    done);
 2. build waves by decade × tradition × genre;
-3. add post-war works for authors already in the database, once the method for
-   extending their records is settled (Orwell first);
-4. run Audits 3 and 8 and regenerate the report.
+3. add the post-war works of other authors already in the database through
+   extensions (the method is settled; Orwell is done);
+4. add Orwell's four missing books to installment 9 and run the plot check of
+   installments 8–9;
+5. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
 |---|---|---|
@@ -1606,5 +1658,5 @@ limitations in the audit report.
 | 6 | Eighteenth Century and Augustan (1700–1789) | Complete |
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
-| 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (197 authors, 498 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–04: 4 authors, 35 works) |
+| 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 499 works) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–05: 43 works by 5 authors) |

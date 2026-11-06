@@ -81,7 +81,7 @@ MAP_B9 = {
         ['Class, the servant problem, and the new democracy', 'Leisure class, the idle rich, and the unearned income', 'The metropolis, the crowd, and the imperial capital', 'Money, credit, speculation, and the joint-stock imagination'],
         ['The Golden Age of Detective Fiction']),
     'The Fashion in Shrouds': (['Margery Allingham'],
-        ['Detective Novel and the Golden Age Mystery', 'Comic Novel and the Satire of Manners'],
-        ['Sexuality, the new psychology, and the Freudian century', 'Leisure class, the idle rich, and the unearned income', 'The woman question, married disability, and the New Woman', 'Class, the servant problem, and the new democracy'],
+        ['Detective Novel and the Golden Age Mystery'],
+        ["Suffrage, feminism, and the woman's work", 'Leisure class, the idle rich, and the unearned income', 'The machine, the motor car, and the modern tempo'],
         ['The Golden Age of Detective Fiction']),
 }

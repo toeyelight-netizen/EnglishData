@@ -1,36 +1,5 @@
 [
  {
-  "full_name": "Anna Wickham",
-  "alternative_names": [
-   "Edith Alice Mary Harper",
-   "Anna Wickham (poet)"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1883",
-  "birth_date_approximate": false,
-  "death_date": "1947",
-  "death_date_approximate": false,
-  "birthplace": "Wimbledon, London, England",
-  "nationality_or_literary_tradition": "British-Australian; the woman's poem and the rebellious lyric",
-  "literary_identity": "Poet; one of the most original English woman poets of the period and a pioneer of the poetry of female rebellion.",
-  "biography": "Born Edith Alice Mary Harper in Wimbledon on 21 April 1883; she grew up in Australia, married the solicitor Patrick Hepburn in 1906, and published The Contemplative Quarry (1915) and The Man with a Hammer (1916). She was a friend of D. H. Lawrence, was institutionalised more than once, and died in London on 30 April 1947.",
-  "literary_profile": "Anna Wickham was one of the most original English woman poets of the period and a pioneer of the poetry of female rebellion: her lyrics of marriage, motherhood and the woman's rage made her the first English poet to write the woman's life without apology, and her influence on later feminist poetry is direct.",
-  "stylistic_characteristics": "The short lyric of the woman's anger; the image of the house and the garden; the ironic address to the husband; the irregular rhyme and the colloquial line; the direct, plain, unsentimental diction.",
-  "intellectual_concerns": "The woman question, married disability, and the New Woman; sexuality, the new psychology; the suburb, the villa, and the new domesticity; madness, the asylum, and the diagnosis of the will.",
-  "historical_significance": "Anna Wickham was one of the most original English woman poets of the period and a pioneer of the poetry of female rebellion: her lyrics of marriage and motherhood made her the first English poet to write the woman's life without apology, and her influence on later feminist poetry is direct.",
-  "major_influences": [
-   "D. H. Lawrence",
-   "William Blake",
-   "Walt Whitman",
-   "Emily Dickinson",
-   "Robert Browning"
-  ],
-  "biographical_uncertainty": "6 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
-  "research_status": "complete",
-  "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Contemplative Quarry (1915); The Man with a Hammer (1916); The Little Old House (1921); Thirty-Six New Poems (1936); Anna Wickham: The Writings (1984, posthumous); Selected Poems (2003, posthumous)."
- },
- {
   "full_name": "T. E. Hulme",
   "alternative_names": [
    "Thomas Ernest Hulme",
@@ -56,10 +25,10 @@
    "Thomas Aquinas",
    "Georg Wilhelm Friedrich Hegel"
   ],
-  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "4 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems (1912, in the New Age); Speculations (1924, posthumous); Notes on Language and Style (1929, posthumous); Further Speculations (1955, posthumous); T. E. Hulme: The Collected Writings (1998, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems (1912, in the New Age); Notes on Language and Style (1929, posthumous); Further Speculations (1955, posthumous); T. E. Hulme: The Collected Writings (1998, posthumous)."
  },
  {
   "full_name": "John Steinbeck",
@@ -87,10 +56,10 @@
    "William Faulkner",
    "The Bible"
   ],
-  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1937 and 1945.",
+  "biographical_uncertainty": "16 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1937 and 1945.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Cup of Gold (1929); The Pastures of Heaven (1932); To a God Unknown (1933); Tortilla Flat (1935); In Dubious Battle (1936); Of Mice and Men (1937); The Long Valley (1938); The Grapes of Wrath (1939); The Forgotten Village (1941); Sea of Cortez (1941); The Moon Is Down (1942); Cannery Row (1945); The Wayward Bus (1947); Burning Bright (1950); East of Eden (1952); Sweet Thursday (1954); The Short Reign of Pippin IV (1957); The Winter of Our Discontent (1961); Travels with Charley (1962)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Cup of Gold (1929); The Pastures of Heaven (1932); To a God Unknown (1933); Tortilla Flat (1935); In Dubious Battle (1936); The Long Valley (1938); The Forgotten Village (1941); Sea of Cortez (1941); The Moon Is Down (1942); The Wayward Bus (1947); Burning Bright (1950); East of Eden (1952); Sweet Thursday (1954); The Short Reign of Pippin IV (1957); The Winter of Our Discontent (1961); Travels with Charley (1962)."
  },
  {
   "full_name": "Willa Cather",
@@ -118,10 +87,10 @@
    "Nathaniel Hawthorne",
    "Virgil"
   ],
-  "biographical_uncertainty": "16 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1913 and 1927.",
+  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1913 and 1927.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Alexander's Bridge (1912); O Pioneers! (1913); The Song of the Lark (1915); My Antonia (1918); Youth and the Bright Medusa (1920); One of Ours (1922); A Lost Lady (1923); The Professor's House (1925); My Mortal Enemy (1926); Death Comes for the Archbishop (1927); Shadows on the Rock (1931); Obscure Destinies (1932); Lucy Gayheart (1935); Not Under Forty (1936); Sapphira and the Slave Girl (1940); The Old Beauty and Others (1948)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Alexander's Bridge (1912); The Song of the Lark (1915); Youth and the Bright Medusa (1920); One of Ours (1922); A Lost Lady (1923); The Professor's House (1925); My Mortal Enemy (1926); Shadows on the Rock (1931); Obscure Destinies (1932); Lucy Gayheart (1935); Not Under Forty (1936); Sapphira and the Slave Girl (1940); The Old Beauty and Others (1948)."
  },
  {
   "full_name": "Sinclair Lewis",
@@ -149,10 +118,10 @@
    "H. G. Wells",
    "Thorstein Veblen"
   ],
-  "biographical_uncertainty": "21 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1920 and 1925.",
+  "biographical_uncertainty": "18 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1920 and 1925.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Our Mr Wrenn (1914); The Trail of the Hawk (1915); The Job (1917); Free Air (1919); Main Street (1920); Babbitt (1922); Arrowsmith (1925); Mantrap (1926); Elmer Gantry (1927); The Man Who Knew Coolidge (1928); Dodsworth (1929); Ann Vickers (1933); Work of Art (1934); It Can't Happen Here (1935); The Prodigal Parents (1938); Bethel Merriday (1940); Gideon Planish (1943); Cass Timberlane (1945); Kingsblood Royal (1947); The God-Seeker (1949); World So Wide (1951)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Our Mr Wrenn (1914); The Trail of the Hawk (1915); The Job (1917); Free Air (1919); Mantrap (1926); Elmer Gantry (1927); The Man Who Knew Coolidge (1928); Dodsworth (1929); Ann Vickers (1933); Work of Art (1934); It Can't Happen Here (1935); The Prodigal Parents (1938); Bethel Merriday (1940); Gideon Planish (1943); Cass Timberlane (1945); Kingsblood Royal (1947); The God-Seeker (1949); World So Wide (1951)."
  },
  {
   "full_name": "Eugene O'Neill",
@@ -180,10 +149,10 @@
    "Ernest Hemingway",
    "Sigmund Freud"
   ],
-  "biographical_uncertainty": "17 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1920 and 1932.",
+  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1920 and 1932.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Thirst and Other One Act Plays (1914); Before Breakfast (1916); The Moon of the Caribbees (1918); Beyond the Horizon (1920); The Emperor Jones (1920); Anna Christie (1921); The Hairy Ape (1922); Desire Under the Elms (1924); The Great God Brown (1926); Strange Interlude (1928); Dynamo (1929); Mourning Becomes Electra (1931); Ah, Wilderness! (1933); Days Without End (1934); The Iceman Cometh (1946); Long Day's Journey into Night (1956); A Moon for the Misbegotten (1952)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Thirst and Other One Act Plays (1914); Before Breakfast (1916); The Moon of the Caribbees (1918); Anna Christie (1921); The Hairy Ape (1922); The Great God Brown (1926); Strange Interlude (1928); Dynamo (1929); Ah, Wilderness! (1933); Days Without End (1934); The Iceman Cometh (1946); Long Day's Journey into Night (1956); A Moon for the Misbegotten (1952)."
  },
  {
   "full_name": "Thornton Wilder",
@@ -211,10 +180,10 @@
    "Dante Alighieri",
    "Gertrude Stein"
   ],
-  "biographical_uncertainty": "11 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1927 and 1938.",
+  "biographical_uncertainty": "9 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1927 and 1938.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Cabala (1926); The Bridge of San Luis Rey (1927); The Woman of Andros (1930); Heaven's My Destination (1935); Our Town (1938); The Merchant of Yonkers (1938); The Skin of Our Teeth (1942); The Ides of March (1948); The Matchmaker (1954); The Eighth Day (1967); Theophilus North (1973)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Cabala (1926); The Woman of Andros (1930); Heaven's My Destination (1935); The Merchant of Yonkers (1938); The Skin of Our Teeth (1942); The Ides of March (1948); The Matchmaker (1954); The Eighth Day (1967); Theophilus North (1973)."
  },
  {
   "full_name": "Nathanael West",
@@ -242,9 +211,40 @@
    "Honore de Balzac",
    "Oswald Spengler"
   ],
-  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1933 and 1939.",
+  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1933 and 1939.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Dream Life of Balso Snell (1931); Miss Lonelyhearts (1933); A Cool Million (1934); The Day of the Locust (1939); The Complete Works of Nathanael West (1957, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Dream Life of Balso Snell (1931); A Cool Million (1934); The Complete Works of Nathanael West (1957, posthumous)."
+ },
+ {
+  "full_name": "Dashiell Hammett",
+  "alternative_names": [
+   "Samuel Dashiell Hammett",
+   "D. Hammett"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1894",
+  "birth_date_approximate": false,
+  "death_date": "1961",
+  "death_date_approximate": false,
+  "birthplace": "St Mary's County, Maryland, United States",
+  "nationality_or_literary_tradition": "American; the hard-boiled detective novel",
+  "literary_identity": "Writer of detective fiction; the founder of the hard-boiled school and the author of The Maltese Falcon.",
+  "biography": "Born Samuel Dashiell Hammett in St Mary's County, Maryland, on 27 May 1894; he worked as a Pinkerton detective from 1915 to 1922, and drew on the experience for Red Harvest (1929), The Dain Curse (1929), The Maltese Falcon (1930), The Glass Key (1931) and The Thin Man (1934). He was blacklisted and imprisoned in the 1950s and died in New York on 10 January 1961.",
+  "literary_profile": "Dashiell Hammett founded the hard-boiled detective novel and is the central figure of American crime fiction: Red Harvest, The Maltese Falcon and The Thin Man created the private eye, the corrupt city and the dialogue that made the American crime novel a serious literary form.",
+  "stylistic_characteristics": "The first-person narration of the private eye; the clipped, laconic dialogue; the corrupt city and the double cross; the violence sudden and unexplained; the moral code of the outsider.",
+  "intellectual_concerns": "The American city, the machine, and the moneyed metropolis; money, credit, speculation, and the joint-stock imagination; mass society, the crowd, and the individual talent; the absurd, the void.",
+  "historical_significance": "Dashiell Hammett founded the hard-boiled detective novel and is the central figure of American crime fiction: Red Harvest, The Maltese Falcon and The Thin Man created the private eye and the corrupt city, and made the American crime novel a serious literary form.",
+  "major_influences": [
+   "Ernest Hemingway",
+   "Joseph Conrad",
+   "Ring Lardner",
+   "Sherwood Anderson",
+   "Mark Twain"
+  ],
+  "biographical_uncertainty": "8 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Red Harvest (1929); The Dain Curse (1929); The Glass Key (1931); The Thin Man (1934); The Adventures of Sam Spade (1944, stories); The Continental Op (1945, stories); Nightmare Town (1948, stories); Woman in the Dark (1933, serial)."
  }
 ]

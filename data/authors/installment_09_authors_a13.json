@@ -1,36 +1,5 @@
 [
  {
-  "full_name": "F. R. Leavis",
-  "alternative_names": [
-   "Frank Raymond Leavis",
-   "F.R. Leavis"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1895",
-  "birth_date_approximate": false,
-  "death_date": "1978",
-  "death_date_approximate": false,
-  "birthplace": "Cambridge, England",
-  "nationality_or_literary_tradition": "British; the critic of the great tradition and the founder of the Cambridge school",
-  "literary_identity": "Critic; the editor of Scrutiny and the author of The Great Tradition and Revaluation.",
-  "biography": "Born Frank Raymond Leavis at Cambridge on 14 July 1895; he served in the war, took his degree at Cambridge and taught there, founding the journal Scrutiny in 1932. Mass Civilisation and Minority Culture (1930), New Bearings in English Poetry (1932) and Revaluation (1936) made him the most feared critic in England, and The Great Tradition (1948) fixed the canon of the English novel. He held the readership at Cambridge until 1962 and died there on 14 April 1978.",
-  "literary_profile": "F. R. Leavis is the most influential English critic of the twentieth century: the polemic of Mass Civilisation and Minority Culture made the defence of the minority culture the task of criticism, New Bearings in English Poetry revalued the modern poets, Revaluation and The Great Tradition fixed the canons of the verse and the novel, and the school of Scrutiny trained the teachers of English for a generation.",
-  "stylistic_characteristics": "The polemical sentence of the moral urgency; the quotation examined word by word in the argument; the verdict delivered as a definition; the rejection of the historical and the sociological in favour of the valuation; the canon as the instrument of the discipline.",
-  "intellectual_concerns": "The minority culture against the mass civilisation; the valuation and the canon; the great tradition of the English novel from Austen to James; the revaluation of the English poets; the discipline of English as a defence of the civilisation; the war and the loss of the organic community.",
-  "historical_significance": "F. R. Leavis is the most influential English critic of the twentieth century: Mass Civilisation and Minority Culture made the defence of the minority culture the task of criticism, Revaluation and The Great Tradition fixed the canons of the verse and the novel, and the school of Scrutiny trained the teachers of English for a generation.",
-  "major_influences": [
-   "T. S. Eliot",
-   "I. A. Richards",
-   "Matthew Arnold",
-   "Henry James",
-   "D. H. Lawrence"
-  ],
-  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1944.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Great Tradition (1948); The Common Pursuit (1952); D. H. Lawrence: Novelist (1955); The Living Principle (1975); Nor Shall My Sword (1972)."
- },
- {
   "full_name": "Q. D. Leavis",
   "alternative_names": [
    "Q. D. Leavis",
@@ -249,5 +218,35 @@
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Collected Tales (1948); collected verse from 1927."
+ },
+ {
+  "full_name": "Henry Williamson",
+  "alternative_names": [
+   "Henry William Williamson"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1895",
+  "birth_date_approximate": false,
+  "death_date": "1977",
+  "death_date_approximate": false,
+  "birthplace": "Bishopstoke, Hampshire, England",
+  "nationality_or_literary_tradition": "British; the nature writer of Tarka and the war memoir of Flanders",
+  "literary_identity": "Novelist and nature writer; the author of Tarka the Otter and The Wet Flanders Plain.",
+  "biography": "Born Henry William Williamson at Bishopstoke, Hampshire, on 1 December 1895; he served on the Western Front and the nature books that followed - The Lone Swallows (1922), Tarka the Otter (1927), The Wet Flanders Plain (1929), Salar the Salmon (1935) - made him the greatest English nature writer of the century. The fifteen volumes of A Chronicle of Ancient Sunlight followed from 1951; he died at Georgeham, Devon, on 13 August 1977.",
+  "literary_profile": "Henry Williamson is the greatest English nature writer of the twentieth century: Tarka the Otter made the life of a single animal the matter of the epic, The Wet Flanders Plain is the war memoir of the drowned battlefield, and the nature books of the 1920s and 1930s set the standard of the prose of the wild creature.",
+  "stylistic_characteristics": "The prose of the wild creature followed hour by hour and season by season; the river, the mere and the coast of the west country and of East Anglia; the war memoir of the drowned plain; the sentence of the naturalist's exactness charged with the elegiac; the chronicle of a life against the century.",
+  "intellectual_concerns": "The wild creature and its water; the war and the drowned plain of Flanders; the sun and the ancient light of the chronicle; the country of Devon and Norfolk as the world entire; the quarrel between the nature writer and the politics of the century.",
+  "historical_significance": "Henry Williamson is the greatest English nature writer of the twentieth century: Tarka the Otter made the life of a single animal the matter of the epic, and The Wet Flanders Plain is the war memoir of the drowned battlefield.",
+  "major_influences": [
+   "Richard Jefferies",
+   "W. H. Hudson",
+   "Gilbert White",
+   "the war in Flanders",
+   "Thomas Hardy"
+  ],
+  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1922 and 1935.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Old Stag (1926); The Linhay on the Downs (1924); A Chronicle of Ancient Sunlight (1951-69, fifteen volumes)."
  }
 ]

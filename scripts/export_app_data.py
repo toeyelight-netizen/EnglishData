@@ -106,6 +106,22 @@ def work_dates(record):
     return str(start or end or "")
 
 
+def linked_ids(session, table, id_column, id_value):
+    """Ids linked to one owner through a two-column link table.
+
+    Every link table holds the owner (``work_id`` or ``author_id``) and the
+    target (``genre_id``, ``influenced_by_author_id`` ...); this returns the
+    target column. Until 2026-11-06 the export took the first column, which is
+    the owner's own id, so each work and author was exported with whatever
+    genre, theme, movement or source happened to share its id (or with none),
+    and every author as influenced by himself.
+    """
+    (target,) = [c for c in table.c if c.name != id_column]
+    return [r[0] for r in session.execute(
+        table.select().with_only_columns(target).where(table.c[id_column] == id_value)
+    ).fetchall()]
+
+
 def main() -> int:
     session = get_session()
     try:
@@ -136,9 +152,7 @@ def main() -> int:
             return sorted({index[r] for r in rows if r in index})
 
         def link_rows(table, id_column, id_value):
-            return [r[0] for r in session.execute(
-                table.select().where(table.c[id_column] == id_value)
-            ).fetchall()]
+            return linked_ids(session, table, id_column, id_value)
 
         # work -> linked author rows
         work_authors = session.query(WorkAuthor).all()

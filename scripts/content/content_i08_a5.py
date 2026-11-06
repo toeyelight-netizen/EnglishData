@@ -59,8 +59,7 @@ A("Margaret Fuller", SEC, "1810", "1850", "Cambridgeport, Massachusetts, United 
   also=["Introduction to the Dial (1840-42)",
         "Summer on the Lakes, in 1843 (1844)", "Woman in the Nineteenth Century (1845)",
         "Papers on Literature and Art (1846)", "Memoirs of Margaret Fuller Ossoli (1852, posthumous)",
-        "At Home and Abroad (1856, posthumous)", "Life Without and Life Within (1859, posthumous)",
-        "These Sad but Glorious Days: Dispatches from Europe, 1846-1850 (1992, posthumous)"]),
+        "At Home and Abroad (1856, posthumous)", "Life Without and Life Within (1859, posthumous)"]),
 
 A("Nathaniel Hawthorne", MAJ, "1804", "1864", "Salem, Massachusetts, United States",
   "American; the romance, the tale and the literature of the Puritan past",

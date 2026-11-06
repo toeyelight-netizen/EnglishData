@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from installment_toolkit import (  # noqa: E402
-    AUTHORSHIP_STATUS, CANONICAL_STATUS, DATE_FIELDS, RESEARCH_STATUS, WORK_KEYS,
+    AUTHORSHIP_STATUS, CANONICAL_STATUS, DATE_FIELDS, RESEARCH_STATUS, WORK_KEYS, author_owners,
     year_num,
 )
 
@@ -133,6 +133,14 @@ def main():
                 problems.append("author %r missing %s" % (a["full_name"], k))
         if a["full_name"] not in graded and a["full_name"] in all_authors:
             problems.append("author %r predates this installment" % a["full_name"])
+    # One definition per author: the importer upserts by name in installment
+    # order, so a second definition silently overwrites the first.
+    owners = author_owners()
+    for a in authors:
+        others = sorted(owners.get(a["full_name"], set()) - {num})
+        if others:
+            problems.append("author %r is also defined by installment %s"
+                            % (a["full_name"], ", ".join(others)))
 
     print("installment %s: %d authors, %d works, %d map entries"
           % (num, len(authors), len(works), len(maps)))

@@ -76,4 +76,8 @@ MAP_B25 = {
         ['Documentary Prose and the Reportage Book', 'Critical Essay and the Modern Review'],
         ['The Depression, unemployment, and the hunger march', 'Class, the servant problem, and the new democracy', 'The countryside, the vanishing rural world, and the motor road'],
         ['The Hungry Thirties and the Documentary Novel']),
+    'Animal Farm': (['George Orwell'],
+        ['Dystopian Fiction and the Anti-Utopian Satire'],
+        ['Totalitarianism, propaganda, and the political novel', 'Class, the servant problem, and the new democracy'],
+        []),
 }

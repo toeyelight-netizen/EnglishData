@@ -23,9 +23,11 @@ Usage:
 """
 
 import argparse
+import glob
 import importlib
 import json
 import os
+import re
 import sqlite3
 import sys
 
@@ -35,7 +37,7 @@ sys.path.insert(0, os.path.join(PROJECT_ROOT, "scripts"))
 
 from installment_toolkit import (  # noqa: E402
     AUTHOR_KEYS, CANONICAL_STATUS, OPTIONAL_AUTHOR_AUDIT_KEYS, OPTIONAL_AUTHOR_KEYS, RESEARCH_STATUS,
-    SIGNIFICANCE_TIERS, WORK_KEYS,
+    SIGNIFICANCE_TIERS, WORK_KEYS, author_owners, authors_for,
 )
 
 DB_PATH = "database/English_Literature_Master.db"
@@ -118,7 +120,52 @@ def work_record(w):
     return record
 
 
-def author_record(a):
+def _bib_key(title):
+    """(normalised title, year) for matching bibliography items to work records:
+    a trailing parenthesis (year, venue) and any subtitle are dropped, a leading
+    article is ignored, punctuation is removed."""
+    year = re.search(r"\((\d{4})", title or "")
+    text = re.sub(r"\s*\([^)]*\)\s*$", "", title or "").split(":")[0].lower()
+    text = re.sub(r"^(the|a|an)\s+", "", text.strip())
+    return re.sub(r"[^a-z0-9 ]", "", text).strip(), (int(year.group(1)) if year else None)
+
+
+def recorded_works(works):
+    """Author name -> [(normalised title, year)] for every work record: this
+    build's own works plus every installment's built JSON."""
+    out = {}
+    def add(author, title, year):
+        out.setdefault(author, []).append((_bib_key(title)[0], year))
+    for w in works:
+        y = re.search(r"\d{4}", str(w.get("pub") or ""))
+        for name in [w["author"]] + list(w.get("coauthors") or []):
+            add(name, w["title"], int(y.group(0)) if y else None)
+    years = {}
+    for path in glob.glob(os.path.join("data", "works", "installment_*_works*.json")):
+        payload = json.load(open(path, encoding="utf-8"))
+        for r in (payload.get("works", []) if isinstance(payload, dict) else payload):
+            y = re.search(r"\d{4}", str(r.get("publication_date") or ""))
+            years.setdefault(r["title"], set()).add(int(y.group(0)) if y else None)
+    for path in glob.glob(os.path.join("data", "relationships", "installment_*_relationships_works.json")):
+        for row in json.load(open(path, encoding="utf-8")).get("work_authors", []):
+            for y in years.get(row["work"], {None}):
+                add(row["author"], row["work"], y)
+    return out
+
+
+def unrecorded(items, recorded):
+    """The bibliography items that have no work record of their own (same
+    normalised title and, where both are dated, a year within one)."""
+    keep = []
+    for item in items:
+        title, year = _bib_key(item)
+        if not any(t == title and (year is None or y is None or abs(year - y) <= 1)
+                   for t, y in recorded):
+            keep.append(item)
+    return keep
+
+
+def author_record(a, recorded=None):
     rec = {
         "full_name": a["name"],
         "alternative_names": list(a.get("alt") or []),
@@ -147,14 +194,103 @@ def author_record(a):
         # Installment 10: an authored statement of bibliographic coverage.
         rec["bibliographical_notes"] = a["biblio_note"]
     elif a.get("also"):
-        rec["bibliographical_notes"] = (
-            "Other documented writings, recorded here because no separate work "
-            "record with a verifiable description can be supported: "
-            + "; ".join(a["also"]) + ".")
+        # The heading says these titles have no work record of their own, so any
+        # title that does have one (in any installment) is left out of the list:
+        # 343 author notes in installments 8-9 had named 876 recorded works
+        # under this heading before the filter was added.
+        others = unrecorded(a["also"], (recorded or {}).get(a["name"], []))
+        if others:
+            rec["bibliographical_notes"] = (
+                "Other documented writings, recorded here because no separate work "
+                "record with a verifiable description can be supported: "
+                + "; ".join(others) + ".")
     for key in OPTIONAL_AUTHOR_AUDIT_KEYS:
         if a.get(key):
             rec[key] = a[key]
     return rec
+
+
+
+# ------------------------------------------------- cross-installment authors
+def load_extensions():
+    """Installment-10 extensions of authors defined by earlier installments.
+
+    ``scripts/content/i10_extensions.py`` holds, for each such author with
+    works in 1946-2000, the authored statement of bibliographic coverage (now
+    spanning the whole career), its status, the verification status and the
+    sources consulted. The author keeps the single record defined by the
+    installment that first recorded them: the extension is merged into that
+    record when that installment is built, so no installment's JSON goes stale
+    and no second author record is ever written.
+    """
+    try:
+        mod = importlib.import_module("i10_extensions")
+    except ModuleNotFoundError:
+        return {}
+    out = {}
+    for ext in getattr(mod, "EXTENSIONS", []):
+        if ext["name"] in out:
+            raise SystemExit("duplicate installment-10 extension for %r" % ext["name"])
+        out[ext["name"]] = ext
+    return out
+
+
+def merge_extension(author, ext):
+    """Merge an installment-10 extension into the author dict that defines the record."""
+    author["biblio_note"] = ext["biblio_note"]
+    author["bibliography_status"] = ext["bibliography_status"]
+    author["verification_status"] = ext["verification_status"]
+    author["sources"] = list(dict.fromkeys(list(author.get("sources") or []) + list(ext["sources"])))
+    return author
+
+
+def redefined_authors(names, num, owners):
+    """Names this installment defines that an EARLIER installment's built JSON defines.
+
+    Only earlier owners block the build: the importer upserts authors in
+    installment order, so it is the later definition that silently overwrites
+    the earlier one. A later installment whose JSON still defines the name (for
+    instance before it has been rebuilt after a duplicate was merged into this
+    one) is reported by ``check_installment.py``, which looks both ways; not
+    blocking here is what allows the earlier installment to be rebuilt first.
+    """
+    out = {}
+    for n in names:
+        earlier = sorted(o for o in owners.get(n, set()) if int(o) < int(num))
+        if earlier:
+            out[n] = earlier
+    return out
+
+
+def extension_problems(extensions, num, names, works, owners, known_sources):
+    """Validate the installment-10 extensions while building installment 10."""
+    problems = []
+    for n, ext in sorted(extensions.items()):
+        defined_by = sorted(owners.get(n, set()) - {num})
+        if n in names:
+            problems.append("extension %r names an author defined by installment %s itself" % (n, num))
+        if not defined_by:
+            problems.append("extension %r: no earlier installment defines this author" % n)
+            continue
+        if not any(w["author"] == n or n in (w.get("coauthors") or []) for w in works):
+            problems.append("extension %r: the author has no installment-%s work" % (n, num))
+        if len((ext.get("biblio_note") or "").strip()) < 200:
+            problems.append("extension %r: bibliography statement missing or shorter than 200 characters" % n)
+        if ext.get("verification_status") in ("verified", "partially verified") and not ext.get("sources"):
+            problems.append("extension %r: marked %s but cites no source" % (n, ext["verification_status"]))
+        for s in ext.get("sources") or []:
+            if s not in known_sources:
+                problems.append("extension %r cites unknown source %r" % (n, s))
+        # The statement reaches the database through the defining installment's
+        # JSON, so that installment must have been rebuilt since the last edit.
+        built = [r for r in authors_for(defined_by[0]) if r["full_name"] == n]
+        if not built or any(built[0].get(k) != v for k, v in (
+                ("bibliographical_notes", ext["biblio_note"]),
+                ("bibliography_status", ext["bibliography_status"]),
+                ("verification_status", ext["verification_status"]))):
+            problems.append("extension %r is not merged yet: rebuild installment %s, then this one"
+                            % (n, defined_by[0]))
+    return problems
 
 
 def main():
@@ -180,6 +316,11 @@ def main():
         works.extend(getattr(part, "WORKS", []))
     if not authors or not works:
         raise SystemExit("no content for installment %s" % num)
+    extensions = load_extensions()
+    if int(num) < 10:
+        for a in authors:
+            if a["name"] in extensions:
+                merge_extension(a, extensions[a["name"]])
 
     problems = []
     tax = installment_taxonomy(num)
@@ -202,6 +343,14 @@ def main():
         con.close()
     for n in sorted(set(names) & (corpus_authors - graded)):
         problems.append("author already in database: %r" % n)
+    # The rule above cannot see an author graded by an earlier installment (8
+    # onwards set significance_tier), which would otherwise pass as a refresh and
+    # silently overwrite that installment's record on import.
+    owners = author_owners()
+    for n, others in sorted(redefined_authors(names, num, owners).items()):
+        problems.append("author %r is already defined by installment %s: link works to that "
+                        "record (installment 10: extend it in scripts/content/i10_extensions.py)"
+                        % (n, ", ".join(others)))
     for a in authors:
         if a["tier"] not in SIGNIFICANCE_TIERS:
             problems.append("bad tier %r for %r" % (a["tier"], a["name"]))
@@ -215,11 +364,11 @@ def main():
     # import (that is how a re-run after an edit refreshes text in place).
     con = sqlite3.connect(DB_PATH)
     try:
-        owners = {}
+        title_owners = {}
         for title, name in con.execute(
                 "select w.title, a.full_name from works w join work_authors wa "
                 "on wa.work_id = w.work_id join authors a on a.author_id = wa.author_id"):
-            owners.setdefault(title, set()).add(name)
+            title_owners.setdefault(title, set()).add(name)
     finally:
         con.close()
     titles = [w["title"] for w in works]
@@ -227,9 +376,9 @@ def main():
         problems.append("duplicate title in module: %r" % t)
     for w in works:
         t = w["title"]
-        if t in corpus_titles and owners.get(t) and w["author"] not in owners[t]:
+        if t in corpus_titles and title_owners.get(t) and w["author"] not in title_owners[t]:
             problems.append("title already in database under another author %r: %r"
-                            % (sorted(owners[t]), t))
+                            % (sorted(title_owners[t]), t))
     author_names = set(names) | corpus_authors
     for w in works:
         if w["author"] not in author_names:
@@ -267,12 +416,13 @@ def main():
     per_batch = meta.get("authors_per_file", 8)
     base = "installment_%s" % num
     author_files = []
+    recorded = recorded_works(works)
     for i in range(0, len(authors), per_batch):
         chunk = authors[i:i + per_batch]
         slug = "a%02d" % (i // per_batch + 1)
         path = "data/authors/%s_authors_%s.json" % (base, slug)
         author_files.append(path)
-        payload = [author_record(a) for a in chunk]
+        payload = [author_record(a, recorded) for a in chunk]
         for rec in payload:
             # AUTHOR_KEYS order plus the optional additions (significance tier and
             # the documented-only bibliography note); nothing else may appear.
@@ -289,7 +439,7 @@ def main():
         # 1..26 -> b1..b26, then b27...
         return "b%d" % n
 
-    author_payloads = [author_record(a) for a in authors]
+    author_payloads = [author_record(a, recorded) for a in authors]
     work_payloads = [work_record(w) for w in works]
 
     # Field-level parity with installments 1-7: every record leaves the builder
@@ -317,7 +467,16 @@ def main():
         print("strict checks: passed (%d works, %d authors); enrichment disabled" % (len(works), len(authors)))
     else:
         import content_enrich
-        filled = content_enrich.apply_enrichment(work_payloads, work_meta, author_payloads)
+        # Authors defined by earlier installments, for works recorded here whose
+        # author is defined there (installment 9 records works by H. G. Wells,
+        # who is defined by installment 8).
+        context = []
+        for path in sorted(glob.glob(os.path.join("data", "authors", "installment_*_authors*.json"))):
+            found = re.match(r"installment_(\d+)_authors", os.path.basename(path))
+            if found and int(found.group(1)) < int(num):
+                payload = json.load(open(path, encoding="utf-8"))
+                context.extend(payload.get("authors", []) if isinstance(payload, dict) else payload)
+        filled = content_enrich.apply_enrichment(work_payloads, work_meta, author_payloads, context)
         print("enrichment: " + (", ".join("%s x%d" % (k, v) for k, v in sorted(filled.items()))
                                 or "nothing to fill"))
 
@@ -387,6 +546,23 @@ def main():
         if name.startswith(base) and name.endswith(".json"):
             for row in json.load(open("data/sources/" + name, encoding="utf-8")):
                 every_source.add(row["title"])
+    # The importer loads every installment's sources file before it links
+    # anything, so an explicit citation of a source registered by a later
+    # installment (e.g. an installment-9 correction researched during
+    # installment 10) is valid: ``known_sources`` is the set used to check
+    # citations. The surname-matched pool, by contrast, excludes titles found
+    # only in later installments' files, so that rebuilding an earlier
+    # installment after a later import cannot attach, say, the installment-10
+    # sources on Albert Murray to an earlier author called Murray.
+    own_or_earlier, later = set(), set()
+    for name in sorted(os.listdir("data/sources")):
+        found = re.match(r"installment_(\d+)_", name)
+        if not (found and name.endswith(".json")):
+            continue
+        rows = json.load(open("data/sources/" + name, encoding="utf-8"))
+        (later if int(found.group(1)) > int(num) else own_or_earlier).update(r["title"] for r in rows)
+    known_sources = every_source | own_or_earlier | later
+    match_pool = every_source - (later - own_or_earlier)
 
     def name_matched(title, author):
         """A source documents an author when the surname (or full name) appears."""
@@ -422,8 +598,14 @@ def main():
         if w.get("movements"):
             work_movements.append({"work": w["title"], "movements": list(dict.fromkeys(w["movements"]))})
         for name in aus:
-            a = all_authors.get(name)
-            if a is None:
+            # Derived author-level genre, movement and theme links summarise every
+            # work linked to an author, including works recorded by a later
+            # installment than the author's own: the importer merges link rows
+            # from all installment files (ownership is per author, INSERT OR
+            # IGNORE), so these add to the defining installment's links. Author
+            # sources and influences stay with the installment that defines the
+            # author.
+            if name not in all_authors and name not in corpus_authors:
                 continue
             author_genres.setdefault(name, set()).update(w.get("genres") or [])
             author_movements.setdefault(name, set()).update(w.get("movements") or [])
@@ -433,18 +615,18 @@ def main():
         sources = set(universal) | (set(strand_sources.get(strand(owner), [])) if owner else set())
         sources |= set(w.get("sources") or [])
         for title in list(sources):
-            if title not in every_source:
+            if title not in known_sources:
                 problems.append("work %r cites unknown source %r" % (w["title"], title))
         work_sources.append({"work": w["title"], "sources": sorted(sources)})
 
     for a in authors:
         srcs = set(universal) | set(strand_sources.get(strand(a), []))
-        for title in every_source:
+        for title in match_pool:
             if name_matched(title, a):
                 srcs.add(title)
         srcs |= set(a.get("sources") or [])
         for title in list(srcs):
-            if title not in every_source:
+            if title not in known_sources:
                 problems.append("author %r cites unknown source %r" % (a["name"], title))
         author_sources.append({"author": a["name"], "sources": sorted(srcs)})
         for name in a.get("infl") or []:
@@ -453,6 +635,9 @@ def main():
         resolved = [n for n in (a.get("infl") or []) if n in author_names]
         if resolved:
             author_influences.append({"author": a["name"], "influenced_by": resolved})
+
+    if num == "10":
+        problems += extension_problems(extensions, num, set(all_authors), works, owners, known_sources)
 
     if problems:
         print("BUILD BLOCKED (relationships): %d problem(s)" % len(problems))

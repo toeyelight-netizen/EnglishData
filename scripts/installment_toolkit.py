@@ -164,6 +164,26 @@ def authors_for(installment):
     return out
 
 
+def author_owners(root="."):
+    """Map every author name to the installments whose built JSON defines it.
+
+    The importer upserts authors by ``full_name`` in installment order, so a
+    name defined by two installments is silently overwritten by the later one.
+    Each author must therefore be defined by exactly one installment; later
+    installments link works to that record (and installment 10 contributes its
+    bibliographic statement through ``scripts/content/i10_extensions.py``).
+    """
+    owners = {}
+    for p in sorted(glob.glob(os.path.join(root, "data", "authors", "installment_*_authors*.json"))):
+        m = re.match(r"installment_(\d+)_authors", os.path.basename(p))
+        payload = json.load(open(p, encoding="utf-8"))
+        if isinstance(payload, dict):
+            payload = payload.get("authors", [])
+        for rec in payload:
+            owners.setdefault(rec["full_name"], set()).add(m.group(1))
+    return owners
+
+
 def db():
     return sqlite3.connect(DB_PATH)
 

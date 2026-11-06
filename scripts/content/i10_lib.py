@@ -89,6 +89,24 @@ def A10(name, tier, b, d, bp, nat, ident, bio, prof, style, conc, sig, *, bib_st
     }
 
 
+def X10(name, *, bib_status, bib_note, ver, sources=()):
+    """Installment-10 extension of an author defined by an earlier installment.
+
+    The author keeps the single record written by the installment that first
+    recorded them. Installment 10 contributes only what its research changes:
+    the authored statement of bibliographic coverage (now spanning the whole
+    career, with the work records each installment holds), its status, the
+    verification status and the sources consulted. Extensions live in
+    ``scripts/content/i10_extensions.py``; ``build_installment.py`` merges each
+    one into the defining installment's record when that installment is built,
+    and blocks the installment-10 build until it has been merged.
+    """
+    assert bib_status in BIBLIOGRAPHY, (name, bib_status)
+    assert ver in VERIFICATION, (name, ver)
+    return {"name": name, "biblio_note": bib_note, "bibliography_status": bib_status,
+            "verification_status": ver, "sources": list(sources)}
+
+
 def W10(title, author, pub, form, depth, *, genres, themes, overview, summary, themes_text,
         structure, style, ctx, sig, ver, sources=(), movements=(), content=None, crit=None,
         chars=None, comp=None, perf=None, ms=None, lang="English", alt=(), canon="Secondary canon",

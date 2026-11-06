@@ -25,15 +25,16 @@
    "Robert Louis Stevenson",
    "Émile Gaboriau"
   ],
-  "biographical_uncertainty": "23 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1887 and 1912.",
+  "biographical_uncertainty": "17 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1887 and 1912.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Study in Scarlet (1887); Micah Clarke (1889); The Sign of Four (1890); The White Company (1891); The Adventures of Sherlock Holmes (1892); The Memoirs of Sherlock Holmes (1894); The Stark Munro Letters (1895); Rodney Stone (1896); The Exploits of Brigadier Gerard (1896); Uncle Bernac (1897); The Tragedy of the Korosko (1898); The Hound of the Baskervilles (1902); The Return of Sherlock Holmes (1905); Sir Nigel (1906); The Lost World (1912); The Poison Belt (1913); The Valley of Fear (1915); His Last Bow (1917); The Case-Book of Sherlock Holmes (1927); The History of Spiritualism (1926); The Great Boer War (1900); Through the Magic Door (1907); Memories and Adventures (autobiography, 1924)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Micah Clarke (1889); The Memoirs of Sherlock Holmes (1894); The Stark Munro Letters (1895); Rodney Stone (1896); The Exploits of Brigadier Gerard (1896); Uncle Bernac (1897); The Tragedy of the Korosko (1898); The Return of Sherlock Holmes (1905); Sir Nigel (1906); The Poison Belt (1913); The Valley of Fear (1915); His Last Bow (1917); The Case-Book of Sherlock Holmes (1927); The History of Spiritualism (1926); The Great Boer War (1900); Through the Magic Door (1907); Memories and Adventures (autobiography, 1924)."
  },
  {
   "full_name": "Herbert George Wells",
   "alternative_names": [
-   "H. G. Wells"
+   "H. G. Wells",
+   "H.G. Wells"
   ],
   "pseudonyms": [],
   "birth_date": "1866",
@@ -41,25 +42,26 @@
   "death_date": "1946",
   "death_date_approximate": false,
   "birthplace": "Bromley, Kent, England",
-  "nationality_or_literary_tradition": "English; the Victorian and Edwardian scientific romance",
-  "literary_identity": "Novelist, scientific romancer and social prophet; the inventor of the modern scientific romance and one of the most influential English writers of the twentieth century.",
-  "biography": "Born at Bromley on 21 September 1866, son of a shopkeeper and a professional cricketer's daughter; he was apprenticed to a draper, won a scholarship to the Normal School of Science in South Kensington in 1884, and was taught biology by T. H. Huxley, an experience that made him a lifelong evolutionist. He taught science and wrote for the Saturday Review before The Time Machine (1895) made him famous; The Island of Doctor Moreau (1896), The Invisible Man (1897), The War of the Worlds (1898), When the Sleeper Wakes (1899) and The First Men in the Moon (1901) followed, and from 1900 he turned to the social novels (Kipps, Tono-Bungay, The History of Mr Polly) and to the utopian and prophetic works (A Modern Utopia, The Outline of History, The Shape of Things to Come). He joined the Fabian Society in 1903 and quarrelled with the Webbs, and he died in London on 13 August 1946.",
-  "literary_profile": "Wells took the evolutionary biology he had learned from Huxley and made it the basis of a new kind of fiction: the scientific romance, which uses an invention or a discovery as the premise for a realistic narrative of its social and psychological consequences. His early romances are single-conceit stories carried by a precise, journalistic specification of detail, and their subject is the fragility of the human species, the possibility of degeneration and the relative insignificance of man in time. After 1900 he wrote the 'novel of ideas' as social criticism, aiming to make fiction an instrument of reform.",
-  "stylistic_characteristics": "The single scientific premise developed to its consequences; precise technical and topographical detail; a first-person witness narrator; the sudden perspective change (the Martian view of England, the Eloi of the far future); a plain, fast, journalistic narrative; the epigram and the Utopian debate in the later novels.",
-  "intellectual_concerns": "Time, evolutionary deep time and the fate of the species; the machine and the alienation of labour; imperialism reversed (the Martians as colonisers); science, experiment and moral responsibility; class division and the Eloi/Morlock image; utopia, progress and the possibility of catastrophe.",
-  "historical_significance": "Wells founded modern science fiction: The Time Machine, The War of the Worlds and The Island of Doctor Moreau are the foundational texts of the genre, and their images — the time traveller, the Martian cylinder, the Morlocks, the invisible man — became permanent English myths. His social novels and his Outline of History made him one of the most widely read writers in the world, and his influence on Huxley, Orwell, Stapledon and the whole twentieth-century literature of the future is direct.",
+  "nationality_or_literary_tradition": "English; the scientific romance, the social novel and the popular history",
+  "literary_identity": "Novelist, journalist and social prophet; the inventor of the modern scientific romance, the most widely read English writer of his generation, and the great populariser of science, history and the idea of the future.",
+  "biography": "Born at Bromley on 21 September 1866, the son of Joseph Wells, a shopkeeper and professional cricketer, and Sarah Neal, a former lady's maid; he was apprenticed to a draper, won a scholarship to the Normal School of Science in South Kensington in 1884 (he studied there until 1887), and was taught biology by T. H. Huxley, an experience that made him a lifelong evolutionist. He taught science and wrote for the Saturday Review before The Time Machine (1895) made him famous; The Island of Doctor Moreau (1896), The Invisible Man (1897), The War of the Worlds (1898), When the Sleeper Wakes (1899) and The First Men in the Moon (1901) followed, and from 1900 he turned to the social novels (Kipps, Tono-Bungay, The History of Mr Polly) and to the utopian and prophetic works (A Modern Utopia, The Outline of History, The Shape of Things to Come). He joined the Fabian Society in 1903 and quarrelled with the Webbs, produced a stream of novels, popular histories and world-state tracts for half a century, and died in London on 13 August 1946.",
+  "literary_profile": "Wells took the evolutionary biology he had learned from Huxley and made it the basis of a new kind of fiction: the scientific romance, which uses an invention or a discovery as the premise for a realistic narrative of its social and psychological consequences. His early romances are single-conceit stories carried by a precise, journalistic specification of detail, and their subject is the fragility of the human species, the possibility of degeneration and the relative insignificance of man in time. After 1900 he wrote the 'novel of ideas' as social criticism, aiming to make fiction an instrument of reform; his Edwardian social novels (Kipps, Tono-Bungay, The History of Mr Polly) made lower-middle-class life a serious literary subject, and The Outline of History (1920) sold in millions and taught a mass readership its own past.",
+  "stylistic_characteristics": "The rapid, transparent narrative built for a mass readership; the single scientific premise developed to its consequences; precise technical and topographical detail; a first-person witness narrator; the sudden perspective change (the Martian view of England, the Eloi of the far future); the comic lower-middle-class idiolect (Kipps, Mr Polly); the documentary and polemical essay folded into fiction; the epigram and the Utopian debate in the later novels.",
+  "intellectual_concerns": "Time, evolutionary deep time and the fate of the species; the machine and the alienation of labour; imperialism reversed (the Martians as colonisers); science, experiment and moral responsibility; class division, the shop and the small man's struggle (the Eloi and the Morlocks, Kipps); utopia, the world state and the possibility of catastrophe; education and self-improvement; war and the aeroplane; marriage and sexual reform.",
+  "historical_significance": "Wells founded modern science fiction: The Time Machine, The War of the Worlds and The Island of Doctor Moreau are the foundational texts of the genre, and their images (the time traveller, the Martian cylinder, the Morlocks, the invisible man) became permanent English myths. With Shaw he was the most influential English public writer of the Edwardian and interwar years: Kipps and Tono-Bungay gave the lower middle class a literature, The Outline of History made him one of the most widely read writers in the world, and his influence on Huxley, Orwell, Stapledon and the whole twentieth-century literature of the future is direct.",
   "major_influences": [
    "T. H. Huxley",
+   "Charles Darwin",
    "Jonathan Swift",
-   "Charles Dickens",
    "Jules Verne",
    "Thomas More",
-   "Charles Darwin"
+   "Charles Dickens",
+   "George Bernard Shaw"
   ],
-  "biographical_uncertainty": "29 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1895 and 1905.",
+  "biographical_uncertainty": "Twenty-seven further writings, from the Text-Book of Biology (1893) to Mind at the End of Its Tether (1945), are listed in the bibliographical notes without separate work records, because no description of them can be supported here; that list is a selection, not his complete bibliography. The ten works catalogued here were all published under his own name, as H. G. Wells, and none carries a disputed, conjectural or shared attribution: six, from The Time Machine (1895) to Kipps (1905), are recorded with the Victorian period, and four, from Tono-Bungay (1909) to The Shape of Things to Come (1933), with the Edwardian, Georgian and Modernist period.",
   "research_status": "complete",
-  "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Text-Book of Biology (1893); The Time Machine (1895); The Wonderful Visit (1895); The Island of Doctor Moreau (1896); The Wheels of Chance (1896); The Invisible Man (1897); The Plattner Story and Others (1897); The War of the Worlds (1898); When the Sleeper Wakes (1899); Tales of Space and Time (1899); Love and Mr Lewisham (1900); The First Men in the Moon (1901); Anticipations (1901); The Sea Lady (1902); The Food of the Gods (1904); A Modern Utopia (1905); Kipps (1905); In the Days of the Comet (1906); The War in the Air (1908); Tono-Bungay (1909); Ann Veronica (1909); The History of Mr Polly (1910); The New Machiavelli (1911); Marriage (1912); The Outline of History (1920); The Shape of Things to Come (1933); Experiment in Autobiography (1934); The War of the Worlds (1898); The Country of the Blind and Other Stories (1911)."
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Text-Book of Biology (1893); The Wonderful Visit (1895); The Plattner Story and Others (1897); When the Sleeper Wakes (1899); Tales of Space and Time (1899); Love and Mr Lewisham (1900); The First Men in the Moon (1901); Anticipations (1901); The Sea Lady (1902); Mankind in the Making (1903); The Food of the Gods (1904); A Modern Utopia (1905); In the Days of the Comet (1906); The War in the Air (1908); Ann Veronica (1909); The Country of the Blind and Other Stories (1911); The New Machiavelli (1911); Marriage (1912); The Passionate Friends (1913); The Wife of Sir Isaac Harman (1914); Boon (1915); Mr Britling Sees It Through (1916); Experiment in Autobiography (1934); The Croquet Player (1936); The Holy Terror (1939); The Rights of Man (1940); Mind at the End of Its Tether (1945)."
  },
  {
   "full_name": "Ralph Waldo Emerson",
@@ -88,10 +90,10 @@
    "William Wordsworth",
    "Emanuel Swedenborg"
   ],
-  "biographical_uncertainty": "The attribution of Nature (1836) rests on the publisher's records, the correspondence and the internal evidence rather than on a title page. 15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text.",
+  "biographical_uncertainty": "The attribution of Nature (1836) rests on the publisher's records, the correspondence and the internal evidence rather than on a title page. 11 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Nature (1836; published anonymously); The American Scholar (address, 1837); An Address Delivered before the Senior Class in Divinity College, Cambridge (1838); Essays: First Series (1841); Essays: Second Series (1844); Poems (1847); Representative Men (1850); English Traits (1856); The Conduct of Life (1860); May-Day and Other Pieces (1867); Society and Solitude (1870); Letters and Social Aims (1876); The Journals of Ralph Waldo Emerson, 10 vols (1909-14, posthumous); The Early Lectures, 3 vols (1959-72, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The American Scholar (address, 1837); An Address Delivered before the Senior Class in Divinity College, Cambridge (1838); Essays: First Series (1841); Essays: Second Series (1844); Poems (1847); The Conduct of Life (1860); May-Day and Other Pieces (1867); Society and Solitude (1870); Letters and Social Aims (1876); The Journals of Ralph Waldo Emerson, 10 vols (1909-14, posthumous); The Early Lectures, 3 vols (1959-72, posthumous)."
  },
  {
   "full_name": "Henry David Thoreau",
@@ -118,10 +120,10 @@
    "William Bartram",
    "Gilbert White"
   ],
-  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1849 and 1864.",
+  "biographical_uncertainty": "6 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1849 and 1864.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Week on the Concord and Merrimack Rivers (1849); 'Resistance to Civil Government' (1849; later 'Civil Disobedience'); Walden; or, Life in the Woods (1854); 'Slavery in Massachusetts' (1854); 'A Plea for Captain John Brown' (1859); Excursions (1863, posthumous); The Maine Woods (1864, posthumous); Cape Cod (1865, posthumous); A Yankee in Canada (1866, posthumous); Letters to Various Persons (1865, posthumous); The Journal (1906, 14 vols, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: 'A Plea for Captain John Brown' (1859); Excursions (1863, posthumous); Cape Cod (1865, posthumous); A Yankee in Canada (1866, posthumous); Letters to Various Persons (1865, posthumous); The Journal (1906, 14 vols, posthumous)."
  },
  {
   "full_name": "Margaret Fuller",
@@ -147,10 +149,10 @@
    "George Sand",
    "Giuseppe Mazzini"
   ],
-  "biographical_uncertainty": "8 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1844 and 1850.",
+  "biographical_uncertainty": "4 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1844 and 1850.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Introduction to the Dial (1840-42); Summer on the Lakes, in 1843 (1844); Woman in the Nineteenth Century (1845); Papers on Literature and Art (1846); Memoirs of Margaret Fuller Ossoli (1852, posthumous); At Home and Abroad (1856, posthumous); Life Without and Life Within (1859, posthumous); These Sad but Glorious Days: Dispatches from Europe, 1846-1850 (1992, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Introduction to the Dial (1840-42); Memoirs of Margaret Fuller Ossoli (1852, posthumous); At Home and Abroad (1856, posthumous); Life Without and Life Within (1859, posthumous)."
  },
  {
   "full_name": "Nathaniel Hawthorne",
@@ -175,10 +177,10 @@
    "William Shakespeare",
    "Jean-Jacques Rousseau"
   ],
-  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1837 and 1860.",
+  "biographical_uncertainty": "9 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1837 and 1860.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Fanshawe (1828); Twice-Told Tales (1837); Grandfather's Chair (1841); Mosses from an Old Manse (1846); The Snow-Image and Other Twice-Told Tales (1851); The Scarlet Letter (1850); The House of the Seven Gables (1851); A Wonder-Book for Girls and Boys (1852); The Blithedale Romance (1852); Tanglewood Tales (1853); Life of Franklin Pierce (1852); The Marble Faun (1860); Our Old Home (1863); Septimius Felton (unfinished, 1872, posthumous); The Dolliver Romance (unfinished, 1876, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Fanshawe (1828); Grandfather's Chair (1841); Mosses from an Old Manse (1846); A Wonder-Book for Girls and Boys (1852); Tanglewood Tales (1853); Life of Franklin Pierce (1852); Our Old Home (1863); Septimius Felton (unfinished, 1872, posthumous); The Dolliver Romance (unfinished, 1876, posthumous)."
  },
  {
   "full_name": "Herman Melville",
@@ -206,10 +208,10 @@
    "Laurence Sterne",
    "The Bible (Authorised Version)"
   ],
-  "biographical_uncertainty": "1 of the 8 works catalogued here carry a research status of 'partial' - Billy Budd, Sailor (An Inside Narrative) - and are reported only so far as the evidence allows. 19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text.",
+  "biographical_uncertainty": "1 of the 8 works catalogued here carry a research status of 'partial' - Billy Budd, Sailor (An Inside Narrative) - and are reported only so far as the evidence allows. 11 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Typee: A Peep at Polynesian Life (1846); Omoo: A Narrative of Adventures in the South Seas (1847); Mardi: and a Voyage Thither (1849); Redburn: His First Voyage (1849); White-Jacket; or, The World in a Man-of-War (1850); Moby-Dick; or, The Whale (1851); Pierre; or, The Ambiguities (1852); Israel Potter: His Fifty Years of Exile (1855); The Piazza Tales (1856: 'Bartleby', 'Benito Cereno', 'The Encantadas'); The Confidence-Man: His Masquerade (1857); Battle-Pieces and Aspects of the War (1866); Clarel: A Poem and Pilgrimage in the Holy Land (1876); John Marr and Other Sailors (1888); Timoleon (1891); Billy Budd, Sailor (unfinished; 1924, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Omoo: A Narrative of Adventures in the South Seas (1847); Mardi: and a Voyage Thither (1849); Redburn: His First Voyage (1849); White-Jacket; or, The World in a Man-of-War (1850); Pierre; or, The Ambiguities (1852); Israel Potter: His Fifty Years of Exile (1855); The Confidence-Man: His Masquerade (1857); John Marr and Other Sailors (1888); Timoleon (1891)."
  },
  {
   "full_name": "Walt Whitman",
@@ -235,9 +237,9 @@
    "Giambattista Vico",
    "George Sand"
   ],
-  "biographical_uncertainty": "16 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1855 and 1882.",
+  "biographical_uncertainty": "11 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1855 and 1882.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Franklin Evans; or, The Inebriate (novel, 1842); Leaves of Grass (1855; nine editions to 1891-92); Drum-Taps (1865); Sequel to Drum-Taps (1865-66, including 'When Lilacs Last in the Dooryard Bloom'd'); Democratic Vistas (1871); Passage to India (1871); As a Strong Bird on Pinions Free (1872); Memoranda During the War (1875-76); Two Rivulets (1876); Specimen Days (1882); November Boughs (1888); Good-Bye My Fancy (1891); The Complete Prose Works (1892); The Collected Writings (1961-, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Franklin Evans; or, The Inebriate (novel, 1842); Sequel to Drum-Taps (1865-66, including 'When Lilacs Last in the Dooryard Bloom'd'); Passage to India (1871); As a Strong Bird on Pinions Free (1872); Memoranda During the War (1875-76); Two Rivulets (1876); November Boughs (1888); Good-Bye My Fancy (1891); The Complete Prose Works (1892); The Collected Writings (1961-, posthumous)."
  }
 ]

@@ -45,7 +45,7 @@ A("John Ruskin", MAJ, "1819", "1900", "London, England",
         "The Queen of the Air (1869)", "Lectures on Art (1870)", "Fors Clavigera: Letters to the Workmen and Labourers of Great Britain (8 vols, 1871-84)",
         "Munera Pulveris (1872)", "Ariadne Florentina (1872-76)", "Mornings in Florence (1875-77)", "Proserpina (1875-86)",
         "Deucalion (1875-83)", "St Mark's Rest (1877-84)", "The Laws of Fesole (1877-79)", "Fiction, Fair and Foul (1880)",
-        "The Bible of Amiens (1880-85)", "The Storm-Cloud of the Nineteenth Century (1884)", "Praeterita (1885-89, unfinished autobiography)",
+        "The Bible of Amiens (1880-85)", "The Storm-Cloud of the Nineteenth Century (1884)",
         "Hortus Inclusus (1887)", "The Art of England (1883)"]),
 
 A("John Stuart Mill", MAJ, "1806", "1873", "London, England",

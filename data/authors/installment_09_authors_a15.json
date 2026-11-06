@@ -1,37 +1,5 @@
 [
  {
-  "full_name": "W. B. Yeats",
-  "alternative_names": [
-   "William Butler Yeats"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1865",
-  "birth_date_approximate": false,
-  "death_date": "1939",
-  "death_date_approximate": false,
-  "birthplace": "Sandymount, Dublin, Ireland",
-  "nationality_or_literary_tradition": "Irish; the symbolist lyric, the verse play and the poetry of the national revival",
-  "literary_identity": "Poet and dramatist; the founder of the Irish Literary Revival, the greatest poet in English of the period's first half, and the Nobel laureate of 1923.",
-  "biography": "Born William Butler Yeats in Sandymount, Dublin, on 13 June 1865, the son of the painter John Butler Yeats; he was brought up between Dublin, London and Sligo, studied painting and then poetry, founded the Irish Literary Society (1892) and the Abbey Theatre (1904) with Lady Gregory, and made his name with The Wanderings of Oisin (1889), The Wind Among the Reeds (1899) and The Green Helmet (1910). He married George Hyde-Lees in 1917, served as a Senator of the Irish Free State (1922–28), won the Nobel Prize in 1923, and died at Roquebrune in the south of France on 28 January 1939, reburied at Drumcliff in 1948.",
-  "literary_profile": "Yeats is the greatest poet in English of the first half of the twentieth century. He began as a symbolist of the Celtic twilight, made the Abbey Theatre a national institution, and then remade his style three times — into the public, colloquial, bitter poetry of Responsibilities (1914) and The Wild Swans at Coole (1917), the mythic system of A Vision (1925) and the late, bare, terrifying poems of The Tower (1928) and Last Poems. He is the only poet of the period who is equally important as a lyric poet, a dramatist, a prose writer and a public figure.",
-  "stylistic_characteristics": "The symbolist image and the esoteric system; the rhymed stanza and the refrain refined into bareness; the antithetical rhetoric ('That is no country for old men'); the dramatic mask and the anti-self; the public poem in the grand manner; the prose of a great talker.",
-  "intellectual_concerns": "Ireland, nationality, and the national question; the heroic past and the mythic cycle; love, the beloved and the ageing body; the occult, the séance, and the system of the gyres; violence, revolution, and the Easter Rising; age, death, and the fury of the old man.",
-  "historical_significance": "Yeats is the central poet of the period and the founder of the Irish national literature: he created the Abbey Theatre, made Irish myth a modern poetic resource, and wrote the greatest body of lyric poetry in English in the twentieth century. His late poems are among the summit achievements of the language.",
-  "major_influences": [
-   "William Blake",
-   "Percy Bysshe Shelley",
-   "John Keats",
-   "Dante Alighieri",
-   "William Morris",
-   "Stéphane Mallarmé",
-   "Lady Gregory"
-  ],
-  "biographical_uncertainty": "27 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1892 and 1928.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Wanderings of Oisin and Other Poems (1889); The Countess Kathleen and Various Legends and Lyrics (1892); The Celtic Twilight (1893, prose); Poems (1895); The Secret Rose (1897); The Wind Among the Reeds (1899); The Shadowy Waters (1900, verse play); Cathleen ni Houlihan (1902, play); In the Seven Woods (1903); On Baile's Strand (1904, verse play); The King's Threshold (1904, verse play); Deirdre (1907, verse play); The Green Helmet and Other Poems (1910); Responsibilities (1914); At the Hawk's Well (1917, verse play); The Wild Swans at Coole (1917); Michael Robartes and the Dancer (1921); Four Plays for Dancers (1921); Later Poems (1922); The Trembling of the Veil (1922, autobiography); A Vision (1925); The Tower (1928); The Winding Stair and Other Poems (1933); The Words upon the Window-Pane (1934, play); Purgatory (1939, verse play); Last Poems (1939, posthumous); Autobiographies (1926/1955)."
- },
- {
   "full_name": "T. S. Eliot",
   "alternative_names": [
    "Thomas Stearns Eliot"
@@ -59,10 +27,10 @@
    "Stéphane Mallarmé",
    "Charles Baudelaire"
   ],
-  "biographical_uncertainty": "28 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1917 and 1943.",
+  "biographical_uncertainty": "24 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1917 and 1943.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Prufrock and Other Observations (1917); Poems (1919); The Sacred Wood (1920, criticism); The Waste Land (1922); Homage to John Dryden (1924, criticism); Poems 1909–1925 (1925); The Hollow Men (1925); Journey of the Magi (1927); For Lancelot Andrewes (1928, criticism); A Song for Simeon (1928); Dante (1929, criticism); Ash-Wednesday (1930); Marina (1930); The Use of Poetry and the Use of Criticism (1933, criticism); After Strange Gods (1934, criticism); The Rock (1934, pageant play); Murder in the Cathedral (1935, verse play); Collected Poems 1909–1935 (1936); The Family Reunion (1939, verse play); The Idea of a Christian Society (1939, prose); East Coker (1940); Burnt Norton (1941); The Dry Salvages (1941); Little Gidding (1942); Notes Towards the Definition of Culture (1948, prose); The Cocktail Party (1949, verse play); The Confidential Clerk (1953, verse play); On Poetry and Poets (1957, criticism)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems (1919); The Sacred Wood (1920, criticism); Homage to John Dryden (1924, criticism); Poems 1909–1925 (1925); The Hollow Men (1925); Journey of the Magi (1927); For Lancelot Andrewes (1928, criticism); A Song for Simeon (1928); Dante (1929, criticism); Marina (1930); The Use of Poetry and the Use of Criticism (1933, criticism); After Strange Gods (1934, criticism); The Rock (1934, pageant play); Collected Poems 1909–1935 (1936); The Family Reunion (1939, verse play); The Idea of a Christian Society (1939, prose); East Coker (1940); Burnt Norton (1941); The Dry Salvages (1941); Little Gidding (1942); Notes Towards the Definition of Culture (1948, prose); The Cocktail Party (1949, verse play); The Confidential Clerk (1953, verse play); On Poetry and Poets (1957, criticism)."
  },
  {
   "full_name": "Ezra Pound",
@@ -92,10 +60,10 @@
    "T. E. Hulme",
    "Ford Madox Ford"
   ],
-  "biographical_uncertainty": "27 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1915 and 1926.",
+  "biographical_uncertainty": "24 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1915 and 1926.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Lume Spento (1908); A Quinzaine for This Yule (1908); Personae (1909); Exultations (1909); Provença (1910); Canzoni (1911); Ripostes (1912); Des Imagistes (1914, ed.); Cathay (1915); Lustra (1916); Pavannes and Divisions (1918); Quia Pauper Amavi (1919); Hugh Selwyn Mauberley (1920); Poems 1918–21 (1921); A Draft of XVI Cantos (1925); Personae: Collected Poems (1926); A Draft of XXX Cantos (1930); ABC of Economics (1933); ABC of Reading (1934, criticism); Jefferson and/or Mussolini (1935); The Fifth Decad of Cantos (1937); Guide to Kulchur (1938); Cantos LII–LXXI (1940); The Pisan Cantos (1948); Section: Rock-Drill (1955); Thrones (1959); Drafts and Fragments of Cantos CX–CXVII (1969)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Lume Spento (1908); A Quinzaine for This Yule (1908); Personae (1909); Exultations (1909); Provença (1910); Canzoni (1911); Ripostes (1912); Des Imagistes (1914, ed.); Lustra (1916); Pavannes and Divisions (1918); Quia Pauper Amavi (1919); Poems 1918–21 (1921); A Draft of XVI Cantos (1925); A Draft of XXX Cantos (1930); ABC of Economics (1933); ABC of Reading (1934, criticism); Jefferson and/or Mussolini (1935); The Fifth Decad of Cantos (1937); Guide to Kulchur (1938); Cantos LII–LXXI (1940); The Pisan Cantos (1948); Section: Rock-Drill (1955); Thrones (1959); Drafts and Fragments of Cantos CX–CXVII (1969)."
  },
  {
   "full_name": "H. D. (Hilda Doolittle)",
@@ -124,10 +92,10 @@
    "Sigmund Freud",
    "Richard Aldington"
   ],
-  "biographical_uncertainty": "21 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1916 and 1946.",
+  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1916 and 1946.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Sea Garden (1916); Hymen (1921); Heliodora and Other Poems (1924); Collected Poems of H.D. (1925); Palimpsest (1926, prose); Hedylus (1928, prose); Red Roses for Bronze (1931); The Usual Star (1934, prose); Kora and Ka (1934, prose); The Hedgehog (1936, prose); Tribute to Freud (written 1944, published 1956); The Walls Do Not Fall (1944); Tribute to the Angels (1945); The Flowering of the Rod (1946); By Avon River (1949); Trilogy (1946, collected); Hermetic Definition (1972, posthumous); Helen in Egypt (1961); HERmione (written 1927, published 1981); End to Torment (1958, memoir); Bid Me to Live (1960, novel)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Hymen (1921); Heliodora and Other Poems (1924); Collected Poems of H.D. (1925); Palimpsest (1926, prose); Hedylus (1928, prose); Red Roses for Bronze (1931); The Usual Star (1934, prose); Kora and Ka (1934, prose); The Hedgehog (1936, prose); Tribute to Freud (written 1944, published 1956); The Walls Do Not Fall (1944); Tribute to the Angels (1945); The Flowering of the Rod (1946); By Avon River (1949); Hermetic Definition (1972, posthumous); Helen in Egypt (1961); HERmione (written 1927, published 1981); End to Torment (1958, memoir); Bid Me to Live (1960, novel)."
  },
  {
   "full_name": "Edward Thomas",
@@ -186,10 +154,10 @@
    "Edward Thomas",
    "Rupert Brooke"
   ],
-  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1917 and 1928.",
+  "biographical_uncertainty": "16 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1917 and 1928.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Daffodil Murderer (1913); The Old Huntsman and Other Poems (1917); A Soldier's Declaration (1917, prose); Counter-Attack and Other Poems (1918); Picture-Show (1919); War Poems (1919); Selected Poems (1925); Satirical Poems (1926); Memoirs of a Fox-Hunting Man (1928); The Heart's Journey (1928); Memoirs of an Infantry Officer (1930); In Sicily (1930); Sherston's Progress (1936); The Old Century and Seven More Years (1938, autobiography); The Weald of Youth (1942, autobiography); Siegfried's Journey 1916–1920 (1945, autobiography); Collected Poems 1908–1956 (1961); Diaries 1915–1918 (1983, posthumous); Diaries 1920–1922 (1981, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Daffodil Murderer (1913); A Soldier's Declaration (1917, prose); Picture-Show (1919); War Poems (1919); Selected Poems (1925); Satirical Poems (1926); The Heart's Journey (1928); Memoirs of an Infantry Officer (1930); In Sicily (1930); Sherston's Progress (1936); The Old Century and Seven More Years (1938, autobiography); The Weald of Youth (1942, autobiography); Siegfried's Journey 1916–1920 (1945, autobiography); Collected Poems 1908–1956 (1961); Diaries 1915–1918 (1983, posthumous); Diaries 1920–1922 (1981, posthumous)."
  },
  {
   "full_name": "Wilfred Owen",
@@ -217,10 +185,10 @@
    "Algernon Charles Swinburne",
    "Thomas Hardy"
   ],
-  "biographical_uncertainty": "16 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems (1920, posthumous, ed. Sassoon); The Poems of Wilfred Owen (1931, ed. Blunden); The Collected Poems of Wilfred Owen (1963, ed. Day-Lewis); The Complete Poems and Fragments (1983, ed. Stallworthy); Wilfred Owen: Collected Letters (1967, ed. Owen and Bell); 'Anthem for Doomed Youth' (written 1917); 'Dulce et Decorum Est' (written 1917); 'Strange Meeting' (written 1918); 'Futility' (written 1918); 'Mental Cases' (written 1918); 'Spring Offensive' (written 1918); 'The Send-Off' (written 1918); 'Insensibility' (written 1918); 'Apologia pro Poemate Meo' (written 1918); 'Greater Love' (written 1917); 'Exposure' (written 1918)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Poems of Wilfred Owen (1931, ed. Blunden); The Collected Poems of Wilfred Owen (1963, ed. Day-Lewis); The Complete Poems and Fragments (1983, ed. Stallworthy); Wilfred Owen: Collected Letters (1967, ed. Owen and Bell); 'Anthem for Doomed Youth' (written 1917); 'Dulce et Decorum Est' (written 1917); 'Strange Meeting' (written 1918); 'Futility' (written 1918); 'Mental Cases' (written 1918); 'Spring Offensive' (written 1918); 'The Send-Off' (written 1918); 'Insensibility' (written 1918); 'Apologia pro Poemate Meo' (written 1918); 'Greater Love' (written 1917); 'Exposure' (written 1918)."
  },
  {
   "full_name": "Neil Gunn",
@@ -251,5 +219,36 @@
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Green Isle of the Great Deep (1944); collected criticism of the Scottish Renaissance."
+ },
+ {
+  "full_name": "Naomi Mitchison",
+  "alternative_names": [
+   "Naomi Mary Margaret Haldane",
+   "Naomi Mitchison"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1897",
+  "birth_date_approximate": false,
+  "death_date": "1999",
+  "death_date_approximate": false,
+  "birthplace": "Edinburgh, Scotland",
+  "nationality_or_literary_tradition": "Scottish; the historical novelist of The Corn King and the socialist novelist of the thirties",
+  "literary_identity": "Novelist; the author of The Conquered, The Corn King and the Spring Queen and We Have Been Warned.",
+  "biography": "Born Naomi Mary Margaret Haldane at Edinburgh on 1 November 1897, the sister of the biologist J. B. S. Haldane; she married the Labour lawyer Dick Mitchison and published The Conquered (1923), The Corn King and the Spring Queen (1931) and the socialist novel We Have Been Warned (1935). Her long career of the historical and the Scottish novel ran to the end of the century; she died at Tarbert, Argyll, on 11 January 1999.",
+  "literary_profile": "Naomi Mitchison is the historical novelist of the Scottish renaissance and the socialist novelist of the thirties: The Corn King and the Spring Queen made the ancient world of Sparta and the corn king the matter of the modern historical novel, and We Have Been Warned carried the politics of the decade into the novel of the family.",
+  "stylistic_characteristics": "The historical novel of the ancient world in the anthropologist's eye; the corn king and the ritual of the year; the socialist novel of the thirties in the family; the Scottish novel of Argyll; the plain prose of the argument and the rite.",
+  "intellectual_concerns": "The ancient world and the ritual of the year; the conquered and the conqueror; socialism and the politics of the thirties; the family and the woman's work; Argyll and the Scottish west.",
+  "historical_significance": "Naomi Mitchison is the historical novelist of the Scottish renaissance and the socialist novelist of the thirties: The Corn King and the Spring Queen made the ritual of the ancient year the matter of the modern historical novel.",
+  "major_influences": [
+   "the anthropology of Jane Harrison",
+   "D. H. Lawrence",
+   "the socialism of the thirties",
+   "Argyll",
+   "her brother J. B. S. Haldane"
+  ],
+  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1923 and 1935.",
+  "research_status": "complete",
+  "significance_tier": "Significant / secondary",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Bull Calves (1947); The Big House (1925); Travel Light (1952)."
  }
 ]

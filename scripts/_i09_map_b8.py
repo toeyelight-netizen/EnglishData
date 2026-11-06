@@ -22,7 +22,7 @@ MAP_B8 = {
         ['The Bloomsbury Group and the Novel of Consciousness']),
     'Pastors and Masters': (['Ivy Compton-Burnett'],
         ['Comic Novel and the Satire of Manners', 'Experimental Novel and the Modernist Form'],
-        ['Class, the servant problem, and the new democracy', 'Education, the schools, and the cultivation of the self', 'Money, credit, speculation, and the joint-stock imagination', 'The absurd, the void, and the failure of meaning'],
+        ['Education, the schools, and the cultivation of the self', 'Art versus life, and the romance of the artist', 'Tyranny and the abuse of power', 'Sexuality, the new psychology, and the Freudian century'],
         []),
     'A House and Its Head': (['Ivy Compton-Burnett'],
         ['Comic Novel and the Satire of Manners', 'Experimental Novel and the Modernist Form'],

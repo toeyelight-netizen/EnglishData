@@ -21,10 +21,10 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–04: 4 authors, 35 works) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–05: 43 works by 5 authors) |
 
-Cumulative totals: **851 authors, 2875 works** (147 anonymous), 10 periods, 179
-movements, 370 genres, 203 themes, 367 sources, 2432 recorded editions.
+Cumulative totals: **851 authors, 2884 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 389 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the
@@ -37,7 +37,7 @@ Galsworthy and Forster through Joyce, Woolf, Eliot, Lawrence and the war poets
 to Auden and Orwell, and in America from the Harlem Renaissance to Hemingway,
 Faulkner and Steinbeck.
 
-Installment 10 (1946–2000, with 1951–2000 as the core) is **in progress: four research
+Installment 10 (1946–2000, with 1951–2000 as the core) is **in progress: five research
 waves have been built, and most of the period is still to do.**
 - **Scope (widened on 2026-11-06).** British, Irish and American literature,
   plus the English-language literatures of Canada, Australia, New Zealand, the
@@ -47,9 +47,11 @@ waves have been built, and most of the period is still to do.**
   sources actually consulted.
 - **Baseline.** A discovery inventory of 5706 candidate authors, drawn from
   peer-reviewed Post45 datasets and the Booker Prize record (1969–2000).
-- **Current state.** Waves 01–04 cover Ralph Ellison, Philip Larkin, Lorraine
-  Hansberry and Albert Murray (35 works). The measured
-  state, the eight audits and the exact stopping point are in
+- **Current state.** Waves 01–05 cover Ralph Ellison, Philip Larkin, Lorraine
+  Hansberry, Albert Murray and George Orwell's books of 1946–1972 (43 works).
+  Orwell keeps his installment 9 author record: an author already in the
+  database is extended, never redefined. The measured state, the eight audits,
+  the corrections made to installments 8–9 and the exact stopping point are in
   [documentation/INSTALLMENT_10_AUDIT_REPORT.md](documentation/INSTALLMENT_10_AUDIT_REPORT.md).
 
 See [documentation/PROJECT_PROGRESS.md](documentation/PROJECT_PROGRESS.md) for

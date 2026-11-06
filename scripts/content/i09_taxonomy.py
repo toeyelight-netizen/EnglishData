@@ -2,8 +2,11 @@
 
 ``_lib.g/t/m`` resolve against the installment-08 JSON only. Installment 9
 adds 27 genres, 28 themes and 21 movements of its own, so its content modules
-resolve against the union of every installment's taxonomy files instead, which
-is what the importer will see once the new JSON is imported.
+resolve against the union of the taxonomy files of installments 1-9, which is
+what the importer will see once the new JSON is imported. Later installments'
+files are excluded: they are not installment 9's vocabulary, and installment
+10's exact name "Dystopian Fiction" made the substring of installment 9's
+"Dystopian Fiction and the Anti-Utopian Satire" ambiguous.
 
 Each lookup takes a distinctive substring and requires exactly one match, so
 an ambiguous abbreviation fails loudly at build time rather than silently
@@ -13,6 +16,7 @@ attaching the wrong taxonomy row.
 import glob
 import json
 import os
+import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -20,6 +24,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 def _names(kind):
     out = []
     for path in sorted(glob.glob(os.path.join(ROOT, "data", kind, "*.json"))):
+        num = re.match(r"installment_(\d+)_", os.path.basename(path))
+        if num and int(num.group(1)) > 9:
+            continue
         with open(path, encoding="utf-8") as fh:
             for row in json.load(fh):
                 if row["name"] not in out:
@@ -58,15 +65,20 @@ def m(*bits):
 def w(title, author, pub, form, desc, plot, ctx, sig, genres, themes, movements,
       alt=(), comp=None, perf=None, ms=None, chars=None, struct=None,
       canon="Secondary canon", biblio=None, attrib=None, status="complete",
-      coauthors=()):
-    """Build one work record, resolving the three taxonomy lists on the way."""
+      coauthors=(), meter=None, sources=()):
+    """Build one work record, resolving the three taxonomy lists on the way.
+
+    ``meter`` (an authored account of the prose manner or prosody) and
+    ``sources`` (titles of sources consulted for this record) were added for
+    corrections made after the installment was closed.
+    """
     from _lib import W
 
     return W(title, author, pub, form, desc, plot, ctx, sig,
              g(*genres), t(*themes), m(*movements),
              alt=alt, comp=comp, perf=perf, ms=ms, chars=chars, struct=struct,
              canon=canon, biblio=biblio, attrib=attrib, status=status,
-             coauthors=coauthors)
+             coauthors=coauthors, meter=meter, sources=sources)
 
 
 # Convenience shorthands for substrings that are otherwise ambiguous across

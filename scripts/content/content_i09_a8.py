@@ -150,6 +150,7 @@ A("George Orwell", MAJ, "1903", "1950", "Motihari, Bengal Presidency, British In
   "Orwell is the greatest English political writer of the century and the period's central essayist: Animal Farm and Nineteen Eighty-Four are the most influential political fables in English, The Road to Wigan Pier and Homage to Catalonia are permanent documentaries, and his essays made plain prose a moral instrument. His vocabulary — Big Brother, doublethink, Newspeak, thoughtcrime — has entered the world's political language.",
   infl=["Charles Dickens", "Jonathan Swift", "George Gissing", "Jack London", "Henry Miller", "William Hazlitt", "James Burnham"],
   alt=["Eric Arthur Blair"],
+  unc="Orwell published his books under the pen name George Orwell, first used for Down and Out in Paris and London (1933); his legal name remained Eric Arthur Blair, under which some early periodical writing appeared. Two questions remain open in the sources: how far 'Such, Such Were the Joys' is an accurate account of St Cyprian's, which contemporaries at the school and biographers have challenged, and whether the typescript of 'The Freedom of the Press' was found in 1971 or 1972.",
   also=["Down and Out in Paris and London (1933)",
         "Burmese Days (1934)",
         "A Clergyman's Daughter (1935)",

@@ -226,4 +226,26 @@ w("The Road to Wigan Pier", "George Orwell", "1937",
   comp=("1936", "1936"), chars="George Orwell, the narrator; Mr and Mrs Brooker, the tripe-shop lodging-house keepers; the miners of Wigan",
   struct="Two parts: a documentary report and a critical essay on socialism and class.",
   canon="Major canon"),
+
+# Correction (2026-11-06, during installment 10): Animal Farm (17 August 1945) belongs to
+# this installment's window but had no record; the installment-10 inspection listed it
+# among the landmark absences.
+w("Animal Farm", "George Orwell", "1945",
+  "Novella (beast fable; first edition subtitled 'A Fairy Story')",
+  "Orwell's beast fable of a revolution betrayed: the animals of Manor Farm drive out their drunken farmer and found a commonwealth of equals, which the pigs turn step by step into a tyranny indistinguishable from the one it replaced. Written in 1943-44 as an allegory of the Russian Revolution and the Stalin era, it was refused by several publishers while the Soviet Union was Britain's ally and became Orwell's first great success.",
+  "Old Major, a prize boar, tells the animals of Manor Farm of his dream of a world without men and teaches them the song 'Beasts of England'. After his death the pigs Snowball and Napoleon lead a rising that drives out the farmer Mr Jones; the farm is renamed Animal Farm and governed by the Seven Commandments of Animalism, summed up in 'All animals are equal'. Snowball teaches the animals to read, plans a windmill and leads the defence in the Battle of the Cowshed, but Napoleon, who has reared a litter of puppies in secret, uses them as an armed guard to chase Snowball off the farm and takes sole power. The pig Squealer explains away every privilege the pigs award themselves; the windmill, built by the animals' labour and above all by the devoted cart-horse Boxer, collapses and is blamed on Snowball; animals confess to imaginary plots and are killed by the dogs, and the commandments are secretly rewritten. After the neighbouring farmer Frederick blows up the rebuilt windmill, the worn-out Boxer is sold to the knacker while the pigs buy whisky with the proceeds. Years later the pigs walk on two legs and carry whips, the commandments have become the single maxim 'All animals are equal, but some animals are more equal than others', and the animals watching a card game between the pigs and the neighbouring farmers can no longer tell pig from man.",
+  "Written between November 1943 and February 1944, when Britain was allied with the Soviet Union and Stalin was widely admired by the British intelligentsia; Orwell's hostility to Stalinism had been formed by the Communist suppression of the POUM in Barcelona in 1937. The manuscript was refused by several British and American publishers, including Gollancz, and Orwell's unused preface records that one publisher withdrew after consulting the Ministry of Information. By the time it appeared, in August 1945, the wartime alliance was giving way to the Cold War.",
+  "Animal Farm is the most widely read political fable in English and the book that made Orwell famous: its allegory of the Russian Revolution (Old Major as Marx and Lenin, Napoleon as Stalin, Snowball as Trotsky, Squealer as the official press) gave the age of totalitarianism a form a child can follow, and 'some animals are more equal than others' entered the language. In 'Why I Write' Orwell called it the first book in which he tried, with full consciousness of what he was doing, to fuse political purpose and artistic purpose into one whole; it prepared the way for Nineteen Eighty-Four.",
+  ["Dystopian Fiction and the Anti-Utopian Satire"],
+  ["Totalitarianism, propaganda", "Class, the servant problem"],
+  [],
+  alt=["Animal Farm: A Fairy Story"],
+  comp=("1943", "1944"),
+  chars="Old Major; Napoleon; Snowball; Squealer; Boxer; Clover; Benjamin; Mollie; Moses the raven; Mr Jones; Mr Frederick; Mr Pilkington; Mr Whymper",
+  struct="Ten chapters of plain third-person narrative, moving from the rebellion through Snowball's expulsion, the purges and the building of the windmill to the final scene at the farmhouse window.",
+  meter="The level, simple sentences of a children's fable, told by an unobtrusive narrator who reports what the animals see and believe; the irony lies in the gap between their understanding and the reader's, and in the slogans ('Four legs good, two legs bad') and commandments that are altered as the story proceeds.",
+  biblio="First published by Secker and Warburg, London, on 17 August 1945 as Animal Farm: A Fairy Story; the American edition of 1946 dropped the subtitle. Orwell's proposed preface, 'The Freedom of the Press', was not printed with it and first appeared in the Times Literary Supplement on 15 September 1972 (recorded in installment 10).",
+  canon="Major canon",
+  sources=["Animal Farm (Wikipedia)", "George Orwell bibliography (Wikipedia)",
+           "The Freedom of the Press (The Orwell Foundation)"]),
 ]

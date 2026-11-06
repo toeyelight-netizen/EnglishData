@@ -19,6 +19,24 @@
    ]
   },
   {
+   "author": "George Orwell",
+   "genres": [
+    "Collected Letters",
+    "Cultural Criticism",
+    "Dystopian Fiction",
+    "Literary Criticism",
+    "Literary Essay",
+    "Literary Journalism",
+    "Memoir",
+    "Pamphlet",
+    "Personal Essay",
+    "Political Essay",
+    "Political Novel",
+    "Satirical Fiction",
+    "Social Criticism"
+   ]
+  },
+  {
    "author": "Lorraine Hansberry",
    "genres": [
     "Domestic Drama",
@@ -76,6 +94,10 @@
    ]
   },
   {
+   "author": "George Orwell",
+   "movements": []
+  },
+  {
    "author": "Lorraine Hansberry",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
@@ -107,6 +129,25 @@
     "Myth, folklore and the supernatural",
     "Nationhood and national identity",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "George Orwell",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "History, truth and the uses of the past",
+    "Language, writing and the limits of representation",
+    "Love, intimacy and loss",
+    "Nationhood and national identity",
+    "Power, the state and surveillance",
+    "Technology, media and consumer society",
+    "Utopia, dystopia and imagined futures",
+    "War, combat and its aftermath"
    ]
   },
   {

@@ -1,37 +1,5 @@
 [
  {
-  "full_name": "F. Scott Fitzgerald",
-  "alternative_names": [
-   "Francis Scott Key Fitzgerald",
-   "Scott Fitzgerald"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1896",
-  "birth_date_approximate": false,
-  "death_date": "1940",
-  "death_date_approximate": false,
-  "birthplace": "Saint Paul, Minnesota, United States",
-  "nationality_or_literary_tradition": "American; the jazz-age novel, the lyric of the American dream and the short story of the twenties",
-  "literary_identity": "Novelist and short-story writer; the laureate of the Jazz Age and the author of The Great Gatsby, the most perfect American novel of the period.",
-  "biography": "Born Francis Scott Key Fitzgerald in Saint Paul, Minnesota, on 24 September 1896; he read at Princeton without graduating, served in the army without seeing action, and made his name with This Side of Paradise in 1920, marrying Zelda Sayre a week after publication. The Beautiful and Damned (1922), The Great Gatsby (1925), Tender Is the Night (1934) and the unfinished The Last Tycoon followed, together with some 160 stories for the Saturday Evening Post. He died of a heart attack in Hollywood on 21 December 1940.",
-  "literary_profile": "Fitzgerald is the essential novelist of the 1920s and the author of the most nearly perfect American novel: The Great Gatsby is a lyric study of the American dream's corruption, Tender Is the Night a study of money and marriage that is formally years ahead of its time, and the stories are the definitive record of the jazz age. His prose — the fresh, exact, romantic sentence — is the period's most influential style.",
-  "stylistic_characteristics": "The romantic lyric sentence held in tight structure; the image chosen for its glamour and its hollowness; the collapse of the narrator's sympathy into judgement; the time-shift and the retrospective frame (Gatsby, Tender Is the Night); the short story built on a single social scene.",
-  "intellectual_concerns": "The American dream and the corruption of it; money, class and the careless rich; the jazz age, drink and the party; love, marriage and the illusions of the beautiful; the Midwest and the East; failure, decline and the grace of the second chance refused.",
-  "historical_significance": "Fitzgerald wrote the most perfect American novel of the period and the definitive record of the 1920s: The Great Gatsby is a permanent classic, Tender Is the Night is one of the century's great studies of marriage and money, and his short stories made the jazz age a literary period. He is the period's great poet of the American dream and its failure.",
-  "major_influences": [
-   "John Keats",
-   "Joseph Conrad",
-   "Henry James",
-   "Edith Wharton",
-   "Willard Huntington Wright",
-   "H. L. Mencken"
-  ],
-  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1925 and 1934.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: This Side of Paradise (1920); Flappers and Philosophers (1920, stories); The Beautiful and Damned (1922); Tales of the Jazz Age (1922, stories); The Vegetable (1923, play); The Great Gatsby (1925); All the Sad Young Men (1926, stories); Tender Is the Night (1934); Taps at Reveille (1935, stories); The Crack-Up (1945, posthumous essays); The Last Tycoon (1941, posthumous, unfinished); The Pat Hobby Stories (1962, posthumous); Letters to His Daughter (1965, posthumous); The Basil and Josephine Stories (1973, posthumous); The Short Stories of F. Scott Fitzgerald (1989, posthumous)."
- },
- {
   "full_name": "Ernest Hemingway",
   "alternative_names": [
    "Ernest Miller Hemingway"
@@ -58,10 +26,10 @@
    "Ivan Turgenev",
    "Stendhal"
   ],
-  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1925 and 1929.",
+  "biographical_uncertainty": "16 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1925 and 1929.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Three Stories and Ten Poems (1923); In Our Time (1925, stories); The Torrents of Spring (1926); The Sun Also Rises (1926); Men Without Women (1927, stories); A Farewell to Arms (1929); Death in the Afternoon (1932, prose); Winner Take Nothing (1933, stories); Green Hills of Africa (1935, prose); To Have and Have Not (1937); The Spanish Earth (1938, film commentary); The Fifth Column and the First Forty-Nine Stories (1938); For Whom the Bell Tolls (1940); Across the River and into the Trees (1950); The Old Man and the Sea (1952); A Moveable Feast (1964, posthumous); Islands in the Stream (1970, posthumous); The Garden of Eden (1986, posthumous); The Complete Short Stories of Ernest Hemingway (1987, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Three Stories and Ten Poems (1923); The Torrents of Spring (1926); Men Without Women (1927, stories); Death in the Afternoon (1932, prose); Winner Take Nothing (1933, stories); Green Hills of Africa (1935, prose); To Have and Have Not (1937); The Spanish Earth (1938, film commentary); The Fifth Column and the First Forty-Nine Stories (1938); For Whom the Bell Tolls (1940); Across the River and into the Trees (1950); The Old Man and the Sea (1952); A Moveable Feast (1964, posthumous); Islands in the Stream (1970, posthumous); The Garden of Eden (1986, posthumous); The Complete Short Stories of Ernest Hemingway (1987, posthumous)."
  },
  {
   "full_name": "John Dos Passos",
@@ -89,10 +57,10 @@
    "Sherwood Anderson",
    "Blaise Cendrars"
   ],
-  "biographical_uncertainty": "22 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1921 and 1930.",
+  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1921 and 1930.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: One Man's Initiation: 1917 (1920); Three Soldiers (1921); A Pushcart at the Curb (1922, poems); Streets of Night (1923); Manhattan Transfer (1925); Facing the Chair (1927, pamphlet); The 42nd Parallel (1930); Nineteen Nineteen (1932); In All Countries (1934, travel); The Big Money (1936); U.S.A. (1938, trilogy); Journeys Between Wars (1938); Adventures of a Young Man (1939); Number One (1943); The Grand Design (1949); The Prospect Before Us (1950); Chosen Country (1951); Most Likely to Succeed (1954); The Great Days (1958); Midcentury (1961); Brazil on the Move (1963); The Portugal Story (1969)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: One Man's Initiation: 1917 (1920); A Pushcart at the Curb (1922, poems); Streets of Night (1923); Facing the Chair (1927, pamphlet); The 42nd Parallel (1930); Nineteen Nineteen (1932); In All Countries (1934, travel); The Big Money (1936); Journeys Between Wars (1938); Adventures of a Young Man (1939); Number One (1943); The Grand Design (1949); The Prospect Before Us (1950); Chosen Country (1951); Most Likely to Succeed (1954); The Great Days (1958); Midcentury (1961); Brazil on the Move (1963); The Portugal Story (1969)."
  },
  {
   "full_name": "William Faulkner",
@@ -122,10 +90,10 @@
    "Herman Melville",
    "Mark Twain"
   ],
-  "biographical_uncertainty": "25 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1929 and 1942.",
+  "biographical_uncertainty": "20 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1929 and 1942.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Marble Faun (1924, poems); Soldiers' Pay (1926); Mosquitoes (1927); Sartoris (1929); The Sound and the Fury (1929); As I Lay Dying (1930); These Thirteen (1931, stories); Idyll in the Desert (1931); Sanctuary (1931); Light in August (1932); A Green Bough (1933, poems); Doctor Martino and Other Stories (1934); Pylon (1935); Absalom, Absalom! (1936); The Unvanquished (1938); The Wild Palms (1939); The Hamlet (1940); Go Down, Moses (1942, stories); Intruder in the Dust (1948); Knight's Gambit (1949, stories); Requiem for a Nun (1951, novel-play); The Town (1957); The Mansion (1959); The Reivers (1962); Flags in the Dust (1973, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Marble Faun (1924, poems); Soldiers' Pay (1926); Mosquitoes (1927); Sartoris (1929); These Thirteen (1931, stories); Idyll in the Desert (1931); Sanctuary (1931); A Green Bough (1933, poems); Doctor Martino and Other Stories (1934); Pylon (1935); The Unvanquished (1938); The Wild Palms (1939); The Hamlet (1940); Intruder in the Dust (1948); Knight's Gambit (1949, stories); Requiem for a Nun (1951, novel-play); The Town (1957); The Mansion (1959); The Reivers (1962); Flags in the Dust (1973, posthumous)."
  },
  {
   "full_name": "Thomas Wolfe",
@@ -153,10 +121,10 @@
    "Fyodor Dostoevsky",
    "Sinclair Lewis"
   ],
-  "biographical_uncertainty": "9 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1929 and 1935.",
+  "biographical_uncertainty": "7 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1929 and 1935.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Look Homeward, Angel (1929); Of Time and the River (1935); From Death to Morning (1935, stories); The Story of a Novel (1936, essay); The Web and the Rock (1939, posthumous); You Can't Go Home Again (1940, posthumous); The Hills Beyond (1941, posthumous); The Letters of Thomas Wolfe (1956, posthumous); The Notebooks of Thomas Wolfe (1970, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: From Death to Morning (1935, stories); The Story of a Novel (1936, essay); The Web and the Rock (1939, posthumous); You Can't Go Home Again (1940, posthumous); The Hills Beyond (1941, posthumous); The Letters of Thomas Wolfe (1956, posthumous); The Notebooks of Thomas Wolfe (1970, posthumous)."
  },
  {
   "full_name": "Katherine Anne Porter",
@@ -184,10 +152,10 @@
    "Katherine Mansfield",
    "Willa Cather"
   ],
-  "biographical_uncertainty": "14 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1939.",
+  "biographical_uncertainty": "11 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1939.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Flowering Judas (1930, stories); Noon Wine (1937, novella); Pale Horse, Pale Rider (1939, three novellas); The Leaning Tower and Other Stories (1944); The Days Before (1952, essays); Ship of Fools (1962, novel); The Collected Stories of Katherine Anne Porter (1965); A Christmas Story (1967); The Never-Ending Wrong (1977, essay); 'The Jilting of Granny Weatherall' (1930); 'Flowering Judas' (1930); 'The Grave' (1935); 'He' (1927); 'Maria Concepción' (1922)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Noon Wine (1937, novella); The Leaning Tower and Other Stories (1944); The Days Before (1952, essays); Ship of Fools (1962, novel); The Collected Stories of Katherine Anne Porter (1965); A Christmas Story (1967); The Never-Ending Wrong (1977, essay); 'The Jilting of Granny Weatherall' (1930); 'The Grave' (1935); 'He' (1927); 'Maria Concepción' (1922)."
  },
  {
   "full_name": "Eudora Welty",
@@ -215,10 +183,10 @@
    "Jane Austen",
    "Isak Dinesen"
   ],
-  "biographical_uncertainty": "17 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1941 and 1942.",
+  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1941 and 1942.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Curtain of Green (1941, stories); The Robber Bridegroom (1942, novella); The Wide Net and Other Stories (1943); Delta Wedding (1946, novel); The Golden Apples (1949, stories); The Ponder Heart (1954, novella); The Bride of the Innisfallen (1955, stories); The Shoe Bird (1964, children's book); Losing Battles (1970, novel); The Optimist's Daughter (1972, novel); The Eye of the Story (1978, essays); One Writer's Beginnings (1984, memoir); The Collected Stories of Eudora Welty (1980); 'Why I Live at the P.O.' (1941); 'A Worn Path' (1941); 'Petrified Man' (1939); 'Powerhouse' (1941)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Wide Net and Other Stories (1943); Delta Wedding (1946, novel); The Golden Apples (1949, stories); The Ponder Heart (1954, novella); The Bride of the Innisfallen (1955, stories); The Shoe Bird (1964, children's book); Losing Battles (1970, novel); The Optimist's Daughter (1972, novel); The Eye of the Story (1978, essays); One Writer's Beginnings (1984, memoir); The Collected Stories of Eudora Welty (1980); 'Why I Live at the P.O.' (1941); 'A Worn Path' (1941); 'Petrified Man' (1939); 'Powerhouse' (1941)."
  },
  {
   "full_name": "Carson McCullers",
@@ -246,9 +214,43 @@
    "Elizabeth Bowen",
    "Eudora Welty"
   ],
-  "biographical_uncertainty": "10 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1940 and 1946.",
+  "biographical_uncertainty": "7 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1940 and 1946.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Heart Is a Lonely Hunter (1940, novel); Reflections in a Golden Eye (1941, novel); The Member of the Wedding (1946, novel; play 1950); The Ballad of the Sad Café (1951, novella and stories); The Square Root of Wonderful (1958, play); Clock Without Hands (1961, novel); Sweet as a Pickle and Clean as a Pig (1964, poems); The Mortgaged Heart (1971, posthumous); Illumination and Night Glare (1999, posthumous autobiography)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Reflections in a Golden Eye (1941, novel); The Ballad of the Sad Café (1951, novella and stories); The Square Root of Wonderful (1958, play); Clock Without Hands (1961, novel); Sweet as a Pickle and Clean as a Pig (1964, poems); The Mortgaged Heart (1971, posthumous); Illumination and Night Glare (1999, posthumous autobiography)."
+ },
+ {
+  "full_name": "W. H. Auden",
+  "alternative_names": [
+   "Wystan Hugh Auden",
+   "Wystan Auden"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1907",
+  "birth_date_approximate": false,
+  "death_date": "1973",
+  "death_date_approximate": false,
+  "birthplace": "York, England",
+  "nationality_or_literary_tradition": "British-American; the thirties public poem, the elegy and the poetry of the modern city",
+  "literary_identity": "Poet, dramatist and critic; the central English poet of the 1930s, the leader of the Auden generation, and one of the great public poets of the century.",
+  "biography": "Born Wystan Hugh Auden in York on 21 February 1907, the son of a physician; he read at Christ Church, Oxford, where his Poems (1928, privately printed by Spender) and Poems (1930) made him the leader of his generation. The Orators (1932), Look, Stranger! (1936), the plays with Isherwood (The Dog Beneath the Skin, 1935; The Ascent of F6, 1936; On the Frontier, 1938) and Journey to a War (1939) made him the voice of the decade; he emigrated to America in 1939, became an American citizen in 1946, and returned to Oxford as professor of poetry (1956–61). He died in Vienna on 29 September 1973.",
+  "literary_profile": "Auden is the central English poet of the 1930s and one of the great poets of the century: he gave the decade its public voice — the clipped, journalistic line, the parable, the political fable — and then, in America, wrote the great religious and meditative poems ('In Memory of W. B. Yeats', 'Musée des Beaux Arts', 'September 1, 1939', the Christmas oratorio For the Time Being). His technical range — ballad, sonnet, sestina, haiku, libretto, light verse — is unmatched in modern English poetry.",
+  "stylistic_characteristics": "The clipped journalistic line with the flat technical vocabulary; the rhymed parable and the nursery-rhyme turned political; the catalogue of places and machines; the public elegy; the sudden turn from satire to tenderness; the colloquial idiom held in strict form.",
+  "intellectual_concerns": "Totalitarianism and the coming war; class, the public school and the English ruling order; love, anxiety and the divided self; the modern city, the aeroplane and the machine; faith, the Church and the possibility of belief; history and the individual's place in it.",
+  "historical_significance": "Auden is the central English poet of the period after Eliot: he gave the thirties its public voice, invented the political poem as a modern form, wrote the great elegies and meditations of the century, and his technical range made him the model for every English poet since. He is the period's most influential poet after Eliot and Yeats.",
+  "major_influences": [
+   "T. S. Eliot",
+   "Gerard Manley Hopkins",
+   "Thomas Hardy",
+   "Edward Lear",
+   "Søren Kierkegaard",
+   "W. B. Yeats",
+   "Karl Marx",
+   "Sigmund Freud"
+  ],
+  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1940.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Poems (1928, privately printed); The Dance of Death (1933, play); The Dog Beneath the Skin (1935, with Isherwood); The Ascent of F6 (1936, with Isherwood); Letters from Iceland (1937, with MacNeice); On the Frontier (1938, with Isherwood); Journey to a War (1939, with Isherwood); The Double Man (1941; UK title New Year Letter); For the Time Being (1944, Christmas oratorio); The Sea and the Mirror (1944); The Age of Anxiety (1947, Pulitzer Prize); The Shield of Achilles (1955); Homage to Clio (1960); About the House (1965); City Without Walls (1969); Epistle to a Godson (1972); Thank You, Fog (1974, posthumous); Collected Poems (1976, posthumous)."
  }
 ]

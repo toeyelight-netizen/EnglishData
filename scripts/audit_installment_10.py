@@ -283,7 +283,11 @@ def main():
     L = lines.append
     trad_count = Counter(tradition(r["nationality_or_literary_tradition"]) for r in author_rows.values())
     tiers = Counter(r["significance_tier"] or "ungraded (earlier installment)" for r in author_rows.values())
-    bib = Counter((i10_authors.get(n) or {}).get("bibliography_status") or "not assessed (author recorded in an earlier installment)" for n in author_rows)
+    # Earlier-installment authors carry installment 10's statement through an
+    # extension merged into their defining record, so read the database row.
+    bib = Counter(author_rows[n]["bibliography_status"]
+                  or "not assessed (earlier-installment record, no installment-10 extension yet)"
+                  for n in author_rows)
     incomplete_desc = [w["title"] for w in works if wstat[w["work_id"]]["short"]]
     unresolved = [w["title"] for w in works if (w["research_notes"] or "").strip()]
     ver_w = Counter(w["verification_status"] or "not assessed" for w in works)
@@ -296,8 +300,10 @@ def main():
       "Every figure below is computed; nothing is estimated. **Installment 10 is not complete.** This report states exactly how far it has got.\n")
     L("## 1–11. Measurable completion criteria\n")
     L("| # | Criterion | Value |\n|---|---|---|")
-    L("| 1 | Authors with installment-10 works | %d (of whom %d have installment-10 author records; %d are recorded by earlier installments) |"
-      % (len(author_rows), len(set(author_rows) & set(i10_authors)), len(set(author_rows) - set(i10_authors))))
+    earlier = sorted(set(author_rows) - set(i10_authors))
+    L("| 1 | Authors with installment-10 works | %d (of whom %d have installment-10 author records; %d %s recorded by earlier installments%s) |"
+      % (len(author_rows), len(set(author_rows) & set(i10_authors)), len(earlier),
+         "is" if len(earlier) == 1 else "are", (": " + ", ".join(earlier)) if earlier else ""))
     L("| 2 | Literary works (1946–2000) | %d (core 1951–2000: %d; bridge 1946–1950: %d) |" % (len(works), len(core), len(works) - len(core)))
     L("| 3 | Genres and subgenres defined | %d (%d genre families, %d subgenres) |" % (len(i10_genres), sum(1 for g in i10_genres if g.endswith("(1946–2000)")), sum(1 for g in i10_genres if not g.endswith("(1946–2000)"))))
     L("| 4 | Literary movements defined | %d |" % len(i10_movs))
@@ -376,8 +382,11 @@ def main():
     L("| Author | Bibliography status | Works recorded 1946–2000 | Verification |\n|---|---|---|---|")
     per_author = Counter(a for w in works for a in (w["authors"] or "").split("; ") if a)
     for n in sorted(author_rows):
-        r = i10_authors.get(n) or {}
-        L("| %s | %s | %d | %s |" % (n, r.get("bibliography_status") or "not assessed (earlier-installment record)", per_author[n], r.get("verification_status") or "not assessed"))
+        r = author_rows[n]
+        status = r["bibliography_status"] or "not assessed (earlier-installment record, no installment-10 extension yet)"
+        if n not in i10_authors and r["bibliography_status"]:
+            status += " (installment-10 extension of an earlier record)"
+        L("| %s | %s | %d | %s |" % (n, status, per_author[n], r["verification_status"] or "not assessed"))
     dup = [t for t, c in Counter((w["title"], w["authors"]) for w in works).items() if c > 1]
     L("\nDuplicate title+author pairs: %d. External comparison against the bestseller, prize and Asian American title lists is run per author as each wave is added (see notes).\n" % len(dup))
     # Audit 4
@@ -408,7 +417,11 @@ def main():
             b, d = year(a["birth_date"]), year(a["death_date"])
             if b and y < b + 12:
                 probs.append("%s: published %d, author born %d" % (w["title"], y, b))
-            if d and y > d and "posthum" not in " ".join(str(w[k] or "") for k in ("bibliographical_notes", "description", "historical_context", "research_notes")).lower():
+            # The literary form is where installment 10 states publication
+            # status ("Collected edition in four volumes (posthumous; ...)").
+            if d and y > d and "posthum" not in " ".join(str(w[k] or "") for k in (
+                    "literary_form", "bibliographical_notes", "description", "historical_context",
+                    "research_notes")).lower():
                 probs.append("%s: published %d after the author's death (%d) without a posthumous note" % (w["title"], y, d))
         c = year(w["composition_date_start"])
         if c and y and c > y:
@@ -474,6 +487,49 @@ def main():
         tests.append(("decade filter %s (%d works)" % (dname, expect), got == expect))
     failed = [t for t, ok in tests if not ok]
     L("Search tests run: %d; passed: %d; failed: %d%s.\n" % (len(tests), len(tests) - len(failed), len(failed), (" — " + "; ".join(failed[:20])) if failed else ""))
+    # The Android app reads a JSON export of the database, not the database itself.
+    asset_path = os.path.join(ROOT, "android", "app", "src", "main", "assets", "data", "english_literature.json")
+    app_mismatches = None
+    if os.path.exists(asset_path):
+        asset = json.load(open(asset_path, encoding="utf-8"))
+        link_sql = {
+            "works": ("select title from works where work_id=?", "title", {
+                "genres": "select g.name from work_genres x join genres g using(genre_id) where x.work_id=?",
+                "themes": "select t.name from work_themes x join themes t using(theme_id) where x.work_id=?",
+                "movements": "select m.name from work_movements x join movements m using(movement_id) where x.work_id=?",
+                "sources": "select s.title from work_sources x join sources s using(source_id) where x.work_id=?"}),
+            "authors": ("select full_name from authors where author_id=?", "name", {
+                "genres": "select g.name from author_genres x join genres g using(genre_id) where x.author_id=?",
+                "themes": "select t.name from author_themes x join themes t using(theme_id) where x.author_id=?",
+                "movements": "select m.name from author_movements x join movements m using(movement_id) where x.author_id=?",
+                "sources": "select s.title from author_sources x join sources s using(source_id) where x.author_id=?",
+                "influencedBy": "select b.full_name from author_influences x join authors b on b.author_id=x.influenced_by_author_id where x.author_id=?"}),
+        }
+        compared, wrong, stale, examples = 0, 0, 0, []
+        for kind, (name_sql, name_key, fields) in link_sql.items():
+            for rec in asset.get(kind, []):
+                row = q(name_sql, rec["id"])
+                if not row or row[0][0] != rec[name_key]:
+                    stale += 1
+                    continue
+                for field, sql in fields.items():
+                    compared += 1
+                    if sorted(rec.get(field) or []) != sorted({r[0] for r in q(sql, rec["id"])}):
+                        wrong += 1
+                        if len(examples) < 5:
+                            examples.append("%s %s" % (rec[name_key], field))
+        db_counts = (q("select count(*) from works")[0][0], q("select count(*) from authors")[0][0])
+        app_mismatches = wrong + stale
+        L("**Application data.** The Android app reads `%s` (exported %s, installments %s), not the database. Its %d works and %d authors (database: %d and %d) "
+          "were compared with the database record by record: %d records whose id now names a different record, and %d of %d link lists "
+          "(genres, themes, movements, sources, influences) that differ from the database%s.\n"
+          % (os.path.relpath(asset_path, ROOT), asset.get("generated", "?"), asset.get("installments", "?"), len(asset.get("works", [])),
+             len(asset.get("authors", [])), db_counts[0], db_counts[1], stale, wrong, compared,
+             (" (e.g. " + "; ".join(examples) + ")") if examples else ""))
+        if app_mismatches or (len(asset.get("works", [])), len(asset.get("authors", []))) != db_counts:
+            L("The export is out of date or wrong: regenerate it with `python3 scripts/export_app_data.py`.\n")
+    else:
+        L("**Application data.** The Android app asset was not found, so the export was not checked.\n")
     # Audit 8
     L("### Audit 8 — Independent second-pass research\n")
     L("Not yet executed. The order requires it after the reconstruction and the first seven audits; it will search specifically for overlooked writers "
@@ -485,8 +541,8 @@ def main():
         fh.write("\n".join(lines) + "\n")
     print("audit report -> %s; coverage matrix -> %s (%d work rows, %d candidate rows)"
           % (os.path.relpath(REPORT, ROOT), os.path.relpath(MATRIX, ROOT), len(works), sum(1 for c in inv if c["status"] != "in installment 10")))
-    print("works %d | authors %d | genre checklist covered %d/%d | search tests %d failed %d"
-          % (len(works), len(author_rows), covered, total_items, len(tests), len(failed)))
+    print("works %d | authors %d | genre checklist covered %d/%d | search tests %d failed %d | app asset mismatches %s"
+          % (len(works), len(author_rows), covered, total_items, len(tests), len(failed), app_mismatches))
     return 0
 
 

@@ -1,34 +1,5 @@
 [
  {
-  "full_name": "Edwin Muir",
-  "alternative_names": [],
-  "pseudonyms": [],
-  "birth_date": "1887",
-  "birth_date_approximate": false,
-  "death_date": "1959",
-  "death_date_approximate": false,
-  "birthplace": "Deerness, Orkney, Scotland",
-  "nationality_or_literary_tradition": "Scottish; the mythic lyric and the autobiography of lost Eden",
-  "literary_identity": "Poet, critic and translator; the great Orcadian lyric poet of the century and the author of The Story and the Fable, one of the finest Scottish autobiographies.",
-  "biography": "Born Edwin Muir on a farm at Deerness, Orkney, on 15 May 1887; the family moved to Glasgow in 1901 and was destroyed by the city's poverty, an experience that became the ground of all his poetry. He worked as a clerk in a bone factory and an office, married Willa Anderson in 1919, translated Kafka with her, wrote criticism for The Freeman, the New Age and The Listener, and published First Poems (1925), The Narrow Place (1943), The Voyage (1946) and One Foot in Eden (1956). He died at Swaffham Prior, Cambridgeshire, on 3 January 1959.",
-  "literary_profile": "Muir is the great Scottish poet of the modern lyric: his poems of Eden, the fall, the journey and the lost childhood are among the finest in twentieth-century English, and The Story and the Fable (1940) is one of the great autobiographies of the period. With his wife Willa he translated Kafka's novels into English for the first time, an act of transmission as important as his own verse.",
-  "stylistic_characteristics": "The plain, mythic, unnervingly simple lyric; the dream image held in regular stanza; the archetype deployed without ornament; the child's vision and the adult's guilt; the prose of an autobiography that reads like a fable.",
-  "intellectual_concerns": "Eden, the fall and the lost childhood; the city and the destruction of the family; the journey, the voyage and the dream; Scotland, Orkney and the inheritance of myth; time, dream and the archetypal image; the poet's vocation.",
-  "historical_significance": "Muir is the finest Scottish lyric poet of the period and one of the great autobiographers: his mythic poems of Eden and the journey are permanent, The Story and the Fable is a central Scottish autobiography, and his translations of Kafka gave English the writer who remade the modern novel.",
-  "major_influences": [
-   "John Keats",
-   "William Wordsworth",
-   "William Blake",
-   "Robert Burns",
-   "Franz Kafka",
-   "Dante Alighieri"
-  ],
-  "biographical_uncertainty": "23 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1940 and 1943.",
-  "research_status": "complete",
-  "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: We Moderns (1918, as Edward Moore); First Poems (1925); Chorus of the Newly Dead (1926); Transition (1926, essays); The Marionette (1927, novel); The Structure of the Novel (1928, criticism); John Knox (1929, biography); Six Poems (1932); Poor Tom (1932, novel); The Three Brothers (1931, novel); Variations on a Time Theme (1934); Scottish Journey (1935, travel); Journeys and Places (1937); The Present Age from 1914 (1939, criticism); The Story and the Fable (1940, autobiography); The Narrow Place (1943); The Voyage and Other Poems (1946); Essays on Literature and Society (1949); The Labyrinth (1949); Collected Poems 1921–1951 (1952); Autobiography (1954, revised The Story and the Fable); One Foot in Eden (1956); The Estate of Poetry (1962, posthumous)."
- },
- {
   "full_name": "Gertrude Stein",
   "alternative_names": [],
   "pseudonyms": [],
@@ -52,10 +23,10 @@
    "Henry James",
    "Laurence Sterne"
   ],
-  "biographical_uncertainty": "21 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1909 and 1933.",
+  "biographical_uncertainty": "18 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1909 and 1933.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Q.E.D. (written 1903, published 1950, posthumous); Three Lives (1909); Tender Buttons (1914); Geography and Plays (1922); The Making of Americans (1925); Composition as Explanation (1926, lecture); Lucy Church Amiably (1930); Useful Knowledge (1928); How to Write (1931); Operas and Plays (1932); The Autobiography of Alice B. Toklas (1933); Four Saints in Three Acts (1934, opera libretto); Lectures in America (1935); The Geographical History of America (1936); Everybody's Autobiography (1937); Picasso (1938); Paris France (1940); Ida: A Novel (1941); Wars I Have Seen (1945); Brewsie and Willie (1946); The Mother of Us All (1947, posthumous libretto)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Q.E.D. (written 1903, published 1950, posthumous); Geography and Plays (1922); The Making of Americans (1925); Composition as Explanation (1926, lecture); Lucy Church Amiably (1930); Useful Knowledge (1928); How to Write (1931); Operas and Plays (1932); Four Saints in Three Acts (1934, opera libretto); Lectures in America (1935); The Geographical History of America (1936); Everybody's Autobiography (1937); Picasso (1938); Paris France (1940); Ida: A Novel (1941); Wars I Have Seen (1945); Brewsie and Willie (1946); The Mother of Us All (1947, posthumous libretto)."
  },
  {
   "full_name": "Sherwood Anderson",
@@ -81,10 +52,10 @@
    "Henry James",
    "D. H. Lawrence"
   ],
-  "biographical_uncertainty": "23 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "22 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Windy McPherson's Son (1916); Marching Men (1917); Winesburg, Ohio (1919); Poor White (1920); The Triumph of the Egg (1921, stories); Horses and Men (1923, stories); Many Marriages (1923); A Story Teller's Story (1924, memoir); Dark Laughter (1925); The Notebook (1926); Tar: A Midwest Childhood (1926); Hello Towns! (1929); Nearer the Grass Roots (1929); Perhaps Women (1931); Beyond Desire (1932); Death in the Woods and Other Stories (1933); No Swank (1934); Puzzled America (1935); Kit Brandon (1936); Plays: Winesburg and Others (1937); Home Town (1940); Sherwood Anderson's Memoirs (1942, posthumous); The Portable Sherwood Anderson (1949, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Windy McPherson's Son (1916); Marching Men (1917); Poor White (1920); The Triumph of the Egg (1921, stories); Horses and Men (1923, stories); Many Marriages (1923); A Story Teller's Story (1924, memoir); Dark Laughter (1925); The Notebook (1926); Tar: A Midwest Childhood (1926); Hello Towns! (1929); Nearer the Grass Roots (1929); Perhaps Women (1931); Beyond Desire (1932); Death in the Woods and Other Stories (1933); No Swank (1934); Puzzled America (1935); Kit Brandon (1936); Plays: Winesburg and Others (1937); Home Town (1940); Sherwood Anderson's Memoirs (1942, posthumous); The Portable Sherwood Anderson (1949, posthumous)."
  },
  {
   "full_name": "Langston Hughes",
@@ -113,10 +84,10 @@
    "Vachel Lindsay",
    "Countee Cullen"
   ],
-  "biographical_uncertainty": "27 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1926 and 1934.",
+  "biographical_uncertainty": "24 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1926 and 1934.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Weary Blues (1926); Fine Clothes to the Jew (1927); Not Without Laughter (1930, novel); Dear Lovely Death (1931); The Dream Keeper (1932); Scottsboro Limited (1932, play); The Ways of White Folks (1934, stories); A Negro Mother (1931); Mulatto (1935, play); The Big Sea (1940, autobiography); Shakespeare in Harlem (1942); Freedom's Plow (1943); Fields of Wonder (1947); One-Way Ticket (1949); Simple Speaks His Mind (1950); Montage of a Dream Deferred (1951); Laughing to Keep from Crying (1952, stories); Simple Takes a Wife (1953); I Wonder as I Wander (1956, autobiography); Simple Stakes a Claim (1957); Tambourines to Glory (1958, novel); Selected Poems of Langston Hughes (1959); Ask Your Mama: 12 Moods for Jazz (1961); The Best of Simple (1961); Five Plays (1963); Simple's Uncle Sam (1965); The Panther and the Lash (1967)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Fine Clothes to the Jew (1927); Dear Lovely Death (1931); The Dream Keeper (1932); Scottsboro Limited (1932, play); A Negro Mother (1931); Mulatto (1935, play); The Big Sea (1940, autobiography); Shakespeare in Harlem (1942); Freedom's Plow (1943); Fields of Wonder (1947); One-Way Ticket (1949); Simple Speaks His Mind (1950); Montage of a Dream Deferred (1951); Laughing to Keep from Crying (1952, stories); Simple Takes a Wife (1953); I Wonder as I Wander (1956, autobiography); Simple Stakes a Claim (1957); Tambourines to Glory (1958, novel); Selected Poems of Langston Hughes (1959); Ask Your Mama: 12 Moods for Jazz (1961); The Best of Simple (1961); Five Plays (1963); Simple's Uncle Sam (1965); The Panther and the Lash (1967)."
  },
  {
   "full_name": "Zora Neale Hurston",
@@ -144,10 +115,10 @@
    "Alice Dunbar Nelson",
    "Alain Locke"
   ],
-  "biographical_uncertainty": "14 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1935 and 1937.",
+  "biographical_uncertainty": "12 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1935 and 1937.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Jonah's Gourd Vine (1934, novel); Mules and Men (1935, folklore); Their Eyes Were Watching God (1937, novel); Tell My Horse (1938, folklore); Moses, Man of the Mountain (1939, novel); Dust Tracks on a Road (1942, autobiography); Seraph on the Suwanee (1948, novel); The Sanctified Church (1981, posthumous); The Complete Stories of Zora Neale Hurston (1995, posthumous); Barracoon: The Story of the Last 'Black Cargo' (written 1931, published 2018); Every Tongue Got to Confess (2001, posthumous folklore); Color Struck (1926, play); Sweat (1926, story); How It Feels to Be Colored Me (1928, essay)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Jonah's Gourd Vine (1934, novel); Tell My Horse (1938, folklore); Moses, Man of the Mountain (1939, novel); Dust Tracks on a Road (1942, autobiography); Seraph on the Suwanee (1948, novel); The Sanctified Church (1981, posthumous); The Complete Stories of Zora Neale Hurston (1995, posthumous); Barracoon: The Story of the Last 'Black Cargo' (written 1931, published 2018); Every Tongue Got to Confess (2001, posthumous folklore); Color Struck (1926, play); Sweat (1926, story); How It Feels to Be Colored Me (1928, essay)."
  },
  {
   "full_name": "Claude McKay",
@@ -175,10 +146,10 @@
    "H. G. de Lisser",
    "James Weldon Johnson"
   ],
-  "biographical_uncertainty": "18 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1922 and 1928.",
+  "biographical_uncertainty": "16 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1922 and 1928.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Songs of Jamaica (1912); Constab Ballads (1912); Spring in New Hampshire (1920); Harlem Shadows (1922); Home to Harlem (1928, novel); Banjo: A Story Without a Plot (1929, novel); Gingertown (1932, stories); Banana Bottom (1933, novel); A Long Way from Home (1937, autobiography); Harlem: Negro Metropolis (1940, history); Selected Poems of Claude McKay (1953, posthumous); My Green Hills of Jamaica (1979, posthumous); 'If We Must Die' (1919); 'America' (1921); 'The Lynching' (1922); 'Tropics in New York' (1920); 'The Harlem Dancer' (1917); 'Flame-Heart' (1920)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Songs of Jamaica (1912); Constab Ballads (1912); Spring in New Hampshire (1920); Banjo: A Story Without a Plot (1929, novel); Gingertown (1932, stories); Banana Bottom (1933, novel); A Long Way from Home (1937, autobiography); Harlem: Negro Metropolis (1940, history); Selected Poems of Claude McKay (1953, posthumous); My Green Hills of Jamaica (1979, posthumous); 'If We Must Die' (1919); 'America' (1921); 'The Lynching' (1922); 'Tropics in New York' (1920); 'The Harlem Dancer' (1917); 'Flame-Heart' (1920)."
  },
  {
   "full_name": "Countee Cullen",
@@ -207,10 +178,10 @@
    "Edna St Vincent Millay",
    "James Weldon Johnson"
   ],
-  "biographical_uncertainty": "17 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1925 and 1927.",
+  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1925 and 1927.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Color (1925); The Ballad of the Brown Girl (1927); Copper Sun (1927); Caroling Dusk (1927, ed., anthology); The Black Christ and Other Poems (1929); One Way to Heaven (1932, novel); The Medea and Some Poems (1935, translation); The Lost Zoo (1940, children's verse); My Lives and How I Lost Them (1942, children's prose); On These I Stand (1947, posthumous); The Poetry of Countee Cullen (1947, posthumous); 'Yet Do I Marvel' (1925); 'Heritage' (1925); 'Incident' (1925); 'From the Dark Tower' (1925); 'Tableau' (1925); 'Saturday's Child' (1925)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Ballad of the Brown Girl (1927); Copper Sun (1927); The Black Christ and Other Poems (1929); One Way to Heaven (1932, novel); The Medea and Some Poems (1935, translation); The Lost Zoo (1940, children's verse); My Lives and How I Lost Them (1942, children's prose); On These I Stand (1947, posthumous); The Poetry of Countee Cullen (1947, posthumous); 'Yet Do I Marvel' (1925); 'Heritage' (1925); 'Incident' (1925); 'From the Dark Tower' (1925); 'Tableau' (1925); 'Saturday's Child' (1925)."
  },
  {
   "full_name": "Jean Toomer",
@@ -239,9 +210,41 @@
    "George Gurdjieff",
    "William Blake"
   ],
-  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "12 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Cane (1923); Essentials (1931, Gurdjieff essays); The Flavor of Man (1949, lecture); The Wayward and the Seeking (1980, posthumous); The Collected Poems of Jean Toomer (1988, posthumous); A Drama of the Southwest (2016, posthumous play); The Letters of Jean Toomer (2006, posthumous); 'Karintha' (1923); 'Fern' (1923); 'Blood-Burning Moon' (1923); 'Theater' (1923); 'Bona and Paul' (1923); 'Kabnis' (1923, drama)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Essentials (1931, Gurdjieff essays); The Flavor of Man (1949, lecture); The Wayward and the Seeking (1980, posthumous); The Collected Poems of Jean Toomer (1988, posthumous); A Drama of the Southwest (2016, posthumous play); The Letters of Jean Toomer (2006, posthumous); 'Karintha' (1923); 'Fern' (1923); 'Blood-Burning Moon' (1923); 'Theater' (1923); 'Bona and Paul' (1923); 'Kabnis' (1923, drama)."
+ },
+ {
+  "full_name": "F. Scott Fitzgerald",
+  "alternative_names": [
+   "Francis Scott Key Fitzgerald",
+   "Scott Fitzgerald"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1896",
+  "birth_date_approximate": false,
+  "death_date": "1940",
+  "death_date_approximate": false,
+  "birthplace": "Saint Paul, Minnesota, United States",
+  "nationality_or_literary_tradition": "American; the jazz-age novel, the lyric of the American dream and the short story of the twenties",
+  "literary_identity": "Novelist and short-story writer; the laureate of the Jazz Age and the author of The Great Gatsby, the most perfect American novel of the period.",
+  "biography": "Born Francis Scott Key Fitzgerald in Saint Paul, Minnesota, on 24 September 1896; he read at Princeton without graduating, served in the army without seeing action, and made his name with This Side of Paradise in 1920, marrying Zelda Sayre a week after publication. The Beautiful and Damned (1922), The Great Gatsby (1925), Tender Is the Night (1934) and the unfinished The Last Tycoon followed, together with some 160 stories for the Saturday Evening Post. He died of a heart attack in Hollywood on 21 December 1940.",
+  "literary_profile": "Fitzgerald is the essential novelist of the 1920s and the author of the most nearly perfect American novel: The Great Gatsby is a lyric study of the American dream's corruption, Tender Is the Night a study of money and marriage that is formally years ahead of its time, and the stories are the definitive record of the jazz age. His prose — the fresh, exact, romantic sentence — is the period's most influential style.",
+  "stylistic_characteristics": "The romantic lyric sentence held in tight structure; the image chosen for its glamour and its hollowness; the collapse of the narrator's sympathy into judgement; the time-shift and the retrospective frame (Gatsby, Tender Is the Night); the short story built on a single social scene.",
+  "intellectual_concerns": "The American dream and the corruption of it; money, class and the careless rich; the jazz age, drink and the party; love, marriage and the illusions of the beautiful; the Midwest and the East; failure, decline and the grace of the second chance refused.",
+  "historical_significance": "Fitzgerald wrote the most perfect American novel of the period and the definitive record of the 1920s: The Great Gatsby is a permanent classic, Tender Is the Night is one of the century's great studies of marriage and money, and his short stories made the jazz age a literary period. He is the period's great poet of the American dream and its failure.",
+  "major_influences": [
+   "John Keats",
+   "Joseph Conrad",
+   "Henry James",
+   "Edith Wharton",
+   "Willard Huntington Wright",
+   "H. L. Mencken"
+  ],
+  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1925 and 1934.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: This Side of Paradise (1920); Flappers and Philosophers (1920, stories); The Beautiful and Damned (1922); Tales of the Jazz Age (1922, stories); The Vegetable (1923, play); All the Sad Young Men (1926, stories); Taps at Reveille (1935, stories); The Crack-Up (1945, posthumous essays); The Last Tycoon (1941, posthumous, unfinished); The Pat Hobby Stories (1962, posthumous); Letters to His Daughter (1965, posthumous); The Basil and Josephine Stories (1973, posthumous); The Short Stories of F. Scott Fitzgerald (1989, posthumous)."
  }
 ]

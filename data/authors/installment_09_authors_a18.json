@@ -1,34 +1,5 @@
 [
  {
-  "full_name": "Arthur Koestler",
-  "alternative_names": [
-   "Artúr Kösztler"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1905",
-  "birth_date_approximate": false,
-  "death_date": "1983",
-  "death_date_approximate": false,
-  "birthplace": "Budapest, Hungary",
-  "nationality_or_literary_tradition": "British; the novelist of Darkness at Noon and the testament of Spain",
-  "literary_identity": "Novelist and political writer; the author of Spanish Testament and Darkness at Noon.",
-  "biography": "Born Artúr Kösztler at Budapest on 5 September 1905; he worked as a journalist in Palestine and Berlin, joined the Communist Party in 1931, and was imprisoned by the Francoists in Spain, the experience of Spanish Testament (1937). Leaving the party, he wrote Darkness at Noon (1940), the great novel of the Moscow trials, in German and had it translated by Daphne Hardy; Arrival and Departure (1943) carried the war's refugees into the novel of the psychoanalysis. He took his own life in London on 1 March 1983.",
-  "literary_profile": "Arthur Koestler is the novelist of the totalitarian century: Darkness at Noon made Rubashov's cell and its confession the definitive novel of the show trials, and Spanish Testament is the testimony of the party's disillusion in the decade of the Popular Front.",
-  "stylistic_characteristics": "The argument carried in the cell and the interrogation; the plain analytical prose of the political mind; the confession as the moral problem; the refugee's war in the psychoanalytic novel; the essay and the testament beside the fiction.",
-  "intellectual_concerns": "Totalitarianism and the show trial; the party and the disillusion; the Spain of the Popular Front; the refugee and the war; the confession and the conscience of the revolutionary.",
-  "historical_significance": "Arthur Koestler is the novelist of the totalitarian century: Darkness at Noon made the cell and its confession the definitive novel of the show trials, and Spanish Testament is the testimony of the party's disillusion.",
-  "major_influences": [
-   "the Communist Party and its break",
-   "the Spanish imprisonment",
-   "Dostoevsky",
-   "the Budapest assimilated Jewry"
-  ],
-  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1937 and 1943.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Yogi and the Commissar (1945); Thieves in the Night (1946); the essays of the war years."
- },
- {
   "full_name": "C. P. Snow",
   "alternative_names": [
    "Charles Percy Snow",
@@ -234,5 +205,34 @@
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Perfect Cure; Independent Means; Partners; Marriages in the Making."
+ },
+ {
+  "full_name": "Allan Monkhouse",
+  "alternative_names": [
+   "Allan Monkhouse"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1858",
+  "birth_date_approximate": false,
+  "death_date": "1936",
+  "death_date_approximate": false,
+  "birthplace": "Bowdon, Cheshire, England",
+  "nationality_or_literary_tradition": "British; the Manchester Guardian critic and the playwright of Mary Broome",
+  "literary_identity": "Playwright, critic and poet; the author of Mary Broome and the Guardian's art critic.",
+  "biography": "Born Allan Monkhouse at Bowdon, Cheshire, on 27 April 1858; he worked in the Manchester timber trade while writing verse and criticism, became an art and drama critic for the Manchester Guardian, and wrote the one-act plays of the repertory - Mary Broome (1911) and Nothing Like Leather (1913) among them - that put the class question and the woman's emancipation on the Manchester stage. He died in 1936.",
+  "literary_profile": "Allan Monkhouse is the critic-playwright of the Manchester School: Mary Broome, the servant's play of the class and the marriage, made him the Guardian critic whose own one-acts stood beside Houghton's at the Gaiety, and his criticism recorded the Manchester repertory from within.",
+  "stylistic_characteristics": "The plain dialogue of the servant's hall and the drawing room; the class question in the one act; the woman's emancipation of the Edwardian stage; the critic's eye in the playwright's scene; the Manchester repertory's economy of the short form.",
+  "intellectual_concerns": "The servant and the class question; the marriage and the woman's emancipation; the Manchester repertory and the Gaiety; the Guardian's criticism; the one-act play as the form of the new drama.",
+  "historical_significance": "Allan Monkhouse is the critic-playwright of the Manchester School: Mary Broome put the servant's class question and the woman's emancipation on the Gaiety stage beside Houghton's plays.",
+  "major_influences": [
+   "the Manchester Guardian",
+   "Annie Horniman's Gaiety Theatre",
+   "Ibsen",
+   "the Manchester timber trade"
+  ],
+  "biographical_uncertainty": "2 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1910 and 1911.",
+  "research_status": "complete",
+  "significance_tier": "Minor / lesser-known",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: the Guardian's art and drama criticism; collected verse."
  }
 ]

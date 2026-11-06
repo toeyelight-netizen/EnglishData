@@ -81,14 +81,16 @@ def _load_names(kind, num):
     path = os.path.join(PROJECT_ROOT, "data", kind, "installment_%s_%s.json" % (num, kind))
     if not os.path.exists(path):
         return set()
-    return {row["name"] for row in json.load(open(path, encoding="utf-8"))}
+    with open(path, encoding="utf-8") as handle:
+        return {row["name"] for row in json.load(handle)}
 
 
 def _source_titles(num):
     path = os.path.join(PROJECT_ROOT, "data", "sources", "installment_%s_sources.json" % num)
     if not os.path.exists(path):
         return set()
-    return {row["title"] for row in json.load(open(path, encoding="utf-8"))}
+    with open(path, encoding="utf-8") as handle:
+        return {row["title"] for row in json.load(handle)}
 
 
 def check(works, authors, meta):

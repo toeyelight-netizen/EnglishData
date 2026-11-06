@@ -1,38 +1,5 @@
 [
  {
-  "full_name": "e e cummings",
-  "alternative_names": [
-   "Edward Estlin Cummings",
-   "E. E. Cummings",
-   "ee cummings"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1894",
-  "birth_date_approximate": false,
-  "death_date": "1962",
-  "death_date_approximate": false,
-  "birthplace": "Cambridge, Massachusetts, United States",
-  "nationality_or_literary_tradition": "American; the typographic lyric and the satire of the modern state",
-  "literary_identity": "Poet and painter; the great experimenter of American typography, whose lower-case, punctuation-scattered lyrics made the printed page part of the poem.",
-  "biography": "Born Edward Estlin Cummings in Cambridge, Massachusetts, on 14 October 1894, the son of a Harvard professor and minister; he took his degrees at Harvard, served in the First World War as an ambulance driver, was interned by the French in 1917 for three months — the subject of The Enormous Room (1922) — and published Tulips and Chimneys (1923), & (1925), XLI Poems (1925) and Is 5 (1926). He painted, travelled in the Soviet Union (Eimi, 1933), won the Bollingen Prize in 1958 and the National Book Award in 1960, and died in North Conway, New Hampshire, on 3 September 1962.",
-  "literary_profile": "Cummings is the period's great typographic poet: he made the page itself a unit of composition — the word broken across the line, the parenthesis, the lowercase 'i', the space that carries the pause — and his love lyrics ('somewhere i have never travelled,gladly beyond', 'i carry your heart with me') are among the most popular American poems of the century. His satire of the state ('next to of course god america i', 'i sing of Olaf glad and big') is the sharpest political verse of the period.",
-  "stylistic_characteristics": "The typographic page as a compositional unit; the word broken and the parenthesis; the lowercase pronoun and the deliberate misspelling; the sonnet and the ballad re-shaped by spacing; the syntax that must be read aloud to be understood; the satire delivered in the voice of its victim.",
-  "intellectual_concerns": "Love and the private erotic world; the individual against the state and the army; satire of patriotism and bureaucracy; spring, roses, the moon and the natural world; the city and the crowd; death and the fragility of the person.",
-  "historical_significance": "Cummings is the most popular experimental poet in English of the century: he made typography a poetic instrument, wrote the most-quoted American love lyrics after Frost, and produced the sharpest anti-war satire of the period. His work changed how poems are printed.",
-  "major_influences": [
-   "Ezra Pound",
-   "Gertrude Stein",
-   "John Keats",
-   "William Shakespeare",
-   "Amy Lowell",
-   "Sigmund Freud"
-  ],
-  "biographical_uncertainty": "22 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
-  "research_status": "complete",
-  "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Enormous Room (1922, prose); Tulips and Chimneys (1923); & (1925); XLI Poems (1925); Is 5 (1926); Him (1927, play); Christmas, May 1927 (1927); CIOPW (1931, drawings and poems); ViVa (1931); Eimi (1933, travel prose); No Thanks (1935); Tom (1935, ballet scenario); Collected Poems (1938); 50 Poems (1940); 1 x 1 (1944); Santa Claus (1946, play); XAIPE: Seventy-One Poems (1950); i: six nonlectures (1953, lectures); Poems 1923–1954 (1954); 95 Poems (1958); 73 Poems (1963, posthumous); Complete Poems 1913–1962 (1972, posthumous)."
- },
- {
   "full_name": "Isaac Rosenberg",
   "alternative_names": [],
   "pseudonyms": [],
@@ -56,10 +23,10 @@
    "William Wordsworth",
    "Robert Browning"
   ],
-  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "14 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Night and Day (1912); Youth (1915); Moses (1916, verse play privately printed); Poems (1922, posthumous, ed. Bottomley and Harding); The Collected Poems of Isaac Rosenberg (1949, ed. Bottomley and Harding); The Collected Works of Isaac Rosenberg (1979, ed. Parsons); 'Break of Day in the Trenches' (written 1916); 'Dead Man's Dump' (written 1917); 'Returning, We Hear the Larks' (written 1917); 'Louse Hunting' (written 1917); 'The Immortals' (written 1917); 'August 1914' (written 1916); 'Daughters of War' (written 1916); 'In the Trenches' (written 1916); The Letters of Isaac Rosenberg (1937)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Night and Day (1912); Youth (1915); Moses (1916, verse play privately printed); The Collected Poems of Isaac Rosenberg (1949, ed. Bottomley and Harding); The Collected Works of Isaac Rosenberg (1979, ed. Parsons); 'Break of Day in the Trenches' (written 1916); 'Dead Man's Dump' (written 1917); 'Returning, We Hear the Larks' (written 1917); 'Louse Hunting' (written 1917); 'The Immortals' (written 1917); 'August 1914' (written 1916); 'Daughters of War' (written 1916); 'In the Trenches' (written 1916); The Letters of Isaac Rosenberg (1937)."
  },
  {
   "full_name": "Robert Graves",
@@ -88,10 +55,10 @@
    "Siegfried Sassoon",
    "James Frazer"
   ],
-  "biographical_uncertainty": "32 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "31 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Over the Brazier (1916); Goliath and David (1916); Fairies and Fusiliers (1917); Country Sentiment (1920); The Pier-Glass (1921); Whipperginny (1923); The Meaning of Dreams (1924, prose); Mock Beggar Hall (1924); Welchman's Hose (1925); Lars Porsena (1927, essay); Lawrence and the Arabs (1927, biography); A Survey of Modernist Poetry (1927, with Laura Riding); Poems 1914–1926 (1927); The English Ballad (1927, ed.); Good-bye to All That (1929, autobiography); But It Still Goes On (1930, play); Poems 1926–1930 (1931); I, Claudius (1934, novel); Claudius the God (1934, novel); Antigua, Penny, Puce (1936, novel); Count Belisarius (1938, novel); Sergeant Lamb of the Ninth (1940); The Long Week-End (1940, with Alan Hodge); Wife to Mr Milton (1943, novel); Hercules, My Shipmate (1945, novel); King Jesus (1946, novel); The White Goddess (1948, mythography); The Nazarene Gospel Restored (1953, with Joshua Podro); The Greek Myths (1955); Homer's Daughter (1955, novel); The Crowning Privilege (1955, lectures); Collected Poems 1975 (1975)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Over the Brazier (1916); Goliath and David (1916); Fairies and Fusiliers (1917); Country Sentiment (1920); The Pier-Glass (1921); Whipperginny (1923); The Meaning of Dreams (1924, prose); Mock Beggar Hall (1924); Welchman's Hose (1925); Lars Porsena (1927, essay); Lawrence and the Arabs (1927, biography); A Survey of Modernist Poetry (1927, with Laura Riding); Poems 1914–1926 (1927); The English Ballad (1927, ed.); But It Still Goes On (1930, play); Poems 1926–1930 (1931); I, Claudius (1934, novel); Claudius the God (1934, novel); Antigua, Penny, Puce (1936, novel); Count Belisarius (1938, novel); Sergeant Lamb of the Ninth (1940); The Long Week-End (1940, with Alan Hodge); Wife to Mr Milton (1943, novel); Hercules, My Shipmate (1945, novel); King Jesus (1946, novel); The White Goddess (1948, mythography); The Nazarene Gospel Restored (1953, with Joshua Podro); The Greek Myths (1955); Homer's Daughter (1955, novel); The Crowning Privilege (1955, lectures); Collected Poems 1975 (1975)."
  },
  {
   "full_name": "Edmund Blunden",
@@ -119,10 +86,10 @@
    "Leigh Hunt",
    "William Hazlitt"
   ],
-  "biographical_uncertainty": "25 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "24 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Barn (1916); Old Homes, New Friends (1922, with Mary Daines); The Waggoner and Other Poems (1920); The Shepherd and Other Poems (1922); To Nature: New Poems (1923); Masks of Time (1925); Undertones of War (1928, memoir); English Poems (1925); Near and Far: New Poems (1929); A Summer's Fancy (1930); Leigh Hunt's Examiners Examined (1928); The Poems of John Clare (1928, ed.); Halfway House: A Miscellany (1932); Choice or Chance: New Poems (1934); An Elegy and Other Poems (1937); Poems 1930–1940 (1940); Thomas Hardy (1942, criticism); Shells of the Sea (1944); After the Bombing (1945); Poems of Many Years (1957); A Hong Kong House (1962); Eleven Poems (1964); Poems of John Clare (1964, ed.); The Midnight Skaters (1968); Cricket Country (1944, anthology)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Barn (1916); Old Homes, New Friends (1922, with Mary Daines); The Waggoner and Other Poems (1920); The Shepherd and Other Poems (1922); To Nature: New Poems (1923); Masks of Time (1925); English Poems (1925); Near and Far: New Poems (1929); A Summer's Fancy (1930); Leigh Hunt's Examiners Examined (1928); The Poems of John Clare (1928, ed.); Halfway House: A Miscellany (1932); Choice or Chance: New Poems (1934); An Elegy and Other Poems (1937); Poems 1930–1940 (1940); Thomas Hardy (1942, criticism); Shells of the Sea (1944); After the Bombing (1945); Poems of Many Years (1957); A Hong Kong House (1962); Eleven Poems (1964); Poems of John Clare (1964, ed.); The Midnight Skaters (1968); Cricket Country (1944, anthology)."
  },
  {
   "full_name": "John Masefield",
@@ -150,10 +117,10 @@
    "John Ruskin",
    "George Borrow"
   ],
-  "biographical_uncertainty": "30 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1902 and 1911.",
+  "biographical_uncertainty": "28 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1902 and 1911.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Salt-Water Ballads (1902); Ballads (1903); A Mainsail Haul (1905, stories); The Tragedy of Nan (1908, play); Multitude and Solitude (1909, novel); The Widow in the Bye Street (1912); The Everlasting Mercy (1911); Dauber (1913); The Daffodil Fields (1913); The Faithful (1915, play); Good Friday (1916, play); Gallipoli (1916, history); Lollingdon Downs and Other Poems (1917); The Old Front Line (1917); Enslaved and Other Poems (1920); Reynard the Fox (1919); King Cole (1921); The Dream (1922); Natalie Maid (1924); The Trial of Jesus (1925, play); Collected Poems (1923); Midsummer Night and Other Tales in Verse (1928); The Coming of Christ (1928, play); End and Beginning (1933, play); A Tale of Troy (1932); A Letter from Pontius Pilate's Wife (1929); The Nine Days Wonder (1941); Poems (1946); So Long to Learn (1952, autobiography); Grace Before Ploughing (1966)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Ballads (1903); A Mainsail Haul (1905, stories); The Tragedy of Nan (1908, play); Multitude and Solitude (1909, novel); The Widow in the Bye Street (1912); Dauber (1913); The Daffodil Fields (1913); The Faithful (1915, play); Good Friday (1916, play); Gallipoli (1916, history); Lollingdon Downs and Other Poems (1917); The Old Front Line (1917); Enslaved and Other Poems (1920); Reynard the Fox (1919); King Cole (1921); The Dream (1922); Natalie Maid (1924); The Trial of Jesus (1925, play); Collected Poems (1923); Midsummer Night and Other Tales in Verse (1928); The Coming of Christ (1928, play); End and Beginning (1933, play); A Tale of Troy (1932); A Letter from Pontius Pilate's Wife (1929); The Nine Days Wonder (1941); Poems (1946); So Long to Learn (1952, autobiography); Grace Before Ploughing (1966)."
  },
  {
   "full_name": "J. M. Synge",
@@ -183,10 +150,10 @@
    "W. B. Yeats",
    "John Keats"
   ],
-  "biographical_uncertainty": "12 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1904 and 1907.",
+  "biographical_uncertainty": "9 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1904 and 1907.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: In the Shadow of the Glen (1903, play); Riders to the Sea (1904, play); The Well of the Saints (1905, play); The Aran Islands (1907, travel book); The Playboy of the Western World (1907, play); Poems and Translations (1909, posthumous); Deirdre of the Sorrows (1910, posthumous play); The Tinker's Wedding (1908, play); The Works of John M. Synge (4 vols, 1910, posthumous); Collected Letters of John Millington Synge (1983–84, posthumous); When the Moon Has Set (1908, play); A Ride to the Islands (1907, prose)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: In the Shadow of the Glen (1903, play); The Well of the Saints (1905, play); Poems and Translations (1909, posthumous); Deirdre of the Sorrows (1910, posthumous play); The Tinker's Wedding (1908, play); The Works of John M. Synge (4 vols, 1910, posthumous); Collected Letters of John Millington Synge (1983–84, posthumous); When the Moon Has Set (1908, play); A Ride to the Islands (1907, prose)."
  },
  {
   "full_name": "Lady Gregory",
@@ -216,10 +183,10 @@
    "Edmund Spenser",
    "Standish James O'Grady"
   ],
-  "biographical_uncertainty": "20 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1904 and 1920.",
+  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1904 and 1920.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Phantom's Pilgrimage, or Home Ruin (1893, pamphlet); Mr Gregory's Letter-Box (1898, ed.); Ideals in Ireland (1901, ed.); Cuchulain of Muirthemne (1902); Poets and Dreamers (1903, essays and translations); Gods and Fighting Men (1904); Spreading the News (1904, play); The Rising of the Moon (1907, play); The Workhouse Ward (1908, play); The Kiltartan History Book (1909); Seven Short Plays (1909); The Kiltartan Wonder Book (1910); Our Irish Theatre (1913, memoir); New Comedies (1913); The Golden Apple (1916, play); The Dragon (1920, play); Visions and Beliefs in the West of Ireland (1920); Three Last Plays (1928); Coole (1931); Lady Gregory's Journals 1916–1930 (1946, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: A Phantom's Pilgrimage, or Home Ruin (1893, pamphlet); Mr Gregory's Letter-Box (1898, ed.); Ideals in Ireland (1901, ed.); Cuchulain of Muirthemne (1902); Poets and Dreamers (1903, essays and translations); Gods and Fighting Men (1904); The Kiltartan History Book (1909); Seven Short Plays (1909); The Kiltartan Wonder Book (1910); New Comedies (1913); The Golden Apple (1916, play); The Dragon (1920, play); Three Last Plays (1928); Coole (1931); Lady Gregory's Journals 1916–1930 (1946, posthumous)."
  },
  {
   "full_name": "Sean O'Casey",
@@ -249,9 +216,42 @@
    "Charles Dickens",
    "W. B. Yeats"
   ],
-  "biographical_uncertainty": "21 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1923 and 1926.",
+  "biographical_uncertainty": "18 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1923 and 1926.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Shadow of a Gunman (1923, play); Kathleen Listens In (1923, play); Juno and the Paycock (1924, play); Nannie's Night Out (1924, play); The Plough and the Stars (1926, play); The Silver Tassie (1929, play); Within the Gates (1934, play); Windfalls (1934, stories and verse); The Star Turns Red (1940, play); Purple Dust (1940, play); Red Roses for Me (1942, play); Oak Leaves and Lavender (1946, play); I Knock at the Door (1939, autobiography); Pictures in the Hallway (1942, autobiography); Drums under the Windows (1945, autobiography); Inishfallen, Fare Thee Well (1949, autobiography); Rose and Crown (1952, autobiography); Sunset and Evening Star (1954, autobiography); The Bishop's Bonfire (1955, play); Feathers from the Green Crow (1962); Behind the Green Curtains (1961, play)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Kathleen Listens In (1923, play); Nannie's Night Out (1924, play); The Silver Tassie (1929, play); Within the Gates (1934, play); Windfalls (1934, stories and verse); The Star Turns Red (1940, play); Purple Dust (1940, play); Red Roses for Me (1942, play); Oak Leaves and Lavender (1946, play); I Knock at the Door (1939, autobiography); Pictures in the Hallway (1942, autobiography); Drums under the Windows (1945, autobiography); Inishfallen, Fare Thee Well (1949, autobiography); Rose and Crown (1952, autobiography); Sunset and Evening Star (1954, autobiography); The Bishop's Bonfire (1955, play); Feathers from the Green Crow (1962); Behind the Green Curtains (1961, play)."
+ },
+ {
+  "full_name": "James Joyce",
+  "alternative_names": [
+   "James Augustine Aloysius Joyce"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1882",
+  "birth_date_approximate": false,
+  "death_date": "1941",
+  "death_date_approximate": false,
+  "birthplace": "Rathgar, Dublin, Ireland",
+  "nationality_or_literary_tradition": "Irish; the modernist novel, the short-story sequence and the language of the night",
+  "literary_identity": "Novelist, short-story writer and poet; the greatest prose innovator of the century and the author of Ulysses and Finnegans Wake.",
+  "biography": "Born James Augustine Aloysius Joyce in Rathgar, Dublin, on 2 February 1882, the eldest of ten children of a rate collector who ruined the family; he was educated by the Jesuits at Clongowes and Belvedere and at University College Dublin, left for Paris in 1902, returned for his mother's death in 1904, and left Ireland for good with Nora Barnacle in October 1904. He taught in Pola and Trieste, published Chamber Music (1907), Dubliners (1914), A Portrait of the Artist as a Young Man (1916) and Ulysses (1922), moved to Paris in 1920, and published Finnegans Wake in 1939. He died in Zurich on 13 January 1941.",
+  "literary_profile": "Joyce is the greatest prose writer of the century: Dubliners invented the modern short-story sequence, A Portrait of the Artist invented the novel of the aesthetic consciousness, Ulysses made the single day and the single city the frame for every style at once, and Finnegans Wake dissolved the English language into a dream. He is the central figure of modernist fiction, the model for the experimental novel, and the writer who made Dublin the most completely rendered city in literature.",
+  "stylistic_characteristics": "The epiphany and the open ending (Dubliners); free indirect style perfected in the Portrait; the interior monologue and the parody of every style (Ulysses); the portmanteau word and the dream-syntax (Finnegans Wake); the exact topography of a real city; the musical phrase and the recurring motif.",
+  "intellectual_concerns": "Dublin and the paralysis of the Irish city; the artist and the making of a soul; the family, the father and the mother; sex, the body and the Church; exile and the remembered homeland; language itself and the whole history of style; death, resurrection and the ordinary day.",
+  "historical_significance": "Joyce is the greatest novelist of the period and the central figure of modernism: Dubliners made the modern short story, A Portrait of the Artist created the novel of the artist, Ulysses is the most influential novel of the century, and Finnegans Wake is the most radical work of prose in English. He is the writer against whom all subsequent experimental fiction measures itself.",
+  "major_influences": [
+   "Henrik Ibsen",
+   "William Shakespeare",
+   "Dante Alighieri",
+   "Thomas Aquinas",
+   "Gustave Flaubert",
+   "Charles Dickens",
+   "Giordano Bruno",
+   "W. B. Yeats"
+  ],
+  "biographical_uncertainty": "9 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1907 and 1939.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Exiles (1918, play); Pomes Penyeach (1927); Anna Livia Plurabelle (1928, fragment); Haveth Childers Everywhere (1930, fragment); Stephen Hero (1944, posthumous); Collected Poems (1936); The Critical Writings of James Joyce (1959, posthumous); Letters of James Joyce (1957–66, posthumous); Giacomo Joyce (1968, posthumous)."
  }
 ]

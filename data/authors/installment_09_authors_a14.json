@@ -1,35 +1,5 @@
 [
  {
-  "full_name": "Henry Williamson",
-  "alternative_names": [
-   "Henry William Williamson"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1895",
-  "birth_date_approximate": false,
-  "death_date": "1977",
-  "death_date_approximate": false,
-  "birthplace": "Bishopstoke, Hampshire, England",
-  "nationality_or_literary_tradition": "British; the nature writer of Tarka and the war memoir of Flanders",
-  "literary_identity": "Novelist and nature writer; the author of Tarka the Otter and The Wet Flanders Plain.",
-  "biography": "Born Henry William Williamson at Bishopstoke, Hampshire, on 1 December 1895; he served on the Western Front and the nature books that followed - The Lone Swallows (1922), Tarka the Otter (1927), The Wet Flanders Plain (1929), Salar the Salmon (1935) - made him the greatest English nature writer of the century. The fifteen volumes of A Chronicle of Ancient Sunlight followed from 1951; he died at Georgeham, Devon, on 13 August 1977.",
-  "literary_profile": "Henry Williamson is the greatest English nature writer of the twentieth century: Tarka the Otter made the life of a single animal the matter of the epic, The Wet Flanders Plain is the war memoir of the drowned battlefield, and the nature books of the 1920s and 1930s set the standard of the prose of the wild creature.",
-  "stylistic_characteristics": "The prose of the wild creature followed hour by hour and season by season; the river, the mere and the coast of the west country and of East Anglia; the war memoir of the drowned plain; the sentence of the naturalist's exactness charged with the elegiac; the chronicle of a life against the century.",
-  "intellectual_concerns": "The wild creature and its water; the war and the drowned plain of Flanders; the sun and the ancient light of the chronicle; the country of Devon and Norfolk as the world entire; the quarrel between the nature writer and the politics of the century.",
-  "historical_significance": "Henry Williamson is the greatest English nature writer of the twentieth century: Tarka the Otter made the life of a single animal the matter of the epic, and The Wet Flanders Plain is the war memoir of the drowned battlefield.",
-  "major_influences": [
-   "Richard Jefferies",
-   "W. H. Hudson",
-   "Gilbert White",
-   "the war in Flanders",
-   "Thomas Hardy"
-  ],
-  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1922 and 1935.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Old Stag (1926); The Linhay on the Downs (1924); A Chronicle of Ancient Sunlight (1951-69, fifteen volumes)."
- },
- {
   "full_name": "Frank O'Connor",
   "alternative_names": [
    "Michael Francis O'Connor O'Donovan",
@@ -218,10 +188,10 @@
    "the Gaelic joke",
    "Laurence Sterne"
   ],
-  "biographical_uncertainty": "The name Myles na gCopaleen is a pseudonym, and the works published under it are attributed to Flann O'Brien on the evidence of the publisher's records, the correspondence and the contemporary attribution. 4 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1939 and 1943.",
+  "biographical_uncertainty": "The name Myles na gCopaleen is a pseudonym, and the works published under it are attributed to Flann O'Brien on the evidence of the publisher's records, the correspondence and the contemporary attribution. 3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1939 and 1943.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Third Policeman (written 1939-40, published 1967); The Hard Life (1961); The Dalkey Archive (1964); At Swim-Two-Birds (1939)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Third Policeman (written 1939-40, published 1967); The Hard Life (1961); The Dalkey Archive (1964)."
  },
  {
   "full_name": "Patrick Kavanagh",
@@ -252,5 +222,37 @@
   "research_status": "complete",
   "significance_tier": "Major / canonical",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Tarry Flynn (1948); Collected Poems (1964); The Complete Poems (1983)."
+ },
+ {
+  "full_name": "W. B. Yeats",
+  "alternative_names": [
+   "William Butler Yeats"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1865",
+  "birth_date_approximate": false,
+  "death_date": "1939",
+  "death_date_approximate": false,
+  "birthplace": "Sandymount, Dublin, Ireland",
+  "nationality_or_literary_tradition": "Irish; the symbolist lyric, the verse play and the poetry of the national revival",
+  "literary_identity": "Poet and dramatist; the founder of the Irish Literary Revival, the greatest poet in English of the period's first half, and the Nobel laureate of 1923.",
+  "biography": "Born William Butler Yeats in Sandymount, Dublin, on 13 June 1865, the son of the painter John Butler Yeats; he was brought up between Dublin, London and Sligo, studied painting and then poetry, founded the Irish Literary Society (1892) and the Abbey Theatre (1904) with Lady Gregory, and made his name with The Wanderings of Oisin (1889), The Wind Among the Reeds (1899) and The Green Helmet (1910). He married George Hyde-Lees in 1917, served as a Senator of the Irish Free State (1922–28), won the Nobel Prize in 1923, and died at Roquebrune in the south of France on 28 January 1939, reburied at Drumcliff in 1948.",
+  "literary_profile": "Yeats is the greatest poet in English of the first half of the twentieth century. He began as a symbolist of the Celtic twilight, made the Abbey Theatre a national institution, and then remade his style three times — into the public, colloquial, bitter poetry of Responsibilities (1914) and The Wild Swans at Coole (1917), the mythic system of A Vision (1925) and the late, bare, terrifying poems of The Tower (1928) and Last Poems. He is the only poet of the period who is equally important as a lyric poet, a dramatist, a prose writer and a public figure.",
+  "stylistic_characteristics": "The symbolist image and the esoteric system; the rhymed stanza and the refrain refined into bareness; the antithetical rhetoric ('That is no country for old men'); the dramatic mask and the anti-self; the public poem in the grand manner; the prose of a great talker.",
+  "intellectual_concerns": "Ireland, nationality, and the national question; the heroic past and the mythic cycle; love, the beloved and the ageing body; the occult, the séance, and the system of the gyres; violence, revolution, and the Easter Rising; age, death, and the fury of the old man.",
+  "historical_significance": "Yeats is the central poet of the period and the founder of the Irish national literature: he created the Abbey Theatre, made Irish myth a modern poetic resource, and wrote the greatest body of lyric poetry in English in the twentieth century. His late poems are among the summit achievements of the language.",
+  "major_influences": [
+   "William Blake",
+   "Percy Bysshe Shelley",
+   "John Keats",
+   "Dante Alighieri",
+   "William Morris",
+   "Stéphane Mallarmé",
+   "Lady Gregory"
+  ],
+  "biographical_uncertainty": "24 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1892 and 1928.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Wanderings of Oisin and Other Poems (1889); The Countess Kathleen and Various Legends and Lyrics (1892); The Celtic Twilight (1893, prose); Poems (1895); The Secret Rose (1897); The Shadowy Waters (1900, verse play); Cathleen ni Houlihan (1902, play); In the Seven Woods (1903); On Baile's Strand (1904, verse play); The King's Threshold (1904, verse play); Deirdre (1907, verse play); The Green Helmet and Other Poems (1910); Responsibilities (1914); At the Hawk's Well (1917, verse play); Michael Robartes and the Dancer (1921); Four Plays for Dancers (1921); Later Poems (1922); The Trembling of the Veil (1922, autobiography); A Vision (1925); The Winding Stair and Other Poems (1933); The Words upon the Window-Pane (1934, play); Purgatory (1939, verse play); Last Poems (1939, posthumous); Autobiographies (1926/1955)."
  }
 ]

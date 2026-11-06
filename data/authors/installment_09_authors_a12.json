@@ -1,35 +1,5 @@
 [
  {
-  "full_name": "Osbert Sitwell",
-  "alternative_names": [
-   "Sir Osbert Sitwell"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1892",
-  "birth_date_approximate": false,
-  "death_date": "1969",
-  "death_date_approximate": false,
-  "birthplace": "London, England",
-  "nationality_or_literary_tradition": "British; the satirical novelist and memoirist of the Sitwell autobiography",
-  "literary_identity": "Novelist, poet and memoirist; the satirist of the English upper class and the author of the five-volume autobiography.",
-  "biography": "Born Osbert Sitwell in London on 6 December 1892, the middle of the three poetic Sitwells; he served in the Grenadier Guards in the war and turned to satire in the verse of Argent and Azure and the prose of Discursions. The novels A Place of One's Own (1940) and The Man Who Lost Himself (1941) and the five volumes of autobiography from Left Hand, Right Hand (1945) made him the memoirist of his class; he died at Montegufoni, Italy, on 4 May 1969.",
-  "literary_profile": "Osbert Sitwell is the satirical memoirist of the English upper class between the wars: the five volumes of his autobiography are the most sustained portrait of an aristocratic family in English letters, and the novels of the war years, with their ghosts and their lost selves, carried the satire into fiction. His verse and his editing of Wheels placed him at the centre of the modernist coterie.",
-  "stylistic_characteristics": "The polished satirical sentence of the man of the world; the portrait of the family and the house as an institution; the ghost and the lost self as the instruments of satire; the memoir that accumulates the portrait rather than the plot; the verse of the drawing room turned to the trench.",
-  "intellectual_concerns": "The aristocratic family and its decay; the house and the collection as the memory of a class; the war and the loss of the self; Italy and the Tuscan villa as the place of retreat; the quarrel with the reviewers and with the Georgian anthologists.",
-  "historical_significance": "Osbert Sitwell is the satirical memoirist of the English upper class between the wars: his five volumes of autobiography are the most sustained portrait of an aristocratic family in English letters, and the novels of the war years carried the satire into fiction of the ghost and the lost self.",
-  "major_influences": [
-   "Max Beerbohm",
-   "Ronald Firbank",
-   "Marcel Proust",
-   "Alexander Pope",
-   "his sister Edith Sitwell"
-  ],
-  "biographical_uncertainty": "6 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1932 and 1945.",
-  "research_status": "complete",
-  "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Argent and Azure (1919, verse); Discursions (1925, essays); The Collected Poems of Osbert Sitwell (1930); Winters of Content (1932, memoir); Laughter in the Next Room (1948); Noble Essences (1950)."
- },
- {
   "full_name": "Sacheverell Sitwell",
   "alternative_names": [
    "Sir Sacheverell Sitwell"
@@ -54,10 +24,10 @@
    "Richard Burton's Arabian Nights",
    "the ballets russes"
   ],
-  "biographical_uncertainty": "4 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1918 and 1939.",
+  "biographical_uncertainty": "1 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1918 and 1939.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Spanish Scene (1927); Valse, and Other Poems (1929); The Dance of the Quick and the Dead (1935); Old Fashioned Flowers (1939)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Valse, and Other Poems (1929)."
  },
  {
   "full_name": "F. S. Flint",
@@ -85,10 +55,9 @@
    "Ezra Pound",
    "the French vers libristes"
   ],
-  "biographical_uncertainty": "3 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1909 and 1920.",
+  "biographical_uncertainty": "No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1909 and 1920.",
   "research_status": "complete",
-  "significance_tier": "Minor / lesser-known",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: In the Net of the Stars (1909); Cadences (1915); Otherworld: Cadences (1920)."
+  "significance_tier": "Minor / lesser-known"
  },
  {
   "full_name": "Padraic Colum",
@@ -116,10 +85,10 @@
    "the Irish storytellers",
    "Homer"
   ],
-  "biographical_uncertainty": "10 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1905 and 1916.",
+  "biographical_uncertainty": "6 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1905 and 1916.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Saxon Shillin' (1902); The Land (1905); Wild Earth (1907); The Fiddler's House (1907); Thomas Muskerry (1910); The King of Ireland's Son (1916); The Children's Homer (1918); The Adventures of Odysseus (1918); The Flying Swans (1937); Our Island (1944)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Saxon Shillin' (1902); Thomas Muskerry (1910); The Children's Homer (1918); The Adventures of Odysseus (1918); The Flying Swans (1937); Our Island (1944)."
  },
  {
   "full_name": "Richard Church",
@@ -246,5 +215,36 @@
   "research_status": "complete",
   "significance_tier": "Major / canonical",
   "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Structure of Complex Words (1951); Milton's God (1961); Collected Poems (1955); The Gathering Storm (1940, poems)."
+ },
+ {
+  "full_name": "F. R. Leavis",
+  "alternative_names": [
+   "Frank Raymond Leavis",
+   "F.R. Leavis"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1895",
+  "birth_date_approximate": false,
+  "death_date": "1978",
+  "death_date_approximate": false,
+  "birthplace": "Cambridge, England",
+  "nationality_or_literary_tradition": "British; the critic of the great tradition and the founder of the Cambridge school",
+  "literary_identity": "Critic; the editor of Scrutiny and the author of The Great Tradition and Revaluation.",
+  "biography": "Born Frank Raymond Leavis at Cambridge on 14 July 1895; he served in the war, took his degree at Cambridge and taught there, founding the journal Scrutiny in 1932. Mass Civilisation and Minority Culture (1930), New Bearings in English Poetry (1932) and Revaluation (1936) made him the most feared critic in England, and The Great Tradition (1948) fixed the canon of the English novel. He held the readership at Cambridge until 1962 and died there on 14 April 1978.",
+  "literary_profile": "F. R. Leavis is the most influential English critic of the twentieth century: the polemic of Mass Civilisation and Minority Culture made the defence of the minority culture the task of criticism, New Bearings in English Poetry revalued the modern poets, Revaluation and The Great Tradition fixed the canons of the verse and the novel, and the school of Scrutiny trained the teachers of English for a generation.",
+  "stylistic_characteristics": "The polemical sentence of the moral urgency; the quotation examined word by word in the argument; the verdict delivered as a definition; the rejection of the historical and the sociological in favour of the valuation; the canon as the instrument of the discipline.",
+  "intellectual_concerns": "The minority culture against the mass civilisation; the valuation and the canon; the great tradition of the English novel from Austen to James; the revaluation of the English poets; the discipline of English as a defence of the civilisation; the war and the loss of the organic community.",
+  "historical_significance": "F. R. Leavis is the most influential English critic of the twentieth century: Mass Civilisation and Minority Culture made the defence of the minority culture the task of criticism, Revaluation and The Great Tradition fixed the canons of the verse and the novel, and the school of Scrutiny trained the teachers of English for a generation.",
+  "major_influences": [
+   "T. S. Eliot",
+   "I. A. Richards",
+   "Matthew Arnold",
+   "Henry James",
+   "D. H. Lawrence"
+  ],
+  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1930 and 1944.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Great Tradition (1948); The Common Pursuit (1952); D. H. Lawrence: Novelist (1955); The Living Principle (1975); Nor Shall My Sword (1972)."
  }
 ]

@@ -156,23 +156,36 @@ A("Arthur Conan Doyle", MAJ, "1859", "1930", "Edinburgh, Scotland",
         "His Last Bow (1917)", "The Case-Book of Sherlock Holmes (1927)", "The History of Spiritualism (1926)",
         "The Great Boer War (1900)", "Through the Magic Door (1907)", "Memories and Adventures (autobiography, 1924)"]),
 
-A("Herbert George Wells", SEC, "1866", "1946", "Bromley, Kent, England",
-  "English; the Victorian and Edwardian scientific romance",
-  "Novelist, scientific romancer and social prophet; the inventor of the modern scientific romance and one of the most influential English writers of the twentieth century.",
-  "Born at Bromley on 21 September 1866, son of a shopkeeper and a professional cricketer's daughter; he was apprenticed to a draper, won a scholarship to the Normal School of Science in South Kensington in 1884, and was taught biology by T. H. Huxley, an experience that made him a lifelong evolutionist. He taught science and wrote for the Saturday Review before The Time Machine (1895) made him famous; The Island of Doctor Moreau (1896), The Invisible Man (1897), The War of the Worlds (1898), When the Sleeper Wakes (1899) and The First Men in the Moon (1901) followed, and from 1900 he turned to the social novels (Kipps, Tono-Bungay, The History of Mr Polly) and to the utopian and prophetic works (A Modern Utopia, The Outline of History, The Shape of Things to Come). He joined the Fabian Society in 1903 and quarrelled with the Webbs, and he died in London on 13 August 1946.",
-  "Wells took the evolutionary biology he had learned from Huxley and made it the basis of a new kind of fiction: the scientific romance, which uses an invention or a discovery as the premise for a realistic narrative of its social and psychological consequences. His early romances are single-conceit stories carried by a precise, journalistic specification of detail, and their subject is the fragility of the human species, the possibility of degeneration and the relative insignificance of man in time. After 1900 he wrote the 'novel of ideas' as social criticism, aiming to make fiction an instrument of reform.",
-  "The single scientific premise developed to its consequences; precise technical and topographical detail; a first-person witness narrator; the sudden perspective change (the Martian view of England, the Eloi of the far future); a plain, fast, journalistic narrative; the epigram and the Utopian debate in the later novels.",
-  "Time, evolutionary deep time and the fate of the species; the machine and the alienation of labour; imperialism reversed (the Martians as colonisers); science, experiment and moral responsibility; class division and the Eloi/Morlock image; utopia, progress and the possibility of catastrophe.",
-  "Wells founded modern science fiction: The Time Machine, The War of the Worlds and The Island of Doctor Moreau are the foundational texts of the genre, and their images — the time traveller, the Martian cylinder, the Morlocks, the invisible man — became permanent English myths. His social novels and his Outline of History made him one of the most widely read writers in the world, and his influence on Huxley, Orwell, Stapledon and the whole twentieth-century literature of the future is direct.",
-  infl=["T. H. Huxley", "Jonathan Swift", "Charles Dickens", "Jules Verne", "Thomas More", "Charles Darwin"],
-  alt=["H. G. Wells"],
+A("Herbert George Wells", MAJ, "1866", "1946", "Bromley, Kent, England",
+  "English; the scientific romance, the social novel and the popular history",
+  "Novelist, journalist and social prophet; the inventor of the modern scientific romance, the most widely read English writer of his generation, and the great populariser of science, history and the idea of the future.",
+  "Born at Bromley on 21 September 1866, the son of Joseph Wells, a shopkeeper and professional cricketer, and Sarah Neal, a former lady's maid; he was apprenticed to a draper, won a scholarship to the Normal School of Science in South Kensington in 1884 (he studied there until 1887), and was taught biology by T. H. Huxley, an experience that made him a lifelong evolutionist. He taught science and wrote for the Saturday Review before The Time Machine (1895) made him famous; The Island of Doctor Moreau (1896), The Invisible Man (1897), The War of the Worlds (1898), When the Sleeper Wakes (1899) and The First Men in the Moon (1901) followed, and from 1900 he turned to the social novels (Kipps, Tono-Bungay, The History of Mr Polly) and to the utopian and prophetic works (A Modern Utopia, The Outline of History, The Shape of Things to Come). He joined the Fabian Society in 1903 and quarrelled with the Webbs, produced a stream of novels, popular histories and world-state tracts for half a century, and died in London on 13 August 1946.",
+  "Wells took the evolutionary biology he had learned from Huxley and made it the basis of a new kind of fiction: the scientific romance, which uses an invention or a discovery as the premise for a realistic narrative of its social and psychological consequences. His early romances are single-conceit stories carried by a precise, journalistic specification of detail, and their subject is the fragility of the human species, the possibility of degeneration and the relative insignificance of man in time. After 1900 he wrote the 'novel of ideas' as social criticism, aiming to make fiction an instrument of reform; his Edwardian social novels (Kipps, Tono-Bungay, The History of Mr Polly) made lower-middle-class life a serious literary subject, and The Outline of History (1920) sold in millions and taught a mass readership its own past.",
+  "The rapid, transparent narrative built for a mass readership; the single scientific premise developed to its consequences; precise technical and topographical detail; a first-person witness narrator; the sudden perspective change (the Martian view of England, the Eloi of the far future); the comic lower-middle-class idiolect (Kipps, Mr Polly); the documentary and polemical essay folded into fiction; the epigram and the Utopian debate in the later novels.",
+  "Time, evolutionary deep time and the fate of the species; the machine and the alienation of labour; imperialism reversed (the Martians as colonisers); science, experiment and moral responsibility; class division, the shop and the small man's struggle (the Eloi and the Morlocks, Kipps); utopia, the world state and the possibility of catastrophe; education and self-improvement; war and the aeroplane; marriage and sexual reform.",
+  "Wells founded modern science fiction: The Time Machine, The War of the Worlds and The Island of Doctor Moreau are the foundational texts of the genre, and their images (the time traveller, the Martian cylinder, the Morlocks, the invisible man) became permanent English myths. With Shaw he was the most influential English public writer of the Edwardian and interwar years: Kipps and Tono-Bungay gave the lower middle class a literature, The Outline of History made him one of the most widely read writers in the world, and his influence on Huxley, Orwell, Stapledon and the whole twentieth-century literature of the future is direct.",
+  infl=["T. H. Huxley", "Charles Darwin", "Jonathan Swift", "Jules Verne", "Thomas More", "Charles Dickens",
+        "George Bernard Shaw"],
+  alt=["H. G. Wells", "H.G. Wells"],
+  # Authored because this single record owns works in two installments: the
+  # composed sentence gave only installment 8's date range (1895-1905).
+  unc="Twenty-seven further writings, from the Text-Book of Biology (1893) to Mind at the End of Its Tether "
+      "(1945), are listed in the bibliographical notes without separate work records, because no description "
+      "of them can be supported here; that list is a selection, not his complete bibliography. The ten works "
+      "catalogued here were all published under his own name, as H. G. Wells, and none carries a disputed, "
+      "conjectural or shared attribution: six, from The Time Machine (1895) to Kipps (1905), are recorded with "
+      "the Victorian period, and four, from Tono-Bungay (1909) to The Shape of Things to Come (1933), with the "
+      "Edwardian, Georgian and Modernist period.",
   also=["Text-Book of Biology (1893)", "The Time Machine (1895)", "The Wonderful Visit (1895)",
         "The Island of Doctor Moreau (1896)", "The Wheels of Chance (1896)", "The Invisible Man (1897)",
         "The Plattner Story and Others (1897)", "The War of the Worlds (1898)", "When the Sleeper Wakes (1899)",
         "Tales of Space and Time (1899)", "Love and Mr Lewisham (1900)", "The First Men in the Moon (1901)",
-        "Anticipations (1901)", "The Sea Lady (1902)", "The Food of the Gods (1904)", "A Modern Utopia (1905)",
-        "Kipps (1905)", "In the Days of the Comet (1906)", "The War in the Air (1908)", "Tono-Bungay (1909)",
-        "Ann Veronica (1909)", "The History of Mr Polly (1910)", "The New Machiavelli (1911)", "Marriage (1912)",
-        "The Outline of History (1920)", "The Shape of Things to Come (1933)", "Experiment in Autobiography (1934)",
-        "The War of the Worlds (1898)", "The Country of the Blind and Other Stories (1911)"]),
+        "Anticipations (1901)", "The Sea Lady (1902)", "Mankind in the Making (1903)",
+        "The Food of the Gods (1904)", "A Modern Utopia (1905)", "Kipps (1905)", "In the Days of the Comet (1906)",
+        "The War in the Air (1908)", "Tono-Bungay (1909)", "Ann Veronica (1909)", "The History of Mr Polly (1910)",
+        "The Country of the Blind and Other Stories (1911)", "The New Machiavelli (1911)", "Marriage (1912)",
+        "The Passionate Friends (1913)", "The Wife of Sir Isaac Harman (1914)", "Boon (1915)",
+        "Mr Britling Sees It Through (1916)", "The Outline of History (1920)",
+        "The Shape of Things to Come (1933)", "Experiment in Autobiography (1934)", "The Croquet Player (1936)",
+        "The Holy Terror (1939)", "The Rights of Man (1940)", "Mind at the End of Its Tether (1945)"]),
 ]

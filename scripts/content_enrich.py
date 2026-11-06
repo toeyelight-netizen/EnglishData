@@ -1393,15 +1393,23 @@ def _aview(rec):
             "unc": rec.get("biographical_uncertainty") or "", "status": rec.get("research_status")}
 
 
-def apply_enrichment(work_recs, work_meta, author_recs):
+def apply_enrichment(work_recs, work_meta, author_recs, context_author_recs=()):
     """Fill the empty analytical fields of the payload records, in place.
 
     work_meta maps a title to (authors, genres, themes, movements). Nothing is
     invented: every composed value is built from the record's own dates, form,
     genre, canon and status flags, from the curated first-edition and
     alternative-title tables, and from the author's stylistic profile.
+
+    context_author_recs are author records built by earlier installments. They
+    are used only to look up the author of a work recorded here whose author is
+    defined earlier (each author has exactly one defining installment), so that
+    such works are composed from the same profile as the author's own; they are
+    never themselves enriched or written out.
     """
-    by_name = {r["full_name"]: _aview(r) for r in author_recs}
+    by_name = {r["full_name"]: _aview(r) for r in context_author_recs
+               if r.get("stylistic_characteristics") is not None}
+    by_name.update({r["full_name"]: _aview(r) for r in author_recs})
     works_by_author = {}
     views = {}
     for rec in work_recs:
@@ -1518,7 +1526,9 @@ def compose_author_uncertainty(a, works, author_rec=None):
         parts.append("The attribution of %s rests on the publisher's records, the correspondence and the internal evidence rather than on a title page"
                      % "; ".join(anon[:2]))
     also = rec.get("bibliographical_notes") or ""
-    if also:
+    # An authored coverage statement (installment-10 extensions carry a
+    # bibliography_status) is not a semicolon list of titles, so it is not counted.
+    if also and not rec.get("bibliography_status"):
         n = also.count(";") + 1
         parts.append("%d further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text" % n)
     years = sorted({re.search(r"\d{4}", str(w.get("pub") or "")).group()
@@ -2193,6 +2203,32 @@ PREMIERES = {
 }
 
 
+# First words of literary forms that are proper adjectives or names, and so keep
+# their capital when the form is quoted after "as" ("as Petrarchan sonnets").
+PROPER_FORM_WORDS = {"Arthurian", "Chartist", "Christmas", "Oriental", "Petrarchan"}
+
+
+def form_in_sentence(form):
+    """A literary form as it reads mid-sentence, after "as".
+
+    Only a capitalised common first word is lowercased, so the names inside a
+    form keep their capitals: "(Punch, 1846-47)", "(with Charles Dickens)",
+    "(section of Leaves of Grass)". Lowercasing the whole form had made them
+    "(punch, 1846-47)" and so on in 142 notes in installments 8-9. A title-cased
+    label with no parenthesis (a genre name used as a form, such as "Ghost Story
+    and the Modern Weird Tale") is lowercased throughout, as before.
+    """
+    words = form.split()
+    if not words:
+        return form
+    first = words[0].strip(",;:()'\"")
+    if first in PROPER_FORM_WORDS or (len(first) > 1 and first.isupper()):
+        return form
+    if len(words) > 1 and words[1][:1].isupper() and "(" not in form:
+        return form.lower()
+    return form[:1].lower() + form[1:]
+
+
 def compose_bibliography(w, author):
     key = norm_title(w.get("title") or "")
     parts = []
@@ -2204,7 +2240,7 @@ def compose_bibliography(w, author):
         who = w.get("author") or (author or {}).get("name")
         if pub:
             parts.append("First published in %s" % pub
-                         + (", as %s" % form.lower() if form and len(form) < 60 else "")
+                         + (", as %s" % form_in_sentence(form) if form and len(form) < 60 else "")
                          + (", by %s" % who if who else ""))
         elif perf:
             parts.append("First performed in %s" % perf

@@ -1,36 +1,5 @@
 [
  {
-  "full_name": "G. K. Chesterton",
-  "alternative_names": [
-   "Gilbert Keith Chesterton",
-   "G. K. Chesterton (Father Brown)"
-  ],
-  "pseudonyms": [],
-  "birth_date": "1874",
-  "birth_date_approximate": false,
-  "death_date": "1936",
-  "death_date_approximate": false,
-  "birthplace": "Kensington, London, England",
-  "nationality_or_literary_tradition": "British; the paradox, the detective and the distributist",
-  "literary_identity": "Essayist, novelist, poet and critic; the most brilliant English controversialist of the century and the creator of Father Brown.",
-  "biography": "Born Gilbert Keith Chesterton in Kensington on 29 May 1874; he trained as an artist, reviewed for the press, and made his name with The Defendant (1901), Heretics (1905) and Orthodoxy (1908). The Man Who Was Thursday (1908), The Innocence of Father Brown (1911), The Napoleon of Notting Hill (1904) and his studies of Dickens and Chaucer followed. He was received into the Roman Catholic Church in 1922 and died at Beaconsfield on 14 June 1936.",
-  "literary_profile": "Chesterton was the most brilliant English controversialist of the century and the creator of Father Brown: his paradox and his jokes made orthodoxy exciting, the Father Brown stories created the metaphysical detective story, and The Man Who Was Thursday is the greatest English metaphysical thriller.",
-  "stylistic_characteristics": "The paradox turned inside out; the epigram that reverses the reader's expectation; the argument by image and joke; the ordinary man as hero; the detective story as a parable of the moral order.",
-  "intellectual_concerns": "Religion, doubt, and the post-war faith; class, the servant problem, and the new democracy; mass society, the crowd, and the individual talent; the suburb, the villa, and the new domesticity.",
-  "historical_significance": "Chesterton was the most brilliant English controversialist of the century: his paradox and his jokes made orthodoxy exciting, Father Brown created the metaphysical detective story, and The Man Who Was Thursday remains the greatest English metaphysical thriller.",
-  "major_influences": [
-   "Charles Dickens",
-   "Robert Louis Stevenson",
-   "Thomas Aquinas",
-   "Hilaire Belloc",
-   "John Ruskin"
-  ],
-  "biographical_uncertainty": "18 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1904 and 1911.",
-  "research_status": "complete",
-  "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Greybeards at Play (1900); The Defendant (1901); Robert Browning (1903); The Napoleon of Notting Hill (1904); Heretics (1905); Charles Dickens (1906); The Man Who Was Thursday (1908); Orthodoxy (1908); The Ball and the Cross (1909); The Innocence of Father Brown (1911); Manalive (1912); The Victorian Age in Literature (1913); The Wisdom of Father Brown (1914); The Everlasting Man (1925); The Incredulity of Father Brown (1926); The Secret of Father Brown (1927); The Poet and the Lunatics (1929); Autobiography (1936)."
- },
- {
   "full_name": "John Buchan",
   "alternative_names": [
    "1st Baron Tweedsmuir",
@@ -56,10 +25,10 @@
    "Joseph Conrad",
    "Thomas Carlyle"
   ],
-  "biographical_uncertainty": "22 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1915 and 1924.",
+  "biographical_uncertainty": "19 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1915 and 1924.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Sir Quixote of the Moors (1895); A Lost Lady of Old Years (1899); The Half-Hearted (1900); The Watcher by the Threshold (1902); A Lodge in the Wilderness (1906); Prester John (1910); The Moon Endureth (1912); The Thirty-Nine Steps (1915); Greenmantle (1916); Mr Standfast (1919); The Path of the King (1921); Huntingtower (1922); The Three Hostages (1924); John Macnab (1925); The Dancing Floor (1926); Witch Wood (1927); The Runagates Club (1928); Castle Gay (1930); The Blanket of the Dark (1931); A Prince of the Captivity (1933); The Free Fishers (1934); Sick Heart River (1941)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Sir Quixote of the Moors (1895); A Lost Lady of Old Years (1899); The Half-Hearted (1900); The Watcher by the Threshold (1902); A Lodge in the Wilderness (1906); Prester John (1910); The Moon Endureth (1912); Mr Standfast (1919); The Path of the King (1921); Huntingtower (1922); John Macnab (1925); The Dancing Floor (1926); Witch Wood (1927); The Runagates Club (1928); Castle Gay (1930); The Blanket of the Dark (1931); A Prince of the Captivity (1933); The Free Fishers (1934); Sick Heart River (1941)."
  },
  {
   "full_name": "Max Beerbohm",
@@ -87,10 +56,10 @@
    "Aubrey Beardsley",
    "Thomas Carlyle"
   ],
-  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1911 and 1912.",
+  "biographical_uncertainty": "12 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1911 and 1912.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Works of Max Beerbohm (1896); More (1899); The Happy Hypocrite (1897); Yet Again (1909); Zuleika Dobson (1911); A Christmas Garland (1912); Seven Men (1919); And Even Now (1920); Rossetti and His Circle (1922); Around Theatres (1924); Mainly on the Air (1946); Lytton Strachey (1943); The Illustrated Zuleika Dobson (1985, posthumous)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Works of Max Beerbohm (1896); More (1899); The Happy Hypocrite (1897); Yet Again (1909); Zuleika Dobson (1911); Seven Men (1919); And Even Now (1920); Rossetti and His Circle (1922); Around Theatres (1924); Mainly on the Air (1946); Lytton Strachey (1943); The Illustrated Zuleika Dobson (1985, posthumous)."
  },
  {
   "full_name": "Hilaire Belloc",
@@ -118,10 +87,10 @@
    "Robert Louis Stevenson",
    "Rabelais"
   ],
-  "biographical_uncertainty": "20 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1902 and 1907.",
+  "biographical_uncertainty": "18 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1902 and 1907.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Verses and Sonnets (1895); The Bad Child's Book of Beasts (1896); More Beasts for Worse Children (1897); The Modern Traveller (1898); Paris (1900); The Path to Rome (1902); More Peers (1907); Cautionary Tales for Children (1907); On Nothing (1908); The Eye-Witness (1908); Marie Antoinette (1909); The Servile State (1912); The Four Men (1912); A General Sketch of the European War (1915); Europe and the Faith (1920); The Jews (1922); Mr Petre (1925); Belinda (1928); The Cruise of the Nona (1925); An Essay on the Restoration of Property (1936)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Verses and Sonnets (1895); The Bad Child's Book of Beasts (1896); More Beasts for Worse Children (1897); The Modern Traveller (1898); Paris (1900); More Peers (1907); On Nothing (1908); The Eye-Witness (1908); Marie Antoinette (1909); The Servile State (1912); The Four Men (1912); A General Sketch of the European War (1915); Europe and the Faith (1920); The Jews (1922); Mr Petre (1925); Belinda (1928); The Cruise of the Nona (1925); An Essay on the Restoration of Property (1936)."
  },
  {
   "full_name": "Vera Brittain",
@@ -148,10 +117,10 @@
    "Rupert Brooke",
    "Edward Thomas"
   ],
-  "biographical_uncertainty": "14 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Dark Tide (1923); Not Without Honour (1924); Women's Work in Modern England (1928); Halcyon (1929); Testament of Youth (1933); Honourable Estate (1936); Thrice a Stranger (1938); Testament of Friendship (1940); England's Hour (1941); Account Rendered (1945); Born 1925 (1948); Lady into Woman (1953); Testament of Experience (1957); The Rebel Passion (1964)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Dark Tide (1923); Not Without Honour (1924); Women's Work in Modern England (1928); Halcyon (1929); Honourable Estate (1936); Thrice a Stranger (1938); Testament of Friendship (1940); England's Hour (1941); Account Rendered (1945); Born 1925 (1948); Lady into Woman (1953); Testament of Experience (1957); The Rebel Passion (1964)."
  },
  {
   "full_name": "David Jones",
@@ -179,10 +148,10 @@
    "Gerard Manley Hopkins",
    "Y Gododdin"
   ],
-  "biographical_uncertainty": "6 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "5 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: In Parenthesis (1937); The Anathemata (1952); The Tribune's Visitation (1969); The Sleeping Lord and Other Fragments (1974); The Roman Quarry (1981, posthumous); Dai Greatcoat: A Self-Portrait (1980, letters)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: The Anathemata (1952); The Tribune's Visitation (1969); The Sleeping Lord and Other Fragments (1974); The Roman Quarry (1981, posthumous); Dai Greatcoat: A Self-Portrait (1980, letters)."
  },
  {
   "full_name": "R. C. Sherriff",
@@ -210,10 +179,10 @@
    "Edmund Blunden",
    "Anton Chekhov"
   ],
-  "biographical_uncertainty": "11 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "biographical_uncertainty": "10 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Journey's End (1928); Badger's Green (1930); St Helena (1934); Miss Mabel (1948); Home at Seven (1950); The White Carnation (1953); The Long Sunset (1955); The Hopkins Manuscript (1939, novel); The Fortnight in September (1931, novel); Green Gates (1956, novel); No Leading Lady (1968, autobiography)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Badger's Green (1930); St Helena (1934); Miss Mabel (1948); Home at Seven (1950); The White Carnation (1953); The Long Sunset (1955); The Hopkins Manuscript (1939, novel); The Fortnight in September (1931, novel); Green Gates (1956, novel); No Leading Lady (1968, autobiography)."
  },
  {
   "full_name": "Richard Aldington",
@@ -241,9 +210,39 @@
    "F. S. Flint",
    "Thomas Hardy"
   ],
-  "biographical_uncertainty": "15 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1919 and 1929.",
+  "biographical_uncertainty": "13 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution, and every one of them was published under the author's own name between 1919 and 1929.",
   "research_status": "complete",
   "significance_tier": "Significant / secondary",
-  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Images (1910-1915); Reverie: A Study in Words (1915); Images of War (1919); War and Love (1919); Exile and Other Poems (1923); Voltaire (1925); Death of a Hero (1929); Roads to Glory (1930); The Colonel's Daughter (1931); All Men Are Enemies (1933); Women Must Work (1934); Wellington (1946); Lawrence of Arabia (1955); Portrait of a Genius, But... (1950); Life for Life's Sake (1941)."
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Images (1910-1915); Reverie: A Study in Words (1915); War and Love (1919); Exile and Other Poems (1923); Voltaire (1925); Roads to Glory (1930); The Colonel's Daughter (1931); All Men Are Enemies (1933); Women Must Work (1934); Wellington (1946); Lawrence of Arabia (1955); Portrait of a Genius, But... (1950); Life for Life's Sake (1941)."
+ },
+ {
+  "full_name": "Ivor Gurney",
+  "alternative_names": [
+   "Ivor Bertie Gurney"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1890",
+  "birth_date_approximate": false,
+  "death_date": "1937",
+  "death_date_approximate": false,
+  "birthplace": "Gloucester, England",
+  "nationality_or_literary_tradition": "British; the war poet and the composer",
+  "literary_identity": "Poet and composer; the greatest English poet-composer of the century and one of the finest poets of the First World War.",
+  "biography": "Born in Gloucester on 28 August 1890; he sang as a chorister at Gloucester Cathedral, studied with Charles Villiers Stanford at the Royal College of Music, and served with the Gloucestershire Regiment on the Somme, where he was gassed and wounded. Severely Poems (1917) was published in his lifetime; he was committed to mental hospitals in 1922 and died at Dartford on 26 December 1937.",
+  "literary_profile": "Ivor Gurney was the greatest English poet-composer of the century and one of the finest poets of the First World War: his poems of the trenches and of Gloucestershire, written while he was confined to mental hospitals, are among the most original of the period, and his settings of English poetry are central to the English song.",
+  "stylistic_characteristics": "The plain, exact image of the trench and the county; the song form and the lyric refrain; the remembered landscape of Gloucestershire; the musical notation of rhythm; the direct, unornamented speech.",
+  "intellectual_concerns": "The First World War and the myth of sacrifice; shell shock, mourning, and the unquiet dead; the countryside, the vanishing rural world, and the motor road; madness, the asylum, and the diagnosis of the will.",
+  "historical_significance": "Ivor Gurney was the greatest English poet-composer of the century: his poems of the trenches and of Gloucestershire, written in mental hospitals, are among the most original of the period, and he stands with Owen and Rosenberg as one of the great poets of the war.",
+  "major_influences": [
+   "Edward Thomas",
+   "John Clare",
+   "Robert Schumann",
+   "William Wordsworth",
+   "Isaac Rosenberg"
+  ],
+  "biographical_uncertainty": "8 further writings are documented on this author's record but are not given separate work records here, because no description of them can be supported from a surviving text. No work catalogued here carries a disputed, conjectural or shared attribution.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Other documented writings, recorded here because no separate work record with a verifiable description can be supported: Severely Poems (1917); War's Embers (1919); Poems by Ivor Gurney (1954, posthumous); Collected Poems (1982); Ivor Gurney: Collected Letters (1991); Songs (1919-1937); The Western Playland (1921, song cycle); Ludlow and Teme (1923, song cycle)."
  }
 ]
