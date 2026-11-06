@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 854,
-  "works": 2921
+  "authors": 855,
+  "works": 2926
  },
  "periods": [
   {
@@ -903,6 +903,9 @@
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
   "Frankenstein; or, The Modern Prometheus: The 1818 Text",
   "Freedom's Journal (New York, 1827-1829): Digitised Run, Chronicling America",
+  "Gabriel Okara (Wikipedia)",
+  "Gabriel Okara in Conversation with Professor Azuonye (Chinua Achebe Foundation Interviews 36, 2006; ScholarWorks at UMass Boston)",
+  "Gabriel Okara: Collected Poems, edited by Brenda Marie Osbey (University of Nebraska Press, 2016): publisher's description and catalogue contents",
   "George Lamming (Encyclopaedia Britannica)",
   "George Lamming (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
   "George Lamming (Wikipedia)",
@@ -951,6 +954,7 @@
   "Leviathan: The English and Latin Texts",
   "List of Sahitya Akademi Award winners for English (Wikipedia)",
   "List of winners and nominated authors of the Booker Prize (Wikipedia)",
+  "Little Snake and Little Frog and An Adventure to Juju Island: catalogue records (Google Books, Open Library, Publishing History)",
   "Little Women, Little Men, Jo's Boys (Library of America)",
   "Lord Byron: The Major Works",
   "Lorraine Hansberry (AmericanLiterature.com)",
@@ -994,6 +998,8 @@
   "Nineteen Eighty-Four (Wikipedia)",
   "Observations on American Art: Selections from the Writings of John Neal (1793-1876)",
   "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
+  "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
+  "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)",
   "Orwell's Proposed Preface to Animal Farm (Marxists Internet Archive)",
   "Oxford Dictionary of National Biography",
   "Pamphlets on West Indian Slavery",
@@ -1241,6 +1247,7 @@
   "The Symbolist Movement in Literature",
   "The Theory of Moral Sentiments (Cambridge Texts in the History of Philosophy)",
   "The Time Machine: An Invention, first edition in book form",
+  "The Voice (novel) (Wikipedia)",
   "The Walt Whitman Archive",
   "The Waste Land: A Facsimile and Transcript of the Original Drafts",
   "The Way We Live Now (Oxford World's Classics, 2nd edn)",
@@ -1279,6 +1286,7 @@
   "William Wordsworth: The Major Works",
   "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)",
   "Woman in the Nineteenth Century: A Norton Critical Edition",
+  "You Laughed and Laughed and Laughed (Wikipedia)",
   "Zofloya: or, The Moor (Oxford World's Classics)"
  ],
  "authors": [
@@ -15833,6 +15841,83 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 855,
+   "name": "Gabriel Okara",
+   "altNames": [
+    "Gabriel Imomotimi Gbaingbain Okara",
+    "Gabriel Imomotimi Okara"
+   ],
+   "dates": "1921 – 2019",
+   "birthplace": "Bumoundi (also spelled Bomoundi), Niger Delta, Nigeria",
+   "nationality": "Nigerian; Ijo (Ijaw) poet and novelist of the Niger Delta writing in English, active in the Biafran information service during the civil war",
+   "identity": "Nigerian poet and novelist, described by his publisher as the first modernist poet of anglophone Africa, whose novel The Voice (1964) renders Ijo syntax in English and whose lyrics, from 'The Call of the River Nun' (prized in 1953) to The Fisherman's Invocation (1978), set African experience against the encroaching West.",
+   "biography": "Gabriel Imomotimi Gbaingbain Okara was born in 1921 at Bumoundi, in the Ijo (Ijaw) country of the Niger Delta: Wikipedia and Gale's Contemporary Black Biography give 24 April, Contemporary Poets and Chukwuma Azuonye's 2006 interview 21 April. Gale describes his father, Samson G. Okara, as a businessman of a noble Ijaw family and the household as Christian Scientist; Wikipedia, citing Zell's New Reader's Guide to African Literature, calls him the son of an Ijo chief. He attended Government College, Umuahia (1935-1941, according to Gale), where Azuonye says Ben Enwonwu taught him art, and then Yaba Higher College; Gale reports that reading Wordsworth's 'Lines Written in Early Spring' is said to have made him want to be a poet. In the Second World War he began training with the Royal Air Force but did not finish, and worked for the British Overseas Airways Corporation. From 1945 to 1954 he was a printer and bookbinder at the government press, where he began to write, translating Ijo poetry into English and writing scripts for government radio; he told Azuonye that a vision of Herbert Macaulay in 1946 turned him from painting to poetry. 'The Call of the River Nun' won an award at the Nigerian Festival of the Arts in 1953, and his poems appeared in Black Orpheus from 1957. He studied journalism at Northwestern University, Illinois (in 1949 according to Wikipedia, 1956 according to Contemporary Poets, with a degree in 1960 according to Gale). He was an information officer for the Eastern Region government at Enugu, attended the Makerere conference of African writers in 1962, and in the civil war served Biafra, travelling abroad in 1969 with Chinua Achebe (and, Azuonye adds, Cyprian Ekwensi) to plead its cause; many of his manuscripts were destroyed in the war. Afterwards he held posts in Rivers State, which the sources name differently: director of the Rivers State Publishing House from 1972 (to 1980 in Wikipedia), head of the state newspaper and broadcasting corporation and commissioner for information (Gale), or director of the Arts Council, chairman of the newspaper The Tide and commissioner (Azuonye). The Fisherman's Invocation (1978) won the Commonwealth Poetry Prize in 1979. He wrote books for children in the 1990s and after 2000 published The Dreamer, His Vision (2005), which won the Nigeria Prize for Literature according to Wikipedia. He died at Yenagoa, Bayelsa State, on 25 March 2019.",
+   "profile": "Before 2000 Okara published one novel, The Voice (1964); one collection of poems, The Fisherman's Invocation (1978), which Gale calls his collected poetry; and two short books for children, Little Snake and Little Frog and An Adventure to Juju Island (both 1992 in the catalogue records seen). A selection of his poems appeared in Poetry from Africa (Pergamon, 1968), edited by Howard Sergeant, a volume he shared with other poets. His lyrics first appeared from the 1950s in Black Orpheus, Presence Africaine, Transition and Nigeria Magazine and in Moore and Beier's anthology Modern Poetry from Africa. He also wrote plays and features for radio, none traced in print. The Dreamer, His Vision (2005), As I See It (dated 2006 by Wikipedia, but unpublished when Azuonye interviewed him that year) and the Collected Poems edited by Brenda Marie Osbey (2016) fall outside the period.",
+   "style": "Okara's poems draw on Ijo speech and oral tradition. Sergeant quotes his remark in Transition that to capture 'the vivid images of African speech' he 'had to eschew the habit of expressing my thoughts first in English', and finds an 'almost mystical quality' in poems such as 'The Mystic Drum' and 'Adhiambo' beside the practical, down-to-earth manner of 'Once upon a Time' and 'You Laughed and Laughed and Laughed'. Gale notes recurring symbols: rivers and boats for individual destiny and the passage of time, snow and ice for the colonial world. In The Voice he carried the method into prose, writing some passages in an English that keeps Ijo word order.",
+   "concerns": "The meeting of African tradition and Western modernity and the loss of an older wholeness ('Piano and Drums', 'Once Upon a Time'); the coloniser's derision and African self-possession ('You Laughed and Laughed and Laughed'); the corruption of post-independence rulers and the lone seeker of integrity (The Voice); the rivers of the Niger Delta as figures of destiny and mortality; the violence of the civil war in his war poems; folktale and myth in the books for children.",
+   "significance": "Brenda Marie Osbey, editor of his Collected Poems, writes that 'it is with publication of Gabriel Okara's first poem that Nigerian literature in English and modern African poetry in this language can be said truly to have begun'. Gale counts him among the founders of modern African literature, and Britannica, quoted by Wikipedia, credits The Voice with a portrayal of its hero's inner tensions that distinguished him from many other Nigerian novelists. The novel's Ijo-patterned English divided critics, from Wole Soyinka's dismissal to Emmanuel Obiechina's praise, and later studies of translingual writing return to it. Commentators in 2017 still thought him undervalued, which Lindsay Barrett put down to his never having been based at a university (Wikipedia).",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Adventure Fiction",
+    "Children's Fiction",
+    "Experimental Fiction",
+    "Long Poem",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Political Novel"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
+   ],
+   "influencedBy": [
+    "William Wordsworth"
+   ],
+   "works": [
+    {
+     "id": 2926,
+     "title": "An Adventure to Juju Island"
+    },
+    {
+     "id": 2925,
+     "title": "Little Snake and Little Frog"
+    },
+    {
+     "id": 2922,
+     "title": "The Call of the River Nun"
+    },
+    {
+     "id": 2924,
+     "title": "The Fisherman's Invocation"
+    },
+    {
+     "id": 2923,
+     "title": "The Voice"
+    }
+   ],
+   "sources": [
+    "Gabriel Okara (Wikipedia)",
+    "Gabriel Okara in Conversation with Professor Azuonye (Chinua Achebe Foundation Interviews 36, 2006; ScholarWorks at UMass Boston)",
+    "Gabriel Okara: Collected Poems, edited by Brenda Marie Osbey (University of Nebraska Press, 2016): publisher's description and catalogue contents",
+    "Little Snake and Little Frog and An Adventure to Juju Island: catalogue records (Google Books, Open Library, Publishing History)",
+    "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
+    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)",
+    "The Voice (novel) (Wikipedia)",
+    "You Laughed and Laughed and Laughed (Wikipedia)"
    ]
   },
   {
@@ -67763,6 +67848,54 @@
    ]
   },
   {
+   "id": 2926,
+   "title": "An Adventure to Juju Island",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gabriel Okara"
+   ],
+   "authorIds": [
+    855
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Children's adventure story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "An adventure story for young readers set in rural Rivers State, Nigeria, in which two boys uncover a gang of Indian hemp smugglers on Juju Island; published in Ibadan by Heinemann Educational Books (Nigeria) in 1992 in its Frontline series.",
+   "summary": "A 56-page illustrated story of two boys who discover smugglers on an island, ending with the smugglers' arrest, according to the description in Google Books.",
+   "plot": "According to the publisher's description reproduced by Google Books, the story is set in the rural life of the people of Rivers State. Two young people go to Juju Island and there discover the 'hideous activities' of smugglers of Indian hemp; the boys go to the police, and the smugglers are caught. A moral is woven into the adventure. The text was not seen.",
+   "significance": "One of the two books for children that Okara is known to have published before 2000, and the longer of the two.",
+   "meter": "Written for young readers and illustrated, according to the catalogue records; the prose was not seen.",
+   "context": "Published in the same year and series as Little Snake and Little Frog, in the decade in which Gale says Okara wrote a series of works for children.",
+   "characters": "",
+   "structure": "A 56-page adventure story at the beginner level of a school reading series; its chapters were not examined.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Adventure Fiction",
+    "Children's Fiction"
+   ],
+   "themes": [
+    "Land, place and regional belonging",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Little Snake and Little Frog and An Adventure to Juju Island: catalogue records (Google Books, Open Library, Publishing History)",
+    "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
+    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)"
+   ]
+  },
+  {
    "id": 1330,
    "title": "An American Dictionary of the English Language",
    "altTitles": [
@@ -111116,6 +111249,53 @@
     "The Columbia Literary History of the United States",
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 2925,
+   "title": "Little Snake and Little Frog",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gabriel Okara"
+   ],
+   "authorIds": [
+    855
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1992",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Children's story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A short illustrated story for young readers about the friendship of a little snake and a little frog, published in Ibadan by Heinemann Educational Books (Nigeria) in 1992 in its Frontline series for beginning readers.",
+   "summary": "A 16-page story set in Nama-ama, 'the town where all of the animals lived', according to the description in Google Books.",
+   "plot": "Google Books describes it as a story about friendship set in Nama-ama, the town where all of the animals lived; its title characters are a young snake and a young frog. Gale says the books Okara wrote for children in the 1990s drew on traditional African folktales and mythology. The story itself was not seen, so its plot is not recorded.",
+   "significance": "A minor work, recorded as part of Okara's turn to writing for children, which Gale places in the 1990s.",
+   "meter": "Written for the beginner level of a school reading series and illustrated; the prose was not seen.",
+   "context": "One of two books Okara published in Heinemann Nigeria's Frontline series in 1992; it also belongs to the Rivers State English supplementary series of school readers, in the state whose publishing house Okara had directed.",
+   "characters": "",
+   "structure": "A 16-page book for beginning readers; its division into scenes and pages was not examined.",
+   "attributionNotes": "",
+   "canonicalStatus": "Minor canon",
+   "genres": [
+    "Children's Fiction"
+   ],
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Gabriel Okara (Wikipedia)",
+    "Little Snake and Little Frog and An Adventure to Juju Island: catalogue records (Google Books, Open Library, Publishing History)",
+    "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
+    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)"
    ]
   },
   {
@@ -155745,6 +155925,55 @@
    ]
   },
   {
+   "id": 2922,
+   "title": "The Call of the River Nun",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gabriel Okara"
+   ],
+   "authorIds": [
+    855
+   ],
+   "compositionStart": "1950",
+   "compositionEnd": "1950",
+   "compositionCirca": false,
+   "dates": "1950",
+   "publicationDate": "1957",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem (lyric)",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Okara's first published poem, a lyric of the Niger Delta addressed to the River Nun. Written in 1950, it won the award for the best all-round entry in poetry at the Nigerian Festival of the Arts in 1953 and was printed in Black Orpheus in 1957, according to Gale.",
+   "summary": "A short lyric in which the speaker hears, from far away, the call of the River Nun, a river of the Niger Delta, and longs to return to it.",
+   "plot": "The poem opens with the speaker hearing the river's call at a distance: 'I hear your call! / I hear it far away I hear it break the circle / Of these crouching hills', in the lines Gale quotes. He longs to see the river's face again, and the river he remembers turns into a figure for his own life, carried like a canoe towards its end. Gale reads the poem as joining a plain outer meaning, nostalgia for the river, to a symbolic one in which river and boat stand for individual destiny and the passage of life and time.",
+   "significance": "Gale names it as Okara's first published poem and one of his most widely read, and Brenda Marie Osbey, his 2016 editor, dates the beginning of Nigerian literature in English and of modern African poetry in English from the publication of his first poem. It stands first in the 2016 Collected Poems.",
+   "meter": "Exclamatory address to the river ('I hear your call!') and concrete images of hills, river and boat; only the opening lines quoted by Gale were seen.",
+   "context": "Written in 1950, while Okara was a bookbinder at the government press, and prized at the Nigerian Festival of the Arts in 1953. Okara told Azuonye that it was read on the radio before it was printed in the Ibadan journal Black Orpheus, founded in 1957.",
+   "characters": "",
+   "structure": "A single lyric that moves from the outer call of the remembered river to an inward meditation on the speaker's own course.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Land, place and regional belonging"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Gabriel Okara (Wikipedia)",
+    "Gabriel Okara in Conversation with Professor Azuonye (Chinua Achebe Foundation Interviews 36, 2006; ScholarWorks at UMass Boston)",
+    "Gabriel Okara: Collected Poems, edited by Brenda Marie Osbey (University of Nebraska Press, 2016): publisher's description and catalogue contents",
+    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)"
+   ]
+  },
+  {
    "id": 1529,
    "title": "The Call of the Wild",
    "altTitles": [
@@ -167841,6 +168070,60 @@
     "The Norton Anthology of American Literature (9th edition)",
     "The Power of Her Sympathy: The Autobiography and Journal of Catharine Maria Sedgwick",
     "The Works of Maria Edgeworth (12 volumes)"
+   ]
+  },
+  {
+   "id": 2924,
+   "title": "The Fisherman's Invocation",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gabriel Okara"
+   ],
+   "authorIds": [
+    855
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1978",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poetry collection",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Okara's first collection of poems, published in 1978 by Ethiope in Nigeria and by Heinemann in Britain, where it was no. 183 of the African Writers Series; it won the Commonwealth Poetry Prize in 1979. Azuonye presents it as the first gathering of the lyrics Okara had been publishing in journals since the mid-1950s, and Gale calls it his collected poetry and says the prize went to its title poem.",
+   "summary": "The 1978 table of contents was not seen. In the 2016 Collected Poems the title poem is a sequence in five parts, 'Introit', 'The Invocation', 'The Child-Front', 'Birth Dance of the Child-Front' and 'The End', printed after sixteen 'Early Lyrics' (from 'The Call of the River Nun' to 'The Gambler') and before nine war poems.",
+   "plot": "The centre of the book is the title poem, which Gale says won the Commonwealth prize. Its five parts, as printed in 2016, move from an introit and an invocation to the 'child-front', its 'birth dance' and an ending, a ceremonial progression; the text was not seen, so its argument is not described here. Around it, if the collection gathers the earlier lyrics as Gale and Azuonye indicate, stand the poems that made Okara's name. In 'The Call of the River Nun' a Delta river calls the speaker home and becomes an image of his own course. 'Piano and Drums', in Okara's account to Azuonye, gives its first part to the drums and the old ways and its second to the piano, a poem about change brought by the West. In 'You Laughed and Laughed and Laughed' an African speaker answers the 'ice-block laughter' of a mocker who has laughed at his song, his walk, his dance and his 'mystic inside' with a laughter of fire that thaws him, 'Because my fathers and I / are owned by the living / warmth of the earth / through our naked feet'. 'Once Upon a Time', which Wikipedia cites for Okara's concern with ancient culture meeting the modern West, looks back to a time when people 'used to shake hands with their hearts', and in 'The Snowflakes Sail Gently Down', written in Illinois, a snowbound African dreams of the end of foreign exploitation of Africa (Gale).",
+   "significance": "Okara's only collection before 2000, and the volume in which his poetry first appeared as a body of work. Gale's name for its award, the 'Commonwealth Joint Poetry Award', suggests that the 1979 prize was shared. Studies of the poetry listed by Contemporary Poets followed: Bruce King (1979), Susan Beckmann (1981), Samuel Asein (1982), S. A. Gingell (1984), Obi Maduakor's 'Poet of the Mystic Inside' (1987) and Michael Echeruo (1992).",
+   "meter": "The lyrics seen are built on repetition and refrain ('and you laughed and laughed and laughed'), direct address and images from Ijo life and the Delta landscape. Sergeant finds a mystical strain in poems such as 'The Mystic Drum' and a practical, almost analytical manner in others.",
+   "context": "Published eight years after the civil war in which many of Okara's manuscripts were destroyed, by a Nigerian publisher and in Heinemann's African Writers Series, it gathered work that had circulated for two decades in Black Orpheus, Presence Africaine, Transition and Nigeria Magazine and in Moore and Beier's Modern Poetry from Africa. The Commonwealth Poetry Prize followed in 1979; Kirsten Holst Petersen wrote on that year's award in Kunapipi ('Heterogeneous Worlds Yoked Violently Together').",
+   "characters": "",
+   "structure": "A collection whose title poem is a five-part sequence. In the 2016 edition the sequence is framed by the early lyrics and the war poems; the order of the 1978 volume was not examined.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Long Poem",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Myth, folklore and the supernatural"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Gabriel Okara (Wikipedia)",
+    "Gabriel Okara in Conversation with Professor Azuonye (Chinua Achebe Foundation Interviews 36, 2006; ScholarWorks at UMass Boston)",
+    "Gabriel Okara: Collected Poems, edited by Brenda Marie Osbey (University of Nebraska Press, 2016): publisher's description and catalogue contents",
+    "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
+    "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
+    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)",
+    "You Laughed and Laughed and Laughed (Wikipedia)"
    ]
   },
   {
@@ -206443,6 +206726,59 @@
    "sources": [
     "Dictionary of Old English: A to I online",
     "The Blackwell Encyclopaedia of Anglo-Saxon England, 2nd edition"
+   ]
+  },
+  {
+   "id": 2923,
+   "title": "The Voice",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Gabriel Okara"
+   ],
+   "authorIds": [
+    855
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1964",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Okara's only novel, a short allegorical fable of post-independence Nigeria, first published in London by André Deutsch in 1964 and reissued in 1970 in Heinemann's African Writers Series (no. 68) and by Africana in New York. Okolo, whose name means 'the voice' in Ijo, comes home and searches for an unnamed 'it' that the rulers of his town take as a threat to their power. Parts are written in an English that follows the syntax of Ijo, an experiment Gale calls the novel's most striking feature.",
+   "summary": "The novel follows Okolo from his return to his home town of Amatu, through persecution and banishment and a journey by canoe to the town of Sologa, back to Amatu and to his death. Chief Izongo and the Elders, grown rich since independence, hunt him for asking whether anyone has 'it'; Tuere, a woman the town has driven out as a witch, is the one person who shelters him. Some passages follow Ijo word order, as in 'Things changing how always he speaking'.",
+   "plot": "Okolo, a young man who has been away to be educated, returns to Amatu, a town of the creeks, and begins to ask its people whether they have 'it'. Neither he nor the narrator says what it is; Gale lists the readings critics have proposed, from faith or an inner voice to African destiny and the meaning of life. The town has changed since independence. Its ruler, Chief Izongo, and the Elders have grown rich and keep their power by bribery and fear, and Okolo's question unsettles them because it exposes what they have become: 'Everybody's inside is now filled with money, cars and concrete houses and money,' he says. Wikipedia's brief summary says that he has come home to seek the truth and that the chiefs exile him for fear that he might topple them. Hunted by Izongo's men, he finds shelter only with Tuere, a woman the town has cast out as a witch. Banished, he travels by canoe to Sologa, a larger town, and finds there the same hunger for money and power and the same suspicion of anyone who asks questions. He returns to Amatu, still searching, and is seized again. In the end Okolo and Tuere are bound together in a canoe and set adrift on the river, where they die. His name, which means 'the voice' in Ijo, is the title of the book.",
+   "significance": "The Voice is the book for which Okara is best known as a novelist; Wikipedia calls it his 'early experimental novel'. Britannica, quoted by Wikipedia, judged that his 'skilled portrayal of the inner tensions of his hero distinguished him from many other Nigerian novelists'. Gale says it brought him international attention and stirred controversy in the African and Western press. Its sustained attempt to make English carry the syntax of an African language has kept it in discussion of African writing in English and of translingual writing: Wikipedia lists studies by Patrick Scott (1990), Edwin Thumboo (2007) and Luke Eyoh (2012).",
+   "meter": "Okara wrote some passages first in Ijo and translated them word by word, so that the English keeps Ijo order; Gale's example is 'Things changing how always he speaking' for 'He is always speaking of change'. Britannica, quoted by Wikipedia, says he imposed Ijo syntax on English 'in order to give literal expression to African ideas and imagery'. The result is a deliberate, repetitive prose in which sentences often end on the verb and 'inside' serves for the self.",
+   "context": "Published four years after Nigerian independence, while Okara was an information officer for the Eastern Region government, and three years before the civil war in which many of his manuscripts were destroyed. Okara was quoted in Contemporary Authors (as Gale reports) as saying that he wrote it because of 'the inconsistencies of our rulers after the British had left Nigeria', who perpetrated the measures they had denounced once they took over. It followed Tutuola's The Palm-Wine Drinkard (1952), Ekwensi's People of the City (1954) and Achebe's Things Fall Apart (1958), and Heinemann brought it into the African Writers Series in 1970.",
+   "characters": "Okolo; Chief Izongo; the Elders of Amatu; Tuere",
+   "structure": "A short third-person narrative on a journey pattern: return home, persecution, exile by river to Sologa, return and death. Gale notes that only some sections are written in the Ijo-patterned English. The characters are few and representative, which Thomas Hinde counted against the book. The river and the canoe that carry Okolo away and bring him to his end are the figures of destiny that Gale traces in Okara's poems.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Experimental Fiction",
+    "Political Novel"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Language, writing and the limits of representation",
+    "Power, the state and surveillance"
+   ],
+   "movements": [
+    "African Literature in English"
+   ],
+   "editions": [],
+   "sources": [
+    "Gabriel Okara (Wikipedia)",
+    "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
+    "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
+    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)",
+    "The Voice (novel) (Wikipedia)"
    ]
   },
   {

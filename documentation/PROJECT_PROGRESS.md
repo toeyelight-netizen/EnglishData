@@ -10,11 +10,11 @@ installment. The master database is cumulative: `database/English_Literature_Mas
   `bibliographical_notes` + the installment 10 verification and bibliography
   columns).
 - Current position: installments 1–9 are imported, plus installment 10
-  waves 01–08, giving **854 authors / 2921 works** across ten periods (c. 450–2000).
+  waves 01–09, giving **855 authors / 2926 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Eight research waves are built; see
+  **Installment 10 is in progress.** Nine research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1511,7 +1511,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Waves 01–08 are built (77 works by 8 authors). Not complete.**
+**Status: in progress. Waves 01–09 are built (82 works by 9 authors). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1663,6 +1663,22 @@ with broader Anglophone writing out of scope.
     (1968), named by one source each and described by none, the uncollected
     stories and poems, the radio and television scripts, the screenplay of
     *Pressure* (1976) and three essays. They are listed in his bibliography note.
+- **Wave 09:** Gabriel Okara (Nigeria; Ijo poet and novelist of the Niger
+  Delta), taken ahead of Cyprian Ekwensi because his output in the period fits
+  one wave: the novel *The Voice* (1964, a full major record), *The
+  Fisherman's Invocation* (1978), his first published poem "The Call of the
+  River Nun" (written 1950, printed 1957) and the two books for children of
+  1992. The audit's "other English-language" count moves from 3 to 4, and
+  genre-checklist coverage from 47 to 50 of 161.
+  - **Sources:** Wikipedia (three articles), Gale's *Contemporary Black
+    Biography*, *Contemporary Poets*, Chukwuma Azuonye's 2006 interview, and
+    catalogue records for the *Collected Poems* (2016) and the children's
+    books (sources 118–125).
+  - **Verification:** all 5 records are partially verified; none of the books
+    was read. His bibliography is marked *incomplete*: the early lyrics, the
+    war poems and the radio work are listed but not recorded as works,
+    because their first publication was not established. Eight discrepancies
+    are recorded in limitation 19 of the audit report.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1770,4 +1786,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–08: 77 works by 8 authors) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–09: 82 works by 9 authors) |

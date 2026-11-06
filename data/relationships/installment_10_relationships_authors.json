@@ -31,6 +31,18 @@
    ]
   },
   {
+   "author": "Gabriel Okara",
+   "genres": [
+    "Adventure Fiction",
+    "Children's Fiction",
+    "Experimental Fiction",
+    "Long Poem",
+    "Lyric Poetry",
+    "Nature Poetry",
+    "Political Novel"
+   ]
+  },
+  {
    "author": "George Lamming",
    "genres": [
     "Autobiographical Novel",
@@ -143,6 +155,12 @@
    ]
   },
   {
+   "author": "Gabriel Okara",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
    "author": "George Lamming",
    "movements": [
     "Black British Writing and the Windrush Generation",
@@ -202,6 +220,20 @@
     "Death, illness and mourning",
     "Family, marriage and domestic life",
     "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "author": "Gabriel Okara",
+   "themes": [
+    "Death, illness and mourning",
+    "Decolonisation, the end of empire and the new nation",
+    "Faith, doubt and the sacred",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Language, writing and the limits of representation",
+    "Myth, folklore and the supernatural",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -352,6 +384,12 @@
    "influenced_by": [
     "T. S. Eliot"
    ]
+  },
+  {
+   "author": "Gabriel Okara",
+   "influenced_by": [
+    "William Wordsworth"
+   ]
   }
  ],
  "author_sources": [
@@ -440,6 +478,19 @@
     "Samuel Selvon (Encyclopaedia Britannica)",
     "Samuel Selvon, by Kwame S. N. Dawes (EBSCO Research Starters)",
     "Samuel Selvon: 'The Lonely Londoners' - 1956, by Bill Schwarz (London Fictions)"
+   ]
+  },
+  {
+   "author": "Gabriel Okara",
+   "sources": [
+    "Gabriel Okara (Wikipedia)",
+    "Gabriel Okara in Conversation with Professor Azuonye (Chinua Achebe Foundation Interviews 36, 2006; ScholarWorks at UMass Boston)",
+    "Gabriel Okara: Collected Poems, edited by Brenda Marie Osbey (University of Nebraska Press, 2016): publisher's description and catalogue contents",
+    "Little Snake and Little Frog and An Adventure to Juju Island: catalogue records (Google Books, Open Library, Publishing History)",
+    "Okara, Gabriel (Imomotimi Gbaingbain), by Howard Sergeant (Contemporary Poets, via Encyclopedia.com)",
+    "Okara, Gabriel 1921-, by James M. Manheim (Contemporary Black Biography, via Encyclopedia.com)",
+    "The Voice (novel) (Wikipedia)",
+    "You Laughed and Laughed and Laughed (Wikipedia)"
    ]
   }
  ]

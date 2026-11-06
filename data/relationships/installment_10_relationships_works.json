@@ -389,6 +389,31 @@
    "work": "Highway in the Sun and Other Plays",
    "author": "Samuel Selvon",
    "contribution_type": "author"
+  },
+  {
+   "work": "The Call of the River Nun",
+   "author": "Gabriel Okara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Voice",
+   "author": "Gabriel Okara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Fisherman's Invocation",
+   "author": "Gabriel Okara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Little Snake and Little Frog",
+   "author": "Gabriel Okara",
+   "contribution_type": "author"
+  },
+  {
+   "work": "An Adventure to Juju Island",
+   "author": "Gabriel Okara",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -938,6 +963,40 @@
    "genres": [
     "Radio Drama",
     "Television Drama"
+   ]
+  },
+  {
+   "work": "The Call of the River Nun",
+   "genres": [
+    "Lyric Poetry",
+    "Nature Poetry"
+   ]
+  },
+  {
+   "work": "The Voice",
+   "genres": [
+    "Experimental Fiction",
+    "Political Novel"
+   ]
+  },
+  {
+   "work": "The Fisherman's Invocation",
+   "genres": [
+    "Lyric Poetry",
+    "Long Poem"
+   ]
+  },
+  {
+   "work": "Little Snake and Little Frog",
+   "genres": [
+    "Children's Fiction"
+   ]
+  },
+  {
+   "work": "An Adventure to Juju Island",
+   "genres": [
+    "Children's Fiction",
+    "Adventure Fiction"
    ]
   }
  ],
@@ -1545,6 +1604,45 @@
     "Family, marriage and domestic life",
     "Migration, exile and diaspora"
    ]
+  },
+  {
+   "work": "The Call of the River Nun",
+   "themes": [
+    "Land, place and regional belonging",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "The Voice",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance",
+    "Language, writing and the limits of representation",
+    "Identity, authenticity and the divided self",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "The Fisherman's Invocation",
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Decolonisation, the end of empire and the new nation",
+    "Myth, folklore and the supernatural",
+    "Land, place and regional belonging"
+   ]
+  },
+  {
+   "work": "Little Snake and Little Frog",
+   "themes": [
+    "Myth, folklore and the supernatural"
+   ]
+  },
+  {
+   "work": "An Adventure to Juju Island",
+   "themes": [
+    "Violence, crime and justice",
+    "Land, place and regional belonging"
+   ]
   }
  ],
  "work_movements": [
@@ -1808,6 +1906,36 @@
    "movements": [
     "Caribbean Literature in English"
    ]
+  },
+  {
+   "work": "The Call of the River Nun",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Voice",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "The Fisherman's Invocation",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "Little Snake and Little Frog",
+   "movements": [
+    "African Literature in English"
+   ]
+  },
+  {
+   "work": "An Adventure to Juju Island",
+   "movements": [
+    "African Literature in English"
+   ]
   }
  ],
  "work_periods": [
@@ -1890,7 +2018,12 @@
     "Moses Migrating",
     "Eldorado West One",
     "Foreday Morning: Selected Prose 1946-1986",
-    "Highway in the Sun and Other Plays"
+    "Highway in the Sun and Other Plays",
+    "The Call of the River Nun",
+    "The Voice",
+    "The Fisherman's Invocation",
+    "Little Snake and Little Frog",
+    "An Adventure to Juju Island"
    ]
   }
  ]
