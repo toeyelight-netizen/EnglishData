@@ -1898,6 +1898,16 @@ with broader Anglophone writing out of scope.
   from 1959 (the book) to 1958 (the periodical). 121 of the 255 selections now
   have records; 128 American selections remain.
 
+- **Wave 23:** J. D. Salinger ("For Esmé—with Love and Squalor",
+  *The New Yorker*, 8 April 1950; *Nine Stories*, 1953, major record), Jack
+  Kerouac (*On the Road*, 1957, major record), Kurt Vonnegut ("Harrison
+  Bergeron", *The Magazine of Fantasy and Science Fiction*, October 1961, and
+  *Slaughterhouse-Five*, 1969, major record) and Grace Paley ("A Conversation
+  with My Father", *New American Review*, 1972, major record, and "Zagrowsky
+  Tells", *Mother Jones*, May 1985). Six works and four authors, all partially
+  verified, with ten new sources. 126 of the 255 selections now have records;
+  123 American selections remain.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2005,4 +2015,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 165 works by 48 authors; 121 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 171 works by 52 authors; 126 of 255 selections recorded; the English anthology's in-scope list complete, the American under way) |

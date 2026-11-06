@@ -170,6 +170,14 @@
    ]
   },
   {
+   "author": "Grace Paley",
+   "genres": [
+    "Domestic Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Gwendolyn Brooks",
    "genres": [
     "Black Arts Poetry",
@@ -190,6 +198,14 @@
    ]
   },
   {
+   "author": "J. D. Salinger",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "War Novel"
+   ]
+  },
+  {
    "author": "J. G. Ballard",
    "genres": [
     "Apocalyptic Fiction",
@@ -203,6 +219,14 @@
     "Literary Novel",
     "Philosophical Fiction",
     "Political Novel"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Experimental Fiction"
    ]
   },
   {
@@ -236,6 +260,16 @@
     "Comic Novel",
     "Regional Fiction",
     "Satirical Fiction"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "genres": [
+    "Dystopian Fiction",
+    "Postmodern Fiction",
+    "Satirical Fiction",
+    "Science Fiction",
+    "War Novel"
    ]
   },
   {
@@ -641,6 +675,13 @@
    ]
   },
   {
+   "author": "Grace Paley",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Gwendolyn Brooks",
    "movements": [
     "Black Arts Movement",
@@ -655,6 +696,12 @@
    ]
   },
   {
+   "author": "J. D. Salinger",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
    "author": "J. G. Ballard",
    "movements": [
     "Contemporary Gothic",
@@ -666,6 +713,12 @@
    "movements": [
     "Postcolonial Literature",
     "South African Writing under Apartheid"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "movements": [
+    "The Beat Generation"
    ]
   },
   {
@@ -695,6 +748,14 @@
    "movements": [
     "Postcolonial Literature",
     "South Asian Literature in English"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "movements": [
+    "Black Humour and the Absurdist Novel",
+    "New Wave Science Fiction",
+    "Postmodernism and Postmodern Fiction"
    ]
   },
   {
@@ -1061,6 +1122,16 @@
    ]
   },
   {
+   "author": "Grace Paley",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
    "author": "Gwendolyn Brooks",
    "themes": [
     "Childhood, adolescence and coming of age",
@@ -1084,6 +1155,14 @@
    ]
   },
   {
+   "author": "J. D. Salinger",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
    "author": "J. G. Ballard",
    "themes": [
     "Alienation, absurdity and existential freedom",
@@ -1097,6 +1176,14 @@
     "Decolonisation, the end of empire and the new nation",
     "Power, the state and surveillance",
     "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "themes": [
+    "Counterculture, drugs and rebellion",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging"
    ]
   },
   {
@@ -1136,6 +1223,17 @@
     "Faith, doubt and the sacred",
     "Nature, ecology and environmental crisis",
     "Power, the state and surveillance"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Memory, trauma and testimony",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -1943,6 +2041,40 @@
     "Skunk Hour (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)",
     "The Quaker Graveyard in Nantucket (Wikipedia)"
+   ]
+  },
+  {
+   "author": "J. D. Salinger",
+   "sources": [
+    "For Esmé—with Love and Squalor (Wikipedia)",
+    "J. D. Salinger (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Jack Kerouac",
+   "sources": [
+    "Jack Kerouac (Wikipedia)",
+    "On the Road (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Kurt Vonnegut",
+   "sources": [
+    "Harrison Bergeron (Wikipedia)",
+    "Kurt Vonnegut (Wikipedia)",
+    "Slaughterhouse-Five (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "author": "Grace Paley",
+   "sources": [
+    "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
+    "Grace Paley (Wikipedia)",
+    "Later the Same Day (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   }
  ]

@@ -824,6 +824,36 @@
    "work": "For the Union Dead",
    "author": "Robert Lowell",
    "contribution_type": "author"
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "author": "J. D. Salinger",
+   "contribution_type": "author"
+  },
+  {
+   "work": "On the Road",
+   "author": "Jack Kerouac",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Harrison Bergeron",
+   "author": "Kurt Vonnegut",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "author": "Kurt Vonnegut",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Conversation with My Father",
+   "author": "Grace Paley",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "author": "Grace Paley",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -2043,6 +2073,54 @@
     "Confessional Poetry",
     "Elegiac Poetry",
     "Formal Verse"
+   ]
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "genres": [
+    "Short Story",
+    "War Novel",
+    "Realist Fiction"
+   ]
+  },
+  {
+   "work": "On the Road",
+   "genres": [
+    "Bildungsroman",
+    "Autobiographical Novel",
+    "Experimental Fiction"
+   ]
+  },
+  {
+   "work": "Harrison Bergeron",
+   "genres": [
+    "Dystopian Fiction",
+    "Satirical Fiction",
+    "Science Fiction"
+   ]
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "genres": [
+    "Postmodern Fiction",
+    "Science Fiction",
+    "War Novel"
+   ]
+  },
+  {
+   "work": "A Conversation with My Father",
+   "genres": [
+    "Short Story",
+    "Metafictional Novel",
+    "Domestic Fiction"
+   ]
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Metafictional Novel"
    ]
   }
  ],
@@ -3358,6 +3436,54 @@
     "Race, racism and the struggle for civil rights",
     "War, combat and its aftermath"
    ]
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "themes": [
+    "War, combat and its aftermath",
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "On the Road",
+   "themes": [
+    "Counterculture, drugs and rebellion",
+    "Land, place and regional belonging",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Harrison Bergeron",
+   "themes": [
+    "Utopia, dystopia and imagined futures",
+    "Power, the state and surveillance",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "themes": [
+    "War, combat and its aftermath",
+    "Death, illness and mourning",
+    "Memory, trauma and testimony"
+   ]
+  },
+  {
+   "work": "A Conversation with My Father",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Art, the artist and the creative life",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony"
+   ]
   }
  ],
  "work_movements": [
@@ -4197,6 +4323,45 @@
     "Confessional Poetry",
     "Late Modernism"
    ]
+  },
+  {
+   "work": "For Esmé—with Love and Squalor",
+   "movements": [
+    "Late Modernism"
+   ]
+  },
+  {
+   "work": "On the Road",
+   "movements": [
+    "The Beat Generation"
+   ]
+  },
+  {
+   "work": "Harrison Bergeron",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "New Wave Science Fiction"
+   ]
+  },
+  {
+   "work": "Slaughterhouse-Five",
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Black Humour and the Absurdist Novel"
+   ]
+  },
+  {
+   "work": "A Conversation with My Father",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Postmodernism and Postmodern Fiction"
+   ]
+  },
+  {
+   "work": "Zagrowsky Tells",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
   }
  ],
  "work_periods": [
@@ -4367,7 +4532,13 @@
     "Skunk Hour",
     "Memories of West Street and Lepke",
     "Night Sweat",
-    "For the Union Dead"
+    "For the Union Dead",
+    "For Esmé—with Love and Squalor",
+    "On the Road",
+    "Harrison Bergeron",
+    "Slaughterhouse-Five",
+    "A Conversation with My Father",
+    "Zagrowsky Tells"
    ]
   }
  ]

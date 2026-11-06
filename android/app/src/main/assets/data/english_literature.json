@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 895,
-  "works": 3009
+  "authors": 899,
+  "works": 3015
  },
  "periods": [
   {
@@ -841,6 +841,7 @@
   "A Brighter Sun Summary (eNotes)",
   "A Clergyman's Daughter (Wikipedia)",
   "A Common Heritage: Noah Webster's Blue-Back Speller",
+  "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
   "A Dark Green Counterculture in Ted Hughes's Crow (independent thesis, DiVA)",
   "A Guide to Old English, 8th edition",
   "A Narrative of the Life and Adventures of Venture, a Native of Africa: But Resident above Sixty Years in the United States of America. Related by Himself",
@@ -946,6 +947,7 @@
   "Felicia Hemans: Selected Poems, Prose and Letters",
   "Feminist Bookstore News, 1976-2000 (Post45 Data Collective)",
   "First Screening: Computer Poems by bpNichol (Rhizome, 2007)",
+  "For Esmé—with Love and Squalor (Wikipedia)",
   "For the Union Dead (Wikipedia)",
   "Frankenstein; or, The Modern Prometheus: The 1818 Text",
   "Freedom's Journal (New York, 1827-1829): Digitised Run, Chronicling America",
@@ -961,11 +963,13 @@
   "Grace Nichols, 'Epilogue', 'The Fat Black Woman Goes Shopping', 'Wherever I Hang' (readingnorton.wordpress.com)",
   "Grace Nichols, I Have Crossed an Ocean: Selected Poems (contents listing)",
   "Grace Nichols- born 1950 (greatbritishwriters blog)",
+  "Grace Paley (Wikipedia)",
   "Gwendolyn E. Brooks, portrait by Sara S. Miller (National Portrait Gallery, Smithsonian), exhibition label",
   "H. G. Wells (Wikipedia)",
   "Hanif Kureishi (Wikipedia)",
   "Hansberry, Lorraine 1930-1965 (Encyclopedia.com, Gale entry with Leonard R. N. Ashley's 1990 essay)",
   "Hansberry, Lorraine: Introduction (Encyclopedia.com, Gale literary criticism entry)",
+  "Harrison Bergeron (Wikipedia)",
   "Heart of Darkness: A Norton Critical Edition, 3rd edn",
   "Heinemann African Writers Series (Wikipedia), section \"Bibliography\"",
   "Heinemann Caribbean Writers Series (Wikipedia)",
@@ -980,8 +984,10 @@
   "Inside the Whale (Wikipedia)",
   "Inside the Whale and Other Essays (Wikipedia)",
   "Iowa Writers' Workshop (Post45 Data Collective; Program Era Project)",
+  "J. D. Salinger (Wikipedia)",
   "J. G. Ballard (Wikipedia)",
   "J. M. Coetzee (Wikipedia)",
+  "Jack Kerouac (Wikipedia)",
   "Jack London: Novels and Social Writings (Library of America, vol. 7)",
   "Jack Sheppard (Broadview Editions)",
   "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
@@ -999,10 +1005,12 @@
   "Kiran Desai (Wikipedia)",
   "Kiran Desai, 'The Sermon in the Guava Tree' (extract, The New Yorker, 23 June 1997)",
   "Kissing the Rod: An Anthology of Seventeenth-Century Women's Verse",
+  "Kurt Vonnegut (Wikipedia)",
   "Lady Caroline Lamb: A Biography",
   "Landor's Cleanness: A Study of Walter Savage Landor",
   "Larkin's 'Talking in Bed' (Journal of Language and Literature, University of Buckingham)",
   "Larkin's Public Poetry and Aden (South24 Center for News and Studies)",
+  "Later the Same Day (Wikipedia)",
   "Leaves of Grass: A Textual Variorum of the Printed Poems, 3 vols (The Collected Writings of Walt Whitman)",
   "Les Murray (poet) (Wikipedia)",
   "Les Murray, Collected Poems (contents listing, readfrom.net)",
@@ -1071,6 +1079,7 @@
   "Of Selvon and Sentimentality: Diasporic Rememberings (Anthurium)",
   "Omeros (Wikipedia)",
   "On Wole Soyinka's Death and the King's Horseman (David Damrosch, Literary Hub)",
+  "On the Road (Wikipedia)",
   "One Art (Wikipedia)",
   "Orwell's Proposed Preface to Animal Farm (Marxists Internet Archive)",
   "Oxford Dictionary of National Biography",
@@ -1134,6 +1143,7 @@
   "Sir Thomas Wyatt: The Complete Poems",
   "Sketches of American Character",
   "Skunk Hour (Wikipedia)",
+  "Slaughterhouse-Five (Wikipedia)",
   "Sleep It Off Lady (Wikipedia)",
   "Sleep It Off Lady: Stories (Trove, National Library of Australia)",
   "Sources and Style in Moore's Irish Melodies",
@@ -19151,6 +19161,55 @@
    ]
   },
   {
+   "id": 899,
+   "name": "Grace Paley",
+   "altNames": [],
+   "dates": "1922 – 2007",
+   "birthplace": "New York City, New York, United States",
+   "nationality": "American; short-story writer, poet and political activist writing in English",
+   "identity": "American short-story writer of the Bronx and Greenwich Village, whose talky, digressive, funny stories of mothers, fathers, neighbours and radicals made her the great miniaturist of American city life",
+   "biography": "Grace Goodside was born in the Bronx, New York, on 11 December 1922, the daughter of Ukrainian Jewish immigrants who had come to the United States in 1906 and who spoke Russian and Yiddish at home; her father, Isaac Goodside, became a doctor. She dropped out of high school at sixteen, attended Hunter College for a year and studied poetry briefly with W. H. Auden at the New School, married the film cameraman Jess Paley in 1942 and had two children, and was active for the rest of her life in the feminist, anti-war and peace movements - she was a member of the War Resisters League and one of the founding members of the Greenwich Village Peace Center. The Little Disturbances of Man (1959), Enormous Changes at the Last Minute (1974) and Later the Same Day (1985) are the three collections, gathered as The Collected Stories (1994), which was a finalist for the Pulitzer Prize and the National Book Award; the poems are collected in Leaning Forward (1985) and Begin Again (2000), and the essays in Just As I Thought (1998). She taught at Columbia, Syracuse and the City College of New York, was Poet Laureate of Vermont from 2003, and died at Thetford, Vermont, on 22 August 2007.",
+   "profile": "Stories: The Little Disturbances of Man (1959), Enormous Changes at the Last Minute (1974), Later the Same Day (1985) and The Collected Stories (1994). Poetry: Leaning Forward (1985) and Begin Again: Collected Poems (2000). Essays and interviews: Just As I Thought (1998) and Conversations with Grace Paley (1997).",
+   "style": "A talky, digressive, first-person or free indirect voice that reproduces the rhythms of New York speech; very short paragraphs and abrupt transitions; jokes, repetitions and direct addresses to the reader; stories that refuse conventional closure and often end in the middle of a conversation; a mixture of realism and metafictional experiment.",
+   "concerns": "Mothers, fathers, children and the ordinary labour of family life; the Bronx, Greenwich Village and the street as a community; Jewish immigrant inheritance; feminism, abortion, friendship between women; politics and activism, above all the anti-war and peace movements; storytelling itself, and the ethics of the stories we tell about other people.",
+   "significance": "Paley is one of the most admired American short-story writers of the century and the model for a whole school of voice-driven American fiction; her three collections are small in number and enormous in influence, 'A Conversation with My Father' is among the most discussed American stories of the 1970s, and her combination of formal experiment with political commitment made her a central figure for feminist criticism.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Domestic Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3014,
+     "title": "A Conversation with My Father"
+    },
+    {
+     "id": 3015,
+     "title": "Zagrowsky Tells"
+    }
+   ],
+   "sources": [
+    "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
+    "Grace Paley (Wikipedia)",
+    "Later the Same Day (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 485,
    "name": "Grant Allen",
    "altNames": [],
@@ -23185,6 +23244,47 @@
    ]
   },
   {
+   "id": 896,
+   "name": "J. D. Salinger",
+   "altNames": [],
+   "dates": "1919 – 2010",
+   "birthplace": "New York City, New York, United States",
+   "nationality": "American; novelist and short-story writer writing in English",
+   "identity": "American writer whose stories of adolescent alienation and of the Glass family - above all The Catcher in the Rye - made him the most influential and most reclusive American writer of the postwar decades",
+   "biography": "Jerome David Salinger was born in Manhattan on 1 January 1919, the son of a Jewish importer of cheese and ham and a mother of Scots-Irish descent; he was educated at the McBurney School and at Valley Forge Military Academy, spent a year at New York University and studied briefly at Ursinus College and Columbia, where Whit Burnett's short-story course led to his first sale, 'The Young Folks', to Story in 1940. He served in the US Army from 1942 to 1945, landed in Normandy on D-Day and was present at the liberation of a subcamp of Dachau, and his war experience is behind much of his fiction. 'A Perfect Day for Bananafish' (The New Yorker, 1948) began the Glass family sequence; The Catcher in the Rye (1951) made him famous; Nine Stories (1953), Franny and Zooey (1961) and Raise High the Roof Beam, Carpenters and Seymour: An Introduction (1963) followed, and 'Hapworth 16, 1924' (The New Yorker, 1965) was the last thing he published. He withdrew to Cornish, New Hampshire, avoided publicity for the rest of his life and died there on 27 January 2010.",
+   "profile": "Fiction: The Catcher in the Rye (1951), Nine Stories (1953), Franny and Zooey (1961), Raise High the Roof Beam, Carpenters and Seymour: An Introduction (1963) and the uncollected 'Hapworth 16, 1924' (1965). Stories of the 1940s, some uncollected in his lifetime, are gathered in Three Early Stories (2014).",
+   "style": "A colloquial, idiomatic first-person voice that catches adolescent speech exactly; dialogue that carries almost all of the action; a habit of sudden religious or mystical intensity inside ordinary conversation; irony that turns to tenderness without warning; the recurring device of the child who is wiser than the adults around her.",
+   "concerns": "Adolescent alienation and the loss of innocence; the phoniness of adult society and the longing for authenticity; war, trauma and what Salinger called 'squalor'; the family as a religious community, above all in the Glass stories; Zen, Vedanta and Christian mysticism; the holiness of the child.",
+   "significance": "Salinger is the writer through whom the American postwar adolescent found a voice, and The Catcher in the Rye is one of the most widely read and most frequently taught American novels of the century; his stories, particularly 'For Esmé' and the Glass sequence, are central to the criticism of the American short story, and his reclusiveness made him a cultural figure as well as a literary one.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "War Novel"
+   ],
+   "movements": [
+    "Late Modernism"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3010,
+     "title": "For Esmé—with Love and Squalor"
+    }
+   ],
+   "sources": [
+    "For Esmé—with Love and Squalor (Wikipedia)",
+    "J. D. Salinger (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 874,
    "name": "J. G. Ballard",
    "altNames": [],
@@ -23529,6 +23629,47 @@
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Thomas Chalmers and the Godly Commonwealth in Scotland"
+   ]
+  },
+  {
+   "id": 897,
+   "name": "Jack Kerouac",
+   "altNames": [],
+   "dates": "1922 – 1969",
+   "birthplace": "Lowell, Massachusetts, United States",
+   "nationality": "American; novelist, poet and diarist writing in English",
+   "identity": "American novelist of the Beat Generation, whose spontaneous prose and road narratives - above all On the Road - made the cross-country journey the founding myth of postwar American counterculture",
+   "biography": "Jean-Louis Lebris de Kérouac was born in Lowell, Massachusetts, on 12 March 1922 to French Canadian parents and grew up speaking joual, learning English at about six. He won a football scholarship to Columbia University, injured his leg, left without a degree, served in the merchant marine and the navy, and met Allen Ginsberg, William Burroughs and Neal Cassady in New York in the mid-1940s. The Town and the City (1950) was his first novel; On the Road, written in 1951 on a continuous roll of paper and published by Viking on 5 September 1957, made him famous. The Subterraneans (1958), The Dharma Bums (1958), Doctor Sax (1959), Maggie Cassidy (1959), Tristessa (1960), Lonesome Traveler (1960), Big Sur (1962), Visions of Gerard (1963), Desolation Angels (1965) and Vanity of Duluoz (1968) followed, with the poetry of Mexico City Blues (1959) and The Scripture of the Golden Eternity (1960). He drank heavily in his last years, lived with his mother and his third wife Stella Sampas, and died at St Petersburg, Florida, on 21 October 1969.",
+   "profile": "Novels: The Town and the City (1950), On the Road (1957), The Subterraneans (1958), The Dharma Bums (1958), Doctor Sax (1959), Maggie Cassidy (1959), Tristessa (1960), Big Sur (1962), Visions of Gerard (1963), Desolation Angels (1965) and Vanity of Duluoz (1968), with the posthumous Visions of Cody (1972), The Sea Is My Brother (2011) and others. Poetry: Mexico City Blues (1959), The Scripture of the Golden Eternity (1960) and Book of Blues (1995).",
+   "style": "Spontaneous prose: long, paratactic sentences driven by breath and jazz rhythm, with dashes and colons instead of full stops; the deliberate refusal of revision in the manuscripts; a diction that mixes slang, Catholic devotional language, Buddhist terminology and French Canadian speech; the road, the car and the jazz club as recurring settings.",
+   "concerns": "The road, movement and the refusal of settled life; jazz, sex and intoxication as forms of ecstasy; friendship and the search for a father or a brother; Catholic and Buddhist mysticism; the American landscape, its small towns and its dispossessed; the sadness and exhaustion that follow the ecstasy.",
+   "significance": "Kerouac is the central novelist of the Beat Generation and the writer who gave postwar American prose its most imitated style; On the Road is one of the defining American books of the 1950s, it has been continuously in print and taught as a document of the counterculture, and its manuscript roll is among the best-known objects in American literary history.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Experimental Fiction"
+   ],
+   "movements": [
+    "The Beat Generation"
+   ],
+   "themes": [
+    "Counterculture, drugs and rebellion",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3011,
+     "title": "On the Road"
+    }
+   ],
+   "sources": [
+    "Jack Kerouac (Wikipedia)",
+    "On the Road (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -31587,6 +31728,59 @@
     "Kiran Desai (Wikipedia)",
     "Kiran Desai, 'The Sermon in the Guava Tree' (extract, The New Yorker, 23 June 1997)",
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 898,
+   "name": "Kurt Vonnegut",
+   "altNames": [],
+   "dates": "1922 – 2007",
+   "birthplace": "Indianapolis, Indiana, United States",
+   "nationality": "American; novelist, short-story writer and essayist writing in English",
+   "identity": "American novelist and satirist whose dark comedies of technology, war and American optimism - Cat's Cradle, Slaughterhouse-Five - made him the most widely read counter-cultural novelist of the 1960s",
+   "biography": "Kurt Vonnegut Jr. was born in Indianapolis on 11 November 1922, the son of an architect; he studied chemistry at Cornell, enlisted in the US Army in 1943, was captured in the Battle of the Bulge and was a prisoner of war in Dresden, where he survived the firebombing in February 1945 in an underground meat locker of a slaughterhouse - the experience behind Slaughterhouse-Five. He took an MA in anthropology at the University of Chicago, worked as a police reporter for the City News Bureau of Chicago and as a public-relations writer for General Electric, and began publishing stories in the Saturday Evening Post and the Magazine of Fantasy and Science Fiction. Player Piano (1952), The Sirens of Titan (1959), Mother Night (1961), Cat's Cradle (1963), God Bless You, Mr. Rosewater (1965), Slaughterhouse-Five (1969), Breakfast of Champions (1973), Slapstick (1976), Jailbird (1979), Deadeye Dick (1982), Galápagos (1985), Bluebeard (1987), Hocus Pocus (1990) and Timequake (1997) are the novels, with the stories of Canary in a Cathouse (1961) and Welcome to the Monkey House (1968), the play Happy Birthday, Wanda June (1970) and the essays of Palm Sunday (1981) and A Man Without a Country (2005). He died in New York on 11 April 2007.",
+   "profile": "Novels: Player Piano (1952), The Sirens of Titan (1959), Mother Night (1961), Cat's Cradle (1963), God Bless You, Mr. Rosewater (1965), Slaughterhouse-Five (1969), Breakfast of Champions (1973), Slapstick (1976), Jailbird (1979), Deadeye Dick (1982), Galápagos (1985), Bluebeard (1987), Hocus Pocus (1990) and Timequake (1997). Stories: Canary in a Cathouse (1961), Welcome to the Monkey House (1968), Bagombo Snuff Box (1999) and Complete Stories (2017). Non-fiction: Palm Sunday (1981), Fates Worse Than Death (1991), A Man Without a Country (2005) and Armageddon in Retrospect (2008).",
+   "style": "Short, flat, deadpan sentences and very short paragraphs, often of one line; a naive or helpless protagonist moved through events he cannot control; science-fiction devices (time travel, aliens, apocalypse) used as satire; recurring catchphrases ('So it goes'); diagrams, lists and drawings incorporated into the printed text; a sentimental and moralising voice underneath the irony.",
+   "concerns": "War and massacre, above all the bombing of Dresden; technology, automation and the degradation of work; American optimism, consumerism and the religion of success; free will and fatalism; religion invented and institutionalised (Bokononism); loneliness, family and the search for community; death, treated with irony and tenderness at once.",
+   "significance": "Vonnegut is the most widely read American satirist of the postwar decades and, with Heller and Pynchon, one of the writers through whom the American postmodern novel is taught; Slaughterhouse-Five is a standard text of the anti-war literature of Vietnam-era America, has been adapted for film and stage and has never been out of print, and 'Harrison Bergeron' is one of the most widely anthologised American short stories, a set text in schools for the critique of enforced equality.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Dystopian Fiction",
+    "Postmodern Fiction",
+    "Satirical Fiction",
+    "Science Fiction",
+    "War Novel"
+   ],
+   "movements": [
+    "Black Humour and the Absurdist Novel",
+    "New Wave Science Fiction",
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Identity, authenticity and the divided self",
+    "Memory, trauma and testimony",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures",
+    "War, combat and its aftermath"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 3012,
+     "title": "Harrison Bergeron"
+    },
+    {
+     "id": 3013,
+     "title": "Slaughterhouse-Five"
+    }
+   ],
+   "sources": [
+    "Harrison Bergeron (Wikipedia)",
+    "Kurt Vonnegut (Wikipedia)",
+    "Slaughterhouse-Five (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -59243,6 +59437,57 @@
     "An American Dictionary of the English Language (2 volumes)",
     "Oxford Dictionary of National Biography",
     "The Norton Anthology of American Literature (9th edition)"
+   ]
+  },
+  {
+   "id": 3014,
+   "title": "A Conversation with My Father",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Grace Paley"
+   ],
+   "authorIds": [
+    899
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1972",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in New American Review in 1972 and collected in Enormous Changes at the Last Minute (1974): a writer visits her dying father, who asks her to write a simple story, and the two versions she produces - one tragic, one open - become an argument about how fiction should end.",
+   "summary": "A short story in two movements, in which the unnamed daughter sits by her bedridden father's side and tells him the story of a woman and her drug-addicted son, twice: first as a conventional tragedy that the father approves of, and then as a story that refuses to end in tragedy, which the father rejects.",
+   "plot": "The story begins with the father's request: 'I would like you to write a simple story just once more, the kind you used to write when you were a little girl.' He is old, ill with heart disease, and knows that he is dying; he lies in bed in his apartment with the curtains drawn, and his daughter, a writer in middle age, comes to sit with him and agrees. She invents a neighbour, a woman with a son who becomes a drug addict, and tells the story with the ending the father wants - the son dies, the woman is destroyed, everything is tragic and complete. The father is pleased. But the narrator is not satisfied, and she tells the story again: this time the son survives, the mother learns to live with him, and the story ends not with a death but with a possibility. The father rejects the second version as 'not a story' - it does not end, it does not conclude, it does not tell the truth about life. Their conversation moves between the two versions and between their two ideas of what a story is for: the father holds that a story must acknowledge tragedy, face death and end, while the daughter holds that a story may leave its people alive and its ending open, and that a life is not improved by being made into a conclusion. The father's illness is present throughout, since the story's occasion is the fact that he is dying, and the argument about fiction is also an argument about how to face that. The story ends with the father's reproach and the daughter's unresolved reply.",
+   "significance": "Paley's most discussed story and one of the central American short stories of the 1970s; it is a standard text in courses on metafiction, on the short story and on American women's writing, and it is one of the clearest statements in postwar American fiction of the argument that narrative form is a political and ethical choice.",
+   "meter": "A talky, conversational first-person voice with short paragraphs and abrupt transitions; dialogue in which the father's old-world idiom and the daughter's modern one are sharply distinguished; direct address and repetition; the embedded stories told in a plainer style than the frame, so that the difference between them is audible.",
+   "context": "Published in New American Review in 1972 and collected in Enormous Changes at the Last Minute (Farrar, Straus and Giroux, 1974); the father is Paley's own father, Isaac Goodside, a doctor, and the story belongs to the feminist experimental fiction of the early 1970s and to the tradition of metafictional stories about storytelling that runs from Sterne through Borges to Barth.",
+   "characters": "",
+   "structure": "A frame conversation with two embedded narratives: the father's request, the first version of the story, the father's approval, the second version, and the father's rejection, with the narrator's commentary between them; the story's movement is dialectical rather than plot-driven, and it ends in disagreement rather than resolution.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Domestic Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ],
+   "themes": [
+    "Art, the artist and the creative life",
+    "Death, illness and mourning",
+    "Family, marriage and domestic life"
+   ],
+   "movements": [
+    "Postmodernism and Postmodern Fiction",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "A Conversation with My Father (Encyclopedia.com, Short Stories for Students)",
+    "Grace Paley (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -97357,6 +97602,56 @@
    ]
   },
   {
+   "id": 3010,
+   "title": "For Esmé—with Love and Squalor",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "J. D. Salinger"
+   ],
+   "authorIds": [
+    896
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1950",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in The New Yorker on 8 April 1950 and collected in Nine Stories (1953): an American sergeant in Devon before D-Day meets a thirteen-year-old girl and her small brother, and a second episode in occupied Bavaria shows him recovering from a breakdown with her letter in his hands.",
+   "summary": "Two episodes joined by a frame: the narrator's refusal of a wedding invitation and his written notes on the bride, then the rainy afternoon in Devon in 1944 with Esmé and Charles, and then the scene in Bavaria after V-E Day in which Sergeant X, shattered by the war, opens a parcel posted almost a year earlier.",
+   "plot": "The story opens with a wedding invitation the narrator cannot accept and his decision to send 'a few written notes' about the bride, whom he met nearly six years before. The first episode is Devon in 1944, on a stormy afternoon during the last weeks of training for the invasion: the narrator, a sergeant, walks into town, listens to a children's choir rehearsal in a church, and is struck by the 'melodious and unsentimental' singing of one girl of about thirteen. He takes shelter in a tearoom and finds her there with her little brother Charles and their governess. Esmé - orphaned, her father killed in North Africa, her mother dead - wears her father's oversized military wristwatch and talks to the lonely American with a composure beyond her years, asking him to write to her and telling him that she wants to be a 'cold person' and is trying to be 'more compassionate'. The second episode moves to Bavaria after V-E Day and shifts to the third person: Sergeant X has returned from a field hospital after a nervous breakdown, cannot sleep, cannot read, and is visited by 'Corporal Z' (Clay), who lectures him on the lessons of the war - 'God, I love a good soldier' - and shows no feeling for what X has been through. After Clay leaves, X opens his unopened mail and finds a small package from Devon posted nearly a year before: Esmé's letter, written in her careful hand, and her father's wristwatch - 'a talisman' - which she asks him to wear for the duration of the war. The story ends there, with X's hands trembling, and the last line of the story is the only comment on it.",
+   "significance": "Salinger's most admired story and one of the finest American short stories of the century; it is the story through which his war experience is usually discussed, it is a standard anthology text and a frequent set text on the literature of trauma, and its two-part structure and its shift of narrative person are regularly taught as a model of the modern short story's technique.",
+   "meter": "A precise, artfully casual first-person style in the framing sections, with long sentences that shift between irony and tenderness; dialogue that catches Esmé's careful, slightly formal speech and Charles's chatter; the third-person episode in Bavaria written in a flatter, more withdrawn register; the letter reproduced at the end in Esmé's own idiom, which is the story's emotional climax.",
+   "context": "Published in The New Yorker on 8 April 1950, after being returned once and cut by six pages, and collected in Nine Stories (Little, Brown, 1953); Salinger had served in the 4th Infantry Division and landed on Utah Beach on D-Day, and the story was conceived as a tribute to veterans still suffering from what was then called battle fatigue. It is one of the earliest and most influential American treatments of combat trauma in fiction, and it belongs to the postwar American short story of the war, with the stories of Irwin Shaw and James Jones.",
+   "characters": "",
+   "structure": "A frame and two episodes: the invitation, the Devon afternoon and the Bavarian evening, with a deliberate shift from the first person to the third person and a change of the narrator's name to 'Sergeant X' between the episodes; the story withholds the union of the two until the parcel is opened, and its ending is a 'happy' ending that is also a diagnosis.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Realist Fiction",
+    "Short Story",
+    "War Novel"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "Late Modernism"
+   ],
+   "editions": [],
+   "sources": [
+    "For Esmé—with Love and Squalor (Wikipedia)",
+    "J. D. Salinger (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 3009,
    "title": "For the Union Dead",
    "altTitles": [],
@@ -101466,6 +101761,57 @@
     "Oxford Dictionary of National Biography",
     "The Cambridge Companion to British Romanticism",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period"
+   ]
+  },
+  {
+   "id": 3012,
+   "title": "Harrison Bergeron",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Kurt Vonnegut"
+   ],
+   "authorIds": [
+    898
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1961",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in The Magazine of Fantasy and Science Fiction in October 1961 and collected in Welcome to the Monkey House (1968): in 2081 the United States has made everyone equal by law, and a fourteen-year-old boy who refuses his handicaps is shot dead on live television.",
+   "summary": "A short story of some twelve hundred words set in 2081, in which George and Hazel Bergeron watch a television ballet, their son Harrison escapes from prison, seizes a studio and is killed by the Handicapper General, and his parents cannot remember what they have seen.",
+   "plot": "The story opens with the sentence that has become its signature: 'The year was 2081, and everybody was finally equal.' The equality is enforced by constitutional amendment and by the Handicapper General, Diana Moon Glampers, whose agents fit the strong with weights, the beautiful with masks and the intelligent with radios that broadcast noises into their ears every twenty seconds. George Bergeron, who is intelligent and strong, wears a forty-seven-pound bag of birdshot around his neck and a radio in his ear; his wife Hazel is of perfectly average intelligence and needs no handicap. They are watching a ballet on television - the ballerinas are masked and weighted - when a bulletin announces that their son Harrison, fourteen years old, seven feet tall and burdened with three hundred pounds of handicaps, has escaped from prison. Harrison storms the studio, tears off his handicaps and the ballerina's, declares himself emperor, chooses the ballerina as his empress and dances with her to the musicians' 'best' music. Diana Moon Glampers enters with a double-barrelled shotgun and kills them both; the television goes dark. George, who has left the room to get a beer, returns and asks Hazel why she has been crying; she says something sad happened on television but she cannot remember what it was.",
+   "significance": "One of the most widely anthologised American short stories of the century and a standard school text on dystopia, equality and the state; its opening sentence is one of the best known in American fiction, and the story is a frequent point of reference in political argument about merit and levelling, which has made it both unusually influential and unusually contested.",
+   "meter": "Short declarative sentences and very short paragraphs; a deadpan, faux-naive narrator who reports atrocity as ordinary fact; repeated phrases ('everybody was finally equal', 'that was the law') used as a refrain; dialogue in the flat idiom of television and bureaucracy; almost no metaphor, so that the few images (the birdshot bag, the shotgun) carry great weight.",
+   "context": "Published in The Magazine of Fantasy and Science Fiction in October 1961 and collected in Welcome to the Monkey House (Delacorte, 1968); it belongs to Vonnegut's early period of magazine science fiction, written while he was working for General Electric and publishing in the slicks and the pulps, and it was adapted for television and film several times, most notably in the 1995 Showtime film.",
+   "characters": "",
+   "structure": "A single continuous scene of a few pages, with no chapters or breaks, in which the television broadcast, the parents' conversation and Harrison's irruption are intercut; the story's time is compressed into an evening and its exposition is delivered through the broadcast and the narrator's flat commentary.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Dystopian Fiction",
+    "Satirical Fiction",
+    "Science Fiction"
+   ],
+   "themes": [
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "Utopia, dystopia and imagined futures"
+   ],
+   "movements": [
+    "New Wave Science Fiction",
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "Harrison Bergeron (Wikipedia)",
+    "Kurt Vonnegut (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -131325,6 +131671,56 @@
    ]
   },
   {
+   "id": 3011,
+   "title": "On the Road",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Jack Kerouac"
+   ],
+   "authorIds": [
+    897
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1957",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Published by Viking on 5 September 1957: Sal Paradise's account of his journeys across America in 1947-50 with Dean Moriarty, a young ex-convict and car thief, in a book that made the road, the car and the jazz club the images of postwar American freedom.",
+   "summary": "Five parts, three of them road trips with Dean, moving from Paterson, New Jersey, to Denver, San Francisco, Los Angeles and Mexico City, and filled with the people Sal and Dean meet on the way - hitch-hikers, waitresses, farm workers, musicians, junkies and friends.",
+   "plot": "Sal Paradise, a young writer living with his aunt in Paterson, New Jersey, has just finished a book and is recovering from a divorce when he meets Dean Moriarty, a wild, handsome, fast-talking young man from Denver who has spent time in reformatories and is newly married to a girl called Marylou. Part One follows Sal's first journey west in July 1947 - the buses and the hitch-hiking, the nights in Denver with Dean and their friend Carlo Marx, the ghost town of Central City, the job as a night watchman near San Francisco, the affair with Terry, a Mexican girl, and the cotton fields of California - and his return to New York. Part Two is the winter of 1948-49, when Dean arrives at Christmas with Marylou and the Dodge, and Sal, Dean and Marylou drive to New Orleans and on to San Francisco, where Dean abandons Sal for his wife Camille. Part Three is the spring of 1949: Sal in Denver, a trip to Mexico City, and Dean's arrival to take him to New York, where Sal meets the woman he calls 'the girl' and Dean leaves. Part Four is 1950, the great journey to Mexico with Dean, Sal and the poet Remi Boncoeur, and Part Five is the return to New York and Dean's last, brief appearance before he goes back west. The book's famous scenes - the drive to the Mexican border, the jazz clubs of San Francisco and New York, the 'mad ones' speech - are held together by Dean's energy and by Sal's growing awareness that the freedom he admires is also a form of irresponsibility.",
+   "significance": "The central novel of the Beat Generation and one of the defining American books of the 1950s; it named a youth culture, gave American prose a new speed and sound, has been continuously in print and widely taught since, and its manuscript roll is a canonical object of American literary history; it is the work through which the postwar counterculture and the road narrative are studied.",
+   "meter": "Kerouac's 'spontaneous bop prosody': long breathless sentences, strings of present participles, improvised lists of names and places, jazz-derived rhythms and repetitions; slang, profanity and Catholic devotional language side by side; a first-person narrator who is both inside and observing the action.",
+   "context": "Written in April 1951 on a continuous roll of taped-together paper in a three-week burst, then revised for years and heavily edited by Viking's editors before publication on 5 September 1957; the book's characters are portraits of Kerouac, Neal Cassady, Allen Ginsberg, William Burroughs and others, and its publication made Kerouac the spokesman of the Beat Generation and was received as a scandal and a manifesto at once.",
+   "characters": "",
+   "structure": "Five parts of very unequal length, each corresponding to a journey or a period in Sal's life; the narrative is episodic and picaresque, held together by the recurrence of Dean and by the first-person voice; the prose is spontaneous, paratactic and run on with dashes and colons, and the book's chronology is deliberately approximate.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Autobiographical Novel",
+    "Bildungsroman",
+    "Experimental Fiction"
+   ],
+   "themes": [
+    "Counterculture, drugs and rebellion",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging"
+   ],
+   "movements": [
+    "The Beat Generation"
+   ],
+   "editions": [],
+   "sources": [
+    "Jack Kerouac (Wikipedia)",
+    "On the Road (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1685,
    "title": "On the Study of Celtic Literature",
    "altTitles": [],
@@ -148809,6 +149205,57 @@
     "Life Studies (Wikipedia)",
     "Robert Lowell (Wikipedia)",
     "Skunk Hour (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
+   ]
+  },
+  {
+   "id": 3013,
+   "title": "Slaughterhouse-Five",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Kurt Vonnegut"
+   ],
+   "authorIds": [
+    898
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1969",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "Published by Delacorte on 31 March 1969, subtitled 'The Children's Crusade: A Duty-Dance with Death': the life of Billy Pilgrim, a prisoner of war in Dresden during the firebombing of 1945, who becomes 'unstuck in time' and is exhibited in a zoo on another planet, told in fragments by a narrator who is also a character.",
+   "summary": "Ten chapters and a first chapter about the writing of the book, moving without transition between Billy's childhood, his war, his optometry practice in Ilium, New York, his abduction by the Tralfamadorians, the death of his wife, the death of his son in Vietnam and the Dresden firestorm, with the phrase 'So it goes' following every death.",
+   "plot": "The novel opens with a chapter in which 'I' - a narrator closely identified with Vonnegut - describes returning to Dresden in 1967 with his old war friend Bernard O'Hare, trying and failing for years to write a book about the firebombing, and beginning the book with the Children's Crusade and the famous first line 'All this happened, more or less.' The second chapter introduces Billy Pilgrim, an optometrist from Ilium, New York, who has come unstuck in time: he travels without warning between moments of his life, and the novel follows him through them. As a chaplain's assistant in 1944 he is captured in Luxembourg, survives the cattle cars, arrives in Dresden as a prisoner of war, and is working in a malt-syrup factory when the city is destroyed in February 1945; with the other prisoners he is put to work clearing the bodies. Later, abducted by the Tralfamadorians, he is kept in a zoo with the film star Montana Wildhack and learns their philosophy - that all moments exist simultaneously, that the dead are always alive in their own moments, and that the appropriate response to death is 'So it goes'. In the present of the novel's 1960s, Billy survives a plane crash, is nursed by his daughter, goes on television to tell the world about Tralfamadore, and is murdered in 1976 by Paul Lazzaro. The novel ends with the prisoners in Dresden and with the birdsong that follows the bombing, and with the narrator's acknowledgement that the book he has written is a failure and his son's war in Vietnam is not over.",
+   "significance": "Vonnegut's masterpiece and one of the central American novels of the postwar period; it is a standard text on the literature of war and of trauma, on postmodern narrative and on the 1960s, it has never been out of print, and its first chapter is often taught as an essay on the ethics of writing history.",
+   "meter": "Short, flat sentences and very short paragraphs; deadpan irony and a naively precise notation of detail; refrain and repetition used as structure; lists, songs and doggerel poems embedded in the text; a tone that moves from slapstick to sorrow within a paragraph, and a narrator whose sentimentality is offered without embarrassment.",
+   "context": "Published by Delacorte Press on 31 March 1969 and dedicated to Mary O'Hare and Bernard V. O'Hare; Vonnegut had been a prisoner of war in Dresden and had worked for years on a book about it, visiting the city in 1967 with O'Hare. The novel appeared during the Vietnam War, was burned in a school board furnace in Drake, North Dakota, in 1973, and became one of the defining anti-war books of the American 1960s and 1970s; it was filmed by George Roy Hill in 1972.",
+   "characters": "",
+   "structure": "Ten chapters moving non-chronologically through Billy's life, with the narrator's own voice intruding in the first and last chapters and briefly in between; the Tralfamadorian episodes, the war, the optometrist's family life and the Dresden material are interleaved in short sections, so that the reader experiences time as Billy does. The book's fragments are held together by repeated phrases, by the refrain 'So it goes' and by the recurring image of the blue and ivory feet of the dead and dying.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Postmodern Fiction",
+    "Science Fiction",
+    "War Novel"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Memory, trauma and testimony",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "Black Humour and the Absurdist Novel",
+    "Postmodernism and Postmodern Fiction"
+   ],
+   "editions": [],
+   "sources": [
+    "Kurt Vonnegut (Wikipedia)",
+    "Slaughterhouse-Five (Wikipedia)",
     "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
@@ -227123,6 +227570,56 @@
    "sources": [
     "TEAMS Middle English Texts Series",
     "The Cambridge History of Medieval English Literature"
+   ]
+  },
+  {
+   "id": 3015,
+   "title": "Zagrowsky Tells",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Grace Paley"
+   ],
+   "authorIds": [
+    899
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1985",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story published in Mother Jones in May 1985 and collected in Later the Same Day the same year: an elderly Jewish pharmacist in the Bronx, talking to the narrator on a park bench, defends himself against the charge of racism by telling the story of his daughter, his grandson and the Black woman who bore him.",
+   "summary": "A single monologue - Zagrowsky's account, punctuated by the narrator's brief questions and corrections - in which the pharmacist remembers his daughter's breakdown, the child she had with a Black man, the family's refusal of the child, and his own late, grudging love for his grandson.",
+   "plot": "The story is spoken almost entirely by Mr. Zagrowsky, a retired pharmacist who runs into the narrator, Faith, in a park and begins to talk. He is aggrieved: he has been accused of racism by the Black and Puerto Rican customers of his pharmacy, and he wants to explain himself. His explanation is a family history - his daughter Eileen, who had a breakdown and spent years in and out of hospitals; the child she had with a Black man, who was left to her parents to raise; his wife's refusal to accept the child; and his own slow, unwilling, and finally absolute love for the boy, whom he calls his grandson and whose name he says with pride. The story's action is entirely in the telling: Zagrowsky reveals, without ever admitting it, that his own life has been changed by exactly the people he thinks he is defending himself against, and the narrator's few interjections show that she is hearing something other than what he means to say. The story ends with him still talking, unrepentant and, in spite of himself, moving.",
+   "significance": "One of Paley's most admired late stories and a standard example of the American dramatic monologue in fiction; it is the story through which her late style and her treatment of race and ethnicity are usually discussed, and its method - letting a bigoted speaker reveal his own transformation - is frequently taught as a model of indirect characterisation.",
+   "meter": "Paley's reproduced Bronx speech: run-on sentences, repetitions, self-interruptions, insults, direct address ('You know what I'm saying?'), and sudden turns into tenderness; the narrator's voice is much quieter, so that the contrast between the two is part of the story's meaning.",
+   "context": "Published in Mother Jones in May 1985 and collected in Later the Same Day (Farrar, Straus and Giroux, 1985); Zagrowsky had appeared in Paley's earlier story 'The Used-Boy Raisers' and Faith Darwin is the semi-autobiographical character who recurs across her collections; the story belongs to the New York Jewish fiction of the 1980s and to the feminist short story of the same years.",
+   "characters": "",
+   "structure": "A dramatic monologue with a thin frame: Zagrowsky speaks for almost the whole story, and the narrator's presence is registered in brief questions, reported gestures and occasional corrections; the story has no plot in the conventional sense, only the gradual unfolding of a family history through the speaker's resistance to it.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Domestic Fiction",
+    "Metafictional Novel",
+    "Short Story"
+   ],
+   "themes": [
+    "Family, marriage and domestic life",
+    "Memory, trauma and testimony",
+    "Race, racism and the struggle for civil rights"
+   ],
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Grace Paley (Wikipedia)",
+    "Later the Same Day (Wikipedia)",
+    "The Norton Anthology of American Literature, eleventh edition, Volume E: 1945 to the Present, table of contents (W. W. Norton)"
    ]
   },
   {
