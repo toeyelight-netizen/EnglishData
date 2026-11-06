@@ -529,6 +529,26 @@
    "work": "Civil Peace",
    "author": "Chinua Achebe",
    "contribution_type": "author"
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "author": "Geoffrey Hill",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "author": "Geoffrey Hill",
+   "contribution_type": "author"
+  },
+  {
+   "work": "September Song",
+   "author": "Geoffrey Hill",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "author": "Alice Munro",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1287,6 +1307,35 @@
     "Short Story",
     "War Novel",
     "Realist Fiction"
+   ]
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "genres": [
+    "Elegiac Poetry",
+    "Religious Poetry"
+   ]
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "genres": [
+    "Elegiac Poetry",
+    "Historical Writing"
+   ]
+  },
+  {
+   "work": "September Song",
+   "genres": [
+    "Elegiac Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "genres": [
+    "Short Story",
+    "Realist Fiction",
+    "Regional Fiction"
    ]
   }
  ],
@@ -2130,6 +2179,38 @@
     "Family, marriage and domestic life",
     "Faith, doubt and the sacred"
    ]
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "themes": [
+    "History, truth and the uses of the past",
+    "War, combat and its aftermath",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "September Song",
+   "themes": [
+    "The Holocaust, atrocity and historical memory",
+    "War, combat and its aftermath",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
   }
  ],
  "work_movements": [
@@ -2585,6 +2666,30 @@
    "movements": [
     "African Literature in English"
    ]
+  },
+  {
+   "work": "In Memory of Jane Fraser",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Requiem for the Plantagenet Kings",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "September Song",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "Walker Brothers Cowboy",
+   "movements": [
+    "Canadian Literary Nationalism"
+   ]
   }
  ],
  "work_periods": [
@@ -2696,7 +2801,11 @@
     "Theology",
     "Crow's Last Stand",
     "Crow Tyrannosaurus",
-    "Civil Peace"
+    "Civil Peace",
+    "In Memory of Jane Fraser",
+    "Requiem for the Plantagenet Kings",
+    "September Song",
+    "Walker Brothers Cowboy"
    ]
   }
  ]

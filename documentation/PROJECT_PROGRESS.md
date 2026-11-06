@@ -1815,9 +1815,12 @@ with broader Anglophone writing out of scope.
   Africa", "The Schooner Flight" (major record) and "The Season of
   Phantasmal Peace", and *Omeros*), Ted Hughes ("Wind", "Pike", "Out",
   "Theology", "Crow's Last Stand", "Crow Tyrannosaurus") and Chinua Achebe
-  ("Civil Peace"). Twenty-three works and eight authors, all partially
-  verified except Hughes's "Out", which is unverified; 63 of the 255
-  selections now have records.
+  ("Civil Peace"), Alice Munro ("Walker Brothers Cowboy") and Geoffrey
+  Hill ("In Memory of Jane Fraser", "Requiem for the Plantagenet Kings" and
+  "September Song"; his "Broken Hierarchies" is still undated and is not
+  recorded). Twenty-seven works and ten authors, all partially verified
+  except Hughes's "Out", which is unverified; 67 of the 255 selections now
+  have records.
 
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
@@ -1926,4 +1929,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 106 works by 19 authors; 63 of 255 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 110 works by 21 authors; 67 of 255 selections recorded) |

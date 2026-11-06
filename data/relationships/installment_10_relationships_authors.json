@@ -9,6 +9,14 @@
    ]
   },
   {
+   "author": "Alice Munro",
+   "genres": [
+    "Realist Fiction",
+    "Regional Fiction",
+    "Short Story"
+   ]
+  },
+  {
    "author": "Chinua Achebe",
    "genres": [
     "Realist Fiction",
@@ -41,6 +49,15 @@
     "Elegiac Poetry",
     "Formal Verse",
     "Lyric Poetry"
+   ]
+  },
+  {
+   "author": "Geoffrey Hill",
+   "genres": [
+    "Elegiac Poetry",
+    "Historical Writing",
+    "Political Poetry",
+    "Religious Poetry"
    ]
   },
   {
@@ -266,6 +283,12 @@
    ]
   },
   {
+   "author": "Alice Munro",
+   "movements": [
+    "Canadian Literary Nationalism"
+   ]
+  },
+  {
    "author": "Chinua Achebe",
    "movements": [
     "African Literature in English"
@@ -287,6 +310,12 @@
   {
    "author": "Dylan Thomas",
    "movements": []
+  },
+  {
+   "author": "Geoffrey Hill",
+   "movements": [
+    "The Movement"
+   ]
   },
   {
    "author": "George Orwell",
@@ -423,6 +452,14 @@
    ]
   },
   {
+   "author": "Alice Munro",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Class, labour and social mobility",
+    "Family, marriage and domestic life"
+   ]
+  },
+  {
    "author": "Chinua Achebe",
    "themes": [
     "Faith, doubt and the sacred",
@@ -457,6 +494,18 @@
    "themes": [
     "Death, illness and mourning",
     "Family, marriage and domestic life"
+   ]
+  },
+  {
+   "author": "Geoffrey Hill",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Power, the state and surveillance",
+    "The Holocaust, atrocity and historical memory",
+    "War, combat and its aftermath"
    ]
   },
   {
@@ -941,6 +990,23 @@
    "sources": [
     "Chinua Achebe (Wikipedia)",
     "Civil Peace (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Alice Munro",
+   "sources": [
+    "Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)",
+    "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)"
+   ]
+  },
+  {
+   "author": "Geoffrey Hill",
+   "sources": [
+    "Geoffrey Hill, 'Requiem for the Plantagenet Kings' (poeticous text)",
+    "Geoffrey Hill, Broken Hierarchies: Poems 1952-2012 (Oxford University Press contents)",
+    "The Life of Samuel Johnson, 6 volumes (Birkbeck Hill edition)",
+    "The Shield of Achilles (Wikipedia)",
+    "Weight of the Word, Weight of the World (Poetry Foundation, on Geoffrey Hill)"
    ]
   }
  ]

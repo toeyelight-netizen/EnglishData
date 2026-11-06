@@ -1813,5 +1813,38 @@
     "doi_or_identifier": "",
     "accessed_date": "2026-11-06",
     "reliability_notes": "Read as a search extract; confirms For the Unfallen (1959) and the poems 'In Memory of Jane Fraser' and 'Requiem for the Plantagenet Kings'. No Hill record was built in this wave."
+  },
+  {
+    "title": "Geoffrey Hill, Broken Hierarchies: Poems 1952-2012 (Oxford University Press contents)",
+    "author_or_editor": "Geoffrey Hill; ed. Kenneth Haynes",
+    "publisher": "Oxford University Press",
+    "publication_year": 2013,
+    "source_type": "publisher contents listing",
+    "url": "https://global.oup.com/academic/product/broken-hierarchies-9780198713180",
+    "doi_or_identifier": "ISBN 9780198713180",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Contents of the 2013 collected edition read as a search extract; it lists the poems of For the Unfallen (1959) and King Log (1968) in order, which fixes the collections of the Norton selections."
+  },
+  {
+    "title": "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)",
+    "author_or_editor": "emeire blog",
+    "publisher": "WordPress",
+    "publication_year": 2011,
+    "source_type": "reading blog",
+    "url": "https://emeire.wordpress.com/2011/03/28/walker-brothers-cowboy-by-alice-munro/",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "A reader's account of the story, quoting its closing lines; used for the outline of the father's rounds and the excursion, and for the licorice passage. Not a scholarly source and not cited for interpretation."
+  },
+  {
+    "title": "Geoffrey Hill, 'Requiem for the Plantagenet Kings' (poeticous text)",
+    "author_or_editor": "poeticous.com",
+    "publisher": "poeticous.com",
+    "publication_year": null,
+    "source_type": "poetry text (web)",
+    "url": "https://www.poeticous.com/geoffrey-hill",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Prints Hill's early poems including 'In Memory of Jane Fraser' and 'Requiem for the Plantagenet Kings'; used for the first stanza of the former. An unauthorised text page, so treated as a text witness only."
   }
 ]

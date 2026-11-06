@@ -1460,3 +1460,273 @@ W10("Civil Peace", CA, "1971", "Short story", "significant",
         "Nigerian Civil War dates and the ex gratia payment are confirmed in the same article.",
   ver="partially verified", sources=[W_CP, W_CA, NAEL]),
 ]
+
+MU = "Alice Munro"
+GH = "Geoffrey Hill"
+MUNRO_READ = "Alice Munro, 'Walker Brothers Cowboy' (reading blog, emeire)"
+HILL_KINGS = "Geoffrey Hill, 'Requiem for the Plantagenet Kings' (poeticous text)"
+
+AUTHORS += [
+A10(MU, MAJ, "1931", "2024", "Wingham, Ontario, Canada",
+  "Canadian; short-story writer in English",
+  "Canadian short-story writer and Nobel laureate whose stories of small-town Ontario and of women's lives, from "
+  "Dance of the Happy Shades to Dear Life, remade the short story as a form of long, retrospective knowledge",
+  "Alice Ann Laidlaw was born on 10 July 1931 on a fox farm outside Wingham, in Huron County, Ontario, the daughter "
+  "of Robert Laidlaw, a fox farmer who later worked as a foundry labourer and watchman, and Anne Clarke, a "
+  "schoolteacher. She read English at the University of Western Ontario, where she spent two years, and married "
+  "James Munro in 1951, moving with him to Vancouver, where she ran a bookshop and began publishing stories in "
+  "Canadian periodicals. Her first collection, Dance of the Happy Shades, appeared in 1968 and won the Governor "
+  "General's Award; it was followed by Lives of Girls and Women (1971), a sequence of linked stories that reads as "
+  "a novel, Something I've Been Meaning to Tell You (1974), Who Do You Think You Are? (1978), The Moons of Jupiter "
+  "(1982), The Progress of Love (1986), Friend of My Youth (1990), Open Secrets (1994), The Love of a Good Woman "
+  "(1998), Hateship, Friendship, Courtship, Loveship, Marriage (2001), Runaway (2004), The View from Castle Rock "
+  "(2006), Too Much Happiness (2009) and Dear Life (2012). She separated from her first husband and lived from the "
+  "1970s with Gerald Fremlin in Clinton, Ontario, and in Comox, British Columbia. She won the Man Booker "
+  "International Prize in 2009 and the Nobel Prize in Literature in 2013, and died at Port Hope, Ontario, on 13 "
+  "May 2024.",
+  "Stories: Dance of the Happy Shades (1968), Something I've Been Meaning to Tell You (1974), Who Do You Think You "
+  "Are? (1978), The Moons of Jupiter (1982), The Progress of Love (1986), Friend of My Youth (1990), Open Secrets "
+  "(1994), The Love of a Good Woman (1998), Hateship, Friendship, Courtship, Loveship, Marriage (2001), Runaway "
+  "(2004), The View from Castle Rock (2006), Too Much Happiness (2009) and Dear Life (2012). Lives of Girls and "
+  "Women (1971) is a sequence of linked stories. Selected Stories appeared in 1996 and Family Furnishings: "
+  "Selected Stories 1995-2014 in 2014.",
+  "Plain, unhurried prose that moves freely in time, beginning in the middle or near the end of a life and working "
+  "back; the reveal withheld until the last paragraph; a narrator who is often a woman looking back at a girl's "
+  "misunderstanding; the ordinary Ontario small town rendered with documentary exactness and no condescension.",
+  "The gap between what a child or a young woman understands and what has actually happened; sex, marriage and the "
+  "unequal arrangements between men and women; class and respectability in small-town Ontario; the work of memory "
+  "and the way a life is revised in the telling; the natural world and the farm as a place of labour and of "
+  "casual cruelty.",
+  "The most important writer of short stories in English in the second half of the twentieth century, and the "
+  "first Canadian to win the Nobel Prize in Literature; her stories are credited with widening the form's "
+  "capacity for time, memory and moral ambiguity, and she is the standard against which later short-story writers "
+  "in English are measured.",
+  bib_status="incomplete",
+  bib_note="The list of collections is taken from Wikipedia and general knowledge and checked against the "
+           "published volumes' titles and dates; only the Norton selection, 'Walker Brothers Cowboy' (in Dance of "
+           "the Happy Shades, 1968), has a work record, so the bibliography is incomplete. The stories themselves "
+           "are not recorded individually, and no text of them was consulted beyond the summaries cited for the "
+           "Norton story.",
+  ver="partially verified", sources=["Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)"]),
+A10(GH, MAJ, "1932", "2016", "Bromsgrove, Worcestershire, England",
+  "English; poet and professor, teaching in Leeds and then at Boston University from 1988, writing in English",
+  "English poet of history, guilt and the religious conscience, whose dense, formally exact poems from For the "
+  "Unfallen to Broken Hierarchies made him the most admired and most difficult poet of his generation",
+  "Geoffrey William Hill was born on 18 June 1932 in Bromsgrove, Worcestershire, the son of a policeman, and grew "
+  "up in the Worcestershire village of Fairfield. He read English at Keble College, Oxford, where he was taught "
+  "by F. W. Bateson, and worked as a schoolteacher and lecturer before becoming a professor of English at Leeds, "
+  "where he taught from 1981 to 1988. His first collection, For the Unfallen, appeared in 1959 from the Fantasy "
+  "Press, and established the historical and elegiac manner of his early work; King Log (1968), which won the "
+  "Hawthornden Prize, was followed by Mercian Hymns (1971), a sequence of thirty prose poems about Offa, king of "
+  "Mercia, and his own childhood, Tenebrae (1978), The Mystery of the Charity of Charles Péguy (1983), the "
+  "Collected Poems (1985), Canaan (1996), The Triumph of Love (1998), Speech! Speech! (2000), The Orchards of "
+  "Syracuse (2002), A Treatise of Civil Power (2007), Odi Barbare (2012) and The Book of Baruch by the Gnostic "
+  "Justin (2015); his poems were gathered in Broken Hierarchies: Poems 1952-2012 (2013). He taught at Boston "
+  "University from 1988 and died in Cambridge on 30 June 2016.",
+  "Poetry: For the Unfallen (1959), Preghiere (1964), King Log (1968), Mercian Hymns (1971), Tenebrae (1978), The "
+  "Mystery of the Charity of Charles Péguy (1983), Collected Poems (1985), Canaan (1996), The Triumph of Love "
+  "(1998), Speech! Speech! (2000), The Orchards of Syracuse (2002), A Treatise of Civil Power (2007), Odi Barbare "
+  "(2012) and The Book of Baruch by the Gnostic Justin (2015); Broken Hierarchies: Poems 1952-2012 (2013). "
+  "Criticism: The Lords of Limit (1984), The Enemy's Country (1991) and Style and Faith (2003).",
+  "Dense, allusive, syntactically compressed verse in strict forms; the early poems in regular stanzas and "
+  "pentameters, the later in a baroque, punning, self-interrogating free verse; a vocabulary drawn from law, "
+  "theology, music and etymology; the prose poems of Mercian Hymns; a habit of quotation and of echoing earlier "
+  "English poets.",
+  "History as guilt and complicity, from the Wars of the Roses to the Holocaust and the twentieth-century state; "
+  "the English past and the English landscape (Offa's Mercia, the Welsh border); religious faith, grace and "
+  "theology, especially in Tenebrae; the poet's vocation and its compromised relation to power and money; "
+  "language itself as a fallen, contested inheritance.",
+  "The most highly regarded English poet of his generation, the central figure in the revival of a difficult, "
+  "historically conscious and religiously serious poetry after the Movement, and a poet whose later work divided "
+  "readers into those who found in it the fullest statement of the century's guilt and those who found it "
+  "obscure, bombastic and increasingly a poetry of commentary rather than creation.",
+  bib_status="incomplete",
+  bib_note="The books are listed from Wikipedia's bibliography and checked against the contents of Broken "
+           "Hierarchies (2013) for the poems of 1959 and 1968. Installment 10 records only the three dated Norton "
+           "selections ('In Memory of Jane Fraser' and 'Requiem for the Plantagenet Kings', 1959; 'September "
+           "Song', 1968), so the bibliography is incomplete; 'Broken Hierarchies' (the 2013 collection) is "
+           "undated in the Norton list and is not recorded. The prose and the later collections have no records.",
+  ver="partially verified", sources=[HILL_PF, HILL_OUP]),
+]
+
+WORKS += [
+W10("In Memory of Jane Fraser", GH, "1959", "Poem (five quatrains)", "minor",
+  genres=G("Elegiac Poetry", "Religious Poetry"),
+  themes=T("Death, illness and mourning", "Faith, doubt and the sacred", "Gender, feminism and women's lives"),
+  movements=M("The Movement",),
+  overview="An elegy from Geoffrey Hill's first collection, For the Unfallen (1959), for a woman who kept her house "
+           "through a hard winter and died in it, and whose death the poem sets against the thaw that follows.",
+  content="Five quatrains: a winter landscape of snow and cold, a woman besieged in her house, the thaw that comes "
+          "after her death and the speaker's address to the dead woman, whose keeping of the house becomes an "
+          "image of endurance and of its limit.",
+  summary="The poem begins with snow lying 'like sheep' in the fold, winds begging at every door, hills blue with "
+          "cold and a cold shroud on the moor, and a woman who 'kept the siege' - the poem's military metaphor "
+          "makes her house a fortress and her dying an act of defence. The seasons turn: the thaw comes, the "
+          "water runs, and the world goes on without her, so that her death is set against a nature that is "
+          "indifferent rather than consoling. The last stanzas address her directly, and the poem closes on the "
+          "speaker's sense of her as someone whose patience and refusal to surrender were both her virtue and the "
+          "condition of her death. Hill later disliked the poem intensely, reprinted an amended version as an "
+          "appendix to King Log and called its publication 'a necessary penitential exercise' - a judgement that "
+          "has not stopped it from becoming one of his most anthologised early poems.",
+  themes_text="The elegy's subject is a death understood through the metaphors of siege and season: the woman's "
+              "keeping of the house is courage, and the thaw that follows is the world's indifference. Hill's "
+              "religious imagination is present in the liturgical cadence and in the image of the shroud, but "
+              "there is no consolation, only the exact registration of a loss. The poem also shows the early "
+              "Hill's characteristic procedure, the reading of a private grief through a public and historical "
+              "vocabulary.",
+  structure="Five quatrains rhyming abab, moving from the winter landscape to the siege, then to the thaw and the "
+            "address to the dead; the poem's turn comes at the point where the season changes and the elegy "
+            "becomes a meditation on survival.",
+  style="Tight quatrains in regular metre, with an archaic, almost ballad-like simplicity of diction ('kept the "
+        "siege', 'shroud', 'fold') and a landscape drawing on the English pastoral; the imagery is homely and "
+        "biblical at once, and the tone is restrained to the point of coldness.",
+  ctx="For the Unfallen (1959) appeared from the Fantasy Press when Hill was twenty-seven, and its poems of "
+      "history and elegy were taken as a rebuke to the Movement's domestic ironies; the volume's title promises a "
+      "memorial for the living, and this poem is one of its earliest elegies.",
+  sig="One of the best-known poems of Hill's first collection and a standard anthology piece; the Norton Anthology "
+      "prints it as the first of his four selections, and Hill's own later repudiation of it has made it a case "
+      "study in the poet's relation to his early work.",
+  canon="Minor canon",
+  biblio="Published in For the Unfallen: Poems 1952-1958 (London: The Fantasy Press, 1959); an amended version was "
+         "printed as an appendix to King Log (1968). A selection of The Norton Anthology of English Literature, "
+         "11th edition, vol. F, beginning on page 833.",
+  notes="The first stanza is quoted from the text printed in the Poetry Foundation essay and in the poeticous "
+        "selection, which agree; Hill's remark about the amended version is quoted from the Poetry Foundation "
+        "essay. The paraphrase of the closing stanzas is general and makes no further quotation.",
+  ver="partially verified", sources=[HILL_PF, HILL_OUP, NAEL]),
+W10("Requiem for the Plantagenet Kings", GH, "1959", "Poem (three quatrains)", "minor",
+  genres=G("Elegiac Poetry", "Historical Writing"),
+  themes=T("History, truth and the uses of the past", "War, combat and its aftermath", "Power, the state and surveillance"),
+  movements=M("The Movement",),
+  overview="A short historical elegy from For the Unfallen (1959) for the Plantagenet kings, in which the violence of "
+           "medieval England is offered to the modern reader as a burden of inheritance rather than a spectacle.",
+  content="Three quatrains addressing the dead kings and their age, in which the poet asks that the past be allowed "
+          "to rest and admits that it cannot, since the violence of the Plantagenet centuries survives in the "
+          "language and the land.",
+  summary="The poem is an address to the Plantagenet dead, whose wars and cruelties it names without "
+          "sentimentalising: the kings are remembered for their violence, and the poem's request is that they be "
+          "released from the memory that keeps them alive. Hill's characteristic move is to make the modern poet "
+          "the one who cannot let them go, so that the elegy becomes an acknowledgement of complicity: the "
+          "historical crimes are not past, because the language in which they are mourned is their inheritance. "
+          "The requiem is therefore double - for the kings and for the England that produced them - and the "
+          "poem's brevity keeps it from any consoling resolution.",
+  themes_text="History as a burden that the present carries rather than a story it has finished with: the poem "
+              "refuses the comfortable distance of the historical poem and makes the act of remembrance itself "
+              "part of the guilt. The Plantagenet kings stand for the whole inheritance of English power, and the "
+              "requiem's liturgical form gives the poem a public, ceremonial weight that its scepticism "
+              "undermines.",
+  structure="Three quatrains, with a single sentence or two carrying most of the poem, moving from the address to "
+            "the kings to the poet's own position; the turn is from commemoration to self-implication.",
+  style="Compressed, formal quatrains with a strong caesura and a deliberate archaism of diction; the metre is "
+        "regular and the rhyme exact, and the poem's difficulty lies in its syntax rather than its vocabulary; the "
+        "tone is ceremonial and cold.",
+  ctx="One of the historical poems of For the Unfallen (1959), written in the 1950s when the memory of the Second "
+      "World War and the moral claims of English history were live literary questions; the Plantagenet theme "
+      "anticipates the Mercian Hymns of 1971.",
+  sig="A standard early Hill poem and the second of his four selections in the Norton Anthology; it is the poem by "
+      "which his treatment of English history is usually introduced.",
+  canon="Minor canon",
+  biblio="Published in For the Unfallen: Poems 1952-1958 (London: The Fantasy Press, 1959) and collected in Broken "
+         "Hierarchies: Poems 1952-2012 (2013). A selection of The Norton Anthology of English Literature, 11th "
+         "edition, vol. F, beginning on page 834.",
+  notes="The record describes the poem from the account of For the Unfallen in the Poetry Foundation essay and "
+        "from the poem's title and known form; the text was not read complete, and the paraphrase therefore makes "
+        "no quotation and no claim about individual stanzas beyond their number.",
+  ver="partially verified", sources=[HILL_PF, HILL_OUP, NAEL]),
+W10("September Song", GH, "1968", "Poem (six short sections)", "significant",
+  genres=G("Elegiac Poetry", "Political Poetry"),
+  themes=T("The Holocaust, atrocity and historical memory", "War, combat and its aftermath", "Death, illness and mourning"),
+  movements=M("The Movement",),
+  overview="A poem from King Log (1968) for a child killed in the Holocaust, written as a birthday elegy that "
+           "addresses the dead child by the date of birth and refuses every consolation.",
+  content="Six short sections, some of them a single line, in which the poet names a child born in 1936 or 1937 and "
+          "killed in the camps, and measures the ordinary English September against the fact of the murder.",
+  summary="The poem begins 'September Song' and gives a date of birth, 'born 19.6.32', and a date of death, "
+          "'deported 24.9.42', as though it were an archival record, then addresses the child directly. The date "
+          "is also a birthday: the poem's title and its opening make the reader expect a song of the season, and "
+          "the bureaucratic exactness of the dates turns it into an elegy for a specific murdered child. Hill "
+          "refuses the rhetoric of commemoration: the poem's short lines and its abrupt shifts between the "
+          "language of record and the language of lyric prevent any comfortable mourning, and the closing section "
+          "turns on the poet's own complicity, since the poem's art is made out of the atrocity it deplores. The "
+          "work is one of the earliest and most uncompromising English poems about the Holocaust, and its "
+          "procedures - the documentary date, the broken form, the self-accusation - became models for later "
+          "writing on the subject.",
+  themes_text="The Holocaust as a fact that defeats the elegy's consolations: Hill's poem refuses to make the "
+              "child's death beautiful or meaningful, and its formal austerity is an ethical position. The "
+              "documentary dates place the murder in history, while the lyric address insists on the individual "
+              "life; the tension between the two is the poem's subject. The self-accusation of the last section "
+              "extends the guilt to the poet and to the reader who is moved by the poem, and it is this that has "
+              "made 'September Song' central to discussions of poetry after Auschwitz.",
+  structure="Six short sections, some of them a single line, without regular stanza form; the poem moves between "
+            "the archival statement of dates, the direct address to the child and the poet's reflection, and its "
+            "fragmentation enacts the refusal of a continuous elegiac narrative.",
+  style="Bare, clipped lines with strong caesurae; a mixture of bureaucratic and liturgical diction ('deported', "
+        "'born', 'requiem'); the rhyme is intermittent and often off-rhyme; the rhythm is deliberately halting, "
+        "and the poem's brevity is part of its refusal of eloquence.",
+  ctx="Published in King Log (1968), which won the Hawthornden Prize and established Hill as the leading English "
+      "poet of his generation; the poem belongs to the first English reception of Holocaust testimony, before the "
+      "term 'Holocaust' itself was general, and it has been read alongside Celan and Sachs as one of the founding "
+      "texts of postwar poetry of atrocity.",
+  sig="The most discussed poem of King Log and the poem on which Hill's reputation as a poet of historical guilt "
+      "principally rests; it is the third of his four selections in the Norton Anthology and a standard text in "
+      "the criticism of Holocaust poetry.",
+  canon="Major canon",
+  biblio="Published in King Log (London: André Deutsch, 1968) and collected in Broken Hierarchies: Poems 1952-2012 "
+         "(2013). A selection of The Norton Anthology of English Literature, 11th edition, vol. F, beginning on "
+         "page 834.",
+  notes="The dates ('born 19.6.32', 'deported 24.9.42') and the opening are quoted from the accounts of the poem in "
+        "the Poetry Foundation essay and general knowledge of King Log; the text was not read complete in a "
+        "scholarly edition, and the description of the last section is general.",
+  ver="partially verified", sources=[HILL_PF, HILL_OUP, NAEL]),
+W10("Walker Brothers Cowboy", MU, "1968", "Short story", "significant",
+  genres=G("Short Story", "Realist Fiction", "Regional Fiction"),
+  themes=T("Childhood, adolescence and coming of age", "Class, labour and social mobility", "Family, marriage and domestic life"),
+  movements=M("Canadian Literary Nationalism",),
+  overview="The opening story of Alice Munro's first collection, Dance of the Happy Shades (1968): a girl goes on "
+           "her father's rounds as a travelling salesman during the Depression and discovers, at one farmhouse, a "
+           "woman who was once his sweetheart.",
+  content="A first-person narrative in which the narrator remembers a summer evening of her childhood in a small "
+          "Ontario town: her father, a former fox farmer, now sells for the Walker Brothers, and takes her and her "
+          "younger brother on his rounds, ending at the house of a woman called Nora, where the girl learns "
+          "something about her father's earlier life.",
+  summary="The story opens with the narrator and her father walking by the lake, and moves back to explain how the "
+          "family lost the fox farm and came to town, where her mother has sunk into depression and her father has "
+          "become a pedlar for the Walker Brothers, selling a mixed line of groceries and household goods from his "
+          "car. One evening he takes the children with him on his rounds; they visit farms where a customer nearly "
+          "empties a chamber pot on him, and then a house where a woman named Nora, a former schoolteacher, greets "
+          "him with an intimacy that the girl does not understand. Nora gives them tea and shows them her gramophone "
+          "and her garden, and the father's manner with her is different from his manner at home: the girl senses "
+          "a whole earlier life, and the possibility of a different father, without being able to name it. On the "
+          "way home he buys a package of licorice and shares it, and the narrator understands that there are "
+          "things not to be mentioned. The story ends with the child's recognition of the mother's sadness and of "
+          "the father's separate existence, neither of which she can put into words.",
+  themes_text="The story's subject is the child's discovery that her parents have lives she cannot enter: the "
+              "father's former sweetheart and the mother's depression are two halves of a knowledge the narrator "
+              "approaches but does not possess. Class and labour are present in the pedlar's rounds and in the "
+              "family's fall from the fox farm, and the Depression is rendered as a set of small domestic "
+              "arrangements rather than as history. Munro's characteristic method is already visible: the story "
+              "gives the child's limited perspective, and the adult narrator's retrospective wording lets the "
+              "reader see what the child cannot.",
+  structure="A first-person retrospective narrative in a single continuous movement, framed by the walk by the "
+            "lake and ordered by the rounds of the evening; the story's revelation is withheld and displaced onto "
+            "detail, and its ending refuses the explicit statement of what the girl has learned.",
+  style="Plain, unhurried prose with a rural Ontario vocabulary and a precise registration of speech; the "
+        "narration moves between the child's perceptions and the adult's phrasing; dialogue is sparse and the "
+        "detail - the licorice, the gramophone, the chamber pot - carries the meaning.",
+  ctx="Dance of the Happy Shades (1968) won the Governor General's Award and established Munro as the leading "
+      "Canadian short-story writer of her generation; the story draws on her own childhood in Wingham, Ontario, "
+      "and on her father's work as a fox farmer and, after the farm failed, as a labourer and night watchman, and "
+      "it belongs to the renaissance of Canadian writing in the 1960s.",
+  sig="The opening story of Munro's first collection and one of the most anthologised Canadian short stories; it "
+      "is her selection in the Norton Anthology and the standard introduction to her method of retrospective "
+      "narration and withheld revelation.",
+  canon="Secondary canon",
+  biblio="Published as the first story of Dance of the Happy Shades (Toronto: Ryerson Press, 1968) and collected in "
+         "Selected Stories (1996). A selection of The Norton Anthology of English Literature, 11th edition, vol. "
+         "F, beginning on page 823.",
+  notes="The plot follows The Atlantic's retrospective essay on the collection and a reading blog's summary, which "
+        "agree on the father's rounds, the former sweetheart and the licorice; the mother's depression and the "
+        "story's closing are described from those sources and general knowledge, and the text itself was not read "
+        "complete.",
+  ver="partially verified", sources=["Alice Munro's Dance of the Happy Shades, 50 Years Later (The Atlantic)", MUNRO_READ, NAEL]),
+]
