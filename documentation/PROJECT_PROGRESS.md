@@ -1840,6 +1840,17 @@ with broader Anglophone writing out of scope.
   Peter Reading's selections are the next in Norton's order, and both are
   still to be dated.
 
+- **Wave 19:** three more authors in Norton's order, with one record per selection:
+  Margaret Atwood ("Death by Landscape" and "Miss July Grows Older"), J. M.
+  Coetzee (*Waiting for the Barbarians*, major record, printed as the extract
+  "From Waiting for the Barbarians") and Eavan Boland ("Fond Memory", "The
+  Dolls Museum in Dublin" and "The Lost Land"). Six works and three authors,
+  all partially verified; 87 of the 255 selections now have records. The wave
+  also settled the last undated rows it touched: Agbabi's "ECO2nomics"
+  (*Trees in the City*, 2007), Reading's "Clockwise (from the bottom),"
+  (*Vendange Tardive*, 2010) and Muldoon's "Turtles" (*Horse Latitudes*, 2006)
+  are all post-2000, so three authors leave the in-scope list.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -1947,4 +1958,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 125 works by 30 authors; 81 of 255 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 131 works by 33 authors; 87 of 255 selections recorded) |

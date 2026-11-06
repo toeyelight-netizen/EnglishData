@@ -2,8 +2,8 @@
  "generated": "2026-11-06",
  "installments": "1-10",
  "counts": {
-  "authors": 877,
-  "works": 2969
+  "authors": 880,
+  "works": 2975
  },
  "periods": [
   {
@@ -826,6 +826,7 @@
   "Working-Class and Regional Social Realism"
  ],
  "sources": [
+  "'Chronicles of Impeded Growth: Eavan Boland and the Reconstruction of Identity' (Post Identity, University of Michigan)",
   "'I came to poetry through politics': Linton Kwesi Johnson's Other Lives (Presses universitaires de la Méditerranée)",
   "'I know the world by how I speak the world': TikTok ABCs, Disaster Language, and Andrew Salkey's Hurricane (Archipelagos)",
   "'Looking for a Rain God' by Bessie Head (study notes, acharyar.com.np)",
@@ -871,6 +872,7 @@
   "Apologia Pro Vita Sua",
   "Arundhati Roy (Wikipedia)",
   "Asian American Literary Canon (Post45 Data Collective)",
+  "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
   "Aubade (The Philip Larkin Society, philiplarkin.com)",
   "Bass Culture - Linton Kwesi Johnson (reggaelyrics.info)",
   "Ben Okri (Wikipedia)",
@@ -907,8 +909,12 @@
   "Douglas Jerrold: 1803-1857",
   "Down and Out in Paris and London (Wikipedia)",
   "Dylan Thomas (Wikipedia)",
+  "EBSCO Research Starters, 'Death by Landscape' by Margaret Atwood",
   "Early American Drama",
   "Early American Drama (Penguin Classics)",
+  "Eavan Boland (Wikipedia)",
+  "Eavan Boland, 'The Dolls Museum in Dublin' (course page, Michigan State University)",
+  "Eavan Boland, 'The Lost Land' (Poetry Foundation)",
   "Eldorado West One (Peepal Tree Press)",
   "Encyclopedia of the Enlightenment",
   "England, Your England and Other Essays, 1953 (orwell.ru library record)",
@@ -955,6 +961,7 @@
   "Inside the Whale and Other Essays (Wikipedia)",
   "Iowa Writers' Workshop (Post45 Data Collective; Program Era Project)",
   "J. G. Ballard (Wikipedia)",
+  "J. M. Coetzee (Wikipedia)",
   "Jack London: Novels and Social Writings (Library of America, vol. 7)",
   "Jack Sheppard (Broadview Editions)",
   "James Fenimore Cooper: The Leatherstocking Tales (2 volumes, Library of America)",
@@ -1000,6 +1007,7 @@
   "Maids Mild and Dark Villains, Sweet Magnolias and Seeping Blood: Gwendolyn Brooks's Poetic Response to the Lynching of Emmett Till (ResearchGate abstract)",
   "Major Literary Prizes (Post45 Data Collective)",
   "Malcolm Muggeridge (Wikipedia)",
+  "Margaret Atwood (Wikipedia)",
   "Maria Edgeworth: A Literary Biography",
   "Maria Edgeworth: Letters from England, 1813-1844",
   "Maria Graham's Journal of a Voyage to Brazil (Writing Travel)",
@@ -1326,6 +1334,7 @@
   "Thomas Chalmers and the Godly Commonwealth in Scotland",
   "Timothy Dwight (Twayne's United States Authors Series, No. 145)",
   "Timothy Dwight, 1752-1817: A Biography",
+  "Tina Burchette, 'The Split Self in Atwood's Miss July Grows Older' (Margaret Atwood Studies 8, 2014)",
   "To Room Nineteen by Doris Lessing, 1963 (The Encyclopedia of the Short Story, encyclopedia.com)",
   "To The Diaspora (work) (Black Bibliography Project, Rutgers University)",
   "Top Girls (Wikipedia)",
@@ -1338,6 +1347,7 @@
   "Versions of X/Self: Kamau Brathwaite's Caribbean Discourse (Semantic Scholar)",
   "Victorian Studies: A Journal of the Humanities, Arts, and Sciences",
   "Waiting for Godot (Wikipedia)",
+  "Waiting for the Barbarians (Wikipedia)",
   "Walcott, Derek (Oxford Research Encyclopedia of Literature)",
   "Washington Irving: History, Tales, and Sketches (Library of America)",
   "Washington Irving: Three Western Narratives (Library of America)",
@@ -10967,6 +10977,65 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 880,
+   "name": "Eavan Boland",
+   "altNames": [],
+   "dates": "1944 – 2020",
+   "birthplace": "Dublin, Ireland",
+   "nationality": "Irish; poet, critic and teacher writing in English",
+   "identity": "Irish poet and critic who made the domestic life of women in the suburbs a subject of Irish poetry, and whose later work brought the silence of women into the national history",
+   "biography": "Eavan Aisling Boland was born in Dublin on 24 September 1944, the daughter of the diplomat Frederick Boland and the painter Frances Kelly. Her father's postings took the family to London in 1950, where she met the anti-Irish hostility she later recorded in 'An Irish Childhood in England: 1951', and then to New York; she returned to Dublin at fourteen to attend the Holy Child School, Killiney, and read English at Trinity College Dublin, graduating in 1966. Her first pamphlet, 23 Poems, appeared in 1962; New Territory (1967), The War Horse (1975), In Her Own Image (1980), Night Feed (1982), The Journey (1987), Outside History (1990), In a Time of Violence (1994), The Lost Land (1998), Code (2001), Against Love Poetry (2001) and Domestic Violence (2007) followed, with the prose study Object Lessons (1995) and A Journey with Two Maps (2011). She taught at Stanford University from 1996 and was a regular reviewer and broadcaster; she died in Dublin on 27 April 2020.",
+   "profile": "Poetry: 23 Poems (1962), New Territory (1967), The War Horse (1975), In Her Own Image (1980), Night Feed (1982), The Journey (1987), Selected Poems (1989), Outside History (1990), In a Time of Violence (1994), The Lost Land (1998), Code (2001), Against Love Poetry (2001), Domestic Violence (2007), New Collected Poems (2008) and The Historians (2020). Prose: Object Lessons: The Life of the Woman and the Poet in Our Time (1995) and A Journey with Two Maps: Becoming a Woman Poet (2011).",
+   "style": "Conversational, plain and exact free verse, with short lines and unemphatic enjambment; a rhetoric of questions and direct address; the lyric 'I' placed in kitchens, gardens, hospitals and suburban streets; later poems built of compressed, epigrammatic stanzas and of a deliberately bare diction that refuses the ornament of the Irish poetic tradition.",
+   "concerns": "The lives of women in the Irish suburbs, marriage, motherhood and domestic work; the silence of women in official Irish history and in the literary tradition; the Famine, the emigrant ship and the ''hidden' past; language and naming, especially the English of the colonised; a woman poet's relation to the Irish poetic inheritance from Yeats and the Revival.",
+   "significance": "Boland is the central Irish woman poet of her generation and one of the most influential poets in Ireland in the last fifty years; her insistence that the domestic and the suburban were proper subjects for Irish poetry changed the terms of the tradition, and her work as editor, teacher and critic (Object Lessons) helped make the case for a woman's tradition in Irish writing.",
+   "tier": "Significant / secondary",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ],
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "War, combat and its aftermath"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2973,
+     "title": "Fond Memory"
+    },
+    {
+     "id": 2974,
+     "title": "The Dolls Museum in Dublin"
+    },
+    {
+     "id": 2975,
+     "title": "The Lost Land"
+    }
+   ],
+   "sources": [
+    "'Chronicles of Impeded Growth: Eavan Boland and the Reconstruction of Identity' (Post Identity, University of Michigan)",
+    "Eavan Boland (Wikipedia)",
+    "Eavan Boland, 'The Dolls Museum in Dublin' (course page, Michigan State University)",
+    "Eavan Boland, 'The Lost Land' (Poetry Foundation)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -22889,6 +22958,48 @@
    ]
   },
   {
+   "id": 879,
+   "name": "J. M. Coetzee",
+   "altNames": [],
+   "dates": "1940",
+   "birthplace": "Cape Town, South Africa",
+   "nationality": "South African and Australian; novelist, essayist, translator and critic writing in English",
+   "identity": "South African-born novelist and Nobel laureate whose spare, allegorical fictions of colonialism, torture and the limits of the novel, from Dusklands to Disgrace, made him the most discussed South African writer of his time",
+   "biography": "John Maxwell Coetzee was born in Cape Town on 9 February 1940. He studied mathematics and English at the University of Cape Town, took a doctorate at the University of Texas at Austin in 1969, and taught at the State University of New York at Buffalo, the University of Cape Town and the University of Chicago before moving to Australia in 2002; he became an Australian citizen in 2006 and lives in Adelaide. His first book, the two novellas of Dusklands, appeared in 1974; In the Heart of the Country (1977), Waiting for the Barbarians (1980), Life & Times of Michael K (1983, Booker Prize), Foe (1986), Age of Iron (1990), The Master of Petersburg (1994), Disgrace (1999, Booker Prize and the first novel to win it twice), Elizabeth Costello (2003), Slow Man (2005), Diary of a Bad Year (2007), The Childhood of Jesus (2013) and The Pole (2023) followed, with the fictionalised memoirs Boyhood (1997), Youth (2002) and Summertime (2009) and the essay collections White Writing (1988), Doubling the Point (1992), Giving Offense (1996), Stranger Shores (2001), Inner Workings (2007) and Late Essays (2017). He was awarded the Nobel Prize in Literature in 2003.",
+   "profile": "Fiction: Dusklands (1974), In the Heart of the Country (1977), Waiting for the Barbarians (1980), Life & Times of Michael K (1983), Foe (1986), Age of Iron (1990), The Master of Petersburg (1994), Disgrace (1999), Elizabeth Costello (2003), Slow Man (2005), Diary of a Bad Year (2007), The Childhood of Jesus (2013), The Schoo lteacher (2016), The Death of Jesus (2019) and The Pole (2023). Memoir: Boyhood (1997), Youth (2002) and Summertime (2009). Essays and criticism: White Writing (1988), Doubling the Point (1992), Giving Offense (1996), The Lives of Animals (1999), Stranger Shores (2001), Inner Workings (2007), Here and Now (2013, with Paul Auster) and Late Essays (2017). Translations of Dutch and Afrikaans writing.",
+   "style": "A plain, exact, rigorously unadorned prose, with a first-person narrator who reports and withholds in equal measure; short sentences, little metaphor, an avoidance of psychological explanation; allegory and allegorical geography; free indirect style used to lay bare the mind of a compromised official.",
+   "concerns": "Colonialism, empire and the frontier; torture, complicity and the banality of state violence; the ethics of writing and the authority of the novel; animals, ecology and the limits of sympathy; South African history, apartheid and its aftermath; old age, disgrace and the body.",
+   "significance": "Coetzee is the most honoured South African writer since Nadine Gordimer and one of the very few to have won the Booker Prize twice; his novels are central to the study of colonial and postcolonial fiction, and his essays and lectures - above all 'The Lives of Animals' and the Elizabeth Costello fictions - have made him an important voice in the debate on animal rights and on the ethics of representation.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Literary Novel",
+    "Philosophical Fiction",
+    "Political Novel"
+   ],
+   "movements": [
+    "Postcolonial Literature",
+    "South African Writing under Apartheid"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2972,
+     "title": "Waiting for the Barbarians"
+    }
+   ],
+   "sources": [
+    "J. M. Coetzee (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Waiting for the Barbarians (Wikipedia)"
+   ]
+  },
+  {
    "id": 808,
    "name": "J. M. Synge",
    "altNames": [
@@ -32885,6 +32996,60 @@
     "The Oxford Companion to English Literature, 7th edn",
     "The Oxford Companion to Twentieth-Century Literature in English",
     "The Oxford Dictionary of National Biography, 60 vols"
+   ]
+  },
+  {
+   "id": 878,
+   "name": "Margaret Atwood",
+   "altNames": [],
+   "dates": "1939",
+   "birthplace": "Ottawa, Ontario, Canada",
+   "nationality": "Canadian; poet, novelist, short-story writer and critic writing in English",
+   "identity": "Canadian poet and novelist whose speculative fictions of gender, power and survival, from The Handmaid's Tale to the MaddAddam trilogy, have made her the most widely read Canadian writer of her generation",
+   "biography": "Margaret Eleanor Atwood was born in Ottawa on 18 November 1939, the daughter of a forest entomologist, and spent much of her childhood in the bush of northern Quebec and Ontario, an experience that underlies the wilderness settings of much of her work. She took her BA at the University of Toronto in 1961 and her MA at Radcliffe College in 1962, and began publishing poetry while still a student: Double Persephone (1961), The Circle Game (1964, Governor General's Award) and The Animals in That Country (1968). Her first novel, The Edible Woman (1969), was followed by Surfacing (1972), Lady Oracle (1976), Life Before Man (1979), Bodily Harm (1981) and The Handmaid's Tale (1985), which won the Governor General's Award and became her best-known book; Cat's Eye (1988), The Robber Bride (1993), Alias Grace (1996, Booker shortlist), The Blind Assassin (2000, Booker Prize), Oryx and Crake (2003), The Year of the Flood (2009) and MaddAddam (2013) followed, with the poetry collections Procedures for Underground (1970), Power Politics (1971), You Are Happy (1974), Two-Headed Poems (1978), True Stories (1981), Interlunar (1984), Morning in the Burned House (1995) and The Door (2007). She has taught at the University of British Columbia, York University and elsewhere, was president of the Writers' Union of Canada and of PEN Canada, and lives in Toronto.",
+   "profile": "Fiction: The Edible Woman (1969), Surfacing (1972), Lady Oracle (1976), Life Before Man (1979), Bodily Harm (1981), The Handmaid's Tale (1985), Cat's Eye (1988), The Robber Bride (1993), Alias Grace (1996), The Blind Assassin (2000), Oryx and Crake (2003), The Penelopiad (2005), The Year of the Flood (2009), MaddAddam (2013), Hag-Seed (2016) and The Testaments (2019). Stories: Dancing Girls (1977), Bluebeard's Egg (1983), Wilderness Tips (1991), Good Bones (1992), Moral Disorder (2006) and Stone Mattress (2014). Poetry: Double Persephone (1961), The Circle Game (1964), The Animals in That Country (1968), Procedures for Underground (1970), Power Politics (1971), You Are Happy (1974), Two-Headed Poems (1978), True Stories (1981), Interlunar (1984), Selected Poems II (1986), Morning in the Burned House (1995), Eating Fire (1998) and The Door (2007). Criticism: Survival (1972), Second Words (1982), Strange Things (1995) and Negotiating with the Dead (2002).",
+   "style": "A lucid, ironic, syntactically exact prose and a poetry of sharp declarative statement, unsettling personification and buried myth; a taste for the Gothic, for doubled and split selves and for the documentary roughness of found documents, letters and newspaper reports; the wilderness and the city juxtaposed, and a cool surface over considerable anger.",
+   "concerns": "The politics of gender and the body; Canadian national identity and the colonial mentality; wilderness, nature and the violence of settlement; survival as a national and personal theme; storytelling, memory and the unreliability of narrative; dystopia, environmental catastrophe and speculative futures; myth, fairy tale and classical allusion reworked from a woman's point of view.",
+   "significance": "Atwood is the most widely read and most frequently taught Canadian writer of her generation, and one of the few poets to have become a public intellectual of global standing; The Handmaid's Tale has become a touchstone for the politics of gender and authoritarianism, and the dystopian novels of the 2000s extended her reach. Her criticism, above all Survival, shaped the terms in which Canadian literature was discussed.",
+   "tier": "Major / canonical",
+   "uncertainty": "",
+   "genres": [
+    "Confessional Poetry",
+    "Domestic Fiction",
+    "Dramatic Monologue",
+    "Lyric Poetry",
+    "Regional Fiction",
+    "Short Story"
+   ],
+   "movements": [
+    "Canadian Literary Nationalism",
+    "Second-Wave Feminist Writing"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet"
+   ],
+   "influencedBy": [],
+   "works": [
+    {
+     "id": 2970,
+     "title": "Death by Landscape"
+    },
+    {
+     "id": 2971,
+     "title": "Miss July Grows Older"
+    }
+   ],
+   "sources": [
+    "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
+    "EBSCO Research Starters, 'Death by Landscape' by Margaret Atwood",
+    "Margaret Atwood (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Tina Burchette, 'The Split Self in Atwood's Miss July Grows Older' (Margaret Atwood Studies 8, 2014)"
    ]
   },
   {
@@ -86357,6 +86522,56 @@
    ]
   },
   {
+   "id": 2970,
+   "title": "Death by Landscape",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Margaret Atwood"
+   ],
+   "authorIds": [
+    878
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1991",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Short story",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A story from Atwood's Wilderness Tips (1991): Lois, widowed and living in Toronto, looks at her collection of Canadian landscape paintings and remembers the summer at Camp Manitou when her friend Lucy disappeared from a cliff above the lake.",
+   "summary": "A story in two times: the elderly Lois in her waterfront apartment among her Group of Seven landscapes, and the thirteen-year-old Lois at a girls' summer camp in northern Ontario, where a canoe trip ends with her friend's disappearance and a lifetime of unexplained guilt.",
+   "plot": "Lois, now widowed and living alone in a Toronto condominium overlooking Lake Ontario, has filled her walls with Canadian landscape paintings - 'every one of them is a picture of Lucy', as the story's last line puts it. The story moves back to her summers at Camp Manitou, a girls' camp in the northern Ontario bush, where she was sent from the age of nine and where she became friends with Lucy, a girl from Chicago whose parents were divorcing and who was, by their last summer, moody and restless. On a canoe trip into the interior the two girls climb a trail to a lookout above the lake; Lucy steps off the path to relieve herself and does not come back. Lois hears a scream - or thinks she hears one - and raises the alarm, but no trace of Lucy is ever found. The camp director's insinuation that Lois may have pushed her, the police search, and the return to a camp where the girls' bunk is rearranged so that no one has to sleep in Lucy's bed are the story's aftermath. In the present, Lois has spent her life living 'two lives', she says, one of them the life in which Lucy went on existing somewhere in the landscape; and the paintings, which she has bought without quite knowing why, become the place where the lost girl is kept.",
+   "significance": "One of Atwood's most anthologised stories and a standard text in courses on Canadian literature, on the short story and on ecocriticism; it is her selection in the Norton Anthology alongside the poem 'Miss July Grows Older'.",
+   "meter": "A cool, exact, deceptively flat prose with a journalist's eye for period detail (the camp songs, the wartime rationing, the girls' nicknames) and a poet's ear for the sentence as a unit of disclosure; the paintings are described in the language of art criticism, and the wilderness in the language of the camp brochure, so that neither is allowed to be innocent.",
+   "context": "Wilderness Tips (McClelland and Stewart, 1991) gathers stories written in the late 1980s, several of them, like this one, about women revisiting the myths of Canadian childhood; the camp story belongs to the tradition of Canadian writing about the bush that runs from Susanna Moodie through Atwood's own Survival (1972) and her Moodie poems in The Journals of Susanna Moodie (1970).",
+   "characters": "",
+   "structure": "A double narrative, moving without chapter breaks between the present of Lois's apartment and the remembered summers at Camp Manitou; the story is told in close third person, in the iterative present for the camp years and in a slower present for Lois's old age, and ends on a short declarative sentence that reverses the meaning of everything before it.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Domestic Fiction",
+    "Regional Fiction",
+    "Short Story"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ],
+   "movements": [
+    "Canadian Literary Nationalism"
+   ],
+   "editions": [],
+   "sources": [
+    "EBSCO Research Starters, 'Death by Landscape' by Margaret Atwood",
+    "Margaret Atwood (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 2780,
    "title": "Death Comes for the Archbishop",
    "altTitles": [],
@@ -95824,6 +96039,56 @@
     "The Examiner",
     "The Norton Anthology of English Literature, 10th edition, Volume D: The Romantic Period",
     "The Selected Writings of Leigh Hunt (6 volumes)"
+   ]
+  },
+  {
+   "id": 2973,
+   "title": "Fond Memory",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Eavan Boland"
+   ],
+   "authorIds": [
+    880
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1987",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem from Boland's The Journey (1987) about her childhood in 1950s London, where an Irish girl at an English school learns that the songs she is taught are not, after all, her country.",
+   "summary": "A short poem in several unrhymed stanzas, recalling a London classroom, the teacher who taught the children Thomas Moore's Irish melodies, and the moment the child realised that the patriotism of the song did not belong to her.",
+   "plot": "Boland remembers a classroom in London, the children 'in darned worsted', the teacher, and a song sung from Thomas Moore's Irish Melodies - 'Oft in the Stilly Night', with its refrain about fond memory bringing 'the light of other days around me'. For the Irish child in an English school the song is both a link to home and an embarrassment: the other children sing it without knowing what they are singing, while she knows and cannot say. The poem's title takes the song's own phrase and turns it: 'fond memory' is what the emigrant lives on, but it is also the false consolation that makes a country into a song. The poem ends on the speaker's recognition that she thought this was her country - 'was, will be again' - and that the upward-straining music was a 'safe inventory of pain': a shared, sentimentalised account of Irish suffering that she was wrong to trust. The adult poem keeps the melody and withdraws the belief.",
+   "significance": "One of Boland's most discussed poems of the 1980s and a set text in Irish schools; it is one of her three selections in the Norton Anthology and the poem most often used to introduce her treatment of exile and national identity.",
+   "meter": "Plain, exact, conversational free verse with a deliberately unpoetic vocabulary and a few highly charged abstractions; the quoted song supplies the only regular rhythm, and the poem's own lines are broken to resist it; the tone is wry, wounded and self-correcting.",
+   "context": "The Journey (Carcanet, 1987) is the collection in which Boland turned from the inherited rhetoric of Irish poetry to her own history as a diplomat's daughter in London and New York; 'Fond Memory' and its companion 'An Irish Childhood in England: 1951' belong to that autobiographical turn, and 'Fond Memory' revises Thomas Moore's 'Oft in the Stilly Night' (Irish Melodies, 1808-1834).",
+   "characters": "",
+   "structure": "Four irregular stanzas in free verse, with short lines and a syntax that breaks across line endings; the poem moves from scene (the classroom) to song (Moore's lyric) to reflection, and the final stanza's flat contradiction ('And I was wrong') turns the poem against itself.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Lyric Poetry",
+    "Narrative Poetry"
+   ],
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity"
+   ],
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "'Chronicles of Impeded Growth: Eavan Boland and the Reconstruction of Identity' (Post Identity, University of Michigan)",
+    "Eavan Boland (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -120247,6 +120512,59 @@
     "The Norton Anthology of English Literature, Vol. E: The Victorian Age (1830–1901), 11th edn",
     "The Oxford Dictionary of National Biography, 60 vols",
     "Victorian Studies: A Journal of the Humanities, Arts, and Sciences"
+   ]
+  },
+  {
+   "id": 2971,
+   "title": "Miss July Grows Older",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Margaret Atwood"
+   ],
+   "authorIds": [
+    878
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1995",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem from Morning in the Burned House (1995) in the voice of a calendar pin-up, Miss July, now grown old, who looks back on the body that was once her fortune.",
+   "summary": "A dramatic monologue of some forty lines in which the ageing Miss July reflects on beauty, the calendar, the men who once looked at her, and the way the sun now moves through the hours.",
+   "plot": "Miss July - the girl on the July page of a nude calendar - speaks in the first person about her life since the photograph was taken. She remembers the body she had, and the power it gave her: 'I had a talent', she says in effect, and 'men were a skill'. She is unsentimental about her younger self, who was vain and not very intelligent, and unsentimental about the men who wanted her, whom she describes with a mixture of contempt and amusement. What has changed is not only her body but her relation to time: 'the way the sun moves through the hours becomes important', and the calendar has become a way of measuring what is left rather than what is on offer. The poem is neither a lament nor a joke. It gives the pin-up a mind and a voice, and lets her look steadily at the transaction she was once part of; by the end the reader is asked to see the ageing woman's self-knowledge as a form of power too, though a bleaker and lonelier one.",
+   "significance": "One of the best known poems of Morning in the Burned House and a frequently taught example of the feminist dramatic monologue; it is Atwood's selection in the Norton Anthology alongside 'Death by Landscape'.",
+   "meter": "Conversational, ironic and deliberately flat in places, with sudden lyrical turns; short lines and abrupt enjambments; a diction that mixes the demotic ('Don't get me wrong') with precise physical and temporal notation; the tone is that of a woman talking to herself in a room.",
+   "context": "Morning in the Burned House (McClelland and Stewart, 1995) was Atwood's first collection of new poems for eight years and won the Trillium Award; its second section reworks female archetypes - Miss July, Helen of Troy and others - in monologues that draw on the feminist critique of the image and of the beauty myth developed in the 1970s and 1980s.",
+   "characters": "",
+   "structure": "A dramatic monologue in loose, short-lined free verse, without stanza divisions or an obvious rhyme scheme; the voice is colloquial and self-interrupting, and the poem moves by association from the calendar photograph to the young men, to the present body and to the passing of time.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Confessional Poetry",
+    "Dramatic Monologue",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet"
+   ],
+   "movements": [
+    "Canadian Literary Nationalism",
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
+    "EBSCO Research Starters, 'Death by Landscape' by Margaret Atwood",
+    "Margaret Atwood (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Tina Burchette, 'The Split Self in Atwood's Miss July Grows Older' (Margaret Atwood Studies 8, 2014)"
    ]
   },
   {
@@ -165327,6 +165645,57 @@
    ]
   },
   {
+   "id": 2974,
+   "title": "The Dolls Museum in Dublin",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Eavan Boland"
+   ],
+   "authorIds": [
+    880
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1994",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "A poem from In a Time of Violence (1994) that walks through a Dublin museum of dolls and finds, behind the glass cases, Easter 1916 and the innocent society that the Rising destroyed.",
+   "summary": "A poem in unrhymed quatrains that describes the dolls - their cracked paint, soiled cotton and waxen arms - and then reconstructs, through them, the Dublin of the Easter week of 1916, the officers, the terraces, the Shelbourne bar, and the children with their governesses on College Green.",
+   "plot": "The poem begins with the dolls' damage: 'The wounds are terrible. The paint is old', the cracks on the lips cannot be fixed, and the arms are 'ivory dissolved to wax'. From there the poem reconstructs the world the dolls belonged to - the Quadrille, the waltz, the yacht-club terraces, the carriage wheels on the cobbled quays - and then names the occasion: 'And recreate Easter in Dublin.' The second half is a sequence of images of the city in Easter week, 1916: booted officers and their mistresses, sunlight on College Green, the bar of the Shelbourne full, laughter on the terraces, rumour at the barracks, 'The Empire is summoning its officers' and the carriages turning back. Children walk with governesses, looking down at their dolls and then up at the passing carriage, 'the shadow chilling them'. The poem returns to the museum and to twilight: the shadows on the dolls are 'bruises on the stitched cotton clothes', and the dolls' wide eyes cannot address the helplessness of what they have survived. The last lines make them the keepers of a history they can record but not feel - 'To be the present of the past. / To infer the difference / with a terrible stare. / But not feel it. / And not know it.'",
+   "significance": "One of the most anthologised Irish poems of the 1990s and a standard text for the study of Boland's historical poems; it is one of her three Norton selections and is widely read alongside Yeats's 'Easter 1916'.",
+   "meter": "Plain, declarative, almost flat in its diction, with a strong visual and tactile register (cracked paint, soiled cotton lawn, parchment-coloured waists); short sentences and a repeated imperative ('Recall... Hum... Promenade... Put back...') that makes the poem a guided tour; the rhythm is regular enough to feel like a museum catalogue and irregular enough to keep the reader uneasy.",
+   "context": "In a Time of Violence (Carcanet, 1994) is Boland's sequence of poems about Ireland, history and the violence of representation, including 'That the Science of Cartography Is Limited' and the title sequence; 'The Dolls Museum in Dublin' responds to the Easter Rising of 1916 and to the tradition of Yeats's poems on the Rising, and takes its title from the doll collection formerly displayed in Dublin.",
+   "characters": "",
+   "structure": "Eleven unrhymed quatrains, mostly in loose iambic pentameter with occasional trimeter lines; the poem moves from description to reconstruction to reflection, and the last five short lines break the quatrain pattern to deliver the verdict on the dolls.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Formal Verse",
+    "Lyric Poetry",
+    "Political Poetry"
+   ],
+   "themes": [
+    "History, truth and the uses of the past",
+    "Nationhood and national identity",
+    "War, combat and its aftermath"
+   ],
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "'Chronicles of Impeded Growth: Eavan Boland and the Reconstruction of Identity' (Post Identity, University of Michigan)",
+    "Eavan Boland (Wikipedia)",
+    "Eavan Boland, 'The Dolls Museum in Dublin' (course page, Michigan State University)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
+   ]
+  },
+  {
    "id": 1638,
    "title": "The Dolly Dialogues",
    "altTitles": [
@@ -184888,6 +185257,56 @@
    "sources": [
     "Anglo-Saxon Poetry",
     "The Anglo-Saxon Poetic Records: A Collective Edition"
+   ]
+  },
+  {
+   "id": 2975,
+   "title": "The Lost Land",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "Eavan Boland"
+   ],
+   "authorIds": [
+    880
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1998",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Poem",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "The title poem of Boland's 1998 collection: a woman with two grown daughters tries to give them a country, and finds that memory itself has become an emigrant.",
+   "summary": "A short poem in free verse in which the speaker counts what she wanted from the earth - her daughters, and one piece of ground, one city, one river - and then imagines them leaving Ireland as generations had left it before.",
+   "plot": "The poem opens with an inventory of desire: 'I have two daughters. / They are all I ever wanted from the earth. / Or almost all.' What she wanted besides was 'one piece of ground', 'One city trapped by hills. One urban river. An island in its element', so that she could say 'mine. My own' and mean it. Now the daughters are grown and far away, and memory itself has become an emigrant, 'wandering in a place / where love dissembles itself as landscape', where the hills are the colours of a child's eyes and the children are 'distances, horizons'. At night, on the edge of sleep, she sees the shore of Dublin Bay and its granite pier and asks whether this is how the emigrants saw it, 'backing out on the mailboat at twilight'. The last movement imagines her own place at the landward rail of that boat, searching for the last sight of a hand, and then 'on the underworld side of that water' in the dark, saying over 'all the names I know for a lost land: / Ireland. Absence. Daughter.'",
+   "significance": "The title poem of one of Boland's central collections and among her most frequently quoted poems on emigration and motherhood; it is one of her three Norton selections.",
+   "meter": "Short, spare lines and a conversational syntax; repetition ('One piece of ground', 'One city', 'One urban river') and anaphora; a plain vocabulary of landscape and family, with only a few charged metaphors ('memory itself / has become an emigrant'); the last lines are unpunctuated as a list.",
+   "context": "The Lost Land (Carcanet, 1998) is the collection in which Boland wrote most directly about emigration, the Famine and the Irish diaspora, and the title poem is its statement of theme; the 'underworld side of that water' draws on the classical descent to the dead as well as on the Irish emigrant's crossing, and the poem's Dublin Bay is the scene of the mailboat departures from Dún Laoghaire.",
+   "characters": "",
+   "structure": "Four movements of unequal length in free verse: the inventory of what she wanted, the emigration of memory, the imagined departure of the daughters, and the speaker's own imagined place on the boat; the poem ends with a three-word list that acts as a refrain and a summary.",
+   "attributionNotes": "",
+   "canonicalStatus": "Secondary canon",
+   "genres": [
+    "Elegiac Poetry",
+    "Free Verse",
+    "Lyric Poetry"
+   ],
+   "themes": [
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora"
+   ],
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ],
+   "editions": [],
+   "sources": [
+    "Eavan Boland (Wikipedia)",
+    "Eavan Boland, 'The Lost Land' (Poetry Foundation)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   },
   {
@@ -220120,6 +220539,57 @@
    "sources": [
     "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
     "Waiting for Godot (Wikipedia)"
+   ]
+  },
+  {
+   "id": 2972,
+   "title": "Waiting for the Barbarians",
+   "altTitles": [],
+   "authorship": "single",
+   "authors": [
+    "J. M. Coetzee"
+   ],
+   "authorIds": [
+    879
+   ],
+   "compositionStart": "",
+   "compositionEnd": "",
+   "compositionCirca": false,
+   "dates": "",
+   "publicationDate": "1980",
+   "manuscriptDate": "",
+   "language": "English",
+   "form": "Novel",
+   "period": "Postwar and Contemporary Period (1946–2000)",
+   "description": "J. M. Coetzee's third novel (1980), the first-person testimony of an unnamed magistrate on a far frontier of an unnamed empire, who is broken by the state's security police for trying to return a tortured barbarian woman to her own people, and who learns in prison what the Empire's justice is.",
+   "summary": "A novel in six parts: the magistrate's settled frontier town; the arrival of Colonel Joll and the Third Bureau; the magistrate's care for the blinded barbarian girl and his expedition to return her; his arrest, imprisonment and torture; the collapse of the imperial campaign; and his return, unbroken in his own mind but stripped, to the ordinary life of the town.",
+   "plot": "The novel is narrated by the magistrate of a small settlement on the frontier of the Empire, a man who has spent his working life administering a place where nothing much happens, collecting antiquities and sleeping with a local woman. The Empire declares a state of emergency and sends the Third Bureau, its security service, under Colonel Joll, who interrogates and tortures a group of captives on suspicion of being barbarians. Joll leaves, the frontier empties, and the magistrate takes in a young barbarian woman left crippled and half-blind by the torture; he washes her feet, sleeps beside her, and cannot say what he wants from her. He decides to return her to her people and sets out with two soldiers and a horse across the salt flats, a journey the novel describes with a physical exactness that becomes an allegory of the Empire's ignorance of the land it claims. Having handed her over, he comes back to find the Third Bureau in charge and is arrested for desertion and for consorting with the enemy; he is imprisoned in a cellar, beaten, hung by the arms, and reduced to begging for food. When the imperial campaign collapses and Joll returns with captives for a public spectacle of torture, the magistrate interrupts it and is beaten again. The soldiers leave; the barbarians never appear. The novel ends with the magistrate helping the townspeople repair the walls and clean up, while the question of what the Empire was defending, and what the magistrate was complicit in, is left open.",
+   "significance": "The novel that established Coetzee's international reputation and one of the most widely taught allegories of colonial power in English; Philip Glass made an opera of it in 2005, it is central to the criticism of Coetzee's ethics, and it is his selection in the Norton Anthology, printed as the extract 'From Waiting for the Barbarians'.",
+   "meter": "A spare, grave, almost transparent prose; short declarative sentences and minimal metaphor; the lexicon of administration and bureaucracy (reports, warrants, requisitions, 'the Bureau'); first-person narration that reports physical detail with clinical precision and leaves moral judgment to the reader; dialogue in an unmarked, serviceable English.",
+   "context": "Waiting for the Barbarians was published by Secker and Warburg (London) on 27 October 1980, three years after In the Heart of the Country and before Life & Times of Michael K (1983); it won the James Tait Black Memorial Prize and the Geoffrey Faber Memorial Prize, takes its title and its central situation from Cavafy's poem 'Waiting for the Barbarians' (1904) and from Buzzati's The Tartar Steppe (1940), and was written in South Africa during the apartheid years and the border wars of the 1970s and 1980s.",
+   "characters": "",
+   "structure": "Six chronological chapters, narrated in the first person by the magistrate as a retrospective confession and testimony; the narrative is deliberately unadorned, with short scenes and summary rather than dramatised interiority, and the allegory depends on the suppression of names and historical particulars.",
+   "attributionNotes": "",
+   "canonicalStatus": "Major canon",
+   "genres": [
+    "Literary Novel",
+    "Philosophical Fiction",
+    "Political Novel"
+   ],
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
+   ],
+   "movements": [
+    "Postcolonial Literature",
+    "South African Writing under Apartheid"
+   ],
+   "editions": [],
+   "sources": [
+    "J. M. Coetzee (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Waiting for the Barbarians (Wikipedia)"
    ]
   },
   {

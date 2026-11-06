@@ -21,10 +21,10 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 125 works by 30 authors; 81 of 255 selections recorded) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 131 works by 33 authors; 87 of 255 selections recorded) |
 
-Cumulative totals: **877 authors, 2969 works** (147 anonymous), 10 periods, 179
-movements, 370 genres, 203 themes, 528 sources, 2432 recorded editions.
+Cumulative totals: **880 authors, 2975 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 538 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the
@@ -48,13 +48,14 @@ most of it is still to do.**
 - **Record standard.** A strict, template-free build: every work has a
   seven-part description, a bibliography status, a verification status and the
   sources actually consulted.
-- **Current state.** 125 works by Ralph Ellison, Philip Larkin, Lorraine
+- **Current state.** 131 works by Ralph Ellison, Philip Larkin, Lorraine
   Hansberry, Samuel Selvon, Stevie Smith, Dylan Thomas, Louise Bennett, Kamau
   Brathwaite, Ngũgĩ wa Thiong'o, M. NourbeSe Philip, Salman Rushdie, Grace
   Nichols, Linton Kwesi Johnson, Doris Lessing, A. K. Ramanujan, Thom Gunn,
   Derek Walcott, Ted Hughes, Chinua Achebe, Alice Munro, Geoffrey Hill, V. S.
   Naipaul, Wole Soyinka, Caryl Churchill, Seamus Heaney, Les Murray, J. G.
-  Ballard, Bessie Head, Ben Okri and Arundhati Roy, and by George Orwell, Jean
+  Ballard, Bessie Head, Ben Okri, Arundhati Roy, Margaret Atwood, J. M. Coetzee
+  and Eavan Boland, and by George Orwell, Jean
   Rhys, Samuel Beckett, W. H. Auden and Gwendolyn Brooks (their installment 9
   author records, extended). 75 of the 255 selections in the period are
   recorded so far.

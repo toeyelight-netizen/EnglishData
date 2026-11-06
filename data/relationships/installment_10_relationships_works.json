@@ -624,6 +624,36 @@
    "work": "The God of Small Things",
    "author": "Arundhati Roy",
    "contribution_type": "author"
+  },
+  {
+   "work": "Death by Landscape",
+   "author": "Margaret Atwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Miss July Grows Older",
+   "author": "Margaret Atwood",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "author": "J. M. Coetzee",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Fond Memory",
+   "author": "Eavan Boland",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "author": "Eavan Boland",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Lost Land",
+   "author": "Eavan Boland",
+   "contribution_type": "author"
   }
  ],
  "work_genres": [
@@ -1523,6 +1553,54 @@
     "Literary Novel",
     "Historical Novel",
     "Family Saga"
+   ]
+  },
+  {
+   "work": "Death by Landscape",
+   "genres": [
+    "Short Story",
+    "Domestic Fiction",
+    "Regional Fiction"
+   ]
+  },
+  {
+   "work": "Miss July Grows Older",
+   "genres": [
+    "Lyric Poetry",
+    "Dramatic Monologue",
+    "Confessional Poetry"
+   ]
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "genres": [
+    "Literary Novel",
+    "Political Novel",
+    "Philosophical Fiction"
+   ]
+  },
+  {
+   "work": "Fond Memory",
+   "genres": [
+    "Lyric Poetry",
+    "Confessional Poetry",
+    "Narrative Poetry"
+   ]
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "genres": [
+    "Lyric Poetry",
+    "Political Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Lost Land",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Free Verse"
    ]
   }
  ],
@@ -2518,6 +2596,54 @@
     "Class, labour and social mobility",
     "Childhood, adolescence and coming of age"
    ]
+  },
+  {
+   "work": "Death by Landscape",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Miss July Grows Older",
+   "themes": [
+    "Gender, feminism and women's lives",
+    "Sexuality, desire and the closet",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "themes": [
+    "Power, the state and surveillance",
+    "Decolonisation, the end of empire and the new nation",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "work": "Fond Memory",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Childhood, adolescence and coming of age"
+   ]
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "themes": [
+    "History, truth and the uses of the past",
+    "Nationhood and national identity",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
+   "work": "The Lost Land",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Memory, trauma and testimony",
+    "Land, place and regional belonging"
+   ]
   }
  ],
  "work_movements": [
@@ -3098,6 +3224,44 @@
     "Postcolonial Literature",
     "Magical Realism in English"
    ]
+  },
+  {
+   "work": "Death by Landscape",
+   "movements": [
+    "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "work": "Miss July Grows Older",
+   "movements": [
+    "Second-Wave Feminist Writing",
+    "Canadian Literary Nationalism"
+   ]
+  },
+  {
+   "work": "Waiting for the Barbarians",
+   "movements": [
+    "South African Writing under Apartheid",
+    "Postcolonial Literature"
+   ]
+  },
+  {
+   "work": "Fond Memory",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Dolls Museum in Dublin",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
+   "work": "The Lost Land",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
   }
  ],
  "work_periods": [
@@ -3228,7 +3392,13 @@
     "The Drowned World",
     "Looking for a Rain God",
     "What the Tapster Saw",
-    "The God of Small Things"
+    "The God of Small Things",
+    "Death by Landscape",
+    "Miss July Grows Older",
+    "Waiting for the Barbarians",
+    "Fond Memory",
+    "The Dolls Museum in Dublin",
+    "The Lost Land"
    ]
   }
  ]

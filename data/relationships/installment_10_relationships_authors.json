@@ -83,6 +83,18 @@
    ]
   },
   {
+   "author": "Eavan Boland",
+   "genres": [
+    "Confessional Poetry",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Free Verse",
+    "Lyric Poetry",
+    "Narrative Poetry",
+    "Political Poetry"
+   ]
+  },
+  {
    "author": "Geoffrey Hill",
    "genres": [
     "Elegiac Poetry",
@@ -136,6 +148,14 @@
     "Apocalyptic Fiction",
     "Post-Apocalyptic Fiction",
     "Science Fiction"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "genres": [
+    "Literary Novel",
+    "Philosophical Fiction",
+    "Political Novel"
    ]
   },
   {
@@ -201,6 +221,17 @@
    "genres": [
     "Experimental Poetry",
     "Political Poetry"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "genres": [
+    "Confessional Poetry",
+    "Domestic Fiction",
+    "Dramatic Monologue",
+    "Lyric Poetry",
+    "Regional Fiction",
+    "Short Story"
    ]
   },
   {
@@ -418,6 +449,12 @@
    "movements": []
   },
   {
+   "author": "Eavan Boland",
+   "movements": [
+    "Second-Wave Feminist Writing"
+   ]
+  },
+  {
    "author": "Geoffrey Hill",
    "movements": [
     "The Movement"
@@ -447,6 +484,13 @@
    "movements": [
     "Contemporary Gothic",
     "New Wave Science Fiction"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "movements": [
+    "Postcolonial Literature",
+    "South African Writing under Apartheid"
    ]
   },
   {
@@ -497,6 +541,13 @@
    "movements": [
     "Caribbean Literature in English",
     "Postcolonial Literature"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "movements": [
+    "Canadian Literary Nationalism",
+    "Second-Wave Feminist Writing"
    ]
   },
   {
@@ -669,6 +720,18 @@
    ]
   },
   {
+   "author": "Eavan Boland",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "History, truth and the uses of the past",
+    "Land, place and regional belonging",
+    "Memory, trauma and testimony",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "War, combat and its aftermath"
+   ]
+  },
+  {
    "author": "Geoffrey Hill",
    "themes": [
     "Death, illness and mourning",
@@ -732,6 +795,14 @@
     "Alienation, absurdity and existential freedom",
     "Nature, ecology and environmental crisis",
     "Utopia, dystopia and imagined futures"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Power, the state and surveillance",
+    "Violence, crime and justice"
    ]
   },
   {
@@ -810,6 +881,17 @@
     "Gender, feminism and women's lives",
     "Language, writing and the limits of representation",
     "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Death, illness and mourning",
+    "Gender, feminism and women's lives",
+    "Memory, trauma and testimony",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet"
    ]
   },
   {
@@ -1300,6 +1382,34 @@
    "author": "Arundhati Roy",
    "sources": [
     "Arundhati Roy (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Margaret Atwood",
+   "sources": [
+    "Atwood's Poetry Focuses on a Home (review of Morning in the Burned House, The Harvard Crimson)",
+    "EBSCO Research Starters, 'Death by Landscape' by Margaret Atwood",
+    "Margaret Atwood (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Tina Burchette, 'The Split Self in Atwood's Miss July Grows Older' (Margaret Atwood Studies 8, 2014)"
+   ]
+  },
+  {
+   "author": "J. M. Coetzee",
+   "sources": [
+    "J. M. Coetzee (Wikipedia)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)",
+    "Waiting for the Barbarians (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Eavan Boland",
+   "sources": [
+    "'Chronicles of Impeded Growth: Eavan Boland and the Reconstruction of Identity' (Post Identity, University of Michigan)",
+    "Eavan Boland (Wikipedia)",
+    "Eavan Boland, 'The Dolls Museum in Dublin' (course page, Michigan State University)",
+    "Eavan Boland, 'The Lost Land' (Poetry Foundation)",
+    "The Norton Anthology of English Literature, eleventh edition, Volume F: The Twentieth and Twenty-First Centuries, table of contents (W. W. Norton)"
    ]
   }
  ]
