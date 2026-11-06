@@ -28,8 +28,8 @@ Baseline (scope decision of 2026-11-06): the selections of *The Norton Anthology
 
 | Anthology | Selections | 1946–2000 | Date to verify | Before 1946 | After 2000 | Written before 1946, published later | Recorded | To record |
 |---|---|---|---|---|---|---|---|---|
-| NAEL | 288 | 90 | 11 | 149 | 35 | 3 | 90 | 0 |
-| NAAL | 218 | 167 | 6 | 10 | 35 | 0 | 116 | 51 |
+| NAEL | 288 | 96 | 0 | 149 | 40 | 3 | 90 | 6 |
+| NAAL | 218 | 169 | 0 | 10 | 39 | 0 | 116 | 53 |
 
 In-scope selections by decade of first publication (provisional dates included):
 
@@ -37,24 +37,24 @@ In-scope selections by decade of first publication (provisional dates included):
 |---|---|---|---|
 | 1946-1950 | 12 | 12 | 0 |
 | 1951-1959 | 28 | 28 | 0 |
-| 1960-1969 | 64 | 62 | 2 |
-| 1970-1979 | 44 | 42 | 2 |
-| 1980-1989 | 55 | 29 | 26 |
-| 1990-2000 | 36 | 22 | 14 |
+| 1960-1969 | 67 | 62 | 5 |
+| 1970-1979 | 45 | 42 | 3 |
+| 1980-1989 | 57 | 29 | 28 |
+| 1990-2000 | 38 | 22 | 16 |
 | undated | 18 | 11 | 7 |
 
-Authors with selections in scope or still to be dated: 113.
+Authors with selections in scope or still to be dated: 112.
 
 | Author | Anthology | In scope | Recorded | To record | Date to verify | Author record |
 |---|---|---|---|---|---|---|
 | Jean Rhys | NAEL | 2 | 2 | 0 | 0 | in installment 10 |
-| Stevie Smith | NAEL | 3 | 3 | 0 | 1 | in installment 10 |
+| Stevie Smith | NAEL | 4 | 3 | 1 | 0 | in installment 10 |
 | George Orwell | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Samuel Beckett | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | W. H. Auden | NAEL | 2 | 2 | 0 | 0 | in installment 10 |
 | Dylan Thomas | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
-| Louise Bennett | NAEL | 1 | 1 | 0 | 3 | in installment 10 |
-| Kamau Brathwaite | NAEL | 3 | 3 | 0 | 1 | in installment 10 |
+| Louise Bennett | NAEL | 4 | 1 | 3 | 0 | in installment 10 |
+| Kamau Brathwaite | NAEL | 4 | 3 | 1 | 0 | in installment 10 |
 | Ngũgĩ wa Thiong'o | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Samuel Selvon | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | M. NourbeSe Philip | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
@@ -69,7 +69,7 @@ Authors with selections in scope or still to be dated: 113.
 | Ted Hughes | NAEL | 6 | 6 | 0 | 0 | in installment 10 |
 | Chinua Achebe | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Alice Munro | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
-| Geoffrey Hill | NAEL | 3 | 3 | 0 | 1 | in installment 10 |
+| Geoffrey Hill | NAEL | 3 | 3 | 0 | 0 | in installment 10 |
 | V. S. Naipaul | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Wole Soyinka | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Caryl Churchill | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
@@ -87,8 +87,7 @@ Authors with selections in scope or still to be dated: 113.
 | bpNichol | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Hanif Kureishi | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Carol Ann Duffy | NAEL | 4 | 4 | 0 | 0 | in installment 10 |
-| Simon Armitage | NAEL | 0 | 0 | 0 | 4 | no author record |
-| Rachel Cusk | NAEL | 0 | 0 | 0 | 1 | no author record |
+| Simon Armitage | NAEL | 1 | 0 | 1 | 0 | no author record |
 | Kiran Desai | NAEL | 1 | 1 | 0 | 0 | in installment 10 |
 | Vladimir Nabokov | NAAL | 1 | 1 | 0 | 0 | in installment 10 |
 | Theodore Roethke | NAAL | 5 | 5 | 0 | 0 | in installment 10 |
@@ -147,7 +146,7 @@ Authors with selections in scope or still to be dated: 113.
 | Tim O'Brien | NAAL | 1 | 0 | 1 | 0 | no author record |
 | Yusef Komunyakaa | NAAL | 4 | 0 | 4 | 0 | no author record |
 | Art Spiegelman | NAAL | 1 | 0 | 1 | 0 | no author record |
-| Juan Felipe Herrera | NAAL | 0 | 0 | 0 | 5 | no author record |
+| Juan Felipe Herrera | NAAL | 2 | 0 | 2 | 0 | no author record |
 | Julia Alvarez | NAAL | 1 | 0 | 1 | 0 | no author record |
 | Joy Harjo | NAAL | 4 | 0 | 4 | 0 | no author record |
 | Rita Dove | NAAL | 10 | 0 | 10 | 0 | no author record |
@@ -157,7 +156,7 @@ Authors with selections in scope or still to be dated: 113.
 | Li-Young Lee | NAAL | 5 | 0 | 5 | 0 | no author record |
 | Lorrie Moore | NAAL | 1 | 0 | 1 | 0 | no author record |
 | Sherman Alexie | NAAL | 4 | 0 | 4 | 0 | no author record |
-| Natasha Trethewey | NAAL | 2 | 0 | 2 | 1 | no author record |
+| Natasha Trethewey | NAAL | 2 | 0 | 2 | 0 | no author record |
 | Jhumpa Lahiri | NAAL | 1 | 0 | 1 | 0 | no author record |
 | Junot Díaz | NAAL | 1 | 0 | 1 | 0 | no author record |
 
@@ -927,6 +926,16 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
     Not recorded as works, because their contents were not examined, but listed in the bibliography note: *A Meap Story* (1954) and *A Drink of Water* (1968); stories and poems in Trinidad papers, on *Caribbean Voices* and in London periodicals; more than twenty radio plays and the television scripts, except as collected; the screenplay of *Pressure* (1976); three essays (1955, 1986, 1987); a film script of *The Lonely Londoners*; and the unfinished novel "A High of Zero". None of the fourteen recorded books was read. *The Lonely Londoners* is *verified* (its plot is corroborated by Wikipedia, Schwarz and GradeSaver); the other thirteen are *partially verified*, five of them (*Turn Again Tiger*, *I Hear Thunder*, *The Housing Lark*, *Those Who Eat the Cascadura* and *Moses Ascending*) resting on search extracts.
 14. **The superseded discovery inventory.** The inventory and its prize and series lists are kept as research (Method) but no longer define the installment. Their documented limits (items 2–4, 16 and 18 of this section at commit `8264c2d`: gaps in the baseline, name variants, translated foreign authors, its nature as a starting list, and facts supplied from general knowledge in the fourth pass) apply to them as research files only.
 
+15. **The dating pass (wave 31), its corrections and what it still cannot settle.**
+
+    Seventeen rows carried the scope value "date to verify", which meant the audit could neither record them nor exclude them, and the installment's real size was unknown. All seventeen are now dated, and the pass changed the scope in both directions: ten rows left the period and seven came into it. Two of the seven were recovered only because a first verdict was wrong. Herrera's "Exiles" and "Literary Asylums" had been dated 2008 from their appearance in *Half of the World in Light*, a new-and-selected volume; "Exiles" opens *Exiles of Desire* (Lalo Press, 1983) and the 2008 volume's own contents place "Literary Asylums" in the same book. The reprint date is not a date of first publication, and taking it for one had dropped two poems that belong in the period.
+
+    Verdicts changed twice more without the count changing. "Broken Hierarchies" was recorded as the title of Hill's 2013 collected poems rather than a poem; it is a poem, the title poem of *Without Title* (2006), and is out of period for that date instead. Brathwaite's "[On Sycorax Video Style]" had been marked "after 2000" on the strength of *MR/1* (1998) - a date inside the period, which supports the opposite conclusion. The style dates from 1990 and the prose statement was published in *conVERSations with Nathaniel Mackey* (We Press, 1999), the source the eleventh edition's own editors cite; the row is therefore in period and dated 1999.
+
+    *What remains uncertain:* the exact pages and wording of the NAEL's Brathwaite extract were not verified, so its first-publication date of 1999 rests on the source the anthology's editors cite for the concept rather than on the anthology's own headnote; the row says so. Cusk's "Freedom" rests on the Harry Ransom Center's catalogue of her papers and not on the magazine itself, which could not be reached. Armitage's "Beck" is dated from the poet's own account of the Stanza Stones project (2010-2012) and its first collection (2019); either date puts it outside the period, so the uncertainty does not affect the verdict. Hill's *Without Title* is dated 2006 from bibliography rather than a title page.
+
+    *A defect repaired on the way:* three rows in the two lists were malformed against the fifteen-field header - two carried a sixteenth cell written by an earlier patch of this pass, and one carried fourteen, an older corruption that predated it. All three are fixed and both files now parse to a uniform fifteen fields, checked by a byte-identical round trip through the csv module. The earlier attempt at the same edit used text replacement, which is what desynchronised the rows.
+
 ## Stopping point and outstanding tasks (2026-11-06)
 
 **Done:**
@@ -944,8 +953,8 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
 **Next, in order:**
 1. **Done in wave 13:** the selections of the recorded authors (Larkin's nine other poems, Orwell's "Politics and the English Language" and Selvon's "Waiting for Aunty to Cough").
 2. **Done in wave 14:** the installment-9 authors with selections in the period, through extensions: Jean Rhys (2 stories), Samuel Beckett (*Waiting for Godot*), W. H. Auden (2 poems) and Gwendolyn Brooks (7 poems).
-3. **New authors, in Norton's order:** the English anthology is complete for the period - every selection first published 1946-2000 has a record (89 of 89 unique selections; the 90 in earlier notes counted two excerpts of one book). The American anthology is under way: waves 21-30 recorded forty-five of its authors and 115 of its 165 unique in-scope selections; the largest remaining block is Rita Dove's ten, followed by Li-Young Lee's five and four each for Joy Harjo, Yusef Komunyakaa and Sherman Alexie: 50 selections still to record. Each author gets an author record and each selection a record of its own, naming the collection it belongs to, with depth tiered by significance and sources recorded.
-4. **Dates:** check each provisional date as its record is built, and settle the 17 selections still to be dated (section 15, item 2), which decide whether five more authors are covered. Wave 26 settled the eighteenth, Ashbery's "How to Continue" (1992), which brought the American list to 167 in-scope rows; wave 27 dated all eight Plath selections, which had carried only "written 1961-1963", from their first printings.
+3. **New authors, in Norton's order:** the English anthology has one selection left of the period - Brathwaite's "[On Sycorax Video Style]", dated 1999 in wave 31 and in scope - against 95 recorded (96 in-scope rows, 89 distinct works, because two excerpts of *The Woman Warrior*, two of *Imaginary Homelands* and two of *Borderlands* share a work each). The American anthology is under way: waves 21-31 recorded 115 of its 169 in-scope rows as 115 works. Fifty-eight distinct works remain: Rita Dove's ten, Li-Young Lee's five, four each for Joy Harjo, Yusef Komunyakaa and Sherman Alexie, three each for Louise Bennett, Simon J. Ortiz and Louise Glueck, and single works for the rest. Each author gets an author record and each selection a record of its own, naming the collection it belongs to, with depth tiered by significance and sources recorded.
+4. **Dates:** check each provisional date as its record is built. **Wave 31 settled the last seventeen undated rows; none now remains.** Ten of the seventeen left the period and seven came into it (section 15, item 3). Wave 26 had settled Ashbery's "How to Continue" (1992) and wave 27 the eight Plath selections, which had carried only "written 1961-1963".
 5. **Installments 8–9.** Check every title against an external bibliography (a fabricated title was found) and every plot against a source, starting with the later installment 9 batches, and check first-edition dates against US-first publication. `scripts/i08_i09_check_queue.py` writes the order of work to `research/installment_10/i08_i09_check_queue.csv`:
    - priority 1: 83 unchecked records whose characters name no one (60 in installment 9, 23 in installment 8);
    - priority 2: the other 1,295 unchecked records;

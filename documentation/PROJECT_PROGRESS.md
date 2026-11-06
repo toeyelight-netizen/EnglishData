@@ -2036,6 +2036,56 @@ and all three are described in `AGENT_HANDOVER.md` §2:
   Norton order, and lists every line in the documentation that still carries a
   superseded figure. The state figures below are its output.
 
+- **Wave 31 (the dates).** All seventeen remaining undated Norton rows settled. Ten
+  of them left the period: Simon Armitage's "Horses, M62" (*Tyrannosaurus Rex
+  Versus the Corduroy Kid*, 2006), "The English Astronaut" (*Seeing Stars*, 2010)
+  and "Beck" (written 2010-2012 for the Stanza Stones project, first collected in
+  *Sandettie Light Vessel Automatic*, 2019); Rachel Cusk's "Freedom" (*The Paris
+  Review* 217, Summer 2016); Juan Felipe Herrera's "Half-Mexican" (*Notes on the
+  Assemblage*, 2015), "Borderbus" (Backwaters Press, 2018) and "Y si el hombre con
+  el choke-hold" (first in the *Los Angeles Review of Books*, 2014, collected
+  2015); Natasha Trethewey's "Photograph: Ice Storm, 1971" (*Native Guard*, 2006);
+  Geoffrey Hill's "Broken Hierarchies" (*Without Title*, 2006); and Kamau
+  Brathwaite's "[On Sycorax Video Style]" (below). Seven came into period: Stevie
+  Smith's "Pretty" (*Scorpion and Other Poems*, posthumous, 1972); Louise Bennett's
+  "Jamaica Language", "Dry-Foot Bwoy" and "Jamaica Oman" (all *Jamaica Labrish*,
+  Kingston: Sangster's, 1966); Armitage's "The Tyre" (*Cloudcuckooland*, 1997);
+  and two Herrera poems, "Exiles" and "Literary Asylums", both from *Exiles of
+  Desire* (Lalo Press, 1983).
+
+  Two of those seven were recovered only by rejecting an earlier reading. A first
+  pass had dated Herrera's poems from their appearance in *Half of the World in
+  Light* (University of Arizona Press, 2008) and dropped them as post-2000.
+  *Half of the World in Light* is a new-and-selected volume: "Exiles" opens
+  *Exiles of Desire* (1983), and the volume's own contents place "Literary
+  Asylums" in the same book. The reprint date was not the date of first
+  publication, and two in-period poems were nearly lost to that error.
+
+  Two rows also needed their reasoning corrected rather than just their verdict.
+  "Broken Hierarchies" is a real poem - the title poem of *Without Title* (2006) -
+  and not, as an earlier pass had it, merely the title of Hill's 2013 collected
+  edition; it is out of period for its 2006 date. Brathwaite's "[On Sycorax Video
+  Style]" had been marked post-2000 on the strength of *MR/1* (1998), which is
+  inside the period and so proves nothing of the kind. The practice itself dates
+  from 1990; the prose statement the NAEL prints was published in *conVERSations
+  with Nathaniel Mackey* (We Press, 1999) in the eleventh edition's own
+  "Born-Digital Literature" cluster, the source its editors cite. It is therefore
+  dated 1999 and is in period, taking the English anthology's in-scope count from
+  95 rows to 96.
+
+  Three rows were also malformed in the CSVs - two carrying a sixteenth cell
+  against a fifteen-field header, and one carrying fourteen, the last of them
+  predating this session. All three were repaired and both files now parse to a
+  uniform fifteen fields; the repair was done with the csv module and verified by
+  a byte-identical round trip, because the earlier attempt at text replacement was
+  what desynchronised the rows in the first place.
+
+  The measured position: **265 in-scope rows** in the two Norton lists (NAEL 96,
+  NAAL 169), **204 distinct works recorded** from them (NAEL 89, NAAL 115), and
+  **58 distinct works still to record** (NAEL 6, NAAL 52) - 59 rows, because
+  Anzaldua's *Borderlands/La Frontera* supplies two. **No row is undated.** Every
+  remaining record now rests on a checked date rather than a guess.
+
 **Discovery inventory (2026-11-06, second pass).** The Heinemann African
 Writers Series (641 rows transcribed from Wikipedia's table, which reproduces
 Nourdin Bejjit's bibliography) and the Post45 Iowa Writers' Workshop dataset
@@ -2128,12 +2178,13 @@ the four bad plots, so it gives an order of work, not a filter.
 3. record the remaining Norton authors and their selections, in Norton's order.
    The English anthology is complete for the period: 90 of 90 in-scope
    selections have records (waves 15–20, to Kiran Desai). The American
-   anthology is under way: waves 21–27 recorded 83 of its 165 unique in-scope
-   selections, and the next is Toni Morrison's Nobel lecture, followed by John
-   Updike, Philip Roth, Philip K. Dick, Ursula K. Le Guin and Octavia E. Butler;
-   82 selections remain, with Jhumpa Lahiri and Junot Díaz at the end;
-4. check every provisional date, including the 17 selections still to be dated
-   (11 English, 6 American), and run the plot check of installments 8–9;
+   anthology is under way: waves 21–31 recorded 115 of its 169 in-scope rows as
+   115 works, the largest remaining block being Rita Dove's ten, then Li-Young
+   Lee's five and four each for Joy Harjo, Yusef Komunyakaa and Sherman Alexie;
+   58 works remain, with Jhumpa Lahiri and Junot Díaz at the end;
+4. check every provisional date as its record is built — wave 31 dated the last
+   seventeen undated rows, so none remains — and run the plot check of
+   installments 8–9;
 5. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
@@ -2147,4 +2198,4 @@ the four bad plots, so it gives an order of work, not a filter.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (196 authors, 502 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 249 works by 89 authors; 204 of 255 selections recorded - the English anthology complete at 89, the American at 115 of 165) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 249 works by 89 authors; 204 works recorded against 265 in-scope selections - English 89 of 96, American 115 of 169; 58 remain, none undated) |

@@ -7,10 +7,11 @@ with no memory of the session that produced it. Read this file first, then
 `research/installment_10/report_notes.md` (the research record and the
 outstanding work).
 
-**State at this handover (2026-11-06, wave 30):** installments 1–9 are
+**State at this handover (2026-11-06, wave 31):** installments 1–9 are
 complete; installment 10 (1946–2000) is in progress at **249 works by 89
-authors**, with **204 of 255** in-scope Norton selections recorded (the English
-anthology complete at 89, the American at 115 of 165). The database holds **931
+authors**, with **204 works recorded against 265 in-scope Norton selections**
+(English 89 of 96, American 115 of 169), leaving **58 selections, none of them
+undated**. The database holds **931
 authors, 3,093 works, 704 sources, 2,432 editions**. `python3
 scripts/i10_state.py` prints these figures from the audit's own coverage matrix,
 so they cannot drift from it.
@@ -155,13 +156,19 @@ Next in Norton's order (American anthology), from
 | Joy Harjo | 4 | |
 | Yusef Komunyakaa | 4 | |
 | Sherman Alexie | 4 | |
+| Louise Bennett | 3 | all *Jamaica Labrish*, 1966 |
 | Simon J. Ortiz | 3 | |
 | Louise Glück | 3 | |
 
-51 selections remain: 21 authors, of whom 10 have a single selection. 17
-selections are still undated (11 English, 6 American) and decide whether five
-more authors are in the period at all. The English anthology is complete for
-the period (89 of 89 unique selections).
+58 selections remain across 26 authors, of whom 13 have a single selection. Wave
+31 settled every remaining undated row: ten rows left the period (Cusk, three of
+Armitage's, three of Herrera's, Trethewey's, Hill's and Brathwaite's) and seven
+came into it (Smith's "Pretty", Bennett's three, Armitage's "The Tyre", and two
+Herrera poems), so no selection is now undated. Brathwaite's "[On Sycorax Video
+Style]" was **moved back into the period** (1999) on evidence that the earlier
+pass had misread, and is the only row left of the English anthology's 96.
+Two Herrera poems were recovered the same way: "Exiles" and "Literary Asylums"
+both date from *Exiles of Desire* (1983), not from the 2008 selected volume.
 
 **Batch the small authors.** Waves 21–28 averaged about nine minutes of wall
 clock each, and almost all of it was research and prose, not machinery. The

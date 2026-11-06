@@ -1,6 +1,6 @@
 # Database Statistics
 
-Generated: 2026-11-06 15:27
+Generated: 2026-11-06 15:40
 
 ## Totals
 
@@ -13,7 +13,7 @@ Generated: 2026-11-06 15:27
 | Movements | 179 |
 | Genres | 370 |
 | Themes | 203 |
-| Sources | 704 |
+| Sources | 713 |
 | Editions recorded | 2432 |
 | Author influence links | 1952 |
 

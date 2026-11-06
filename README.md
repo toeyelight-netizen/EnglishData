@@ -25,7 +25,7 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 249 works by 89 authors; 204 of 255 selections recorded - the English anthology complete at 89, the American at 115 of 165) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (Norton anthologies: 249 works by 89 authors; 204 works recorded against 265 in-scope selections - English 89 of 96, American 115 of 169; 58 remain, none undated) |
 
 Cumulative totals: **913 authors, 3061 works** (147 anonymous), 10 periods, 179
 movements, 370 genres, 203 themes, 656 sources, 2432 recorded editions.
@@ -73,8 +73,8 @@ most of it is still to do.**
   Philip Roth, Philip K. Dick, Ursula K. Le Guin, Octavia E. Butler, Amiri
   Baraka, N. Scott Momaday, Mary Oliver, Lucille Clifton, Don DeLillo, Thomas
   Pynchon, Raymond Carver, Toni Cade Bambara, Maxine Hong Kingston, Leslie
-  Marmon Silko, Ishmael Reed and Richard Rodriguez. 204 of the 255 selections
-  in the period are recorded so far.
+  Marmon Silko, Ishmael Reed and Richard Rodriguez. 204 works are recorded against
+  the 265 selections in the period, leaving 58; every row is now dated.
   The measured state, the eight audits, the corrections made to installments
   8–9 and the exact stopping point are in
   [documentation/INSTALLMENT_10_AUDIT_REPORT.md](documentation/INSTALLMENT_10_AUDIT_REPORT.md).
