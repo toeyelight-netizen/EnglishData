@@ -4,8 +4,8 @@ Pilot of the strict installment-10 record standard. Sources consulted for every
 record are cited per record; dates and bibliography were cross-checked across
 Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia, and the
 National Book Award and bestseller listing against the Post45 datasets.
-Trading Twelves (2000), co-written with Albert Murray, is deferred until Murray's
-author record exists, so that the book is not attributed to Ellison alone.
+Trading Twelves (2000), the Ellison-Murray correspondence, is recorded in wave 04
+with Murray as co-author, once Murray's author record existed.
 """
 
 import os
@@ -30,7 +30,7 @@ A10("Ralph Ellison", MAJ, "1913", "1994", "Oklahoma City, Oklahoma, United State
   "Race and visibility in American democracy; identity as improvisation; the folk and vernacular sources of art; jazz and the blues as models of discipline and freedom; the American nation as a mixed, unfinished culture.",
   "Ellison stands with Richard Wright and James Baldwin among the defining African American writers of the mid-twentieth century; Invisible Man was voted the most important American novel since the Second World War in a 1965 Book Week poll, and his essays shaped later arguments about the relation between Black culture and American identity.",
   bib_status="substantially complete",
-  bib_note="Bibliography status, 1946-2000: substantially complete. Recorded as works: Invisible Man (1952), Shadow and Act (1964), Going to the Territory (1986), The Collected Essays of Ralph Ellison (1995, posthumous), Flying Home and Other Stories (1996, posthumous) and Juneteenth (1999, posthumous). Not yet recorded: Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray (2000), deferred until Albert Murray's author record exists so that the letters are not attributed to Ellison alone; uncollected periodical pieces, including the excerpts from the unfinished second novel published in magazines between 1960 and 1977, are not individually recorded. Outside the period: Living with Music (2002), Three Days Before the Shooting... (2010) and The Selected Letters (2019). Checked against Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia.",
+  bib_note="Bibliography status, 1946-2000: substantially complete. Recorded as works: Invisible Man (1952), Shadow and Act (1964), Going to the Territory (1986), The Collected Essays of Ralph Ellison (1995, posthumous), Flying Home and Other Stories (1996, posthumous) and Juneteenth (1999, posthumous). Also recorded (installment 10, wave 04): Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray (2000, posthumous for Ellison), with Albert Murray as co-author and co-editor. Not individually recorded: uncollected periodical pieces, including the excerpts from the unfinished second novel published in magazines between 1960 and 1977, are not individually recorded. Outside the period: Living with Music (2002), Three Days Before the Shooting... (2010) and The Selected Letters (2019). Checked against Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia.",
   ver="verified", sources=[WIKI, GALE, NWE, PRIZES],
   infl=["Richard Wright", "T. S. Eliot", "Ernest Hemingway", "William Faulkner", "Fyodor Dostoevsky", "André Malraux", "Kenneth Burke"],
   alt=["Ralph Waldo Ellison"],

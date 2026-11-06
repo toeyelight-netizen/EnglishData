@@ -29,7 +29,93 @@
   "biographical_uncertainty": "Birth year: Wikipedia and the New World Encyclopedia give 1 March 1913; the Gale entries reproduced by Encyclopedia.com give 1914, the year found in many older references. 1913 is recorded here.",
   "research_status": "complete",
   "significance_tier": "Major / canonical",
-  "bibliographical_notes": "Bibliography status, 1946-2000: substantially complete. Recorded as works: Invisible Man (1952), Shadow and Act (1964), Going to the Territory (1986), The Collected Essays of Ralph Ellison (1995, posthumous), Flying Home and Other Stories (1996, posthumous) and Juneteenth (1999, posthumous). Not yet recorded: Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray (2000), deferred until Albert Murray's author record exists so that the letters are not attributed to Ellison alone; uncollected periodical pieces, including the excerpts from the unfinished second novel published in magazines between 1960 and 1977, are not individually recorded. Outside the period: Living with Music (2002), Three Days Before the Shooting... (2010) and The Selected Letters (2019). Checked against Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia.",
+  "bibliographical_notes": "Bibliography status, 1946-2000: substantially complete. Recorded as works: Invisible Man (1952), Shadow and Act (1964), Going to the Territory (1986), The Collected Essays of Ralph Ellison (1995, posthumous), Flying Home and Other Stories (1996, posthumous) and Juneteenth (1999, posthumous). Also recorded (installment 10, wave 04): Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray (2000, posthumous for Ellison), with Albert Murray as co-author and co-editor. Not individually recorded: uncollected periodical pieces, including the excerpts from the unfinished second novel published in magazines between 1960 and 1977, are not individually recorded. Outside the period: Living with Music (2002), Three Days Before the Shooting... (2010) and The Selected Letters (2019). Checked against Wikipedia, Encyclopedia.com (Gale) and the New World Encyclopedia.",
+  "bibliography_status": "substantially complete",
+  "verification_status": "verified"
+ },
+ {
+  "full_name": "Philip Larkin",
+  "alternative_names": [
+   "Philip Arthur Larkin"
+  ],
+  "pseudonyms": [
+   "Brunette Coleman"
+  ],
+  "birth_date": "1922",
+  "birth_date_approximate": false,
+  "death_date": "1985",
+  "death_date_approximate": false,
+  "birthplace": "Coventry, Warwickshire, England",
+  "nationality_or_literary_tradition": "English; British poet, novelist, jazz critic and university librarian",
+  "literary_identity": "Poet, novelist and librarian; the most widely read English poet of the post-war decades and the central poet of the Movement of the 1950s.",
+  "biography": "Philip Arthur Larkin was born in Coventry on 9 August 1922 and read English at St John's College, Oxford, where he began a lifelong friendship with Kingsley Amis. He became a librarian, first at Wellington in Shropshire, then as assistant librarian at University College, Leicester, from 1946, sub-librarian at Queen's University, Belfast, from 1950, and from March 1955 Librarian of the University of Hull, the post he held for the rest of his life. His first book of poems, The North Ship (1945), was followed by two novels, Jill (1946) and A Girl in Winter (1947). After a privately printed pamphlet, XX Poems (1951), The Less Deceived (1955) made his reputation, and The Whitsun Weddings (1964) and High Windows (1974) confirmed him as the leading English poet of his generation. He reviewed jazz records for the Daily Telegraph, edited The Oxford Book of Twentieth-Century English Verse (1973) and chaired the Booker Prize judges in 1977. He died of cancer in Hull on 2 December 1985. His Collected Poems (1988), Selected Letters (1992) and Andrew Motion's biography (1993) transformed his posthumous reputation.",
+  "literary_profile": "Larkin's reputation rests on three mature collections of formally exact, colloquial and ironic poems about ordinary lives, love, ageing and death, together with two early novels, jazz criticism and a small body of essays.",
+  "stylistic_characteristics": "Traditional stanzas and rhyme handled with conversational ease; plain, precise diction that rises in closing lines to lyrical or visionary images; irony, self-deprecation and bleak comedy; the persona of an unillusioned provincial observer.",
+  "intellectual_concerns": "Mortality and the fear of death; the gap between expectation and experience; love, marriage and solitude; time and ageing; English towns, landscape and customs; the decline of religious belief and what might replace it.",
+  "historical_significance": "Larkin is widely regarded as the foremost English poet of the second half of the twentieth century. His rejection of modernist difficulty in favour of a tradition descending from Thomas Hardy shaped the Movement and much later British poetry, while the posthumous letters and biography opened a lasting debate about his views on race and women.",
+  "major_influences": [
+   "Thomas Hardy",
+   "W. B. Yeats"
+  ],
+  "biographical_uncertainty": null,
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Bibliography status, 1946-2000: substantially complete. Recorded as works: Jill (1946), A Girl in Winter (1947), XX Poems (1951), The Less Deceived (1955), The Whitsun Weddings (1964), All What Jazz (1970), The Oxford Book of Twentieth-Century English Verse (1973, editor), High Windows (1974), Aubade (1977), Required Writing (1983), Collected Poems (1988, posthumous) and Selected Letters of Philip Larkin, 1940-1985 (1992, posthumous). Not recorded: The Fantasy Poets No. 21 (Fantasy Press, 1954), a pamphlet whose contents have not been verified; uncollected reviews, introductions and broadcasts. Outside the period: The North Ship (1945), which belongs to the 1901-1945 window but is not yet in the database; Trouble at Willow Gables and Other Fictions (2002), Letters to Monica (2010) and The Complete Poems (2012). Checked against Wikipedia (via Wikiwand), EBSCO Research Starters, the New World Encyclopedia and the Sogang University Larkin page.",
+  "bibliography_status": "substantially complete",
+  "verification_status": "verified"
+ },
+ {
+  "full_name": "Lorraine Hansberry",
+  "alternative_names": [
+   "Lorraine Vivian Hansberry"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1930",
+  "birth_date_approximate": false,
+  "death_date": "1965",
+  "death_date_approximate": false,
+  "birthplace": "Chicago, Illinois, United States",
+  "nationality_or_literary_tradition": "American; African American playwright, essayist and civil rights activist",
+  "literary_identity": "Playwright and activist; author of A Raisin in the Sun (1959), the first play by an African American woman to be produced on Broadway.",
+  "biography": "Lorraine Vivian Hansberry was born in Chicago on 19 May 1930, the youngest child of a prominent African American family. When her father bought a house in the white neighbourhood of Woodlawn, the family faced a hostile reception and a legal battle over racially restrictive covenants that reached the United States Supreme Court, an experience that later shaped A Raisin in the Sun. She studied at the University of Wisconsin from 1948, left in 1950 for New York, and worked as a staff writer and then associate editor on Paul Robeson's newspaper Freedom (1951-53); in 1952 she represented Robeson at a peace congress in Montevideo. She married the songwriter and producer Robert Nemiroff in 1953; they divorced in 1964, though he remained her collaborator and literary executor. A Raisin in the Sun opened on Broadway in March 1959 and won the New York Drama Critics' Circle Award. Her second play, The Sign in Sidney Brustein's Window, opened in 1964. She was diagnosed with pancreatic cancer in 1963 and died in New York on 12 January 1965, aged thirty-four. Nemiroff later adapted To Be Young, Gifted and Black (1969) from her writings and completed and published her last plays.",
+  "literary_profile": "Hansberry's few finished plays brought working-class African American family life to the centre of the American stage and joined it to a wider politics of civil rights, anti-colonialism, feminism and intellectual commitment.",
+  "stylistic_characteristics": "Realist family drama with naturalistic, humorous dialogue that carries political argument; vivid, many-sided characters; symbolic objects and gestures; in the later plays a move towards the drama of ideas and fable.",
+  "intellectual_concerns": "Housing segregation and racial discrimination; the American Dream and its costs; the dignity of working-class Black families; African independence and colonialism; the responsibility of intellectuals to commit themselves; women's independence.",
+  "historical_significance": "A Raisin in the Sun is ranked among the classics of American drama and opened Broadway to Black playwrights, directors and audiences; Hansberry's essays, letters and late plays have made her an important figure in the histories of the civil rights movement, Black feminism and lesbian writing.",
+  "major_influences": [
+   "Langston Hughes"
+  ],
+  "biographical_uncertainty": "Her letters to the lesbian magazine The Ladder in the late 1950s were published anonymously and attributed to her later; the AmericanLiterature.com profile reports them, and the attribution is widely accepted.",
+  "research_status": "complete",
+  "significance_tier": "Major / canonical",
+  "bibliographical_notes": "Bibliography status, 1946-2000: substantially complete for plays and books. Recorded as works: A Raisin in the Sun (1959), The Sign in Sidney Brustein's Window (staged 1964, published 1965), The Movement: Documentary of a Struggle for Equality (1964), To Be Young, Gifted and Black (1969, adapted by Robert Nemiroff), Les Blancs (staged 1970, completed by Nemiroff), The Drinking Gourd (written 1960) and What Use Are Flowers? (both published posthumously in 1972). Not individually recorded: her journalism for Freedom (1951-55); essays and speeches such as 'On Summer' and 'The Negro Writer and His Roots'; her screenplay for the 1961 film of A Raisin in the Sun; letters published anonymously in The Ladder in the late 1950s; unfinished works. Checked against Britannica, Gale (via Encyclopedia.com) and other references listed with each record.",
+  "bibliography_status": "substantially complete",
+  "verification_status": "verified"
+ },
+ {
+  "full_name": "Albert Murray",
+  "alternative_names": [
+   "Albert Lee Murray",
+   "Albert L. Murray"
+  ],
+  "pseudonyms": [],
+  "birth_date": "1916",
+  "birth_date_approximate": false,
+  "death_date": "2013",
+  "death_date_approximate": false,
+  "birthplace": "Nokomis, Alabama, United States",
+  "nationality_or_literary_tradition": "American; African American novelist, essayist, biographer and jazz critic",
+  "literary_identity": "Novelist, essayist and jazz critic; theorist of the blues as the basis of American culture and author of the four Scooter novels.",
+  "biography": "Albert Lee Murray was born in Nokomis, Alabama, on 12 May 1916 and was adopted and raised in Magazine Point, on the outskirts of Mobile. He graduated from Tuskegee Institute in 1939, taught there, and served in the Army Air Forces during the Second World War. He took an MA at New York University in 1948 and studied at the Sorbonne in 1950, then returned to active duty in 1951 and retired from the US Air Force as a major in 1962. He settled in Harlem and published essays in magazines before collecting them as The Omni-Americans (1970), which was followed by a travel memoir, critical lectures, four novels about a boy called Scooter and several books on jazz, including the as-told-to autobiography of Count Basie. He taught at Barnard College in 1981-83 and held visiting posts elsewhere; his ideas influenced the critic Stanley Crouch and the trumpeter Wynton Marsalis, with whom he co-founded the programme that became Jazz at Lincoln Center in the 1980s. The National Book Critics Circle gave him its lifetime achievement award in 1996. He died in Harlem on 18 August 2013, aged ninety-seven.",
+  "literary_profile": "Murray's essays, fiction and jazz writing argue that American culture is fundamentally a blend of Black and white traditions and that the blues and jazz provide a model of heroic improvisation in the face of adversity.",
+  "stylistic_characteristics": "Densely allusive, rhythmic prose modelled on jazz and blues forms; first-person narration rich in vernacular storytelling; essays that mix literary, anthropological and musical analysis with polemic.",
+  "intellectual_concerns": "The blues as an art of confronting adversity; the hybrid, 'Omni-American' character of national culture; heroism and improvisation; critique of social-science and protest images of Black life; Southern memory and education.",
+  "historical_significance": "Murray was a central voice in the long argument against protest fiction and Black separatism, and his writing on the blues and jazz shaped the institutional revival of jazz in the United States from the 1980s onwards.",
+  "major_influences": [],
+  "biographical_uncertainty": null,
+  "research_status": "complete",
+  "significance_tier": "Significant / secondary",
+  "bibliographical_notes": "Bibliography status, 1946-2000: substantially complete. Recorded as works: The Omni-Americans (1970), South to a Very Old Place (1971), The Hero and the Blues (1973), Train Whistle Guitar (1974), Stomping the Blues (1976), Good Morning Blues: The Autobiography of Count Basie (1985, as-told-to collaborator), The Spyglass Tree (1991), The Seven League Boots (1996), The Blue Devils of Nada (1996) and Trading Twelves (2000, co-edited correspondence with Ralph Ellison, recorded under Ellison with Murray as co-author). Unresolved: Reflections on Logic, Politics, and Reality: A Challenge to the Sacred Consensus of Contemporary American Thinking (Braimanna, 1989) appears in the Gale Contemporary Literary Criticism bibliography and in the Alabama Authors database, but its attribution to this Albert Murray has not been independently confirmed, so it has no work record. Not individually recorded: uncollected magazine essays and reviews. Outside the period: Conjugations and Reiterations (2001), From the Briarpatch File (2001), Murray Talks Music (2016) and the Library of America collected editions.",
   "bibliography_status": "substantially complete",
   "verification_status": "verified"
  }

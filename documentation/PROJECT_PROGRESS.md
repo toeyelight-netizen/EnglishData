@@ -5,15 +5,16 @@ installment. The master database is cumulative: `database/English_Literature_Mas
 
 ## Protocol state
 
-- Current schema revision (Alembic): `e4f5a6b7c8d9` (initial schema + FTS5 +
+- Current schema revision (Alembic): `f5a6b7c8d9e0` (initial schema + FTS5 +
   work detail columns + author `significance_tier` + author
-  `bibliographical_notes`).
-- Current position: installments 1–9 are imported, plus the installment 10
-  pilot, giving **848 authors / 2846 works** across ten periods (c. 450–2000).
+  `bibliographical_notes` + the installment 10 verification and bibliography
+  columns).
+- Current position: installments 1–9 are imported, plus installment 10
+  waves 01–04, giving **851 authors / 2875 works** across ten periods (c. 450–2000).
   Installments 8 and 9 are complete: they pass validation, and their close-out
   (statistics, exports, Android asset) was run on 2026-11-06. See
   *Installments 8–9: enrichment and quality pass* at the end of this file.
-  **Installment 10 is in progress.** Only the pilot wave is built; see
+  **Installment 10 is in progress.** Four research waves are built; see
   *Installment 10* below and `documentation/INSTALLMENT_10_AUDIT_REPORT.md`.
 - 2026-11-05: the master database was rebuilt from the committed JSON
   (`alembic upgrade head`, then `scripts/import_data.py`) after a workspace
@@ -1508,7 +1509,7 @@ Chronicle**. See *Installments 8–9: enrichment and quality pass*.
 
 ## Installment 10 — Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000)
 
-**Status: in progress. Only the pilot wave is built. Not complete.**
+**Status: in progress. Waves 01–04 are built (4 authors, 35 works). Not complete.**
 Revision order of 2026-11-06 ("exhaustive completion, research, and multi-stage
 audit").
 
@@ -1559,8 +1560,9 @@ with broader Anglophone writing out of scope.
   `data/*/installment_10_*.json`. Eight genre names were changed to avoid
   colliding with earlier installments.
 - **Discovery baseline.** `scripts/i10_discovery.py` writes
-  `research/installment_10/discovery_inventory.csv`: 5617 candidate authors from
-  the peer-reviewed Post45 datasets, with decades, priority tiers, evidence and
+  `research/installment_10/discovery_inventory.csv`: 5706 candidate authors from
+  the peer-reviewed Post45 datasets and curated prize lists in
+  `research/installment_10/lists/` (so far the Booker Prize, 1969–2000), with decades, priority tiers, evidence and
   Wikidata, VIAF and LCCN identifiers. Joint credits are split, name typos
   corrected and pre-1946 reprints dropped.
 - **Audit and report.** `scripts/audit_installment_10.py` regenerates
@@ -1569,15 +1571,29 @@ with broader Anglophone writing out of scope.
   report's method, corrections, limitations and stopping-point text comes from
   `research/installment_10/report_notes.md`.
 
-**Waves.** Wave 01 (pilot) is Ralph Ellison's 1946–2000 bibliography: six works,
-each built, imported and audited. *Trading Twelves* is deferred until Albert
-Murray's author record exists.
+**Waves.** Each wave is built, imported and audited before the next starts.
+- **Wave 01 (pilot):** Ralph Ellison, seven works. They include *Trading Twelves*
+  (2000), recorded in wave 04 with Albert Murray as co-author.
+- **Wave 02:** Philip Larkin, twelve works: the two novels, the four collections
+  from *XX Poems* to *High Windows*, "Aubade", the prose, the Oxford anthology
+  (as editor), and the posthumous *Collected Poems* and *Selected Letters*.
+- **Wave 03:** Lorraine Hansberry, seven works, including the posthumous works
+  completed or adapted by Robert Nemiroff.
+- **Wave 04:** Albert Murray, nine works under his own name: essays, the first
+  three Scooter novels, jazz writing, and Count Basie's autobiography, with
+  Murray as as-told-to collaborator.
+
+None of the wave 02–04 authors was in the discovery inventory. This is evidence
+that the inventory under-represents poetry, drama and criticism; see the
+limitations in the audit report.
 
 **Stopping point.** The ordered list of outstanding tasks is in
 `research/installment_10/report_notes.md`:
-1. compile the British, Irish and Commonwealth inventories;
+1. compile the poetry, drama and Commonwealth inventories (the Booker list is
+   done);
 2. build waves by decade × tradition × genre;
-3. add post-war works for authors already in the database;
+3. add post-war works for authors already in the database, once the method for
+   extending their records is settled (Orwell first);
 4. run Audits 3 and 8 and regenerate the report.
 
 | # | Period | Status |
@@ -1591,4 +1607,4 @@ Murray's author record exists.
 | 7 | Romantic, British and American (c. 1789–1832) | Complete |
 | 8 | Victorian and American nineteenth century (1832–1901) | Complete (233 authors, 887 works) |
 | 9 | Edwardian–Interwar, British and American (1901–1945) | Complete (197 authors, 498 works) |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (pilot wave: 1 author, 6 works) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–04: 4 authors, 35 works) |

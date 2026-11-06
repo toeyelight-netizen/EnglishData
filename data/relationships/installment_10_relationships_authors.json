@@ -1,9 +1,63 @@
 {
  "author_genres": [
   {
+   "author": "Albert Murray",
+   "genres": [
+    "Autobiographical Novel",
+    "Autobiography",
+    "Bildungsroman",
+    "Collected Letters",
+    "Cultural Criticism",
+    "Cultural History",
+    "Literary Criticism",
+    "Literary Essay",
+    "Literary Novel",
+    "Literary Theory",
+    "Memoir",
+    "Social Criticism",
+    "Travel Writing"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "genres": [
+    "Domestic Drama",
+    "Full-Length Play",
+    "Historical Drama",
+    "Hybrid Forms",
+    "Memoir",
+    "Modern Tragedy",
+    "One-Act Play",
+    "Political Essay",
+    "Political Publication",
+    "Political Theatre",
+    "Social Realist Drama",
+    "Television Drama"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "genres": [
+    "Anthology",
+    "Bildungsroman",
+    "Campus Novel",
+    "Collected Letters",
+    "Cultural Criticism",
+    "Elegiac Poetry",
+    "Formal Verse",
+    "Literary Criticism",
+    "Literary Essay",
+    "Literary Journalism",
+    "Literary Novel",
+    "Lyric Poetry",
+    "Psychological Novel"
+   ]
+  },
+  {
    "author": "Ralph Ellison",
    "genres": [
     "Bildungsroman",
+    "Collected Letters",
     "Cultural Criticism",
     "Literary Criticism",
     "Literary Essay",
@@ -16,6 +70,24 @@
  ],
  "author_movements": [
   {
+   "author": "Albert Murray",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
    "author": "Ralph Ellison",
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
@@ -23,6 +95,61 @@
   }
  ],
  "author_themes": [
+  {
+   "author": "Albert Murray",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Myth, folklore and the supernatural",
+    "Nationhood and national identity",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Decolonisation, the end of empire and the new nation",
+    "Education, institutions and the academy",
+    "Family, marriage and domestic life",
+    "Gender, feminism and women's lives",
+    "History, truth and the uses of the past",
+    "Identity, authenticity and the divided self",
+    "Power, the state and surveillance",
+    "Race, racism and the struggle for civil rights",
+    "Sexuality, desire and the closet",
+    "The Cold War, nuclear threat and the bomb",
+    "Utopia, dystopia and imagined futures",
+    "Violence, crime and justice"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Art, the artist and the creative life",
+    "Class, labour and social mobility",
+    "Death, illness and mourning",
+    "Education, institutions and the academy",
+    "Faith, doubt and the sacred",
+    "Family, marriage and domestic life",
+    "Identity, authenticity and the divided self",
+    "Land, place and regional belonging",
+    "Love, intimacy and loss",
+    "Migration, exile and diaspora",
+    "Nationhood and national identity",
+    "Nature, ecology and environmental crisis",
+    "Sexuality, desire and the closet",
+    "Technology, media and consumer society",
+    "The city, the suburb and modern space"
+   ]
+  },
   {
    "author": "Ralph Ellison",
    "themes": [
@@ -47,6 +174,19 @@
     "Ernest Hemingway",
     "William Faulkner"
    ]
+  },
+  {
+   "author": "Philip Larkin",
+   "influenced_by": [
+    "Thomas Hardy",
+    "W. B. Yeats"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "influenced_by": [
+    "Langston Hughes"
+   ]
   }
  ],
  "author_sources": [
@@ -57,6 +197,41 @@
     "Ralph Ellison (Encyclopedia.com, compiling Gale's Contemporary Authors and Contemporary Black Biography)",
     "Ralph Ellison (New World Encyclopedia)",
     "Ralph Ellison (Wikipedia)"
+   ]
+  },
+  {
+   "author": "Philip Larkin",
+   "sources": [
+    "Aubade (The Philip Larkin Society, philiplarkin.com)",
+    "Critical opinions (1): Larkin and the difficult subject (Gale Literature Resource Center)",
+    "List of winners and nominated authors of the Booker Prize (Wikipedia)",
+    "Philip Larkin (EBSCO Research Starters)",
+    "Philip Larkin (New World Encyclopedia)",
+    "Philip Larkin (Wikipedia, via Wikiwand)",
+    "Without Metaphysics: The Poetry of Philip Larkin (Sogang University academic page)"
+   ]
+  },
+  {
+   "author": "Lorraine Hansberry",
+   "sources": [
+    "Hansberry, Lorraine 1930-1965 (Encyclopedia.com, Gale entry with Leonard R. N. Ashley's 1990 essay)",
+    "Hansberry, Lorraine: Introduction (Encyclopedia.com, Gale literary criticism entry)",
+    "Les blancs: the collected last plays of Lorraine Hansberry (Internet Archive catalogue record)",
+    "Lorraine Hansberry (AmericanLiterature.com)",
+    "Lorraine Hansberry (Encyclopaedia Britannica)",
+    "Lorraine Hansberry (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Lorraine Hansberry Biography (Chicago Public Library)"
+   ]
+  },
+  {
+   "author": "Albert Murray",
+   "sources": [
+    "Albert L. Murray (Encyclopedia.com, compiling Gale's Contemporary Black Biography)",
+    "Albert Murray (EBSCO Research Starters)",
+    "Albert Murray (LibraryThing author page)",
+    "Albert Murray obituary (The Guardian, 23 August 2013)",
+    "Murray, Albert (Alabama Authors database)",
+    "Murray, Albert 1916- (Encyclopedia.com, compiling Gale's Contemporary Literary Criticism)"
    ]
   }
  ]

@@ -336,8 +336,9 @@ def main():
     L("")
     p1_missing = sorted([c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10"], key=lambda c: -int(c["evidence_count"]))
     L("Top P1 candidates not yet in installment 10 (by amount of evidence): " + "; ".join("%s (%s)" % (c["author"], c["evidence_count"]) for c in p1_missing[:60]) + ".\n")
-    L("Known gaps of the baseline itself: British writing before 1990, and the Canadian, Australian, New Zealand, Caribbean, African and South Asian literatures, "
-      "are not covered by the Post45 datasets and must be inventoried from other sources (see limitations).\n")
+    L("Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered only by the Booker Prize record "
+      "(winners and shortlists 1969–2000) and the Post45 British prize data (1990–2000). British and Commonwealth poetry, drama, "
+      "genre and children's writing, and all such writing before 1969, still need inventories from other sources (see limitations).\n")
     crit_present = [c for c in CRITICS if fold(c) in db_names]
     L("Part VII critics checklist: %d of %d named critics and theorists have author records (%s); missing: %s.\n"
       % (len(crit_present), len(CRITICS), ", ".join(crit_present) or "none", ", ".join(c for c in CRITICS if c not in crit_present)))

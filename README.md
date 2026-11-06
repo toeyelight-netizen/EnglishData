@@ -21,10 +21,10 @@ or deletes earlier data.
 | 7 | Romantic, British and American (1789–1832) | **Complete** |
 | 8 | Victorian, British and American (1832–1901) | **Complete** |
 | 9 | Edwardian, Georgian and Modernist, British and American (1901–1945) | **Complete** |
-| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (pilot wave: 1 author, 6 works) |
+| 10 | Postwar and Contemporary: British, Irish, American and Anglophone (1946–2000) | In progress (waves 01–04: 4 authors, 35 works) |
 
-Cumulative totals: **848 authors, 2846 works** (147 anonymous), 10 periods, 179
-movements, 370 genres, 203 themes, 346 sources, 2432 recorded editions.
+Cumulative totals: **851 authors, 2875 works** (147 anonymous), 10 periods, 179
+movements, 370 genres, 203 themes, 367 sources, 2432 recorded editions.
 
 Installment 8 contributed **233 authors and 887 works** to the Victorian period
 (1832–1901), with both a British and an American strand. It runs from the
@@ -37,17 +37,18 @@ Galsworthy and Forster through Joyce, Woolf, Eliot, Lawrence and the war poets
 to Auden and Orwell, and in America from the Harlem Renaissance to Hemingway,
 Faulkner and Steinbeck.
 
-Installment 10 (1946–2000, with 1951–2000 as the core) is **in progress, and only
-its pilot wave has been built.**
+Installment 10 (1946–2000, with 1951–2000 as the core) is **in progress: four research
+waves have been built, and most of the period is still to do.**
 - **Scope (widened on 2026-11-06).** British, Irish and American literature,
   plus the English-language literatures of Canada, Australia, New Zealand, the
   Caribbean, Africa and South Asia, and their diasporas.
 - **Record standard.** A strict, template-free build: every work has a
   seven-part description, a bibliography status, a verification status and the
   sources actually consulted.
-- **Baseline.** A discovery inventory of 5617 candidate authors, drawn from
-  peer-reviewed Post45 datasets.
-- **Current state.** The pilot wave is Ralph Ellison's six books. The measured
+- **Baseline.** A discovery inventory of 5706 candidate authors, drawn from
+  peer-reviewed Post45 datasets and the Booker Prize record (1969–2000).
+- **Current state.** Waves 01–04 cover Ralph Ellison, Philip Larkin, Lorraine
+  Hansberry and Albert Murray (35 works). The measured
   state, the eight audits and the exact stopping point are in
   [documentation/INSTALLMENT_10_AUDIT_REPORT.md](documentation/INSTALLMENT_10_AUDIT_REPORT.md).
 

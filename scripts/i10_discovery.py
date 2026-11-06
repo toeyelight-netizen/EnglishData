@@ -65,6 +65,15 @@ NAME_FIXES = {"Step hen King": "Stephen King"}
 PRE_PERIOD = {"Guy de Maupassant", "Jean de la Fontaine", "Abbe de Brantome"}
 
 
+CURATED = {
+    "booker_prize_1969_2000.csv": {
+        "label": "Booker Prize", "dataset": "booker", "hint": "UK/Commonwealth/Irish",
+        "priority": {"winner": 1, "shortlist": 1, "lost_booker_winner": 1, "lost_booker_shortlist": 1,
+                     "lost_booker_longlist": 2},
+    },
+}
+
+
 def split_credit(name):
     """Split joint credits ('X and Y', 'X with Y', 'written and illustrated by X and Y')."""
     name = NAME_FIXES.get(name.strip(), name.strip())
@@ -193,6 +202,17 @@ def main():
         if len(items) >= 10:
             for a, y, t in items:
                 add(a, y, "speculative novel: %s" % t, "speculative", 3, "SF/fantasy/horror")
+
+    # Curated lists transcribed from cited sources (research/installment_10/lists/*.csv;
+    # each list's source is recorded in data/sources/installment_10_sources.json).
+    for fname, spec in CURATED.items():
+        path = os.path.join(ROOT, "research", "installment_10", "lists", fname)
+        if not os.path.exists(path):
+            print("curated list missing: %s" % fname)
+            continue
+        for r in csv.DictReader(open(path, encoding="utf-8")):
+            add(r["author"], year(r["year"]), "%s %s: %s" % (spec["label"], r["role"].replace("_", " "), r["title"]),
+                spec["dataset"], spec["priority"].get(r["role"], 2), spec["hint"])
 
     dead = pre_period_db_authors()
     dropped = sorted(k for k in inv if k in dead)

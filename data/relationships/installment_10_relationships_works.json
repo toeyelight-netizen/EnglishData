@@ -29,6 +29,156 @@
    "work": "Juneteenth",
    "author": "Ralph Ellison",
    "contribution_type": "author"
+  },
+  {
+   "work": "Jill",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Girl in Winter",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "XX Poems",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Less Deceived",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "All What Jazz: A Record Diary",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Oxford Book of Twentieth-Century English Verse",
+   "author": "Philip Larkin",
+   "contribution_type": "editor"
+  },
+  {
+   "work": "High Windows",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Aubade",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Required Writing: Miscellaneous Pieces 1955-1982",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Collected Poems",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Selected Letters of Philip Larkin, 1940-1985",
+   "author": "Philip Larkin",
+   "contribution_type": "author"
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Sign in Sidney Brustein's Window",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Movement: Documentary of a Struggle for Equality",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "To Be Young, Gifted and Black",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author (texts adapted by Robert Nemiroff)"
+  },
+  {
+   "work": "Les Blancs",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Drinking Gourd",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "What Use Are Flowers?",
+   "author": "Lorraine Hansberry",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Omni-Americans: New Perspectives on Black Experience and American Culture",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "South to a Very Old Place",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Hero and the Blues",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Train Whistle Guitar",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Stomping the Blues",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Good Morning Blues: The Autobiography of Count Basie",
+   "author": "Albert Murray",
+   "contribution_type": "as-told-to collaborator"
+  },
+  {
+   "work": "The Spyglass Tree",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Seven League Boots",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "The Blue Devils of Nada: A Contemporary American Approach to Aesthetic Statement",
+   "author": "Albert Murray",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+   "author": "Ralph Ellison",
+   "contribution_type": "author"
+  },
+  {
+   "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+   "author": "Albert Murray",
+   "contribution_type": "co-author and co-editor"
   }
  ],
  "work_genres": [
@@ -74,6 +224,214 @@
    "genres": [
     "Literary Novel",
     "Political Novel"
+   ]
+  },
+  {
+   "work": "Jill",
+   "genres": [
+    "Literary Novel",
+    "Campus Novel",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "A Girl in Winter",
+   "genres": [
+    "Literary Novel",
+    "Psychological Novel"
+   ]
+  },
+  {
+   "work": "XX Poems",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Less Deceived",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "All What Jazz: A Record Diary",
+   "genres": [
+    "Cultural Criticism",
+    "Literary Journalism"
+   ]
+  },
+  {
+   "work": "The Oxford Book of Twentieth-Century English Verse",
+   "genres": [
+    "Anthology"
+   ]
+  },
+  {
+   "work": "High Windows",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Aubade",
+   "genres": [
+    "Lyric Poetry",
+    "Elegiac Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Required Writing: Miscellaneous Pieces 1955-1982",
+   "genres": [
+    "Literary Essay",
+    "Literary Criticism"
+   ]
+  },
+  {
+   "work": "Collected Poems",
+   "genres": [
+    "Lyric Poetry",
+    "Formal Verse"
+   ]
+  },
+  {
+   "work": "Selected Letters of Philip Larkin, 1940-1985",
+   "genres": [
+    "Collected Letters"
+   ]
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "genres": [
+    "Domestic Drama",
+    "Social Realist Drama",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Sign in Sidney Brustein's Window",
+   "genres": [
+    "Political Theatre",
+    "Social Realist Drama",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Movement: Documentary of a Struggle for Equality",
+   "genres": [
+    "Political Publication",
+    "Political Essay"
+   ]
+  },
+  {
+   "work": "To Be Young, Gifted and Black",
+   "genres": [
+    "Memoir",
+    "Hybrid Forms"
+   ]
+  },
+  {
+   "work": "Les Blancs",
+   "genres": [
+    "Political Theatre",
+    "Modern Tragedy",
+    "Full-Length Play"
+   ]
+  },
+  {
+   "work": "The Drinking Gourd",
+   "genres": [
+    "Television Drama",
+    "Historical Drama"
+   ]
+  },
+  {
+   "work": "What Use Are Flowers?",
+   "genres": [
+    "Television Drama",
+    "One-Act Play"
+   ]
+  },
+  {
+   "work": "The Omni-Americans: New Perspectives on Black Experience and American Culture",
+   "genres": [
+    "Cultural Criticism",
+    "Social Criticism",
+    "Literary Essay"
+   ]
+  },
+  {
+   "work": "South to a Very Old Place",
+   "genres": [
+    "Travel Writing",
+    "Memoir"
+   ]
+  },
+  {
+   "work": "The Hero and the Blues",
+   "genres": [
+    "Literary Theory",
+    "Literary Criticism",
+    "Cultural Criticism"
+   ]
+  },
+  {
+   "work": "Train Whistle Guitar",
+   "genres": [
+    "Literary Novel",
+    "Bildungsroman",
+    "Autobiographical Novel"
+   ]
+  },
+  {
+   "work": "Stomping the Blues",
+   "genres": [
+    "Cultural Criticism",
+    "Cultural History"
+   ]
+  },
+  {
+   "work": "Good Morning Blues: The Autobiography of Count Basie",
+   "genres": [
+    "Autobiography"
+   ]
+  },
+  {
+   "work": "The Spyglass Tree",
+   "genres": [
+    "Literary Novel",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "The Seven League Boots",
+   "genres": [
+    "Literary Novel",
+    "Bildungsroman"
+   ]
+  },
+  {
+   "work": "The Blue Devils of Nada: A Contemporary American Approach to Aesthetic Statement",
+   "genres": [
+    "Literary Essay",
+    "Cultural Criticism",
+    "Literary Theory"
+   ]
+  },
+  {
+   "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+   "genres": [
+    "Collected Letters"
    ]
   }
  ],
@@ -125,6 +483,231 @@
     "Faith, doubt and the sacred",
     "Identity, authenticity and the divided self"
    ]
+  },
+  {
+   "work": "Jill",
+   "themes": [
+    "Class, labour and social mobility",
+    "Education, institutions and the academy",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "A Girl in Winter",
+   "themes": [
+    "Migration, exile and diaspora",
+    "Love, intimacy and loss",
+    "Alienation, absurdity and existential freedom"
+   ]
+  },
+  {
+   "work": "XX Poems",
+   "themes": [
+    "Love, intimacy and loss",
+    "Death, illness and mourning"
+   ]
+  },
+  {
+   "work": "The Less Deceived",
+   "themes": [
+    "Faith, doubt and the sacred",
+    "Death, illness and mourning",
+    "Love, intimacy and loss",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "themes": [
+    "Family, marriage and domestic life",
+    "Land, place and regional belonging",
+    "Death, illness and mourning",
+    "The city, the suburb and modern space"
+   ]
+  },
+  {
+   "work": "All What Jazz: A Record Diary",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Technology, media and consumer society"
+   ]
+  },
+  {
+   "work": "The Oxford Book of Twentieth-Century English Verse",
+   "themes": [
+    "Nationhood and national identity",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "High Windows",
+   "themes": [
+    "Death, illness and mourning",
+    "Sexuality, desire and the closet",
+    "Faith, doubt and the sacred",
+    "Nature, ecology and environmental crisis"
+   ]
+  },
+  {
+   "work": "Aubade",
+   "themes": [
+    "Death, illness and mourning",
+    "Faith, doubt and the sacred"
+   ]
+  },
+  {
+   "work": "Required Writing: Miscellaneous Pieces 1955-1982",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Collected Poems",
+   "themes": [
+    "Death, illness and mourning",
+    "Love, intimacy and loss"
+   ]
+  },
+  {
+   "work": "Selected Letters of Philip Larkin, 1940-1985",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Love, intimacy and loss",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Family, marriage and domestic life",
+    "Class, labour and social mobility",
+    "Gender, feminism and women's lives"
+   ]
+  },
+  {
+   "work": "The Sign in Sidney Brustein's Window",
+   "themes": [
+    "Alienation, absurdity and existential freedom",
+    "Power, the state and surveillance",
+    "Sexuality, desire and the closet"
+   ]
+  },
+  {
+   "work": "The Movement: Documentary of a Struggle for Equality",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Power, the state and surveillance"
+   ]
+  },
+  {
+   "work": "To Be Young, Gifted and Black",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Race, racism and the struggle for civil rights",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Les Blancs",
+   "themes": [
+    "Decolonisation, the end of empire and the new nation",
+    "Violence, crime and justice",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Drinking Gourd",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Violence, crime and justice",
+    "History, truth and the uses of the past"
+   ]
+  },
+  {
+   "work": "What Use Are Flowers?",
+   "themes": [
+    "Utopia, dystopia and imagined futures",
+    "The Cold War, nuclear threat and the bomb",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "The Omni-Americans: New Perspectives on Black Experience and American Culture",
+   "themes": [
+    "Race, racism and the struggle for civil rights",
+    "Nationhood and national identity",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "South to a Very Old Place",
+   "themes": [
+    "Land, place and regional belonging",
+    "History, truth and the uses of the past",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "The Hero and the Blues",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Myth, folklore and the supernatural",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "Train Whistle Guitar",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Race, racism and the struggle for civil rights",
+    "Art, the artist and the creative life"
+   ]
+  },
+  {
+   "work": "Stomping the Blues",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Myth, folklore and the supernatural",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "Good Morning Blues: The Autobiography of Count Basie",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Race, racism and the struggle for civil rights"
+   ]
+  },
+  {
+   "work": "The Spyglass Tree",
+   "themes": [
+    "Childhood, adolescence and coming of age",
+    "Education, institutions and the academy"
+   ]
+  },
+  {
+   "work": "The Seven League Boots",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Identity, authenticity and the divided self"
+   ]
+  },
+  {
+   "work": "The Blue Devils of Nada: A Contemporary American Approach to Aesthetic Statement",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Nationhood and national identity"
+   ]
+  },
+  {
+   "work": "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray",
+   "themes": [
+    "Art, the artist and the creative life",
+    "Race, racism and the struggle for civil rights",
+    "Nationhood and national identity"
+   ]
   }
  ],
  "work_movements": [
@@ -139,6 +722,42 @@
    "movements": [
     "Postwar African American Writing: Protest and Its Critics"
    ]
+  },
+  {
+   "work": "The Less Deceived",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "The Whitsun Weddings",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "High Windows",
+   "movements": [
+    "The Movement"
+   ]
+  },
+  {
+   "work": "A Raisin in the Sun",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Omni-Americans: New Perspectives on Black Experience and American Culture",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
+  },
+  {
+   "work": "The Hero and the Blues",
+   "movements": [
+    "Postwar African American Writing: Protest and Its Critics"
+   ]
   }
  ],
  "work_periods": [
@@ -150,7 +769,36 @@
     "Going to the Territory",
     "The Collected Essays of Ralph Ellison",
     "Flying Home and Other Stories",
-    "Juneteenth"
+    "Juneteenth",
+    "Jill",
+    "A Girl in Winter",
+    "XX Poems",
+    "The Less Deceived",
+    "The Whitsun Weddings",
+    "All What Jazz: A Record Diary",
+    "The Oxford Book of Twentieth-Century English Verse",
+    "High Windows",
+    "Aubade",
+    "Required Writing: Miscellaneous Pieces 1955-1982",
+    "Collected Poems",
+    "Selected Letters of Philip Larkin, 1940-1985",
+    "A Raisin in the Sun",
+    "The Sign in Sidney Brustein's Window",
+    "The Movement: Documentary of a Struggle for Equality",
+    "To Be Young, Gifted and Black",
+    "Les Blancs",
+    "The Drinking Gourd",
+    "What Use Are Flowers?",
+    "The Omni-Americans: New Perspectives on Black Experience and American Culture",
+    "South to a Very Old Place",
+    "The Hero and the Blues",
+    "Train Whistle Guitar",
+    "Stomping the Blues",
+    "Good Morning Blues: The Autobiography of Count Basie",
+    "The Spyglass Tree",
+    "The Seven League Boots",
+    "The Blue Devils of Nada: A Contemporary American Approach to Aesthetic Statement",
+    "Trading Twelves: The Selected Letters of Ralph Ellison and Albert Murray"
    ]
   }
  ]
