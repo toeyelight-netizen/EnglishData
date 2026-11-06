@@ -38,6 +38,26 @@ Curated lists transcribed from cited sources (research/installment_10/lists/):
       publication, not of the series edition); translations are transcribed but
       not used as evidence, and Witchbroom, which a grouped cell gives to Vanessa
       Spence, is credited to Lawrence Scott.
+  sahitya_akademi_award_english_1960_2000.csv   Sahitya Akademi Award for English
+      winners (India), with the book's category, from Wikipedia's list of winners.
+  governor_generals_award_english_fiction_1946_2000.csv   Governor General's Award
+      for English-language fiction (Canada): winners, and the finalists the article
+      gives from 1979. English translations of books written in French, Russian or
+      Czech are transcribed but not used as evidence.
+  miles_franklin_award_1957_2000.csv   Miles Franklin Award winners (Australia);
+      years follow the article (the year of publication to 1987, of the award from
+      1989).
+  pulitzer_prize_drama_1946_2000.csv   Pulitzer Prize for Drama (US): winners, the
+      finalists the table gives from 1983, and the plays the article's notes say a
+      jury shortlisted, recommended, considered or commended (the notes cite Fischer
+      and Fischer, The Pulitzer Prize Archive, 2008). For musicals, composers and the
+      director-choreographer of A Chorus Line are transcribed but not used.
+  queens_gold_medal_poetry_1952_2000.csv   Queen's Gold Medal for Poetry recipients
+      (the article gives no titles).
+  evening_standard_award_best_play_1955_2000.csv   Evening Standard Theatre Award
+      for Best Play (London); the year is 1954 plus the ceremony number, which the
+      article's dated citations bear out. Original authors of plays in translation
+      are transcribed but not used; their translators are P3.
 
 A row is evidence of activity, not an inclusion decision. Priority tiers:
 
@@ -45,19 +65,24 @@ A row is evidence of activity, not an inclusion decision. Priority tiers:
       Laureate/Consultant, Booker, Whitbread Book of the Year, T. S. Eliot,
       Orange, James Tait Black, PEN/Faulkner, Wallace Stevens, Lannan Lifetime;
       Commonwealth Writers' Prize Best Book, overall or regional, and overall
-      Best First Book);
+      Best First Book; Sahitya Akademi Award for English; Governor General's Award
+      for English-language fiction; Miles Franklin; Pulitzer Prize for Drama;
+      Queen's Gold Medal for Poetry; Evening Standard Award for Best Play);
       an Asian American text with 10+ instances of scholarly study; an author
       with 3+ NYT bestsellers 1946-2000
   P2  other prize winners (including regional Commonwealth Best First Book
       winners), British shortlists, one or two bestsellers, Asian American texts
       with 3+ instances of study; an original title in the Heinemann Caribbean
-      Writers Series
+      Writers Series; Governor General's fiction finalists; Pulitzer drama finalists
+      and jury-shortlisted plays, and the book writers and lyricists of winning
+      musicals; the Queen's Gold Medal of a poet in Scottish Gaelic
   P3  NEA fellows, Playboy fiction contributors, speculative-fiction authors with
       10+ novels dated 1946-2000, published Iowa Writers' Workshop graduates and
       authors; African Writers Series editors, contributors, self-translations and
       non-fiction (an original English-language title in the series is P2);
       winners of the Commonwealth Short Story Competition; the editor of the
-      Caribbean series' poetry anthology
+      Caribbean series' poetry anthology; translators of plays that won the
+      Evening Standard Award
 
 Names given surname-first in a dataset ('Walsh, Jill Paton') are turned round before
 matching, so that one author is one candidate whatever the dataset's name order.
@@ -129,6 +154,17 @@ def cwp_hint(r):
     return "%s (Commonwealth Writers' Prize)" % (r["country"] or "country not given")
 
 
+def labelled(label, roles, extra=None):
+    """Evidence text '<label> (<role>[, <extra>]): <title>' with the role spelled out."""
+    def evidence(r):
+        detail = extra(r) if extra else ""
+        role = roles.get(r["role"], r["role"].replace("_", " "))
+        if not r["title"]:
+            return "%s (%s%s)" % (label, role, detail)
+        return "%s (%s%s): %s" % (label, role, detail, r["title"])
+    return evidence
+
+
 CURATED = {
     "booker_prize_1969_2000.csv": {
         "label": "Booker Prize", "dataset": "booker", "hint": "UK/Commonwealth/Irish",
@@ -154,6 +190,49 @@ CURATED = {
         "label": "Heinemann Caribbean Writers Series", "dataset": "cws", "hint": "Caribbean (CWS)",
         "priority": {"original": 2, "editor": 3},
         "skip": {"translation"},
+    },
+    "sahitya_akademi_award_english_1960_2000.csv": {
+        "label": "Sahitya Akademi Award for English", "dataset": "sahitya",
+        "hint": "India (Sahitya Akademi Award)",
+        "priority": {"winner": 1},
+        "evidence": labelled("Sahitya Akademi Award for English", {}, lambda r: ", " + r["category"].lower()),
+    },
+    "governor_generals_award_english_fiction_1946_2000.csv": {
+        "label": "Governor General's Award for English-language fiction", "dataset": "gg_fiction",
+        "hint": "Canada (Governor General's Award)",
+        "priority": {"winner": 1, "finalist": 2},
+        "skip": {"winner_translation", "no_award"},
+        "evidence": labelled("Governor General's Award for English-language fiction", {}),
+    },
+    "miles_franklin_award_1957_2000.csv": {
+        "label": "Miles Franklin Award", "dataset": "miles_franklin", "hint": "Australia (Miles Franklin Award)",
+        "priority": {"winner": 1},
+        "skip": {"withheld"},
+        "evidence": labelled("Miles Franklin Award", {}),
+    },
+    "pulitzer_prize_drama_1946_2000.csv": {
+        "label": "Pulitzer Prize for Drama", "dataset": "pulitzer_drama", "hint": "US (Pulitzer Prize for Drama)",
+        "priority": {"winner": 1, "winner_musical_book_or_lyrics": 2, "finalist": 2, "jury_shortlist": 2},
+        "skip": {"no_award", "winner_musical_composer", "winner_musical_director", "finalist_musical_composer"},
+        "evidence": labelled("Pulitzer Prize for Drama", {
+            "winner_musical_book_or_lyrics": "winning musical, book or lyrics",
+            "jury_shortlist": "shortlisted, recommended or considered by the jury"}),
+    },
+    "queens_gold_medal_poetry_1952_2000.csv": {
+        "label": "Queen's Gold Medal for Poetry", "dataset": "qgm_poetry",
+        "hint": "UK/Commonwealth (Queen's Gold Medal for Poetry)",
+        "priority": {"medal": 1, "medal_gaelic": 2},
+        "evidence": labelled("Queen's Gold Medal for Poetry", {"medal": "recipient",
+                                                                "medal_gaelic": "recipient; a poet in Scottish Gaelic"}),
+    },
+    "evening_standard_award_best_play_1955_2000.csv": {
+        "label": "Evening Standard Theatre Award for Best Play", "dataset": "es_best_play",
+        "hint": "London stage (Evening Standard Theatre Award)",
+        "priority": {"winner": 1, "translator": 3},
+        "skip": {"original_in_translation", "no_award"},
+        "evidence": labelled("Evening Standard Theatre Award for Best Play",
+                             {"translator": "translator of the winning play"},
+                             lambda r: ", ceremony %s" % r["ceremony"]),
     },
 }
 

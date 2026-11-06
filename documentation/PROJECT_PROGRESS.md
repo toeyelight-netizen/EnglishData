@@ -1691,6 +1691,25 @@ other source, and the series 16. The output is identical under three hash seeds.
 Neither list reaches the 1950s and 1960s, so Selvon, like Lamming, is in no
 inventory. `tests/test_discovery.py` checks both lists against the inventory.
 
+**Discovery inventory (2026-11-06, fourth pass).** Six national, poetry and
+drama prize lists were transcribed from Wikipedia's raw wikitext: the Sahitya
+Akademi Award for English (1960–2000, 30 winners), the Governor General's Award
+for English-language fiction (1946–2000; winners, and finalists from 1979; 129
+rows), the Miles Franklin Award (1957–2000, 45 rows), the Pulitzer Prize for
+Drama (1946–2000; winners, finalists from 1983 and the plays its juries
+shortlisted; 178 rows), the Queen's Gold Medal for Poetry (1952–2000, 30
+recipients) and the Evening Standard Award for Best Play (1955–2000, 54 rows).
+Translations, composers of musicals and the original authors of plays in
+translation are transcribed but not counted. The inventory now holds 6,369
+candidates (P1 876, P2 1,856, P3 3,637), 247 more than before; Larkin,
+Hansberry, Narayan, Raja Rao and Anand are now in it, while Murray, Lamming,
+Selvon and Beckett are still absent. The Governor General's winner David Walker
+is recorded as David Harry Walker (his Library of Congress heading), because the
+bare name matched the master database's abolitionist David Walker (d. 1830) and
+dropped him as a pre-1946 author. `tests/test_discovery.py` now checks every
+curated list against the inventory and the structure of the six new lists (75
+tests in all). Sources 112–117 record the lists.
+
 **Corrections to installments 8–9 (2026-11-06).** Found while building wave 05;
 each is listed with its source in section 13 of the audit report.
 - **Wells:** the duplicate record merged, his parentage corrected, and his

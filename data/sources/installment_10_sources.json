@@ -1219,5 +1219,71 @@
     "doi_or_identifier": "doi:10.33596/anth.538",
     "accessed_date": "2026-11-06",
     "reliability_notes": "Seen only as a search-result extract. Introduces a special issue arising from the 'Samuel Selvon @100' panel (Canadian Association for Postcolonial Studies, 2023); notes Ramabai Espinet's case for reconsidering An Island Is a World, Kris Singh's essay on cane in 'Cane is Bitter' and The Plains of Caroni, and Nalini Mohabir's account of Selvon's thoughts on return, including the BBC play Home Sweet India (1970)."
+  },
+  {
+    "title": "List of Sahitya Akademi Award winners for English (Wikipedia)",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikimedia Foundation",
+    "publication_year": 2026,
+    "source_type": "prize record (open encyclopedia list)",
+    "url": "https://en.wikipedia.org/wiki/List_of_Sahitya_Akademi_Award_winners_for_English",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Raw wikitext read (chunk 0 of 2, which holds the whole table from 1960 to 2011). The infobox cites the Sahitya Akademi's own award list (not consulted). All 30 awards of 1960-2000 were transcribed with the table's book category into research/installment_10/lists/sahitya_akademi_award_english_1960_2000.csv. The table has no entry for 1961-1963, 1966, 1968, 1970, 1972-1974, 1995 and 1997; whether no award was made in those years is not stated, so no rows were invented for them. Years are award years: a book can be several years older (The Guide is of 1958). Several winners are biographers or scholars (Verrier Elwin, Niharranjan Ray, Nirad C. Chaudhuri, Sarvepalli Gopal, K. R. Srinivasa Iyengar, G. N. Devy). Used for discovery only."
+  },
+  {
+    "title": "Governor General's Award for English-language fiction (Wikipedia)",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikimedia Foundation",
+    "publication_year": 2026,
+    "source_type": "prize record (open encyclopedia list)",
+    "url": "https://en.wikipedia.org/wiki/Governor_General%27s_Award_for_English-language_fiction",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Raw wikitext read for 1936-2009 (chunks 0-4 of 8); each row cites a contemporary newspaper report. Every winner of 1946-2000 and every finalist of 1979-2000 (the article says advance shortlists began in 1979 and were omitted only for 1981) was transcribed into research/installment_10/lists/governor_generals_award_english_fiction_1946_2000.csv (129 rows; no award in 1965 and 1967; two winners in 1968). The table does not mark translations. Five winners are English translations and are not used as evidence: Gabrielle Roy's The Tin Flute (1947) and Street of Riches (1957), from French (a LibraryThing author note, seen as a search extract); Germaine Guevremont's The Outlander (1950), from French, translated by Eric Sutton (Wikipedia's article on the novel, seen as a search extract); Igor Gouzenko's The Fall of a Titan (1954), from Russian, and Josef Skvorecky's The Engineer of Human Souls (1984), from Czech, both from general reference knowledge and not checked against a source in this pass. The 1952-1953 winner, whom the table calls David Walker, is recorded as David Harry Walker, the fuller form of his Library of Congress heading (LCCN n50020271, in the Post45 HathiTrust fiction metadata), because the bare name folds to the abolitionist David Walker (d. 1830) in the master database. Used for discovery only."
+  },
+  {
+    "title": "Miles Franklin Award (Wikipedia)",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikimedia Foundation",
+    "publication_year": 2026,
+    "source_type": "prize record (open encyclopedia list)",
+    "url": "https://en.wikipedia.org/wiki/Miles_Franklin_Award",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Raw wikitext read for 1957-2009 (chunks 0-2 of 13); most rows cite contemporary reports in The Canberra Times, The Age or The Sydney Morning Herald. All winners of 1957-2000 were transcribed with their publishers into research/installment_10/lists/miles_franklin_award_1957_2000.csv (45 rows: the award was withheld in 1973 and 1983; joint winners in 1962 and 2000). The article explains that the prize was dated by the year of publication to 1987 and by the year of the award from 1989, so there is no prize called 1988 although the series is unbroken; the CSV keeps the article's years. The 1995 winner is recorded as Helen Darville, the name the table links to; the book was published under the name Helen Demidenko. The shortlists in the later part of the article were not transcribed. Used for discovery only."
+  },
+  {
+    "title": "Pulitzer Prize for Drama (Wikipedia)",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikimedia Foundation",
+    "publication_year": 2026,
+    "source_type": "prize record (open encyclopedia list)",
+    "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Drama",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Raw wikitext read for 1917-2015 (chunks 0 and 2-7 of 10). The article's notes on each year's jury cite Heinz-Dietrich Fischer and Erika J. Fischer, The Pulitzer Prize Archive: Chronicle of the Pulitzer Prizes for Drama (K. G. Saur, 2008), which was not consulted. Transcribed into research/installment_10/lists/pulitzer_prize_drama_1946_2000.csv (178 rows): every result of 1946-2000 (no award in 1947, 1951, 1963, 1964, 1966, 1968, 1972, 1974, 1986 and 1997), the finalists the table gives from 1983, and the plays the notes say a jury shortlisted, recommended, considered or commended (role jury_shortlist, with the note's wording). The table lists all credited names of a musical without their roles; the CSV assigns book, lyric, composer and director roles from general reference knowledge, and composers (Richard Rodgers, Jerry Bock, Marvin Hamlisch, Bob Telson) and Michael Bennett, who conceived, directed and choreographed A Chorus Line, are not used as evidence. Gian Carlo Menotti's opera The Consul, which the 1950 jury recommended, was not transcribed. Used for discovery only."
+  },
+  {
+    "title": "King's Gold Medal for Poetry (Wikipedia; formerly Queen's Gold Medal for Poetry)",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikimedia Foundation",
+    "publication_year": 2026,
+    "source_type": "prize record (open encyclopedia list)",
+    "url": "https://en.wikipedia.org/wiki/King%27s_Gold_Medal_for_Poetry",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Raw wikitext read in full (1 chunk); the article carries a 'more citations needed' banner and gives recipients by year without titles. It says the medal was open only to British subjects living in the United Kingdom until 1985, when it was extended to the other Commonwealth realms. The 30 recipients of 1952-2000 (there is no entry between 1940 and 1952) were transcribed into research/installment_10/lists/queens_gold_medal_poetry_1952_2000.csv. Sorley MacLean (1990) wrote in Scottish Gaelic and is given priority 2; Arthur Waley (1953) is known as a translator of Chinese and Japanese literature. Used for discovery only."
+  },
+  {
+    "title": "Evening Standard Theatre Award for Best Play (Wikipedia)",
+    "author_or_editor": "Wikipedia contributors",
+    "publisher": "Wikimedia Foundation",
+    "publication_year": 2026,
+    "source_type": "prize record (open encyclopedia list)",
+    "url": "https://en.wikipedia.org/wiki/Evening_Standard_Theatre_Award_for_Best_Play",
+    "doi_or_identifier": "",
+    "accessed_date": "2026-11-06",
+    "reliability_notes": "Raw wikitext read for the 1st-56th ceremonies (chunks 0-1 of 4). The table numbers ceremonies rather than giving years; the article says the award has been presented since 1955, and its dated citations for the 47th-56th ceremonies (2001-2010) agree with year = 1954 + ceremony number, which the CSV uses. All winners of the 1st-46th ceremonies (1955-2000) were transcribed into research/installment_10/lists/evening_standard_award_best_play_1955_2000.csv (54 rows; two winners at the 11th; N/A at the 45th, 1999). For plays in translation the table names the original author and the translator (Anouilh and Lucienne Hill, 1961 and 1963; Brecht and Eric Bentley, 1962, without roles; De Filippo, and Keith Waterhouse and Willis Hall, 1973; Joshua Sobol and David Lan, 1989): original authors are not used as evidence and translators are priority 3. The table names only Christopher Fry for Tiger at the Gates (1955), his English version of Giraudoux's La guerre de Troie n'aura pas lieu (from general reference knowledge), so Fry is recorded as its translator. Used for discovery only."
   }
 ]

@@ -349,17 +349,27 @@ def main():
     L("")
     p1_missing = sorted([c for c in inv if c["priority"] == "P1" and c["status"] != "in installment 10"], key=lambda c: -int(c["evidence_count"]))
     L("Top P1 candidates not yet in installment 10 (by amount of evidence): " + "; ".join("%s (%s)" % (c["author"], c["evidence_count"]) for c in p1_missing[:60]) + ".\n")
-    L("Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered only by the Booker Prize record "
+    L("Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered by the Booker Prize record "
       "(winners and shortlists 1969–2000), the Post45 British prize data (1990–2000), the Commonwealth Writers' Prize "
       "(regional and overall winners, Best Book 1987–2000 and Best First Book 1989–2000, with the Commonwealth Short Story "
-      "Competition 1997–2000) and two publishers' series: the Heinemann African Writers Series (1962–2000; it carries no Faber, "
-      "Longman, Oxford or local-press authors, so Tutuola, for one, appears only as an anthology contributor) and the 33 titles "
-      "of the Heinemann Caribbean Writers Series that Wikipedia lists (a selection, not the series' bibliography; Lamming and "
-      "Selvon, published by Michael Joseph, Allan Wingate and MacGibbon & Kee, are absent). American writing outside the prize, "
-      "bestseller, NEA and Iowa Writers' Workshop records is not covered. British and Commonwealth poetry, drama, genre and "
-      "children's writing, South Asian writing, Caribbean writing beyond the two Heinemann and Commonwealth lists, and all "
-      "Commonwealth writing before 1962 still need inventories from other sources (see limitations). Matching is by folded "
-      "name, so two writers with the same name share one candidate row.\n")
+      "Competition 1997–2000), three national prizes (the Sahitya Akademi Award for English, 1960–2000; the Governor "
+      "General's Award for English-language fiction, 1946–2000, with finalists from 1979; the Miles Franklin Award, "
+      "1957–2000), one poetry honour (the Queen's Gold Medal for Poetry, 1952–2000), one theatre award (the Evening "
+      "Standard Award for Best Play, 1955–2000) and two publishers' series: the Heinemann African Writers Series "
+      "(1962–2000; it carries no Faber, Longman, Oxford or local-press authors, so Tutuola, for one, appears only as an "
+      "anthology contributor) and the 33 titles of the Heinemann Caribbean Writers Series that Wikipedia lists (a selection, "
+      "not the series' bibliography; Lamming and Selvon, published by Michael Joseph, Allan Wingate and MacGibbon & Kee, are "
+      "absent). American drama is covered by the Pulitzer Prize for Drama (winners, finalists from 1983 and the plays its "
+      "juries shortlisted, 1946–2000); American writing outside the prize, bestseller, NEA and Iowa Writers' Workshop records "
+      "is not covered. Still without an inventory: British poetry beyond the Gold Medal (Cholmondeley, Eric Gregory, "
+      "Whitbread and Forward prizes) and the movement anthologies; British and Irish drama beyond one award (Olivier, "
+      "Critics' Circle) and American drama beyond the Pulitzer (Tony, New York Drama Critics' Circle, Obie); Canadian poetry "
+      "and drama; Australian poetry and drama; New Zealand and South African writing; South Asian writing outside the "
+      "Sahitya Akademi list (Pakistan, Sri Lanka, the diaspora); Caribbean writing beyond the two Heinemann and Commonwealth "
+      "lists; genre and children's writing outside the Post45 data; and criticism. Matching is by folded name, so two "
+      "writers with the same name share one candidate row (the Canadian novelist the Governor General's table calls David "
+      "Walker is recorded as David Harry Walker, or the master database's abolitionist David Walker, d. 1830, would have "
+      "removed him as a pre-1946 author).\n")
     crit_present = [c for c in CRITICS if fold(c) in db_names]
     L("Part VII critics checklist: %d of %d named critics and theorists have author records (%s); missing: %s.\n"
       % (len(crit_present), len(CRITICS), ", ".join(crit_present) or "none", ", ".join(c for c in CRITICS if c not in crit_present)))

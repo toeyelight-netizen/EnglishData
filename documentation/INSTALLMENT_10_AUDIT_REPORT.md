@@ -24,16 +24,16 @@ Work verification status: partially verified 69, verified 8.
 
 ### Audit 1 — Author completeness (decade by decade)
 
-Baseline: the discovery inventory (6122 candidate authors active 1946–2000 in the peer-reviewed Post45 datasets and in lists transcribed from cited sources; see `scripts/i10_discovery.py`). An inventory row is evidence of activity, not an inclusion decision. Candidates per source (an author can have several): asian_american 359, aws 313, booker 140, cwp 99, cws 16, iowa 330, nea 2339, nyt_bestsellers 1214, playboy 584, speculative 730, uk_prizes 157, us_prizes 930.
+Baseline: the discovery inventory (6369 candidate authors active 1946–2000 in the peer-reviewed Post45 datasets and in lists transcribed from cited sources; see `scripts/i10_discovery.py`). An inventory row is evidence of activity, not an inclusion decision. Candidates per source (an author can have several): asian_american 359, aws 313, booker 140, cwp 99, cws 16, es_best_play 32, gg_fiction 89, iowa 330, miles_franklin 29, nea 2339, nyt_bestsellers 1214, playboy 584, pulitzer_drama 124, qgm_poetry 30, sahitya 30, speculative 730, uk_prizes 157, us_prizes 930.
 
 | Decade | Candidates | In installment 10 | In database, no 1946–2000 works yet | Missing | P1 missing |
 |---|---|---|---|---|---|
-| 1946-1950 | 385 | 1 | 30 | 354 | 102 |
-| 1951-1959 | 717 | 2 | 31 | 684 | 165 |
-| 1960-1969 | 1017 | 1 | 29 | 987 | 201 |
-| 1970-1979 | 1876 | 0 | 13 | 1863 | 275 |
-| 1980-1989 | 2396 | 0 | 8 | 2388 | 347 |
-| 1990-2000 | 2628 | 0 | 6 | 2622 | 391 |
+| 1946-1950 | 398 | 1 | 33 | 364 | 110 |
+| 1951-1959 | 761 | 3 | 33 | 725 | 191 |
+| 1960-1969 | 1066 | 2 | 29 | 1035 | 239 |
+| 1970-1979 | 1936 | 1 | 14 | 1921 | 323 |
+| 1980-1989 | 2465 | 0 | 8 | 2457 | 398 |
+| 1990-2000 | 2715 | 0 | 6 | 2709 | 437 |
 
 By primary tradition hint (candidates; status counts):
 
@@ -41,9 +41,11 @@ By primary tradition hint (candidates; status counts):
 |---|---|---|---|
 | Africa (AWS) | 0 | 1 | 312 |
 | Australia (Commonwealth Writers' Prize) | 0 | 0 | 16 |
+| Australia (Miles Franklin Award) | 0 | 0 | 23 |
 | Bahamas (Commonwealth Writers' Prize) | 0 | 0 | 1 |
 | Barbados (Commonwealth Writers' Prize) | 0 | 0 | 2 |
 | Canada (Commonwealth Writers' Prize) | 0 | 0 | 16 |
+| Canada (Governor General's Award) | 0 | 0 | 82 |
 | Canada (Iowa Writers' Workshop) | 0 | 0 | 7 |
 | Caribbean (CWS) | 0 | 0 | 16 |
 | China (Iowa Writers' Workshop) | 0 | 0 | 3 |
@@ -51,10 +53,12 @@ By primary tradition hint (candidates; status counts):
 | Guyana (Commonwealth Writers' Prize) | 0 | 0 | 2 |
 | India (Commonwealth Writers' Prize) | 0 | 0 | 10 |
 | India (Iowa Writers' Workshop) | 0 | 0 | 2 |
+| India (Sahitya Akademi Award) | 0 | 0 | 27 |
 | Ireland (Iowa Writers' Workshop) | 0 | 0 | 1 |
 | Jamaica (Commonwealth Writers' Prize) | 0 | 0 | 2 |
 | Kenya (Commonwealth Writers' Prize) | 0 | 0 | 1 |
 | Liberia (Iowa Writers' Workshop) | 0 | 0 | 1 |
+| London stage (Evening Standard Theatre Award) | 0 | 0 | 31 |
 | New Zealand (Commonwealth Writers' Prize) | 0 | 0 | 7 |
 | Nigeria (Commonwealth Writers' Prize) | 0 | 0 | 4 |
 | Nigeria (Iowa Writers' Workshop) | 0 | 0 | 1 |
@@ -66,16 +70,18 @@ By primary tradition hint (candidates; status counts):
 | South Africa (Commonwealth Writers' Prize) | 0 | 0 | 5 |
 | Turkey (Iowa Writers' Workshop) | 0 | 0 | 1 |
 | UK (Commonwealth Writers' Prize) | 0 | 0 | 13 |
-| UK/Commonwealth | 1 | 0 | 137 |
-| UK/Commonwealth/Irish | 4 | 0 | 67 |
-| US | 21 | 1 | 3087 |
-| US/Asian American | 3 | 0 | 290 |
-| US/popular | 21 | 1 | 954 |
-| periodical | 4 | 0 | 371 |
+| UK/Commonwealth | 1 | 0 | 134 |
+| UK/Commonwealth (Queen's Gold Medal for Poetry) | 4 | 1 | 22 |
+| UK/Commonwealth/Irish | 4 | 0 | 60 |
+| US | 20 | 1 | 3081 |
+| US (Pulitzer Prize for Drama) | 3 | 1 | 91 |
+| US/Asian American | 2 | 0 | 284 |
+| US/popular | 20 | 1 | 945 |
+| periodical | 3 | 0 | 368 |
 
-Top P1 candidates not yet in installment 10 (by amount of evidence): Dean R. Koontz (64); Stephen King (55); W. E. B. Griffin (48); Anne McCaffrey (44); Robert Penn Warren (42); Arthur C. Clarke (40); John Updike (39); R. A. Salvatore (39); Robin Cook (39); Danielle Steel (38); Robert A. Heinlein (36); John Gardner (35); Anne Rice (32); Lilian Jackson Braun (32); Isaac Asimov (31); John Cheever (31); Nora Roberts (31); L. Ron Hubbard (30); David Eddings (29); Kurt Vonnegut, Jr (28); Terry Brooks (28); Irwin Shaw (25); John Jakes (25); John Saul (25); Lawrence Sanders (25); Philip Levine (25); John Irving (24); Mark Strand (24); Michael Crichton (23); Robert Jordan (23); Timothy Zahn (23); Clive Cussler (22); Dick Francis (22); John le Carré (22); Mary Stewart (22); Taylor Caldwell (22); Frank Herbert (21); Robert B. Parker (21); Harold Robbins (20); Mary Higgins Clark (20); Robert Bly (20); Elizabeth Goudge (19); Gail Godwin (19); Jack Higgins (19); Jayne Ann Krentz (19); John O'Hara (19); Karl Shapiro (19); Doris Lessing (18); J. M. Dillard (18); Joyce Carol Oates (18); Helen MacInnes (17); James A. Michener (17); J. G. Ballard (17); Peter Straub (17); Robert Ludlum (17); Saul Bellow (17); Stephen R. Donaldson (17); Barbara Taylor Bradford (16); Brian Jacques (16); Jane Smiley (16).
+Top P1 candidates not yet in installment 10 (by amount of evidence): Dean R. Koontz (64); Stephen King (55); W. E. B. Griffin (48); Anne McCaffrey (44); Robert Penn Warren (42); Arthur C. Clarke (40); John Updike (39); R. A. Salvatore (39); Robin Cook (39); Danielle Steel (38); Robert A. Heinlein (36); John Gardner (35); Anne Rice (32); Lilian Jackson Braun (32); Isaac Asimov (31); John Cheever (31); Nora Roberts (31); L. Ron Hubbard (30); David Eddings (29); Kurt Vonnegut, Jr (28); Terry Brooks (28); Irwin Shaw (25); John Jakes (25); John Saul (25); Lawrence Sanders (25); Philip Levine (25); John Irving (24); Mark Strand (24); Michael Crichton (23); Robert Jordan (23); Timothy Zahn (23); Clive Cussler (22); Dick Francis (22); John le Carré (22); Margaret Atwood (22); Mary Stewart (22); Taylor Caldwell (22); Frank Herbert (21); Robert B. Parker (21); Harold Robbins (20); Mary Higgins Clark (20); Robert Bly (20); Elizabeth Goudge (19); Gail Godwin (19); Jack Higgins (19); Jayne Ann Krentz (19); John O'Hara (19); Karl Shapiro (19); Doris Lessing (18); J. M. Dillard (18); Joyce Carol Oates (18); Helen MacInnes (17); James A. Michener (17); J. G. Ballard (17); Peter Straub (17); Robert Ludlum (17); Saul Bellow (17); Stephen R. Donaldson (17); Barbara Taylor Bradford (16); Brian Jacques (16).
 
-Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered only by the Booker Prize record (winners and shortlists 1969–2000), the Post45 British prize data (1990–2000), the Commonwealth Writers' Prize (regional and overall winners, Best Book 1987–2000 and Best First Book 1989–2000, with the Commonwealth Short Story Competition 1997–2000) and two publishers' series: the Heinemann African Writers Series (1962–2000; it carries no Faber, Longman, Oxford or local-press authors, so Tutuola, for one, appears only as an anthology contributor) and the 33 titles of the Heinemann Caribbean Writers Series that Wikipedia lists (a selection, not the series' bibliography; Lamming and Selvon, published by Michael Joseph, Allan Wingate and MacGibbon & Kee, are absent). American writing outside the prize, bestseller, NEA and Iowa Writers' Workshop records is not covered. British and Commonwealth poetry, drama, genre and children's writing, South Asian writing, Caribbean writing beyond the two Heinemann and Commonwealth lists, and all Commonwealth writing before 1962 still need inventories from other sources (see limitations). Matching is by folded name, so two writers with the same name share one candidate row.
+Known gaps of the baseline itself: British, Irish and Commonwealth writing is covered by the Booker Prize record (winners and shortlists 1969–2000), the Post45 British prize data (1990–2000), the Commonwealth Writers' Prize (regional and overall winners, Best Book 1987–2000 and Best First Book 1989–2000, with the Commonwealth Short Story Competition 1997–2000), three national prizes (the Sahitya Akademi Award for English, 1960–2000; the Governor General's Award for English-language fiction, 1946–2000, with finalists from 1979; the Miles Franklin Award, 1957–2000), one poetry honour (the Queen's Gold Medal for Poetry, 1952–2000), one theatre award (the Evening Standard Award for Best Play, 1955–2000) and two publishers' series: the Heinemann African Writers Series (1962–2000; it carries no Faber, Longman, Oxford or local-press authors, so Tutuola, for one, appears only as an anthology contributor) and the 33 titles of the Heinemann Caribbean Writers Series that Wikipedia lists (a selection, not the series' bibliography; Lamming and Selvon, published by Michael Joseph, Allan Wingate and MacGibbon & Kee, are absent). American drama is covered by the Pulitzer Prize for Drama (winners, finalists from 1983 and the plays its juries shortlisted, 1946–2000); American writing outside the prize, bestseller, NEA and Iowa Writers' Workshop records is not covered. Still without an inventory: British poetry beyond the Gold Medal (Cholmondeley, Eric Gregory, Whitbread and Forward prizes) and the movement anthologies; British and Irish drama beyond one award (Olivier, Critics' Circle) and American drama beyond the Pulitzer (Tony, New York Drama Critics' Circle, Obie); Canadian poetry and drama; Australian poetry and drama; New Zealand and South African writing; South Asian writing outside the Sahitya Akademi list (Pakistan, Sri Lanka, the diaspora); Caribbean writing beyond the two Heinemann and Commonwealth lists; genre and children's writing outside the Post45 data; and criticism. Matching is by folded name, so two writers with the same name share one candidate row (the Canadian novelist the Governor General's table calls David Walker is recorded as David Harry Walker, or the master database's abolitionist David Walker, d. 1830, would have removed him as a pre-1946 author).
 
 Part VII critics checklist: 1 of 39 named critics and theorists have author records (F. R. Leavis); missing: Northrop Frye, Cleanth Brooks, W. K. Wimsatt, Monroe Beardsley, Lionel Trilling, Edmund Wilson, Raymond Williams, Richard Hoggart, Mikhail Bakhtin, Roland Barthes, Jacques Derrida, Michel Foucault, Jacques Lacan, Louis Althusser, Fredric Jameson, Edward Said, Hélène Cixous, Julia Kristeva, Elaine Showalter, Sandra Gilbert, Susan Gubar, Stanley Fish, Wolfgang Iser, Hans Robert Jauss, Harold Bloom, Terry Eagleton, Paul de Man, J. Hillis Miller, Gérard Genette, Wayne C. Booth, Jonathan Culler, Stephen Greenblatt, Gayatri Chakravorty Spivak, Homi K. Bhabha, bell hooks, Barbara Johnson, Judith Butler, Eve Kosofsky Sedgwick.
 
@@ -417,11 +423,17 @@ No source is attached to records wholesale. Installments 8–9 attached four gen
 - the Iowa Writers' Workshop: graduates with a library authority record, and the HathiTrust works of Workshop authors;
 - *Playboy* fiction and speculative-fiction novels, used for discovery only because the repository index does not document them.
 
-**Curated lists** in `research/installment_10/lists/` supplement the datasets; each list's source is a record in `data/sources/installment_10_sources.json`. So far there are four:
+**Curated lists** in `research/installment_10/lists/` supplement the datasets; each list's source is a record in `data/sources/installment_10_sources.json`. So far there are ten:
 - the Booker Prize winners and shortlists 1969–2000, with the 1970 "Lost Booker" shortlist and longlist (205 rows, 140 authors);
 - the Heinemann African Writers Series, 1962–2003 (641 rows);
 - the Commonwealth Writers' Prize, 1987–2000: regional and overall Best Book and Best First Book winners, and the Commonwealth Short Story Competition winners (112 rows);
-- the Heinemann Caribbean Writers Series as Wikipedia lists it (33 rows; a selection, not the series' bibliography).
+- the Heinemann Caribbean Writers Series as Wikipedia lists it (33 rows; a selection, not the series' bibliography);
+- the Sahitya Akademi Award for English, 1960–2000 (30 winners, with the book's category);
+- the Governor General's Award for English-language fiction, 1946–2000: winners, and finalists from 1979 (129 rows; five English translations transcribed but not counted);
+- the Miles Franklin Award, 1957–2000 (45 rows, with two years withheld);
+- the Pulitzer Prize for Drama, 1946–2000: winners, finalists from 1983 and the plays the juries shortlisted, recommended or considered (178 rows);
+- the Queen's Gold Medal for Poetry, 1952–2000 (30 recipients);
+- the Evening Standard Theatre Award for Best Play, 1955–2000 (54 rows; original authors of plays in translation transcribed but not counted).
 
 Each candidate is assigned to the order's decades and given a priority tier: P1 for major prizes and the most-studied or best-selling authors, P2 for other prizes, shortlists and single bestsellers, and P3 for fellowships, periodical contributors and prolific genre authors. An inventory row is evidence of activity, not an inclusion decision.
 
@@ -479,6 +491,8 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 | 2026-11-06 | Heinemann Caribbean Writers Series list: *Witchbroom* and *Aunt Jen* | Two entries in the Wikipedia table are wrong and were corrected in the transcription, with the reason in the row's notes. *Witchbroom* (1992) is credited by a grouped cell to Vanessa Spence; Wikipedia's article on Lawrence Scott lists it as his first novel (Allison & Busby, 1992; Caribbean Writers Series, 1993), so the list credits Scott. *Aunt Jen* is dated 1970; WorldCat (OCLC 51668740) and Google Books record Oxford: Heinemann, 2002, in the Caribbean Writers Series, so the list gives 2002 and Paulette Ramsay, whose only entry it was, is not a 1946–2000 candidate | Wikipedia, "Lawrence Scott"; the WorldCat and Google Books records of *Aunt Jen* (all three seen as search extracts) |
 | 2026-11-06 | Audit script, tradition counts (`scripts/audit_installment_10.py`) | `tradition()` classifies an author by the first segment of the nationality field, so an ancestry clause in that segment decided the count: the first draft of Samuel Selvon's record, "Trinidadian, of Indian and Scottish-Indian descent; …", was counted British because of "Scottish". Ancestry clauses are now removed before matching, Selvon's field follows the "Nationality; description" form of the other records, and `tests/test_audit_tradition.py` covers both cases. No committed report was affected | — |
 | 2026-11-06 | Samuel Selvon (wave 08) | Recorded from reference sources. He is in no inventory: the Booker and Commonwealth Writers' Prize lists record no book of his, and Wikipedia's selection from the Caribbean Writers Series lists none, although Heinemann reissued *Turn Again Tiger* (1979) and *Moses Ascending* (1984); whether in the series was not checked. Not a correction of earlier data, but further evidence for limitation 2 | Selvon sources (section 14) |
+| 2026-11-06 | Discovery inventory, national, poetry and drama prizes (fourth pass) | Six lists were transcribed from Wikipedia's raw wikitext into `research/installment_10/lists/`: the Sahitya Akademi Award for English (30 rows), the Governor General's Award for English-language fiction (129), the Miles Franklin Award (45), the Pulitzer Prize for Drama (178), the Queen's Gold Medal for Poetry (30) and the Evening Standard Award for Best Play (54). Winners are P1; Governor General's finalists, Pulitzer finalists and jury-shortlisted plays, and the book writers and lyricists of winning musicals P2; translators of Evening Standard winners P3; translations, composers, the original authors of plays in translation and years without an award are transcribed but not counted. Result: 6,369 candidates (P1 876, P2 1,856, P3 3,637), against 6,122. Candidates per list, with those in no other source: Pulitzer drama 124 (82), Governor General's 89 (74), Evening Standard 32 (22), Sahitya Akademi 30 (24), Gold Medal 30 (23), Miles Franklin 29 (20). Philip Larkin and Lorraine Hansberry, recorded in waves 02–03 from reference sources, are now in the inventory, and so are R. K. Narayan, Raja Rao and Mulk Raj Anand. The output is identical under three hash seeds (md5 `f05d4dc7d82b53d9ecd15f4c443864e7`) | The six Wikipedia lists (section 14) |
+| 2026-11-06 | Governor General's list: David Walker | The table's 1952 and 1953 winner "David Walker" folds to the abolitionist David Walker (d. 1830), whose master-database record made the inventory drop him as a pre-1946 author (the run reported 18 such removals instead of 17). He is recorded as David Harry Walker, the fuller form of his Library of Congress heading (LCCN n50020271), and a test now fails if a counted author of any curated list is missing from the inventory | Post45 HathiTrust fiction metadata (LC heading "Walker, David Harry, 1911-") |
 
 ## 14. Sources consulted
 
@@ -523,6 +537,13 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
   - Post45 Data Collective, Iowa Writers' Workshop (Kelley, White and Glass; doi:10.18737/CNJV1733p4520210415).
   - Wikipedia, "Commonwealth Foundation prizes" (raw wikitext, all seven chunks), whose tables cite the Commonwealth Foundation's list of regional winners 1987–2007 (an archived PDF, not consulted). Points to check: Olive Senior is listed under Canada (1987), Lindsey Collen under Mauritius in 1994 and South Africa in 2005; there is no African selection for the 1996 Best Book or the 1989 Best First Book; the 1998 short-story winner has no title.
   - Wikipedia, "Heinemann Caribbean Writers Series" (raw wikitext, read in full), which quotes Anthony van der Vlies in *The Oxford Companion to the Book* (2010; not consulted): the series was founded in 1970 on the model of the African Writers Series, and Michael Anthony's *The Year in San Fernando* was its first title. Its table of 33 titles is a selection. Two entries were corrected from other sources (section 13): Wikipedia's article on Lawrence Scott and the WorldCat and Google Books records of *Aunt Jen*, all seen as search extracts. The genre given for Michael Anthony's *Cricket in the Road* comes from a grouped cell and was not checked.
+  - Six prize lists, all from Wikipedia's raw wikitext (fourth pass), each with a source record giving the chunks read and the defects found:
+    - "List of Sahitya Akademi Award winners for English" (the table runs 1960–2011 in the chunk read; no entries for eleven years before 2000, and no rows were invented for them);
+    - "Governor General's Award for English-language fiction" (rows cite contemporary newspaper reports; the table does not mark translations, which were identified from a Wikipedia article and a LibraryThing note seen as search extracts, and for Gouzenko and Skvorecky from general reference only);
+    - "Miles Franklin Award" (rows cite *The Canberra Times*, *The Age* and *The Sydney Morning Herald*; the dating convention changed between 1987 and 1989; shortlists not transcribed);
+    - "Pulitzer Prize for Drama" (its jury notes cite Fischer and Fischer, *The Pulitzer Prize Archive*, 2008, not consulted; the roles of musical collaborators were assigned from general reference knowledge);
+    - "King's Gold Medal for Poetry" (formerly the Queen's Gold Medal; a "more citations needed" banner, and no titles);
+    - "Evening Standard Theatre Award for Best Play" (ceremony numbers only; years derived as 1954 plus the ceremony number, which the article's dated citations for 2001–2010 bear out).
 - **Wave 07 (Lamming):**
   - Wikipedia (raw wikitext, read in full): "George Lamming", "In the Castle of My Skin", "The Emigrants (Lamming novel)"; Encyclopaedia Britannica, "George Lamming";
   - Gale entries compiled on Encyclopedia.com: *Contemporary Black Biography* (James M. Manheim), *Contemporary Novelists* (bibliography and Gerald Moore's essay on all six novels), the *Encyclopedia of African-American Culture and History* (in part), and *Novels for Students* on *In the Castle of My Skin*, whose chapter-by-chapter plot summary was read in full;
@@ -541,7 +562,7 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 
 ## 15. Remaining limitations and unresolved issues
 
-1. **Coverage is at the very beginning.** Installment 10 holds 77 works by 8 authors: waves 01–04 (Ellison, Larkin, Hansberry and Murray), wave 05 (Orwell, whose record belongs to installment 9), wave 06 (Amos Tutuola, the first author from outside the British and American traditions), wave 07 (George Lamming, the first Caribbean author) and wave 08 (Samuel Selvon, the first Indo-Caribbean author). The discovery baseline lists 6,122 candidate authors, and the movement, genre and theme taxonomies are defined, but almost all of the reconstruction is still to do.
+1. **Coverage is at the very beginning.** Installment 10 holds 77 works by 8 authors: waves 01–04 (Ellison, Larkin, Hansberry and Murray), wave 05 (Orwell, whose record belongs to installment 9), wave 06 (Amos Tutuola, the first author from outside the British and American traditions), wave 07 (George Lamming, the first Caribbean author) and wave 08 (Samuel Selvon, the first Indo-Caribbean author). The discovery baseline lists 6,369 candidate authors, and the movement, genre and theme taxonomies are defined, but almost all of the reconstruction is still to do.
 2. **Gaps in the baseline itself.** The Post45 datasets are overwhelmingly American, and their British data begin in 1990. The Booker list now covers British, Irish and Commonwealth *novels* from 1969, but only novels by Commonwealth and Irish citizens; it contains no poetry, drama or criticism.
    - **Evidence:** none of the three authors added in waves 02–04 was in the inventory: Larkin (poetry), Hansberry (drama) and Murray (criticism and jazz writing). The inventory therefore cannot serve as the denominator of completeness for poetry, drama or criticism.
    - **Further evidence (wave 06):** Amos Tutuola is not in the inventory either, although the movement taxonomy dates African literature in English from his first book (1952). The prize-based baseline misses African, Caribbean and South Asian writing before the Booker list begins in 1969. A publishers'-series inventory (for example Heinemann's African Writers Series) and the national bibliographies are needed for those traditions.
@@ -549,12 +570,13 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
    - **Further evidence (wave 07):** George Lamming is in no inventory. Caribbean and South Asian writing before 1969 still has no list; the Heinemann Caribbean Writers Series and national bibliographies are the next candidates.
    - **Caribbean and Commonwealth lists added (2026-11-06):** the Commonwealth Writers' Prize (Best Book 1987–2000, Best First Book 1989–2000 and the short-story winners; 99 candidates) and Wikipedia's selection from the Heinemann Caribbean Writers Series (33 titles; 16 candidates of 1946–2000). Neither reaches the 1950s and 1960s well: the prize begins in 1987, and the series table names neither Lamming nor Selvon.
    - **Further evidence (wave 08):** Samuel Selvon is in no inventory either. Caribbean writing of the 1950s and 1960s, and all South Asian writing, still need lists: a bibliography of West Indian fiction (Kenneth Ramchand's *The West Indian Novel and Its Background*, 1970, is one to check), the Sahitya Akademi Award for English and the national bibliographies.
+   - **National, poetry and drama lists added (2026-11-06, fourth pass):** the Sahitya Akademi Award for English (1960–2000), the Governor General's Award for English-language fiction (1946–2000), the Miles Franklin Award (1957–2000), the Pulitzer Prize for Drama (1946–2000), the Queen's Gold Medal for Poetry (1952–2000) and the Evening Standard Award for Best Play (1955–2000); 247 new candidates. Larkin and Hansberry are now in the inventory, and South Asian writing in English has a first list (Narayan, Raja Rao and Anand are P1). Still absent: Albert Murray (criticism), George Lamming and Samuel Selvon (Caribbean fiction of the 1950s) and Samuel Beckett, so the baseline is still not a denominator for criticism, Caribbean writing before 1987 or drama beyond two awards. Each list is a record of honours, so it adds the honoured, not the minor and small-press writers the order also asks for.
    - **Planned inventories:**
-     - Whitbread from 1971, the Hawthornden Prize, the James Tait Black and Somerset Maugham awards, the Cholmondeley Award, the Queen's Gold Medal for Poetry, and the Carnegie and Kate Greenaway Medals;
-     - the Governor General's Awards, the Miles Franklin Award, the New Zealand book awards, the Sahitya Akademi Award for English and the Noma Award (the Commonwealth Writers' Prize is done);
-     - the Hugo, Nebula, Edgar, CWA Dagger, Newbery, Caldecott, Lambda, New York Drama Critics' Circle, Tony and Olivier awards;
+     - Whitbread from 1971, the Hawthornden Prize, the James Tait Black and Somerset Maugham awards, the Cholmondeley and Eric Gregory Awards, and the Carnegie and Kate Greenaway Medals;
+     - the Governor General's Awards for poetry and drama, the New Zealand book awards, South African prizes and the Noma Award (the Commonwealth Writers' Prize, the Governor General's fiction award, the Miles Franklin and the Sahitya Akademi Award are done);
+     - the Hugo, Nebula, Edgar, CWA Dagger, Newbery, Caldecott, Lambda, New York Drama Critics' Circle, Tony, Obie and Olivier awards (the Pulitzer drama prize and the Evening Standard award are done);
      - the movement anthologies: *New Lines*, *The New American Poetry*, *Black Fire*, *Aiiieeeee!*, *The Mersey Sound*, *Mirrorshades*, *In the American Tree* and Granta 8.
-3. **Name variants and namesakes in the inventory.** Surname-first forms are now converted and Iowa middle-initial variants merged (section 13), but other variants remain, for example "Angela Thirkell" and "Angela Mackail Thirkell", and "Ogawa, Ai" beside "Ai". Names are folded only by punctuation and accents, so variants are merged by hand when a wave reaches them. The reverse also happens: two writers with the same name share one row. "David Cook" joins the editor of three Makerere anthologies in the African Writers Series with a 1977 E. M. Forster Award winner, who is not shown to be the same person.
+3. **Name variants and namesakes in the inventory.** Surname-first forms are now converted and Iowa middle-initial variants merged (section 13), but other variants remain, for example "Angela Thirkell" and "Angela Mackail Thirkell", and "Ogawa, Ai" beside "Ai". Names are folded only by punctuation and accents, so variants are merged by hand when a wave reaches them. The reverse also happens: two writers with the same name share one row. "David Cook" joins the editor of three Makerere anthologies in the African Writers Series with a 1977 E. M. Forster Award winner, who is not shown to be the same person. A namesake in the master database can also remove a candidate: the Canadian novelist David Walker would have been dropped as the abolitionist David Walker (d. 1830) had he not been recorded under his fuller name (section 13).
 4. **Translated foreign authors** (for example Camus and Moravia) appear among the bestsellers. They are out of scope unless they are theorists covered by Part VII.
 5. **Partial verification.**
    - The 43 work records of waves 01–05 are *partially verified*: their bibliographic facts were checked, but their plot and critical texts were not checked against a source in this pass.
@@ -621,7 +643,7 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 - the strict build path and checks;
 - the record constructors;
 - taxonomy: the 1946–2000 period, 69 movements, 181 genres in 10 families, and 33 themes;
-- the discovery inventory: 6,122 candidates, including the Booker, African Writers Series, Iowa Writers' Workshop, Commonwealth Writers' Prize and Caribbean Writers Series supplements, with names in natural order and reproducible output;
+- the discovery inventory: 6,369 candidates, including the Booker, African Writers Series, Iowa Writers' Workshop, Commonwealth Writers' Prize, Caribbean Writers Series, Sahitya Akademi, Governor General's (fiction), Miles Franklin, Pulitzer (drama), Queen's Gold Medal and Evening Standard supplements, with names in natural order and reproducible output;
 - the audit script with the coverage matrix and this report;
 - waves 01–05:
   - Ralph Ellison: 7 works, including *Trading Twelves* with Murray;
@@ -637,14 +659,15 @@ Each candidate is assigned to the order's decades and given a priority tier: P1 
 - wave 06: Amos Tutuola, all 11 books of 1952–1990 and the first author from an "other English-language" tradition. Audit: other traditions 0 → 1; genre checklist 36 → 42 of 161.
 - wave 07: George Lamming, the first Caribbean author: all six novels (1953–1972) and three books of essays (1960, 1992, 1995). Audit: other traditions 1 → 2; genre checklist 42 → 45 of 161.
 - wave 08: Samuel Selvon: all ten novels (1952–1983), *Ways of Sunlight*, the two books of plays and *Foreday Morning*. Audit: other traditions 2 → 3; genre checklist 45 → 47 of 161. The Commonwealth Writers' Prize and Caribbean Writers Series lists were added to the inventory at the same time.
+- the fourth inventory pass: six national, poetry and drama prize lists (Sahitya Akademi, Governor General's fiction, Miles Franklin, Pulitzer drama, Queen's Gold Medal, Evening Standard best play), 247 new candidates.
 
 **Next, in order:**
-1. **Inventories for poetry, drama and the Commonwealth.** The gap in point 2 comes first: a South Asian list (the Sahitya Akademi Award for English) and a bibliography of West Indian fiction for the 1950s and 1960s, the Governor General's and Miles Franklin awards, the poetry and drama prizes (the Queen's Gold Medal for Poetry, the New York Drama Critics' Circle, Tony and Olivier awards), and the movement anthologies.
+1. **Remaining inventories.** The Sahitya Akademi, Governor General's (fiction), Miles Franklin, Pulitzer (drama), Queen's Gold Medal and Evening Standard lists are done. Still to do: a bibliography of West Indian fiction for the 1950s and 1960s (Ramchand, 1970), the Governor General's poetry and drama awards, the Tony, New York Drama Critics' Circle and Olivier awards, the Cholmondeley and Eric Gregory awards, the New Zealand and South African prizes, the movement anthologies, and a criticism list. These can be interleaved with the waves rather than all done first.
 2. **Waves by decade × tradition × genre.** Work from P1 downwards. Each wave is built, imported and audited before the next starts. Planned order:
    - complete the Movement (Amis, Wain, Jennings, Conquest, Enright, Davie, Gunn, Holloway) and the Angry Young Men;
    - 1950s American: the Beats, confessional poetry and Jewish American fiction;
    - post-war drama;
-   - African, Caribbean and South Asian founders: begun with Tutuola (wave 06), Lamming (wave 07) and Selvon (wave 08); Cyprian Ekwensi next, then Gabriel Okara, R. K. Narayan, Mulk Raj Anand and Raja Rao. Caribbean and South Asian authors are absent from the inventory (§15 point 2), so they are chosen from the reference sources until a series or national-bibliography inventory exists;
+   - African, Caribbean and South Asian founders: begun with Tutuola (wave 06), Lamming (wave 07) and Selvon (wave 08); Cyprian Ekwensi next, then Gabriel Okara, R. K. Narayan, Mulk Raj Anand and Raja Rao. Narayan, Raja Rao and Anand now have Sahitya Akademi evidence (P1), and Ekwensi and Okara African Writers Series evidence (P2); Caribbean authors of the 1950s and 1960s are still absent from the inventory (§15 point 2), so they are chosen from the reference sources until a bibliography inventory exists;
    - then on through the 1960s–1990s, with genre fiction, children's literature and criticism and theory interleaved.
 3. **Earlier-installment authors.** Add the 1946–2000 works of Beckett, Tolkien, Rhys, Welty, Auden, Isherwood, Brooks, Christie, Marsh (19 novels of 1947–1982 and the autobiography *Black Beech and Honeydew*, 1965) and others through extensions.
 4. **Installments 8–9.** Check every title against an external bibliography (a fabricated title was found) and every plot against a source, starting with the later installment 9 batches, and check first-edition dates against US-first publication. `scripts/i08_i09_check_queue.py` writes the order of work to `research/installment_10/i08_i09_check_queue.csv`:

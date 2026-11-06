@@ -95,6 +95,11 @@ class AfricanWritersSeriesListTest(unittest.TestCase):
         self.assertEqual(missing, set(), sorted(missing)[:10])
 
 
+def _list(fname):
+    with open(os.path.join(ROOT, "research", "installment_10", "lists", fname), encoding="utf-8") as fh:
+        return list(csv.DictReader(fh))
+
+
 class CuratedListsTest(unittest.TestCase):
     def test_every_role_is_counted_or_skipped(self):
         for fname, spec in d.CURATED.items():
@@ -118,13 +123,11 @@ class CuratedListsTest(unittest.TestCase):
                          "Commonwealth Writers' Prize, Best Book, Canada and the Caribbean (regional winner): Myal")
 
 
-    def test_commonwealth_and_caribbean_authors_are_in_the_inventory(self):
+    def test_curated_authors_are_in_the_inventory(self):
         with open(INVENTORY, encoding="utf-8") as fh:
             datasets = {r["key"]: set(r["datasets"].split("; ")) for r in csv.DictReader(fh)}
-        for fname in ("commonwealth_writers_prize_1987_2000.csv", "heinemann_caribbean_writers_series.csv"):
-            spec = d.CURATED[fname]
-            with open(os.path.join(ROOT, "research", "installment_10", "lists", fname), encoding="utf-8") as fh:
-                rows = list(csv.DictReader(fh))
+        for fname, spec in d.CURATED.items():
+            rows = _list(fname)
             missing, outside = set(), set()
             for r in rows:
                 year = d.year(r["year"])
@@ -135,14 +138,67 @@ class CuratedListsTest(unittest.TestCase):
                 for name in names:
                     if spec["dataset"] not in datasets.get(d.fold(name), set()):
                         missing.add(name)
-            # Every counted author in the period carries the list's dataset label ...
+            # Every counted author in the period carries the list's dataset label (David
+            # Harry Walker would be dropped as the abolitionist David Walker, d. 1830) ...
             self.assertEqual(missing, set(), (fname, sorted(missing)[:10]))
-            # ... and an author with no counted entry does not (Paulette Ramsay's
-            # Aunt Jen is of 2002, not of 1970 as the source table says).
+            # ... and an author with no counted entry does not (Paulette Ramsay's Aunt Jen
+            # is of 2002, not of 1970 as the source table says; Gabrielle Roy's
+            # Governor General's Awards were for translations).
             counted = {d.fold(n) for r in rows for n in (d.split_credit(r["author"]) if r["author"] else [])
                        if r["role"] not in spec.get("skip", ()) and d.year(r["year"]) and 1946 <= d.year(r["year"]) <= 2000}
             for key in outside - counted:
                 self.assertNotIn(spec["dataset"], datasets.get(key, set()), (fname, key))
+
+    def test_national_prize_lists(self):
+        def by_year(rows, roles):
+            out = {}
+            for r in rows:
+                if r["role"] in roles:
+                    out.setdefault(int(r["year"]), []).append(r)
+            return out
+        sahitya = _list("sahitya_akademi_award_english_1960_2000.csv")
+        years = [int(r["year"]) for r in sahitya]
+        self.assertEqual(len(years), len(set(years)))           # one winner a year, 30 awards to 2000
+        self.assertEqual(len(years), 30)
+        self.assertEqual((sahitya[0]["author"], sahitya[0]["title"]), ("R. K. Narayan", "The Guide"))
+        self.assertTrue({r["category"] for r in sahitya} <= {"Novel", "Poetry", "Biography", "Autobiography",
+                                                             "Essays", "Drama"})
+        gg = _list("governor_generals_award_english_fiction_1946_2000.csv")
+        top = by_year(gg, {"winner", "winner_translation", "no_award"})
+        self.assertEqual(sorted(top), list(range(1946, 2001)))  # every year has a result
+        self.assertEqual(sorted(y for y, v in top.items() if len(v) > 1), [1968])
+        self.assertEqual(sorted(top[y][0]["role"] for y in (1965, 1967)), ["no_award", "no_award"])
+        finalists = by_year(gg, {"finalist"})
+        self.assertEqual(min(finalists), 1979)                   # shortlists announced from 1979 ...
+        self.assertNotIn(1981, finalists)                        # ... except for 1981
+        miles = _list("miles_franklin_award_1957_2000.csv")
+        mf = by_year(miles, {"winner", "withheld"})
+        self.assertEqual(sorted(mf), [y for y in range(1957, 2001) if y != 1988])
+        self.assertEqual(sorted(y for y, v in mf.items() if v[0]["role"] == "withheld"), [1973, 1983])
+        self.assertEqual(sorted(y for y, v in mf.items() if len(v) > 1), [1962, 2000])
+        pd = _list("pulitzer_prize_drama_1946_2000.csv")
+        result = by_year(pd, {"winner", "winner_musical_book_or_lyrics", "no_award"})
+        self.assertEqual(sorted(result), list(range(1946, 2001)))
+        self.assertEqual(sorted(y for y, v in result.items() if v[0]["role"] == "no_award"),
+                         [1947, 1951, 1963, 1964, 1966, 1968, 1972, 1974, 1986, 1997])
+        self.assertEqual(min(by_year(pd, {"finalist"})), 1983)
+        qgm = _list("queens_gold_medal_poetry_1952_2000.csv")
+        self.assertEqual(len({r["year"] for r in qgm}), len(qgm))
+        es = _list("evening_standard_award_best_play_1955_2000.csv")
+        self.assertTrue(all(int(r["year"]) == 1954 + int(r["ceremony"]) for r in es))
+        self.assertEqual({int(r["ceremony"]) for r in es}, set(range(1, 47)))
+
+    def test_labelled_evidence(self):
+        es = d.CURATED["evening_standard_award_best_play_1955_2000.csv"]
+        row = next(r for r in _list("evening_standard_award_best_play_1955_2000.csv") if r["title"] == "The Caretaker")
+        self.assertEqual(es["evidence"](row), "Evening Standard Theatre Award for Best Play (winner, ceremony 6): The Caretaker")
+        qgm = d.CURATED["queens_gold_medal_poetry_1952_2000.csv"]
+        row = next(r for r in _list("queens_gold_medal_poetry_1952_2000.csv") if r["author"] == "Sorley MacLean")
+        self.assertEqual(qgm["evidence"](row), "Queen's Gold Medal for Poetry (recipient; a poet in Scottish Gaelic)")
+        self.assertEqual(qgm["priority"][row["role"]], 2)
+        sa = d.CURATED["sahitya_akademi_award_english_1960_2000.csv"]
+        row = _list("sahitya_akademi_award_english_1960_2000.csv")[0]
+        self.assertEqual(sa["evidence"](row), "Sahitya Akademi Award for English (winner, novel): The Guide")
 
 
 class InventoryTest(unittest.TestCase):
